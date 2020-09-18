@@ -6877,7 +6877,7 @@
         context. 在特定的上下文中立即一个短语的含义往往要更容易些. 
     + What is the meaning of the word in this context? 
         在这种语境下, 这个单词的意思是什么？
-- **deprecate ['deprɪkeɪt]**  vt.反对, 不赞成
+- **deprecate ['deprɪkeɪt]  --vt.反对, 不赞成**
 - **comment ['kɒment] --n.评论, 注释  --v.评论；注释**
     + Comment is needless. 解释是不必要的. 
     + add comments or explanations. 加注释或说明. 
