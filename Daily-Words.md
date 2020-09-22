@@ -25,6 +25,22 @@
 # 2020 Year
 
 ## 2020-09
+### 2200922
+- **bit [bɪt] --n.(二进制) 位, 比特; 少量. --adj.很小的; 微不足道的.**
+  **--vt.控制. --adv.相当; 有点儿. --v.咬(bite 的过去式和过去分词)**
+    + 1Byte = 8 bit. 1字节 = 8 比特(位)
+    + a bit(n) of paper. 纸片
+    + come to bits(n) 破成碎片
+    + a bit of land. 一小块土地.
+    + He knows a little bit of everything. 他什么都知道一点点.
+- **byte [baɪt] --n.[计]字节; 8位元组**
+    + That is the address in memory in the heap of the first byte that
+      the user typed in. 那是用户输入的第一个字节在内存中堆的地址.
+    + Every byte in memory has to have an "address" for a process to
+      be able to locate it. 内存中的每一个字节都必须有一个 "地址",
+      以便让进程可以找到它.
+
+
 ### 20200916
 - **cream [] --**
 - **jam [] --**
