@@ -25,7 +25,10 @@
 # 2020 Year
 
 ## 2020-09
-### 2200922
+### 20200923
+- How do the eyes see things? 眼睛是如何看到东西的?
+
+### 20200922
 - **bit [bɪt] --n.(二进制) 位, 比特; 少量. --adj.很小的; 微不足道的.**
   **--vt.控制. --adv.相当; 有点儿. --v.咬(bite 的过去式和过去分词)**
     + 1Byte = 8 bit. 1字节 = 8 比特(位)
@@ -39,7 +42,6 @@
     + Every byte in memory has to have an "address" for a process to
       be able to locate it. 内存中的每一个字节都必须有一个 "地址",
       以便让进程可以找到它.
-
 
 ### 20200916
 - **cream [] --**
