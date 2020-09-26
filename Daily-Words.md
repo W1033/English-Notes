@@ -25,6 +25,35 @@
 # 2020 Year
 
 ## 2020-09
+### 20200926
+- **fair [] --**
+    + Paul doesn't know if he'll attend the book fair tonight, 
+- **recorder [] --**
+    + From his hotel room he spells notes to the recorder and sets
+      the state for another type of party.
+      在他的旅馆房间里, 他将笔记拼写到录音机上, 为另一种聚会打下基础.
+- **fantasy [] --**
+- **imaginary [ɪ'mædʒɪn(ə)rɪ] --adj.假想的, 虚构的**  {repeat 02}
+    + Complex numbers consist of real and imaginary numbers.
+        复数由实数和虚数组成
+    + an imaginary enemy 假想敌
+    + an imaginary number 虚数
+    + an imaginary adversary 假想敌人
+    + A fantasy of many, the story of no one... when it comes to
+      imaginary. 许多人的幻想, 一个人的故事... 关于虚构的故事, 我们要判断谁?
+- **consent [] --**
+- **deliberate [] --**
+- **fictional**
+    + All actors in this short film are consenting adults who are deliberately interpreting fictional scenes. 
+- **theatrical [] --**
+    + Some of the actions seen in this film can be theatrical.
+- **preservative [] --**
+    + The use of preservatives is optional whereas all actors are tested
+      or under treatment. 
+- **strangle [] --**
+    + Finally I strangle him.
+
+
 ### 202020923
 - **sincere [] --**
 
@@ -3783,12 +3812,6 @@
         汤姆, "男人"这个词的复数形式是什么？
     + We use "those" and "these" with plural nouns.
         我们用 "those" and "these" 去修饰复数名词. 
-- **imaginary [ɪ'mædʒɪn(ə)rɪ] --adj.假想的, 虚构的**  {repeat 02}
-    + Complex numbers consist of real and imaginary numbers.
-        复数由实数和虚数组成
-    + an imaginary enemy 假想敌
-    + an imaginary number 虚数
-    + an imaginary adversary 假想敌人
 - **adversary ['ædvəs(ə)rɪ] --n.对手, 敌人**
      He struck down an adversary. 他打到了一个对手. 
 - **quarter ['kwɔːtə] --n.四份之一, 一刻钟.  --v.四等分.  --adj.四分之一的** 
