@@ -25,6 +25,15 @@
 # 2020 Year
 
 ## 2020-09
+### 20200927
+- **suffocate /'sʌfəkeɪt/ --vt&vi.(使某人)窒息而死, (将某人)闷死. --vi.呼吸困难, 窒息.**
+    + She was suffocated(vt) by the smoke. 她被烟呛的透不过来气.
+- **pillow ['pɪləʊ] --n.枕头; 靠枕. --vt.将<头>置[于...上], 将<头>枕[于...上]**
+    + Do not use a pillow under your head. 不要枕枕头.
+    + She pillowed(vt) his head in her lap (/on her arm).
+      她把他的头枕在她的膝上(/手臂上).
+- **phonic [] --**
+
 ### 20200926
 - **fair [] --**
     + Paul doesn't know if he'll attend the book fair tonight, 
@@ -53,12 +62,9 @@
 - **strangle [] --**
     + Finally I strangle him.
 
-
 ### 202020923
-- **sincere [] --**
-
-### 20200923
 - How do the eyes see things? 眼睛是如何看到东西的?
+- **sincere [] --**
 
 ### 20200922
 - **bit [bɪt] --n.(二进制) 位, 比特; 少量. --adj.很小的; 微不足道的.**
