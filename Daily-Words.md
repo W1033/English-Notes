@@ -1,11 +1,6 @@
 # 每日单词 Daily words
 
-### Note: 英式发音/美式发音 不同写法
-- `e` = `ɛ`(哎)
-- a [ə]/[e]. --art
-- `eɪ` = `e`
-    +  permutation [pɜːmjʊ'teɪʃ(ə)n] / ['pɝmjʊ'teʃən] --n.排列; 置换.
-- [ɪ] ("一")
+### 全局提示: 
 - 关于名词, 只标注部分 "不可数" 的, 可数名词默认不做标注, 由于笔记做的时间不一,
   2020 之前的笔记, 都没有标注.
 
@@ -26,22 +21,27 @@
 
 ## 2020-09
 ### 20200927
-- **suffocate /'sʌfəkeɪt/ --vt&vi.(使某人)窒息而死, (将某人)闷死. --vi.呼吸困难, 窒息.**
+- **suffocate ['sʌfəkeɪt] --vt&vi.(使某人)窒息而死, (将某人)闷死.**
+  **--vi.呼吸困难, 窒息.**
     + She was suffocated(vt) by the smoke. 她被烟呛的透不过来气.
-- **pillow ['pɪləʊ] --n.枕头; 靠枕. --vt.将<头>置[于...上], 将<头>枕[于...上]**
+- **pillow ['pɪləʊ] --n.枕头; 靠枕.**
+  **--vt.将<头>置[于...上],将<头>枕[于...上]**
     + Do not use a pillow under your head. 不要枕枕头.
     + She pillowed(vt) his head in her lap (/on her arm).
       她把他的头枕在她的膝上(/手臂上).
-- **phonic [] --**
+- **phonic ['fəʊnɪk]/['fɑnɪk] --adj.语音的; 声音的.**
 
 ### 20200926
-- **fair [] --**
-    + Paul doesn't know if he'll attend the book fair tonight, 
-- **recorder [] --**
+- **fair [feə]/[fɛr] --adj.公平的; 公正的. --n.博览会; 集市.**
+  **--adv.公平地;直接地**
+    + Paul doesn't know if he'll attend the book fair(n) tonight,
+      保罗不知道今晚是否要参加书展,
+- **recorder [rɪ'kɔːdə] --n.录音机, 录像机.**
     + From his hotel room he spells notes to the recorder and sets
       the state for another type of party.
       在他的旅馆房间里, 他将笔记拼写到录音机上, 为另一种聚会打下基础.
-- **fantasy [] --**
+- **fantasy ['fæntəsɪ] --n.幻想; 梦幻; 空想.**
+    + Was it real or just my fantasy? 这是真的吗, 或者只是我的幻觉?
 - **imaginary [ɪ'mædʒɪn(ə)rɪ] --adj.假想的, 虚构的**  {repeat 02}
     + Complex numbers consist of real and imaginary numbers.
         复数由实数和虚数组成
@@ -50,21 +50,57 @@
     + an imaginary adversary 假想敌人
     + A fantasy of many, the story of no one... when it comes to
       imaginary. 许多人的幻想, 一个人的故事... 关于虚构的故事, 我们要判断谁?
-- **consent [] --**
-- **deliberate [] --**
-- **fictional**
-    + All actors in this short film are consenting adults who are deliberately interpreting fictional scenes. 
-- **theatrical [] --**
+- **consent [kən'sent] --vi.同意; 赞成. --n.<不可数名词>同意,许可,赞成.**
+    + He consented(vi) to the divorce. 他同意离婚.
+    + I won't consent(vi) to her come home. 我不同意让她回家.
+    + He gave his consent(n) to the proposal. 他同意该提案.
+    + I never consented(vi) to any of it. 我从未同意这么做过.
+    + Well, I suppose I must give my consent. 好吧, 我想我必须同意.
+- **divorce [dɪ'vɔːs]/[dɪ'vɔrs] --n.离婚; 脱离.**
+  **--vt.使离婚; 使分离; 与...离婚. --vi.离婚.**
+    + Divorce(n) is becoming commoner. 离婚变成愈来愈稀松平常.
+    + Mrs. Cook divorced(vt) her husband. 库克夫人与丈夫离婚了.
+    + They are divorced(vt). 他们离婚了.
+    + They have got divorced(vt). 它们已经离婚了.
+    + But they were divorced(vt) or divorcing. 不过他们已经离婚了,
+      或者是正在办离婚.
+    + He has been divorced(vi) for a year. 他已经离婚一年了. 
+- **deliberate [dɪ'lɪb(ə)rət]/[dɪ'lɪbərət] --adj.深思熟虑的; 故意的.**
+  **--vt.商议,商讨; 推敲. --vi.慎重考虑[关于...]**
+    + deliberate careful. 仔细的; 审慎的.
+    + take time to deliberate 做事要深思熟虑.
+    + a deliberate(adj) lie. 故意的扯谎.
+    + He is deliberate(adj) in speaking(/action).
+      他说话(/行动)很慎重.
+    + We are still deliberating(vt) the plan. 我们还在商议该计划.
+    + They were deliberating(vt) how it should be done.
+      他们在慎重考虑如何去做那件事.
+    + He deliberated(vi) upon the matter. 他仔细斟酌该问题.
+- **fictional ['fikʃənl] --adj.虚构的; 小说的.**
+    + Almost all fictional detectives are unreal. 几乎所有小说里的侦探都是虚构的.
+    + All actors in this short film are consenting adults who are deliberately interpreting fiction scenes.
+      这部短片中的所有演员都同意成年人在故意解释小说场景.
+- **theatrical [θɪ'ætrɪk(ə)l] --n.戏剧;戏. --adj.戏剧化**
     + Some of the actions seen in this film can be theatrical.
-- **preservative [] --**
+      这部电影中看到的一些动作可能是戏剧性的.
+    + theatrical performance. n.戏剧表演
+- **preservative [prɪ'zɜːvətɪv] --n.防腐剂. --adj.有保护能力的.**
     + The use of preservatives is optional whereas all actors are tested
-      or under treatment. 
-- **strangle [] --**
+      or under treatment.
+      防腐剂("特指 sex 之前的安全措施")的使用时可选的, 而所有参与者都经过测试或接受治疗.
+- **strangle ['stræŋg(ə)l] --vt.扼死; 使窒息. --n.绞杀**
     + Finally I strangle him.
+    + I could cheerfully have strangled her. 我真想掐死她.
 
 ### 202020923
 - How do the eyes see things? 眼睛是如何看到东西的?
-- **sincere [] --**
+- **sincere [sɪn'sɪə] --adj.真诚的; 诚挚的; 诚恳的; 真挚的.**
+    + He is sincere in his promises. 他遵守自己的诺言.
+    + She is sincere and quite without affectation.
+      她为人诚恳, 毫不矫揉造作.
+- **affectation [æfek'teɪʃ(ə)n] --n.假装; 做作.**
+    + I wore sunglasses all the time and people thought it was an
+      affectation.  我一直戴着墨镜, 别人认为是做作.
 
 ### 20200922
 - **bit [bɪt] --n.(二进制) 位, 比特; 少量. --adj.很小的; 微不足道的.**
@@ -136,14 +172,15 @@
 - **flattery ['flætəri] --n.阿谀; 奉承.**
     + I'm sure no one wants to hear any more of this flattery.
       我敢肯定, 没有人想再听到这种奉承的话了.
-- **intimidate [] --**
-- **homophobic [] --**
+- **intimidate [ɪn'tɪmɪdeɪt] --vt.威吓(hè); 恐吓(hè); 威逼.**
+    + He was intimidated into silence. 他受到威胁而不敢作声.
 - **Lithuania [ˌliθju:'einiə] --n.立宛淘**
 - **bisexual [ˌbaɪ'sɛkʃuəl] --adj.两性的; 双性恋的.**
     + bisexual harmony. 两性和谐.
     + bisexual differences. 性别差异.
     + He said you are bisexual. 他说你是双性恋.
-- **sculpture**
+- **sculpture ['skʌlptʃə] --n.雕刻,雕塑. --vt&vi.雕刻,雕塑.**
+    + His sculpture of a horse won first prize. 他雕塑的一匹马获得一等奖.
     + So will you make that sculpture of me, if I place an order?
 
 ### 20200828
@@ -185,7 +222,7 @@
       我不曾有机会见到他.
     + His impolite remarks occasioned(vt) the quarrel.
       他无礼的话引起争吵.
-- **quarrel ['kwɔrəl]  --n.吵架; 争吵; 口角. --vi.争吵; 争辩.**
+- **quarrel ['kwɔrəl]  --n.吵架, 争吵, 口角. --vi.争吵,争辩.**
     + have a quarrel(n) with. ...与...吵架[吵嘴]
     + It takes two to make a quarrel. (谚)拌嘴也的要两个人.
 - **noun [naʊn] --n.名词**
