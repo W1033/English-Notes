@@ -6291,7 +6291,7 @@
     + insight into 深刻理解
     + insight control 洞察管理技术
     + Well.Nat. What's your insight into outside 
-      [competition [kɒmpɪ'tɪʃ(ə)n/ --n.比赛, 竞争]?
+      [competition /kɒmpɪ'tɪʃ(ə)n/ --n.比赛, 竞争]?
        嗯, 奈特, 你对外部竞争有什么观点？
     + But first ... I had this insight into you. 但首先...我看穿了你这一点. 
 - **exception [ɪk'sepʃ(ə)n]  --n.例外**
