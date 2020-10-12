@@ -23,8 +23,29 @@
 
 ## 2020-10
 ### 20201012
-- **idioms [] --**
-    + The 800 most commonly used idioms in America. 美国 800 种最常见的成语.
+- **idiom `[ˈɪdiəm]` --n.成语,习语; 土语.**
+    + The 800 most commonly used idioms in America. 美国最常用的 800 个成语.
+    + English idioms. 英语成语.
+    + He has a peculiar idiom. 他有独特的习惯用语.
+- **peculiar `[pɪˈkjuːliə]`/`[pɪˈkjuːliər]`**
+- **accompany `[əˈkʌmpəni]` --vt.陪伴; 伴随; 陪同**
+    + She was accompanied by her (elder) sister. 她由姐姐陪伴著她.
+    + She accompanied him to the gate. 她陪他到门口.
+    + Lighting was accompanied with thunder. 雷电交加. 
+    + June accompanies. 与君相随.
+    + Love accompanies. 爱相随.
+- **violent `/ˈvaɪələnt/` --adj.暴力的; 猛烈的; 剧烈的; 狂暴的**
+    + a violent earthquake [storm]. 强烈的地震 [暴风雨].
+    + a violent blow [attack]. 猛打 [攻].
+    + make violent efforts. 发奋努力.
+    + He has a history of violent crime. 他有暴力犯罪的前科.
+- **prince `/prɪns/` --n.王子, 国君; 亲王; 贵族.**
+    + The little prince. 小王子.
+    + Prince Charming. 白马王子; 黑马王子.
+    + crown prince. 皇太子; 皇储.
+- **collocation `/ˌkɒləˈkeɪʃən $ ˌkɑː-/` --**
+    + 
+
 
 ### 20201011
 - **tongue `[]` --**
@@ -2702,8 +2723,8 @@
       这是我个人表演的首场演出
 
 ------
-------
 
+------
 
 # 2019 Year
 ## 2019-12
@@ -4022,7 +4043,7 @@
 - **centralize `[ˈsentrəˌlaɪz]` --vt.(使)集中; 使集权.  --vi.集中, 中央集权**
 - **perforce `[pə'fɔːs]` --adv.必然地；不得已**
     + When a horse is shot, the man on the horseback perforce falls down.
-        马被击中时, 马背上的人必然会跌落下来. 
+      马被击中时, 马背上的人必然会跌落下来. 
 
 ### 20190827
 - PC users, please ignore this piece and don't make fun of us.

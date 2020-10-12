@@ -138,7 +138,15 @@
 
 
 ## 2. Pronunciation workshop 15 节课所讲内容.
-- 第一节课: r / w / q 的发音.
+- 第一节课: r / w 的发音.
+  
+  Well, Q sounds are made with the /k/ sound and the W sound /w/ put
+  together, Q = KW. for example: Quick`/kwɪk/` = KWick
+    + question`/'kwestʃ(ə)n/`
+
+
+
+
 - 第二节课: 清音和浊音.
   
   重点: s 和 z 区别.
