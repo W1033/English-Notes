@@ -11,9 +11,6 @@
     + the state of your project, 先翻译 of 后面的名词, 再加上前面的修饰.
       => 翻译为: "你项目的状态"
 
-- I know very little of the outside world. But it seems to me, the greed
-  of men is not that different from the Tao Tei.
-  我对外面的世界了解不多. 但是在我看来, 人类与饕餮的贪婪并无区别. 
 - The strong take what they want. 弱肉强食.
 
 
@@ -22,6 +19,66 @@
 # 2020 Year
 
 ## 2020-10
+### 20201014
+- **vocal `/ˈvəʊkəl`/|`/ˈvoʊkəl/` --n.浊音. --adj.声音的; 直言不讳的.**
+    + vocal(adj) music. 声乐.
+    + She was a vocal opponent of the plan. 他是这个计划的强烈反对者.
+    + Voicing is when your vocal cords are vibrating in your throat,
+      creating a "buzzing sound".
+      发声是指您的声带在喉咙中振动时, 发出 "嗡嗡声".
+- **cord `/kɔːd/`|`kɔːrd/` --n.绳,绳子; 羁绊,束缚[of]; "解剖"索状组织,腱,勒带**
+    + a length of (nylon) cord. 一条(尼龙)绳子.
+    + the cords of love. 爱的羁绊.
+    + the spinal cord. 脊髓
+    + the vocal cords. 声带
+- **opponent `/əˈpəʊnənt/`|`/əˈpoʊ-/ ` --n.对手; 反对者; 敌手.**
+   **--adj.对立的; 敌对的.**
+    + Most often our most challenging opponents(n) is ourselves.
+      很多时候, 最具挑战性的对手是我们自己.
+    + Rodgers was not an opponent of the new airport.
+      罗杰斯并不反对建设新机场.
+
+
+### 20201013
+- **instructor `[ɪnˈstrʌktə]` --n.讲师; 教练; 教员; 辅导员.**
+    + a driving instructor. 驾驶教练.
+    + ski instructors. 滑雪教练.
+- **paragraph `[ˈpærəɡrɑːf]`/`[ˈpærəɡræf]` --n.段,段落**
+    + paragraph practice 段落练习
+    + the opening paragraphs of the novel. 小说开篇的几个段落.
+- **cover `['kʌvə(r)`/`['kʌvər]` --n.盖子; 遮盖物; 罩子; 封面;**
+  **--vt.覆盖; 涉及; 包含... --vi.略**
+    + Snow covered(vt) the ground. 雪覆盖地面.
+    + His shoes were covered(vt) with [in] dust. 他的鞋子盖满灰尘.
+    + She covered(vt) her face with her hands. 她双手掩面.
+    + Much of the country is covered(vt) by forest.
+      森林覆蓋著這個國家的大片土地.
+    + a plastic cover(n). 塑料蓋.
+    + A dust cover(n) hung over the painting. 這幅畫上掛著防塵罩.
+    + His photo's on the cover of 'Newsweek' again.
+      他的照片又登上《新闻周刊》的封面了.
+    + I read the magazine **from cover to cover**(= all of it).
+      我把这本杂志从头到尾看了一遍.
+    + The covers had slipped off in the night. 夜里被子从床上滑了下来.
+- **session `/ˈseʃən/` --n.一场,一节,一段时间; 会议; 会话; 学期,学年.**
+    + question-and-answer sessions. 问答时间
+    + The training session lasted for two hours. 训练持续了两个小时.
+    + The course is made up of 12 two-hour sessions.
+      这门课总共上了 12 次, 每次两小时.
+    + We have both elementary and advanced training sessions.
+      我们由初级和高级培训课程.
+    + session layer. 会话层
+    + The court is now **in session**(= meeting). 法庭现在正在开庭.
+- **throughout `` --**
+    + 
+- **involve `` --**
+    + 
+- **spontaneous `` --**
+- **mumble `` --**
+- **techniques `` --**
+- **distinct `` --**
+- **exaggerate `` --**
+
 ### 20201012
 - **idiom `[ˈɪdiəm]` --n.成语,习语; 土语.**
     + The 800 most commonly used idioms in America. 美国最常用的 800 个成语.
@@ -46,13 +103,25 @@
 - **collocation `/ˌkɒləˈkeɪʃən $ ˌkɑː-/` --**
     + 
 
-
 ### 20201011
-- **tongue `[]` --**
-- **voicing `[]` --**
+- **tongue `[]` --n**
+- **voice `/vɔɪs/` --n.语音; 声音; 呼声; 发言权. --vt.表达; 吐露**
+    + He recognized her voice instantly. 他立刻听出了她的声音.
+    + He has a good voice. 他的声音很好.
+    + I heard the children's voices at the back of the house.
+      我听到从屋后传来孩子们的声音.
+    + My inner voice told me to be cautious. 我内心有个声音告诉我要小心谨慎.
+    + She angrily voiced(vt) her objections. 她愤怒地表达了自己的反对.
+    + A number of parents have voiced(vt) concern about their
+      children's safety. 一些家长对他们子女的安全表示了担心.
+- **objection `/əbˈdʒekʃən/` --n.反对; 异议; 缺陷; 缺点.**
+    + I feel a strong objection to sitting up late. 我很讨厌(反对)熬夜.
+    + I'd like to come too, if you have no objection.
+      如果你不反对, 我也想来.
+    + No objection. 没有异议.
+- **voicing `/ˈvɔɪsɪŋ/` --n.发声; --vt.说出,表达; 调音.(voice 的现在分词)**
 - **compensate `[]` --**
     + I will compensate you   
-- ****
 
 ### 20201009
 - **thesaurus `[]` --**
@@ -708,7 +777,7 @@
 - **diphthong `['dɪfθɒŋ]` --n.双元音**
     + a diphthong. 双元音
     + Is a diphthong, and therefore is not divide. 是双元音, 所以不能分开.
-- **consonant `['kɒns(ə)nənt]/['kɑnsənənt]` --n.辅音; 子音.**
+- **consonant `['kɒns(ə)nənt]/['kɑːnsənənt]` --n.辅音; 子音.**
   **--adj.一致的; 符合的.**
     + a consonant letter. 子音字母.
     + Almost every language has an O vowel, a K consonant, and an
@@ -2165,7 +2234,7 @@
     + unary form. 一元形式
     + unary relation. 一元关系
     + Unary Code. 一元编码
-- **plain `[plen]{US} --adj.朴素的; 朴实的; 平的; 简单的. --n.平原**
+- **plain `[pleɪn]` --adj.朴素的; 朴实的; 平的; 简单的. --n.平原**
     + is plain text element. 是纯文本元素.
     + plain water. 纯净水.
     + a plain man. 平凡的人.
@@ -5672,9 +5741,9 @@
 - **collaborate `[kə'læbəreɪt]` --vi.合作, 串通  --n.合作者, 协作者**
     + collaborate on a book with sb. 与某人合著一本书. 
     + He would be forced to collaborate willy-nilly.
-        无论是否愿意, 他都得合作. 
-- **willy-nilly `['wili'nili]` --adv.不管愿不愿意地, 乱七八糟地**
-     --adj.不管愿不愿意的, 混乱的, 慌张的
+      无论是否愿意, 他都得合作. 
+- **willy-nilly `[wɪli ˈnɪli ]` --adv.不管愿不愿意地, 乱七八糟地**
+  **--adj.不管愿不愿意的, 混乱的, 慌张的**
    + Hmmmm... We can't hand out extensions willy-nilly. 嗯... 我们不能随便延期的. 
 - **strip `[strɪp]` --vt.剥夺, 剥去.  --n.条, 带.  --vi.脱去衣服**
     + a strip of paper, strips of beef. 一张纸条；一片牛肉. 
