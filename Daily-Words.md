@@ -19,6 +19,20 @@
 # 2020 Year
 
 ## 2020-10
+### 20201025
+- **split `[splɪt]` --vt.分离; 使分离; 劈开; 离开. --vi.离开; 被劈开; 断绝关系. --n.裂口,裂缝; 分裂,分歧;**
+    + split(vt) logs. 劈开圆木.
+    + The gale split(vt) the sails. 强风把帆扯破.
+    + split(vt) a board in two. 把木板劈成两半.
+    + a debate that has split(vt) the country down the middle. 
+      使全国分成两大派的一场争论.
+    + Let's split(vt)! 咱们快走吧.
+    + This wood splits(vi) easily. 这种木材容易裂开.
+    + The ship suddenly split(vi) in two. 那艘船突然裂成两半.
+    + The party split(vi) on the issue. 该党因那个问题而分裂.
+    + There's a big split(n) in the tent. 帐篷上撕了一个大口子.
+    + He demanded a 50-50 split(n) in the profits. 他要求利润对半分成.
+
 ### 20201014
 - **vocal `/ˈvəʊkəl`/|`/ˈvoʊkəl/` --n.浊音. --adj.声音的; 直言不讳的.**
     + vocal(adj) music. 声乐.
@@ -379,10 +393,16 @@
     + I must say you are very good at expressing things. Interjections
       are very useful indeed! 
       我必须说, 你很擅长表达. 感叹词真的非常有用!
+- **preposition `[ˌprepəˈzɪʃən]` --n.介词; 前置词**
+    + Decide which preposition you need to finish this sentence.
+      决定你需要哪一个介词来完成这个句子.
+    + We often use it with a preposition. 我们常带上一个介词来使用它.
+    + Preposition are words that show direction, position or time.
+      介词是指表明方向, 位置或时间的单词.
 - **pronoun `['pronaʊn]` --n.<语>代词**
     + Okay? You don't have to use the personal pronoun.
       明白了吗? 你不必使用人称代词.
-    + relative pronoun. `[语]关系代词
+    + relative pronoun. [语]关系代词
 - **participle `['pɑrtə'sɪpl]` --n.<语>分词**
     + That's it. "Seen" is actually a past participle. 
       那就对了. Seen 其实是过去分词.
