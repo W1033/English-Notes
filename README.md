@@ -86,6 +86,10 @@ LDOCE5最令人感动的地方是：单词的例句都是带有发音的！这�
 
 除了上面提到的几个功能之外，词典还有语料库（里面有大量例句），用法指示等功能，LDOCE5 是一个资源宝库，值得我们好好探索。
 
+<img src="./images-english-notes/LDOCE6.png"
+    style="border-radius: 4px; width: 66%;
+        box-shadow: 1px 1px 3px 2px #e5e5e5">
+
 #### (2) Macmillan English Dictionary for Advanced Learners (麦克米伦高阶英语词典)
 
 《麦克米伦高阶英语词典》有两个特点，一个是采用红色星号标注词频，它用一、二、三个不等的红色星号来标示其使用频率的高低（一二三星词汇加起来一共有7500个，三星词汇出现频率最高，一星最少）。另一个是带有大量的短语搭配。
