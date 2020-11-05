@@ -16,9 +16,99 @@
 
 
 
+- ** `` --**
+- ** `` --**
+- ** `` --**
+
+
+
 # 2020 Year
 
+## 2020-11
+### 20201104
+- **presidential `/ˌprezɪˈdenʃəl/` --adj.总统的; 首长的.**
+    + Presidential Election Results. 总统大选结果.
+    + presidential government. 总统制.
+    + presidential candidate. 总统候选人.
+    + Editors at The New York Times will take into account a number of factors before declaring a winner, including race calls made by The Associated Press and Edison Research, as well as analysis of the votes that have been reported so far. Given the changes in voting methods this yar it may not be possible to declare a winner in a number of key states on election night.
+    《纽约时报》的编辑在宣布获胜者之前将考虑许多因素, 包括美联社和爱迪生研究中心进行的比赛电话, 以及对迄今为止报道的选票的分析. 鉴于目前这种投票方法的变化, 在选举之夜可能无法宣布多个关键州的获胜者.
+- **election `/ɪ'lekʃ(ə)n/` --n.选举**
+    + Within three months`/mʌnθs/` of being elected to an official
+      position. 他当选后不到三个月就被迫辞职.
+    + In America, presidential elections are held every four years.
+      美国每四年矩形一次总统选举.
+    + Who did you vote for in the last election? 上次选举中你把票投给了谁?
+- **candidate `/ˈkændədeɪt/` --*n.候选人,候补者; 应试者.**
+    + a presidential candidate. 总统候选人.
+    + There are only three candidates for the job. 这份工作只有三个人申请.
+- **remaining `/rɪˈmeɪnɪŋ/` --adj.剩余的; 留下的; 其余的.**
+    + The only remaining question is whether we can raise the money.
+      唯一剩下的问题, 就是我们能否筹到这笔钱.
+    + The few remaining guests were in the kitchen.
+      留下没走的几位客人都在厨房里.
+    + Add the remaining ingredients and simmer for 30 minutes.
+      加入余下的配料, 用文火炖 30 分钟.
+- **raise `/reɪz/` --vt.提出; 提高; 升起,举起; 募集; 抚养. --n.上升; 增高.**
+    + Can you raise(vt) the lamp so I can see? 你能举起灯让我看到吗?
+    + William raised(vt) his hat and smiled at her.
+      威廉抬了一下帽子, 朝她笑笑.
+    + Many shops have raised(vt) their prices. 很多商店都提价了.
+    + He was born and raised in a country town. 他在乡间城镇出生并长大.
+    + salary raise(n). 加薪.
+- **ingredient `/ɪnˈɡriːdiənt/` --n.成分; 配料; 原料; 因素,要素.**
+    + Combine all the ingredients in a large bowl`/bol/`.
+      把所有的材料放在大碗里拌匀.
+    + The food is home-cooked using fresh ingredients.
+      食物是用新鲜的材料在家里做的.
+    + the ingredients of a cake. 蛋糕的原料
+    + the essential ingredients for success. 成功的基本要素
+- **simmer `/ˈsɪmə/` --vt&vi.[用文火]慢慢地煮,煨,炖**
+    + Bring the soup to the boil and allow it to simmer gently for about
+      half an hour. 把汤煮开, 然后用文火炖半个小时左右.
+    + He was left simmering with rage. 留下他怒火中烧.
+- **phrasal `/ˈfreɪzəl/` --adj.短语的, 习惯用语的, 成语的.**
+    + phrasal verb. 短语动词.
+    + Check Up On is a phrasal verb.
+      *Check Up On(检查,核查,校对)*是个动词短语.
+
+### 20201102
+- **compulsory `[kəmˈpʌlsəri]` --adj.义务的; 必须的; 被强制的.**
+    + compulsory education. 义务教育
+    + compulsory course. 必修课
+    + compulsory execution. 强制性执行
+    + a compulsory subject. (英)必修科目
+    + nine-year compulsory education. 九年制义务教育
+- **junior `[ˈdʒuːniə]` --adj.初级的; 年少的. --n.年少这,较年轻的.**
+    + junior school 小学.
+    + junior hight (school) 初中
+    + a junior doctor. 初级医师.
+    + the junior classrooms 低年级教室.
+    + the second semester of my junior year. 我三年级的第二个学期.
+- **semester `/səˈmestə/` --n.[尤指美国中学和大学]一学期, 半学年**
+    + the fall semester. 秋季学期.
+- **senior `/'siːnɪə/` --adj.[地位, 水平或级别]较高的, 高级的.**
+  **--n.年长者; 前辈,上司; (美)(大学, 高中的)最高年级学生; (英)高年级生**
+    + senior high (school) 高中.
+    + senior middle school. 高中
+    + Going from junior high school to senior high school is a really
+      big challenge`/'tʃælɪndʒ/`. 从初中过渡到高中真是一项巨大的挑战.
+        - Going from junior high school to senior high school.
+          在句中作主语. 英语中, 当动词或动词短语用作主语时, 可以使用动词 `-ing`
+          形式。如:
+            + Seeing is believing.[谚] 百闻不如一见.
+            + Reading outside school is necessary and important in learning English. 课外阅读对于英语学习既必要又重要
+
+
 ## 2020-10
+### 20201030
+- **ultimate `/ˈʌltəmət/` --adj.最终的,终极的,最后的,结局的; 最高的,最大的.**
+    + man's ultimate end. 人生的终极目标.
+    + one's ultimate destination. 最后目的地
+    + the ultimate facts of nature. 大自然的终极事实.
+    + the ultimate speed. 最高速度.
+    + We will accept ultimate responsibility for whatever happens.
+      無論出什麼事, 我們願承擔全部責任.
+
 ### 20201025
 - **split `[splɪt]` --vt.分离; 使分离; 劈开; 离开. --vi.离开; 被劈开; 断绝关系. --n.裂口,裂缝; 分裂,分歧;**
     + split(vt) logs. 劈开圆木.
@@ -83,8 +173,12 @@
       我们由初级和高级培训课程.
     + session layer. 会话层
     + The court is now **in session**(= meeting). 法庭现在正在开庭.
-- **throughout `` --**
-    + 
+- **throughout `/θruːˈaʊt/` --adv.自始至终; 遍及. --prep.自始至终; 遍及.**
+    + The house was painted white throughout(adv). 这所房子全部粉刷成了白色.
+    + They export their products to markets throughout the world.
+      他們把產品出口到世界各地的市場.
+    + The museum is open daily throughout the year.
+      這個博物館一年到頭每天都開放.
 - **involve `` --**
     + 
 - **spontaneous `` --**
@@ -95,7 +189,8 @@
 
 ### 20201012
 - **idiom `[ˈɪdiəm]` --n.成语,习语; 土语.**
-    + The 800 most commonly used idioms in America. 美国最常用的 800 个成语.
+    + The 800 most commonly used idioms in America`/ə'merikə/`.
+      美国最常用的 800 个成语.
     + English idioms. 英语成语.
     + He has a peculiar idiom. 他有独特的习惯用语.
 - **peculiar `[pɪˈkjuːliə]`/`[pɪˈkjuːliər]`**
@@ -253,24 +348,45 @@
       以便让进程可以找到它.
 
 ### 20200916
-- **cream `[]` --**
-- **jam `[]` --**
+- **cream `[kriːm]` --n.[uncountable]奶油; 膏; 面霜; 乳剂.**
+  **--adj.乳白的; 乳白; 奶油的. --vt.使成奶油状.**
+    + Ice cream. 冰淇淋
+    + Eye cream. 眼霜
+    + fresh cream(n). 鲜奶油
+    + strawberries and cream(n). 脚奶油的草莓.
+    + sun cream(n). 防晒霜
+    + face cream(n). 面霜
+- **jam `/dʒæm/` --n.果酱; 干扰. --v.**
+    + strawberry jam. 草莓酱
+    + Sorry we're late. We got stuck in a traffic jam.
+      对不起, 我们来晚了, 路上堵车.
 - And the only thing people regret is that they don't live boldly
   enough, that they don't invest enough heart, didn't love enough.
   人们唯一遗憾的是, 他们没有足够勇敢地生活, 没有投入足够的心力, 爱的不够刻骨铭心.
-
+- **regret `/rɪˈɡret/` --n.抱歉; 遗憾. --vt.后悔; 遗憾.**
+    + He felt (a) great regret(n) at having spent his time in that way.
+      他很后悔那样地浪费了时间.
 
 ### 20200908
-- **flatten `[]` --**
-    + 
+- **flatten `[ˈflætn]` --vt.把..弄平<out>. --vi.略**
+    + He flattened(vt) out the bent plate. 他把弯曲的金属板弄平.
+    + Using a rolling pin to flatten the dough. 用面杖把面团平.
 
 ### 20200906
-- **eligible `[]` --**
-    + You're eligible for free return shipping, Purchase Protection,
-      and more.
-- **novice `[]` --**
-    + I am a novice
-
+- **eligible `[ˈelɪdʒəbl]` --adj.合格的; 有资格的.**
+    + You're eligible for free return shipping. 您有资格获得免费退货运输.
+    + Over 500,000 18-year-olds will become **eligible to vote** this year.
+      今年会有超过 50 万年满 18 岁的人有资格参加投票.
+- **novice `['nɑvɪs]`{US} --n.新手,生手; 初学者.**
+    + I am a novice. 我是个新手
+    + The computer course is ideal for novices. 这门计算机课程非常适合初学者.
+    + I'm still a complete novice at the sport.
+      对于这项运动我还完全是个新手.
+- **ideal `/ˌaɪˈdɪəl/` --n.理想; 志向. --adj.完美的; 理想的.**
+    + the ideal(n) of a free and democratic society. 自由民主社会的理想.
+    + a man of ideals(n). 理想家[主义者]
+    + an ideal husband. 理想的丈夫.
+    + The weather is ideal for a picnic. 这是外出野餐的理想天气.
 
 ## 2020-08
 ### 20200830
@@ -357,7 +473,7 @@
       我不曾有机会见到他.
     + His impolite remarks occasioned(vt) the quarrel.
       他无礼的话引起争吵.
-- **quarrel `['kwɔrəl]`  --n.吵架, 争吵, 口角. --vi.争吵,争辩.**
+- **quarrel `['kwɔrəl]` --n.吵架, 争吵, 口角. --vi.争吵,争辩.**
     + have a quarrel(n) with. ...与...吵架[吵嘴]
     + It takes two to make a quarrel. (谚)拌嘴也的要两个人.
 - **noun `[naʊn]` --n.名词**
@@ -373,6 +489,14 @@
     + the verb is in the plural. 这个动词为复数形式.  
       *plural['plʊər(ə)l]` --n.复数. --adj.复数的*
     + the verbs are all in the present. 所有动词都是现在时.
+- **intransitive `[ɪn'trænsətɪv]` --adj.不及物的**
+    + intransitive verbs. 不及物動詞.
+    + The verb 'die' as in 'He died suddenly', is intransitive.
+      He died suddenly 中的動詞 die 是不及物的.
+    + The verb is being used intransitively.
+      這個動詞此處作為不及物動詞使用.
+- **transitive `['trænsətɪv]` --adj.及物的; 传递的; 过渡的**
+    + a transitive verb = a verb transitive. 及物动词.
 - **adjective `['ædʒɪktɪv]` --adj.形容词**
     + What does that mean? - It's an adjective. 什么意思? - 是一个形容词
     + an adjective clause. 形容词从句.
@@ -1237,7 +1361,7 @@
 - working on. --致力于; 作用于;
     + I've started working on a helper library for FLIP. 
       我已经开始为 FLIP 致力于(开发)一个帮助文档.
-    + You've got[/ɡɑt/{US}]` talent, keep on working on it.
+    + You've got[/ɡɑt/{US}] talent, keep on working on it.
       你有才华, 请继续努力.
 - at work on. --adv.从事于
     + One day, Lu Ban was at work on a mountain.
@@ -1247,11 +1371,11 @@
     + on hard work. 在艰苦的工作; 勤奋工作
     + check on work attendance. 考勤.
 - **attendance `[ə'tɛndəns]{US} --n.出席; 考勤; 参加.**
-    + There was a large[small]` attendance at the ceremony.
+    + There was a large[small] attendance at the ceremony.
       参加典礼的人数很多[少]
     + Attendance at the meeting is compulsory. 会以是必须参加的.
     + Attendance at the meeting is mandatory. 出席会以是必要的.
-- **ceremony `['sɛrə'moni]` --n.典礼; 仪式; 礼仪.**
+- **ceremony `[ˈserəmoʊni]` --n.典礼; 仪式; 礼仪.**
     + a wedding ceremony. 结婚典礼
     + Please don't stand on ceremony. 请不要拘礼(客气)
     + Today's ceremony, however, has very special meaning.
@@ -1529,6 +1653,8 @@
     + in account(n) with... 与...有账目往来.
     + They accounted(vt) themselves happy. 他们认为自己幸福.
     + There is no accounting(vi) for tastes. (谚)人各有所好.
+    + Editors at The New York Times will take into account a number of factors before declaring`/dɪ'kleə/` a winner.
+      《纽约时报》的编辑在宣布获胜者之前将考虑许多因素.
 - **personally `['pɜːs(ə)n(ə)lɪ]` --adv.亲自地; 就个人而言.**
     + personally speaking. 就个人来说, 就自己而言.
     + But what can you do personally? 不过你个人能做什么?
@@ -1671,7 +1797,7 @@
     + Yes, that's good for our pronunciation too. 是的, 这有助于我们发音. 
     + What about reading aloud to practice pronunciation? 
       大声朗读来练习发音怎么样？
-- **behavioral `[bi'heivjərəl]` (读作: `bi hei 为鹅若`)--adj.行为的，动作的**
+- **behavioral `[bi'heivjərəl]` (读作: `bi hei 为鹅若`)--adj.行为的, 动作的**
     + behavioral model. 行为模式
     + But we can make behavioral changes to avoid that.
       但是我们能改变行为, 以避免这种情况.
@@ -1694,7 +1820,7 @@
     + for a duration of ten minutes. 十分钟的时间.
 - **period `['pɪərɪəd]` --n.时期, 周期** {repeat02}
 - **adolescence `[ædə'les(ə)ns]` --n.<不可数>青春期; 青春**
-- **cubic `['kjuːbɪk]` --adj.立方体的，立方的**
+- **cubic `['kjuːbɪk]` --adj.立方体的, 立方的**
     + cubic content. 容积; 体积.
     + a cubic equation. 三次方程
     + The volume of this container is 1000 cubic metres.
@@ -2509,7 +2635,7 @@
     + scamper(vi) about. (来)去, 跳来跳去
     + The mouse scampered (away) to its hole. 那只老鼠迅速逃入洞中.
     + have a scamper(n). <小孩, 狗等>跳来跳去, (来)去
-- **critical `['krɪtɪk(ə)l]`  --adj.临界的; 严重的; 批评的; 危急的**
+- **critical `['krɪtɪk(ə)l]` --adj.临界的; 严重的; 批评的; 危急的**
     + critical changes. 关键变化
     + critical error. 关键错误.
     + We are at a critical time in history. 我们正处在历史的危急时刻. 
@@ -4150,7 +4276,16 @@
     + the top commenter, a bottom-pinner,    
 - **forgiveness `[fə'gɪvnɪs]` --n.原谅; 宽恕; 饶恕**
     + literally asks for forgiveness. 字面上要求宽恕. 
-- It boils down to three points. 
+- **boil `[bɔɪl]` --vt*vi.(使)沸腾,煮沸,烧开;**
+  **--vi.<水等>涌出,喷出; [因愤怒等而]激昂[with] --n.沸腾,煮沸**
+    + Boiling(vt) the meat for some time. 把肉煮一段时间.
+    + Don't boil(vt) the egg too hard. 别把鸡蛋煮太硬.
+    + She boiled(vt) me an egg for breakfast. 她为我煮一个蛋做早餐.
+    + The water is boiling(vi). 水在开.
+    + Don't let the kettle boil(vi) dry. 不要让茶壶里面的水烧干.
+    + That makes my blood boil(vi). 那件事使我怒火中烧.
+    + I was boiling(vi) with rage. 我气得火冒三丈.
+    + It *boils down(摘要,归纳,浓缩[to])* to three points. 可以归结为三点.
 - **slither `['slɪðə]` --v.(使)滑行；(使)滑动**
     + They slither wildly as they slip away across the universe.
         它们不收拘束的滑动着, 就像它们正漫步域星辰间. 
@@ -4378,7 +4513,7 @@
         你已决定要做什么来谋生了吗？
 
 ### 20190813 
-- **exponential `[ˌekspə'nenʃ(ə)l]`  --n.指数.  --adj.指数的** {repeat 2}
+- **exponential `[ˌekspə'nenʃ(ə)l]` --n.指数.  --adj.指数的** {repeat 2}
     + Exponential growth. 指数生长
     + exponential function 指数函数
 - **polynomial `[ˌpɒlɪ'nəʊmɪəl]` --adj.多项式的. --n.多项式**
@@ -4491,7 +4626,7 @@
 - **snapshot `['snæpʃɒt]` --n. 快照**
     + So what can we gather from this snapshot? 
         我们能从这张快照中收集到什么信息呢?   
-- **buffer `['bʌfə]`  --n.缓冲区, 缓冲器.  --vt.缓冲**
+- **buffer `['bʌfə]` --n.缓冲区, 缓冲器.  --vt.缓冲**
     + Buffer Pool 缓冲池
     + What is this buffer and why do we require it? 
         这是什么缓冲, 我们为什么需要它？
@@ -4733,7 +4868,7 @@
     + formal language 形式语言 
 
 ### 20190723
-- **algorithm `['ælgərɪð(ə)m]`  --n.算法**
+- **algorithm `['ælgərɪð(ə)m]` --n.算法**
     + mathematics and algorithm  数学和算法
     + a basic algorithm for division. 除法基本法则. 
 - **differential `[['dɪfə'rɛnʃəl]]` --n.[数]微分, 差别.  --adj.差别的, 微分的**
@@ -4839,7 +4974,7 @@
     + random matrices 随机矩阵
 - **sphere `[sfɪə]` --n.球, 领域, 球面, 范围**
     + The earth, sun, and moon are spheres. 地球, 太阳和月亮都是球形. 
-- **duplicate `['duplɪket]`  --v.重复, 复制.  --adj.复制, 复写. --n.副本, 复制品**
+- **duplicate `['duplɪket]` --v.重复, 复制.  --adj.复制, 复写. --n.副本, 复制品**
     + duplicate copy 副本, 复制本
     + de-duplicate hooks 重复数据删除钩子
     + duplicate file 备份文件
@@ -4918,7 +5053,7 @@
     + a quick-release button. 快速释放按钮. 
     + a pre-release version of the software. 该软件的预发行版本. 
     + His release from prison took place yesterday. 他昨天被释放出狱. 
-- **tiny `['taɪnɪ]`  --adj.微小的, 很小的.  --n.小孩子**
+- **tiny `['taɪnɪ]` --adj.微小的, 很小的.  --n.小孩子**
 - **routine `[ruː'tiːn]` --n.常规, 例行, 惯例.  --adj.例行**
     + a routine day. 平淡的一天
     + master routine. 主程序
@@ -4985,14 +5120,14 @@
 - **undeclared `[ˈʌndiˈklɛəd]` --<计>未声明的, 未经宣布的, 不公开的.**
     + undeclared war. 不宣而战的战争. 
     + an undeclared war. 未正式宣布的战争. 
-- **exponential `[ˌekspə'nenʃ(ə)l]`  --n.指数. --adj.指数的**
+- **exponential `[ˌekspə'nenʃ(ə)l]` --n.指数. --adj.指数的**
     + Exponential growth. 指数生长
     + exponential function 指数函数
-- **void `[vɒɪd]`  --adj.空的, 无效的  --n.空间, 空虚  --vt.使无效, 废止**
+- **void `[vɒɪd]` --adj.空的, 无效的  --n.空间, 空虚  --vt.使无效, 废止**
     + I mean, I don't feel there's some void. 我并不觉得少了什么. 
     + I needed someone like her to fill the void inside me.
         我需要像她这样的人填满我内心的空虚. 
-- **avoid `[ə'vɒɪd]`  --vt.避免, 防止, 规避**
+- **avoid `[ə'vɒɪd]` --vt.避免, 防止, 规避**
     + Try to avoid accidents. 尽量防止事故. 
     + Keep your focus and avoid the distractions. 保持专注, 避免分心. 
 - **distraction `[dɪ'strækʃ(ə)n]` --n.娱乐, 消遣, 使人分心的事(人), 精神错乱的**
@@ -5091,19 +5226,19 @@
 - **definition `[defɪ'nɪʃ(ə)n]` (注: de.. 的发音和其他两个单词不同)--n.定义, 精确度**
     + definition of probability. 概率定义
     + It is by definition a complex object. 它本质上是个复杂的物体. 
-- **define `[dɪ'faɪn]`  --vt.限定, 确定, 明确**
+- **define `[dɪ'faɪn]` --vt.限定, 确定, 明确**
     + define one's position. 表明立场. 
     + I think that we have to define them. 我们必须要清楚地对此进行界定. 
 
 ### 20190622
-- **indicate `['ɪndɪkeɪt]`  --vt.表明, 表示, 指出, 标明**
+- **indicate `['ɪndɪkeɪt]` --vt.表明, 表示, 指出, 标明**
     + Meta is a prefix used in English to indicate a concept which is an 
         abstraction behind another concept, used to complete or add to the 
         latter. Meta 是英语中使用得前缀, 用于表示概念, 该概念是另一个概念的抽象概念, 用于
         完成或添加后者. 
     + She give any indication what that is? 她透露什么事了吗？
     + The leader indicated that the plans had failed. 领导者简略地说, 该计划已失败. 
-- **derive `[dɪ'raɪv]`  --vt&vi.得到, 源于**
+- **derive `[dɪ'raɪv]` --vt&vi.得到, 源于**
     + derive knowledge from books. 从书中获得知识. 
     + The word derives from French. 这个词来自法语.  
 
@@ -5164,7 +5299,7 @@
     + What the fuck? 什么玩意？
 - **practical `['præktɪk(ə)l]` --adj.实际的, 实用的** 
     + A simple and practical CMS implemented by Vue
-- **commensurable  `[kə'menʃərəbl]`  --adj.可公度的, 相称的.**
+- **commensurable  `[kə'menʃərəbl]` --adj.可公度的, 相称的.**
 - **finite `['faɪnaɪt]` --adj.有限的, 限定的.  --n.有限之物**
     + the finite is not commensurable with the infinite.
       有限和无限是不能用同一标准来衡量的. 
@@ -5177,7 +5312,7 @@
 - **definite `['defɪnɪt]` --adj.确定, 肯定**
 - **indefinite `[ɪn'dɛfɪnət]` --adj.不定的, 不明确的, 无限期的**
     + indefinite article 不定冠词
-- **compound `['kɒmpaʊnd]`  --n.复合, 合成.  --v.合成, 配制.  --adj.合成物, 符合的**
+- **compound `['kɒmpaʊnd]` --n.复合, 合成.  --v.合成, 配制.  --adj.合成物, 符合的**
     + a compound noun. 复合名词. 
     + (organic `[ɔː'gænɪk]` --adj.有机的) compound. --n.有机化合物
 - **addition `[ə'dɪʃ(ə)n]` --n.加成, 加法, 增加, 附加**
@@ -5235,9 +5370,9 @@
 
 
 ### 20190613
-- **descriptive `[dɪ'skrɪptɪv]`  --adj.描述的, 叙述的**
+- **descriptive `[dɪ'skrɪptɪv]` --adj.描述的, 叙述的**
     + The passage is purely descriptive. 这段文章完全是描述性的. 
-- **description `[dɪ'skrɪpʃ(ə)n]`  --n.描写, 描述；类型；说明书**
+- **description `[dɪ'skrɪpʃ(ə)n]` --n.描写, 描述；类型；说明书**
     + That is a description of you. 那是对你的描述
     + a realistic description. 真实的描述
     + Read the article. Underline the description words.
@@ -5397,7 +5532,7 @@
         您对这一潜在趋势有什么想法呢？
 
 ### 20190524
-- **diet `['daɪət]`  --n.饮食, 国会, 营养**
+- **diet `['daɪət]` --n.饮食, 国会, 营养**
     + balanced diet 均衡饮食
     + be on a diet 节食
     + How do you feel your diet and lifestyle? 你觉得你的饮食和生活方式怎么样？
@@ -5433,7 +5568,7 @@
 - **accurate `['ækjʊrət]` --adj.精确的, 准确的**
     + an accurate thermometer. 精密温度计. 
     + It is not valuable and not accurate. 它没有价值, 也不精准.    
-- **criticism `['krɪtɪsɪz(ə)m]`  --n.批评；评论**
+- **criticism `['krɪtɪsɪz(ə)m]` --n.批评；评论**
     + In truth, such criticism is often silly. 事实上, 这种批评往往很无聊.
 - **indefinite `[ɪn'defɪnɪt]` --adj.不定的, 不明确的, 无限期的**
     + indefinite article 不定冠词
@@ -5462,7 +5597,7 @@
     + an irrational expression. 无理式
     + an irrational function 无理函数
     + This is not altogether irrational. 总之, 这些都是不合理的. 
-- **bound `[baʊnd]`  --n.界, 范围, 跳跃  --vi.跳；回弹  --vt.给...划界, 限制** 
+- **bound `[baʊnd]` --n.界, 范围, 跳跃  --vi.跳；回弹  --vt.给...划界, 限制** 
     `[时态: bounded, bounding, bounds]
     + upper bound 上界, 最大值
     + lower bound 下界
@@ -5578,7 +5713,7 @@
     + Then cut up an onion and a tomato. 然后切碎一个洋葱和一个西红柿. 
 - **pineapple `['paɪnæp(ə)l]` --n.菠萝, 凤梨**
     + Do you like to eat pineapple. 你喜欢吃菠萝吗？
-- **mushroom `['mʌʃruːm]`  --n.蘑菇.  --.adj.蘑菇形的, 迅速生长的.  --采蘑菇, 迅速生长**
+- **mushroom `['mʌʃruːm]` --n.蘑菇.  --.adj.蘑菇形的, 迅速生长的.  --采蘑菇, 迅速生长**
     + You ordered a thick-crust pizza with the following toppings: 
       mushrooms, extra cheese.
       你点了一个厚皮披萨, 加上面的配料： 蘑菇、额外的奶酪. 
@@ -5609,14 +5744,14 @@
     + Reverse Proxy 反向代理, 逆向代理
     + We should see the reverse as well as the obverse of things.
       我们应该看到事物的反面和正面. 
-- **obverse `['ɒbvɜːs]`  --n.表面; 正面,前面.  --adj.表面的; 正面的**
+- **obverse `['ɒbvɜːs]` --n.表面; 正面,前面.  --adj.表面的; 正面的**
     + We should see the reverse as well as the obverse of things. 
       我们不但应该看到事物的正面, 也要看到事物的反面. 
 - **as well as  --也；除...之外；不仅...而且**
     + He called on you as well as me. 他不仅拜访了我, 也拜访了你. 
     + He is a friend in word as well as in deed
         ([diːd]` --n.行动, 功绩, 证书). 他是个言行如一的朋友. 
-- **comprehension `[kɒmprɪ'henʃ(ə)n]`  --n.理解, 理解力, 合理**
+- **comprehension `[kɒmprɪ'henʃ(ə)n]` --n.理解, 理解力, 合理**
     + list comprehensions 列表理解(解析)
     + the comprehension of spoken language. 口语理解能力. 
     + The teacher set the class a comprehension test. 
@@ -5673,7 +5808,7 @@
     + The dogs found the trail of the rabbit. 猎狗发现了兔子的总计. 
     + free trail 免费试用
     + He trailed the beast to its `[lair /leə/ --n.巢穴]. 他追踪野兽到兽穴. 
-- **profile `['prəʊfaɪl]`  --n.轮廓; 侧面; 外形; 简介. --vt.用数据、图表表示**
+- **profile `['prəʊfaɪl]` --n.轮廓; 侧面; 外形; 简介. --vt.用数据、图表表示**
     + Profile name 档案名称
     + Bluetooth profile 蓝牙规范
     + company profile 公司简介
@@ -5683,7 +5818,7 @@
         我们必须把理论与实际结合起来. 
     + integrate theory with practice. 理论联系实际
     + At 10am we have to integrate the new workers.
-      上午10点，我们必须整合新员工。
+      上午10点, 我们必须整合新员工。
 - **modify `['mɒdɪfaɪ]` --v.修改**
 - **modification `[ˌmɒdɪfɪ'keɪʃ(ə)n]` --n.修改, 缓和**
     + SubTree Modifications 子树修改
@@ -5741,7 +5876,7 @@
     + extragalactic nebula `[system]` 河外星云【系】
 - **narrow `['nærəʊ]` --v.缩小 --adj.窄, 狭窄**
     + narrow by year. 逐年缩小
-- **egress `['iːgres]`  --n.出口  --v.外出**
+- **egress `['iːgres]` --n.出口  --v.外出**
 - **ingress `['ɪngres]` --n.进入**
     + direct means of access and egress for passengers. 乘客直接出入的途径. 
     + We could target ingress and egress to particular neighborhoods.
@@ -5898,7 +6033,7 @@
     + Our greatest glory consists not in never falling but in rising 
       every time we fall.
       我们最值得自豪的不在于从不跌倒, 而在于每次跌倒之后都爬起来. 
-- **preference `['pref(ə)r(ə)ns]`  --n.偏爱, 优先权**
+- **preference `['pref(ə)r(ə)ns]` --n.偏爱, 优先权**
     + What is your preference? 你有什么嗜好？
 - **contain `[kən'teɪn]**
 - **container `[kən'teɪnə]` --n.容器, 集装箱**
@@ -5948,9 +6083,9 @@
 - **grammatical `[grə'mætɪk(ə)l]` --adj.语法的**
     + grammatical structure 语法错误
     + The difference them is a grammatical one. 它们之间的差异只存在于语法上. 
-- **inhuman `[ɪn'hjuːmən]`  --adj.残忍的, 无人性的**
+- **inhuman `[ɪn'hjuːmən]` --adj.残忍的, 无人性的**
 - **torture `['tɔːtʃə]` --vt.拷打, 折磨  --n.拷问, 折磨**
-- **cruel `[krʊəl]`  --adj.残酷的, 残忍的, 残暴的**
+- **cruel `[krʊəl]` --adj.残酷的, 残忍的, 残暴的**
     + Torturing animals for fun is cruel and inhuman. 
       因为好玩而虐待动物是残忍而没有人性的行为. 
 - **inhumane `[ɪnhjʊ'meɪn]` --adj.不人道的, 残忍的**
@@ -5993,7 +6128,7 @@
       you say, wow, here's a chance to grow. 
       -- 斯坦福大学心理学教授 Carol S. Dweck 在成长思维中, 挑战是令人兴奋的而不是威胁. 
       所以不要想, 哦, 我要揭示我的弱点了, 你说, 哇, 这是一个成长的机会. 
-- **intern `['ɪntɜːn]`  --n.实习生  --vt.拘留**
+- **intern `['ɪntɜːn]` --n.实习生  --vt.拘留**
     + I didn't know that. I'm just an intern. 我不知道, 我只是一个实习生. 
     + Said the two interns who just got fired. 这两位实习生被炒鱿鱼了. 
 - **micro `['maikrəu]` --pref.前缀: 表示"极微小" 之义**
@@ -6107,7 +6242,7 @@
     + These processes initiate a `[series `['sɪəriːz/]` of new feelings or 
       memory patterns within you.
       这一过程开始了一系列你内在新的直觉或记忆模式. 
-- **initial `[iˈniʃəl]`  --adj.初始, 最初的, 初步的  --n.词首字母大写**
+- **initial `[iˈniʃəl]` --adj.初始, 最初的, 初步的  --n.词首字母大写**
     + the initial issue of a magazine. 杂志的创刊号
     + our initial impression was favourable. 我们最初的印象是好的. 
     + the initial letter of a word. 一个词的首字母
@@ -6115,23 +6250,29 @@
 - **initialize `[ɪ'nɪʃ(ə)laɪz]` vt.初始化**
     + the counter is initialized to one. 计数器被初始化为一. 
     + device initialize 设备初始化
-- **stroke `[strəʊk]`  --n.行程, 冲程, 一笔, 一画  vt.轻抚, 抚摸**
+- **stroke `[strəʊk]` --n.行程, 冲程, 一笔, 一画  vt.轻抚, 抚摸**
 - **fortunate `['fɔːtʃ(ə)nət]` --adj.幸运的**
-- **serendipity `[ˌser(ə)n'dɪpɪtɪ]`  --n.意外发现**
+- **serendipity `[ˌser(ə)n'dɪpɪtɪ]` --n.意外发现**
     + a stroke of luck; a stroke of `[misfortune `[mɪs'fɔːtʃuːn/].
       一次走运, 一次不幸
     + a fortunate stroke of serendipity. 意外的走运
-- **ascent `[ə'sent]`  --n.上升, 上坡路**
-- **steep `[stiːp]`  --adj.陡峭的, 险峻的  --n.峭壁, 绝壁**
+- **scent `/sent/` --n.香味; 气味; 香水; 觉察. --vt&vi.发出...气味**
+    + Scent Of a Lifetime. 一生的香气
+    + a yellow rose with a lovely scent(n). 馨香的黄玫瑰.
+    + the sweet scent(n) of ripe fruit. 成熟水果那种甜甜的香味.
+    + pleasant scent(n). 愉快的气味.
+    + faint`/fent/` scent. 清香; 暗香.
+- **ascent `[ə'sent]` --n.上升, 上坡路**
+- **steep `[stiːp]` --adj.陡峭的, 险峻的  --n.峭壁, 绝壁**
     + the ascent grew steeper. 上山的路变得更陡了.
     + the first balloon ascent was in 1783. 第一个升空的气球是在 1783 年. 
     + The final ascent took only half an hour. 最后那次登山只花了半小时. 
     + The first part of the ascent is not steep. 开始一段上坡路并不陡峭. 
-- **descent `[dɪ'sent]`  --n.下降, 血统**
+- **descent `[dɪ'sent]` --n.下降, 血统**
     + The descent of the mountain took nearly two hours. 下山差不多花了2个小时. 
     + gradient descent 梯度下降
     + Chinese descent. 中国血统；炎黄子孙
-- **gradient `['greɪdɪənt]`  --n.梯度, 坡度  --adj.步行的, 倾斜的**
+- **gradient `['greɪdɪənt]` --n.梯度, 坡度  --adj.步行的, 倾斜的**
     + The car slid down the steep gradient into the river.
       汽车滑下陡峭的斜坡掉入河中. 
     + What is the gradient of this function ? 这个函数的梯度是什么？
@@ -6204,7 +6345,7 @@
     + no referrer when downgrade 没有引用时降级
 
 ### 20190320
-- **dedicate `['dedɪkeɪt]`  --vt.奉献, 贡献**
+- **dedicate `['dedɪkeɪt]` --vt.奉献, 贡献**
     + You didn't have to dedicate it to me. 你不用献给我. 
     + So, I'd like to dedicate this award to them. 所以这个奖我想献给他们. 
     + I'm dedicating myself to another project. 我开始了另外一个项目. 
@@ -6230,7 +6371,7 @@
     + a continuous hot weather. 持续的高温天气
 
 ### 20190310
-- **vibration `[vaɪ'breɪʃ(ə)n]`  --n.震动; 颤动**
+- **vibration `[vaɪ'breɪʃ(ə)n]` --n.震动; 颤动**
     + Dynamic vibration 动态震动
 - **intrinsic `[ɪn'trɪnsɪk]` --adj.固有的, 内在的, 本质的**
     + intrinsic value 内在规定
@@ -6242,7 +6383,7 @@
     + battery flex bracket 电池柔性支架
 - **cable `[ˈkeibl]` --n.电缆**
     + battery flex cable 电池柔性电缆
-- **screw `[skruː]`  --n.螺丝钉**
+- **screw `[skruː]` --n.螺丝钉**
 - **shield `[ʃiːld]` v.屏蔽, 盾, 保护  --n.盾, 防护物**
     + face shield 面罩
     + shield a country from invasion. 保护以国家不受侵犯. 
@@ -6326,7 +6467,7 @@
      damaged, resulting in no hair growth.
 
 ### 20190226
-- **additional `[ə'dɪʃ(ə)n(ə)l]`  --adj.额外的, 另外的, 附加的**
+- **additional `[ə'dɪʃ(ə)n(ə)l]` --adj.额外的, 另外的, 附加的**
     + additional expense 附加费用
     + we require additional information. 我们需要更多的信息. 
     + Installing additional dependencies. 正在安装附加依赖. 
@@ -6345,7 +6486,7 @@
     + brave blade 勇敢的心
     + And she is so(adv) brave I think. 我觉得她非常勇敢. 
     + What you did was very brave. 你表现的非常勇敢. 
-- **anchor `['æŋkə]`  --n.锚  v.抛锚**
+- **anchor `['æŋkə]` --n.锚  v.抛锚**
     + anchor point 锚点
     + anchor text 锚文本, 链接锚文本
 - **inherit `[ɪn'herɪt]` vt.继承; 遗传而得  vi.成为继承人**
@@ -6436,7 +6577,7 @@
       `[competition /kɒmpɪ'tɪʃ(ə)n/ --n.比赛, 竞争]?
        嗯, 奈特, 你对外部竞争有什么观点？
     + But first ... I had this insight into you. 但首先...我看穿了你这一点. 
-- **exception `[ɪk'sepʃ(ə)n]`  --n.例外**
+- **exception `[ɪk'sepʃ(ə)n]` --n.例外**
     + There were no exceptions to that rule. 这项规定没有例外. 
     + There is an exception to every rule. 每项规则均有例外. 
     + But in your case, I'll make an exception. 但看在是你, 我就给个例外吧. 
@@ -6459,7 +6600,7 @@
 - **expansion `[ɪk'spænʃ(ə)n]` --n.扩张, 扩充**
 
 ### 20190220
-- **advanced `[æd'vɑːnst]`  --adj.高级的, 先进的**
+- **advanced `[æd'vɑːnst]` --adj.高级的, 先进的**
     + Advanced Computing Lab. 高级计算实验室
     + advanced computer architecture (['ɑ:kitektʃə]` n.建筑, 结构]
       高级计算机体系结构
@@ -6479,7 +6620,7 @@
 
 ### 20190219
 - **E.g. = for example** adv.例如, 举例来说
-- **forgery `['fɔːdʒ(ə)rɪ]`  --n.伪造**
+- **forgery `['fɔːdʒ(ə)rɪ]` --n.伪造**
     + CSRF : Cross Site Request Forgery 跨站请求伪造
 - **technique**
 - **favorable `[ˈfeɪvərəbəl]` --adj.有利, 良好, 优惠**
@@ -6516,7 +6657,7 @@
     + the proportion of births to the population. 人口出生率
 - **initiator `[ɪ'nɪʃɪetɚ]` --n.发起人, 创始人**
     + a great initiator in art. 艺术上伟大的创始人. 
-- **latency `['leɪtənsɪ]`  --n.潜在, 潜伏**
+- **latency `['leɪtənsɪ]` --n.潜在, 潜伏**
 - **stall `[stɔːl]` --n.摊子, 货摊  vi.拖延  vt.搪塞**
     + stall off 拖延
     + stalling for time. 拖延时间
@@ -6525,7 +6666,7 @@
     + the portal of knowledge. 知识之门
 
 ### 20190214
-- **ellipsis `[ɪ'lɪpsɪs]`  --n.省略, 省略符号**
+- **ellipsis `[ɪ'lɪpsɪs]` --n.省略, 省略符号**
     + ellipsis mark 省略号
 - **clamp `[klæmp]` vt.夹紧, 固定住  --n.夹钳(qian), 螺丝钳**
     + He checked that clamp but failed to find anything wrong. 
@@ -6562,7 +6703,7 @@
         百年马拉松: 中国取代美国称霸全球的秘密战略
       
 ### 20190203
-- **concern `[kən'sɜːn]`  --vt.关心, 忧虑, 有关  --n.关心, 关怀**
+- **concern `[kən'sɜːn]` --vt.关心, 忧虑, 有关  --n.关心, 关怀**
     + concern about  对......表示担心/忧虑, 
     + And this is not your concern. 这也不关你的事. 
     + I will tell you what concerns me. 我来告诉你 什么让我不安. 
@@ -6576,7 +6717,7 @@
 - **probe `[prəʊb]` --v.探测, 探讨**
     + probe type 探测类型
 - **workflow `['wə:k,fləu]` --工作流程**
-- **sensible  `['sensɪb(ə)l]`  --adj.明智的, 合理的**
+- **sensible  `['sensɪb(ə)l]` --adj.明智的, 合理的**
     + This utility will walk you through creating a package.json file.
       It only covers the most common items, and tries to guess sensible defaults.
       该实用程序将引导您创建 package.json 文件. 它仅涵盖最常见的项目, 并尝试猜测合理的默认值. 
@@ -6674,7 +6815,7 @@
       打个括号这是我个人观点. 
     + Space before function parentheses. 函数括号前的空
 ### 20190113
-- **refactor `[ri'fæktə]`  --n.重构  vt.重构**
+- **refactor `[ri'fæktə]` --n.重构  vt.重构**
     + refactor: make the set method more reasonable. 重构: 使 set 方法更合理
 ### 20190112
 - **epoch `['iːpɒk]` --n.时代, 时期, 纪元**
@@ -6694,7 +6835,7 @@
    + Language reference 语言参考
    + We publish practical reference books. 我们出版实用的参考书. 
 - **occasional `[ə'keɪʒ(ə)n(ə)l]` --adj.偶然的, 临时的**
-- **bypass `['baɪpɑːs]`  --n.旁路, 分流  v.绕行**
+- **bypass `['baɪpɑːs]` --n.旁路, 分流  v.绕行**
 - **decrease `[dɪ'kriːs]` v.减少  --n.减少**
 - **idiom `['ɪdɪəm]` --n.成语, 习语, 惯用语法**
 - **statical `['stætikəl]` --adj.静止的**
@@ -6740,10 +6881,10 @@
     + we will have to examine the proposals in detail. 这些提案我们必须详加审查. 
     
 ### 20181227
-- **concatenation `[kənkætə'neɪʃn]`  --n.级联, 并列**
+- **concatenation `[kənkætə'neɪʃn]` --n.级联, 并列**
     + a concatenation of events which had finally led to the murder.
     一连串最终导致谋杀的事件
-- **hoist `[hɒɪst]`  --v.提升, 升起  --n.起重机, 升起**
+- **hoist `[hɒɪst]` --v.提升, 升起  --n.起重机, 升起**
     + scope hoisting 作用域提升
     + First came the hoisting of the flag. 先是升旗. 
     + The war hoisted prices. 战争使物价上涨. 
@@ -6849,7 +6990,7 @@
   
 ### 20181208
 - **audit `['ɔːdɪt]`  v.审计**
-- **moderate `['mɒd(ə)rət]`  --adj.中等的, 温和的, 平和的**
+- **moderate `['mɒd(ə)rət]` --adj.中等的, 温和的, 平和的**
 - **severity `[sɪ'verɪtɪ]` --n.严重, 严格**
 - **vulnerability `[ˌvʌlnərə'biliti]` --n.漏洞, 弱点**
     + You never once showed me any vulnerability. 从没有见过一次你脆弱的一面. 
@@ -6858,9 +6999,9 @@
      增加了来自 597 个贡献者的 190 个包, 并在 53972s 内审核了 8375 个包, 发现 1 个严格漏洞. 
 - **peer `[pɪə]` vi.窥视  --n.同辈  --adj.同等的**
     + You must install peer dependencies yourself. 您必须自己安装对等依赖项. 
-- **greater `[ˈɡreitə]`  --adj.较大的**
-- **query `['kwɪərɪ]`  --n.查询, 疑问.  vt.询问**
-- **fallback `['fɔːlbæk]`  --n.倒退**
+- **greater `[ˈɡreitə]` --adj.较大的**
+- **query `['kwɪərɪ]` --n.查询, 疑问.  vt.询问**
+- **fallback `['fɔːlbæk]` --n.倒退**
     + If the file is greater than the limit (in bytes) the file-loader 
       is used by default and all query parameters are passed to it. You can 
       use other loader using fallback option.
@@ -6870,7 +7011,7 @@
 ### 20181206
 - range of motion 活动返回
 - static import statement 静态导入语句
-- **cube `[kjuːb]`  --n.立方体, 立方**
+- **cube `[kjuːb]` --n.立方体, 立方**
 - **keen `[kiːn]` --adj.敏锐的, 灵敏的, 热衷的, 渴望的**
     + I am not very keen on squares or rectangles. 我不太喜欢正方形和矩形. 
     + Yeah. - He was very keen to help. 是的. 他非常热心助人. 
@@ -6879,7 +7020,7 @@
 - If your code did have some side effects through, an array can
   be provided instead. 如果您的代码确实有一些副作用, 可以提供一个数组. 
 - **identify `[aɪ'dentɪfaɪ]`  vt.识别**
-- **conclusion `[kən'kluːʒ(ə)n]` `[注: ʒ(ə)n 怎么读？]`  --n.结论, 结局**
+- **conclusion `[kən'kluːʒ(ə)n]` `[注: ʒ(ə)n 怎么读？]` --n.结论, 结局**
     + It is too early to draw a conclusion. 现在下结论还为时过早. 
     + Let's not jump to any conclusion, all right? 先别急着下结论 行吗?
     
@@ -6909,7 +7050,7 @@
 - **preset `[priː'set]` --vt.预置 --n.预调装置  --adj.预先调整的**
 - **brew `[bruː]` --vt.酿造 --vi.酿酒 --n.啤酒**
     + If you drink coffee, preset it to brew before you wake up.
-- **velocity `[vɪ'lɒsɪtɪ]`  --n.速度, 速率**
+- **velocity `[vɪ'lɒsɪtɪ]` --n.速度, 速率**
     + Yes, uh, he's got the velocity calculated wrong. 是 他的速度算错了. 
 - **manifest  `['mænɪfest]` v.表现, 表明  --adj.明显的, 显而易见的  --n.清单, 货单**
     + He is a manifest(adj) liar. 他显然是一个说谎的人. 
@@ -6926,7 +7067,7 @@
       最糟糕的是, 我们缺少从他人哪里感受积极能量的能力, 用以重建我们的精神世界. 
 - **invalid `['ɪnvəlɪd]` --adj.无效的, 无用的  --n.病人**
     + Invalid configuration object. 无效的配置对象
-- **optimization `[ˌɔptimai'zeiʃən]`  --n.优化**
+- **optimization `[ˌɔptimai'zeiʃən]` --n.优化**
     + code optimization  代码优化
 - **minimize `[ˈminimaiz]` --vi.最小化**
 - **parallel `['pærəlel]` --adj.平行的 --n.平行线, 纬线**
@@ -6953,7 +7094,7 @@
     + Compresses your images. 压缩你的图片
 
 ### 20181108
-- **compilation `[kɒmpɪ'leɪʃ(ə)n]`  --n.编译, 编辑**
+- **compilation `[kɒmpɪ'leɪʃ(ə)n]` --n.编译, 编辑**
     + Q: 到底 `p` 后的 `i` 发什么?  A: `e`? 为什么
     + compilation assets 编译资产(源)
     + The compilation of new words into a dictionary takes a lot of time.
@@ -6992,7 +7133,7 @@
     即使我附带说明你也无法处理我. (嘲讽 webpack)
 - **optimize `[ˈɔptəˌmaɪz]` --v.优化**
     + optimize allocation([ælə'keɪʃ(ə)n]` --n.分配) of resources 优化资源配置. 
-- **tricky `['trɪkɪ]`  --adj.狡猾的, 机警的**
+- **tricky `['trɪkɪ]` --adj.狡猾的, 机警的**
     + He is a tricky customer. 他是个狡猾的顾客. 
     + some things are very tricky to explain. 有些事情很难解释. 
 
@@ -7000,7 +7141,7 @@
 ### 20181102
 - **rack `[ræk]` --n.架, 齿条, 搁板**
     + —> Our hat rack fell through the window. 我们的衣帽架倒在窗户上了. 
-- **recursion `[rɪ'kɜːʃ(ə)n]`  --n.递归**
+- **recursion `[rɪ'kɜːʃ(ə)n]` --n.递归**
     + too much recursion. 太多的递归
 - **enhance  `[ɪn'hɑːns]` --n.提高, 增加, 加强**
     + Health enhances beauty. 健康使人显得更美. 
@@ -7009,7 +7150,7 @@
 - **piece  `[piːs]` --n.一片, 一块, 部分  vt.拼凑, 修补**
     + a piece of bread. 一片面包
     + It's going to a piece of cake. 这种事不费吹灰之力. 
-- **sensible  `['sensɪb(ə)l]`  --adj.明智的, 合理的**
+- **sensible  `['sensɪb(ə)l]` --adj.明智的, 合理的**
     + This utility will walk you through creating a package.json file.
         It only covers the most common items, and tries to guess sensible defaults.
         该实用程序将引导您创建 package.json 文件. 它仅涵盖最常见的项目, 并尝试猜测合理的默认值. 
@@ -7088,7 +7229,7 @@
 ### 20181009
 - **Jan(January) `[ˈdʒænjuəri]` --n.一月**
     + commented on 19 Jan. 评论于 1 月 19 日. 
-- **probe `[prəʊb]`  --vi.探测  vt.探查   --n.探测器**
+- **probe `[prəʊb]` --vi.探测  vt.探查   --n.探测器**
 - **relation `[rɪ'leɪʃ(ə)n]` --n.关系, 关联, 叙述**
     + Webpack internal plugin relation. Webpack 内部插件关系
 - **hook `[huk]` --vt&vi.钩住, 挂住.  --n.挂钩, 鱼钩**
@@ -7099,14 +7240,14 @@
     首先采取的步骤之一是写一份报告. 
 
 ### 20181008
-- **context `['kɒntekst]`  --n.上下文, 环境, 背景**
+- **context `['kɒntekst]` --n.上下文, 环境, 背景**
     + in the context of 在...情况下； 在...背景下
     + in this context 关于这点
     + It is usually easier to pick out the meaning of a phrase in a give
         context. 在特定的上下文中立即一个短语的含义往往要更容易些. 
     + What is the meaning of the word in this context? 
         在这种语境下, 这个单词的意思是什么？
-- **deprecate `['deprɪkeɪt]`  --vt.反对, 不赞成**
+- **deprecate `['deprɪkeɪt]` --vt.反对, 不赞成**
 - **comment `['kɒment]` --n.评论, 注释  --v.评论；注释**
     + Comment is needless. 解释是不必要的. 
     + add comments or explanations. 加注释或说明. 
@@ -7117,7 +7258,7 @@
     + I will defer going till I have more money. 
         我要延期到我有更多钱时才去. 
     + defer to one's elders. 服从长辈. 
-- **suppose `[sə'pəʊz]`  --n.假设.  --v.假设, 假定, 想, 猜想**
+- **suppose `[sə'pəʊz]` --n.假设.  --v.假设, 假定, 想, 猜想**
     + I suppose you are right. 我想你是对的. 
     + What do you suppose she will do? 你认为她会怎么做？
     + They supposed me to know all about it. 他们认为我知道有关那件事的一切. 
@@ -7202,7 +7343,7 @@
 - **exclude `[ɪk'skluːd]` --vt.排除, 排斥**
      + Your website should be accessible by all and not offend or 
        exclude anybody. 您的网站应便于所有人查阅, 不冒犯或排除任何人.
-- **accessible  `[ək'sesɪb(ə)l]`  --adj.易接近的, 可理解的,  无障碍**
+- **accessible  `[ək'sesɪb(ə)l]` --adj.易接近的, 可理解的,  无障碍**
 - **offend  `[ə'fend]` --vt.冒犯, 得罪. --vi.违反, 触犯**
 
 ### 20181002
@@ -7243,7 +7384,7 @@
 
 ## 2018-09
 ### 20180930
-- **conduct `['kɒndʌkt]`  --n.行为, 品行. --vi.带领  --vt.管理, 表现**
+- **conduct `['kɒndʌkt]` --n.行为, 品行. --vi.带领  --vt.管理, 表现**
     + code of conduct 行为守则
 - commit convention  提交管理
 - issue template 问题模板
@@ -7287,9 +7428,9 @@
     + a critical evaluation of the film. 对电影的批判性评价. 
 
 ### 20180926
-- **abbreviation `[əbriːvɪ'eɪʃ(ə)n]`  --n.缩写, 缩写词**
+- **abbreviation `[əbriːvɪ'eɪʃ(ə)n]` --n.缩写, 缩写词**
     + A.D.is the abbreviation for "advertisement". A.D.是 advertisement 的缩写. 
-- **term `[tɜːm]`  --n.术语, 项, 学期. --vt.表述, 表明**
+- **term `[tɜːm]` --n.术语, 项, 学期. --vt.表述, 表明**
     + He failed no students this term. 这学期他没有学生不及格. 
     + the terms are often interchanged. 这些术语常互换使用. 
 
@@ -7316,7 +7457,7 @@
 - **quill `[kwɪl]` --n.鹅毛笔, 羽茎**
 - **abbreviation `[əbriːvɪ'eɪʃ(ə)n]` --n.缩写, 缩写词**
     + A.D.is the abbreviation for "advertisement". A.D.是 advertisement 的缩写. 
-- **term `[tɜːm]`  --n.术语, 项, 学期. --vt.表述, 表明**
+- **term `[tɜːm]` --n.术语, 项, 学期. --vt.表述, 表明**
     + He failed no students this term. 这学期他没有学生不及格. 
     + the terms are often interchanged. 这些术语常互换使用. 
 
