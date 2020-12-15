@@ -14,8 +14,6 @@
 - The strong take what they want. 弱肉强食.
 
 
-
-
 - ** `` --**
 - ** `` --**
 - ** `` --**
@@ -24,14 +22,55 @@
 
 # 2020 Year
 
+## 2020-12
+### 20201214
+- **equate `/ɪˈkweɪt/` --vt.等同; 等量齐观**
+    + Most people equate wealth with success. 大多数人把财富和成功等同起来.
+    + equate with. 把...等同; 使相等
+    + I don't see how you can equate the two things.
+      我不明白你怎么把这两件事等同起来.
+- **wealth `/welθ/` --n.财富; 丰富; 富裕.**
+    + The country's wealth comes from its oil. 这个国家的财富来自石油.
+    + a man with a wealth of experience`/ɪk'spɪrɪəns/`. 经验丰富的人
+    + a person of wealth and influence. 有钱有势的人.
+    + a wealth of (adj)很多的.
+
+### 20201206
+- **cask `/kæsk/` --n.大酒桶，木桶；一桶(的量)[of]**
+    + a wine case/ a cask of wine. 酒桶；一桶酒。
+    + I need a cask of wine and some apples. 我需要一桶酒和一些苹果。
+
+
 ## 2020-11
+### 20201121
+- **acrobat `/ˈækrəbæt/` --n.杂技演员.** 
+    + Adobe acrobat DC
+    + Don't worry, he's an acrobat. 别担心, 他是个杂技演员.
+
+### 20201120
+- **natural `/ˈnætʃərəl/` --adj.自然的; 天然的; 固有的.**
+    + the study of the natural world. 对自然界的研究.
+    + natural beauty 自然美
+    + natural food 天然食品
+    + At the time, accepting his offer had seemed the most natural
+      thing in the world. 当时, 接受他的提议似乎是再自然不过的事了.
+    + It is not natural for a child of his age to be so quiet.
+      像他这个年纪的孩子如此安静不正常.
+
 ### 20201104
 - **presidential `/ˌprezɪˈdenʃəl/` --adj.总统的; 首长的.**
     + Presidential Election Results. 总统大选结果.
     + presidential government. 总统制.
     + presidential candidate. 总统候选人.
-    + Editors at The New York Times will take into account a number of factors before declaring a winner, including race calls made by The Associated Press and Edison Research, as well as analysis of the votes that have been reported so far. Given the changes in voting methods this yar it may not be possible to declare a winner in a number of key states on election night.
-    《纽约时报》的编辑在宣布获胜者之前将考虑许多因素, 包括美联社和爱迪生研究中心进行的比赛电话, 以及对迄今为止报道的选票的分析. 鉴于目前这种投票方法的变化, 在选举之夜可能无法宣布多个关键州的获胜者.
+    + Editors at The New York Times will take into account a number
+      of factors before declaring a winner, including race calls made by
+      The Associated Press and Edison Research, as well as analysis of the
+      votes that have been reported so far. Given the changes in voting
+      methods this yar it may not be possible to declare a winner in a
+      number of key states on election night.
+     《纽约时报》的编辑在宣布获胜者之前将考虑许多因素, 包括美联社和爱迪生研究中心进行的比赛电话,
+      以及对迄今为止报道的选票的分析. 鉴于目前这种投票方法的变化,
+      在选举之夜可能无法宣布多个关键州的获胜者.
 - **election `/ɪ'lekʃ(ə)n/` --n.选举**
     + Within three months`/mʌnθs/` of being elected to an official
       position. 他当选后不到三个月就被迫辞职.
@@ -78,6 +117,11 @@
     + compulsory execution. 强制性执行
     + a compulsory subject. (英)必修科目
     + nine-year compulsory education. 九年制义务教育
+- **elective `/ɪˈlektɪv/` --adj.选修的; 选举的; 选任的. --n.选修课程.**
+    + an elective(adj) office. 公选的官职.
+    + an elective(adj) body. 选举团体.
+    + an elective(n) subject. 选修科目.
+    + an elective(n) system. 选课制度.
 - **junior `[ˈdʒuːniə]` --adj.初级的; 年少的. --n.年少这,较年轻的.**
     + junior school 小学.
     + junior hight (school) 初中
@@ -96,7 +140,8 @@
           在句中作主语. 英语中, 当动词或动词短语用作主语时, 可以使用动词 `-ing`
           形式。如:
             + Seeing is believing.[谚] 百闻不如一见.
-            + Reading outside school is necessary and important in learning English. 课外阅读对于英语学习既必要又重要
+            + Reading outside school is necessary and important in
+              learning English. 课外阅读对于英语学习既必要又重要
 
 
 ## 2020-10
@@ -135,7 +180,7 @@
     + the cords of love. 爱的羁绊.
     + the spinal cord. 脊髓
     + the vocal cords. 声带
-- **opponent `/əˈpəʊnənt/`|`/əˈpoʊ-/ ` --n.对手; 反对者; 敌手.**
+- **opponent `/əˈpəʊnənt/`|`/əˈpoʊ-/` --n.对手; 反对者; 敌手.**
    **--adj.对立的; 敌对的.**
     + Most often our most challenging opponents(n) is ourselves.
       很多时候, 最具挑战性的对手是我们自己.
@@ -179,13 +224,43 @@
       他們把產品出口到世界各地的市場.
     + The museum is open daily throughout the year.
       這個博物館一年到頭每天都開放.
-- **involve `` --**
-    + 
-- **spontaneous `` --**
-- **mumble `` --**
-- **techniques `` --**
-- **distinct `` --**
-- **exaggerate `` --**
+- **involve `/ɪnˈvɒlv/`|`/ɪnˈvɑːlv/` --vt.涉及; 包括; 包含; 牵涉; 牵扯.**
+    + involve in. 参与; 涉及; 卷入; 陷入.
+    + What will the job involve? 这份工作包括什么?
+    + These changes will involve everyone on the staff.
+      这些变化将影响每一位职员.
+    + His mistake involved me in a great deal of trouble.
+      他的错误使我陷入极大的困扰中.
+- **spontaneous `/spɒnˈteɪniəs/`|`/spɑːn-/` --adj.自发的; 自然的; 本能的.**
+    + a spontaneous action. 自发的行为
+    + spontaneous activity. 自发活动
+    + The crowed gave a spontaneous cheer. 人群自发地欢呼起来.
+    + My spontaneous reaction was to run away. 我的本能反应是逃跑.
+- **mumble `/ˈmʌmbəl/` --vt.咕哝,喃喃地说. --vi.[对人]咕哝[to] --n.咕哝**
+    + The old man mumbled(vt) that he was hungry. 那老人喃喃地说他饿了.
+    + "I'm tired," he mumbled(vt). "我累了" 他喃喃地说.
+    + A woman on the corner was mumbling(vi) to herself.
+      角落里有个女人在喃喃自语.
+- **technique `/tekˈniːk/` --n.技术; 技巧; 手法; 方法.**
+    + interaction technique. 交互技术.
+    + In mathematics, we use many techniques of problem-solving.
+      在数学中, 我们使用许多不同的解题方法.
+    + He employs a technique called Onion routing.
+      他采用了一种叫洋葱路由的技术.
+- **distinct `/dɪˈstɪŋkt/` --adj.不同; 明显; 独特; 分明.**
+    + two entirely distinct languages. 两种完全不同的语言.
+    + There are four distinct types. 有四种完全不同的类型.
+    + Horses and donkeys are distinct animals. 马和驴子是完全不同的动物.
+- **exaggerate `/ɪɡˈzædʒəreɪt/` --vt&vi.夸张; 夸大. --vt.言过其实; 浮夸.**
+    + The hotel was really filthy and I'm not exaggerating(vi).
+      我不是誇張, 這旅店真的很髒.
+    + He tends to exaggerate(vt) the difficulties. 他往往誇大困難.
+    + Demand for the product has been greatly exaggerated(vi).
+      对这项产品的需求给过分夸大了.
+- **filthy `/ˈfɪlθi/` --adj.肮脏的; 污秽的; 脏.**
+    + Your problem is you've got a filthy mind. 你的问题是满脑子下流观念.
+    + The kitchen is absolutely filthy. 厨房肮脏不堪.
+    + It's filthy in here. 这里面脏得很.
 
 ### 20201012
 - **idiom `[ˈɪdiəm]` --n.成语,习语; 土语.**
@@ -209,11 +284,18 @@
     + The little prince. 小王子.
     + Prince Charming. 白马王子; 黑马王子.
     + crown prince. 皇太子; 皇储.
-- **collocation `/ˌkɒləˈkeɪʃən $ ˌkɑː-/` --**
-    + 
+- **collocation `/ˌkɒləˈkeɪʃən $ ˌkɑː-/` --n.搭配; 组合; 排列**
+    + free collocation. 自由搭配
+    + color collocation. 色彩搭配
+    + collocation method. 配置方法
+    + So, basically what you have to do is just remember these collocations. 所以, 基本上你要做的就是记住这些搭配.
+
 
 ### 20201011
-- **tongue `[]` --n**
+- **tongue `/tʌŋ/` --n.舌头.**
+    + The taste of the chocolate was still on her tongue.
+      巧克力的余味依然留在她的唇齿之间.
+    + She ran her tongue over her lips. 他用舌头舔着嘴唇.
 - **voice `/vɔɪs/` --n.语音; 声音; 呼声; 发言权. --vt.表达; 吐露**
     + He recognized her voice instantly. 他立刻听出了她的声音.
     + He has a good voice. 他的声音很好.
@@ -229,23 +311,41 @@
       如果你不反对, 我也想来.
     + No objection. 没有异议.
 - **voicing `/ˈvɔɪsɪŋ/` --n.发声; --vt.说出,表达; 调音.(voice 的现在分词)**
-- **compensate `[]` --**
-    + I will compensate you   
+- **compensate `/ˈkɒmpənseɪt/`|`/ˈkɑːm-/` --vt.vi.补偿; 赔偿; 弥补.**
+    + I will compensate(vt) you. 我会补偿你的.
+    + compensate(vt) a loss. 弥补损失.
+    + Employers should compensate(vt) their workmen for injuries. 
+      雇主对公认收到的伤害应给与补偿.
+    + Industry sometimes compensates(vi) for lack of ability.
+      勤勉有时可以弥补能力不足.
+- **injury `/ˈɪndʒəri/` --n.外伤; 伤害; 损伤.**
+    + serious injury/injuries. 重傷.
+    + injury to the head || a head injury. 頭部受傷.
+    + She was taken to hospital with serious head injuries.
+      他頭部嚴重受傷被送到醫院.
+- **industry `/ˈɪndəstri/` --n.产业; 工业; 勤勉.**
+    + heavy/light industry. 重/輕工業.
+    + the needs of British industry. 英國工業的需求.
+    + She got a job in industry. 他找了一份工廠里的工作.
+    + The industry is in terminal decline. 这个行业每况愈下, 一蹶不振.
+    + We were impressed by their industry. 他們的勤奮給我們留下深刻印象.
+    + Industry sometimes compensates(vi) for lack of ability.
+      勤勉有时可以弥补能力不足.
 
 ### 20201009
-- **thesaurus `[]` --**
+- **thesaurus `//` --**
     + 
 
 ### 20201007
-- **methodology `[]` --**
+- **methodology `//` --**
     + 
 
 ### 20201006
-- **wanking `[]` --**
+- **wanking `//` --**
     + 
-- **beefy `[]` --**
+- **beefy `//` --**
     + 
-- **mighty `[]` --**
+- **mighty `//` --**
 
 
 
@@ -308,7 +408,8 @@
     + He deliberated(vi) upon the matter. 他仔细斟酌该问题.
 - **fictional `[ˈfɪkʃənəl]` --adj.虚构的; 小说的.**
     + Almost all fictional detectives are unreal. 几乎所有小说里的侦探都是虚构的.
-    + All actors in this short film are consenting adults who are deliberately interpreting fiction scenes.
+    + All actors in this short film are consenting adults who are
+      deliberately interpreting fiction scenes.
       这部短片中的所有演员都同意成年人在故意解释小说场景.
 - **theatrical `[θɪ'ætrɪk(ə)l]` --n.戏剧;戏. --adj.戏剧化**
     + Some of the actions seen in this film can be theatrical.
@@ -772,7 +873,7 @@
     + He is in a tight corner now. 他现在处境困难.
 - **coupling `['kʌplɪŋ]` --n.耦合; 连接,连结.**
     + 
-- **flexibility `[]` --**
+- **flexibility `//` --**
     + Using `$route` in your component creates a tight coupling with
       the route which limits the flexibility of the component as it
       can only be used on certain URLs.
@@ -3164,7 +3265,7 @@
     + Then I want to know what is the nature of the concept of reducibility.  
       我想知道可简化型概念的本质是什么.
 ### 20191217
-- **mold `[]` --n.模(子), 模型; 铸型. --vt.使...成型, 用...铸造 `[out of, from, in]**
+- **mold `//` --n.模(子), 模型; 铸型. --vt.使...成型, 用...铸造 `[out of, from, in]**
     + He is cast in his father's mold(n). 他长得和他父亲一模一样.
     + Statues are molded(vt) of clay or bronze. 雕像是用黏土或青铜铸成的.
     + Wax is molded(vt) into candles. 蜡被制成蜡烛.
@@ -3889,7 +3990,7 @@
 - Retype password 
 - **privilege `['prɪvɪlɪdʒ]` --n.特权; 荣幸. --vt.给与...特权**
     + It is truly a privilege to be here. 能来此处真是莫大的荣幸.
-- **privileged `[]` --adj.特权的; 荣幸的; 特许的.**
+- **privileged `//` --adj.特权的; 荣幸的; 特许的.**
     + the privileged classes. 特权阶级.
     + You really can't see how very privileged you are yourself?
       您真的看不到自己有多荣幸吗？
@@ -3899,10 +4000,10 @@
 - **evolve `[ɪ'vɒlv]` --vt&vi. 发展; 演变**
     + evolve into: vt.逐渐发展成, 进化成
     + evolve from: v.由...进化
-- **confluence `[]` --**
-- **salubrious `[]` --**
-- **stratagem `[]` --**
-- **protractor `[]` --**
+- **confluence `//` --**
+- **salubrious `//` --**
+- **stratagem `//` --**
+- **protractor `//` --**
 
 ### 20190920
 - How to check if an app is installed from a web-page on an iPhone?
@@ -4595,18 +4696,22 @@
     + Limited new space size due to high promotion rate: 1MB
         由于高提升速率限制新空间大小
 - **rate `[reɪt]` --n.比率；速度；费用  --v.评价, 评估**
+- **statistic `/stəˈtɪstɪk/` --n.统计; 统计量; 统计数据.**
+    + the offical crime statistics. 官方的犯罪统计数字.
+    + Statistics show that 50% of new businesses fail in their first
+      year. 统计数据显示, 50% 的新企业在第一年即倒闭.
+    + Statistics is a branch of mathematics. 统计学是数学的一个分支.
 - **statistical `[stə'tɪstɪk(ə)l]` --adj.统计的, 统计学的**
     + statistical analysis. 统计数据分析. 
     + statistical information. 统计信息. 
     + statistical method. 统计方法
-    + statistical method. 统计方法
-- **statistically `[stə'tistikli]` --adj.统计上地, 统计地**
+- **statistically `[stə'tistikli]` --adv.统计上地, 统计地**
     + In fact, statistically, very few[fjuː]('肥有') have been.
-        事实上, 从统计数据上看, 真的非常少. 
+      事实上, 从统计数据上看, 真的非常少. 
 - **resident `['rezɪd(ə)nt]` --n.居民, 住户. --adj.常住的, 居住的.**
     + resident set size 常住组大小
     + I have been resident in this hotel for five years.
-        我住在这家旅馆五年了. 
+      我住在这家旅馆五年了. 
     + permanent resident. 永久性居民
 - **residence `['rezɪd(ə)ns]` --n.住宅, 居住**    
 - **permanent `['pɜːm(ə)nənt]` (per-ma-nent) --adj.永久的, 固定的**
@@ -6294,7 +6399,9 @@
     + back stall 后座
     + stalling for time. 拖延时间
     + The engine stalled suddenly. 发动机突然熄火了
-- **suspend `[sə'spend]` v.暂停, 中止, 停止**
+- **suspend `[sə'spend]` --vt.暂停, 中止, 停止**
+    + Sales of the drug will be suspended until more tests are completed.
+      这种药品在完成进一步检验之前将暂停销售.
 - **ceiling `['siːlɪŋ]` --n.天花板, 顶棚**
     + The lamp was suspended from the ceiling. 等吊在天花板上. 
     + Why the ball can suspend itself in the air without any support? 
@@ -6784,7 +6891,7 @@
 - **additive `['ædətɪv]` --n.添加剂  --adj.附加的, 累积的**
     + additive effect 累加效应
 - **precedence `['presɪd(ə)ns]` --n.优先**
-    + operator precedence `[计]操作优先
+    + operator precedence [计]操作优先
 - **unary `['juːnərɪ]` --adj.[数]一元的**
     + unary operators 一元运算符
     + unary operation 一元运算
@@ -7328,6 +7435,11 @@
      + His plan is incompatible with my intent.  他的计划与我的意图不相符. 
      + Long hours are simply incompatible with family life.
         长时间的工作与家庭生活格格不入. 
+- **compatibility `/kəmˌpætəˈbɪləti/` --n.[计]兼容性; 相容性.**
+    + compatibility processor. 兼容性处理器
+    + backward compatibility. 向下兼容; 向后兼容.
+    + 
+- **processor `//` --**
 - **simply `['sɪmplɪ]` --adv.只是, 根本, 简直, 简单地**
      + That is simply abnormal. 那简直是反常的. 
 - **abnormal `[æb'nɔrml]` --adj.反常的, 异常的, 变态的**
@@ -7467,7 +7579,7 @@
 - **calculation `[kælkjʊ'leɪʃ(ə)n]` --n.计算, 打算**
 - **similar `['sɪmɪlə]` --adj.类似, 相似**
 - **parameter `[pə'ræmɪtə]` --n.参数**
-- **partial `['pɑːʃ(ə)l]` --adj.局部的, 部分的, `[口]偏爱的**
+- **partial `['pɑːʃ(ə)l]` --adj.局部的, 部分的, [口]偏爱的**
     + partial success. 部分的成功. 
     + partial to detective novels. 偏爱侦探小说
 
