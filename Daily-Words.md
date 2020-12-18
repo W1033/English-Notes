@@ -4010,7 +4010,7 @@
 
 ### 20190919
 - Hold fast to life, but not so fast that you cannot let go.
-    抓住生活, 但不要抓得太紧, 以至于无法放弃.
+  抓住生活, 但不要抓得太紧, 以至于无法放弃.
 - **localize `['lokəlaɪz]` --v.本地化, 局部化**
 
 ### 20190918
