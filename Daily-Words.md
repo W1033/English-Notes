@@ -7152,6 +7152,10 @@
     + prefix notation 前缀表示法
 - **brew `[bruː]` --vt.酿造 --vi.酿酒 --n.啤酒**
     + If you drink coffee, preset it to brew before you wake up.
+- **brewery `/ˈbruːəri/` --noun(countable).酿造厂.**
+    + beer`/bɪə/|/bɪr/` brewery. 啤酒厂
+    + Stone is a large brewery. It has customers across the U.S. and
+      Europe. Stone 是一加大兴酒厂. 其顾客遍布美国和欧洲.
 
 ### 20181127
 - **preset `[priː'set]` --vt.预置 --n.预调装置  --adj.预先调整的**
@@ -7164,7 +7168,7 @@
     + That is manifest(adj) to all of us.
     + I was going to say she's not on the crew manifest. 我是想对说她没有登记在
     + He doesn't manifest(v) much interest in his studies. 他对学习没表示出多大兴趣. 
-- **common /'kɒmən]` --adj.共同的, 常见的, 普遍的
+- **common /'kɒmən]` --adj.共同的, 常见的, 普遍的**
     + common program  公用程序    
     
 ### 20181126
