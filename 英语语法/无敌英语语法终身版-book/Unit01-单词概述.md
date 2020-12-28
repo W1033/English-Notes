@@ -137,13 +137,7 @@ Uit2 ~ Unit10 将详细介绍不同的词类.
   
   <strong style="color:green;">“漂亮” 作表语, 说明花园的状况, 需用形容词 beautiful.</strong>
 
-
-
-1. 
-
-
-
- She dancea beautifully（地跳舜跳得很漂亮. ）
++ (2) She dancea beautifully（她跳舞跳得很漂亮. ）
 
 漂亮”作状语, 修饰动词 dance, 需用副词 beautifull 2. He is a good student.（他是一个好学生. ）d 是形容词, 修饰名词, 放在名词前面：mod 和 wel 都表示好注意
 

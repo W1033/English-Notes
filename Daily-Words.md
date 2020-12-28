@@ -23,6 +23,10 @@
 # 2020 Year
 
 ## 2020-12
+### 20201227
+- **topic `/ˈtɒpɪk/`|`/ˈtɑːpɪk/` --n.话题,论题,题目**
+    + The environment is a popular topic these days. 如今环境是一个热门话题.
+
 ### 20201214
 - **equate `/ɪˈkweɪt/` --vt.等同; 等量齐观**
     + Most people equate wealth with success. 大多数人把财富和成功等同起来.
