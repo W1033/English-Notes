@@ -79,7 +79,7 @@
 
 本单元分别从单词的分类、学习英语单词应该注意的事项以及单词的构成三方面来概述英语单词. 
 
-Uit2 ~ Unit10 将详细介绍不同的词类. 
+Unit2 ~ Unit10 将详细介绍不同的词类. 
 
 ### 1. 单词的分类
 英语单词是构成英文的最基本单位. 英语单词有数十万之多, 根据其意义、在句中所起的作用可以分为下面十类:
@@ -97,30 +97,22 @@ Uit2 ~ Unit10 将详细介绍不同的词类.
 | 9    | 连词 | conjunction (*) | `conj.` |  连词不能独立担任句子成分, 而只起连接 `词与词`,`短语与短语`以及`句子与句子`的作用. | and, or, but, therefore, or, unless, since, if |
 | 10    | 感叹词 | interjection (*) | `interj.` | 表示说话时的喜悦, 惊讶等各种情感的语气. | oh, hey, dear, my goodness, Dear me, well |
 
-其中, `名词`, `动词`, `形容词`, `副词`, `数词`, 代词可以独立担当句子成分, 称为**实意词**.
-
-`冠词`, `介词`, `连词`不可以独立担当句子成分, 称为**虚词**.
-
-`感叹词`不承担句子成分, 被视为特殊的一类词.
+其中, `名词`, `动词`, `形容词`, `副词`, `数词`, 代词可以独立担当句子成分, 称为**实意词**. `冠词`, `介词`, `连词`不可以独立担当句子成分, 称为**虚词**. `感叹词`不承担句子成分, 被视为特殊的一类词.
 
 
 ### 2. 学习英语单词应该注意的事项
-> 01 一个单词属于哪一类词不是绝对不变的. 一个单词同时具有二, 三个词性是很普通的情况. 有时, 同一个单词在不同的词类中, 表达的意思是不同的, 使用时应当特别注意.
+#### 2.1 一个单词属于哪一类词不是绝对不变的. 一个单词同时具有二, 三个词性是很普通的情况. 有时, 同一个单词在不同的词类中, 表达的意思是不同的, 使用时应当特别注意.
 
-**1. like 即可以是动词(v), 也可以是介词(prep).**
+##### 1. like 即可以是动词(v), 也可以是介词(prep).
++ (1) He side he <i style="text-decoration: underline">liked</i>the classical music very much.  他说他非常喜欢古典音乐.
 
-+ (1) He side he <i style="text-decoration: underline">liked</i>
-    the classical music very much.
-    他说他非常喜欢古典音乐.
-    
-    <strong style="color:green;">like 在这里是动词, 表示 "喜欢"</strong>
+  <strong style="color:green;">like 在这里是动词, 表示 "喜欢"</strong>
 + (2) He looks <i style="text-decoration: underline">like</i> a film
   star. (他看上去像一个电影明星.)
 
   <strong style="color:green;">like 在这里是介词, 表示 "像..."</strong>
 
-**2. hard 既可以是形容词(adj), 也可以是副词(adv).**
-
+##### 2. hard 既可以是形容词(adj), 也可以是副词(adv).
 + (1) This is a <i style="text-decoration: underline">hard</i> question.
   (这是一道难题.)
 
@@ -130,22 +122,54 @@ Uit2 ~ Unit10 将详细介绍不同的词类.
   
   <strong style="color:green;">hard 在这里是副词, 说明动词 work 的程度</strong>
 
-> 02 不同词性的单词在句子中承担的成分是不同的, 也就是说, 句子的不同成分需要用不同词性的单词来承担, 即使它们的意思(即译成中文的意思)是相同的. 名词可以作主语、宾语、表语; 形容词用作定语修饰名词或作表语; 动词用作谓语; 副词作状语修饰动词等. 因此,记单词时必须注意它的词性类别, 才能做到正确使用单词. 对比下列句子: 
+#### 2.2 不同词性的单词在句子中承担的成分是不同的, 也就是说, 句子的不同成分需要用不同词性的单词来承担, 即使它们的意思(即译成中文的意思)是相同的. ==名词可以作主语、宾语、表语;== ==形容词用作定语修饰名词或作表语;== ==动词用作谓语;== ==副词作状语修饰动词等.== 因此,记单词时必须注意它的词性类别, 才能做到正确使用单词. 对比下列句子: 
 
 + (1) This garden is very
   <i style="text-decoration: underline">beautiful</i>. (这个花园很漂亮.)
   
   <strong style="color:green;">“漂亮” 作表语, 说明花园的状况, 需用形容词 beautiful.</strong>
 
-+ (2) She dancea beautifully（她跳舞跳得很漂亮. ）
+  She danced <i style="text-decoration: underline">beautifully.</i>
+  (她跳舞跳得很漂亮. ）
+  
+  <strong style="color:green;">"漂亮" 作状语, 修饰动词 dance, 需用副词 beautifully</strong>
+  
++ (2) He is a <i style="text-decoration: underline">good</i> student.
+  (他是一个好学生.）
 
-漂亮”作状语, 修饰动词 dance, 需用副词 beautifull 2. He is a good student.（他是一个好学生. ）d 是形容词, 修饰名词, 放在名词前面：mod 和 wel 都表示好注意
+  <strong style="color:green;"> good 是形容词, 修饰名词, 放在名词前面.</strong>
 
- He sings well.（他唱歌唱得好. ）但是它们的 i 词性不同, 因此
+  He sings ***well***. (他唱歌唱得好.)
 
-008 we 是副词, 修饰
+  **well 是副词, 修饰动词 sing, 放在名词后面.**
 
-mg, 放在动词后面用法不同, 不用
+  注意: good 和 well 都表示 "好", 但是它们的词性不同, 因此用法不同, 决不能混用.
+
+  了解单词的词性是能够正确使用单词的前提. 所以, 在学习单词的程中, 不但要记住单词的拼写、读音，还要知道它是哪一类单词，以及在句子中可以担当的成分.
+
+#### 2.3 词组是英语词汇的重要组成部分, 很多意思的表达式靠一个词组来完成的. 因此, 在学习英语单词时, 相关词组应像一个单词一样整体记忆. 以 look 为例: look 是 "看" 的意思. 但是:
+1. Please ***look at*** the blackboard. (请看黑板.)
+    + ***look at*** 表示 "看/注视某物".
+2. She likes to ***look after*** small animals. (她喜欢照顾小动物.)
+    + ***look after*** 表示 "照顾".
+3. He is ***looking for*** his dictionary.（他正在找他的字典.)
+    + ***look for*** 表示 "寻找, 搜索"
+4. If you have some words you don't know, ***look*** them ***up*** in the dictionary.（如果有些你不认识的词、查一下字典。）
+    + ***look up*** 表示 "在参考书, 字典等中寻找并找到"
+5. We all ***look forward to*** graduation. (我们都期待着毕业.)
+    + ***look forward to*** 表示 "以愉快, 急切的心情盼望着......"
+
+#### 2.4  动词的变化是英语学习的一个重要方面。英文句子的时态、语态、语气等都是通过动词的变化产生的. 如:
+1. He ***studies*** English. (他学习英语.) ***一般现在时第三人称.***
+2. He ***is studying*** English. (他正在学习英语.) ***现在进行时.***
+3. He ***studied*** Chinese last night. (他昨天晚上学习了中文.) ***一般过去时.***
+4. He ***was studying*** English when I came. (我来时他正在学习英语.) ***过去进行时.***
+5. He ***has studied*** English. (他学过英语了.) ***现在完成时.***
+6. He ***had studied*** Chinese before he came to China. (他来中国之前已经学过中文了.) ***过去完成时.***
+
+我们在字典里看到的动词是它的原形，但在实际生活中，我们会大量使用动词的其他形式：动名词，过去式，现在分词，过去分词。动词的这些变化，大部分是规则变化，不需要单独记忆。但是，有些动词的过去式和过去分词是不规则变化，其拼写完全不同，这就需要逐一记忆，否则，明明能看懂的句子，就会看不懂。如:
+1. He got up early in order to ***catch*** the first bus. (他起来的很早以便赶上头班车.) ***catch 的动词原形***
+
 
 
 ### 3. 单词的构成
@@ -154,10 +178,10 @@ mg, 放在动词后面用法不同, 不用
 
 
 
-
-
 ---------
 ## 模板
+
+******
 
 > 00
 

@@ -20,6 +20,23 @@
 
 
 
+# 2021 Year
+
+## 2021-01
+### 2021.01.25
+- **come up with --提出,想出,找出**
+    + I just came up with a general solution, which should work on most web sites. 我仅仅提出一个通用的解答, 该解决方案应该适用于大多数网站.
+- **unqualified `/ʌnˈkwɒlɪfaɪd/` | ` /ʌnˈkwɑːlɪfaɪd/` --无资格的, 不合格的**
+    + Use this prefix for unqualified URLs.
+    + unqualified staff. 不合格的员工
+    + He was unqualified for the job. 他干这份工作不够格.
+    + He is unqualified for the position. 他不适于担任该项职务.
+
+
+------ ------ ------ ------ ------ ------
+
+
+
 # 2020 Year
 
 ## 2020-12
@@ -1987,7 +2004,7 @@
     + Your offer doesn't tempt me at all. 我对你出的价丝毫不感兴趣.
 - **alternative `[ɔːl'tɜːnətɪv]` --adj.选择性的; 二选一的. --n.二者选一**
     + We have two alternative(adj) courses, surrender or death.
-      我们只有两条路, 头像或死亡.
+      我们只有两条路, 投降或死亡.
     + We have no alternative(adj) other. 我们毫无选择余地.
     + You have the alternative(n) of riding or walking.
       你可以在坐车和并行中选择一种.
