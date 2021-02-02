@@ -19,8 +19,16 @@
 - ** `` --**
 
 
-
 # 2021 Year
+
+## 2021-02
+### 2021.02.01
+- **expenditure `/ɪkˈspendɪtʃə/` --n.开支;支出;费用;经费.**
+    + Detailed expenditure 详细支出
+    + government expenditure on education. 政府的教育开支.
+    + expenditure on research and development. 用于研发的开支.
+    
+
 
 ## 2021-01
 ### 2021.01.25
@@ -7344,7 +7352,7 @@
     + He is a man of the highest integrity. 他是个极其正直的人.
 - **extract `[ɪk'strækt]` --vt.提取, 摘录** 
 - **inspact `[ɪn'spekt]` --vt.检查** 
-- **variant `['veərɪənt]` --n.变种** 
+- **variant `/'vɛrɪənt/` --n.变种** 
 
 ### 20181010
 - **indentation[ɪnden'teɪʃ(ə)n]` (in-den-tation)  --n.缩进, 凹槽**
