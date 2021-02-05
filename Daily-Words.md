@@ -14,26 +14,84 @@
 - The strong take what they want. 弱肉强食.
 
 
-- ** `` --**
-- ** `` --**
-- ** `` --**
-
-
 # 2021 Year
 
 ## 2021-02
+### 2021.02.04
+- **topology `/təˈpɒlədʒi/` | `/təˈpɑlədʒi/` --n.拓扑(学), 拓扑结构**
+    + network topology 网络拓扑
+    + topology structure 拓扑结构
+
+### 2021.02.02
+- **hatred `/ˈheɪtrɪd/` --n<不可数>.憎恨,仇恨,憎恶.**
+    + have a hatred of [for]. 痛恨...; (口语)恨透..., 讨厌透...
+    + A look of pure hatred flashed across her face. 十足的仇恨表情在她脸上闪过.
+    + He looked at me with intense hatred. 他满怀敌意地看着我.
+    + There was fear and hatred in his voice. 他的声音里透漏着恐惧和仇恨.
+- **intense `/ɪn'tɛns/` --adj.激烈的;强烈的;紧张的;认真的**
+    + intense love. 热烈的爱.
+    + an intense person. 热情的人.
+    + intense in one's studies. 专心于学习.
+    + Young people today are under intense pressure to succeed.
+      如今的年轻人面临极大的成功压力.
+    + The pain was so intense I couldn't sleep. 我疼得睡不着觉.
+    + The job demands intense concentration. 这工作需要全神贯注.
+- **succeed `/sək'siːd/` --vi.成功,达成. --vt&vi.接替;继承;继任. --vt.替代**
+    + succeed in. 做成, 获得成功.
+    + succeed in doing sth. 成功做某事.
+    + If you work hard(adv, 说明动词 work 的程度) you will succeed(vi).
+      如果你努力工作, 你就会成功.
+    + Scientists claim they have succeeded(vi) in finding a cure for cancer. 科学家声称它们发现了一种治疗癌症的方法.
+    + Very few people succeed(vi) in losing weight and keeping it off.
+      很少人能减肥成功并一直保持下去.
+    + Who will succeed(vt) him to the throne? 谁将继承他的王位?
+    + Queen Mary was succeeded(vt) by Elizabeth. 玛丽女王之后由伊丽莎白一世继位.
+- **recycle `/ˌriːˈsaɪkəl/` --vt&vi.再利用,再循环,回收利用. --n.回收利用,循环使用**
+    + recycled paper. 再生纸
+    + the recycling of glass. 玻璃的回收利用
+    + Recycle Bin. 回收站
+    + So plastic food wrap can't be recycled. 塑料的食物包装薄膜也是不能回收的.
+    + More than 75%(seventy-five percent) of paper is recycled.
+      75% 的纸张能够循环利用.
+- **cure `/kjʊə/` | `/kjʊr/` --vt.治愈,治好; 解决,改善. --n[countable]药,药剂;疗法; 对策,措施.**
+    + This medicine will cure(vt) your cold. 这种药可以医治你的感冒.
+    + Many types of cancer can now be cured(vt). 现在许多癌症都可以治好.
+    + What can't be cured(vt) must be endured. 不能矫正的事只好忍耐.
+    + go to the country for a cure. 去乡下疗养.
+    + Will you be able to cure him, Doctor? 医生, 你能把他只好吗?
+    + There is stall no cure(n) for AIDS. 艾滋病仍然没有治疗方法.
+    + There is no easy cure(n) for loneliness. 对付孤独没有简单的办法.
+- **throne `/θrəʊn/` | `/θroʊn/` --n.王座,宝座; 王位,帝位.**
+    + He is next in line to the throne. 他是第一王位继承人.
+- **concentration `/ˌkɒnsənˈtreɪʃən/` --n.浓度,浓缩; 集中; 专注**
+    + high/low concentration 高/低浓度
+    + mass concentration. 质量浓度
+    + Too much concentration on one aspect of a problem is dangerous.
+      过度专注于问题的一面是危险的.
+    + Tiredness affects your powers of concentration.
+      疲劳影响注意力的集中.
+    + I lost my concentration and fell asleep. 我精神一放松就睡着了.
+- **expectation `/ˌekspekˈteɪʃən/` --n.预料,预期; 期待; 期望,指望.**
+    + For some time he lived with the expectation that he was going
+      to die. 有一段时间, 他预料自己快要不行了.
+    + Profits are below`/bɪ'lo/` expectations. 利润低于预期.
+    + The show exceeded`/ɪk'siːd/` all expectations.(= was much better than expected). 这场演出比人们预期的要好得多.
+    + The number of people who attended fell short of expectations(= was lower than expected). 出席的人数比预期的要少.
+    + His performance did not live up to our expectations.(= was not as good as we expected). 他的表现有负重望.
+    + We are confident in our expectation of a full recovery. 我们满怀信心地期待着完全康复.
+    + The results exceeded our expectations. 结果比我们希望的还好.
+
 ### 2021.02.01
 - **expenditure `/ɪkˈspendɪtʃə/` --n.开支;支出;费用;经费.**
     + Detailed expenditure 详细支出
     + government expenditure on education. 政府的教育开支.
     + expenditure on research and development. 用于研发的开支.
-    
-
 
 ## 2021-01
 ### 2021.01.25
 - **come up with --提出,想出,找出**
-    + I just came up with a general solution, which should work on most web sites. 我仅仅提出一个通用的解答, 该解决方案应该适用于大多数网站.
+    + I just came up with a general solution, which should work on most web sites.
+      我仅仅提出一个通用的解答, 该解决方案应该适用于大多数网站.
 - **unqualified `/ʌnˈkwɒlɪfaɪd/` | ` /ʌnˈkwɑːlɪfaɪd/` --无资格的, 不合格的**
     + Use this prefix for unqualified URLs.
     + unqualified staff. 不合格的员工
@@ -2332,7 +2390,7 @@
     + a large amount(n) of money. 庞大的金额.
 - **wire `[waɪə]` --n.金属丝; 电线; 电报. --vt.发电报; 装电线**
     + The rope was not strong enough, so we used wire.
-        这根绳子不够结实, 所以我们用金属丝.
+      这根绳子不够结实, 所以我们用金属丝.
 - **wired `['waiəd]/[waɪrd]` --adj.有线的; 连线.**
   **--vt.(wire 的过去式和过去分词)发电报; 装电线**
     + a microphone wired(adj) to a loundspeaker. 连接在扬声器上的麦克风.
@@ -2385,11 +2443,10 @@
     + Some people like fat meat, whereas others hate it.
       有些人喜欢肥肉, 相反有些人讨厌肥肉.
     + "Imagination is more important than knowledeg.
-      For knowledge is limited, whereas imagination embraces the entire world,
-      stimulating progress, giving birth to evolution" --`Albert Einstein`,
-      `What Life Means to Einstein` (1924)  
-      想象力比知识更为重要. 因为知识是有限的, 而想象力包括世界的一切, 它推动着社会的发展,
-      它是知识革新的源泉.
+      For knowledge is limited, whereas imagination embraces the
+      entire world, stimulating progress, giving birth to evolution" --`Albert Einstein`,`What Life Means to Einstein` (1924)  
+      想象力比知识更为重要. 因为知识是有限的, 而想象力包括世界的一切,
+      它推动着社会的发展, 它是知识革新的源泉.
 - **embrace `[ɪm'bres]` --vt.拥抱,怀抱; 环绕; 包含. --vi.相拥. --n.拥抱**
     + she embraced(vt) her baby. 她抱紧她的婴儿.
     + They embraced(vt) each other. 他们互相拥抱.
@@ -4518,10 +4575,10 @@
     + The prisoner was cleared. 该囚犯被宣告无罪.
 
 ### 20190821
-- **exceed `[ɪk'siːd]` (Read: 哎可say的) --vt.超过, 超出.  --vi.领先**
+- **exceed `[ɪk'siːd]` --vt.超过, 超出. --vi.领先**
     + exceed in. 在...方面超过
     + They exceed us in number. 他们在数量上超过我们. 
-    + U.S. exports exceeded imports by $2 billion in October.
+    + U.S. exports exceeded imports by `$2` billion in October.
         十月间美国出口金额超过进口金额二十亿美元. 
 - **respond `[rɪ'spɒnd]` --v.回答, 响应, 反应**
     + I invited her to dinner but she did not respond. 
@@ -7628,4 +7685,3 @@
     + a small quantity of food. 少量食物. 
     + What quantity do you require?  你要求多大的数量？
 - **accordion `[ə'kɔːdɪən]` --n.手风琴**
-
