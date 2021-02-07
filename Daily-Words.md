@@ -17,6 +17,10 @@
 # 2021 Year
 
 ## 2021-02
+### 2021.02.05
+- **dictation `//` --**
+    + Hand in your dictations, please. (请把你们的听写交来.)
+
 ### 2021.02.04
 - **topology `/təˈpɒlədʒi/` | `/təˈpɑlədʒi/` --n.拓扑(学), 拓扑结构**
     + network topology 网络拓扑
