@@ -17,9 +17,22 @@
 # 2021 Year
 
 ## 2021-02
+### 2021.02.09
+- **acquisition `/ˌækwɪ'zɪʃən/` --n[uncountable]获得,习得; 得到.**
+    + the acquisition of language. 语言的习得.
+    + the acquisition of new sites for development. 获得新的土地用于开发.
+    + acquisition cost. 收购成本.
+- **utterance `/ˈʌtərəns/` --n.发声; 发言.**
+    + He gave utterance to his rage. 他宣泄他的愤怒.
+    + He has a distinct utterance. 他说话的语调清晰.
+- **rage `/reɪdʒ/` --n.愤怒; 怒气; 怒火. --v**
+
 ### 2021.02.05
-- **dictation `//` --**
+- **dictation `/dɪkˈteɪʃn/` --n.[countable]听写; [uncountable]口述.**
     + Hand in your dictations, please. (请把你们的听写交来.)
+    + do something at the dictation of. ...照...的指示做某事.
+    + I wrote the letter at his dictation. 我照他的口述写信.
+
 
 ### 2021.02.04
 - **topology `/təˈpɒlədʒi/` | `/təˈpɑlədʒi/` --n.拓扑(学), 拓扑结构**
@@ -62,7 +75,7 @@
     + Many types of cancer can now be cured(vt). 现在许多癌症都可以治好.
     + What can't be cured(vt) must be endured. 不能矫正的事只好忍耐.
     + go to the country for a cure. 去乡下疗养.
-    + Will you be able to cure him, Doctor? 医生, 你能把他只好吗?
+    + Will you be able to cure him, Doctor? 医生, 你能把他治好吗?
     + There is stall no cure(n) for AIDS. 艾滋病仍然没有治疗方法.
     + There is no easy cure(n) for loneliness. 对付孤独没有简单的办法.
 - **throne `/θrəʊn/` | `/θroʊn/` --n.王座,宝座; 王位,帝位.**
@@ -338,7 +351,7 @@
       在数学中, 我们使用许多不同的解题方法.
     + He employs a technique called Onion routing.
       他采用了一种叫洋葱路由的技术.
-- **distinct `/dɪˈstɪŋkt/` --adj.不同; 明显; 独特; 分明.**
+- **distinct `/dɪˈstɪŋkt/` --adj.不同的; 明显的; 独特的; 分明的.**
     + two entirely distinct languages. 两种完全不同的语言.
     + There are four distinct types. 有四种完全不同的类型.
     + Horses and donkeys are distinct animals. 马和驴子是完全不同的动物.
@@ -7331,7 +7344,7 @@
     + Let us act with unity, and not division. 我们要团结, 不要分裂. 
 - **instruction `[ɪn'strʌkʃ(ə)n]` --n.指令, 指示, 说明**
     + You could not handle me even if I came with instructions.
-    即使我附带说明你也无法处理我. (嘲讽 webpack)
+      即使我附带说明你也无法处理我. (嘲讽 webpack)
 - **optimize `[ˈɔptəˌmaɪz]` --v.优化**
     + optimize allocation([ælə'keɪʃ(ə)n]` --n.分配) of resources 优化资源配置. 
 - **tricky `['trɪkɪ]` --adj.狡猾的, 机警的**
