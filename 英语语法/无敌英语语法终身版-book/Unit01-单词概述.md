@@ -24,6 +24,7 @@
 - **adjective ['ædʒɪktɪv] --adj.形容词**
     + What does that mean? - It's an adjective. 什么意思? - 是一个形容词
     + an adjective clause. 形容词从句.
+    + an adjective phrase. 形容词短语
     + Adjective modify nouns. 形容词修饰名词.
 - **adverb ['ædvɝb] --n.<语>副词**
     + It's an adverb participle, a perfect participle[发音见下面]. 
@@ -69,8 +70,15 @@
       没有失业人数减少的迹象.
     + There are indications that unemployment will decrease.
       有失业人数减少的迹象.
+- **central `['sɛntrəl]` --adj.中央的; 中心的; 主要的; 中枢的**
+    + Central Processing Unit. 中央处理器
+    + the central area['ɛrɪə]` of the city. 城市的中心区.(城中区)
+    + the central aim of this investigation. 这项调查的主要目的.
+    + the central post office. 中央邮局.
 
 
+我们从来都知道, 很多东西嘴上说不想要, 只是掩饰内心的没得到, 比如两情相悦的爱情;
+但如果一切行动以爱出发, 更多的尝试开启你的心去爱, 我们坚信的总会实现, 不管这种到来是三五年或三十五十年!
 
 
 ## Content
@@ -126,7 +134,7 @@ Unit2 ~ Unit10 将详细介绍不同的词类.
 
 + (1) This garden is very
   <i style="text-decoration: underline">beautiful</i>. (这个花园很漂亮.)
-  
+  <br>
   <strong style="color:green;">“漂亮” 作表语, 说明花园的状况, 需用形容词 beautiful.</strong>
 
   She danced <i style="text-decoration: underline">beautifully.</i>
@@ -159,7 +167,7 @@ Unit2 ~ Unit10 将详细介绍不同的词类.
 5. We all ***look forward to*** graduation. (我们都期待着毕业.)
     + ***look forward to*** 表示 "以愉快, 急切的心情盼望着......"
 
-#### 2.4  动词的变化是英语学习的一个重要方面。英文句子的时态、语态、语气等都是通过动词的变化产生的. 如:
+#### 2.4 动词的变化是英语学习的一个重要方面。英文句子的时态、语态、语气等都是通过动词的变化产生的. 如:
 1. He ***studies*** English. (他学习英语.) ***一般现在时第三人称.***
 2. He ***is studying*** English. (他正在学习英语.) ***现在进行时.***
 3. He ***studied*** Chinese last night. (他昨天晚上学习了中文.) ***一般过去时.***
@@ -169,10 +177,57 @@ Unit2 ~ Unit10 将详细介绍不同的词类.
 
 我们在字典里看到的动词是它的原形，但在实际生活中，我们会大量使用动词的其他形式：动名词，过去式，现在分词，过去分词。动词的这些变化，大部分是规则变化，不需要单独记忆。但是，有些动词的过去式和过去分词是不规则变化，其拼写完全不同，这就需要逐一记忆，否则，明明能看懂的句子，就会看不懂。如:
 1. He got up early in order to ***catch*** the first bus. (他起来的很早以便赶上头班车.) ***catch 的动词原形***
-
+2. He was late for he was **caught** in traffic for an hour. (他迟到了, 因为他被交通阻塞耽误了一小时.) ***caught 是 catch 的过去式和过去分词形式.***
 
 
 ### 3. 单词的构成
+英文的基础单词，即不能再拆解的单词，是我们必须认贞逐一记忆的，如 happy, important, love, worth, like, sleep, begin 等。在这些词汇的基础上，通过一定的构词方法，主要有三种：`转化法`、`派生法`、`合成法`，就可以形成更多的词汇。这些词与原来的基础单词在意思上有某些联系，但它的词性、词义巳经发生了变化。了解单词构成的方法可以迅速扩大词汇量，更好地辨认单词的类别，分清词义，并有助于正确地使用它们。
+
+#### 3.1 转化法: 即一个单词在词形不变的情况下，由一个词类转变为另一个词类。
+
+#### 3.2 派生法: ：即在一个单词的前面加上一个前缀或后面加上一个后缀，有时前缀、后缀都加，从而构成一个新的单词。加后缀，一般是改变词性；加前缀，一般是改变词的意思，如变成原词的反义词。
+
+#### 3.3 合成法: 即由 2 个及其以上的独立的单词结合在一起, 构成新单词.
+##### (1) 合成名词
+- sightseeing 观光
+- headache 头痛
+- crossroad 十字路口
+- sideway 小路，人行道
+- chairman 主席
+- fisherman 渔民
+##### (2) 合成形容词
+- white-haired 长着白发的
+- hard-working 勤劳的
+- career-minded 事业心强的
+- narrow-minded 气批小的，小心眼的
+##### (3) 合成副词
+- whatever 无论什么
+- everywhere 到处
+- whole-heartedly(hearted`/'hɑrtɪd/`) 全心全意地
+##### (4) 合成动词
+- oversleep （使）睡过头
+- white-wash 粉刷
+- highlight 使....突出 <br>
+  合成词的书写形式不太规范，有时将单词合在一起；有时用连字符连起来；有时分开写，不用连字符。
+
+#### 3.4 其他构词方法: 除了上述构词方法, 还有一些构词法也被经常使用.
+##### (1) 截短法: 把一个字母较多的单词截去一部分，使其拼写简单，使用方便。
+- telephone -> phone 电话
+- bicycle -> bike 自行车
+- mathematics -> math 数学
+- examination -> exam 考试
+- refrigerator`/rɪˈfrɪdʒəreɪtə/` -> fridge`/frɪdʒ/` 冰箱
+- influenza`/ˌɪnfluˈenzə/` -> flu 流感
+##### (2) 拼缀法: 把两个单词各取一部分，或一个单词与另一个单词的一部分拼合成一个新词，它的词义是这两个单词词义的组合。
+- news broadcast -> newscast 新闻广播
+- smoke and fog -> smog 烟雾
+- communications satellite`/'sætəlaɪt/`(n.人造卫星) -> comsat 通讯卫星
+- motor hotel -> motel 汽车旅馆
+##### (3) 首字母拼写法: 这一用法主要用于专有名词。很多机构、团体、国家等专有事物的名称都是由几个单词构成的，使用时，只将每个单词的第一个字母写出，形成一个新词。
+- World Trade Organization -> WTO 世界贸易组织
+- very important person -> VIP 重要人物，贵宾
+- International Monetary Fund -> IMF 国际货币基金组织
+- CCTV -> China Central Television 中国中央电视台
 
 
 

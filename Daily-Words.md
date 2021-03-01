@@ -16,10 +16,66 @@
 
 # 2021 Year
 
+## 2021-03
+### 20201.03.01
+- **stainless `/'stenlɪs/` --adj.不锈的; 防锈的. --n.不锈钢**
+    + stainless steel 不锈钢
+    + stainless steel wire. 不锈钢丝
+    + This updated classic gold stainless steel finish.
+      升级的经典金色不锈钢表面.
+    + I have a set of stainless knives and forks.
+      我有一套不锈钢刀叉.
+- **steel `/stiːl/ ` --n.钢,钢铁,钢材. --adj.钢(制)的. --vt.钢化; 使冷酷.**
+    + stainless steel 不锈钢.
+    + iron and steel 钢铁
+    + steel industry. 钢铁工业
+    + The frame is made of steel. 这个架子是钢制的.
+    + Steel is made from iron`/ˈaɪən $ ˈaɪərn/`. 钢是由铁炼成的.
+
 ## 2021-02
-### 2021.02.22
-- **federation `` --**
+### 2021.02.25
+- **Aeron `` --**
+- **Contessa `` --**
+### 2021.02.24
+- **lumbar `/ˈlʌmbə/` --adj.腰的,腰部的.**
+    + pain in the lumbar region. 腰痛
+    + lumbar spine. 腰椎, 腰脊椎
+    + lumbar vertebra. 腰椎
+    + Lumbar support is very important if you're driving a long way.
+      腰部支撑在长途驾驶时非常重要.
+- **region `` --**
     + 
+### 2021.02.23
+- **flavor `` --n.味道; 香味; 气息; 气味. --vt.调味**
+    + Github Flavored(风格/风味) Markdown. 
+
+### 2021.02.22
+- **federation `/ˌfedəˈreɪʃən/` --n.联合,联邦,联盟.**
+    + Federation Square. 联合广场
+    + Badminton World Federation. 国际羽联/世界羽毛球联合会
+- **percentile `/pəˈsentaɪl/` --n.百分位,百分位数**
+    + percentile rank. 百分比排名.
+    + Generating and analyzing percentile reports. 生成和分析百分比报告.
+- **trial `/'traɪəl/` --n.审判; 考验,灾难; 试验; 试用. --adj.尝试的,试验的.**
+    + Life is full of troubles and trials. 人生充满著艰辛和考验.
+    + by way of trial. 以试用的方式.
+    + a new drug that is undergoing clinical trials.
+      正在接受临床试验的一种新药.
+    + They let me have the computer on trial for thirty days.
+      他们让我试用这台计算机三十天.
+    + I took it on trial before buying it. 买它之前我先试用过.
+    + a trial(adj) flight. 试飞.
+    + a trial(adj) run. 试车, 试乘
+- **undergo `/ˌʌndərˈɡoʊ/` --vt.接受; 经历; 经受; 遭受.**
+    + undergo an operation [a medical examination]. 接受手术[诊察]
+    + undergo changes. 经历种种变化
+    + undergo an experience. 体验, 经历.
+    + undergo many hardships. 遭受艰辛.
+- **clinical `/ˈklɪnɪkəl/` --adj.临床的; 诊所的.**
+    + The drug has undergone extensive clinical trials.
+      该药已经过大量的临床试验.
+    + clinical medicine 临床医学
+- **extensive `/ɪkˈstensɪv/` --adj.广阔的; 大量的; 广泛的,全面的.**
 
 ### 2021.02.09
 - **acquisition `/ˌækwɪ'zɪʃən/` --n[uncountable]获得,习得; 得到.**
@@ -29,7 +85,15 @@
 - **utterance `/ˈʌtərəns/` --n.发声; 发言.**
     + He gave utterance to his rage. 他宣泄他的愤怒.
     + He has a distinct utterance. 他说话的语调清晰.
-- **rage `/reɪdʒ/` --n.愤怒; 怒气; 怒火. --v**
+- **rage `/reɪdʒ/` --n.愤怒; 怒气; 怒火. --vi.肆虐; 发怒. --vt.发怒;怒斥**
+    + His face was dark with rage(n). 他气得面色铁青.
+    + fly into a rage. 勃然大怒.
+    + be the rage. 风靡一时.
+    + He flies into a rage(n) if you even mention the subject.
+      你只要一提起这个话题, 他就会暴跳如雷.
+    + He raged(vi) against the injustice of it all. 这一切不公正使他大法怒火.
+    + The wind raged(vi) all night. 风狂吹了一整夜.
+
 
 ### 2021.02.05
 - **dictation `/dɪkˈteɪʃn/` --n.[countable]听写; [uncountable]口述.**
@@ -3224,7 +3288,7 @@
 - **laughter `['lɑːftə]{UK} / `['læftɚ]{US} --n.笑, 笑声**
     + He roared with laughter. 他哄然大笑.
     + burst `[break out]` into laughter. 失声而笑
-    + Laughter is the best medicine['mɛdəsn]. 笑是最好的良药.
+    + Laughter`/ˈlɑːftə $ ˈlæftər/` is the best medicine`/ˈmedəsən/`. 笑是最好的良药.
 - **roar `[rɔː]` --vi.吼叫, 轰鸣, 咆哮, 大笑. --vt.大声说, 吼叫, 叫嚷.**
     **--n.吼声, 咆哮, 轰鸣, 怒吼**
     + A huge truck roared(vi) down the road. 一部大卡车轰隆隆地驶过马路.
