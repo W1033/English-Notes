@@ -17,10 +17,27 @@
 # 2021 Year
 
 ## 2021-03
+### 2021.03.14
+- **facade `/fə'sɑ:d/` --n.正面; 表面; 外观.**
+    + the facade of the cathedral. 大教堂的正面
+    + Behind her cheerful facade, she's a really lonely person.
+      在开朗的外表下, 她其实是个非常孤独的人.
+    + facade pattern. 外观模式; 门面模式; 享元模式.
+    + back facade 背面; 反面.
+    + All of the facades are still there. 那些建筑现在仍然伫立在那里.
+- **cathedral ` /kəˈθiːdrəl/` --n.大教堂**
+    + The town is famous for its cathedral. 这个城镇以大教堂著名.
+    + I live to the west of the cathedral. 我住在大教堂西边.
+
 ### 2021.03.11
-- **clear `` --**
-    + clear view
-    + 
+- **clear `/klɪə/` | `/klɪr/ ` --adj.清楚的; 明确的; 明显的; 明白的.**
+  **--vt.通过; 清除. --vi.放晴; 变清澈. --n.清除; 空隙.**
+    + clear(adj) view 清晰的视野
+    + clear(adj) instructions. 明确的指示
+    + The question wasn't very clear(adj). 这问题不是很清楚.
+    + It's the clearest(adj) guide I've used. 这是我使用过的解释最为清除的指南.
+    + The rules are quite clear(adj) on the point. 在这一点上规定说的很明确.
+    + How can you make the meaning clearer(adj)? 你如何才能够把意思表达得更明白些?
 
 ### 2021.03.01
 - **stainless `/'stenlɪs/` --adj.不锈的; 防锈的. --n.不锈钢**
