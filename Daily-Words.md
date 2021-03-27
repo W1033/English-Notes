@@ -55,9 +55,6 @@
     + Steel is made from iron`/ˈaɪən $ ˈaɪərn/`. 钢是由铁炼成的.
 
 ## 2021-02
-### 2021.02.25
-- **Aeron `` --**
-- **Contessa `` --**
 ### 2021.02.24
 - **lumbar `/ˈlʌmbə/` --adj.腰的,腰部的.**
     + pain in the lumbar region. 腰痛
@@ -65,11 +62,20 @@
     + lumbar vertebra. 腰椎
     + Lumbar support is very important if you're driving a long way.
       腰部支撑在长途驾驶时非常重要.
-- **region `` --**
-    + 
+- **region `/'ridʒən/` --n.地区;区域;地域.**
+    + efforts to bring peace to the region. 为该地区带来和平的努力.
+    + the lower back region. 背部下方.
+    + a region of the brain. 脑部的一个区域.
+    + a desert region. 沙漠地带.
+    + one of the most densely populated regions of North America. 北美人口最为稠密的地区之一.
+    
 ### 2021.02.23
-- **flavor `` --n.味道; 香味; 气息; 气味. --vt.调味**
+- **flavor `/'flevɚ/` --n.味道; 香味; 气息; 气味. --vt.调味**
     + Github Flavored(风格/风味) Markdown. 
+    + What flavor(s) of ice-cream do you like?
+      你喜欢哪一种味道的冰淇淋?
+    + There was a flavor(n) of romance about the affair.
+      那件事带有一点浪漫色彩.
 
 ### 2021.02.22
 - **federation `/ˌfedəˈreɪʃən/` --n.联合,联邦,联盟.**
