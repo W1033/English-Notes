@@ -17,6 +17,16 @@
 # 2021 Year
 
 ## 2021-03
+### 2021.0329
+- **shuttle `/ˈʃʌtl/` --n.梭,梭子; 航天飞机. --vt.将...以(定期)往返班次运送. --vi.(定期地)往返**
+    + a shuttle(n) service between London and Edinburgh.
+      往返于伦敦和爱丁堡之间的航班.
+    + A bus shuttles(vt) passengers back and forth from the station to the terminal.
+      一辆公共汽车在火车站和公共汽车终点站之间往返运送旅客.
+    + Her childhood was spent shuttling(vi) between her mother and father.
+      她的童年是在父母之间穿梭往来中度过的.
+
+
 ### 2021.03.14
 - **facade `/fə'sɑ:d/` --n.正面; 表面; 外观.**
     + the facade of the cathedral. 大教堂的正面
