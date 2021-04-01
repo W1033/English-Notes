@@ -5243,7 +5243,7 @@
     + consult reference books 翻阅参考书
     + I should be consulted about such things. 这种事应该跟我商量. 
 - **warranty `['wɒr(ə)ntɪ]` --n.担保, 保证**
-    + Without warranties or conditions of any kind either epress or 
+    + Without warranties or conditions of any kind either express or 
       implied. 不附带任何明示或暗示的保证或条件. 
 - **imply `[ɪm'plaɪ]` --v.暗示, 意味（着）, 隐含**
     + What do you imply by that statement? 你那句话有什么含义？
