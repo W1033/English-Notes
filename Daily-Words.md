@@ -17,7 +17,7 @@
 # 2021 Year
 
 ## 2021-03
-### 2021.0329
+### 2021.03.29
 - **shuttle `/ˈʃʌtl/` --n.梭,梭子; 航天飞机. --vt.将...以(定期)往返班次运送. --vi.(定期地)往返**
     + a shuttle(n) service between London and Edinburgh.
       往返于伦敦和爱丁堡之间的航班.
@@ -35,7 +35,7 @@
     + facade pattern. 外观模式; 门面模式; 享元模式.
     + back facade 背面; 反面.
     + All of the facades are still there. 那些建筑现在仍然伫立在那里.
-- **cathedral ` /kəˈθiːdrəl/` --n.大教堂**
+- **cathedral `/kəˈθiːdrəl/` --n.大教堂**
     + The town is famous for its cathedral. 这个城镇以大教堂著名.
     + I live to the west of the cathedral. 我住在大教堂西边.
 
