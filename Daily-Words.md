@@ -16,6 +16,23 @@
 
 # 2021 Year
 
+## 2021-04
+### 2021.04.05
+- **occurrence `` --**
+    + Select all occurrences
+- **selection `` --**
+    + Search in selection only 
+
+### 2021.04.04
+- **cocoon `/kə'kʊn/` --n.茧. --vt.包裹,包住**
+    + This is a cocoon, and in a dozen days this will become a butterfly.
+      这是个茧子, 过个十来天它就会变成一只蝴蝶了.
+    + Usually `ˈjuːʒəli/` she lay for ages cocooned(vt) in her warm bed.
+      她经常长时间舒适地躺在暖和的被窝里.
+- **markup `/ˈmɑːrkkʌp/` --n.标记; 涨价.**
+    + an average markup of 10%. 平均 10% 的加成
+
+
 ## 2021-03
 ### 2021.03.29
 - **shuttle `/ˈʃʌtl/` --n.梭,梭子; 航天飞机. --vt.将...以(定期)往返班次运送. --vi.(定期地)往返**
@@ -2322,6 +2339,7 @@
 ### 20200320
 - **declarative `[dɪ'klærətɪv]` --adj.声明式的; 陈述的; 渲染的.**
     + a declarative sentence. 陈述句.
+    + Simple declarative language. 简单的声明式语言.
     + Vue.js uses an HTML-based template syntax that allows you to 
       declaratively bind the rendered DOM to the underlying Vue
       instance’s data.  
