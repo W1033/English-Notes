@@ -18,10 +18,15 @@
 
 ## 2021-04
 ### 2021.04.05
-- **occurrence `` --**
-    + Select all occurrences
-- **selection `` --**
-    + Search in selection only 
+- **occurrence `/əˈkʌrəns/` | `/əˈkɜː-/ ` --n.[事件等的]发生[of]; 发生的事,事件**
+    + Select all occurrences. 选择所有出现
+    + an accident of frequent [rare] occurrence. 经常[很少]发生的意外事件
+    + unexpected occurrences in life. 人生中的意外事件. 
+- **selection `/səˈlekʃən/` --n.选择,精选; 精选品; 选集.**
+    + Search in selection only. 仅搜索选择
+    + the random selection of numbers. 号码的随机抽取
+    + The new leader is a good selection. 新领袖是个好人选
+    + That store has a good selection of furniture. 那家店有很多家具可供挑选.
 
 ### 2021.04.04
 - **cocoon `/kə'kʊn/` --n.茧. --vt.包裹,包住**
