@@ -1,5 +1,8 @@
 # 每日单词 Daily words
 
+
+
+
 ### 全局提示: 
 - 关于名词, 只标注部分 "不可数" 的, 可数名词默认不做标注, 由于笔记做的时间不一,
   2020 之前的笔记, 都没有标注.
@@ -16,9 +19,43 @@
 
 # 2021 Year
 
+
 ## 2021-04
+### 2021.0418
+- **cult**
+- **massive**
+- **carry `/ˈkæri/` --vt.拿,扛; 搬运; 携带. --vi.传达,到达; 射程. --n.[计]进位; 射程; 运载.**
+    + carry out. vt.执行,实行; 实现; 完成
+    + carry on. 继续
+    + carry forward. 发扬; 推进
+    + Gina was carrying(vt) a small bunch of flowers. 
+      吉娜拿着一束小花.
+    + Let me carry(vt) that for you. 让我帮你拿吧.
+    + The waiter carried(vt) out drinks to the table.
+      侍者把我们的饮料端到桌上来.
+    + A drain carries(vt) surplus water to the river.
+      一根排水管把多余的水输送到河里去.
+    + Jack carried(vt) his grandson up the stairs. 杰克把孙子抱上楼去.
+    + His voice will carry(vi) across [to the back of] the room.
+      他的声音可传到房间的对面[后面]
+    + This gun will carry(vi) a half mile. 这支枪有半哩的射程.
+- **bunch `/bʌntʃ/` --n.一束,一串(of); --vt&vi.(使)聚集,(使)聚拢**       
+    + a bunch(n) of 一束; 一群; 一捆; 一堆.
+    + a bunch(n) of grapes`/ɡreɪp/`. 一串葡萄
+    + I'll send her a bunch(n) of flowers. 我会给她送去一束鲜花.
+    + He had a bunch(n) of keys on his belt. 他皮带上挂了一串钥匙.
+    + The children bunched(vt/vi) together in small groups.
+      孩子们聚集在操场上.
+- **drain `/dreɪn/` --vt.排出,使...流出<away/off/out> --vi.(水)排出,流掉<away/off> --n.排水管; 排水沟; 下水道**
+    + Brad drained(vt) all the oil from the engine. 布拉德将引擎中的润滑油全部放掉了.
+    + a well-drained(vt) city. 排水设备良好的城市.
+    + The water drained(vi) away. 水很快就流掉了.
+    + This plain`/pleɪn/` drains(vi) into the lake. 这个平原向哪个湖排水.
+    + The flood was caused by a blocked drain(n). 溢水是由排水管堵塞引起的.
+    + There's a problem with the drains(n). 下水道有问题.
+
 ### 2021.04.05
-- **occurrence `/əˈkʌrəns/` | `/əˈkɜː-/ ` --n.[事件等的]发生[of]; 发生的事,事件**
+- **occurrence `/əˈkʌrəns/` | `/əˈkɜː-/ ` --n.[事件等的]发生[of]; 事件**
     + Select all occurrences. 选择所有出现
     + an accident of frequent [rare] occurrence. 经常[很少]发生的意外事件
     + unexpected occurrences in life. 人生中的意外事件. 
@@ -2714,12 +2751,14 @@
     + unary relation. 一元关系
     + Unary Code. 一元编码
 - **plain `[pleɪn]` --adj.朴素的; 朴实的; 平的; 简单的. --n.平原**
-    + is plain text element. 是纯文本元素.
-    + plain water. 纯净水.
-    + a plain man. 平凡的人.
-    + good plain food. 美味而清淡的食品.
+    + plain(adj) water. 纯净水.
+    + a plain(adj) man. 平凡的人.
+    + good plain(adj) food. 美味而清淡的食品.
     + The problem is quite plain(adj) to us. 那问题我们都很明白.
     + plain(adj) living and high thinking. 朴素的生活和崇高的思想.
+    + You have made your feelings plain enough. 你已经明确表明了你的想法.
+    + Let me make it plain(=state it clearly). We do not want you here.
+      让我明说吧, 我们不想你呆在这儿.
 
 ### 20200306
 - **stub `[stʌb]` --n.存根; 树墩. --vt.根除; 按[捻]熄**
@@ -6501,7 +6540,7 @@
         你可以在游戏运行时按 F5 切换是否使用此功能. 
 
 ### 20190402
-- **burden `['bɜːd(ə)n]` vt.负担, 累赘, 烦恼   --n.负担, 包袱**
+- **burden `['bɜːd(ə)n]` --vt.负担, 累赘, 烦恼   --n.负担, 包袱**
     + Oh, I see. I'm a burden to you. 我明白了 我对你来说是负担. 
     + Oh, no, it's no burden at all.  哦, 不, 当然不是负担
     + You carry that burden around with you. 你一直背负着这个负担. 
@@ -7769,9 +7808,9 @@
     + Put the wrapper in the bin.把包装纸扔进垃圾箱. 
     + He dropped a sweet wrapper. 他扔掉一张糖纸. 
 - **evaluate `[ɪ'væljʊeɪt]` --vt.评价; 估计; 估价**
-    + We should evaluate material from channeled sources the same wey
-      evaluate material from earthly sources.
-      我们应该评估来自渠道资源的材料, 就像评估来自地球资源的材料一样.
+    + You should be able to evaluate(vt) your own work.
+      你应该能够对自己的工作进行评估.
+    + Don't evaluate people by their clothers`/kloʊz/`. 不要根据衣着来评价人.
 - **evaluation `[ɪˌvæljʊˈeɪʃən]` --n.评价, 评估.**
     + a critical evaluation of the film. 对电影的批判性评价. 
 

@@ -22,17 +22,77 @@
   的英式英语发音为['gærɑː(d)ʒ ], 在美式英语发音为[gəˈrɑʒ ]等. 
 
 
-### 未归类
-- **必看:**
-  American English Pronunciation Workshop 这是个视频教程(b 站完整视频连接:
-  https://www.bilibili.com/video/BV1n54y1B7bE/?spm_id_from=333.788.videocard.3),
-  由 Paul蜀黍（中年, 微秃）主讲,
-  真心是我见过最牛逼最强大的讲述单个发音的教程了, 无比夸张的口型和超级缓慢的语速,
-  实用贴心的tips, 这一切都完美构成了AAC的完美补充.
 
-  视频对应 PDF:
-    + 链接: 等自己把 bilibili 的视频下载完后, 再添加百度云分享链接
-    + 提取码:
+### 外国人怎样区分类似Ice eyes ，读法有何不同！？
+<img src="./images_english-pronunciation/s-z-pronunciation.png"
+    style="border-radius:4px; width:100%;
+        box-shadow: 1px 1px 3px 2px #e5e5e5">
+
+
+
+
+### 英语名词复数变化及发音规则
+##### 1. 一般在词尾加－s. 一般来说，s 在元音或浊辅音后读 [z]，在清辅音后面读成 [s]，在 [t] 后与 [t] 在一起读成[ts]，在 [d] 后与 [d] 一起读成[dz]。
++ cups   杯子
++ days   日子
++ hands  手
++ hats    帽子
+
+##### 2. 以s,sh,ch,x结尾的词在词尾加－es，读[iz]
++ classes 班级 
++ buses  公共汽车
++ boxes   盒子 
++ watches  手表
+
+##### 3. 以 "元音字母 ＋ y" 结尾的词，加－s，读作[z]；以 "辅音字母 ＋ y" 结尾的词，变 y 为 i，再加－es，读[iz]。
++ boy-boys  男孩
++ army-armies   军队
++ story-stories  故事   
++ factory-factories  工厂
++ baby-babies   宝贝
+##### 4. 以 o 结尾的词，
+- 4.1 多数加－s，读[z]。
+    + kilo-kilos  公里 
+    + photo-photos  照片
+    + tobacco-tobaccos  烟草
+    + piano-pianos   钢琴
+- 4.2 以元音字母 ＋ o 结尾的词一律加－s，读[z]。
+    + zoo-zoos  动物园   
+    + radio-radios  收音机
+- 4.3 少数以 o 结尾的词，在词尾加-es，读[z]。
+    + tomato-tomatoes  西红柿
+    + hero-heroes  英雄
+    + potato-potatoes  土豆
+##### 5. 以 f 或 fe 结尾的词，多数把 f, fe 变为 v，再加－es，读[vz]。
++ leaf-leaves  树叶  
++ thief-thieves  小偷   
++ wife-wives  妻子  
++ knife-knives  小刀
++ shelf-shelves  架子
+##### 6. 不规则名词的复数形式。
+- 6.1 通过变化单词内部元音字母，构成复杂形式。
+    + man-men  男子 
+    + woman-women  女人 
+    + foot-feet  脚
+    + goose-geese  鹅   
+    + tooth-teeth   牙齿
+    + mouse-mice  老鼠
+    + child-children  小孩    
+- 6.2 单数形式与复数形式相同  
+    + sheep-sheep  绵羊    
+    + deer-deer  鹿
+    + Chinese-Chinese  中国人  
+    + Japanese-Japanese  日本人
+
+
+
+
+
+
+
+
+
+
 
 
 
