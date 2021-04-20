@@ -22,8 +22,19 @@
 
 ## 2021-04
 ### 2021.04.20
-- **exhibite `` --**
-    + Your IP address is either exhibiting suspect behavior, is misconfigured, or has a poor sending reputation.
+- **exhibit `/ɪɡˈzɪbɪt/` --vt.展览,陈列[at, in]. --vi.举办展示会[展览], 展出作品. --n.展品,展出物.**
+    + Your IP address is either exhibiting suspect behavior, is misconfigured, or has a poor sending reputation. 您的 IP 地址显示可疑行为, 配置错误或发送信誉不良.
+    + Her paintings have been exhibited(vi) all over the world. 她的绘画作品在世界各地展出.
+    + The exhibits(n) date from the 17th century. 这些展品的历史可以追溯到 17 世纪.
+    + 
+- **suspect `` --**
+- **review `` --**
+    + Review and accept Grammarly suggestions as you're writing
+- **clarity `` --**
+- **annual `/ˈænjuəl/` --adj.年度的;每年的. --n.年刊,年鉴**
+    + The school trip has become an annual(adj) event. 学校组织的旅行成了每年都要举行的活动.
+    + a household with an annual(adj) income of $60,000. 年收入6万美元的家庭.
+    + an annual income. 年收入.
 
 ### 2021.04.18
 - **cult**
@@ -6226,7 +6237,7 @@
 
 ### 20190503
 - **reputation `[repjʊ'teɪʃ(ə)n]` --n.名声, 名誉**
-    + a good reputation for `[reliability `[ri,laiə'biləti/ --n.可靠, 信赖]. 以可靠著称. 
+    + a good reputation for reliability(`/ri,laiə'biləti/` n.可靠, 信赖). 以可靠著称. 
     + His reputation came out undamaged. 结果他的剩余没有收到寻害. 
     + You must be careful of your reputation. 你得注意自己的名声. 
     + Ant let you keep your reputation. 让你保住你的声誉. 
