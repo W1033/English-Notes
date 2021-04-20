@@ -21,7 +21,11 @@
 
 
 ## 2021-04
-### 2021.0418
+### 2021.04.20
+- **exhibite `` --**
+    + Your IP address is either exhibiting suspect behavior, is misconfigured, or has a poor sending reputation.
+
+### 2021.04.18
 - **cult**
 - **massive**
 - **carry `/ˈkæri/` --vt.拿,扛; 搬运; 携带. --vi.传达,到达; 射程. --n.[计]进位; 射程; 运载.**
