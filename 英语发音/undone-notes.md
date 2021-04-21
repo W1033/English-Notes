@@ -23,12 +23,6 @@
 
 
 
-### 外国人怎样区分类似Ice eyes ，读法有何不同！？
-<img src="./images_english-pronunciation/s-z-pronunciation.png"
-    style="border-radius:4px; width:100%;
-        box-shadow: 1px 1px 3px 2px #e5e5e5">
-
-
 
 
 ### 英语名词复数变化及发音规则

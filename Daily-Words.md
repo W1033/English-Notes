@@ -2132,11 +2132,11 @@
 - **incomprehensibility `[in,kɔm-prihensə'biləti]` --n.不可理解, 不可思议**
 
 ### 20200409
-- **versus `['vɝsəs]` -- prep.与...相比; 与...相对; 对抗**
-    + 3D in the Browser: WebGL versus CSS 3D Transforms.
-      浏览器中的 3D: WebGL 和 css 3D 转换
-    + Today's football match is France versus Brazil. 
+- **versus `/'vɝsəs/` --prep.对, 对抗; 与...相对, 与...相比.**
+    + Today's football match is France versus Brazil`/brəˈzɪl/`. 
       今天的组球赛是法国队对巴西对.
+    + It is France versus Brazil in the final. 决赛是法国队对巴西队
+    + Now, note the preposition, in versus on. 注意下介词, 对比 in 和 on.
 - You might have more catching up to do than you realize.
   你可能要做的事情比你意识到的更多.
 - **along with 与...一道, 与...一起; 沿(顺)着**
@@ -5269,7 +5269,7 @@
     + differential calculus 微分学, 微分
     + integral calculus 积分
     + Actually, I have to get back for calculus. 事实上 我还得去上微积分课. 
-- **transcendental `[ˌtrænsen'dent(ə)l]` (tran-scen-dental)--adj.超越的, 卓越的, **
+- **transcendental `[ˌtrænsen'dent(ə)l]` (tran-scen-dental)--adj.超越的, 卓越的**
     + Transcendental function 超越函数
     + transcendental equation 超越方程
 - **conceptual `[kən'sɛptʃʊəl]` --adj.概念上的**
