@@ -21,6 +21,32 @@
 
 
 ## 2021-04
+## 2021.04.22
+- **extensible `` --**
+- 标记语言(markup language): In computer text processing, a markup language is a system for annotating a document in a way that is syntactically distinguishable from the text, meaning when the document is processed for display, the markup language is not shown, and is only used to format the text. The idea and terminology evolved from the "marking up" of paper manuscripts(i.e. the revision instructions by editors), which is traditionally written with a red pen or blue pencil on authors' manuscripts. Such "markup" typically includes both content corrections(such as spelling, punctuation, or movement of content), and also typographic instructions, such as to make a heading larger or boldface.  
+在计算机文本处理中, 标记语言是一种以语法上可区别于文本的方式为文档添加注释的系统. 也就是说, 在处理文档以进行显示时, 标记语言不会显示, 仅用于格式化文本. 这个想法和术语是从纸质手稿的 "标记"(即编辑的修订说明)演变而来的, 传统上使用红笔或蓝铅笔在作者的手稿上写的. 这种 "标记" 通常既包括内容矫正(例如:内容的拼写, 标点或移动), 也包括印刷指令, 例如使标题变大或加粗.
+- **syntactically `//` --**
+- **distinguishable `//` --**
+- **terminology `//` --**
+- **evolve `//` --**
+- **evolve `[ɪ'vɒlv]` --vt&vi.发展; 演变**
+    + evolve into: vt.逐渐发展成, 进化成
+    + evolve from: v.由...进化
+    + evolve(vt) a new theory. 发展新学说
+    + evolve(vi) from a lower from [into a higher form] of animal life.
+      由低等动物进化到高等动物.
+- **manuscript `//` --**
+- **typical `//` --**
+- **correction `//` --**
+- **punctuation `//` --**
+- **typographic `//` --**
+- **boldface `//` --**
+- **confluence `//` --**
+- **salubrious `//` --**
+- **stratagem `//` --**
+- **protractor `//` --**
+
+
 ### 2021.04.20
 - **exhibit `/ɪɡˈzɪbɪt/` --vt.展览,陈列[at, in]. --vi.举办展示会[展览], 展出作品. --n.展品,展出物.**
     + Your IP address is either exhibiting suspect behavior, is misconfigured, or has a poor sending reputation. 您的 IP 地址显示可疑行为, 配置错误或发送信誉不良.
@@ -87,6 +113,8 @@
     + Usually `ˈjuːʒəli/` she lay for ages cocooned(vt) in her warm bed.
       她经常长时间舒适地躺在暖和的被窝里.
 - **markup `/ˈmɑːrkkʌp/` --n.标记; 涨价.**
+    + markup language 标记语言/标识语言
+    + Extensible Markup Language. 可扩展标记语言
     + an average markup of 10%. 平均 10% 的加成
 
 
@@ -4281,16 +4309,6 @@
     + You really can't see how very privileged you are yourself?
       您真的看不到自己有多荣幸吗？
       
-
-### 20190922
-- **evolve `[ɪ'vɒlv]` --vt&vi. 发展; 演变**
-    + evolve into: vt.逐渐发展成, 进化成
-    + evolve from: v.由...进化
-- **confluence `//` --**
-- **salubrious `//` --**
-- **stratagem `//` --**
-- **protractor `//` --**
-
 ### 20190920
 - How to check if an app is installed from a web-page on an iPhone?
 
@@ -4393,7 +4411,7 @@
     + a circular motion 循环运动
     + Yesterday's circulars. Didn't you see it? 
         昨天的传单上, 你没有看到？
-- **sector `['sektə]` --n.部门；部分；区域；[计]扇形；扇区. **
+- **sector `['sektə]` --n.部门；部分；区域；[计]扇形；扇区.**
     + circular sector: 扇形； 圆扇形 
     + transport sector: 交通部门；运输业
     + In both the public and the private sector.
@@ -6005,8 +6023,6 @@
     + amplification ratio 放大比率
     + calculate the ratios to one decimal place. 比率计算至小数点后第一位. 
     + It defines the aspect ratio of the image. 它定义了图像的纵横比
-- **annotate `['ænəteɪt]` --v.注释, 注解, 批注, 解说.** {repeat 02}
-    + Some people annotate as they read. 有的人一面读书一面做注释. 
 
 ### 20190517
 - **electrical `[ɪ'lektrɪk(ə)l]` --adj.电动, 用电的**
@@ -7374,8 +7390,9 @@
       这可能是您特性环境的问题. 
     + There was no specific plan in my mind. 我脑子里没有具体的计划. 
     + Do you have specific request for packing? 你们对包装有特别的要求吗？
-- **annotate `['ænəteɪt]` --v.注释, 注解**
+- **annotate `['ænəteɪt]` --vt.注释, 注解**
     + Some people annotate as they read. 有的人一面读书一面做注解. 
+    + It will be published with annotations and an index. 这本书出版时将附有注释和索引.
     
 ### 20181209
 - Bluebird is a full featured promise library with unmatched performance.
