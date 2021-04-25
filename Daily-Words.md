@@ -42,10 +42,14 @@
     + evolve into: vt.逐渐发展成, 进化成
     + evolve from: v.由...进化
     + evolve(vt) a new theory. 发展新学说
-    + evolve(vi) from a lower form [into a higher form] of animal life.
+    + evolve(vi) from a lower from [into a higher form] of animal life.
       由低等动物进化到高等动物.
     + Many of our ideas have evolved over time. 随着时间的推移, 我们的许多想法都在改变.
 - **manuscript `//` --**
+- **manuscript `/ˈmænjəskrɪpt/` --n.手稿, 底稿.**
+    + I read his novel in manuscript. 我读过他的小说的手稿。
+    + Unfortunately, parts of the original manuscirpt have been lost.
+      遗憾的室， 部分原始手稿丢失了。
 - **typical `//` --**
 - **correction `//` --**
 - **punctuation `//` --**
