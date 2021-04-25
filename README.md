@@ -23,7 +23,7 @@
 
 ### 1. 学习英语到底学的是什么, 换句话说, 英语是由什么组成的?
 英语的组成基本可以归纳为三大块: **发音, 语法, 词汇**.
-  
+
 学好发音、语法和词汇. 搞定这三个, 不存在英语学不好的. 
 
 至于所谓的 阅读/听力/写作/翻译/口语 无非都是在这 3 者基础之上的运用.
@@ -36,7 +36,7 @@
 <img src="./images-english-notes/basic-english.jpg"
     style="border-radius: 4px; width: 66%;
         box-shadow: 1px 1px 3px 2px #e5e5e5">
-  
+
 此段笔记来源: [知乎: 萌姐英语](https://www.zhihu.com/question/59148385/answer/1140437392)
 (略有修改).
 
@@ -47,11 +47,11 @@
 > [第01讲 一张图告诉你英语该怎么学 | 英语学习方法论](https://www.bilibili.com/video/BV1jE41157bX?t=1435)
 
 此处以视频中的一张图来总结整个视频中的内容
-  
+
 <img src="./images-english-notes/english-methodology.png"
     style="border-radius: 4px; width: 100%;
         box-shadow: 1px 1px 3px 2px #e5e5e5">
-  
+
 实际上上面这个图简单总结我觉得可以写成这样(个人看法):
 
 <img src="./images-english-notes/english-basic.png"
@@ -90,6 +90,11 @@ LDOCE5最令人感动的地方是：单词的例句都是带有发音的！这�
 <img src="./images-english-notes/LDOCE6.png"
     style="border-radius: 4px; width: 66%;
         box-shadow: 1px 1px 3px 2px #e5e5e5">
+        
+欧路词典安装扩展词库的方法，以 windows 为例：
+点击软件右上角的 **工具** --> **词库管理**， 点击 **安装词库**， 点击 **打开文件** 按钮
+找到词库的 mdx 格式所在的文件夹，点击加载即可 (注意：mdd 和 mdx 这两个文件的文件名必须保持一致，mdx 加载后会默认去找 mdd 文件。)
+出现询问是否安装词典的对话框， 点击 "安装词库"  即可。
 
 #### (2) Macmillan English Dictionary for Advanced Learners (麦克米伦高阶英语词典)
 

@@ -27,15 +27,17 @@
 在计算机文本处理中, 标记语言是一种以语法上可区别于文本的方式为文档添加注释的系统. 也就是说, 在处理文档以进行显示时, 标记语言不会显示, 仅用于格式化文本. 这个想法和术语是从纸质手稿的 "标记"(即编辑的修订说明)演变而来的, 传统上使用红笔或蓝铅笔在作者的手稿上写的. 这种 "标记" 通常既包括内容矫正(例如:内容的拼写, 标点或移动), 也包括印刷指令, 例如使标题变大或加粗.
 - **syntactically `//` --**
 - **distinguishable `//` --**
-- **terminology `//` --**
-- **evolve `//` --**
+- **terminology `//` --**；
 - **evolve `[ɪ'vɒlv]` --vt&vi.发展; 演变**
     + evolve into: vt.逐渐发展成, 进化成
     + evolve from: v.由...进化
     + evolve(vt) a new theory. 发展新学说
     + evolve(vi) from a lower from [into a higher form] of animal life.
       由低等动物进化到高等动物.
-- **manuscript `//` --**
+- **manuscript `/ˈmænjəskrɪpt/` --n.手稿, 底稿.**
+    + I read his novel in manuscript. 我读过他的小说的手稿。
+    + Unfortunately, parts of the original manuscirpt have been lost.
+      遗憾的室， 部分原始手稿丢失了。
 - **typical `//` --**
 - **correction `//` --**
 - **punctuation `//` --**
