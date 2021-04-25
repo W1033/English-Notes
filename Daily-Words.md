@@ -22,19 +22,29 @@
 
 ## 2021-04
 ## 2021.04.22
-- **extensible `` --**
+- **extensible `/ɪk'stɛnsəbl/` --adj.可扩展的; 可展开的**
 - 标记语言(markup language): In computer text processing, a markup language is a system for annotating a document in a way that is syntactically distinguishable from the text, meaning when the document is processed for display, the markup language is not shown, and is only used to format the text. The idea and terminology evolved from the "marking up" of paper manuscripts(i.e. the revision instructions by editors), which is traditionally written with a red pen or blue pencil on authors' manuscripts. Such "markup" typically includes both content corrections(such as spelling, punctuation, or movement of content), and also typographic instructions, such as to make a heading larger or boldface.  
 在计算机文本处理中, 标记语言是一种以语法上可区别于文本的方式为文档添加注释的系统. 也就是说, 在处理文档以进行显示时, 标记语言不会显示, 仅用于格式化文本. 这个想法和术语是从纸质手稿的 "标记"(即编辑的修订说明)演变而来的, 传统上使用红笔或蓝铅笔在作者的手稿上写的. 这种 "标记" 通常既包括内容矫正(例如:内容的拼写, 标点或移动), 也包括印刷指令, 例如使标题变大或加粗.
-- **syntactically `//` --**
-- **distinguishable `//` --**
-- **terminology `//` --**
-- **evolve `//` --**
-- **evolve `[ɪ'vɒlv]` --vt&vi.发展; 演变**
+- **syntactical `/sin'tæktikəl/` --adj.句法; 依照句法的.**
+    + Syntactical error. 语法错误
+    + Syntactical analysis. 语法分析 
+- **distinguishable `/dɪˈstɪŋɡwɪʃəbəl/` --adj.可区别的,可看出的; 有区别的.**
+    + The fake was barely distinguishable from the original painting.
+      这幅赝品与原画几乎无法区别.
+    + The male bird is distinguishable from the female. 这种鸟很容易辨认雌雄.
+    + It was getting light and shapes were more distinguishable.
+      光线越来越亮, 形状也更加明显.
+- **terminology `/ˌtɜːməˈnɒlədʒi/` | `/ˌtɜːrməˈnɑː-/` --n.术语, 专有名词**
+    + medical terminology. 医学术语
+    + I don't know any of the terminology. 我不知道任何术语.
+    + It doesn't really matter about the terminology. 术语其实并不重要
+- **evolve `[ɪ'vɒlv]` --vt&vi.发展, 演变; 进化.**
     + evolve into: vt.逐渐发展成, 进化成
     + evolve from: v.由...进化
     + evolve(vt) a new theory. 发展新学说
-    + evolve(vi) from a lower from [into a higher form] of animal life.
+    + evolve(vi) from a lower form [into a higher form] of animal life.
       由低等动物进化到高等动物.
+    + Many of our ideas have evolved over time. 随着时间的推移, 我们的许多想法都在改变.
 - **manuscript `//` --**
 - **typical `//` --**
 - **correction `//` --**
