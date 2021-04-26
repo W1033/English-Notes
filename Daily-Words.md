@@ -287,7 +287,7 @@
     + Queen Mary was succeeded(vt) by Elizabeth. 玛丽女王之后由伊丽莎白一世继位.
 - **recycle `/ˌriːˈsaɪkəl/` --vt&vi.再利用,再循环,回收利用. --n.回收利用,循环使用**
     + recycled paper. 再生纸
-    + the recycling of glass. 玻璃的回收利用
+    + the recycling of glass. 玻璃的回收利用assess
     + Recycle Bin. 回收站
     + So plastic food wrap can't be recycled. 塑料的食物包装薄膜也是不能回收的.
     + More than 75%(seventy-five percent) of paper is recycled.
