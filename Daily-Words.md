@@ -45,10 +45,9 @@
     + evolve(vi) from a lower from [into a higher form] of animal life.
       由低等动物进化到高等动物.
     + Many of our ideas have evolved over time. 随着时间的推移, 我们的许多想法都在改变.
-- **manuscript `//` --**
 - **manuscript `/ˈmænjəskrɪpt/` --n.手稿, 底稿.**
     + I read his novel in manuscript. 我读过他的小说的手稿。
-    + Unfortunately, parts of the original manuscirpt have been lost.
+    + Unfortunately, parts of the original manuscript have been lost.
       遗憾的室， 部分原始手稿丢失了。
 - **typical `//` --**
 - **correction `//` --**
@@ -59,7 +58,6 @@
 - **salubrious `//` --**
 - **stratagem `//` --**
 - **protractor `//` --**
-
 
 ### 2021.04.20
 - **exhibit `/ɪɡˈzɪbɪt/` --vt.展览,陈列[at, in]. --vi.举办展示会[展览], 展出作品. --n.展品,展出物.**
