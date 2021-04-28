@@ -7770,7 +7770,10 @@
     + compatibility processor. 兼容性处理器
     + backward compatibility. 向下兼容; 向后兼容.
     + 
-- **processor `//` --**
+- **processor `/ˈprəʊsesə $ ˈprɑːsesər/ ` --n.[计]处理器, 处理程序**
+    + You can download the file and edit it on your word processor.
+      你可以把文件下载, 用文字处理器做编辑.
+    + A food processor comes in handy. 食品加工处理机用来十分便利.
 - **simply `['sɪmplɪ]` --adv.只是, 根本, 简直, 简单地**
      + That is simply abnormal. 那简直是反常的. 
 - **abnormal `[æb'nɔrml]` --adj.反常的, 异常的, 变态的**
