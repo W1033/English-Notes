@@ -21,7 +21,13 @@
 
 
 ## 2021-04
-## 2021.04.22
+
+## 2021.04.26
+- **urgent `` --**
+    + Urgent Steps. 紧急步骤
+- 
+
+### 2021.04.22
 - **extensible `/ɪk'stɛnsəbl/` --adj.可扩展的; 可展开的**
 - 标记语言(markup language): In computer text processing, a markup language is a system for annotating a document in a way that is syntactically distinguishable from the text, meaning when the document is processed for display, the markup language is not shown, and is only used to format the text. The idea and terminology evolved from the "marking up" of paper manuscripts(i.e. the revision instructions by editors), which is traditionally written with a red pen or blue pencil on authors' manuscripts. Such "markup" typically includes both content corrections(such as spelling, punctuation, or movement of content), and also typographic instructions, such as to make a heading larger or boldface.  
 在计算机文本处理中, 标记语言是一种以语法上可区别于文本的方式为文档添加注释的系统. 也就是说, 在处理文档以进行显示时, 标记语言不会显示, 仅用于格式化文本. 这个想法和术语是从纸质手稿的 "标记"(即编辑的修订说明)演变而来的, 传统上使用红笔或蓝铅笔在作者的手稿上写的. 这种 "标记" 通常既包括内容矫正(例如:内容的拼写, 标点或移动), 也包括印刷指令, 例如使标题变大或加粗.
@@ -45,10 +51,11 @@
     + evolve(vi) from a lower from [into a higher form] of animal life.
       由低等动物进化到高等动物.
     + Many of our ideas have evolved over time. 随着时间的推移, 我们的许多想法都在改变.
+- **manuscript `//` --**
 - **manuscript `/ˈmænjəskrɪpt/` --n.手稿, 底稿.**
-    + I read his novel in manuscript. 我读过他的小说的手稿. 
-    + Unfortunately, parts of the original manuscript have been lost.
-      遗憾的室， 部分原始手稿丢失了. 
+    + I read his novel in manuscript. 我读过他的小说的手稿。
+    + Unfortunately, parts of the original manuscirpt have been lost.
+      遗憾的室， 部分原始手稿丢失了。
 - **typical `//` --**
 - **correction `//` --**
 - **punctuation `//` --**
@@ -58,6 +65,7 @@
 - **salubrious `//` --**
 - **stratagem `//` --**
 - **protractor `//` --**
+
 
 ### 2021.04.20
 - **exhibit `/ɪɡˈzɪbɪt/` --vt.展览,陈列[at, in]. --vi.举办展示会[展览], 展出作品. --n.展品,展出物.**
@@ -361,8 +369,8 @@
 
 ### 20201206
 - **cask `/kæsk/` --n.大酒桶，木桶；一桶(的量)[of]**
-    + a wine case/ a cask of wine. 酒桶；一桶酒. 
-    + I need a cask of wine and some apples. 我需要一桶酒和一些苹果. 
+    + a wine case/ a cask of wine. 酒桶；一桶酒。
+    + I need a cask of wine and some apples. 我需要一桶酒和一些苹果。
 
 
 ## 2020-11
@@ -462,7 +470,7 @@
       big challenge`/'tʃælɪndʒ/`. 从初中过渡到高中真是一项巨大的挑战.
         - Going from junior high school to senior high school.
           在句中作主语. 英语中, 当动词或动词短语用作主语时, 可以使用动词 `-ing`
-          形式. 如:
+          形式。如:
             + Seeing is believing.[谚] 百闻不如一见.
             + Reading outside school is necessary and important in
               learning English. 课外阅读对于英语学习既必要又重要
@@ -656,28 +664,21 @@
     + Industry sometimes compensates(vi) for lack of ability.
       勤勉有时可以弥补能力不足.
 
+### 20201009
+- **thesaurus `//` --**
+    + 
+
+### 20201007
+- **methodology `//` --**
+    + 
+
 ### 20201006
-- **wank `/wæŋk/` --vi.手淫. --n.手淫. --adj.会引起手淫的**
-    + Who is your favorite fantasy when wanking(vi) off on a lonely night?
-      在孤独的夜晚打飞机时，谁是你最喜欢的幻想？
-- **beefy `/'biːfɪ/` --adj.(人)大块头的, 强壮的, 结实的.**
-    + [比较级 beefier, 最高级 beefiest]
-    + He is big and beefy. 他身材魁梧, 肌肉发达.
-- **mighty `/ˈmaɪti/` --adj.有力的, 强大的, 威猛的, 巨大的. --adv.很; 非常. --n.有势力的人.**
-    + a mighty(adj) army. 强大的军队.
-    + make a mighty(adj) bother. 惹出大麻烦.
-    + You seem mighty(adv) sure of your facts. 你好像对自己掌握的事实非常肯定.
-    + They got out of there mighty(adv) fast, I can tell you.
-      我告诉你, 他们很快就离开那里了.
-    + It is mighty(adv) easy. 这太容易了.
-- **terrific `/təˈrɪfɪk/` --adj.太妙了, 极好的, 可怕的, 非常的.**
-    + Terrific work! 很棒的工作! / 优秀的工作！ / 优秀的作品！
-    + I feel absolutely terrific today! 今天你的感觉真是好极了!
-    + She's doing a terrific job. 她活干的真棒.
-    + That's a terriific idea! 这个主意真棒!
-    + terrific value. 大甩卖
-    + Terrific price. 优惠价格.
-    + at (a) terrific speed. 以极大的速度.
+- **wanking `//` --**
+    + 
+- **beefy `//` --**
+    + 
+- **mighty `//` --**
+
 
 
 ## 2020-09
@@ -1203,11 +1204,8 @@
     + a tight schedule. 紧凑的日程表.
     + He is in a tight corner now. 他现在处境困难.
 - **coupling `['kʌplɪŋ]` --n.耦合; 连接,连结.**
-- **flexibility `/ˌfleksɪˈbɪlɪtɪ/` | `/ˌfleksəbɪləti/` --n.灵活性; 弹性; 柔韧性.**
-    + **发音提示: 英式发音最后一个是短元音 `ɪ`, 而而美式发音最后一个是长元音 `i`(`亿`), 其他相似单词同理.**
-    + Employees expect flexibility in the workplace. 员工们盼望弹性工作安排.
-    + Stretching exercise will help your flexibility. 伸展运动会增加身体柔韧性.
-    + Her great strength lies in her flexibility. 她的优势在于她灵活变通.
+    + 
+- **flexibility `//` --**
     + Using `$route` in your component creates a tight coupling with
       the route which limits the flexibility of the component as it
       can only be used on certain URLs.
@@ -1573,6 +1571,7 @@
 - **naughty `['nɔːtɪ]` --adj.顽皮的,淘气的,不听话的; 坏的,(人品)不好的.**
     + Don't be naughty to her. 不要作弄她.
     + a naughty father. 不好的父亲.
+    + 
 
 ### 20200524
 - **execute `['ɛksɪkjut]` --vt.执行; 实行; 进行**
@@ -1617,7 +1616,6 @@
     + in (the) autumn. 在秋季[秋天]
     + in the autumn of 1985. 在 1985 年秋季.
 - **autumnal `[ɔ'tʌmnəl]` --adj.秋的; 秋天的; 已过中年的**
-    + autumnal colours. 秋天的色彩.
 - **shade `[ʃeɪd]` --n.阴; 阴影; 深浅.**
     + There is not much shade there. 那里阴凉的地方不多.
     + The tree gives a pleasant shade. 这棵树提供了一块舒适阴凉的地方.
@@ -3601,7 +3599,7 @@
     + Then I want to know what is the nature of the concept of reducibility.  
       我想知道可简化型概念的本质是什么.
 ### 20191217
-- **mold `/mold/` --n.模(子), 模型. --vt.使...成型, 用...铸造 `[out of, from, in]**
+- **mold `//` --n.模(子), 模型; 铸型. --vt.使...成型, 用...铸造 `[out of, from, in]**
     + He is cast in his father's mold(n). 他长得和他父亲一模一样.
     + Statues are molded(vt) of clay or bronze. 雕像是用黏土或青铜铸成的.
     + Wax is molded(vt) into candles. 蜡被制成蜡烛.
@@ -3612,7 +3610,7 @@
     + bronze(adj) medal['med(ə)l]. 铜牌
     + His face had been bronzed(vt) by the sun. 他的脸被太阳晒成古铜色.
     + Why do the British like to be bronzed? 英国人为什么喜欢晒黑呢?
-- **wax `[wæks]` --adj.蜡的. --n.蜡. --vt.在...上涂蜡**
+- **wax `[wæks]` --adj.蜡. --n.蜡. --vt.在...上涂蜡**
     + a wax(adj) candle. 蜡烛.
     + wax furniture. 在家具上打蜡.
 - **candle `['kænd(ə)l]` --n.蜡烛, 发光的东西**
@@ -4326,10 +4324,8 @@
 - Retype password 
 - **privilege `['prɪvɪlɪdʒ]` --n.特权; 荣幸. --vt.给与...特权**
     + It is truly a privilege to be here. 能来此处真是莫大的荣幸.
-    + It is a great privilege to know you. 认识你是一件难得的事.
-- **privileged `/ˈprɪvəlɪdʒd/` --adj.荣幸的; 特许的; 特权的.**
+- **privileged `//` --adj.特权的; 荣幸的; 特许的.**
     + the privileged classes. 特权阶级.
-    + I was privileged to lead the team. 我有幸可以领队.
     + You really can't see how very privileged you are yourself?
       您真的看不到自己有多荣幸吗？
       
@@ -6249,7 +6245,7 @@
         我们必须把理论与实际结合起来. 
     + integrate theory with practice. 理论联系实际
     + At 10am we have to integrate the new workers.
-      上午10点, 我们必须整合新员工. 
+      上午10点, 我们必须整合新员工。
 - **modify `['mɒdɪfaɪ]` --v.修改**
 - **modification `[ˌmɒdɪfɪ'keɪʃ(ə)n]` --n.修改, 缓和**
     + SubTree Modifications 子树修改
@@ -7770,10 +7766,7 @@
     + compatibility processor. 兼容性处理器
     + backward compatibility. 向下兼容; 向后兼容.
     + 
-- **processor `/ˈprəʊsesə $ ˈprɑːsesər/ ` --n.[计]处理器, 处理程序**
-    + You can download the file and edit it on your word processor.
-      你可以把文件下载, 用文字处理器做编辑.
-    + A food processor comes in handy. 食品加工处理机用来十分便利.
+- **processor `//` --**
 - **simply `['sɪmplɪ]` --adv.只是, 根本, 简直, 简单地**
      + That is simply abnormal. 那简直是反常的. 
 - **abnormal `[æb'nɔrml]` --adj.反常的, 异常的, 变态的**
