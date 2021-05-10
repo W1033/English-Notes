@@ -1,6 +1,14 @@
 # 每日单词 Daily words
 
-
+< (less than)
+> (greater than)
+: (colon)
+" (double quote)
+/ (forward slash)
+\ (backslash)
+| (vertical bar or pipe)
+? (question mark)
+* (asterisk)
 
 
 ### 全局提示: 
