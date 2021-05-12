@@ -27,6 +27,13 @@
 
 # 2021 Year
 
+## 2021-05
+### 2021.05.12
+- **disclaimer `` --**
+- **strive `` -**
+- **decent `` -**
+    + In terms of software support, Sony is decent compre with other mobile manufacturers.
+
 
 ## 2021-04
 
