@@ -39,7 +39,10 @@
 - **disclaimer `` --**
 - **strive `` -**
 - **decent `` -**
-    + In terms of software support, Sony is decent compre with other mobile manufacturers.
+    + In terms of software support, Sony is decent compare with other mobile manufacturers.
+- **tweak `` --**
+    + Tweak device settings...
+
 
 
 ## 2021-04
