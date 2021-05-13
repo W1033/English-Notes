@@ -28,6 +28,13 @@
 # 2021 Year
 
 ## 2021-05
+### 2021.05.13
+- **newbie `` --**
+    + I was a newbie when I first started my Android experience.
+
+- **tweak**
+- 
+
 ### 2021.05.12
 - **disclaimer `` --**
 - **strive `` -**
