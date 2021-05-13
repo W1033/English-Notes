@@ -31,7 +31,7 @@
 ### 2021.05.13
 - **newbie `` --**
     + I was a newbie when I first started my Android experience.
-
+- **verity `` --**
 - **tweak**
 - 
 
