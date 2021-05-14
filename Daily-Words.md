@@ -28,6 +28,14 @@
 # 2021 Year
 
 ## 2021-05
+### 2021.05.14
+- **firmware `` --**
+    + We have managed to share the Original Sony Xperia Stock ROM(fireware) for all the available Sony Xperia Smartphone.
+- **respective**
+    + 
+- ****
+- ****
+
 ### 2021.05.13
 - **newbie `` --**
     + I was a newbie when I first started my Android experience.
