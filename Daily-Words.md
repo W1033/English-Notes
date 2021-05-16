@@ -33,9 +33,9 @@
 
 ### 2021.05.15
 - **corruption `/kəˈrʌpʃən/` --n.堕落; 腐败; 贪污**
-    
-- **corrupt `` --**
-    + Your device is corrupt. It can't be trusted and will not boot.
+    +
+- **corrupt `/kəˈrʌpt/` --adj.贪污的,腐败的; 堕落的; 有缺陷的,有错误的. --vt.使堕落,使腐化; 破坏,侵蚀.**
+    + Your device is corrupt(adj). It can't be trusted and will not boot. 您的设备已损坏. 它不能被信任, 也不会启动.
 - **permissive `` --**
     + 
 
