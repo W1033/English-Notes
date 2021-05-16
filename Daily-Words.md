@@ -1,14 +1,6 @@
 # 每日单词 Daily words
 
-< (less than)
-> (greater than)
-: (colon)
-" (double quote)
-/ (forward slash)
-\ (backslash)
-| (vertical bar or pipe)
-? (question mark)
-* (asterisk)
+
 
 
 ### 全局提示: 
@@ -28,9 +20,29 @@
 # 2021 Year
 
 ## 2021-05
+### 2021.05.16
+- **`<` (less than)**
+- **`>` (greater than)**
+- **`:` (colon)**
+- **`"` (double quote)**
+- **`/` (forward slash)**
+- **`\` (backslash)**
+- **`|` (vertical bar or pipe)**
+- **`?` (question mark)**
+- **`*` (asterisk)**
+
+### 2021.05.15
+- **corruption `/kəˈrʌpʃən/` --n.堕落; 腐败; 贪污**
+    
+- **corrupt `` --**
+    + Your device is corrupt. It can't be trusted and will not boot.
+- **permissive `` --**
+    + 
+
+
 ### 2021.05.14
 - **firmware `` --**
-    + We have managed to share the Original Sony Xperia Stock ROM(fireware) for all the available Sony Xperia Smartphone.
+    + We have managed to share the Original Sony Xperia Stock ROM(firmware) for all the available Sony Xperia Smartphone.
 - **respective**
     + 
 - ****
