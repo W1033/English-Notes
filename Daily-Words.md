@@ -35,7 +35,17 @@
 - **corruption `/kəˈrʌpʃən/` --n.堕落; 腐败; 贪污**
     +
 - **corrupt `/kəˈrʌpt/` --adj.贪污的,腐败的; 堕落的; 有缺陷的,有错误的. --vt.使堕落,使腐化; 破坏,侵蚀.**
-    + Your device is corrupt(adj). It can't be trusted and will not boot. 您的设备已损坏. 它不能被信任, 也不会启动.
+    + Your device is corrupt(adj). It can't be trusted and will not boot.
+      您的设备已损坏. 它不能被信任, 也不会启动.
+    + Corrupt(adj) judges have taken millions of dollars in bribes.
+      贪污的法官接受了及百万美元的贿赂.
+    + a corrupt society. 堕落的社会
+    + corrupt(ajd) data. 出错的数据
+    + the corrupting effects of great wealth. 巨大财富的腐蚀作用.
+    + a virus which corrupts the data on your hard drive.
+      破坏你硬盘内数据的一种病毒.
++ **bribes `` --**
+    + 
 - **permissive `` --**
     + 
 
