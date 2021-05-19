@@ -29,7 +29,9 @@
 
 ## 2021-05
 ### 2021.05.12
-- **disclaimer `` --**
+- **disclaimer `/dɪsˈkleɪmə $ -ər/` --n.免责声明; 不承诺; 放弃,拒绝.**
+    + Disclaimer clause. 免责条款；免责声明。
+   
 - **strive `` -**
 - **decent `` -**
     + In terms of software support, Sony is decent compre with other mobile manufacturers.
