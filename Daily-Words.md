@@ -1,14 +1,6 @@
 # 每日单词 Daily words
 
-< (less than)
-> (greater than)
-: (colon)
-" (double quote)
-/ (forward slash)
-\ (backslash)
-| (vertical bar or pipe)
-? (question mark)
-* (asterisk)
+
 
 
 ### 全局提示: 
@@ -28,13 +20,61 @@
 # 2021 Year
 
 ## 2021-05
+### 2021.05.16
+- **`<` (less than)**
+- **`>` (greater than)**
+- **`:` (colon)**
+- **`"` (double quote)**
+- **`/` (forward slash)**
+- **`\` (backslash)**
+- **`|` (vertical bar or pipe)**
+- **`?` (question mark)**
+- **`*` (asterisk)**
+
+### 2021.05.15
+- **corruption `/kəˈrʌpʃən/` --n.堕落; 腐败; 贪污**
+    +
+- **corrupt `/kəˈrʌpt/` --adj.贪污的,腐败的; 堕落的; 有缺陷的,有错误的. --vt.使堕落,使腐化; 破坏,侵蚀.**
+    + Your device is corrupt(adj). It can't be trusted and will not boot.
+      您的设备已损坏. 它不能被信任, 也不会启动.
+    + Corrupt(adj) judges have taken millions of dollars in bribes.
+      贪污的法官接受了及百万美元的贿赂.
+    + a corrupt society. 堕落的社会
+    + corrupt(ajd) data. 出错的数据
+    + the corrupting effects of great wealth. 巨大财富的腐蚀作用.
+    + a virus which corrupts the data on your hard drive.
+      破坏你硬盘内数据的一种病毒.
++ **bribes `` --**
+    + 
+- **permissive `` --**
+    + 
+
+
+### 2021.05.14
+- **firmware `` --**
+    + We have managed to share the Original Sony Xperia Stock ROM(firmware) for all the available Sony Xperia Smartphone.
+- **respective**
+    + 
+- ****
+- ****
+
+### 2021.05.13
+- **newbie `` --**
+    + I was a newbie when I first started my Android experience.
+- **verity `` --**
+- **tweak**
+- 
+
 ### 2021.05.12
 - **disclaimer `/dɪsˈkleɪmə $ -ər/` --n.免责声明; 不承诺; 放弃,拒绝.**
     + Disclaimer clause. 免责条款；免责声明。
    
 - **strive `` -**
 - **decent `` -**
-    + In terms of software support, Sony is decent compre with other mobile manufacturers.
+    + In terms of software support, Sony is decent compare with other mobile manufacturers.
+- **tweak `` --**
+    + Tweak device settings...
+
 
 
 ## 2021-04
