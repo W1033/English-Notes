@@ -20,6 +20,12 @@
 # 2021 Year
 
 ## 2021-05
+### 2021.05.20
+- **maturity `` --**
+- **meditation `` --**
+    + maturity meditation
+
+
 ### 2021.05.16
 - **`<` (less than)**
 - **`>` (greater than)**
@@ -3631,6 +3637,8 @@
     + This backs up all my transcript. 这个备份了我所有的脚本文件.
     + academic transcript. 成绩单; 大学毕业证.
     + A transcript of their discussion follows. 以下是他们的谈话记录.
+    + The L/L(Love/Light) Research transcripts are available for the following years.
+      下列年份的爱光研究的抄本是可以访问的.
 - **academic `[ˌækə'dɛmɪk]` --adj.学院的; 学术的. --n.大学生, 学者, 大学教师**
     + (more academic; most academic) 无比较级, 最高级.
     + an academic(adj) curriculum. 大学课程
