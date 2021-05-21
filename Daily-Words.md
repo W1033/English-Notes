@@ -6783,7 +6783,7 @@
       这种药品在完成进一步检验之前将暂停销售.
 - **ceiling `['siːlɪŋ]` --n.天花板, 顶棚**
     + The lamp was suspended from the ceiling. 等吊在天花板上. 
-    + Why the ball can suspend itself in the air without any support? 
+    + Why the ball can suspend itself in the air without any support? -+
       没有支撑, 为什么小球会自己悬浮在空中？
 
 ### 20190325
