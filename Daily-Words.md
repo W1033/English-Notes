@@ -5111,6 +5111,7 @@
     + dump an old friend. 抛弃一个老朋友. 
     + I dump the contents onto the floor. 我把信封里的东西都倒在地板上. 
     + garbage(['gɑːbɪdʒ]` --n.垃圾, 废物) dump: 垃圾场, 垃圾堆 
+    + Crash dumps are enabled on your computer. 在您的计算机上已经启动故障转储。
 - **leak `[liːk]` --n.泄漏；漏洞, 裂缝.  --v.泄漏**
     + There is a leak in the roof. 屋顶上有个洞
     + gas leak: 气体泄漏
