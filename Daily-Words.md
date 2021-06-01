@@ -19,6 +19,13 @@
 
 # 2021 Year
 
+
+
+## 2021-06
+### 2021.06.01
+- And things are not what they seem. 事物的外表并不等同于真相。
+
+
 ## 2021-05
 ### 2021.05.30
 - **recognition `` --**
@@ -42,6 +49,17 @@
 
 ### 2021.05.15
 - **corruption `/kəˈrʌpʃən/` --n.堕落; 腐败; 贪污**
+    + combat corruption. 反腐；惩治腐败
+    + crime of corruption. 贪污罪
+    + data corruption. 资料损坏
+    + Here was corruption on a grand scale. 这里的腐败现象曾十分严重。
+    + officials charged with bribery and corruption. 被指控受贿和贪污的官员。
+    + The investigation uncovered widespread corruption within the police force. 这项调查揭发出了警察机关内部普遍的腐败。
+- **combat `` --**
+    + 
+- **charge `` --**
+    + 
+- **bribery `` --**
     + 
 - **corrupt `/kəˈrʌpt/` --adj.贪污的,腐败的; 堕落的; 有缺陷的,有错误的. --vt.使堕落,使腐化; 破坏,侵蚀.**
     + Your device is corrupt(adj). It can't be trusted and will not boot.
@@ -1605,13 +1623,14 @@
 
 ## 2020-05
 ### 20200530
-- **sticky `['stɪki]` --adj.黏性; 粘(nian))的, 粘(nian)性的**
+- **sticky `['stɪki]` --adj.黏性; 粘(nian)的, 粘性的**
     + a sticky candy. 黏黏的糖果
     + But I don't like sunscreen. It's sticky!
       可视我不喜欢防晒乳, 它黏腻腻的!
     + sticky rice. n.糯米
     + sticky tap. 胶带
     + sticky fingers. 偷盗习惯; 小偷小摸的人.
+
 
 ### 20200528
 - **approachable `[ə'prəʊtʃəb(ə)l]/[ə'protʃəbl]` --adj.可亲近的; 可接近的.**
@@ -1621,13 +1640,31 @@
     + a versatile genius. 多才多艺的天才.
     + a versatile tool. 多用途的工具
 
-### 2020057
-- **sanitize `[ˈsænɪˌtaɪz]` --vt.消毒; 清洁; 使...无害.**
-    + We're producing about 300 (1135 liters) gallons of sanitizer right
-      now. 我们现在生产大约 3000 加仑(1135升)的消毒液.
-- **crash `[kræʃ]` --n.崩溃; 死机; 坠毁; 相撞. --vi.撞击声; 哗啦, 撞到.**
+
+### 2020.05.27
+#### sanitize `[ˈsænɪˌtaɪz]` --vt.消毒; 清洁; 使...无害.
+- We're producing about 300 (1135 liters) gallons of sanitizer right now. 我们现在生产大约 3000 加仑(1135升)的消毒液.
+
+#### crash `/kræʃ/`
+##### verb(v) `S3: Top 3000 Spoken words`, `W2: Top 2000 Written words`
+(Longman dictionary of contemporary english 6th edition. 朗文现代英语第六版词典)
+###### (1) [intransitive, transitive] 撞车; (飞机)坠毁
+- The jet crashed(vi) after take-off. 这架喷气式飞机起飞后就坠毁了。
+- **crash into/onto etc**
+    + The plane crashed(vi) into a mountain. 飞机装上了山头。
+- **crash a car/bus/plane etc**
+    + He was drunk(vt) when he crashed(vt) the car. 他撞车时是醉醺醺的。
+###### (2) [intransitive, transitive always + adverb/preposition(及物动词总是 + 副词/介词)] (很响地)猛撞,猛击
+- **crash a car/bus/plane etc** 
+    + A brick crashed(vi) through the window. 一块砖哗啦一声击穿了窗户。
+    + We watched the waves crashing(v)
+##### noun(n)  
+  + **n.(汽车的)撞车事故; (飞机的)失事; 突然发出的巨响,(东西到下、打破等发出的)碰撞声; (计算机或计算机系统的)瘫痪,死机; (股票的)狂跌.**
     + The plane crash was branded on his mind.
       飞机坠毁的情景铭刻在他的心中.
+
+
+
 
 ### 20200526
 - **spank `[spæŋk]` --vt.拍击, 打...屁股. --n.拍打; 一巴掌.**
@@ -2244,6 +2281,18 @@
     + preserve(vt) order. 维持秩序.
     + preserve food. 保藏食物.
 - **incomprehensibility `[in,kɔm-prihensə'biləti]` --n.不可理解, 不可思议**
+- **comprehensible `/ˌkɒmprɪˈhensəbəl $ ˌkɑːm-/` --adj.易于理解的**
+    + Click here to check if you have the latest version or if an update is available. 点击这里查看是否有最新版本或是否有可用的更新。
+    + Her speech was slurred and barely comprehensible. 她的发言含混不清，几乎听不懂。
+    + The procedure must be clear and comprehensible to all staff.
+      工作步骤必须明白易懂，让所有员工都能理解。
+    + You often find a write's books more comprehensible if you know about his life.  你如果了解作者的生平，就会感到他的作品更容易理解。
+- **slur `/slɜː $ slɜːr/` --vt.含糊不清地说话; 诽谤，诋毁. --vi.含糊不清的说话. --n.诋毁，诽谤.**
+    + She was slurring(vt) her words as if she was drunk. 她好像喝醉了
+    + His voice sounded slurred(vi). 他的声音听起来含混不清。
+    + Don't slur(vt) my brother's reputation! 不要破坏我兄弟的名声！
+    + How dare she **cast** a **slur(n) on** (=criticize) my character?
+      她竟敢诽谤我的人格？
 
 ### 20200409
 - **versus `/'vɝsəs/` --prep.对, 对抗; 与...相对, 与...相比.**

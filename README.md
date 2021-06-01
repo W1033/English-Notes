@@ -1,8 +1,9 @@
 # English-Notes 英语笔记
 
+
 - 真正的理解是无法速成的, 需要大量系统性的输入和辩证的思考.
 
-    
+
 
 ## Catalog
 1. 学习英语到底学的是什么, 换句话说, 英语是由什么组成的?
@@ -67,7 +68,7 @@
 + 链接: https://pan.baidu.com/s/1ugzkQCVv8PrHL4601AvMaw
 + 密码: 1me4
 
-#### (1) Longman Dictionary of Contemporary English 5th Edition (朗文当代高英文词典 第5版)
+#### (1) Longman Dictionary of Contemporary English 5th/6th Edition (朗文当代高英文词典 第5版) （Hint: 墙裂推荐）
 
 如果手机上只能装一本词典的话，我会推荐它。在所有的学习型词典中，朗文英英5词典（以下简称LDOCE5）是最业界良心的一本，它收词量最大，例句也最多，各种搭配和用法举例也非常用心。
 
