@@ -1655,13 +1655,27 @@
 - **crash a car/bus/plane etc**
     + He was drunk(vt) when he crashed(vt) the car. 他撞车时是醉醺醺的。
 ###### (2) [intransitive, transitive always + adverb/preposition(及物动词总是 + 副词/介词)] (很响地)猛撞,猛击
-- **crash a car/bus/plane etc** 
+- **crash into/through etc** 
     + A brick crashed(vi) through the window. 一块砖哗啦一声击穿了窗户。
-    + We watched the waves crashing(v)
-##### noun(n)  
-  + **n.(汽车的)撞车事故; (飞机的)失事; 突然发出的巨响,(东西到下、打破等发出的)碰撞声; (计算机或计算机系统的)瘫痪,死机; (股票的)狂跌.**
-    + The plane crash was branded on his mind.
-      飞机坠毁的情景铭刻在他的心中.
+    + We watched the waves crashing(vt) the rocks. 我们看着海浪哗啦哗啦地冲击岩石。
+    + The plates went crashing(vt) to the ground. 盘子哗啦一声摔落到地上。
+    + A large branch came crashing(vt) down. 一根大树枝啪啦一声掉了下来。
+###### (3) ==LOUND NOISE== [intransitive] 发出巨响
+- Thunder crashed and boomed outside. 外面雷声大作。
+###### (4) ==COMPUTER== [intransitive, transitive] (使) (计算机)瘫痪
+- The system crashed(vi) and I lost three hours' worth of work.
+  系统瘫痪了，我白做了三个小时的工作。
+###### (5) ==FINANCIAL== [intransitive] (股票)狂跌
+
+##### noun(n)
+###### (1) (汽车的)撞车事故;
+
+###### (2) (飞机的)失事; 
+- The plane crash was branded on his mind. 飞机坠毁的情景铭刻在他的心中.
+###### (3) 突然发出的巨响,(东西到下、打破等发出的)碰撞声; 
+###### (4) (计算机或计算机系统的)瘫痪,死机;
+###### (5) (股票的)狂跌.
+
 
 
 
