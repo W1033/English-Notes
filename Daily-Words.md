@@ -2,26 +2,26 @@
 
 
 
-
-### 全局提示: 
-- 关于名词, 只标注部分 "不可数" 的, 可数名词默认不做标注, 由于笔记做的时间不一,
-  2020 之前的笔记, 都没有标注.
-
-
-### 翻译技巧
-- (1) Every time you commit, or save the state of your project in Git.
-  (每次你提交或将项目状态保存在 Git 中时)
-    + the state of your project, 先翻译 of 后面的名词, 再加上前面的修饰.
-      => 翻译为: "你项目的状态"
+## 翻译技巧
+- (1) Every time you commit, or save the state of your project in Git.(每次你提交或将项目状态保存在 Git 中时)
+    + the state of your project, 先翻译 of 后面的名词, 再加上前面的修饰: "你项目的状态".
 
 - The strong take what they want. 弱肉强食.
+
+
+
+
+
 
 
 # 2021 Year
 
 
-
 ## 2021-06
+
+### 2021.06.02
+- I think that, from a biological standpoint, human liefe almost reads lika a poem. 我想，从生物学的观点来说，人生品起来就像一首诗。
+
 ### 2021.06.01
 - And things are not what they seem. 事物的外表并不等同于真相。
 
@@ -1642,10 +1642,10 @@
 
 
 ### 2020.05.27
-#### sanitize `[ˈsænɪˌtaɪz]` --vt.消毒; 清洁; 使...无害.
+#### 1. sanitize `[ˈsænɪˌtaɪz]` --vt.消毒; 清洁; 使...无害.
 - We're producing about 300 (1135 liters) gallons of sanitizer right now. 我们现在生产大约 3000 加仑(1135升)的消毒液.
 
-#### crash `/kræʃ/`
+#### 2. crash `/kræʃ/`
 ##### verb(v) `S3: Top 3000 Spoken words`, `W2: Top 2000 Written words`
 (Longman dictionary of contemporary english 6th edition. 朗文现代英语第六版词典)
 ###### (1) [intransitive, transitive] 撞车; (飞机)坠毁
@@ -1660,21 +1660,27 @@
     + We watched the waves crashing(vt) the rocks. 我们看着海浪哗啦哗啦地冲击岩石。
     + The plates went crashing(vt) to the ground. 盘子哗啦一声摔落到地上。
     + A large branch came crashing(vt) down. 一根大树枝啪啦一声掉了下来。
-###### (3) ==LOUND NOISE== [intransitive] 发出巨响
+###### (3) `LOUND NOISE` [intransitive] 发出巨响
 - Thunder crashed and boomed outside. 外面雷声大作。
-###### (4) ==COMPUTER== [intransitive, transitive] (使) (计算机)瘫痪
+###### (4) `COMPUTER` [intransitive, transitive] (使) (计算机)瘫痪
 - The system crashed(vi) and I lost three hours' worth of work.
   系统瘫痪了，我白做了三个小时的工作。
-###### (5) ==FINANCIAL== [intransitive] (股票)狂跌
+###### (5) `FINANCIAL` [intransitive] (股票)狂跌
 
 ##### noun(n)
-###### (1) (汽车的)撞车事故;
-
-###### (2) (飞机的)失事; 
+###### (1) (汽车的)撞车; (飞机的)失事;
+- Forty-one people were killed in a plane crash. 41人在飞机失事中丧生。
 - The plane crash was branded on his mind. 飞机坠毁的情景铭刻在他的心中.
-###### (3) 突然发出的巨响,(东西到下、打破等发出的)碰撞声; 
-###### (4) (计算机或计算机系统的)瘫痪,死机;
-###### (5) (股票的)狂跌.
+- She was involved in ***a heade-on crash*** with a motorbike.(= in which the front of the vehicle`/'viəkl/` directly hits the front of another.)
+  她与一辆摩托车发生正面碰撞.(= 一辆车的前部直接撞到另一辆车的前部.)
+###### (2) 突然发出的巨响, (东西倒下、打破时发出的)碰撞声; 
+- I heard a loud crash. 我听到一声巨响.
+- **with a crash** 
+    + The branch came down with a crash. 树枝啪啦一声掉了下来.
+- **crash of**
+    + a crash of thunder. 一声炸雷
+###### (3) (计算机或计算机系统的)瘫痪,死机;
+###### (4) (股票的)狂跌.
 
 
 
@@ -5173,11 +5179,14 @@
     + permanent residence. 永久住处. 
     + They have a summer residence in the countrysie. 
         他们在乡间有夏季住宅. 
-- **dump `[dʌmp]` --v.倾倒, 倾销. --n.垃圾, 悲伤**
+#### dump `/dʌmp/`
+##### verb(v) 倾倒, 倾销. --n.垃圾, 悲伤**
     + dump an old friend. 抛弃一个老朋友. 
     + I dump the contents onto the floor. 我把信封里的东西都倒在地板上. 
     + garbage(['gɑːbɪdʒ]` --n.垃圾, 废物) dump: 垃圾场, 垃圾堆 
     + Crash dumps are enabled on your computer. 在您的计算机上已经启动故障转储。
+##### noun(n) 
+
 - **leak `[liːk]` --n.泄漏；漏洞, 裂缝.  --v.泄漏**
     + There is a leak in the roof. 屋顶上有个洞
     + gas leak: 气体泄漏
