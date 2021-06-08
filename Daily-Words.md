@@ -18,6 +18,9 @@
 
 
 ## 2021-06
+### 2021.06.08
+- We cannot manage loneliness from our mind alone.
+  仅仅靠我们的思想是不可能掌控孤独的。
 
 ### 2021.06.02
 - I think that, from a biological standpoint, human liefe almost reads lika a poem. 我想，从生物学的观点来说，人生品起来就像一首诗。
