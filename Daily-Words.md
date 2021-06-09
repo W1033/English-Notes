@@ -18,9 +18,23 @@
 
 
 ## 2021-06
+### 2021.06.09
+- Don't let life slip through your fingers by living in the past or in the future. 不要生活在过去或未来而让生活从你指尖流过。
+
+
 ### 2021.06.08
 - We cannot manage loneliness from our mind alone.
   仅仅靠我们的思想是不可能掌控孤独的。
+#### applicant `/ˈæplɪkənt/` noun [countable] -- 申请人；投保人
+- applicant for.
+    + He was one of 30 applicants for the manager's job.
+      他是经理职位的 30 名申请人之一。
+    + an applicant for admission to a school. 入学许可申请人。
+    + As the wages were low, there were few applicants for the job.
+      因为工资低，没有什么人申请这份工作。
+- The applicants numbered in the thousands. 申请者数以千计。
+
+
 
 ### 2021.06.02
 - I think that, from a biological standpoint, human liefe almost reads lika a poem. 我想，从生物学的观点来说，人生品起来就像一首诗。
