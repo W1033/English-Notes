@@ -18,6 +18,9 @@
 
 
 ## 2021-06
+### 2021.06.11
+- So every defect of the mind may have a special receipt.
+
 ### 2021.06.09
 - Don't let life slip through your fingers by living in the past or in the future. 不要生活在过去或未来而让生活从你指尖流过。
 
@@ -3973,7 +3976,7 @@
     + They are all temporaries like me. 他们都像我一样是临时人员.
     + Maybe because their lives are so temporary.  
       也许是因为他们的声明太短暂.
-- **defect `['diːfekt]` --缺陷; 缺点; 弱点; 瑕疵**
+- **defect `['diːfekt]` --n.缺陷; 缺点; 弱点; 瑕疵**
     + a speech defect. 语言障碍
     + a defect in a car. 一部车子的缺点
     + Everyone has the defects of his qualities `[virtues].  
