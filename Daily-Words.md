@@ -18,16 +18,28 @@
 
 
 ## 2021-06
+### 2021.06.18
+- In my work, as a writer, I only photograph, in words, what I see.
+  身为作家，我只是在作品里用文字记录下我的所见所闻。
+
 ### 2021.06.17
 - A tridition is not built easily or quickly. 传统的树立并非易事，也并非一日之功。
 
 ### 2021.06.16
 - Raise your eyes above the pettiness and follow the path of the greatness that is within you. 忽略生活中的琐碎小事，追随内心的大道吧。
 #### petty `/ˈpeti/` --adj (adjective)
-
+##### (1) (问题，细节等)小的，琐碎的，不重要的
+- petty squabbles. 小口角
+- petty restrictions 小限制
+##### (2) 小气的，小心眼的，心胸狭窄的
+- How can she be so petty? 她怎么会那么小心眼？
+- petty jealousy and spitefulness. 小心眼的嫉妒和怨恨。
+- It was petty of her not to accept the apology. 她气量太小，连道歉也不接受。
+- Such petty behavior is below me. 如此卑劣的行为有失我的身份。
 
 ### 2021.06.11
 - So every defect of the mind may have a special receipt.
+  因此心灵的每一个缺陷都可能有一个特殊的收据。
 
 ### 2021.06.09
 - Don't let life slip through your fingers by living in the past or in the future. 不要生活在过去或未来而让生活从你指尖流过。
@@ -45,7 +57,7 @@
 - The applicants numbered in the thousands. 申请者数以千计。
 
 ### 2021.06.02
-- I think that, from a biological standpoint, human liefe almost reads lika a poem. 我想，从生物学的观点来说，人生品起来就像一首诗。
+- I think that, from a biological standpoint, human life almost reads lika a poem. 我想，从生物学的观点来说，人生品起来就像一首诗。
 
 ### 2021.06.01
 - And things are not what they seem. 事物的外表并不等同于真相。
@@ -53,8 +65,11 @@
 
 ## 2021-05
 ### 2021.05.30
-- **recognition `` --**
-    + 
+#### recognition `/ˌrekəɡˈnɪʃən/`  `W3` `noun`
+##### (1) [singular, uncountable] 认识，承认
+- Don's recogniton of the importance of Suzy in his life. 唐承认苏齐在他生命中的重要性。
+
+
 
 ### 2021.05.20
 - **maturity `` --**
@@ -309,7 +324,6 @@
     + a region of the brain. 脑部的一个区域.
     + a desert region. 沙漠地带.
     + one of the most densely populated regions of North America. 北美人口最为稠密的地区之一.
-    
 ### 2021.02.23
 - **flavor `/'flevɚ/` --n.味道; 香味; 气息; 气味. --vt.调味**
     + Github Flavored(风格/风味) Markdown. 
@@ -509,7 +523,7 @@
       votes that have been reported so far. Given the changes in voting
       methods this yar it may not be possible to declare a winner in a
       number of key states on election night.
-     《纽约时报》的编辑在宣布获胜者之前将考虑许多因素, 包括美联社和爱迪生研究中心进行的比赛电话,
+       《纽约时报》的编辑在宣布获胜者之前将考虑许多因素, 包括美联社和爱迪生研究中心进行的比赛电话,
       以及对迄今为止报道的选票的分析. 鉴于目前这种投票方法的变化,
       在选举之夜可能无法宣布多个关键州的获胜者.
 - **election `/ɪ'lekʃ(ə)n/` --n.选举**
@@ -2552,7 +2566,6 @@
     + I was prevented from attending by a cold. 感冒使得我不能出席.
     + Business prevented his going = Business prevented him going.
       他因有事而不能去.
-      
 ### 20200323
 - **dish `[dɪʃ]` --n.菜; 碟, 盘. --vt.做<菜>; 上<菜><up, out>; 把...转盘**
     + clear away the dishes(n). 收拾盘碟.
@@ -2802,7 +2815,7 @@
     + a microphone wired(adj) to a loundspeaker. 连接在扬声器上的麦克风.
     + She wired(vt) home for money. 她拍电报向家里要钱.
     + She has wired back. 她已经回电了.
-- **below `[bɪ'lo]` (比楼) --prep.下面; 下边; 以下. --adv.在...下方.**
+- **below `[bɪ'lo]` --prep.下面; 下边; 以下. --adv.在...下方.**
     + If your availabe memory goes below this amount the status bar text
       will turn red. 如果您的可用内存低于该数量, 状态栏文本将变成红色.
     + below(prep) sea level. 在海平面下(的).
@@ -4150,7 +4163,6 @@
 ### 20191027
 - To the world you may be one person, but to one person you may be the world.
   对于世界而言, 你是一个人; 但是对于某人, 你是他的整个世界.
-  
 
 ### 20191024
 - If you are obsessed by what other people think, then you
@@ -4490,7 +4502,6 @@
     + the privileged classes. 特权阶级.
     + You really can't see how very privileged you are yourself?
       您真的看不到自己有多荣幸吗？
-      
 ### 20190920
 - How to check if an app is installed from a web-page on an iPhone?
 
@@ -4835,7 +4846,6 @@
 - **complication `[[ˌkɒmplɪ'keɪʃn]` --n.复杂, 并发症, 纠纷**
     + We cannot allow further complication of this matter.
         我们不能让这件事变得更复杂了. 
-    
 ### 20190828
 - **diverge `[daɪ'vɜːdʒ]` --v.分歧；分叉；[数]发散**
     + Your branch and 'origin/master' have diverged.
@@ -5066,7 +5076,6 @@
 ### 20190816
 - **radian `['reɪdɪən]` --n.弧度**
     + 1 radian 约等于 $57.295^\circ$    
-    
 ### 20190815
 - **logarithmic `[ˌlɔɡə'riðmik]` --adj.对数的**
     + Logarithmic functions 对数函数
@@ -5300,7 +5309,6 @@
     + Protection will lead to great prosperity and strength.
       而保护将带来伟大的繁荣和力量. 
     + This is important for global prosperity. 这对全球繁荣是很重要的. 
-    
 ### 20190730
 - **stage `[steɪdʒ]` --n.阶段, 舞台, 期. --v.表演**
     + stage changes 阶段变化
@@ -5912,7 +5920,7 @@
     + (organic `[ɔː'gænɪk]` --adj.有机的) compound. --n.有机化合物
 - **addition `[ə'dɪʃ(ə)n]` --n.加成, 加法, 增加, 附加**
     + Multiplication and addition are associative([ə'səʊʃɪətɪv]` --adj. 
-    联合的, 组成得, 联想得) operations.
+      联合的, 组成得, 联想得) operations.
         乘法和加法时综合性运算. 
     + There is, in addition, one further point to make. 此外, 还有一点要说
     + Addition, subtraction, multiplication, and division are binary 
@@ -6150,7 +6158,6 @@
     + octal number  --n.八进制数
 - **hexadecimal `[ˌheksə'desɪm(ə)l]` --adj.十六进制的**
     + the hexadecimal number system. 十六进制数字系统
-    
 ### 20190520
 - **scale `[skeɪl]` --n.刻度, 规模, 比例.  --v.攀登**
     + How much does it read on the scale? 刻度显示的是多少？
@@ -6602,7 +6609,7 @@
 - **approach `[ə'prəʊtʃ]` --n.途径, 态度  --vt&vi.接近, 靠近  --vt.接洽, 交涉**
     + A week ago or so I was approached by some Chinese programmers 
       complaining about the poor working conditions.
-     一周前, 一些中国程序员找到我, 抱怨工作条件差. 
+       一周前, 一些中国程序员找到我, 抱怨工作条件差. 
     + the approach of winter. 冬天的临近. 
     + the approach of summer. 夏天降至
     + There are two ways to approach this. 解决这种问题一般有2种方法. 
@@ -7056,10 +7063,10 @@
     + The sky was pale blue. 天空呈淡蓝色. 
     + When you are left with a scar, it essentially means the cells that
      make up that scar are extremely damaged. The skin cells are not able to
-     continue producing new skin cells and this is why scars are usually pale
-     and smooth. If the cut was deep enough, it would also affect the hair
-     follicles. The hair follicles underneath the skin cells would also be
-     damaged, resulting in no hair growth.
+      continue producing new skin cells and this is why scars are usually pale
+      and smooth. If the cut was deep enough, it would also affect the hair
+      follicles. The hair follicles underneath the skin cells would also be
+      damaged, resulting in no hair growth.
 
 ### 20190226
 - **additional `[ə'dɪʃ(ə)n(ə)l]` --adj.额外的, 另外的, 附加的**
@@ -7296,7 +7303,6 @@
     + The Hundred-Year Marathon: China's secret strategy to replace 
       America as the global superpower.
         百年马拉松: 中国取代美国称霸全球的秘密战略
-      
 ### 20190203
 - **concern `[kən'sɜːn]` --vt.关心, 忧虑, 有关  --n.关心, 关怀**
     + concern about  对......表示担心/忧虑, 
@@ -7474,7 +7480,6 @@
     + examine into a matter. 调查事实
     + examine a patient. 诊察患者
     + we will have to examine the proposals in detail. 这些提案我们必须详加审查. 
-    
 ### 20181227
 - **concatenation `[kənkætə'neɪʃn]` --n.级联, 并列**
     + a concatenation of events which had finally led to the murder.
@@ -7517,7 +7522,6 @@
     + complexity analysis 复杂度分析
     + There was lots of complexity built into his being. 有很多复杂因素构成了他这个人. 
     + the complexities of family life. 家庭生活中的复杂因素. 
-    
 ### 20181218
 - **heavy `['hevɪ]` --adj.重, 沉重的**
     + heaviest objects in the universe. 宇宙中最终的物体
@@ -7560,7 +7564,6 @@
     + The contract was void. 这合同无效. 
     + contract a marriage. 订婚. 
     + Metal contracts as it cools. 金属遇冷收缩. 
-    
 ### 20181211
 - **concept `['kɒnsept]` --n.概念, 观念**
     + The concept is difficult to prove. 这一概念很难得到证明. 
@@ -7579,11 +7582,9 @@
 - **annotate `['ænəteɪt]` --vt.注释, 注解**
     + Some people annotate as they read. 有的人一面读书一面做注解. 
     + It will be published with annotations and an index. 这本书出版时将附有注释和索引.
-    
 ### 20181209
 - Bluebird is a full featured promise library with unmatched performance.
   Bluebird 是一个功能齐全的 promise 库, 育有无与伦比的性能. 
-  
 ### 20181208
 - **audit `['ɔːdɪt]`  v.审计**
 - **moderate `['mɒd(ə)rət]` --adj.中等的, 温和的, 平和的**
@@ -7592,7 +7593,7 @@
     + You never once showed me any vulnerability. 从没有见过一次你脆弱的一面. 
     + added 190 packages from 597 contributors and **audited**  8375 packages
      in 53.972s found 1 **moderate severity vulnerability**.  
-     增加了来自 597 个贡献者的 190 个包, 并在 53972s 内审核了 8375 个包, 发现 1 个严格漏洞. 
+      增加了来自 597 个贡献者的 190 个包, 并在 53972s 内审核了 8375 个包, 发现 1 个严格漏洞. 
 - **peer `[pɪə]` vi.窥视  --n.同辈  --adj.同等的**
     + You must install peer dependencies yourself. 您必须自己安装对等依赖项. 
 - **greater `[ˈɡreitə]` --adj.较大的**
@@ -7619,7 +7620,6 @@
 - **conclusion `[kən'kluːʒ(ə)n]` `[注: ʒ(ə)n 怎么读？]` --n.结论, 结局**
     + It is too early to draw a conclusion. 现在下结论还为时过早. 
     + Let's not jump to any conclusion, all right? 先别急着下结论 行吗?
-    
 ---------
 
 ## 2018-11
@@ -7659,7 +7659,6 @@
     + He doesn't manifest(v) much interest in his studies. 他对学习没表示出多大兴趣. 
 - **common /'kɒmən]` --adj.共同的, 常见的, 普遍的**
     + common program  公用程序    
-    
 ### 20181126
 - **psyche `[ˈpsaiki]` --n.精神, 灵魂**
     + And worst of all, we lack the ability to sense positive energy 
