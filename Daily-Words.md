@@ -68,7 +68,12 @@
 #### recognition `/ˌrekəɡˈnɪʃən/`  `W3` `noun`
 ##### (1) [singular, uncountable] 认识，承认
 - Don's recogniton of the importance of Suzy in his life. 唐承认苏齐在他生命中的重要性。
-
+- recognition that
+    + There is general recognition that the study techniques of many students are weak. 人们普遍认识到很多学生学习技能薄弱。
+- formal/official recognition
+    + official recognition of the need for jail reform. 官方对监狱需要改革的承认。
+##### (2) (公众的)表彰，赞扬
+- He has achieved recognition and respect as a scientist. 作为而科学家，他得到人们的赞扬和尊敬。
 
 
 ### 2021.05.20
