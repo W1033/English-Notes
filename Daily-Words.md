@@ -9,6 +9,47 @@
 - The strong take what they want. 弱肉强食.
 
 
+- Tony: If I'm gonna do this carrying on living thing, it's gonna be on my terms,
+  I'm gonna do what I want, and I've always got suicide to fall back on."
+
+  (如果我要继续活下去, 就得按照我的条件, 我要随心所欲, 反正随时都可以自杀.)
+  
+  But it didn't go to plan. At first, I thought it was like a superpower.
+  I can do anything. Who cares? What's the worst that can happen? Nothing can
+  hurt me, because I can always kill myself, you know? And...
+
+  (但是并没按照我的计划发展. 一开始, 我以为这就像是超能力. 我什么都可以做, 谁管呢?
+  最糟糕能糟糕到哪里去? 没有什么能伤害到我. 因为我总是可以自杀, 你懂吗?)
+
+  But then... I realized you can't... You can't not care about things you actually
+  care about. You can't fool yourself and... And, err... it was something you said,
+  that it's not all about me, and even though I'm in pain, it's worth... sticking
+  around to maybe... make my...little corner of the world a slightly better place.
+
+  (可然后, 我意识到你不能... 你不能不关心那些你关心的事物. 你不能自欺欺人, 然后, 是你说的一番话,
+  世界并不围着我转, 尽管我很痛苦, 还是值得, 坚持下来, 或许, 让我...所处的这个小小世界变得更好一点)
+
+- Anne: 
+  Got to have a backup.(得有个备用计划.)
+
+  That's all there is. (就该这样)
+
+  Happiness is amazing.(幸福很美好)
+
+  It's so amazing, it doesn't matter if it's yours or not.(太美好 属不属于你都不重要)
+  
+  There's that lovely thing, "A society grows great when old men plant trees,
+  the shade of which they will never sit in." 
+
+  (有句老话说得好, "社会变得美好是因为老人们在不停地栽树, 尽管他们知道他们并不会享受到这些树荫.")
+
+  Good people do things for other people.
+  (好人为别人做事.)
+
+  That's it. The end. (就这么简单.)
+  
+  And you're good, Tony. (而你是好人, 托尼.)
+
 
 
 
