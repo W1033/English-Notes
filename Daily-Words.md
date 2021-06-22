@@ -5303,8 +5303,18 @@
         这个小岛不再是美国的属地.           
 
 ### 20190805
-- **invalid `['ɪnvəlɪd]` --adj.无效的, 无用的  --n.病人** 
-    + Invalid configuration object. 无效的配置对象
+#### invalid `/ɪnˈvælɪd/`
+##### adj(adjective)
+###### (1) (合约，票，所有权等)无效的，作废的；
+- Invalid configuration object. 无效的配置对象
+- Without the right date stamped on it, your ticket will be invalid.
+  票上若没有加盖正确的日期就是废票。
+###### (2) (论据，理由等)站不住脚的
+###### (3) (计算机)不能识别的；不接受的
+- Filename in invalid format.
+##### n（noun)
+##### v(verb) 
+
 - **invalidate `[ɪn'vælɪdeɪt]` --vt.使无效, 使作废** 
     + invalidate caches 使缓存无效
 - **passive `['pæsɪv]` --adj.被动的, 消极的, 被动语态的.  --n.被动语态**
