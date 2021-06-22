@@ -5260,31 +5260,29 @@
     + They have a summer residence in the countrysie. 
         他们在乡间有夏季住宅. 
 #### dump `/dʌmp/`
-##### verb(v) 倾倒, 倾销. --n.垃圾, 悲伤**
-    + dump an old friend. 抛弃一个老朋友. 
-    + I dump the contents onto the floor. 我把信封里的东西都倒在地板上. 
-    + garbage(['gɑːbɪdʒ]` --n.垃圾, 废物) dump: 垃圾场, 垃圾堆 
-    + Crash dumps are enabled on your computer. 在您的计算机上已经启动故障转储。
-##### noun(n) 
+##### verb(v) 倾倒, 倾销.
+- dump an old friend. 抛弃一个老朋友. 
+- I dump the contents onto the floor. 我把信封里的东西都倒在地板上. 
+- garbage(['gɑːbɪdʒ]` -n.垃圾, 废物) dump: 垃圾场, 垃圾堆 
+- Crash dumps are enabled on your computer. 在您的计算机上已经启动故障转储。
+##### noun(n) 垃圾, 悲伤
 
-- **leak `[liːk]` --n.泄漏；漏洞, 裂缝.  --v.泄漏**
-    + There is a leak in the roof. 屋顶上有个洞
-    + gas leak: 气体泄漏
-    + leak out: 走漏；泄漏
-    + Be careful not to have this information leak out.
-        小心别把这个消息泄漏出去
-- **snapshot `['snæpʃɒt]` --n. 快照**
-    + So what can we gather from this snapshot? 
-        我们能从这张快照中收集到什么信息呢?   
-- **buffer `['bʌfə]` --n.缓冲区, 缓冲器.  --vt.缓冲**
-    + Buffer Pool 缓冲池
-    + What is this buffer and why do we require it? 
-        这是什么缓冲, 我们为什么需要它？
-    + Buffer overflow vulnerabilities account for about half of all 
-      the software vulnerabilities.
-        在所有的软件安全漏洞中, 缓冲区溢出漏洞大约占一半.       
-- **allocation `[ælə'keɪʃ(ə)n]` --n.分配**
-    + allocation of resource 资源分配  
+#### leak `[liːk]` --n.泄漏；漏洞, 裂缝.  --v.泄漏
+- There is a leak in the roof. 屋顶上有个洞
+- gas leak: 气体泄漏
+- leak out: 走漏；泄漏
+- Be careful not to have this information leak out. 小心别把这个消息泄漏出去.
+
+#### snapshot `['snæpʃɒt]` --n. 快照
+- So what can we gather from this snapshot? 我们能从这张快照中收集到什么信息呢? 
+  
+#### buffer `['bʌfə]` --n.缓冲区, 缓冲器.  --vt.缓冲
+- Buffer Pool 缓冲池
+- What is this buffer and why do we require it? 这是什么缓冲, 我们为什么需要它？
+- Buffer overflow vulnerabilities account for about half of all the software vulnerabilities. 在所有的软件安全漏洞中, 缓冲区溢出漏洞大约占一半.
+
+#### allocation `[ælə'keɪʃ(ə)n]` --n.分配
+- allocation of resource 资源分配  
 
 ### 20190807
 - **motivation `[,məuti'veiʃən]` --n.动机, 意志**
@@ -5303,21 +5301,30 @@
         这个小岛不再是美国的属地.           
 
 ### 20190805
-#### invalid `/ɪnˈvælɪd/`
+#### 1. invalid `/ɪnˈvælɪd/` 
 ##### adj(adjective)
 ###### (1) (合约，票，所有权等)无效的，作废的；
-- Invalid configuration object. 无效的配置对象
 - Without the right date stamped on it, your ticket will be invalid.
   票上若没有加盖正确的日期就是废票。
-###### (2) (论据，理由等)站不住脚的
-###### (3) (计算机)不能识别的；不接受的
-- Filename in invalid format.
-##### n（noun)
-##### v(verb) 
+###### (2) (论据，理由等)站不住脚的 (an argument, reason ect that is invalid is not based on true facts or clear ideas, an lacks good judgment.)
+###### (3) (计算机)不能识别的；不接受的 (if something you type into a computer is invalid, the computer does not recognize or accept it.)
+- Invalid configuration object. 无效的配置对象
+- Filename in invalid format. 格式不能识别的文件名
+##### n(noun) [countable] 病弱者；年迈者；残疾者.
+- I resented being treated as an invalid. 我讨厌别人把我当残疾人看待。
+##### v(verb) [transitive verb]
+##### be invalided out (*alse* be invalided home) (军人因病或伤而)退役
 
-- **invalidate `[ɪn'vælɪdeɪt]` --vt.使无效, 使作废** 
+#### 2. resent `/rɪˈzent/` verb[transitive] (因受委屈而) 对...感到愤恨[不满]
+- I resented having to work such long hours. 工作时间这么长，我很有怨气。
+- bitterly/deeply/strongly resent
+    + She bitterly resented his mother's influence over him. 她十分讨厌他母亲对他的影响。
+    + Paul **resented the fact that** Carol didn't trust him. 保罗对卡萝尔不信任他感到很不满。
+
+### 3. invalidate `[ɪn'vælɪdeɪt]` --vt.使无效, 使作废
     + invalidate caches 使缓存无效
-- **passive `['pæsɪv]` --adj.被动的, 消极的, 被动语态的.  --n.被动语态**
+
+### 4. passive `['pæsɪv]` --adj.被动的, 消极的, 被动语态的.  --n.被动语态
     + passive DNS 被动 DNS
     + passive smoking 被动吸烟；吸二手烟
     + We should translate this sentence in passive voice.
