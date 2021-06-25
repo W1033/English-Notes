@@ -9,6 +9,8 @@
 - The strong take what they want. 弱肉强食.
 
 
+------
+
 - Tony: If I'm gonna do this carrying on living thing, it's gonna be on my terms,
   I'm gonna do what I want, and I've always got suicide to fall back on."
 
@@ -59,6 +61,12 @@
 
 
 ## 2021-06
+### 2021.06.24
+- Don't be afraid to encounter risks. 不要害怕面对风险。
+
+### 2021.06.23
+- 
+
 ### 2021.06.18
 - In my work, as a writer, I only photograph, in words, what I see.
   身为作家，我只是在作品里用文字记录下我的所见所闻。
@@ -3820,7 +3828,7 @@
     + Then I want to know what is the nature of the concept of reducibility.  
       我想知道可简化型概念的本质是什么.
 ### 20191217
-- **mold `//` --n.模(子), 模型; 铸型. --vt.使...成型, 用...铸造 `[out of, from, in]**
+- **mold `/məʊld $ moʊld/` --n.模(子), 模型; 铸型. --vt.使...成型, 用...铸造 `[out of, from, in]**
     + He is cast in his father's mold(n). 他长得和他父亲一模一样.
     + Statues are molded(vt) of clay or bronze. 雕像是用黏土或青铜铸成的.
     + Wax is molded(vt) into candles. 蜡被制成蜡烛.
@@ -4836,8 +4844,7 @@
     + access specifier 访问说明符
 
 ### 20190902
-- **prerequisite `[ˌpriː'rekwəzɪt]` (pre-re-qui-site) --n.前提, 先决条件.  
-    --adj.预先需要的, 不可或缺的**    
+- **prerequisite `[ˌpriː'rekwəzɪt]` (pre-re-qui-site) --n.前提, 先决条件. --adj.预先需要的, 不可或缺的**    
     + a prerequisite subject. 必须课目
     + Careful study of the market is a prerequisite
 - **inclusive `[ɪn'kluːsɪv]` --adj.包含的, 包括一切的**
@@ -5313,7 +5320,7 @@
 ##### n(noun) [countable] 病弱者；年迈者；残疾者.
 - I resented being treated as an invalid. 我讨厌别人把我当残疾人看待。
 ##### v(verb) [transitive verb]
-##### be invalided out (*alse* be invalided home) (军人因病或伤而)退役
+##### be invalided out (*also* be invalided home) (军人因病或伤而)退役
 
 #### 2. resent `/rɪˈzent/` verb[transitive] (因受委屈而) 对...感到愤恨[不满]
 - I resented having to work such long hours. 工作时间这么长，我很有怨气。
