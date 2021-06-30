@@ -73,6 +73,9 @@
 
 
 ## 2021-06
+### 2021.06.30
+- You'll find that the stress you feel will dissipate and your thoughts will become clearer. 你会发现压力在渐渐消逝，你的想法也渐渐明朗了。
+
 ### 2O21.06.29
 - Love and knowledge, so far as they were possible, led upward toward the heavens. 爱和知识，只要有可能，使用它们的力量把人引向天堂。
 
@@ -118,9 +121,14 @@
     + Are you planning to join the union？ 你打算加入工会吗？
 ##### (2) [countable] 协会；联合会；俱乐部；会社 (used in the names of some clubs or organizations)
 - the British Golf Union. 英国高尔夫球协会
-##### (3) [singular] 结合；联合；联结 (the act of joining two or more things together, or the state of being joined together. 将两个或多个事物连接在一起的行为，或连接在一起的状态)
+##### (3) [singular] 结合；联合；合并 (the act of joining two or more things together, or the state of being joined together. 将两个或多个事物连接在一起的行为，或连接在一起的状态)
 - **union of**
+    + The artist's work shows the perfect union of craftsmanship and imagination. 这位艺术家的作品体现了技巧和想像力的完美结合。
+    + the union of two states. 两国的合并。
+    + 
 - **union with**
+    + Some militants favour independence for Kashmir or union with Pakistan. 有些激进分子主张克什米尔独立或并入巴基斯坦。
+
 
 
 
