@@ -1,6 +1,18 @@
 # 每日单词 Daily words
 
 
+## Longman Dictionary of Contemporary English 5th/6th Edition (朗文当代高英文词典 第5版) 简单说明
+
+![image-20210629151123562](Daily-Words.assets/image-20210629151123562.png)
+
+1. 家族词汇(Word Family): 朗文词典在每个单词页面的顶部把所有相关的不同词性的关联词汇清晰地罗列了出来，并且每个家族词汇都设置了超链接，点击即可跳转相关词汇的页面，十分方便。
+2. 常用 9000 词: 朗文根据语料库词频整理出常用的 9000 个词汇，并将他们划分为高，中，低三个频次。每个频次分别用 3 个红点，2 个红点和一个红点示意。（位于音标右侧，如图所示）
+3. 口语(Spoken)/写作(Writing)常用 3000 词: 朗文在常用 9000 词的基础上，分别针对口语和写作整理出了最为常用的 3000 个词汇并分别用 `S1`,`S2`,`S3` 与 `W1`, `W2`, `W3` 进行标识。以上图为例: necessary 标有 `S2`, `W1` 的标识，代表了 necessary 既属于口语常用 2000 词，也属于写作常用 1000 词的范围。
+
+
+
+
+
 
 ## 翻译技巧
 - (1) Every time you commit, or save the state of your project in Git.(每次你提交或将项目状态保存在 Git 中时)
@@ -61,31 +73,6 @@
 
 
 ## 2021-06
-### 2021.06.26
-#### 1. ebb `/eb/`
-##### (1) `noun`(n)
-- (1) [singular] [the ~]退潮, 落潮. {(*also* **ebb tide**) the flow of the sea away from the shore, when the tide goes out.(当潮水退去时, 海水从岸边流走.)}
-    + on the ebb. 退潮, 落潮.
-    + The tide was on [at] the ebb. 潮水正在退落.
-- (2) [用单数]减退, 衰退(期) {**be at a low ebb** to be in a bad state or condition (处于低潮状态或状况不佳)}:
-    + His confidence is at a low ebb. 他的信心很低落。
-    + His influence is on the ebb. 他的影响力逐渐在衰退.
-- (3) **ebb and flow** a situation or state in which something increases and decreases in a kind of pattern :
- the ebb and flow of the conversation
-→时而热烈时而沉闷的谈话
- the ebb and flow of passengers in the station
-→火车站里旅客的时而拥挤时而稀少
-##### (2) `verb[intransitive]`(vi)
-- (1) if the tide ebbs, it flows away from the shore←〔潮水〕落，退
-- (2) (*also* **ebb away**) to gradually decrease (逐渐减少):
-    + Linda’s enthusiasm began to ebb away. 琳达的热情开始减退。
-
-#### 2. tide `//`
-
-#### 3. enthusiasm `//`
-
-
-
 ### 2021.06.24
 - Don't be afraid to encounter risks. 不要害怕面对风险。
 
@@ -97,7 +84,7 @@
   身为作家，我只是在作品里用文字记录下我的所见所闻。
 
 ### 2021.06.17
-- A tradition is not built easily or quickly. 传统的树立并非易事，也并非一日之功。
+- A tridition is not built easily or quickly. 传统的树立并非易事，也并非一日之功。
 
 ### 2021.06.16
 - Raise your eyes above the pettiness and follow the path of the greatness that is within you. 忽略生活中的琐碎小事，追随内心的大道吧。
@@ -110,6 +97,33 @@
 - petty jealousy and spitefulness. 小心眼的嫉妒和怨恨。
 - It was petty of her not to accept the apology. 她气量太小，连道歉也不接受。
 - Such petty behavior is below me. 如此卑劣的行为有失我的身份。
+#### 2. squabble `/ˈskwɒbəl $ ˈskwɑː-/` 
+##### (1) --vi (verb intransitive) (为琐事)争吵, 口角. (to argue about something unimportant)
+- **squabble over/about**
+    + They're always squablling over money. 他们老是为了钱争吵。
+- **squabble with**
+    + He's squabbling with the referee`/ˌrefəˈriː/`(n.裁判(员)). 他在和裁判争吵。
+##### (2) --n(noun [countable]) 争吵, 口角.
+- a petty squabble 小口角
+- bitter squabbles between employers and unions. 雇主和工会之间的激烈争吵。
+
+#### 3. union `/ˈjuːnjən/` `S3` `W3` -noun
+##### (1) [countable] 工会 (an organization formed by workers to protect their rights)
+- **union of**
+    + the National Union of Teachers. 全国教师工会。
+    + Are you planning to join the union？ 你打算加入工会吗？
+##### (2) [countable] 协会；联合会；俱乐部；会社 (used in the names of some clubs or organizations)
+- the British Golf Union. 英国高尔夫球协会
+##### (3) [singular] 结合；联合；合并 (the act of joining two or more things together, or the state of being joined together. 将两个或多个事物连接在一起的行为，或连接在一起的状态)
+- **union of**
+    + The artist's work shows the perfect union of craftsmanship and imagination. 这位艺术家的作品体现了技巧和想像力的完美结合。
+    + the union of two states. 两国的合并。
+    + 
+- **union with**
+    + Some militants favour independence for Kashmir or union with Pakistan. 有些激进分子主张克什米尔独立或并入巴基斯坦。
+
+
+
 
 ### 2021.06.11
 - So every defect of the mind may have a special receipt.
@@ -5307,7 +5321,6 @@
 
 #### snapshot `['snæpʃɒt]` --n. 快照
 - So what can we gather from this snapshot? 我们能从这张快照中收集到什么信息呢? 
-  
 #### buffer `['bʌfə]` --n.缓冲区, 缓冲器.  --vt.缓冲
 - Buffer Pool 缓冲池
 - What is this buffer and why do we require it? 这是什么缓冲, 我们为什么需要它？
@@ -6274,7 +6287,7 @@
     + My opinion is identical with his. 我的意见和他的意见相同. 
 - **assert `[ə'sɜːt]` --vt.断言, 声称, 宣称**
     + She asserted that he was innocent. 她断言, 他时无罪的. 
-- **innocent `['ɪnəs(ə)nt]` --adj.无辜的, 无罪的  --n.天真的人, 笨蛋.**
+- **innocent `['ɪnəs(ə)nt]` --adj.无辜的, 无罪的  --n.天真的人, 笨蛋. **
     + be innocent of 没有...的, 无罪的
     + innocent kid 天真的孩子
     + innocent love 爱无罪

@@ -33,8 +33,7 @@
 所以说这三项也就是大家必须要掌握的基本功.
 
 <img src="./images-english-notes/basic-english.jpg"
-    style="border-radius: 4px; width: 66%;
-        box-shadow: 1px 1px 3px 2px #e5e5e5">
+    style="border-radius: 4px; box-shadow: 1px 1px 3px 2px #e5e5e5">
 
 此段笔记来源: [知乎: 萌姐英语](https://www.zhihu.com/question/59148385/answer/1140437392)
 (略有修改).
@@ -54,8 +53,7 @@
 实际上上面这个图简单总结我觉得可以写成这样(个人看法):
 
 <img src="./images-english-notes/english-basic.png"
-    style="border-radius: 4px; width: 66%;
-        box-shadow: 1px 1px 3px 2px #e5e5e5">
+    style="border-radius: 4px; box-shadow: 1px 1px 3px 2px #e5e5e5">
 
 
 ### 3. 欧路词典适用的英语词典扩展包:
@@ -87,8 +85,7 @@ LDOCE5最令人感动的地方是：单词的例句都是带有发音的！这�
 除了上面提到的几个功能之外，词典还有语料库（里面有大量例句），用法指示等功能，LDOCE5 是一个资源宝库，值得我们好好探索。
 
 <img src="./images-english-notes/LDOCE6.png"
-    style="border-radius: 4px; width: 66%;
-        box-shadow: 1px 1px 3px 2px #e5e5e5">
+    style="border-radius: 4px; box-shadow: 1px 1px 3px 2px #e5e5e5">
         
 欧路词典安装扩展词库的方法，以 windows 为例：
 点击软件右上角的 **工具** --> **词库管理**， 点击 **安装词库**， 点击 **打开文件** 按钮
