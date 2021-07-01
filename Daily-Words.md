@@ -61,6 +61,31 @@
 
 
 ## 2021-06
+### 2021.06.26
+#### 1. ebb `/eb/`
+##### (1) `noun`(n)
+- (1) [singular] [the ~]退潮, 落潮. {(*also* **ebb tide**) the flow of the sea away from the shore, when the tide goes out.(当潮水退去时, 海水从岸边流走.)}
+    + on the ebb. 退潮, 落潮.
+    + The tide was on [at] the ebb. 潮水正在退落.
+- (2) [用单数]减退, 衰退(期) {**be at a low ebb** to be in a bad state or condition (处于低潮状态或状况不佳)}:
+    + His confidence is at a low ebb. 他的信心很低落。
+    + His influence is on the ebb. 他的影响力逐渐在衰退.
+- (3) **ebb and flow** a situation or state in which something increases and decreases in a kind of pattern :
+ the ebb and flow of the conversation
+→时而热烈时而沉闷的谈话
+ the ebb and flow of passengers in the station
+→火车站里旅客的时而拥挤时而稀少
+##### (2) `verb[intransitive]`(vi)
+- (1) if the tide ebbs, it flows away from the shore←〔潮水〕落，退
+- (2) (*also* **ebb away**) to gradually decrease (逐渐减少):
+    + Linda’s enthusiasm began to ebb away. 琳达的热情开始减退。
+
+#### 2. tide `//`
+
+#### 3. enthusiasm `//`
+
+
+
 ### 2021.06.24
 - Don't be afraid to encounter risks. 不要害怕面对风险。
 
@@ -72,7 +97,7 @@
   身为作家，我只是在作品里用文字记录下我的所见所闻。
 
 ### 2021.06.17
-- A tridition is not built easily or quickly. 传统的树立并非易事，也并非一日之功。
+- A tradition is not built easily or quickly. 传统的树立并非易事，也并非一日之功。
 
 ### 2021.06.16
 - Raise your eyes above the pettiness and follow the path of the greatness that is within you. 忽略生活中的琐碎小事，追随内心的大道吧。
@@ -6249,7 +6274,7 @@
     + My opinion is identical with his. 我的意见和他的意见相同. 
 - **assert `[ə'sɜːt]` --vt.断言, 声称, 宣称**
     + She asserted that he was innocent. 她断言, 他时无罪的. 
-- **innocent `['ɪnəs(ə)nt]` --adj.无辜的, 无罪的  --n.天真的人, 笨蛋. **
+- **innocent `['ɪnəs(ə)nt]` --adj.无辜的, 无罪的  --n.天真的人, 笨蛋.**
     + be innocent of 没有...的, 无罪的
     + innocent kid 天真的孩子
     + innocent love 爱无罪
