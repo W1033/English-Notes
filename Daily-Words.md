@@ -71,6 +71,19 @@
 
 # 2021 Year
 
+## 2021-07
+### 2021.07.01
+#### 1. verbose `/vɜːˈbəʊs $ vɜːrˈboʊs/` --adjective
+##### 啰嗦的，累赘的，冗(rong)长的 (using or containing too many words)
+- For once, his usually verbose wife was content to listen.
+  他那个一贯唠叨的老婆难得一次愿意倾听.
+- Legal writing is often unclear and verbose.
+  法律文书往往含糊冗长.
+- His writing is difficult and often verbose.
+  他的文章晦涩难懂, 而且往往篇幅冗长.
+- Concise or verbose? 简洁还是繁琐?
+#### 2. concise ``
+
 
 ## 2021-06
 ### 2021.06.24
