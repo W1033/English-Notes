@@ -72,6 +72,7 @@
 # 2021 Year
 
 ## 2021-07
+
 ### 2021.07.01
 #### 1. verbose `/vɜːˈbəʊs $ vɜːrˈboʊs/` --adjective
 ##### 啰嗦的，累赘的，冗(rong)长的 (using or containing too many words)
@@ -82,26 +83,44 @@
 - His writing is difficult and often verbose.
   他的文章晦涩难懂, 而且往往篇幅冗长.
 - Concise or verbose? 简洁还是繁琐?
-#### 2. concise ``
+#### 2. concise `/kənˈsaɪs/` --adjective 
+##### (1) 简明的; 简练的; 简洁的(short, with no unnecessary words)
+- Your summary should be as clear and concise as possible.
+  你的总结应该尽可能地简洁明了. 
+##### (2) [only before noun] 简略的, 简缩的.
+- a concise dictionary 简明词典
+- the 'Concise Dictionary of Spoken Chinese' 《汉语口语简明词典》
 
 
 ## 2021-06
+### 2021.06.30
+- You'll find that the stress you feel will dissipate and your thoughts will become clearer. 你会发现压力在渐渐消逝，你的想法也渐渐明朗了。
+
+
+### 2O21.06.29
+- Love and knowledge, so far as they were possible, led upward toward the heavens. 爱和知识，只要有可能，使用它们的力量把人引向天堂。
+
+
 ### 2021.06.24
 - Don't be afraid to encounter risks. 不要害怕面对风险。
 
+
 ### 2021.06.23
-- 
+
 
 ### 2021.06.18
 - In my work, as a writer, I only photograph, in words, what I see.
   身为作家，我只是在作品里用文字记录下我的所见所闻。
 
+
 ### 2021.06.17
-- A tridition is not built easily or quickly. 传统的树立并非易事，也并非一日之功。
+- A tradition is not built easily or quickly. 传统的树立并非易事，也并非一日之功。
+
 
 ### 2021.06.16
 - Raise your eyes above the pettiness and follow the path of the greatness that is within you. 忽略生活中的琐碎小事，追随内心的大道吧。
-#### petty `/ˈpeti/` --adj (adjective)
+
+#### 1. petty `/ˈpeti/` --adj (adjective)
 ##### (1) (问题，细节等)小的，琐碎的，不重要的
 - petty squabbles. 小口角
 - petty restrictions 小限制
@@ -110,6 +129,7 @@
 - petty jealousy and spitefulness. 小心眼的嫉妒和怨恨。
 - It was petty of her not to accept the apology. 她气量太小，连道歉也不接受。
 - Such petty behavior is below me. 如此卑劣的行为有失我的身份。
+
 #### 2. squabble `/ˈskwɒbəl $ ˈskwɑː-/` 
 ##### (1) --vi (verb intransitive) (为琐事)争吵, 口角. (to argue about something unimportant)
 - **squabble over/about**
@@ -131,24 +151,23 @@
 - **union of**
     + The artist's work shows the perfect union of craftsmanship and imagination. 这位艺术家的作品体现了技巧和想像力的完美结合。
     + the union of two states. 两国的合并。
-    + 
 - **union with**
     + Some militants favour independence for Kashmir or union with Pakistan. 有些激进分子主张克什米尔独立或并入巴基斯坦。
-
-
 
 
 ### 2021.06.11
 - So every defect of the mind may have a special receipt.
   因此心灵的每一个缺陷都可能有一个特殊的收据。
 
+
 ### 2021.06.09
 - Don't let life slip through your fingers by living in the past or in the future. 不要生活在过去或未来而让生活从你指尖流过。
+
 
 ### 2021.06.08
 - We cannot manage loneliness from our mind alone.
   仅仅靠我们的思想是不可能掌控孤独的。
-#### applicant `/ˈæplɪkənt/` noun [countable] -- 申请人；投保人
+#### 1. applicant `/ˈæplɪkənt/` noun [countable] -- 申请人；投保人
 - applicant for.
     + He was one of 30 applicants for the manager's job.
       他是经理职位的 30 名申请人之一。
@@ -158,7 +177,7 @@
 - The applicants numbered in the thousands. 申请者数以千计。
 
 ### 2021.06.02
-- I think that, from a biological standpoint, human life almost reads lika a poem. 我想，从生物学的观点来说，人生品起来就像一首诗。
+- I think that, from a biological standpoint, human life almost reads like a poem. 我想，从生物学的观点来说，人生品起来就像一首诗。
 
 ### 2021.06.01
 - And things are not what they seem. 事物的外表并不等同于真相。
@@ -166,7 +185,7 @@
 
 ## 2021-05
 ### 2021.05.30
-#### recognition `/ˌrekəɡˈnɪʃən/`  `W3` `noun`
+#### 1. recognition `/ˌrekəɡˈnɪʃən/`  `W3` `noun`
 ##### (1) [singular, uncountable] 认识，承认
 - Don's recogniton of the importance of Suzy in his life. 唐承认苏齐在他生命中的重要性。
 - recognition that
