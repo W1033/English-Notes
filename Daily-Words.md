@@ -72,6 +72,9 @@
 # 2021 Year
 
 ## 2021-07
+### 2021.07.07
+- And, Kindness is never wasted. 善良永远不会被浪费。
+
 ### 2021.07.06
 - Your home may be poor and humble, but your duty lies there.
   你的家可能贫穷而简陋，但你的责任就在那里。
