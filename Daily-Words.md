@@ -72,6 +72,9 @@
 # 2021 Year
 
 ## 2021-07
+### 2021.07.09
+- Don't be afraid to admit that you are less than perfect. 不要害怕承认你并不完美。
+
 ### 2021.07.07
 - And, Kindness is never wasted. 善良永远不会被浪费。
 
@@ -5460,7 +5463,7 @@
 ### 20190730
 - **stage `[steɪdʒ]` --n.阶段, 舞台, 期. --v.表演**
     + stage changes 阶段变化
-    + There are no staged changes to commit. 提交没有分阶段的更该. 
+    + There are no staged changes to commit. 提交没有分阶段的更改. 
 - **prune `[pruːn]` --v.修剪, 裁剪, 修整, 精简.  --n.梅干, 干梅子**
     + It's not a prune tree. They pruned the tree. 不是梅树, 是它们在修枝剪叶. 
 
