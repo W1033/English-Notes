@@ -50,11 +50,11 @@
 
   Happiness is amazing.(幸福很美好)
 
-  It's so amazing, it doesn't matter if it's yours or not.(太美好 属不属于你都不重要)
+  It's so amazing, it doesn't matter if it's yours or not.
+  (太美好 属不属于你都不重要)
   
   There's that lovely thing, "A society grows great when old men plant trees,
   the shade of which they will never sit in." 
-
   (有句老话说得好, "社会变得美好是因为老人们在不停地栽树, 尽管他们知道他们并不会享受到这些树荫.")
 
   Good people do things for other people.
@@ -734,13 +734,8 @@
 
 ## 2020-10
 ### 20201030
-- **ultimate `/ˈʌltəmət/` --adj.最终的,终极的,最后的,结局的; 最高的,最大的.**
-    + man's ultimate end. 人生的终极目标.
-    + one's ultimate destination. 最后目的地
-    + the ultimate facts of nature. 大自然的终极事实.
-    + the ultimate speed. 最高速度.
-    + We will accept ultimate responsibility for whatever happens.
-      無論出什麼事, 我們願承擔全部責任.
+#### 1. ultimate `/ˈʌltəmət/` `W3` `AWL`
+##### adjective(adj) [only before noun] 
 
 ### 20201025
 - **split `[splɪt]` --vt.分离; 使分离; 劈开; 离开. --vi.离开; 被劈开; 断绝关系. --n.裂口,裂缝; 分裂,分歧;**
