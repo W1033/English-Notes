@@ -105,7 +105,7 @@
 
 
 #### (1) Longman Dictionary of Contemporary English 5th/6th Edition (朗文当代英文词典 第5版) （Hint: 墙裂推荐）
-
+笔记详见同级目录的: `./Longman-dictionary.md`
 
 #### (2) Macmillan English Dictionary for Advanced Learners (麦克米伦高阶英语词典)
 
