@@ -1,6 +1,8 @@
 # English-Notes 英语笔记
 
 
+
+
 - 真正的理解是无法速成的, 需要大量系统性的输入和辩证的思考.
 
 
@@ -47,7 +49,7 @@
     style="border-radius: 4px; width: 100%;
         box-shadow: 1px 1px 3px 2px #e5e5e5">
 
-实际上上面这个图简单总结我觉得可以写成这样(个人看法):
+个人觉得可以总结为下图这样：
 
 <img src="./images-english-notes/english-basic.png"
     style="border-radius: 4px; box-shadow: 1px 1px 3px 2px #e5e5e5">
@@ -56,11 +58,11 @@
 ### 3. 欧路词典介绍使用及其扩展词典推荐
 
 #### 3.0 欧路词典是什么
-欧路词典是支持苹果 ios、安卓、windows、mac 系统的全平台离线词典软件。它首创 LightPeek 取词，可以做到即指即译，划词搜索，跨软件取词。
+欧路词典是支持 IOS、Android(安卓)、Windows、Mac 系统的全平台的**英语词典软件**。它首创 LightPeek 取词，可以做到即指即译，划词搜索，跨软件取词。
 
 在手机上看英语文章时遇到生词可以直接用欧路词典查询而且支持查询过的生词自动加入生词本。支持卡片式复习，支持利用内置词典导出生词本到本地。
 
-最重要的是，欧路词典支持个性化加载 Mdict、灵格斯等多种格式的扩充词库。免费/收费版本自选。
+最重要的是，**欧路词典支持个性化加载 Mdict、灵格斯等多种格式的扩充词库**。免费/收费版本自选。
 
 #### 3.1 欧陆词典文件格式
 欧路词典的每部扩展词典一般包含两个文件：mdx 文件和 mdd 文件。
@@ -69,7 +71,7 @@
 
 **mdd 文件里面包含的是声音和图片**。
 
-有的词典只有一个 mdx 文件，没有 mdd 文件，就代表这部词典是没有单词发音，不能点击发声的。
+有的词典只有一个 mdx 文件，没有 mdd 文件，就代表这部词典是没有单词发音，不能点击发声。
 
 #### 3.3 欧路词典扩充词库的安装方法
 ##### windows 系统：
@@ -94,43 +96,16 @@
 
 
 
+#### 3.4 欧路词典扩充词库(词典)推荐
+> 笔记参考 - [每个人都值得拥有几本好词典](https://zhuanlan.zhihu.com/p/20214473?refer=talk-about-english)
 
-下面的笔记来源 - [每个人都值得拥有几本好词典](https://zhuanlan.zhihu.com/p/20214473?refer=talk-about-english)
-
-词典下载 (hint: 网盘里的分享不来自当前文章在微信公众号里获取的资源,
-实际上我还真的从微信公众号里获取了资源, 但实在"太乱"了, 完全一脸懵逼, 所以我自己整理了几个。)
-
+下面词典的下载链接：
 + 链接: https://pan.baidu.com/s/1ugzkQCVv8PrHL4601AvMaw
 + 密码: 1me4
 
 
 #### (1) Longman Dictionary of Contemporary English 5th/6th Edition (朗文当代英文词典 第5版) （Hint: 墙裂推荐）
 
-如果手机上只能装一本词典的话，我会推荐它。在所有的学习型词典中，朗文英英5词典（以下简称LDOCE5）是最业界良心的一本，它收词量最大，例句也最多，各种搭配和用法举例也非常用心。
-
-词典给出了每个单词的音标以及英式和美式发音，同时还有单词的词源，比如"rendezvous"其实是来源于法语。同时它会列出单词每个词条的解释以及各种搭配和例句。
-
-LDOCE5最令人感动的地方是：单词的例句都是带有发音的！这种发音不是机械的电脑合成音，而是真人原声，非常清晰自然。看例句的时候可以听一听语音，可以加深对例句的理解。
-
-除了真人语音之外，LDOCE5还有一个很实用的功能：COLLOCATIONS，也就是搭配功能，这一点对写作很有帮助。
-
-比如"development"这个词大家都知道，但是应该怎么使用呢？这个词前面应该用什么动词？ COLLOCATIONS 会告诉你，可以用 support/assist/further/facilitate development ，比如 We need to facilitate development and economic activity that provides jobs.
-
-写作时如果碰到单词认识但不会用，不妨试着查一查 LDOCE5，词典上面的搭配功能应该能够给你带来启发。
-
-词典还有另一个很实用的功能：THESAURUS
-
-举个例子，对于"walk"，它会列出与之意思相近的单词："wander,stride,pace,wade"，并对此进行比较。比较之后你会发现，这些单词都有“走”的意思，但每个单词的意思都有细微的区别，比如"wander"是“漫步”，"stride"是“大踏步走”，pace是“踱步走”。而只有理解了这些词的区别之后你才能准备使用它们。
-
-除了上面提到的几个功能之外，词典还有语料库（里面有大量例句），用法指示等功能，LDOCE5 是一个资源宝库，值得我们好好探索。
-
-<img src="./images-english-notes/LDOCE6.png"
-    style="border-radius: 4px; box-shadow: 1px 1px 3px 2px #e5e5e5">
-        
-欧路词典安装扩展词库的方法，以 windows 为例：
-点击软件右上角的 **工具** --> **词库管理**， 点击 **安装词库**， 点击 **打开文件** 按钮
-找到词库的 mdx 格式所在的文件夹，点击加载即可 (注意：mdd 和 mdx 这两个文件的文件名必须保持一致，mdx 加载后会默认去找 mdd 文件。)
-出现询问是否安装词典的对话框， 点击 "安装词库"  即可。
 
 #### (2) Macmillan English Dictionary for Advanced Learners (麦克米伦高阶英语词典)
 

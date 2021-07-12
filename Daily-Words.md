@@ -1,18 +1,6 @@
 # 每日单词 Daily words
 
 
-## Longman Dictionary of Contemporary English 5th/6th Edition (朗文当代高英文词典 第5版) 简单说明
-
-![image-20210629151123562](Daily-Words.assets/image-20210629151123562.png)
-
-1. 家族词汇(Word Family): 朗文词典在每个单词页面的顶部把所有相关的不同词性的关联词汇清晰地罗列了出来，并且每个家族词汇都设置了超链接，点击即可跳转相关词汇的页面，十分方便。
-2. 常用 9000 词: 朗文根据语料库词频整理出常用的 9000 个词汇，并将他们划分为高，中，低三个频次。每个频次分别用 3 个红点，2 个红点和一个红点示意。（位于音标右侧，如图所示）
-3. 口语(Spoken)/写作(Writing)常用 3000 词: 朗文在常用 9000 词的基础上，分别针对口语和写作整理出了最为常用的 3000 个词汇并分别用 `S1`,`S2`,`S3` 与 `W1`, `W2`, `W3` 进行标识。以上图为例: necessary 标有 `S2`, `W1` 的标识，代表了 necessary 既属于口语常用 2000 词，也属于写作常用 1000 词的范围。
-
-
-
-
-
 
 ## 翻译技巧
 - (1) Every time you commit, or save the state of your project in Git.(每次你提交或将项目状态保存在 Git 中时)
