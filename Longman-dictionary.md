@@ -8,14 +8,16 @@
 
 ### 2021.07.12
  
-#### 1. facilitate `/fəˈsɪlɪteɪt/` ●○○ `AWL` `verb` [transitive] formal  
-==VERB TABLE(动词表)== ==EXAMPLES== ==THESAURUS(近义词，同类词)== ==COLLOCATIONS(常见搭配)== ==WORD FAMILY(词汇家族)==
+#### 1. facilitate `/fəˈsɪlɪteɪt/` ●○○ `AWL` `verb [transitive]` formal  
+==VERB TABLE== ==EXAMPLES== ==THESAURUS== ==COLLOCATIONS== ==WORD FAMILY==
 
 ##### 促进；使便利 (to make it easier for a process or activity to happen)
 - Computers can be used to facilitate language learning. 计算机可以用来方便语言学习。
 - facilitation `/fəˌsɪlɪˈteɪʃən/` `noun` [uncountable]
 
-
+#### 2. the‧sau‧rus `/θɪˈsɔːrəs/` noun (plural thesauruses or thesauri /-raɪ/) [countable]  
+WORD ORIGIN EXAMPLES WORD SETS
+a book in which words are put into groups with other words that have similar meanings←分类词典，同义词词典
 
 
 

@@ -60,6 +60,10 @@
 # 2021 Year
 
 ## 2021-07
+### 2021.07.13
+- I've learned that hardly anything is more important than my happiness.
+  我已经明白，生活中没有什么事情比自身的快乐更重要。
+
 ### 2021.07.09
 - Don't be afraid to admit that you are less than perfect. 不要害怕承认你并不完美。
 
@@ -4827,7 +4831,7 @@
 - **complement `['kɒmplɪm(ə)nt]` --vt.补充.  --n.补语；补足物；余角** 
     + So can complement body of water. 这样可以补充身体的水分. 
 - **radical `['rædɪk(ə)l]` --n.根号,根式.  --adj.根本的,基本的**
-- **radicand `['rædɪkænd]` n.被开方数. **  
+- **radicand `['rædɪkænd]` n.被开方数.**  
 
 ### 20190906
 - **procedural `[prə'siːdʒərəl]` --adj.程序(上)的**
