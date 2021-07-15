@@ -32,7 +32,10 @@
 
 
 
+Our teacher says that God loves the blind more
+because they can't see. But I told him if it was so, He would not make us blind so that we can't see Him. He answered "God is not visible. He is everywhere. You can feel Him. You see Him through your fingertips.
 
+Now I reach out everywhere for God till the day my hands touch Him and tell Him everything, even all the secrets in my heart.
 
 
 
