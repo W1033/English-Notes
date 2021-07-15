@@ -60,6 +60,36 @@
 # 2021 Year
 
 ## 2021-07
+### 2021.07.15
+- Still achieving, still pursuing. Learn to labour and to wait.
+  仍在实现，仍在追求。学会劳动和等待。
+#### 1. achiev `/əˈtʃiːv/` ●●● `S2` `W1` `AWL` **verb**
+##### (1) 
+##### (2) 
+
+#### 2. pursue `/pəˈsjuː $ pərˈsuː/` ●●○ `S3` `W2` `AWL` **verb [transitive]** 
+##### (1) 
+##### (2) 
+##### (3) 
+##### (4) 
+#### 3. labour (*British English*, labor *American English* )
+##### ●●○ `S3` `W3` `AWL` **noun** 
+###### (1)
+###### (2)
+###### (3)
+###### (4)
+###### (5)
+##### ●○○ `AWL` **verb**
+###### (1)
+###### (2)
+###### (3)
+###### (4)
+
+
+### 2021.07.14
+- A home is more than a family dwelling. 家的意义远不止是一处居所。
+#### 1. dwelling `/ˈdwelɪŋ/` `noun [countable]` *formal*
+
 ### 2021.07.13
 - I've learned that hardly anything is more important than my happiness.
   我已经明白，生活中没有什么事情比自身的快乐更重要。

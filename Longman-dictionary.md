@@ -7,7 +7,7 @@
 ## New words
 
 ### 2021.07.12
- 
+
 #### 1. facilitate `/fəˈsɪlɪteɪt/` ●○○ `AWL` `verb [transitive]` formal  
 ==VERB TABLE== ==EXAMPLES== ==THESAURUS== ==COLLOCATIONS== ==WORD FAMILY==
 
@@ -26,7 +26,7 @@ a book in which words are put into groups with other words that have similar mea
 
 ## Content
 
-如果手机上只能装一本词典的话，我会推荐它。在所有的学习型词典中，朗文英英5词典（以下简称LDOCE5/6）是最业界良心的一本，它收词量最大，例句也最多，各种搭配和用法举例也非常用心。
+如果手机上只能装一本词典的话，我会推荐它。在所有的学习型词典中，朗文英英5/6词典（以下简称LDOCE5/6）是业界最良心的一本，它收词量最大，例句最多，各种搭配和用法举例也非常用心。
 
 词典给出了每个单词的音标以及英式和美式发音，同时还有单词的词源，比如"rendezvous"其实是来源于法语。同时它会列出单词每个词条的解释以及各种搭配和例句。
 
