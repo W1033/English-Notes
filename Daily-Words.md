@@ -99,6 +99,38 @@ Now I reach out everywhere for God till the day my hands touch Him and tell Him 
 # 2021 Year
 
 ## 2021-07
+### 2021.07.20
+- And yellow leaves of autumn, which have no songs, flutter and fall there with a sigh. 秋天的黄叶，没有歌声，飘飘然，叹息着落在那里。
+
+#### 1. flutter `/ˈflʌtə $ -ər/`
+##### 1.1 `●○○` **verb**  
+###### (1) `[intransitive, transitive]` 振(翼)，拍打(翅膀) （if a bird or insect flutters, or if it flutter its wings, it flies by moving its wings lightly up and down)
+- A small bird fluttered past the window. 一只小鸟拍打着翅膀飞过窗前。
+###### (2) `[intransitive]`〔在空中〕飘扬，飘动. (to make small gentle movements in the air)
+- Dead leaves fluttered slowly to the ground. 枯叶慢慢飘落到地上。
+- The flag fluttered in the light breeze. 旗帜在微风中飘动。
+###### (3) `[intransitive]` if your heart or your stomach flutters, you feel very excited or nervous.〔因激动或紧张，心脏或胃〕怦怦跳，颤抖，悸动
+- Her heart began to flutter with fear. 她的心因害怕而开始怦怦跳。
+###### (4) `[intransitive]` if your eyelids flutter, they move slightly when you are asleep.〔睡觉时眼皮〕颤动： :
+- Her eyelids fluttered but did not open. 她的眼皮动了一下，但眼睛没有睁开。
+###### (5) **flutter your eyelashes (at somebody)** [女子] (朝某人)忽闪眼睫毛[以吸引男子注意]
+if a woman flutters her eyelashes`/ˈaɪlæʃ/`(n.睫毛) at a man, she looks at him and moves her eyes to make herself attractive to him
+
+##### 1.2 **noun** [singular] 
+###### (1) (a feeling of being nervous, confused, or excited) 不安；困惑；激动
+- **in a flutter**
+    + She was all in a flutter. 她浑身紧张。
+    + His sudden resignation(`/ˌrezɪɡˈneɪʃən/` n.辞职，辞职信，辞呈) caused quite a flutter. 他突然辞职引起不小的骚动。
+###### (2) **a flutter of something** a sudden feeling that is not very strong. 〔不太强烈的〕一阵...感觉。
+- She felt a flutter of curiosity(`/ˌkjʊəriˈɒsəti/`). 她感到一阵好奇。
+###### (3) a light gentle movement.〔轻缓的〕拍动；晃动
+- **flutter of**
+    + a flutter of wings. 翅膀的拍动
+###### (4) **have a flutter** *British English informal* to risk a small amount of money on the result of something such as a horse race `SYN` **have a bet**
+
+#### 2. sigh
+
+
 ### 2021.07.15
 - Still achieving, still pursuing. Learn to labour and to wait.
   仍在实现，仍在追求。学会劳动和等待。
@@ -124,10 +156,12 @@ Now I reach out everywhere for God till the day my hands touch Him and tell Him 
 ###### (3)
 ###### (4)
 
-
 ### 2021.07.14
 - A home is more than a family dwelling. 家的意义远不止是一处居所。
 #### 1. dwelling `/ˈdwelɪŋ/` `noun [countable]` *formal*
+##### 住宅，寓所，住处（a house, apartment etc where people live)
+- Those two men are dwelling with us. 那两个人跟我们住在一起。
+- Some
 
 ### 2021.07.13
 - I've learned that hardly anything is more important than my happiness.
@@ -142,8 +176,6 @@ Now I reach out everywhere for God till the day my hands touch Him and tell Him 
 ### 2021.07.06
 - Your home may be poor and humble, but your duty lies there.
   你的家可能贫穷而简陋，但你的责任就在那里。
-#### 1. 
-
 
 ### 2021.07.01
 #### 1. verbose `/vɜːˈbəʊs $ vɜːrˈboʊs/` --adjective
@@ -4322,10 +4354,11 @@ Now I reach out everywhere for God till the day my hands touch Him and tell Him 
 - This is intended to leave the reader at liberty to experiment with 
   variations of this implementation that suit their own requirements.
   这旨在让读者自由尝试适合自己需求的此实现的变体.
-- **eventual `[ɪ'ven(t)ʃʊəl]` --adj.最终的; 可能的**
-- The most obvious API is to forward the eventual value to a callback as an 
-  argument instead of returning the value.
-  最明显的 API 是将最终值作为参数转发给回调, 而不是返回该值. 
+#### e‧ven‧tu‧al `/ɪˈventʃuəl/` ●●○ AWL adjective [only before noun]  
+##### adj.最终的；最后的 (happening at the end of a long period of time or after a lot of other things have happened)
+- Sweden were the eventual winners of the tournament(`/ˈtʊənəmənt/` n.锦标赛). 瑞典是锦标赛的最后赢家。
+- Both sides were happy with the eventual outcome of the talks. 双方对会谈的最终结果感到满意。
+
 - **trivial `['trɪvɪəl]` --adj.不重要的; 琐碎的**
 - This is a very simple solution to a trivial problem, but there is a lot 
   of room for improvement.
