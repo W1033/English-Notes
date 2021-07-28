@@ -91,6 +91,15 @@ Now I reach out everywhere for God till the day my hands touch Him and tell Him 
   
   And you're good, Tony. (而你是好人, 托尼.)
 
+## 示例格式
+#### 1. moral `/ˈmɒrəl $ ˈmɔː-/`
+##### 1.1 ●●○ `W2` **adjective**  
+###### (1) ``
+-
+##### 1.2 `●○○` **verb**  
+
+
+
 
 
 
@@ -99,6 +108,56 @@ Now I reach out everywhere for God till the day my hands touch Him and tell Him 
 # 2021 Year
 
 ## 2021-07
+### 2021.07.31
+
+### 2021.07.30
+
+### 2021.07.29
+
+### 2021.07.28
+- Self-knowledge is a preface to self-control. 有自知之明方可自我制约。
+
+### 2021.07.27
+- 
+
+### 2021.07.26
+- MORAL: If you harm others, you will also be harmed. 格言: 伤害别人，也回自食其果。
+#### 1. moral `/ˈmɒrəl $ ˈmɔː-/`
+##### 1.1 ●●○ `W2` **adjective** 
+###### (1) `[only before noun]` (relating to the principles of what is right and wrong behaviour, and with the difference between good and evil. 关于什么是对与错的行为的原则，以及善与恶的区别) 道德（上）的； -> **morally, ethical**:
+- It is easy to have an opinion on a moral issue like the death penalty for murder. 对谋杀罪判死刑这样的道德问题，有个观点是很容易的。
+- **moral philosophy** 道德哲学
+- **moral standards/values/principles**
+    + I think you can run a business to the highest moral standards. 我想你可以用最高的道德标准来经营公司。
+    + If we accept that certain babies should be allowed to die, we place doctors in a moral dilemma. 如果我们同意应该让某些婴儿死去，我们就把医生置于道德上的两难境地了。
+    + Man is gifted with a moral sense by which he distinguishes good from evil. 人类天生有道德意识，能区分善与恶。
+2[only before noun] based on your ideas about what is right, rather than on what is legal or practical←基于道德的，道义上的： :
+ The book places a high moral value on marriage and the family unit.
+→这本书对婚姻和家庭的道德价值很重视。
+ The UN feels that it has the moral authority (=influence because people accept that its beliefs are right) to send troops to the area.
+→联合国认为它在道义上有权向该地区派遣部队。
+moral duty/obligation/responsibility
+ A man has a moral duty to obey the law.
+→每个人都在道德上有义务遵守法律。
+ It isn’t just lack of moral fibre (=lack of the emotional strength to do what you believe is right) which leads to a rising divorce rate.
+→不仅仅是因为缺少道德力量才导致离婚率上升的。
+3moral support encouragement that you give by expressing approval or interest, rather than by giving practical help :
+ Dad came along to give me some moral support.
+→爸爸过来了，要给我一些精神支持。
+4moral victory a situation in which you show that your beliefs are right and fair, even if you do not win :
+ Through Joan of Arc, France won a great moral victory.
+→因为圣女贞德，法国在道义上赢得了重大的胜利。
+5 always behaving in a way that is based on strong principles about what is right and wrong←品行端正的；有道德的； OPP  immoral, amoral:
+ a moral man of high integrity
+→一个正直、有道德的人
+6take/claim/seize the moral high ground to claim that you are the only person who does what is morally right in a situation, with the intention of being noticed and considered to be good by the public
+7moral compass a way of recognizing what kind of behaviour is right or wrong :
+ Has the government lost its moral compass? 
+###### (1) ``
+-
+##### 1.2 `●○○` **verb**  
+
+
 ### 2021.07.20
 - And yellow leaves of autumn, which have no songs, flutter and fall there with a sigh. 秋天的黄叶，没有歌声，飘飘然，叹息着落在那里。
 
@@ -4167,10 +4226,7 @@ if a woman flutters her eyelashes`/ˈaɪlæʃ/`(n.睫毛) at a man, she looks at
 - The love of beauty is an essential part of all healthy human nature.
   It is a moral quality.  
   爱美乃是所有正常人的任性中不可或缺的一部分, 它是心灵的特质.
-- **moral `['mɒr(ə)l]` --adj.道德上的; 精神上的. --n.道德; 寓意**
-    + moral(adj) character. 品性, 品德
-    + the moral(adj) sense. 道德观念
-    + a girl with no morals(n). 没有道德观念的女孩子.
+
 ### 20191124 (November 24)
 - When you can no more hold me by the hand, nor I half turn to go yet
   turning stay.  
