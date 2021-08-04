@@ -112,7 +112,9 @@ Now I reach out everywhere for God till the day my hands touch Him and tell Him 
 
 ### 2021.07.30
 
+
 ### 2021.07.29
+- MORAL: Talent if of no use withour effort. 寓言：没有努力，才能便不值一提。
 
 ### 2021.07.28
 - Self-knowledge is a preface to self-control. 有自知之明方可自我制约。
