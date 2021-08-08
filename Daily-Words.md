@@ -107,21 +107,31 @@ Now I reach out everywhere for God till the day my hands touch Him and tell Him 
 
 # 2021 Year
 
+
+## 2021-08
+### 2021.08.01
+- Never frown, even when you are sad, because you never know who is falling in love with your smile.
+  纵然伤心, 也不要愁眉不展, 因为你不知道是谁会爱上你的笑容.
+
 ## 2021-07
 ### 2021.07.31
+- It takes a great deal of courage to stand up to your enemies, but a great deal more to stand up to your friends. 
 
 ### 2021.07.30
+- Better by far you should forget and smile, than that you should remember and be sad.
+  我愿你能微笑着把我忘记, 也不要在你的记忆里留下右上的痕迹.
 
 ### 2021.07.29
+- MORAL: Talent is of no use without effort. 
 
 ### 2021.07.28
 - Self-knowledge is a preface to self-control. 有自知之明方可自我制约。
 
 ### 2021.07.27
-- 
+- No one should live alone. 没有人应该肚子生活
 
 ### 2021.07.26
-- MORAL: If you harm others, you will also be harmed. 格言: 伤害别人，也回自食其果。
+- MORAL: If you harm others, you will also be harmed. 格言: 伤害别人，也会自食其果。
 #### 1. moral `/ˈmɒrəl $ ˈmɔː-/`
 ##### 1.1 ●●○ `W2` **adjective** 
 ###### (1) `[only before noun]` (relating to the principles of what is right and wrong behaviour, and with the difference between good and evil. 关于什么是对与错的行为的原则，以及善与恶的区别) 道德（上）的； -> **morally, ethical**:
@@ -157,6 +167,20 @@ moral duty/obligation/responsibility
 -
 ##### 1.2 `●○○` **verb**  
 
+### 2021.07.25
+- For the soul is dead that slumbers. 灵魂麻木与死去没有什么两样.
+
+### 2021.07.24
+- MORAL: Work hard and good fortune will always follow. 格言: 努力工作, 好运总会随之而来.
+
+### 2021.07.23
+- Remember today that life is creation. As long as you live you can always contribute your own special voice.
+
+### 2021.07.22
+- We men are imperfect beings, so conflicts among us are unavoidable.
+
+### 2021.07.21
+- Even the roadside weed ignores man's legislation. 
 
 ### 2021.07.20
 - And yellow leaves of autumn, which have no songs, flutter and fall there with a sigh. 秋天的黄叶，没有歌声，飘飘然，叹息着落在那里。
@@ -189,6 +213,21 @@ if a woman flutters her eyelashes`/ˈaɪlæʃ/`(n.睫毛) at a man, she looks at
 
 #### 2. sigh
 
+
+### 2021.07.20
+- And yellow leaves of autumn, which have no songs, flutter and fall there with a sigh.
+
+### 2021.07.19
+- Listen to your heart for a while. 去听一听你的心声吧.
+
+### 2021.07.18
+- Studies pass into and influence manners. 
+
+### 2021.07.17
+- You are truly free to live with purpose, joy and fulfillment.
+
+### 2021.07.16
+- MORAL: Don't try to do the impossible. 格言: 不要自不量力.
 
 ### 2021.07.15
 - Still achieving, still pursuing. Learn to labour and to wait.
@@ -226,8 +265,22 @@ if a woman flutters her eyelashes`/ˈaɪlæʃ/`(n.睫毛) at a man, she looks at
 - I've learned that hardly anything is more important than my happiness.
   我已经明白，生活中没有什么事情比自身的快乐更重要。
 
+### 2021.07.12
+- Things do not change. We change. 万物未变. 我们在变.
+
+### 2021.07.11
+- MORAL: You can't please everyone. 格言: 你不能取悦每一个人.
+
+### 2021.07.10
+- Do not stand at my grave and weep. I am not there. I do not sleep.
+  请不要在我坟前哭泣. 我不在那里, 我没有长眠.
+
 ### 2021.07.09
 - Don't be afraid to admit that you are less than perfect. 不要害怕承认你并不完美。
+
+### 2021.07.08
+- Hold infinity in the palm of your hand. And eternity in an hour.
+  把无限掌控在手中, 永恒也消融于一刹间.
 
 ### 2021.07.07
 - And, Kindness is never wasted. 善良永远不会被浪费。
@@ -235,6 +288,18 @@ if a woman flutters her eyelashes`/ˈaɪlæʃ/`(n.睫毛) at a man, she looks at
 ### 2021.07.06
 - Your home may be poor and humble, but your duty lies there.
   你的家可能贫穷而简陋，但你的责任就在那里。
+
+### 2021.07.05
+- Take pride in your accomplishments, as they are stepping stones to your dreams.
+
+### 2021.07.04
+- Sit. Feast on your life. 坐下. 尽享你的生活.
+
+### 2021.07.03
+- Art is long, and time is fleeting. 艺术无尽, 而人生有涯.
+
+### 2021.07.02
+- To wake at dawn with a winged heart and give thanks for another day of loving.
 
 ### 2021.07.01
 #### 1. verbose `/vɜːˈbəʊs $ vɜːrˈboʊs/` --adjective
@@ -269,6 +334,7 @@ if a woman flutters her eyelashes`/ˈaɪlæʃ/`(n.睫毛) at a man, she looks at
 
 
 ### 2021.06.23
+- And nature to be commanded must be obeyed.
 
 
 ### 2021.06.18
