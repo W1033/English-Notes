@@ -20,6 +20,11 @@ WORD ORIGIN EXAMPLES WORD SETS
 a book in which words are put into groups with other words that have similar meanings←分类词典，同义词词典
 
 
+#### 2. reminisce `/ˌreməˈnɪs/`  
+##### `vi`(verb [intransitive]) to talk or think about pleasant events in your past←追忆[回忆]往事，缅怀过去：
+reminisce about
+ a group of former students reminiscing about their college days
+→追忆着大学时光的一群老校友 ► see thesaurus at remember
 
 
 

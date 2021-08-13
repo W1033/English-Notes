@@ -78,6 +78,32 @@ Now I reach out everywhere for God till the day my hands touch him and tell him 
 # 2021 Year
 
 ## 2021-08
+### 2021.08.31
+### 2021.08.30
+### 2021.08.29
+### 2021.08.28
+### 2021.08.27
+### 2021.08.26
+### 2021.08.25
+### 2021.08.24
+### 2021.08.23
+### 2021.08.22
+### 2021.08.21
+### 2021.08.20
+### 2021.08.19
+### 2021.08.18
+### 2021.08.17
+### 2021.08.16
+### 2021.08.15
+### 2021.08.14
+### 2021.08.13
+- Don't cry because it is over. Smile because it happened. 不要哭，因为一切都结束了。微笑，因为它发生过。
+
+### 2021.08.12
+- 略
+
+### 2021.08.11
+- Reading can save lives. 读书可以挽救生命。
 
 ### 2021.08.10
 - You stand tall enough as a human being of unique qualities not need to be seen as a saint. 作为具有独特品质的人，您站得足够高，不需要被视为圣人。
@@ -101,9 +127,17 @@ Now I reach out everywhere for God till the day my hands touch him and tell him 
 - Life is not a trap set for us by God so that he can condemn us for failing. 生活不是上帝为我们设置的陷阱，以便可以谴责我们的失败。
 
 ### 2021.08.03
-
+- Better to light one candle than to curse the darkness. 诅咒黑暗不如点燃蜡烛。
 
 ### 2021.08.02
+- And here were forests ancient as the hills, enfolding sunny spots of greenery. 这里有如山般古老的森林，周围环绕着阳光普照的绿地。
+#### 1. en‧fold /ɪnˈfəʊld $ -ˈfoʊld/
+##### `verb` [transitive]  
+formal to cover or surround someone or something completely←搂抱〔某人〕; 围住，包住〔某物〕: :
+ The wizard screamed as the darkness enfolded him.
+→黑暗罩住了巫师，他尖叫起来。
+ He reached out to enfold her in his arms.
+→他张开双臂去抱她。
 
 
 ### 2021.08.01
@@ -136,7 +170,7 @@ Now I reach out everywhere for God till the day my hands touch him and tell him 
     + I think you can run a business to the highest moral standards. 我想你可以用最高的道德标准来经营公司。
     + If we accept that certain babies should be allowed to die, we place doctors in a moral dilemma. 如果我们同意应该让某些婴儿死去，我们就把医生置于道德上的两难境地了。
     + Man is gifted with a moral sense by which he distinguishes good from evil. 人类天生有道德意识，能区分善与恶。
-###### (2) [only before noun] based on your ideas about what is right, rather than on what is legal or practical←基于道德的，道义上的： :
+###### (2) [only before noun] based on your ideas about what is right, rather than on what is legal or practical←基于道德的，道义上的.
 - The book places a high moral value on marriage and the family unit. 这本书对婚姻和家庭的道德价值很重视。
 - The UN feels that it has the moral authority (=influence because people accept that its beliefs are right) to send troops to the area. 联合国认为它在道义上有权向该地区派遣部队。
 - **moral duty/obligation/responsibility**
@@ -168,7 +202,7 @@ Now I reach out everywhere for God till the day my hands touch him and tell him 
 - The flag fluttered in the light breeze. 旗帜在微风中飘动。
 ###### (3) `[intransitive]` if your heart or your stomach flutters, you feel very excited or nervous.〔因激动或紧张，心脏或胃〕怦怦跳，颤抖，悸动
 - Her heart began to flutter with fear. 她的心因害怕而开始怦怦跳。
-###### (4) `[intransitive]` if your eyelids flutter, they move slightly when you are asleep.〔睡觉时眼皮〕颤动： :
+###### (4) `[intransitive]` if your eyelids flutter, they move slightly when you are asleep.〔睡觉时眼皮〕颤动.
 - Her eyelids fluttered but did not open. 她的眼皮动了一下，但眼睛没有睁开。
 ###### (5) **flutter your eyelashes (at somebody)** [女子] (朝某人)忽闪眼睫毛[以吸引男子注意]
 if a woman flutters her eyelashes`/ˈaɪlæʃ/`(n.睫毛) at a man, she looks at him and moves her eyes to make herself attractive to him
@@ -4291,16 +4325,29 @@ if a woman flutters her eyelashes`/ˈaɪlæʃ/`(n.睫毛) at a man, she looks at
 ### 20191117 (November 17)
 - Do not stand at my grave and weep, I am not there. I do not sleep.  
   请不要再我坟前哭泣, 我不在那里, 我没有长眠.
+#### weep `/wiːp/`
+##### `●●○` `verb` (past tense and past participle wept /wept/)  
+###### (1) [intransitive, transitive] formal or literary(`/ˈlɪtəreri/` adj.文学的) to cry, especially because you feel very sad (正式的活文学上的哭，特别是因为你感到很伤心时)
+- James broke down and wept. 詹姆斯控制不住感情，哭了起来。
+- **weep for**
+    + She wept for the loss of her mother. 她因母亲去世而哭泣。
+    + He **wept bitterly**(=cried a lot) when it was time for us to leave. 我们要分别的时候他痛哭了一场。 ► see thesaurus at cry
+- **Register**
+    + In everyday English(日常英语), people usually say cry rather than weep:
+        - She was crying all the way through the movie.
+###### (2)  **I could have wept** spoken used to say that you felt very disappointed about something
+- I could have wept thinking what I’d missed. 想想自己错过的这一切，我真想大哭一场。
+###### (3) [intransitive] if a wound weeps, liquid comes out of it←〔伤口〕渗出液体 
 ### 20191115 (November 15)
 - As a person moves up the energy scale, their feelings and thoughts are
   more positive.  
-  人的能量级别越高, 他的感情和思想也就更加积极.
+  当一个人的能量等级上升时，他们的感觉和想法就会更积极。
 - **consortium `[kən'sɔːtɪəm]` --财团; 联合; 合伙**
     + World Wide Web Consortium 万维网联盟 
 ### 20191114 (November 14)
 - Happiness is like a pebble dropped into a pool to set in motion an 
   ever-widening circles of ripples.  
-  快乐好似扔入池子里的一颗石头, 会机器不断扩散的阵阵涟漪.
+  快乐好似扔入池子里的一颗石头, 会激起不断扩散的阵阵涟漪.
 - **pebble `['peb(ə)l]` --n.卵石; 鹅卵石; 石子**
     + not the only pebble on the beach. 非海滩上的唯一卵石; 众人中的一份子.
     + Do not throw pebbles at others. 别朝别人扔石子.
@@ -4356,7 +4403,7 @@ if a woman flutters her eyelashes`/ˈaɪlæʃ/`(n.睫毛) at a man, she looks at
 - Can it be whole frost on the ground? 疑是地上霜.
 ### 20191103 (November 03)
 - I am in a thousand winds that blow, I am the softly falling snow.  
-  我是吹过的缕缕微风, 我是雪花的点点光芒.
+  我在千风吹拂中，我是轻轻飘落的雪。
 - **thrill `[θrɪl]` --n.激动. --vt&vi.(使)激动, (使)兴奋.**
     + a thrill(n) of joy. 一阵欢乐
     + a story full of thrills(n). 充满刺激的故事  
@@ -4848,19 +4895,39 @@ if a woman flutters her eyelashes`/ˈaɪlæʃ/`(n.睫毛) at a man, she looks at
     + His foot became tangled(vt) in the rope. 他的一只脚被绳子缠住.
     + a trangle(n) of wool. 缠结成一团的羊毛
     + trangle(vi) with. (口语)吵架, 争吵
-- **curve `[kɜːv]` --n.曲线; 弯曲. --vt.使弯曲. --vi.成曲形. --adj.弯曲的**
-    + in a curve(n). 成曲线地
-    + a curve in the road(n). 道路的弯曲处.
-    + go round[take, turn]` a curve. 转弯
-- **exist `[ɪg'zɪst]` --vi.存在, 生存, 幸存**
-    + Some people believe that ghosts exist.
-        有的人相信鬼魂存在.
-    + Such things exist only in fancy. 那样的事只有存在于幻想中
-    + We cannot exist without air. 我们没有空气就不能存在.
-    + Mankind exists on food. 人类靠食物生活.
+#### curve `/kɜːv $ kɜːrv/`
+##### 1. `●●○` `S3` `W3` noun [countable]  
+###### (1) a line that gradually bends like part of a circle 曲线，弧线：
+- **curve of**
+    + the curve of her hips 她的臀部曲线
+    + a sweeping curve of railroad track. 铁轨的大弧线
+###### (2) 2 a line on a graph that gradually(`/ˈɡrædʒuəli/`) bends and represents a change in the amount or level of something←〔图表上表示变化的〕曲线
+- The curve illustrates costs per capita. 这条曲线显示人均费用。
+- **demand/supply curve** 需求/供给曲线
+    + The market demand curve has increased. 市场需求曲线上升了。
+###### (1) 3 a bend in a road, river etc←〔道路、河流等的〕弯曲处.
+- The car took the curve much too quickly. 那辆汽车拐弯太快了。 
+##### 2. `●●○` `verb [intransitive, transitive]`  
+###### to bend or move in the shape of a curve, or to make something do this←弄弯，（使）弯曲.
+- The track curved round the side of the hill. 小路弯弯曲曲，依山而行。
+- A smile curved her lips. 她咧嘴笑了。
+
+#### exist `[ɪg'zɪst]`
+##### `●●●` `S2` `W1` `vi`（verb [intransitive])
+###### (1) 1 to happen or be present in a particular situation or place. 发生；存在.
+- The custom of arranged marriages still exists in many countries. 许多国家仍然存在着包办婚姻的习俗。
+- Opportunities exist for students to gain sponsorship. 学生有机会获得资助。
+- Stop pretending that the problem doesn’t exist. 别再假装这个问题不存在了。
+- The club will **cease(`/siːs/` vt&vi.停止，终止，结束) to exist** if financial help is not found. 该俱乐部要是得不到资助将不复存在。
+###### (1) 2 to be real or alive. 存在；实际上有.
+- Do fairies really exist? 真的有神仙吗？
+- Tom acts as if I don’t exist at times. 汤姆有时表现得就像我不存在一样。
+###### (1) 3 to stay alive, especially in a difficult situation when you do not have enough money, food etc. 维持生存〔尤指勉强餬口〕; SYN  survive
+- **exist on**
+    + The hostages existed on bread and water. 人质靠面包和水生存。
 
 ### 20190913
-- **testosterone  `[te'stɔstərəun]` (tes-toste-rone)--n.睾丸激素**
+- **testosterone `[te'stɔstərəun]` (tes-toste-rone)--n.睾丸激素**
     + If you're a man you already know that your testosterone levels are
       pretty important (大家都知道睾酮对男性有多重要), so it might be a little scary
       to learn that testosterone levels are going down at a very fast pace for
@@ -5516,19 +5583,18 @@ if a woman flutters her eyelashes`/ˈaɪlæʃ/`(n.睫毛) at a man, she looks at
 - allocation of resource 资源分配  
 
 ### 20190807
-- **motivation `[,məuti'veiʃən]` --n.动机, 意志**
-    + We both know your real motivation here. 我们都知道你的真实动机. 
-    + That all depends on out motivation. 这安全取决于我们内心的动机. 
-    + Who knows what her motivation are? 谁知道他是什么动机？
-- **attachment `[ə'tætʃmənt]` --n.附件, 附属**
-    + Please do not send your resume by attachment. 
-      请勿以附件形式发送简历. 
+#### motivation `[,məuti'veiʃən]` --n.动机, 意志
+- We both know your real motivation here. 我们都知道你的真实动机. 
+- That all depends on out motivation. 这安全取决于我们内心的动机. 
+- Who knows what her motivation are? 谁知道他是什么动机？
+#### attachment `[ə'tætʃmənt]` --n.附件, 附属
+- Please do not send your resume by attachment. 请勿以附件形式发送简历. 
 
 ### 20190806
-- **dependency `[di'pendənsi]` --n.依赖, 属国, 从属物**
-    + This plan would reduce pollution and America's dependency on oil. 
-        这个计划将会减少污染以及美国对石油的依赖性. 
-    + This island is no longer a dependency of the USA.
+#### dependency `[di'pendənsi]` --n.依赖, 属国, 从属物
+- This plan would reduce pollution and America's dependency on oil. 
+  个计划将会减少污染以及美国对石油的依赖性. 
+- This island is no longer a dependency of the USA.
         这个小岛不再是美国的属地.           
 
 ### 20190805
@@ -5549,17 +5615,16 @@ if a woman flutters her eyelashes`/ˈaɪlæʃ/`(n.睫毛) at a man, she looks at
 #### 2. resent `/rɪˈzent/` verb[transitive] (因受委屈而) 对...感到愤恨[不满]
 - I resented having to work such long hours. 工作时间这么长，我很有怨气。
 - bitterly/deeply/strongly resent
-    + She bitterly resented his mother's influence over him. 她十分讨厌他母亲对他的影响。
-    + Paul **resented the fact that** Carol didn't trust him. 保罗对卡萝尔不信任他感到很不满。
+- She bitterly resented his mother's influence over him. 她十分讨厌他母亲对他的影响。
+- Paul **resented the fact that** Carol didn't trust him. 保罗对卡萝尔不信任他感到很不满。
 
 ### 3. invalidate `[ɪn'vælɪdeɪt]` --vt.使无效, 使作废
-    + invalidate caches 使缓存无效
+- invalidate caches 使缓存无效
 
 ### 4. passive `['pæsɪv]` --adj.被动的, 消极的, 被动语态的.  --n.被动语态
-    + passive DNS 被动 DNS
-    + passive smoking 被动吸烟；吸二手烟
-    + We should translate this sentence in passive voice.
-        我们应该用被动语态翻译这个句子. 
++ passive DNS 被动 DNS
+- passive smoking 被动吸烟；吸二手烟
+- We should translate this sentence in passive voice.  我们应该用被动语态翻译这个句子. 
 
 ### 20190804
 - Everyone has a bank. Its name is TIME. 每个人都有一个银行, 它的名字叫时间. 
@@ -8212,7 +8277,7 @@ if a woman flutters her eyelashes`/ˈaɪlæʃ/`(n.睫毛) at a man, she looks at
     + idle hands. 闲置着的人手. 
     + Don't idle about. 不要游手好闲. 
 
-### 20181003**
+### 20181003
 - **compatible `[kəm'pætɪb(ə)l]` --adj.兼容, 相容的**
      + Their marriage came to end because they were simply not compatible 
        with each other. 他俩简直无法和睦相处, 所以就离婚了. 
@@ -8288,7 +8353,7 @@ if a woman flutters her eyelashes`/ˈaɪlæʃ/`(n.睫毛) at a man, she looks at
 - issue template 问题模板
 - pull request template  拉请求模板
 
-### 20180929**
+### 20180929
 - **express `[ɪk'spres]` --vt.表达, 表示.  --adj.特快(的), 高速(的)**
     + an express airmail service. 航空快件服务
     + express fake emotions.  表达虚假的情感. 
@@ -8299,7 +8364,7 @@ if a woman flutters her eyelashes`/ˈaɪlæʃ/`(n.睫毛) at a man, she looks at
     + Fetch me a glass of water. 给我拿杯水来. 
     + Jack fetched a towel from the bathroom;  杰克从浴室拿来一条毛巾. 
 
-### 20180928**
+### 20180928
 - **installation `[ɪnstə'leɪʃ(ə)n]` --n.安装, 设备, 设置**
     + installation will cost about $60 extra. 安装需另加 60 美元. 
 - **maintenance `['meɪnt(ə)nəns]` --n.维修, 保养**
