@@ -1,41 +1,11 @@
 # 每日单词 Daily words
 
 
-## Longman Dictionary of Contemporary English 5th/6th Edition (朗文当代英文词典 第5版) 简单说明
-
-![image-20210629151123562](Daily-Words.assets/image-20210711105500533.png)
-
-1. 家族词汇(Word Family): 朗文词典在每个单词页面的顶部把所有相关的不同词性的关联词汇清晰地罗列了出来，并且每个家族词汇都设置了超链接，点击即可跳转相关词汇的页面，十分方便。
-2. 常用 9000 词: 朗文根据语料库词频整理出常用的 9000 个词汇，并将他们划分为高，中，低三个频次。每个频次分别用 3 个红点，2 个红点和一个红点示意。（位于音标右侧，如图所示）
-3. 口语(Spoken)/写作(Writing)常用 3000 词: 朗文在常用 9000 词的基础上，分别针对口语和写作整理出了最为常用的 3000 个词汇并分别用 `S1`,`S2`,`S3` 与 `W1`, `W2`, `W3` 进行标识。以上图为例: necessary 标有 `S2`, `W1` 的标识，代表了 necessary 既属于口语常用 2000 词，也属于写作常用 1000 词的范围。
-
-
-在使用一个词时，我们既要了解它的含义，又要知道它的语法。例如，recall 和  reminisce 这两个词都表示“回忆过去发生的某件事情”，两者具有相同的含义。因此，在 *The two old friends talked for hours, recalling their schooldays. (两位老友交谈了几个小时起回忆他们在学校中的生活)* 这个的子中，单纯就含义而言，似乎未尝不可以用 reminisce 来代替 recall 但是，就语法而言，这两个动词却有重要的区别：recall 永远是及物动词，reminisce 永远是不及物动词。因此，*The two old friends talked for hours, reminiscing their schooldays.* 这个向子在语法上是不正确的，因为 reminisce 这个动词不可以后接直接宾语(受词)。意义相同的两个词在语法上并不总是相同的。由此可见，句中词语的正确使用不仅取决于对这些词语含义的理解，而且取决于对这些词语的语法功能的了解。
-
-致力于提高英语运动能力的高层次学生来说, 通晓词语的语法功能显然特别重要. 有鉴于此,《朗文当代高级英语辞典》确定了一个目标，即对每一个词的语法特征和含义都要做到两者并重，提供既全面又清晣的说明。这个目标是借助一套“语法代号”（Grammar Codes）来完成的，这套代号把《当代英语语法》（Quirk, Greenbaun, Leech 和 Svartvik, 1985) 中的语法说明作为它的主要参比依据。例如，recall 这个词被标上代号 `Transitive`，表明它是一个**及物动词(Transitive)**。而 reminisce 这个词则则被标上`Intransitive (about)`，表明它是一个**不及物动词(Intransitive)**，而且后面可以接介词 about。如果在上面的例句用 reminisce 作为替换词的话，就必须把这些语法特征考虑进去。正确的新句为:
-- The two old friends talked for hours, **reminiscing about** their schooldays.
-  两个老友交谈了几个小时, 一起回忆他们在学校的生活.
-
-除了表明基本的语法特征（如动词是及物的还是不及物的，名词是可数的还是不可数的等）之外，语法代号还对各种类型的补足成分作了充分的说明（此处需要注意的是：使用这类代号并不意味着永远需用这类结构，也不是不允许存在其他可替換的结构）。例如，一个词可有 that从 [子] 句作为补足语时就用代号 (+ that) 表示，而一些可后接 to 加不定词 (式) 短语的词则用代号 (+ to-v)表示。这种关于补足成分的信息不仅为动词提供，同样为名词和形容词提供。
-
-同一个词可以有一系列不同的语法结构。例如，dream 就其主要语义而言，可用作不及物动词(*Do you dream at night?*)；也可与介词搭配使用 (*What did you dream about?*)；还可同 that 从 [子] 句连用 (*I dreamt that I was flying to the moon*).
-
-从另一方面来看，一个词的各个不同含义常常需要不同的语法上的搭配。例如 drive 词既可用作及物动词 (to drive a car, bus, etc.)，也可用作不及物动词 (She drove along the street). 但是，在其含义为 to force to go(驱赶)时，它就只能用作及物动词 (to drive cattle) (Bad weather drove the tourists away)。由此可见，本辞典的一套代号既方便读者使用，又很能说明问题，整部辞典中各个词的语法持征都是用这种方式清楚地标示出来的。
-
-这些代号提供的信息又通过例证加以充实。例证可把某个词所能显示的各种语法特征都具体地表現出来。而且，表明补足结构和介词搭配的语法代号就直接放在它们所适用的例句之前, 例如:
-
-![image-20210711202457313](Daily-Words.assets/image-20210711202457313.png)
-
-上图例子中, 先是列出词类(verb), 接着列出的是表示 "及物" 的语法代号 `[transitive]` 和 "不及物" 的语法代号 `[Intransitive]`.
-
-有关本辞典列入的语法信息的说明可见 "本辞典使用方法简介" 的第 8 项, 以及 "语法代号" 表.
-
-
 
 Our teacher says that God loves the blind more
-because they can't see. But I told him if it was so, He would not make us blind so that we can't see Him. He answered "God is not visible. He is everywhere. You can feel Him. You see Him through your fingertips.
+because they can't see. But I told him if it was so, He would not make us blind so that we can't see him. He answered "God is not visible. He is everywhere. You can feel him. You see him through your fingertips.
 
-Now I reach out everywhere for God till the day my hands touch Him and tell Him everything, even all the secrets in my heart.
+Now I reach out everywhere for God till the day my hands touch him and tell him everything, even all the secrets in my heart.
 
 
 
@@ -107,28 +77,18 @@ Now I reach out everywhere for God till the day my hands touch Him and tell Him 
 
 # 2021 Year
 
-
-## 2021-08
-### 2021.08.01
-- Never frown, even when you are sad, because you never know who is falling in love with your smile.
-  纵然伤心, 也不要愁眉不展, 因为你不知道是谁会爱上你的笑容.
-
 ## 2021-07
 ### 2021.07.31
-- It takes a great deal of courage to stand up to your enemies, but a great deal more to stand up to your friends. 
 
 ### 2021.07.30
-- Better by far you should forget and smile, than that you should remember and be sad.
-  我愿你能微笑着把我忘记, 也不要在你的记忆里留下右上的痕迹.
 
 ### 2021.07.29
-- MORAL: Talent is of no use without effort. 
 
 ### 2021.07.28
 - Self-knowledge is a preface to self-control. 有自知之明方可自我制约。
 
 ### 2021.07.27
-- No one should live alone. 没有人应该肚子生活
+- 
 
 ### 2021.07.26
 - MORAL: If you harm others, you will also be harmed. 格言: 伤害别人，也会自食其果。
@@ -141,27 +101,20 @@ Now I reach out everywhere for God till the day my hands touch Him and tell Him 
     + I think you can run a business to the highest moral standards. 我想你可以用最高的道德标准来经营公司。
     + If we accept that certain babies should be allowed to die, we place doctors in a moral dilemma. 如果我们同意应该让某些婴儿死去，我们就把医生置于道德上的两难境地了。
     + Man is gifted with a moral sense by which he distinguishes good from evil. 人类天生有道德意识，能区分善与恶。
-2[only before noun] based on your ideas about what is right, rather than on what is legal or practical←基于道德的，道义上的： :
- The book places a high moral value on marriage and the family unit.
-→这本书对婚姻和家庭的道德价值很重视。
- The UN feels that it has the moral authority (=influence because people accept that its beliefs are right) to send troops to the area.
-→联合国认为它在道义上有权向该地区派遣部队。
-moral duty/obligation/responsibility
- A man has a moral duty to obey the law.
-→每个人都在道德上有义务遵守法律。
- It isn’t just lack of moral fibre (=lack of the emotional strength to do what you believe is right) which leads to a rising divorce rate.
-→不仅仅是因为缺少道德力量才导致离婚率上升的。
-3moral support encouragement that you give by expressing approval or interest, rather than by giving practical help :
- Dad came along to give me some moral support.
-→爸爸过来了，要给我一些精神支持。
-4moral victory a situation in which you show that your beliefs are right and fair, even if you do not win :
- Through Joan of Arc, France won a great moral victory.
-→因为圣女贞德，法国在道义上赢得了重大的胜利。
-5 always behaving in a way that is based on strong principles about what is right and wrong←品行端正的；有道德的； OPP  immoral, amoral:
- a moral man of high integrity
-→一个正直、有道德的人
-6take/claim/seize the moral high ground to claim that you are the only person who does what is morally right in a situation, with the intention of being noticed and considered to be good by the public
-7moral compass a way of recognizing what kind of behaviour is right or wrong :
+###### (2) [only before noun] based on your ideas about what is right, rather than on what is legal or practical←基于道德的，道义上的.
+- The book places a high moral value on marriage and the family unit. 这本书对婚姻和家庭的道德价值很重视。
+- The UN feels that it has the moral authority (=influence because people accept that its beliefs are right) to send troops to the area. 联合国认为它在道义上有权向该地区派遣部队。
+- **moral duty/obligation/responsibility**
+    + A man has a moral duty to obey the law. 每个人都在道德上有义务遵守法律。
+    + It isn’t just lack of moral fibre (=lack of the emotional strength to do what you believe is right) which leads to a rising divorce rate. 不仅仅是因为缺少道德力量才导致离婚率上升的。
+###### (3) moral support encouragement that you give by expressing approval or interest, rather than by giving practical help :
+- Dad came along to give me some moral support. 爸爸过来了，要给我一些精神支持。
+###### (4) moral victory a situation in which you show that your beliefs are right and fair, even if you do not win
+- Through Joan of Arc, France won a great moral victory. 因为圣女贞德，法国在道义上赢得了重大的胜利。
+###### (5) always behaving in a way that is based on strong principles about what is right and wrong←品行端正的；有道德的； OPP  immoral, amoral:
+- a moral man of high integrity. 一个正直、有道德的人
+###### (6) 
+###### (7) 
  Has the government lost its moral compass? 
 ###### (1) ``
 -
@@ -194,7 +147,7 @@ moral duty/obligation/responsibility
 - The flag fluttered in the light breeze. 旗帜在微风中飘动。
 ###### (3) `[intransitive]` if your heart or your stomach flutters, you feel very excited or nervous.〔因激动或紧张，心脏或胃〕怦怦跳，颤抖，悸动
 - Her heart began to flutter with fear. 她的心因害怕而开始怦怦跳。
-###### (4) `[intransitive]` if your eyelids flutter, they move slightly when you are asleep.〔睡觉时眼皮〕颤动： :
+###### (4) `[intransitive]` if your eyelids flutter, they move slightly when you are asleep.〔睡觉时眼皮〕颤动.
 - Her eyelids fluttered but did not open. 她的眼皮动了一下，但眼睛没有睁开。
 ###### (5) **flutter your eyelashes (at somebody)** [女子] (朝某人)忽闪眼睫毛[以吸引男子注意]
 if a woman flutters her eyelashes`/ˈaɪlæʃ/`(n.睫毛) at a man, she looks at him and moves her eyes to make herself attractive to him
