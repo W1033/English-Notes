@@ -77,12 +77,81 @@ Now I reach out everywhere for God till the day my hands touch him and tell him 
 
 # 2021 Year
 
+## 2021-08
+### 2021.08.31
+### 2021.08.30
+### 2021.08.29
+### 2021.08.28
+### 2021.08.27
+### 2021.08.26
+### 2021.08.25
+### 2021.08.24
+### 2021.08.23
+### 2021.08.22
+### 2021.08.21
+### 2021.08.20
+### 2021.08.19
+### 2021.08.18
+### 2021.08.17
+### 2021.08.16
+### 2021.08.15
+### 2021.08.14
+### 2021.08.13
+- Don't cry because it is over. Smile because it happened. 不要哭，因为一切都结束了。微笑，因为它发生过。
+
+### 2021.08.12
+- 略
+
+### 2021.08.11
+- Reading can save lives. 读书可以挽救生命。
+
+### 2021.08.10
+- You stand tall enough as a human being of unique qualities not need to be seen as a saint. 作为具有独特品质的人，您站得足够高，不需要被视为圣人。
+
+### 2021.08.09
+- To get a thorough understanding of oneself requires doing oneself a favor when it's needed. 要彻底了解自己，就要懂得在需要的时候向自己伸出援手。
+
+### 2021.08.08
+- Life is, in a sense, a battle. 从某种意义上讲，生活是一张战斗。
+
+### 2021.08.07
+- Behind the clouds is the sun still shining. 乌云背后，阳光依然辉煌灿烂。
+
+### 2021.08.06
+- My heart's in the highlands, my heart is not here. 我的心在那高原，我的心不在这里。
+
+### 2021.08.05
+- The measure of a man's real character is what he would do if the knew he would never be found out. 衡量一个人真正的品质，要看他在知道永远也不会被人发现的情况下做些什么。
+
+### 2021.08.04
+- Life is not a trap set for us by God so that he can condemn us for failing. 生活不是上帝为我们设置的陷阱，以便可以谴责我们的失败。
+
+### 2021.08.03
+- Better to light one candle than to curse the darkness. 诅咒黑暗不如点燃蜡烛。
+
+### 2021.08.02
+- And here were forests ancient as the hills, enfolding sunny spots of greenery. 这里有如山般古老的森林，周围环绕着阳光普照的绿地。
+#### 1. en‧fold /ɪnˈfəʊld $ -ˈfoʊld/
+##### `verb` [transitive]  
+formal to cover or surround someone or something completely←搂抱〔某人〕; 围住，包住〔某物〕: :
+ The wizard screamed as the darkness enfolded him.
+→黑暗罩住了巫师，他尖叫起来。
+ He reached out to enfold her in his arms.
+→他张开双臂去抱她。
+
+
+### 2021.08.01
+
+
+
 ## 2021-07
 ### 2021.07.31
 
 ### 2021.07.30
 
+
 ### 2021.07.29
+- MORAL: Talent if of no use withour effort. 寓言：没有努力，才能便不值一提。
 
 ### 2021.07.28
 - Self-knowledge is a preface to self-control. 有自知之明方可自我制约。
@@ -91,7 +160,7 @@ Now I reach out everywhere for God till the day my hands touch him and tell him 
 - 
 
 ### 2021.07.26
-- MORAL: If you harm others, you will also be harmed. 格言: 伤害别人，也会自食其果。
+- MORAL: If you harm others, you will also be harmed. 格言: 伤害别人，也回自食其果。
 #### 1. moral `/ˈmɒrəl $ ˈmɔː-/`
 ##### 1.1 ●●○ `W2` **adjective** 
 ###### (1) `[only before noun]` (relating to the principles of what is right and wrong behaviour, and with the difference between good and evil. 关于什么是对与错的行为的原则，以及善与恶的区别) 道德（上）的； -> **morally, ethical**:
@@ -120,20 +189,6 @@ Now I reach out everywhere for God till the day my hands touch him and tell him 
 -
 ##### 1.2 `●○○` **verb**  
 
-### 2021.07.25
-- For the soul is dead that slumbers. 灵魂麻木与死去没有什么两样.
-
-### 2021.07.24
-- MORAL: Work hard and good fortune will always follow. 格言: 努力工作, 好运总会随之而来.
-
-### 2021.07.23
-- Remember today that life is creation. As long as you live you can always contribute your own special voice.
-
-### 2021.07.22
-- We men are imperfect beings, so conflicts among us are unavoidable.
-
-### 2021.07.21
-- Even the roadside weed ignores man's legislation. 
 
 ### 2021.07.20
 - And yellow leaves of autumn, which have no songs, flutter and fall there with a sigh. 秋天的黄叶，没有歌声，飘飘然，叹息着落在那里。
@@ -166,21 +221,6 @@ if a woman flutters her eyelashes`/ˈaɪlæʃ/`(n.睫毛) at a man, she looks at
 
 #### 2. sigh
 
-
-### 2021.07.20
-- And yellow leaves of autumn, which have no songs, flutter and fall there with a sigh.
-
-### 2021.07.19
-- Listen to your heart for a while. 去听一听你的心声吧.
-
-### 2021.07.18
-- Studies pass into and influence manners. 
-
-### 2021.07.17
-- You are truly free to live with purpose, joy and fulfillment.
-
-### 2021.07.16
-- MORAL: Don't try to do the impossible. 格言: 不要自不量力.
 
 ### 2021.07.15
 - Still achieving, still pursuing. Learn to labour and to wait.
@@ -218,22 +258,8 @@ if a woman flutters her eyelashes`/ˈaɪlæʃ/`(n.睫毛) at a man, she looks at
 - I've learned that hardly anything is more important than my happiness.
   我已经明白，生活中没有什么事情比自身的快乐更重要。
 
-### 2021.07.12
-- Things do not change. We change. 万物未变. 我们在变.
-
-### 2021.07.11
-- MORAL: You can't please everyone. 格言: 你不能取悦每一个人.
-
-### 2021.07.10
-- Do not stand at my grave and weep. I am not there. I do not sleep.
-  请不要在我坟前哭泣. 我不在那里, 我没有长眠.
-
 ### 2021.07.09
 - Don't be afraid to admit that you are less than perfect. 不要害怕承认你并不完美。
-
-### 2021.07.08
-- Hold infinity in the palm of your hand. And eternity in an hour.
-  把无限掌控在手中, 永恒也消融于一刹间.
 
 ### 2021.07.07
 - And, Kindness is never wasted. 善良永远不会被浪费。
@@ -241,18 +267,6 @@ if a woman flutters her eyelashes`/ˈaɪlæʃ/`(n.睫毛) at a man, she looks at
 ### 2021.07.06
 - Your home may be poor and humble, but your duty lies there.
   你的家可能贫穷而简陋，但你的责任就在那里。
-
-### 2021.07.05
-- Take pride in your accomplishments, as they are stepping stones to your dreams.
-
-### 2021.07.04
-- Sit. Feast on your life. 坐下. 尽享你的生活.
-
-### 2021.07.03
-- Art is long, and time is fleeting. 艺术无尽, 而人生有涯.
-
-### 2021.07.02
-- To wake at dawn with a winged heart and give thanks for another day of loving.
 
 ### 2021.07.01
 #### 1. verbose `/vɜːˈbəʊs $ vɜːrˈboʊs/` --adjective
@@ -288,7 +302,6 @@ if a woman flutters her eyelashes`/ˈaɪlæʃ/`(n.睫毛) at a man, she looks at
 
 ### 2021.06.23
 - And nature to be commanded must be obeyed.
-
 
 ### 2021.06.18
 - In my work, as a writer, I only photograph, in words, what I see.
