@@ -9,68 +9,68 @@
 
 
 ## New Words
-- **plural ['plʊr(ə)l] --n.复数.  --adj.复数的** 
+- **plural `/'plʊr(ə)l/` --n.复数.  --adj.复数的** 
     + What is the plural of Man, Tom? 
       汤姆, "男人" 这个词的复数形式是什么？
     + We use "those" and "these" with plural nouns.
       我们用 "those" and "these" 去修饰复数名词. 
-- **nouns [naʊn] --n.名词**
+- **nouns `/naʊn/` --n.名词**
     + In English, we can use nouns to modify other nouns. 
       在英语里面, 我们可以用名词来修饰名词.
-- **verb [vɝb] --n.动词**
+- **verb `/vɝb/` --n.动词**
     + verb forms. 动词词形.
     + the verb is in the plural. 这个动词为复数形式.  
     + the verbs are all in the present. 所有动词都是现在时.
-- **adjective ['ædʒɪktɪv] --adj.形容词**
+- **adjective `/'ædʒɪktɪv/` --adj.形容词**
     + What does that mean? - It's an adjective. 什么意思? - 是一个形容词
     + an adjective clause. 形容词从句.
     + an adjective phrase. 形容词短语
     + Adjective modify nouns. 形容词修饰名词.
-- **adverb ['ædvɝb] --n.<语>副词**
+- **adverb `/'ædvɝb/` --n.<语>副词**
     + It's an adverb participle, a perfect participle[发音见下面]. 
       这是一个副词从句, 也是一个完成时从句.  
     + We use adverbs to describe verbs. 我们用副词来描述动词.
-- **article ['ɑːtɪkl] --n.文章; 物品; 条款; [语]冠词**
+- **article `/'ɑːtɪkl/` --n.文章; 物品; 条款; [语]冠词**
     + What kinds of articles have you written? 你写过一些什么样的文章?
     + articles of daily use. 日用品
     + catalog of articles for sale. 代售货物目录
-- **numeral ['numərəl] --n.数字; 数词. --adj.表示数字的; 数字的**
+- **numeral `/'numərəl/` --n.数字; 数词. --adj.表示数字的; 数字的**
     + The numeral(n) 1 begins the sequence. 一是数字的起首
     + In Arabic['ærəbik] numerals(n), the year is written 1983.
       用阿拉伯数字这一年写作 1983.
-- **interjection [ˌɪntɚ'dʒɛkʃən] --n.叹词, 感叹词**
+- **interjection `/ˌɪntɚ'dʒɛkʃən/` --n.叹词, 感叹词**
     + I must say you are very good at expressing things. Interjections
       are very useful indeed! 
       我必须说, 你很擅长表达. 感叹词真的非常有用!
-- **pronoun ['pronaʊn] --n.<语>代词**
+- **pronoun `/'pronaʊn/` --n.<语>代词**
     + Okay? You don't have to use the personal pronoun.
       明白了吗? 你不必使用人称代词.
-    + relative pronoun. [语]关系代词
+    + relative pronoun. `/语]关系代词
 - **preposition `[ˌprepəˈzɪʃən]` --n.介词; 前置词**
     + Decide which preposition you need to finish this sentence.
       决定你需要哪一个介词来完成这个句子.
     + We often use it with a preposition. 我们常带上一个介词来使用它.
     + Preposition are words that show direction, position or time.
       介词是指表明方向, 位置或时间的单词.
-- **conjunction [kən'dʒʌŋkʃən| ] -- --n.连词(连接词); 结合; 联合**|
+- **conjunction `/kən'dʒʌŋkʃən/` --n.连词(连接词); 结合; 联合**
     + There was a conjunction of three mistakes. 有3个错误连接在一起.
-- **participle ['pɑrtə'sɪpl] --n.<语>分词**
+- **participle `/'pɑrtə'sɪpl/` --n.<语>分词**
     + That's it. "Seen" is actually a past participle. 
       那就对了. Seen 其实是过去分词.
     + It's an adverb participle, a perfect participle. 
       这是一个副词从句, 也是一个完成时从句.
-- **partial ['pɑːʃ(ə)l] --adj.局部的, 部分的, [口]偏爱的**
+- **partial `/'pɑːʃ(ə)l/` --adj.局部的, 部分的, [口]偏爱的**
     + partial success. 部分的成功. 
     + partial to detective novels. 偏爱侦探小说
-- **objective [əb'dʒɛktɪv] --n.目的; 目标; 意图.**
+- **objective `/əb'dʒɛktɪv/` --n.目的; 目标; 意图.**
     + His objective was to finish by October. 他的目标是在 10 月前完成.
-- **indication [ˌɪndɪ'keʃən] --n.指示; 表示; 迹象; 指出.**
+- **indication `/ˌɪndɪˈkeɪʃən/` --n.指示; 表示; 迹象; 指出.**
     + Faces are a good indication of age. 脸孔是年龄的良好标示.
     + There is no indication that unemployment will decrease.
       没有失业人数减少的迹象.
     + There are indications that unemployment will decrease.
       有失业人数减少的迹象.
-- **central `['sɛntrəl]` --adj.中央的; 中心的; 主要的; 中枢的**
+- **central `/ˈsentrəl/` --adj.中央的; 中心的; 主要的; 中枢的**
     + Central Processing Unit. 中央处理器
     + the central area['ɛrɪə]` of the city. 城市的中心区.(城中区)
     + the central aim of this investigation. 这项调查的主要目的.
@@ -105,7 +105,8 @@ Unit2 ~ Unit10 将详细介绍不同的词类.
 
 
 ### 2. 学习英语单词应该注意的事项
-#### 2.1 一个单词属于哪一类词不是绝对不变的. 一个单词同时具有二, 三个词性是很普通的情况. 有时, 同一个单词在不同的词类中, 表达的意思是不同的, 使用时应当特别注意.
+#### 2.1 一个单词属于哪一类词不是绝对不变的.
+一个单词同时具有二, 三个词性是很普通的情况. 有时, 同一个单词在不同的词类中, 表达的意思是不同的, 使用时应当特别注意.
 
 ##### 1. like 即可以是动词(v), 也可以是介词(prep).
 + (1) He side he <i style="text-decoration: underline">liked</i>the classical music very much.  他说他非常喜欢古典音乐.
@@ -126,7 +127,13 @@ Unit2 ~ Unit10 将详细介绍不同的词类.
   
   <strong style="color:green;">hard 在这里是副词, 说明动词 work 的程度</strong>
 
-#### 2.2 不同词性的单词在句子中承担的成分是不同的, 也就是说, 句子的不同成分需要用不同词性的单词来承担, 即使它们的意思(即译成中文的意思)是相同的. ==名词可以作主语、宾语、表语;== ==形容词用作定语修饰名词或作表语;== ==动词用作谓语;== ==副词作状语修饰动词等.== 因此,记单词时必须注意它的词性类别, 才能做到正确使用单词. 对比下列句子: 
+#### 2.2 不同词性的单词在句子中承担的成分是不同的, 
+也就是说, 句子的不同成分需要用不同词性的单词来承担, 即使它们的意思(即译成中文的意思)是相同的.
+==名词可以作主语、宾语、表语;==
+==形容词用作定语修饰名词或作表语;==
+==动词用作谓语;==
+==副词作状语修饰动词等.==
+因此,记单词时必须注意它的词性类别, 才能做到正确使用单词. 对比下列句子: 
 
 + (1) This garden is very
   <i style="text-decoration: underline">beautiful</i>. (这个花园很漂亮.)
@@ -147,11 +154,12 @@ Unit2 ~ Unit10 将详细介绍不同的词类.
 
   **well 是副词, 修饰动词 sing, 放在名词后面.**
 
-  注意: good 和 well 都表示 "好", 但是它们的词性不同, 因此用法不同, 决不能混用.
+  **注意:** good 和 well 都表示 "好", 但是它们的词性不同, 因此用法不同, 决不能混用.
 
   了解单词的词性是能够正确使用单词的前提. 所以, 在学习单词的程中, 不但要记住单词的拼写、读音，还要知道它是哪一类单词，以及在句子中可以担当的成分.
 
-#### 2.3 词组是英语词汇的重要组成部分, 很多意思的表达式靠一个词组来完成的. 因此, 在学习英语单词时, 相关词组应像一个单词一样整体记忆. 以 look 为例: look 是 "看" 的意思. 但是:
+#### 2.3 词组是英语词汇的重要组成部分, 很多意思的表达式靠一个词组来完成的.
+因此, 在学习英语单词时, 相关词组应像一个单词一样整体记忆. 以 look 为例: look 是 "看" 的意思. 但是:
 1. Please ***look at*** the blackboard. (请看黑板.)
     + ***look at*** 表示 "看/注视某物".
 2. She likes to ***look after*** small animals. (她喜欢照顾小动物.)
@@ -163,7 +171,8 @@ Unit2 ~ Unit10 将详细介绍不同的词类.
 5. We all ***look forward to*** graduation. (我们都期待着毕业.)
     + ***look forward to*** 表示 "以愉快, 急切的心情盼望着......"
 
-#### 2.4 动词的变化是英语学习的一个重要方面。英文句子的时态、语态、语气等都是通过动词的变化产生的. 如:
+#### 2.4 动词的变化是英语学习的一个重要方面。
+英文句子的时态、语态、语气等都是通过动词的变化产生的. 如:
 1. He ***studies*** English. (他学习英语.) ***一般现在时第三人称.***
 2. He ***is studying*** English. (他正在学习英语.) ***现在进行时.***
 3. He ***studied*** Chinese last night. (他昨天晚上学习了中文.) ***一般过去时.***
@@ -179,28 +188,70 @@ Unit2 ~ Unit10 将详细介绍不同的词类.
 ### 3. 单词的构成
 英文的基础单词，即不能再拆解的单词，是我们必须认贞逐一记忆的，如 happy, important, love, worth, like, sleep, begin 等。在这些词汇的基础上，通过一定的构词方法，主要有三种：`转化法`、`派生法`、`合成法`，就可以形成更多的词汇。这些词与原来的基础单词在意思上有某些联系，但它的词性、词义巳经发生了变化。了解单词构成的方法可以迅速扩大词汇量，更好地辨认单词的类别，分清词义，并有助于正确地使用它们。
 
-#### 3.1 转化法: 即一个单词在词形不变的情况下，由一个词类转变为另一个词类。
+#### 3.1 转化法:
+即一个单词在词形不变的情况下，由一个词类转变为另一个词类。
 
-#### 3.2 派生法: ：即在一个单词的前面加上一个前缀或后面加上一个后缀，有时前缀、后缀都加，从而构成一个新的单词。加后缀，一般是改变词性；加前缀，一般是改变词的意思，如变成原词的反义词。
+- (1) There is some **water** in the glass. (玻璃杯里有点水.)  名词：水
+- (1.1) We **water** flowers every day. (我们每天给花洗水.)  动词：浇水
 
-#### 3.3 合成法: 即由 2 个及其以上的独立的单词结合在一起, 构成新单词.
-##### (1) 合成名词
+- (2) Wash your **hands**. Jack. (洗手去，杰克.)  名词：手
+- (2.1) **Hand** in your dictations，please. (请把你们的听写交来.) 动词：递交
+
+- (3) Let me have a **try**. (让我试一下.)  名词：尝试
+- (3.1) He **tried** his best to help me. (他尽他最大的努力来帮助我.)  动词: 努力
+
+
+#### 3.2 派生法: 
+即在一个单词的前面加上一个前缀或后面加上一个后缀，有时前缀、后缀都加，从而构成一个新的单词。加后缀，一般是改变词性；加前缀，一般是改变词的意思，如变成原词的反义词。
+
+- **practice** `/ˈpræktɪs/` noun <br>
+    + (1) 练习 (when you do a particular thing, often regularly, in order to improve your skill at it.)
+        - It takes hours of practice to learn to play the guitar. 学习弹吉他需要长时间的联系.
+        - With a little more practice you should be able to pass your test. 稍微再练一练, 你应该能通过考试了.
+    + (2) **in practice(实际上)** (used when saying what really happens rather than what should happen or what people think happens. 用于说明真正发生的事情而不是应该发生的事情或人们认为会发生的事情.) 
+        - The journey`/ˈdʒɜːni $ -ɜːr-/` should only take about 30 minutes, but in practice it usually takes more like an hour. 这段路程应该只需要 30 分钟, 不过实际上常常要 1 小时左右.
+
+- practicable `/ˈpræktɪkəbəl/` adjective (加后缀 able, 名词变成形容词）<br/>
+    + adj.可行的, 行得通的(a practicable way of doing something is possible in a particular situation.)
+        - The only practicable course of action is to sell the company. 唯一可行的做法是把公司卖掉.
+        - It may not always be practicable to follow exactly the recommendations. 完全按照建议行事并非总行得通.
+
+- impracticable `/ɪmˈpræktɪkəbəl/` adjective (加前缀 im，变成原来意思的否定，但词性未变）
+    + adj.不缺实际的, 不可行的(impossible or very difficult to do for practical reasons.)
+        - It was an appealing`/əˈpiːlɪŋ/`(adj.有吸引力的;有趣的) plan but quite impracticable. 这个计划有吸引力, 但完全行不通.
+
+`~ ~ ~ ~ ~ ~ ~ ~ ~`
+
+- **large**  adjective 打的
+- enlarge verb
+- enlargement  noun
+
+##### 3.2.1 常用后缀
+
+##### 3.2.2 常用前缀
+
+##### 
+
+
+#### 3.3 合成法:
+即由 2 个及其以上的独立的单词结合在一起, 构成新单词.
+##### 3.3.1 合成名词
 - sightseeing 观光
 - headache 头痛
 - crossroad 十字路口
 - sideway 小路，人行道
 - chairman 主席
 - fisherman 渔民
-##### (2) 合成形容词
+##### 3.3.2 合成形容词
 - white-haired 长着白发的
 - hard-working 勤劳的
 - career-minded 事业心强的
 - narrow-minded 气批小的，小心眼的
-##### (3) 合成副词
+##### 3.3.3 合成副词
 - whatever 无论什么
 - everywhere 到处
 - whole-heartedly(hearted`/'hɑrtɪd/`) 全心全意地
-##### (4) 合成动词
+##### 3.3.4 合成动词
 - oversleep （使）睡过头
 - white-wash 粉刷
 - highlight 使....突出 <br>
