@@ -8,24 +8,19 @@
 
 ### 2021.07.12
 
-#### 1. facilitate `/fəˈsɪlɪteɪt/` ●○○ `AWL` `verb [transitive]` formal  
-==VERB TABLE== ==EXAMPLES== ==THESAURUS== ==COLLOCATIONS== ==WORD FAMILY==
-
-##### 促进；使便利 (to make it easier for a process or activity to happen)
-- Computers can be used to facilitate language learning. 计算机可以用来方便语言学习。
+#### 1. facilitate `/fəˈsɪlɪteɪt/` verb [transitive]
+- 促进；使便利 (to make it easier for a process or activity to happen.使一个过程或活动更容易发生)
+    + Computers can be used to facilitate language learning. 计算机可以用来方便语言学习。
 - facilitation `/fəˌsɪlɪˈteɪʃən/` `noun` [uncountable]
 
 #### 2. the‧sau‧rus `/θɪˈsɔːrəs/` noun (plural thesauruses or thesauri /-raɪ/) [countable]  
-WORD ORIGIN EXAMPLES WORD SETS
-a book in which words are put into groups with other words that have similar meanings←分类词典，同义词词典
+- 分类词典，同义词词典(a book in which words are put into groups with other words that have similar meanings)
 
 
-#### 2. reminisce `/ˌreməˈnɪs/`  
-##### `vi`(verb [intransitive]) to talk or think about pleasant events in your past←追忆[回忆]往事，缅怀过去：
-reminisce about
- a group of former students reminiscing about their college days
-→追忆着大学时光的一群老校友 ► see thesaurus at remember
-
+#### 2. reminisce `/ˌreməˈnɪs/`  verb[intransitive]
+- 追忆[回忆]往事，缅怀过去(to talk or think about pleasant events in your past).
+    + **reminisce about**
+        - a group of former students reminiscing about their college days. 追忆着大学时光的一群老校友
 
 
 
@@ -40,7 +35,7 @@ LDOCE5/6 最令人感动的地方是：单词的例句都是带有发音的！�
 
 ### 常用功能解释：
 
-![image](./images-english-notes/image-20210711105500533.png)
+![image](../images-english-notes/image-20210711105500533.png)
 
 - **WORD FAMILY (词汇家族)**: 比如 economics, economist, economy, economic, economical 这样的词汇家族。朗文词典在每个单词页面的顶部把所有相关的不同词性的关联词汇清晰地罗列了出来，并且每个家族词汇都设置了超链接，点击即可跳转相关词汇的页面，十分方便。
 
