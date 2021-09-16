@@ -222,7 +222,30 @@ Unit2 ~ Unit10 将详细介绍不同的词类.
 
 `~ ~ ~ ~ ~ ~ ~ ~ ~`
 
-- **large**  adjective 打的
+- **large** `/lɑːdʒ $ lɑːrdʒ/`  adjective(comparative larger, superlative largest)
+    + (1) 巨大的; 大量的; 大的; (big in size, amount, or number)
+        - Los Angeles is the second largest city in the US. 洛杉矶是美国的第二大城市.
+        - The T-shirt **comes in** Small, Medium and Large. 这种 T 恤有小号, 中号和大号.
+        - a large ovenproof`/ˈʌvənpruːf/`(adj.[碟子,盘子等]耐热的, 烤箱适用的) pan. 一个耐热的大平底锅
+        - large sums of money. 大笔的钱
+        - those who drink **large amounts** of coffee. 咖啡喝的很多的人.
+    + (2) 身材高大(肥胖)的 (a large person is tall and often fat)
+    + (3) **be at large**(危险人物或动物)在逃的, 未被捕获的 (if a dangerous person or animals is at large, they have escaped from somewhere or have not been caught)
+        - The escaped prisoners`/ˈprɪzənə $ -ər/` are still at large. 越狱囚犯依然在逃.
+    + (4) **the population/public/society/world etc at large** people in general
+      全部人口/全部民众/全社会/全世界等.
+        - The chemical pollution poses a threat to the population at large 化学污染对民众造成了威胁。
+    + (5) **the larger issues/question/problem/picture** more general facts, situations, or questions related to something 更大的问题/更广泛的局势.
+        - The book helps to explain the larger picture in the Middle East 这本书有助于解释中东地区更广泛的局势。
+    + (6) **in large part/measure** formal mostly. [正式]很大程度上. 基本上.
+        - Their success was due in large part to their ability to speak Spanish.
+          他们的成功主要归功于他们会说西班牙语.
+    + (7) **(as) large as life** British spoken used when someone has appeared or is present in a place where you did not expect to see them.[英, 口]确确实实(就在眼前)〔用于表示没有料到某人的出现
+        - I turned a corner and there was Joe, as large as life。我转过弯, 乔居然就在我的眼前。
+    + (8) **larger than life** someone who is larger than life is very  Musing or exciting in an attractive way 引人注目的，与众不同的.
+    + (9) **by and large** used when talking generally about someone or something. 大体上, 总体上.
+        - Charities, by and large, do not pay tax 慈善机构一般来说无须缴税.
+
 - enlarge verb
 - enlargement  noun
 
