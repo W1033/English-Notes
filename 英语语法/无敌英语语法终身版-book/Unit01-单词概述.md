@@ -220,8 +220,6 @@ Unit2 ~ Unit10 将详细介绍不同的词类.
     + adj.不缺实际的, 不可行的(impossible or very difficult to do for practical reasons.)
         - It was an appealing`/əˈpiːlɪŋ/`(adj.有吸引力的;有趣的) plan but quite impracticable. 这个计划有吸引力, 但完全行不通.
 
-`~ ~ ~ ~ ~ ~ ~ ~ ~`
-
 - **large** `/lɑːdʒ $ lɑːrdʒ/`  adjective(comparative larger, superlative largest)
     + (1) 巨大的; 大量的; 大的; (big in size, amount, or number)
         - Los Angeles is the second largest city in the US. 洛杉矶是美国的第二大城市.
@@ -246,14 +244,88 @@ Unit2 ~ Unit10 将详细介绍不同的词类.
     + (9) **by and large** used when talking generally about someone or something. 大体上, 总体上.
         - Charities, by and large, do not pay tax 慈善机构一般来说无须缴税.
 
-- enlarge verb
-- enlargement  noun
+- enlarge `/ɪnˈlɑːdʒ $ -ɑːrdʒ/` verb [intransitive, transitive]
+    + (使)增大, 扩大 (if you enlarge something, or if it enlarges, it increases in size or scale)
+        - an operation to enlarge her breasts. 丰胸手术
+        - Police will have the pictures enlarged in an attempt to identify the thief. 为了辨认出窃贼, 警方会将这些照片放大.
+        - A good way to enlarge your vocabulary is to read a daily newspaper. 一个扩大词汇量的好方法是阅读日报.
+
+- enlargement `/ɪnˈlɑːdʒmənt $ -ɑːr-/` noun
+    + (1) 扩印的照片 (a photograph that has been printed again in a bigger size.)
+        - if you like the picture I can send you an enlargement of it.
+          如果你喜欢这照片, 我可以给你寄一张放大的.
+    + (2) [countable, uncountable] 扩大, 增大 (an increase in size or amount)
+        - enlargement of the EU. 欧盟的扩大.
 
 ##### 3.2.1 常用后缀
+- (1) 常用的构成名词的后缀:
+    <table style="display:table-cell">
+        <tr>
+            <td><code>-er</code></td>
+            <td><code>-or</code></td>
+            <td><code>-ist</code></td>
+            <td><code>-ee</code></td>
+            <td><code>-ess</code></td>
+            <td><code>-ian</code></td>
+        </tr>
+        <tr>
+            <td><code>-ese</code></td>
+            <td><code>-ant</code></td>
+            <td><code>-ism</code></td>
+            <td><code>-ness</code></td>
+            <td><code>-tion</code></td>
+            <td><code>-ment</code></td>
+        </tr>
+        <tr>
+            <td><code>-ion</code></td>
+            <td><code>-ing</code></td>
+            <td><code>-ship</code></td>
+            <td><code>-hood</code></td>
+            <td><code>-age</code></td>
+            <td><code>-ure</code></td>
+        </tr>
+        <tr>
+            <td><code>-dom</code></td>
+            <td><code>-ty</code></td>
+            <td><code>-ity</code></td>
+            <td><code>-ance</code></td>
+            <td><code>-ence</code></td>
+            <td><code></code></td>
+        </tr>
+    </table> 
+    + depart v.起程 -- depart**ure** n.起程
+    + relative adj.相对的 -- relativ**ity** n.相对性,[物]相对论
+    + free adj.自由的 -- free**dom** n.自由
+
+- (2)  常用的构成形容词的后缀
+    <table style="display:table-cell">
+        <tr>
+            <td><code>-ful</code></td>
+            <td><code>-less</code></td>
+            <td><code>-ish</code></td>
+            <td><code>-ive</code></td>
+            <td><code>-ous</code></td>
+            <td><code>-able</code></td>
+        </tr>
+        <tr>
+            <td><code>-ible</code></td>
+            <td><code>-icant</code></td>
+            <td><code>-ent</code></td>
+            <td><code>-y</code></td>
+            <td><code>-al</code></td>
+            <td><code>-some</code></td>
+        </tr>
+    </table>
+
+- (3) 常见的构成动词的后缀: `-ize`, `-en`, `ify`
+- (4) 常见的构成副词的后缀主要是: `-ly`
+- (5) 根据后缀可以很容易地辨别出词的类型, 从而正确选用单词.
+
 
 ##### 3.2.2 常用前缀
-
-##### 
+- (1) 一些表示 "不......" 或表示 "做相反的动作" 的前缀: `un-`, `ids-`, `in-`, `im-`, `ir-`, `il-`, `non-`,
+- (2) 一些表示其他意思的前缀: 
+- (3)
 
 
 #### 3.3 合成法:
