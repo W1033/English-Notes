@@ -217,7 +217,7 @@ Unit2 ~ Unit10 将详细介绍不同的词类.
         - It may not always be practicable to follow exactly the recommendations. 完全按照建议行事并非总行得通.
 
 - impracticable `/ɪmˈpræktɪkəbəl/` adjective (加前缀 im，变成原来意思的否定，但词性未变）
-    + adj.不缺实际的, 不可行的(impossible or very difficult to do for practical reasons.)
+    + adj.不切实际的, 不可行的(impossible or very difficult to do for practical reasons.)
         - It was an appealing`/əˈpiːlɪŋ/`(adj.有吸引力的;有趣的) plan but quite impracticable. 这个计划有吸引力, 但完全行不通.
 
 - **large** `/lɑːdʒ $ lɑːrdʒ/`  adjective(comparative larger, superlative largest)
@@ -316,16 +316,55 @@ Unit2 ~ Unit10 将详细介绍不同的词类.
             <td><code>-some</code></td>
         </tr>
     </table>
-
-- (3) 常见的构成动词的后缀: `-ize`, `-en`, `ify`
-- (4) 常见的构成副词的后缀主要是: `-ly`
+    + economy n.经济 -- econom**ic** adj.经济学的
+    + prefer v.更喜欢 -- prefer**able** adj.更好的,更合适的,更可取的(better or more suitable)
+        - For this dish, fresh herbs`/hɜːrb/` and garlic`/ˈɡɑːlɪk/` are preferable. 做这道菜, 用新鲜香草和大蒜更好.
+    + ignore v.不理睬,忽视 -- ignor**ant**`/ˈɪɡnərənt/` adj.无知的;愚昧的(not knowing facts or information that you ought to know.)
+        - an ignorant and uneducated man. 不学无术的人.
+- (3) 常见的构成动词的后缀:
+  <table style="display:table-cell">
+        <tr>
+            <td><code>-ize</code></td>
+            <td><code>-en</code></td>
+            <td><code>-ify</code></td>
+        </tr>
+  </table>  
+    + modern adj.近代的,现代化的 -- modern**ize**`/ˈmɒdənaɪz $ ˈmɑːdər-/` -vt.使现代化(to make something such as a system or building more modern.)  -vi.采用现代方法和设备,现代化(to start using more modern methods and equipment)
+        - The need more funds to modernize(vt) the country's telephone system. 他们需要更多的资金将本国的电话系统现代化.
+        - The business will lose money if it doesn't modernize(vi). 这家企业如果不实现现代化就赔钱.
+        - Unfortunately we lack the resources to modernize. 遗憾的是我们缺少现代化所需的财力.
+    + short adj.短的 -- short**en** v.缩短,(使)变短
+    + simple adj.简单的,简易的 -- simpl**ify** v.单一化,简单化 
+- (4) 常见的构成副词的后缀主要是:
+  <table style="display:table-cell">
+        <tr>
+            <td><code>-ly</code></td>
+        </tr>
+  </table> 
+    + useful adj.有用的 -- useful**ly** adv.有用地
+    + brave adj.勇敢的 -- brave**ly** adv.勇敢地
 - (5) 根据后缀可以很容易地辨别出词的类型, 从而正确选用单词.
-
+    + She is a <i style="text-decoration: underline">     </i> girl and she sings <i style="text-decoration: underline">     </i>. (beauty, beautiful, beautifully) <br>
+     girl 是名词, 应该用形容词修饰, -ful 是典型的形容词后缀, 所以应该选 beautiful. sing 是动词, 应该用副词修饰. -ly 是副词后缀, 所以应该选用 beautifully.
 
 ##### 3.2.2 常用前缀
 - (1) 一些表示 "不......" 或表示 "做相反的动作" 的前缀: `un-`, `ids-`, `in-`, `im-`, `ir-`, `il-`, `non-`,
+  <table style="display:table-cell">
+        <tr>
+            <td><code>un-</code></td>
+            <td><code>ids--</code></td>
+            <td><code>in-</code></td>
+            <td><code>im-</code></td>
+            <td><code>ir-</code></td>
+            <td><code>il-</code></td>
+            <td><code>non--</code></td>
+        </tr>
+  </table>
 - (2) 一些表示其他意思的前缀: 
 - (3)
+
+
+##### 
 
 
 #### 3.3 合成法:
