@@ -6303,13 +6303,12 @@ if a woman flutters her eyelashes`/ˈaɪlæʃ/`(n.睫毛) at a man, she looks at
     + a compound noun. 复合名词. 
     + (organic `[ɔː'gænɪk]` --adj.有机的) compound. --n.有机化合物
 - **addition `[ə'dɪʃ(ə)n]` --n.加成, 加法, 增加, 附加**
-    + Multiplication and addition are associative([ə'səʊʃɪətɪv]` --adj. 
-      联合的, 组成得, 联想得) operations.
-        乘法和加法时综合性运算. 
+    + Multiplication and addition are associative(`/əˈsəʊʃətɪv/` --adj.联合的, 联想得) operations.
+      乘法和加法是综合性运算. 
     + There is, in addition, one further point to make. 此外, 还有一点要说
     + Addition, subtraction, multiplication, and division are binary 
         operations. 加、减、乘、除都是二元运算. 
-- **subtraction `[səb'trækʃn]` --n.减, 减去**
+- **subtraction `[səb'trækʃn]` --n.减, 减去**a
     + subtraction of this figure from the total. 从总数里减去这个数字. 
 - **operand `['ɒpərænd]` --n.操作数, 运算对象**
     + If the character is an operand, push it onto the stack. 
@@ -6327,15 +6326,18 @@ if a woman flutters her eyelashes`/ˈaɪlæʃ/`(n.睫毛) at a man, she looks at
     + Yes, that's good for our pronunciation too. 是的, 这有助于我们发音. 
     + What about reading aloud to practice pronunciation? 
       大声朗读来联系发音怎么样？
-- **gotta `['ɡɑtə]` (发音: gao te) == have got to --n.<美俚>必须**
+- **gotta `/ˈɡɒtə $ ˈɡɑːtə/` == have got to --n.<美俚>必须**
     + you gotta be careful. 你一定要小心. 
     + I gotta go home. 我要回家. 
-    + You just gotta separate the two. You know, sex and intimacy.
-        你的分清楚, 性爱和亲密. 
-- **intimacy `['ɪntɪməsɪ]` --n.亲密, 亲密关系**
-    + the intimacy between a husband and wife. 夫妻间的亲密关系. 
+    + You just gotta separate the two. You know, sex and intimacy. 你的分清楚, 性爱和亲密. 
+- **intimacy `/ˈɪntəməsi/` noun**
+    + (1) [uncountalbe] 亲密, 亲近(a state of having a close personal relationship with someone.与某人有密切的个人关系的一众状态.)
+        - **intimacy of**
+            + the intimacy of marriage. 婚姻生活的亲密。
+        - **intimacy between**
+            + a close sense of intimacy between parent and child. 孩子和父母之间密切的亲切感。
 - **growable `['grəuəbl]` --adj. 可生长的**
-    + A List is a convenient growable array. List 时能方便地进行增长的数组(Array).
+    + A List is a convenient growable array. List 是能方便地进行增长的数组(Array).
 - **coordinate `[kəuˈɔ:dineit]` --n.<数>坐标  --vt.协调, 配合**
     + It defines how all the lengths and coordinates used inside the SVG
             should be scaled to fit the total space available. 
@@ -6345,8 +6347,25 @@ if a woman flutters her eyelashes`/ˈaɪlæʃ/`(n.睫毛) at a man, she looks at
     + Polar coordinates 极坐标
 
 ### 20190614
-- **assign `[ə'saɪn]` --v.分配, 指定, 派, 调派**
-    + She has been assigned to a new job. 她被派去担任新职务了. 
+- **assign `/ə'saɪn/` verb[trnsitive]**
+    + (1) 分配, 分派, 指派(任务)（to give someone a particular job or make them responsible for a particular person or thing. 给某人一份特定的工作或让他们为特定的人或事负责.)
+        - **assign somebody a task/role**
+            + I’ve been assigned the task of looking after the new students.指派给我的工作是照料新来的学生。
+        - **assign somebody to something**
+            + Jan’s been assigned to the Asian Affairs Bureau. 简被派到亚洲事务部。
+        - **assign somebody to do something**
+            + Madison was assigned to investigate a balloon accident. 麦迪逊被派去调查一宗气球事故。
+        - **assign somebody something**
+            + Assign each student a partner. 给每个学生分派一个同伴。
+    + (2) 确定〔时间、价值、地点等〕(to give a particular time, value, place etc to something. 为某事赋予特定的时间，价值，地点等。)
+        - How much time have you assigned for the meeting? 你给这个会定了多长时间？
+        - **assign something to something**
+            + A code was assigned to each batch of work. 每批作业都确定一个编号。
+    + (3) 分配，分派〔钱、设备等〕(to give money, equipment etc to someone to use.)
+        - **assign something to somebody**
+            + A personal bodyguard had been assigned to her. 已给她派了一个私人保镖。
+        - **assign somebody something**
+            + They assigned me a small room. 他们分配给我一个小房间。
 - **contract `['kɒntrækt]` --n.合同, 收缩, 合约, 承包.  --v.承包, 感染** 
     + the contract was void. 这合同无效
     + The terms of the contract are unfair. 合同上的条款是不公平的. 
