@@ -258,7 +258,7 @@ Unit2 ~ Unit10 将详细介绍不同的词类.
         - enlargement of the EU. 欧盟的扩大.
 
 ##### 3.2.1 常用后缀
-- (1) 常用的构成名词的后缀:
+- **(1) 常用的构成名词的后缀:**
     <table style="display:table-cell">
         <tr>
             <td><code>-er</code></td>
@@ -297,7 +297,7 @@ Unit2 ~ Unit10 将详细介绍不同的词类.
     + relative adj.相对的 -- relativ**ity** n.相对性,[物]相对论
     + free adj.自由的 -- free**dom** n.自由
 
-- (2)  常用的构成形容词的后缀
+- **(2) 常用的构成形容词的后缀**
     <table style="display:table-cell">
         <tr>
             <td><code>-ful</code></td>
@@ -306,14 +306,16 @@ Unit2 ~ Unit10 将详细介绍不同的词类.
             <td><code>-ive</code></td>
             <td><code>-ous</code></td>
             <td><code>-able</code></td>
+            <td><code>-ible</code></td>
         </tr>
         <tr>
-            <td><code>-ible</code></td>
-            <td><code>-icant</code></td>
+            <td><code>-ic</code></td>
+            <td><code>-ant</code></td>
             <td><code>-ent</code></td>
             <td><code>-y</code></td>
             <td><code>-al</code></td>
             <td><code>-some</code></td>
+            <td><code></code></td>
         </tr>
     </table>
     + economy n.经济 -- econom**ic** adj.经济学的
@@ -321,51 +323,40 @@ Unit2 ~ Unit10 将详细介绍不同的词类.
         - For this dish, fresh herbs`/hɜːrb/` and garlic`/ˈɡɑːlɪk/` are preferable. 做这道菜, 用新鲜香草和大蒜更好.
     + ignore v.不理睬,忽视 -- ignor**ant**`/ˈɪɡnərənt/` adj.无知的;愚昧的(not knowing facts or information that you ought to know.)
         - an ignorant and uneducated man. 不学无术的人.
-- (3) 常见的构成动词的后缀:
-  <table style="display:table-cell">
-        <tr>
-            <td><code>-ize</code></td>
-            <td><code>-en</code></td>
-            <td><code>-ify</code></td>
-        </tr>
-  </table>  
-    + modern adj.近代的,现代化的 -- modern**ize**`/ˈmɒdənaɪz $ ˈmɑːdər-/` -vt.使现代化(to make something such as a system or building more modern.)  -vi.采用现代方法和设备,现代化(to start using more modern methods and equipment)
+- **(3) 常见的构成动词的后缀: `-ize`, `-en`, `-ify`**
+    + modern adj.近代的,现代化的 -- modern**ize**`/ˈmɒdənaɪz $ ˈmɑːdər-/` -vt.使现代化 -vi.采用现代方法和设备,现代化
         - The need more funds to modernize(vt) the country's telephone system. 他们需要更多的资金将本国的电话系统现代化.
         - The business will lose money if it doesn't modernize(vi). 这家企业如果不实现现代化就赔钱.
         - Unfortunately we lack the resources to modernize. 遗憾的是我们缺少现代化所需的财力.
     + short adj.短的 -- short**en** v.缩短,(使)变短
     + simple adj.简单的,简易的 -- simpl**ify** v.单一化,简单化 
-- (4) 常见的构成副词的后缀主要是:
-  <table style="display:table-cell">
-        <tr>
-            <td><code>-ly</code></td>
-        </tr>
-  </table> 
+- **(4) 常见的构成副词的后缀主要是: `-ly`**
     + useful adj.有用的 -- useful**ly** adv.有用地
     + brave adj.勇敢的 -- brave**ly** adv.勇敢地
-- (5) 根据后缀可以很容易地辨别出词的类型, 从而正确选用单词.
+- **(5) 根据后缀可以很容易地辨别出词的类型, 从而正确选用单词.**
     + She is a <i style="text-decoration: underline">     </i> girl and she sings <i style="text-decoration: underline">     </i>. (beauty, beautiful, beautifully) <br>
      girl 是名词, 应该用形容词修饰, -ful 是典型的形容词后缀, 所以应该选 beautiful. sing 是动词, 应该用副词修饰. -ly 是副词后缀, 所以应该选用 beautifully.
 
 ##### 3.2.2 常用前缀
-- (1) 一些表示 "不......" 或表示 "做相反的动作" 的前缀: `un-`, `ids-`, `in-`, `im-`, `ir-`, `il-`, `non-`,
-  <table style="display:table-cell">
-        <tr>
-            <td><code>un-</code></td>
-            <td><code>ids--</code></td>
-            <td><code>in-</code></td>
-            <td><code>im-</code></td>
-            <td><code>ir-</code></td>
-            <td><code>il-</code></td>
-            <td><code>non--</code></td>
-        </tr>
-  </table>
-- (2) 一些表示其他意思的前缀: 
-- (3)
-
-
-##### 
-
+- **(1) 一些表示 "不......" 或表示 "做相反的动作" 的前缀: `un-`, `ids-`, `in-`, `im-`, `ir-`, `il-`, `non-`.**
+    + resistible 可抵抗的 -- **ir**resistible 不可抵抗的, 不能压制的
+    + comfortable 舒适的 -- **dis**comfortable 不安的, 不适的
+    + profit 利润, 益处 -- **non**profit 非赢利的
+- **(2) 一些表示其他意思的前缀: `re-`重新; `co-`共同; `mis-`错误地; `over-`过于; `under-`不足; `self-`自己的; `pre-`在之前; `super-`高超; `inter-`在之间; `trans-`横过,移; `multi-`多.**
+    + **re**tell 复述
+    + **co**-author 合著者
+    + **mis**understand 误解
+    + **under**age 未成年的
+    + **over**work 过度操劳
+    + **super**market 超级市场
+    + **inter**net 国际互联网络
+    + **multi**national 多国的
+    + **pre**arrange 预先安排
+    + **trans**portation 运输, 运送
+- (3) **个别前缀也可以将名词或形容词变为动词, 如 `en-`**
+    + reich -adj.富裕的 -- **en**rich -v.使富足
+    + force -n.力量 -- **en**force -v.加强
+    + large -adj.大的 -- **en**large -v.扩大, 放大
 
 #### 3.3 合成法:
 即由 2 个及其以上的独立的单词结合在一起, 构成新单词.
@@ -380,7 +371,7 @@ Unit2 ~ Unit10 将详细介绍不同的词类.
 - white-haired 长着白发的
 - hard-working 勤劳的
 - career-minded 事业心强的
-- narrow-minded 气批小的，小心眼的
+- narrow-minded 气量小的，小心眼的
 ##### 3.3.3 合成副词
 - whatever 无论什么
 - everywhere 到处
