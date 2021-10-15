@@ -42,7 +42,7 @@
   | pay | refuse | return |
   | save | send | show  |
   | tell | write |   |
-    
+  
 - (1) He bought **her** *a birthday present*. **间接宾语**  *直接宾语*
 - (1.1) He bought **a birthday present** for *her*. **直接宾语**  *间接宾语*
   (他给她买了一件生日礼物。)
@@ -56,6 +56,9 @@
 
 ##### 5. 同位语
 ##### 6. 定语
+
+Additional Info: 定语修饰**名词(noun)**和**代词(pronoun)**的成分；说明人或物的特征，性质等。
+
 ##### 7. 状语
 
 
