@@ -8,7 +8,7 @@ watch 觀賞
 
 
 ## Catalog(大纲)
-1. [中式英语] 经常犯的英语错误 (Common Chinglish$^\color{red}{*}$ Mistakes)
+1. [中式英语] 经常犯的英语错误 (Common Chinglish$\color{red}{^*}$ Mistakes)
     + 1.1 10 句中国人最常见的英文错误
 
 
@@ -48,7 +48,7 @@ watch 觀賞
 
 
 ## Content(内容)
-### 1. [中式英语] 经常犯的英语错误 (Common Chinglish$^\color{red}{*}$ Mistakes)
+### 1. [中式英语] 经常犯的英语错误 (Common Chinglish$\color{red}{^*}$ Mistakes)
 #### 1.1 10 句中国人最常见的英文错误
 - (1) 大雨: Heavy rain / It's raining cats and dogs. 小雨:
   Light rain / It's `drizzling` outside.
@@ -148,31 +148,30 @@ watch 觀賞
     + He will have sung. 届时他会唱.
     + He will have been singing. 他将会一直唱.
     
+
 English verb tenses are so complicated!
 
 (英语动词时态这么复杂!)
-  
+
 They are so complicated that even native speakers get them wrong sometimes.
-  
+
 (它们如此复杂, 有时候什么母语人士也会犯错.)
 
-Now, depending on who you talk to,
-there are twelve or sixteen verb tenses in English.
+Now, depending on who you talk to,there are twelve or sixteen verb tenses in English.
 
 (根据你讲话的对象, 在英语中会出现 12 种或者 16 种动词的时态.)
 
-For the purpose of this video, let's say that there are 12 different
-verb tenses.
+For the purpose of this video, let's say that there are 12 different verb tenses.
 
 (就本视频来说的话, 主要讨论 12 种不同的动词时态.)
 
-So whether you are new to English, or you're confused about verb
-tenses, or you just want to review how to use the verb tenses,
-this video is for you. (所以, 不论你是英语的初学者; 或者,
-弄不清动词时态的朋友们; 或者, 你只是想复习复习下如何使用动词时态,本视频就是为你量身定做的哦.)
+So whether you are new to English, or you're confused about verb tenses, or you just want to review how to use the verb tenses, this video is for you.
+
+ (所以, 不论你是英语的初学者; 或者, 弄不清动词时态的朋友们; 或者, 你只是想复习复习下如何使用动词时态,本视频就是为你量身定做的哦.)
 
 So how do we make verb tenses simple? Let's have a look at this chart.
-(那么要如何才能让动词的时态变得简单呢? 我们来看一个图标吧.)
+
+(那么要如何才能让动词的时态变得简单呢? 我们来看一个图表吧.)
 
 | # | Verb tense used in spoken English.<br>英语口语中的常见动词时态 | Frequency<br>使用频率 |
 |:--- | :--- | :--- |
@@ -188,9 +187,9 @@ So how do we make verb tenses simple? Let's have a look at this chart.
 | 10 | Future Continuous (将来进行时) | 0.1% |
 | 11 | Past Perfect Continuous (过去完成进行时) | 0.1% |
 | 12 | Future Perfect Continuous (将来完成进行时) | 0.1% |
-  
+
 You can see that over half the time, we're using the
-`Simple Present` tense$^\color{red}{*}$. You can also see more commonly used ones
+`Simple Present` tense$\color{red}{^*}$. You can also see more commonly used ones
 are `Simple Past`, `Simple Future`, `Present Perfect`, and
 `Present Continuous`.  
 
@@ -205,7 +204,7 @@ spoken English.
 
 For Example: (例如:)
 
-She will have been living in China for 10 years at aht point.
+She will have been living in China for 10 years at that point.
 (届时她将会在中国生活 10 年.)
 
 There's nothing wrong with the grammar of this sentence. We just very
@@ -263,7 +262,7 @@ Irregular verbs often have several forms. Let's get to the
     + (3) Simple future(一般将来时): I will be a teacher. (我将成为一名老师.)
     + (4) Present perfect(现在完成时): I have been a teacher for 11 years.
       (我当老师已经 11 年了.)
-    + (5) Present continuous$^\color{red}{*}$(现在进行时): I am a teacher.
+    + (5) Present continuous$\color{red}{^*}$(现在进行时): I am a teacher.
       (我正在当老师.) 不是: ~~I am being a teacher.~~
 
   Alright, here is one of these crazy rules I was talking about. In
@@ -285,7 +284,7 @@ Irregular verbs often have several forms. Let's get to the
       breakfast. (我早餐会吃苹果)
 
 - Example (3): (`Do`: do / did / will do / have done / doing)
-    
+  
     + 主语+动词 Subject + Verb
 
 主语+动词+宾语 Subject + Verb + Object
