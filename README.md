@@ -123,7 +123,7 @@
 2. 用五颗星来标记词频
 
 比如 "melancholy" 单词, 词典是这样解释的:
-1. Melancholy is an intense feeling of sadness which lasts for a long time and which strongly affects your behaviour and attitudes.
+1. Melancholy is an intense feeling of sadness which lasts for a long time and which strongly affects your behavior and attitudes.
 2. If someone feels or looks melancholy, they feel or look very sad.
 
 读完这样的解释之后可我们以很容易地理解"melancholy"的意思，同时还能知道可以采用 feel/look melancholy 这样的搭配。同时 "melancholy"还带有一星的标志，这意味着它是英语中最常用的14600词之一，会经常出现，应该记起来。
