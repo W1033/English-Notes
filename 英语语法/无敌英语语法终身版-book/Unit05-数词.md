@@ -100,7 +100,7 @@
     </tr>
 </table>
 
-##### (3) 千位数: 千位和百位间不加任何符号，百位和十位间加 and, 如果百位是 0 ，则在千位后加 and.
+##### (3) 千位数(1000-9999): 千位和百位间不加任何符号，百位和十位间加 and, 如果百位是 0 ，则在千位后加 and.
 <table>
     <tr>
         <td>one thousand three hundred and forty-eight (1,348)</td>
@@ -112,6 +112,28 @@
     </tr>
 </table>
 
+> 下面的 (4) (5) (6) 来自这篇文章: [【PTE干货】英文数字的读法](https://zhuanlan.zhihu.com/p/118175363)
+##### (4) 5 - 6 位数字读法 (10,000-99,9999):
+
+在读 5 位以上的数字时，我们记得去看数字中的 "逗号"，英语数字中 3 个数字一个逗号，即三位一节，把三位看成一个整体，后面再加一个计数单位即可。
+
+5 位数字在汉语中用 "万" 来表示，6 位即是 "十万", 在英语中没有相对应的单位词，我们需要换算一下:
+
+"万" = "十个千" = ten thousand
+
+"十万" = "百个千" = a/one hundred thousand
+
+例如:
+<table>
+    <tr>
+        <td>11,265</td>
+        <td>eleven thousand two hundred (and) sixty-five</td>
+    </tr>
+    <tr>
+        <td>635,478</td>
+        <td>six hundred (and) thirty five thousand and four hundred (and) seventy-eight</td>
+    </tr>
+</table>
 #### 1.3 基数词在句中的作用
 
 #### 1.4 使用基数词时要注意的事项
