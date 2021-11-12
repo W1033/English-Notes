@@ -25,8 +25,13 @@
 
 
 ## New Words
-
-
+- **triple `/'trɪp(ə)l/`**
+├ docs
+│   ├── .vuepress (可选的)
+  |-- **adj**
+  |   |-- (1) 有三部分的；涉及三方的
+  |   |
+  |-- dist -------------------------------- 构建后文件的输出目录.
 
 
 
@@ -215,16 +220,30 @@
 
 ##### (6) 分数的读法
 分数中**分子用基数词表示，分母用序数词表示**. 读的顺序**先读分子，后读分母**. 分子为 1 时，口语中用 "a" 代替 "one"，当分子大于 1 时，分母要加 "s". 
-- $\textstyle[\frac{1}{3}]$: a/one third
-- 1/6: a/one sixth
+- 1/3: a/one third
+- 1/6: a/one sixth`/sɪksθ/`
 - 1/4: a/one quarter(fourth)
 - 3/8: three eighths
 
-分数较为复杂时，可以用over 来表示。
+**分数较为复杂时，可以用 over 来表示.**
 
-例如：232/503: two hundred and thirty-two over five hundred and three
+例如：**232/503**: two hundred and thirty-two over five hundred and three
 
 ##### (7) 电话号码的读法
+(1) 按照顺序读
+
+(2) 遇到相同的两位数或三位数时，可用 double 或 triple
+- 如 22 可读: double two
+- 如 666 可读: triple six
+
+
+
+末尾出现三个零，可以按 "千" 来发音。
+
+- 如 2682000 读作: two six eight two thousand
+
+(3) 0 可以读为 zero，也可以读成字母 O(ou) 或 nought.
+
 ##### (8) 度量单位或重量单位的读法
 ##### (9) 年份的读法 
 
