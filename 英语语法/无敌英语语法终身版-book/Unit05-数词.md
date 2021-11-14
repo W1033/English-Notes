@@ -36,7 +36,7 @@
 │   │   ├── The amount of alcohol in his blood was triple the legal maximum. 
 │   │   │   他血液中的酒精含量为法定最高限量的三倍.
 ├── verb[intransitive, transitive]
-│   ├── (使)称为三倍, (使)增加两倍
+│   ├── (使)成为三倍, (使)增加两倍
 │   │   ├── The company has tripled in size. 这家公司的规模已扩大了两倍.
 │   │   ├── We expect to triple our profits next year. 我们期望明年利润增加两倍.
 ├── noun
