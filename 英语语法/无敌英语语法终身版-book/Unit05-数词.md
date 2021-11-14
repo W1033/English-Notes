@@ -38,6 +38,9 @@
 │   ├── (使)称为三倍, (使)增加两倍
 │   │   ├── The company has tripled in size. 这家公司的规模已扩大了两倍.
 │   │   ├── We expect to triple our profits next year. 我们期望明年利润增加两倍.
+├── noun
+│   ├── (1) 〔棒球中的〕三垒打
+│   ├── (2) 〔滑冰﹑体操中的〕转体三周
 ```
 
 
