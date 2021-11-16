@@ -26,8 +26,32 @@
 
 ## New Words
 
-- **triple `/'trɪp(ə)l/`**
+> 全文提示：单词右上角红色的星号($\color{red}{^*}$)代表为生词.
+
+```css
+├── adj
+│   ├── 
+│   │   ├── 
+│   │   ├── 
+│   ├── 
+│   │   ├──  
+│   │   │  
+│
+├── verb[intransitive, transitive]
+│   ├── 
+│   │   ├── 
+│   │   ├── 
+│
+├── noun
+│   ├── 
+│   ├── 
 ```
+
+
+
+
+##### **triple `/'trɪp(ə)l/`**
+```css
 ├── adj
 │   ├── (1) 有三部分的; 涉及三方的
 │   │   ├── a triple murder investigation. 对一宗三重谋杀案的调查
@@ -35,19 +59,88 @@
 │   ├── (2) 三倍的; 三重的
 │   │   ├── The amount of alcohol in his blood was triple the legal maximum. 
 │   │   │   他血液中的酒精含量为法定最高限量的三倍.
+│
 ├── verb[intransitive, transitive]
 │   ├── (使)成为三倍, (使)增加两倍
 │   │   ├── The company has tripled in size. 这家公司的规模已扩大了两倍.
 │   │   ├── We expect to triple our profits next year. 我们期望明年利润增加两倍.
+│
 ├── noun
 │   ├── (1) 〔棒球中的〕三垒打
 │   ├── (2) 〔滑冰﹑体操中的〕转体三周
 ```
 
+##### miles `/maɪl/`
+```css
+├── noun [countable]
+│   ├── (1) (written abbreviation M) 英里〔距离的计量单位﹐等于1,760码或约1,609米〕:
+│   │   ├── It’s forty miles from here to the Polish border. 从这里到波兰边界有40英里.
+│   │   ├── an area 50 miles/mailz/ wide and 150 miles long. 一片50英里宽﹑150英里长的地区.
+│   │   ├── We walked about half a mile. 我们大约走了半英里.
+│   │   ├── He was driving at 70 miles per hour. 他正以每小时70英里的速度驾车行驶.
+│   ├── (2) 一英里赛跑
+│   │   ├── the first man to run the mile in under four minutes.
+│   │   │   第一个四分钟内跑完一英里的人.
+│   ├── (3)（a very long distance）很长的距离
+│   │   ├── **mile from**：We were miles from home, and very tired. 
+│   │   │   我们离家很远，而且非常疲劳.
+│   │   ├── **mile away**: You can't go to NewYork，it's miles away.
+│   │   │   你不能去纽约，那地方太远了。
+│   │   │   
+│   ├── (4) 略
+│   ├── (5) 略
+│   ├── (6) 略
+│   ├── (7) 略
+│   ├── (8) 略
+│   ├── (9) 略
+│   ├── (10) 略
+│   ├── (11) 略
+```
+
+##### kilometres `/'kiləmi:tə(r)/` --n.千米，公里 
+
+##### per `/pə/` & `/pɜːr/` ●●● S3 W1 
+```css
+├── prep(preposition) 介词，前置词
+│   ├── (1) 每小时/天/星期等:
+│   │   ├── The park attracts four million visitors per year.
+│   │   │   那座公园每年吸引400万游客.
+│   │   ├── **miles/kilometres** per hour (=used for measuring speed)
+│   │   │   a speed limit of 40 miles per hour. 每小时40英里的限速.
+│   ├── (2) 每(for each)
+│   │   ├── How much does it cost per kilo? 每公斤多少钱？
+│   │   ├── rooms costing £40 per night. 每晚收费 40 英镑(pound)的房间.
+│   │   ├── Admission is £9.95 per adult. 成人门票每位 9.95 英镑.
+│   │   ├── The meal cost $25 **per head**(=for or by each person).
+│   │   │   那顿饭人均话费 25 美元.
+│   ├── (3) **as per something** *formal* 按照某事物(according to something)
+│   ├── (4) **as per usual/normal** 〔令人讨厌的事情〕照常﹐照旧(used when
+│   │   something annoying happens which has often happened before.)
+```
+
+  
+
+
+
+(2)for each每:
+ How much does it cost per kilo?每公斤多少钱？
+ rooms costing £40 per night每晚收费40英镑的房间
+ Admission is £9.95 per adult.成人门票每位9.95英镑。
+ My car does 12 miles per litre (=for each litre of petrol).我的汽车每升汽油跑12英里。
+ The meal cost $25 per head (=for or by each person).那顿饭人均花费25美元。
+(3) as per something formal according to something按照某事物:
+ The work was carried out as per your instructions.这项工作是按照您的指示进行的。
+4as per usual/normal spoken used when something annoying happens which has often happened before〔令人讨厌的事情〕照常﹐照旧:
+ Jenny was late, as per usual.珍妮照例迟到了。
+→ per annum, per capita
+
+
+
 
 
 
 ## Content
+
 ### 1. 基数词
 基数词是描述事物数量多少的数词. 即 1，2，3，4，5 等词. 
 
@@ -161,7 +254,9 @@
 > https://zhuanlan.zhihu.com/p/118175363
 
 ##### (4) 万位以上数字读法：
-我们都知道语文是每位数字后面都有一个特定的计数单位，比如我们从右往左排: 个，十，百，千，万，十万，百万，千万，亿等. 再看一串长数字：987654 中文读: 九十八万七千六百四十五，但是在英语中就是另一种读法了. 我们下面细说.
+我们都知道语文是每位数字后面都有一个特定的计数单位，比如我们从右往左排: 个，十，百，千，万，十万，百万，千万，亿等.
+
+再看一串长数字：987654 中文读: 九十八万七千六百四十五，但是在英语中就是另一种读法了. 我们下面细说.
 
 我们知道英语数字中 3 个数字一个逗号，即三位一节，把三位看成一个整体，后面再加一个计数单位即可. 
 
@@ -177,9 +272,23 @@
 
 十亿(1,000,000,000): 直接就是 billion.
 
-例如:
+**注:** 在使用 hundred，thousand，million 时，如果是模糊的表达，例如:
 
-5-6 (10000 ~ 999,999) 位数字读法示例
+- 成百上千的 - hundreds of...
+- 成千上万的 - tens of thousands of...
+- 数百万的 - millions of...
+
+这些情况下在其后面加上 **s**.
+
+如果是具体的几百，几千，几百万时，后面不能加s, 例如:
+
+- 两百 two hundred;
+- 三千 three thousand;
+- 一千万 ten million ......
+
+下面是一些不同位数读法的示例:
+
+- 5-6 (10000 ~ 999,999) 位数字读法示例
 <table>
     <tr>
         <td>11,265</td>
@@ -191,7 +300,7 @@
     </tr>
 </table>
 
-7 位以上数字读法示例
+- 7 位以上数字读法示例
 <table>
     <tr>
         <td>2,536,862</td>
@@ -207,7 +316,7 @@
     </tr>
 </table>
 
-10 位数字读法示例
+- 10 位数字读法示例
 <table>
     <tr>
         <td>5，937,284,560</td>
@@ -231,30 +340,52 @@
 </table>
 
 ##### (6) 分数的读法
-分数中**分子用基数词表示，分母用序数词表示**. 读的顺序**先读分子，后读分母**. 分子为 1 时，口语中用 "a" 代替 "one"，当分子大于 1 时，分母要加 "s". 
-- 1/3: a/one third
-- 1/6: a/one sixth`/sɪksθ/`
-- 1/4: a/one quarter(fourth)
-- 3/8: three eighths
+分数中**分子用基数词表示，分母用序数词表示**. 读的顺序**先读分子，后读分母**. 分子为 1 时，口语中用 "a" 代替 "one"，当分子大于 1 时，分母要加 "s". 例如: 
+<table>
+    <tr>
+        <td>1/3</td>
+        <td>a/one third</td>
+    </tr>
+    <tr>
+        <td>1/6</td>
+        <td>a/one sixth <code>/sɪksθ/</code></td>
+    </tr>
+    <tr>
+        <td>1/4</td>
+        <td>a/one quarter(fourth)</td>
+    </tr>
+    <tr>
+        <td>3/8</td>
+        <td>three eighths</td>
+    </tr>
+</table>
 
 **分数较为复杂时，可以用 over 来表示.**
 
 例如：**232/503**: two hundred and thirty-two over five hundred and three
 
 ##### (7) 电话号码的读法
-(1) 按照顺序读
+- (1) 按照顺序读
+- (2) 遇到相同的两位数或三位数时，可用 double 或 triple$\color{red}{^*}$, 如果末尾出现三个零，可以按 "千" 来发音。例如: 
+  <table>
+    <tr>
+        <td>22</td>
+        <td>double two</td>
+    </tr>
+    <tr>
+        <td>666</td>
+        <td>triple six</td>
+    </tr>
+    <tr>
+        <td>2682000</td>
+        <td>two six eight two thousand</td>
+    </tr>
+  </table>
+- (3) 0 可以读为 zero，也可以读成字母 O(ou) 或 nought.
 
-(2) 遇到相同的两位数或三位数时，可用 double 或 triple
-- 如 22 可读: double two
-- 如 666 可读: triple six
+##### (8) 度量或重量单位的读法
+常见的度量单位如 100mph，在这里 `mph` 是缩写，全文是 **miles`/maɪl/` per$\color{red}{^*}$ hour**即每小时所运行英里，直接先读数值再把单位全称读出来即可，重量单位也是如此。例如：
 
-末尾出现三个零，可以按 "千" 来发音。
-
-- 如 2682000 读作: two six eight two thousand
-
-(3) 0 可以读为 zero，也可以读成字母 O(ou) 或 nought.
-
-##### (8) 度量单位或重量单位的读法
 ##### (9) 年份的读法 
 
 
