@@ -4,7 +4,6 @@
 
 基数词是描述事物数量的多少的数词. 相对的概念是序数词，序数词用来描述事物的顺序. 
 
-
 基数词表示**数目**；序数词表示**顺序**. 
 
 基数词和序数词可以合成一个分数. 
@@ -116,24 +115,8 @@
 │   ├── (3) **as per something** *formal* 按照某事物(according to something)
 │   ├── (4) **as per usual/normal** 〔令人讨厌的事情〕照常﹐照旧(used when
 │   │   something annoying happens which has often happened before.)
+│   │   ├── Jenny was late, as per usual. 珍妮照例迟到了.
 ```
-
-  
-
-
-
-(2)for each每:
- How much does it cost per kilo?每公斤多少钱？
- rooms costing £40 per night每晚收费40英镑的房间
- Admission is £9.95 per adult.成人门票每位9.95英镑。
- My car does 12 miles per litre (=for each litre of petrol).我的汽车每升汽油跑12英里。
- The meal cost $25 per head (=for or by each person).那顿饭人均花费25美元。
-(3) as per something formal according to something按照某事物:
- The work was carried out as per your instructions.这项工作是按照您的指示进行的。
-4as per usual/normal spoken used when something annoying happens which has often happened before〔令人讨厌的事情〕照常﹐照旧:
- Jenny was late, as per usual.珍妮照例迟到了。
-→ per annum, per capita
-
 
 
 
@@ -288,7 +271,7 @@
 
 下面是一些不同位数读法的示例:
 
-- 5-6 (10000 ~ 999,999) 位数字读法示例
+- **5-6 (10000 ~ 999,999) 位数字读法示例**
 <table>
     <tr>
         <td>11,265</td>
@@ -300,7 +283,7 @@
     </tr>
 </table>
 
-- 7 位以上数字读法示例
+- **7 位以上数字读法示例**
 <table>
     <tr>
         <td>2,536,862</td>
@@ -316,7 +299,7 @@
     </tr>
 </table>
 
-- 10 位数字读法示例
+- **10 位数字读法示例**
 <table>
     <tr>
         <td>5，937,284,560</td>
