@@ -49,7 +49,7 @@
 
 
 
-##### **triple `/'trɪp(ə)l/`**
+#### triple `/'trɪp(ə)l/`
 ```css
 ├── adj
 │   ├── (1) 有三部分的; 涉及三方的
@@ -69,14 +69,15 @@
 │   ├── (2) 〔滑冰﹑体操中的〕转体三周
 ```
 
-##### miles `/maɪl/`
+#### miles `/maɪl/`
 ```css
 ├── noun [countable]
 │   ├── (1) (written abbreviation M) 英里〔距离的计量单位﹐等于1,760码或约1,609米〕:
 │   │   ├── It’s forty miles from here to the Polish border. 从这里到波兰边界有40英里.
-│   │   ├── an area 50 miles/mailz/ wide and 150 miles long. 一片50英里宽﹑150英里长的地区.
+│   │   ├── an area 50(fifty) miles/mailz/ wide and 150(one hundred and fifty) miles long.
+│   │   │   一片50英里宽﹑150英里长的地区.
 │   │   ├── We walked about half a mile. 我们大约走了半英里.
-│   │   ├── He was driving at 70 miles per hour. 他正以每小时70英里的速度驾车行驶.
+│   │   ├── He was driving at 70(seventy) miles per hour. 他正以每小时70英里的速度驾车行驶.
 │   ├── (2) 一英里赛跑
 │   │   ├── the first man to run the mile in under four minutes.
 │   │   │   第一个四分钟内跑完一英里的人.
@@ -96,9 +97,15 @@
 │   ├── (11) 略
 ```
 
-##### kilometres `/'kiləmi:tə(r)/` --n.千米，公里 
+#### kilometre/kilometer `/'kiləmi:tə(r)/`
+```css
+├── noun [countable]
+│   ├── 千米，公里 (a unit for measuring distance, equal to 1,000 metres) 
+│   │   ├── It is ten kilometres to the station. 到车站十公里
+│   │   ├── One thousand metres go to the kilometre. 一千米为一公里。
+```
 
-##### per `/pə/` & `/pɜːr/` ●●● S3 W1 
+#### per `/pə/` & `/pɜːr/`
 ```css
 ├── prep(preposition) 介词，前置词
 │   ├── (1) 每小时/天/星期等:
@@ -108,8 +115,9 @@
 │   │   │   a speed limit of 40 miles per hour. 每小时40英里的限速.
 │   ├── (2) 每(for each)
 │   │   ├── How much does it cost per kilo? 每公斤多少钱？
-│   │   ├── rooms costing £40 per night. 每晚收费 40 英镑(pound)的房间.
-│   │   ├── Admission is £9.95 per adult. 成人门票每位 9.95 英镑.
+│   │   ├── rooms costing £40(fourty pounds) per night. 每晚收费 40 英镑(pound)的房间.
+│   │   ├── Admission(`/əd'mɪʃ(ə)n/` -n.门票/入场费) is £9.95(nine points 
+│   │   │   ninety-five pounds) per adult. 成人门票每位 9.95 英镑.
 │   │   ├── The meal cost $25 **per head**(=for or by each person).
 │   │   │   那顿饭人均话费 25 美元.
 │   ├── (3) **as per something** *formal* 按照某事物(according to something)
@@ -171,7 +179,9 @@
 | :----: | :----: | :---: | :---: |
 
 #### 1.2 其他基数词的表达形式
-##### (1) 21 - 99: 
+
+##### (1) 21 - 99:
+
 由十位数和个位数合成，中间由连字符(`-`)连接. 
 <table>
     <tr>
@@ -185,8 +195,8 @@
         <td>ninety-nine</td>
     </tr>
 </table>
+##### (2) 101-999:
 
-##### (2) 101-999: 
 由百位数与上面两位数合起来构成，百位数和十位数之间加 and. 如果十位数是零，则在个位数前加 and.
 
 *Additional Info*: 在英式英语中百位数和十位数之间要加 and，美式英语中则会省略，(个人)建议最好加上and，比较准确清楚。如果十位数为 0，那么百位和个位之间加 and。
@@ -237,6 +247,7 @@
 > https://zhuanlan.zhihu.com/p/118175363
 
 ##### (4) 万位以上数字读法：
+
 我们都知道语文是每位数字后面都有一个特定的计数单位，比如我们从右往左排: 个，十，百，千，万，十万，百万，千万，亿等.
 
 再看一串长数字：987654 中文读: 九十八万七千六百四十五，但是在英语中就是另一种读法了. 我们下面细说.
