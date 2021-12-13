@@ -380,9 +380,9 @@
 ##### (8) 度量或重量单位的读法
 常见的度量单位如 100mph，在这里 `mph` 是缩写，全文是 **miles`/maɪl/` per$\color{red}{^*}$ hour**即每小时所运行英里，直接先读数值再把单位全称读出来即可，重量单位也是如此。例如：
 
-- 145mph: one hundred forty-five miles per
+- 145mph: one hundred forty-five miles per hour
 
-##### (9) 年份的读法 
+##### (9) 年份的读法
 
 
 #### 1.3 基数词在句中的作用
