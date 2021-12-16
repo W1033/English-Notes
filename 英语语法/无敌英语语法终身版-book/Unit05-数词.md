@@ -381,9 +381,28 @@
 常见的度量单位如 100mph，在这里 `mph` 是缩写，全文是 **miles`/maɪl/` per$\color{red}{^*}$ hour**即每小时所运行英里，直接先读数值再把单位全称读出来即可，重量单位也是如此。例如：
 
 - 145mph: one hundred forty-five miles per hour
+- 50kg: fifty kilograms.
 
 ##### (9) 年份的读法
+**(1)** 一般情况下，将表示年份的四个数字按前后分为两组，每一组的数字都按基数词来读。例如：
 
+- 1875: eighteen seventy-five
+- 1997: nineteen ninety-seven
+
+**(2)** 如果前两个数字为非“零”数字，后两位都为“零”，则先读出前两位数，然后将后面的两个“零”读为 hundred。例如：
+
+- 1800: eighteen hundred
+- 1900: nineteen hundred
+
+**(3)** 第三个数字为“零”（其它数字不是“零”）的年份，将“零”读为字母 O 的发音。例如：
+
+- 1908: nineteen O eight
+
+**(4)** 关于千年的一些读法。
+
+- 2000 年: two thousand
+- 1008 年: one thousand and eight 或（ten O eight）
+- 2008 年: two thousand and eight 或（twenty O eight）
 
 #### 1.3 基数词在句中的作用
 
