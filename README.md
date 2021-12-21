@@ -7,7 +7,6 @@
 
 
 
-
 ## New Words
 - **contemporary `[kənˈtempərəri]`/`[kənˈtempəreri]` --adj.当代的,现代的.**
   **--n.同代人,同龄人.**
