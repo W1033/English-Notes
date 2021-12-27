@@ -136,7 +136,8 @@
 基数词是描述事物数量多少的数词. 即 1，2，3，4，5 等词. 
 
 #### 1.1 基数词的基本形式(即字典上可查到的基数词)
-##### (1) 1-20 可以在字典上查到: 
+##### (1) 1-20 可以在字典上查到:
+
 <table>
     <tr>
         <td>1. one </td>
@@ -169,12 +170,14 @@
 </table>
 
 ##### (2) 20 - 90 的整十位数可以在字典上查到:
+
 | twenty`/'twentɪ/` | thirty`/'θɜːtɪ/` | forty`/'fɔːtɪ/` |
 | :----: | :----: | :---: | 
 | fifty`/'fɪftɪ/` | sixty`/'sɪkstɪ/` | seventy`/'sev(ə)ntɪ/` | 
 | eighty`/'eɪtɪ/` | ninety`/'naɪntɪ/` | |
 
 ##### (3) 数字的整数单位：
+
 | hundred`/'hʌndrəd/`（百）| thousand`/'θaʊz(ə)nd/`（千）| million（百万）|billion（十亿）|
 | :----: | :----: | :---: | :---: |
 
@@ -405,12 +408,83 @@
 - 2008 年: two thousand and eight 或（twenty O eight）
 
 #### 1.3 基数词在句中的作用
+##### (1) 做主语
+
+##### (2) 作宾语
+
+##### (3) 作定语
+
+##### (4) 作表语
+
+##### (5) 作同位语
 
 #### 1.4 使用基数词时要注意的事项
+##### (1)  hundred, thousand, million, billion 用作定语时 , 一律用单数形式 。 此时 ，它表示的是一个较准确的数字，前面要有 a, one, two 等数词或 several, a few 等表示不确切数量的词 ，说明有多少个 hundred, thousand 或 million。
+
+##### (2)  "hundreds / thousands / millions + of + 名词 ”表示一个大概的数字，通常用来表示数量众多 。 此时，这些数字必须用复数形式 ，但前面不能加 one, two, three 等数字。
+
+
+##### (3)  单位数字的复数形式还可以组合在一起使用 ， 表示数量众多 ， 成千上万。
+
+
+##### (4)  用基数词表示计量 ， 说明一个物体的尺寸 、重量时 ，用 "数字 + 表示单位的名词 + 相关形容词 " 结构 。 
+
+##### (5)  由一个数词和一个表示计量单位的名词合成一个形容词 ， 作定语用 ， 修饰另一个名词时 ， 表示计量单位的名词要用单数
 
 
 
 ### 2. 序数词
+表示顺序, 如: 第一 、 第二 、 第三等的词, 称为序数词 。
+
+#### 2.1 序数词的基本形式 （ 即字典上可查到的序数词 ）
+- (1) 第一至第十九: first, second, third, fourth, fifth, sixth, tenth, fourteenth, nineteenth.
+- (2) 20-90 的整十位数: twentieth, thirtieth, fortieth, fiftieth, sixtieth, seventieth.
+- (3) 序数词的整数单位: hundredth, thousandth, millionth, billionth
+
+#### 2.2 其他序数词的表达方式: 其他序数词的构成方法是只将个位数改成序数词, 十 、 百 、 千位上的数仍用基数词 。
+- twenty-first  第 21 &nbsp;&nbsp;&nbsp;&nbsp; thirty-second  第 32
+- forty-third  第 43 &nbsp;&nbsp;&nbsp;&nbsp; ninety-fifth  第 95
+- one hundred and sixty-fburth  第 164
+- two thousand three hundred and the first  第 2,301
+
+#### 2.3 序数词的缩写: 序数词在实际应用中, 经常以缩写形式出现。其缩写形式是阿拉伯数字加该序数词的最后两个字母 。
+- 1$^{st}$ 
+- 2^nd 
+- 3^rd
+- 21^st
+- 32 nd ■ 83 rd ・ 4 山
+■9 th ■11 th -84 th ■ 101 st ■ 123 rd ■ 1,000 th ■ 1,002 nd
+063
+ft \ 画 序数词在句中的作用
+卜/ ❶ 作主语
+\ ■ 1. Do you see some bikes over there? The second is mine.
+（ 你看到那边那几辆自行车了吗 ？ 第二辆是我的 。 ）
+■ 2. The first to arrive will open the windows.
+（ 第一个到的人会打开窗户 。 ）
+❷ 作宾语
+■ 1. He is among the first to visit that place.
+（ 他是第一批参观过那个地方的人之一 。 ）
+■ 2. Please give me the second. （ 请给我第二个 。 ）
+❸ 作定语
+■ 1. 1 have only read the second chapter.
+（ 我只读完了第二章 。 ）
+■ 2. She won the first prize in the English speaking competition.
+（ 她在英语演讲比赛中获得一等奖 。 ）
+❹ 作表语
+■ 1. He was the fourth to arrive.
+（ 他是第四个到的 。 ）
+■ 2. At no time and in no circumstances will China be the first to use nuclear
+weapons.
+（ 无论伺■时, 无论在何种情况下, 中国都不会首先使用核武器 。 ）
+K 使用序数词时要注意的事项
+❶ 使用序数词时, 前面要加定冠词 the 。
+■ 1. Our team got the first place in the game.
+（ 我们队在比赛中得了第一名 。 ）
+■ 2. He is always the first to come. （ 他总是第一个到 。 ）
+❷ 序数词前, 有时可以不用 the, 而用 a, 用来表示 “ 再一, 又一 ” 。
+■ 1. You may try  it a second time. （ 你可以再试一次 。 ）
+■ 2. The farmers will sow a second time four months later.
+（ 农民们四个月后还要再播种一次 。 
 
 ### 3. 分数
 
