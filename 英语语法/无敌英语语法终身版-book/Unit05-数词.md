@@ -455,7 +455,7 @@
 #### 2.2 其他序数词的表达方式: 其他序数词的构成方法是只将个位数改成序数词, 十 、 百 、 千位上的数仍用基数词 。
 - twenty-first  第 21 &nbsp;&nbsp;&nbsp;&nbsp; thirty-second  第 32
 - forty-third  第 43 &nbsp;&nbsp;&nbsp;&nbsp; ninety-fifth  第 95
-- one hundred and sixty-fburth  第 164
+- one hundred and sixty-fourth  第 164
 - two thousand three hundred and the first  第 2,301
 
 #### 2.3 序数词的缩写: 序数词在实际应用中, 经常以缩写形式出现。其缩写形式是阿拉伯数字加该序数词的最后两个字母 。
