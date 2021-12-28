@@ -2,7 +2,7 @@
 
 数词分为 **基数词** 和 **序数词**.
 
-基数词是描述事物数量的多少的数词. 相对的概念是序数词，序数词用来描述事物的顺序. 
+基数词是**描述事物数量的多少**的数词. 相对的概念是序数词，序数词用来**描述事物的顺序**. 
 
 基数词表示**数目**；序数词表示**顺序**. 
 
@@ -434,11 +434,22 @@
 
 
 ### 2. 序数词
+
 表示顺序, 如: 第一 、 第二 、 第三等的词, 称为序数词 。
 
 #### 2.1 序数词的基本形式 （ 即字典上可查到的序数词 ）
 - (1) 第一至第十九: first, second, third, fourth, fifth, sixth, tenth, fourteenth, nineteenth.
-- (2) 20-90 的整十位数: twentieth, thirtieth, fortieth, fiftieth, sixtieth, seventieth.
+| first     | second      | third      | fourth     | fifth      | sixth     |
+| :-------: | :---------: | :--------: | :--------: | :--------: | :-------: |
+| seventh   | eighth      | ninth      | tenth      | eleventh   |  twelfth     |
+| thirteenth | fourteenth | fifteenth |  sixteenth | seventeenth | eighteenth |
+| nineteenth `/'naɪn'tiːnθ/` |       |           | | | |
+
+- (2) 第 20 - 第 90 的整十位数: 
+| twentieth   | thirtieth  | fortieth   | fiftieth  | sixtieth   | seventieth  |
+| --------- | ----------- | ---------- | ---------- | ---------- | --------- |
+| eightieth |   ninetieth`/'naɪntɪɪθ/`  |           | | | |
+
 - (3) 序数词的整数单位: hundredth, thousandth, millionth, billionth
 
 #### 2.2 其他序数词的表达方式: 其他序数词的构成方法是只将个位数改成序数词, 十 、 百 、 千位上的数仍用基数词 。
@@ -448,17 +459,17 @@
 - two thousand three hundred and the first  第 2,301
 
 #### 2.3 序数词的缩写: 序数词在实际应用中, 经常以缩写形式出现。其缩写形式是阿拉伯数字加该序数词的最后两个字母 。
-- 1$^{st}$ 
-- 2^nd 
-- 3^rd
-- 21^st
-- 32 nd ■ 83 rd ・ 4 山
-■9 th ■11 th -84 th ■ 101 st ■ 123 rd ■ 1,000 th ■ 1,002 nd
-063
-ft \ 画 序数词在句中的作用
-卜/ ❶ 作主语
-\ ■ 1. Do you see some bikes over there? The second is mine.
-（ 你看到那边那几辆自行车了吗 ？ 第二辆是我的 。 ）
+
+| 1$^{st}$ (first) | 2$^{nd}$ (second) | 3$^{rd}$ (third) | 21$^{st}$ (twenty-first) |
+|:---:|:---:|:---:|:---:|
+| 32$^{nd}$ () | 83$^{rd}$ () | 4$^{th}$ () | 9$^{th}$  |
+| 11$^{st}$ | 84$^{th}$  | 101$^{st}$  | 123$^{nd}$  |
+| 1,000$^{th}$  | 1,002$^{nd}$ | | |
+
+#### 2.4 序数词在句中的作用
+
+❶ 作主语 
+- (1) Do you see some bikes over there? The second is mine.（你看到那边那几辆自行车了吗？第二辆是我的。）
 ■ 2. The first to arrive will open the windows.
 （ 第一个到的人会打开窗户 。 ）
 ❷ 作宾语
@@ -476,7 +487,7 @@ ft \ 画 序数词在句中的作用
 ■ 2. At no time and in no circumstances will China be the first to use nuclear
 weapons.
 （ 无论伺■时, 无论在何种情况下, 中国都不会首先使用核武器 。 ）
-K 使用序数词时要注意的事项
+#### 2.5 使用序数词时要注意的事项
 ❶ 使用序数词时, 前面要加定冠词 the 。
 ■ 1. Our team got the first place in the game.
 （ 我们队在比赛中得了第一名 。 ）
