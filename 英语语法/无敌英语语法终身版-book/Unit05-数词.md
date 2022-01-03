@@ -437,22 +437,27 @@
 
 表示顺序, 如: 第一 、 第二 、 第三等的词, 称为序数词 。
 
-#### 2.1 序数词的基本形式 （ 即字典上可查到的序数词 ）
-- (1) 第一至第十九: first, second, third, fourth, fifth, sixth, tenth, fourteenth, nineteenth.
+#### 2.1 序数词的基本形式
+
+**(1) 第一至第十九:**
+
 | first     | second      | third      | fourth     | fifth      | sixth     |
 | :-------: | :---------: | :--------: | :--------: | :--------: | :-------: |
 | seventh   | eighth      | ninth      | tenth      | eleventh   |  twelfth     |
 | thirteenth | fourteenth | fifteenth |  sixteenth | seventeenth | eighteenth |
 | nineteenth `/'naɪn'tiːnθ/` |       |           | | | |
 
-- (2) 第 20 - 第 90 的整十位数: 
-| twentieth   | thirtieth  | fortieth   | fiftieth  | sixtieth   | seventieth  |
-| --------- | ----------- | ---------- | ---------- | ---------- | --------- |
-| eightieth |   ninetieth`/'naɪntɪɪθ/`  |           | | | |
+**(2) 第 20 - 第 90 的整十位数:**
 
-- (3) 序数词的整数单位: hundredth, thousandth, millionth, billionth
+| twentieth`/'twentɪɪθ/`   | thirtieth`/'θɜːtɪɪθ/` | fortieth`/'fɔːtɪɪθ/`  | 
+| --------- | ----------- | ---------- |
+| fiftieth`/'fɪftɪɪθ/`  | sixtieth`/'sɪkstɪθ/`  | seventieth`/'sevəntɪɪθ/`  |
+| eightieth`/'etɪɪθ/` |   ninetieth`/'naɪntɪɪθ/`  |  |
 
-#### 2.2 其他序数词的表达方式: 其他序数词的构成方法是只将个位数改成序数词, 十 、 百 、 千位上的数仍用基数词 。
+**(3) 序数词的整数单位: hundredth, thousandth`/'θaʊzəntθ/`, millionth, billionth**
+
+#### 2.2 其他序数词的表达方式
+其他序数词的构成方法是**只将个位数改成序数词**, 十 、 百 、 千位上的数仍用基数词.
 - twenty-first  第 21 &nbsp;&nbsp;&nbsp;&nbsp; thirty-second  第 32
 - forty-third  第 43 &nbsp;&nbsp;&nbsp;&nbsp; ninety-fifth  第 95
 - one hundred and sixty-fourth  第 164
@@ -463,39 +468,34 @@
 | 1$^{st}$ (first) | 2$^{nd}$ (second) | 3$^{rd}$ (third) | 21$^{st}$ (twenty-first) |
 |:---:|:---:|:---:|:---:|
 | 32$^{nd}$ () | 83$^{rd}$ () | 4$^{th}$ () | 9$^{th}$  |
-| 11$^{st}$ | 84$^{th}$  | 101$^{st}$  | 123$^{nd}$  |
-| 1,000$^{th}$  | 1,002$^{nd}$ | | |
+| 11$^{st}$ | 84$^{th}$  | 101$^{st}$  | 123$^{nd}$ (one hundred and twenty-third)  |
+| 1,000$^{th}$ (thousandth)  | 1,002$^{nd}$ (one thousand and the second) | | |
 
 #### 2.4 序数词在句中的作用
+(1) 作主语 
+- Do you see some bikes over there? **The second** is mine.（你看到那边那几辆自行车了吗？第二辆是我的。）
+- **The first** to arrive will open the windows.（第一个到的人会打开窗户。）
 
-❶ 作主语 
-- (1) Do you see some bikes over there? The second is mine.（你看到那边那几辆自行车了吗？第二辆是我的。）
-■ 2. The first to arrive will open the windows.
-（ 第一个到的人会打开窗户 。 ）
-❷ 作宾语
-■ 1. He is among the first to visit that place.
-（ 他是第一批参观过那个地方的人之一 。 ）
-■ 2. Please give me the second. （ 请给我第二个 。 ）
-❸ 作定语
-■ 1. 1 have only read the second chapter.
-（ 我只读完了第二章 。 ）
-■ 2. She won the first prize in the English speaking competition.
-（ 她在英语演讲比赛中获得一等奖 。 ）
-❹ 作表语
-■ 1. He was the fourth to arrive.
-（ 他是第四个到的 。 ）
-■ 2. At no time and in no circumstances will China be the first to use nuclear
-weapons.
-（ 无论伺■时, 无论在何种情况下, 中国都不会首先使用核武器 。 ）
+(2) 作宾语
+- He is among **the first** to visit that place.（他是第一批参观过那个地方的人之一.)
+- Please give me **the second**. （请给我第二个.)
+
+(3) 作定语
+- 1 have only read **the second** chapter.（我只读完了第二章.)
+- She won **the first** prize in the English speaking competition.（她在英语演讲比赛中获得一等奖.)
+
+(4) 作表语
+- He was **the fourth** to arrive.（他是第四个到的.)
+- At no time and in no circumstances will China be **the first** to use nuclear weapons.（无论何时, 无论在何种情况下, 中国都不会首先使用核武器.)
+
 #### 2.5 使用序数词时要注意的事项
-❶ 使用序数词时, 前面要加定冠词 the 。
-■ 1. Our team got the first place in the game.
-（ 我们队在比赛中得了第一名 。 ）
-■ 2. He is always the first to come. （ 他总是第一个到 。 ）
-❷ 序数词前, 有时可以不用 the, 而用 a, 用来表示 “ 再一, 又一 ” 。
-■ 1. You may try  it a second time. （ 你可以再试一次 。 ）
-■ 2. The farmers will sow a second time four months later.
-（ 农民们四个月后还要再播种一次 。 
+(1) 使用序数词时, 前面要**加定冠词 the**.
+- Our team got **the first** place in the game.（我们队在比赛中得了第一名 。 ）
+- He is always **the first** to come. （他总是第一个到.）
+
+(2) 序数词前, 有时可以不用 the, 而用 a, 用来表示 “ 再一, 又一”.
+- You may try  it **a second** time. （你可以再试一次.)
+- The farmers will sow **a second** time four months later.（农民们四个月后还要再播种一次 。 
 
 ### 3. 分数
 
