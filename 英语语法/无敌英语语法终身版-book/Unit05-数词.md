@@ -1,17 +1,9 @@
 # Unit 5 -- 数词
 
-数词分为 **基数词** 和 **序数词**.
-
-基数词是**描述事物数量的多少**的数词. 相对的概念是序数词，序数词用来**描述事物的顺序**. 
-
-基数词表示**数目**；序数词表示**顺序**. 
-
-基数词和序数词可以合成一个分数. 
-
-
 
 
 ## Table of Contents
+
 1. 基数词
 2. 序数词
 3. 分数
@@ -132,11 +124,22 @@
 
 ## Content
 
+数词分为 **基数词** 和 **序数词**.
+
+基数词是**描述事物数量的多少**的数词. 相对的概念是序数词，序数词用来**描述事物的顺序**. 
+
+基数词表示**数目**；序数词表示**顺序**. 
+
+基数词和序数词可以合成一个分数. 
+
+
+
 ### 1. 基数词
 基数词是描述事物数量多少的数词. 即 1，2，3，4，5 等词. 
 
-#### 1.1 基数词的基本形式(即字典上可查到的基数词)
-##### (1) 1-20 可以在字典上查到:
+#### 1.1 基本基数词
+
+##### (1) 1-20 基数词:
 
 <table>
     <tr>
@@ -144,7 +147,7 @@
         <td>2. two</td>
         <td>3. three</td>
         <td>4. four</td>
-        <td>5. five</td>
+        <td>5. five ``</td>
         <td>6. six</td>
     </tr>
     <tr>
@@ -169,7 +172,7 @@
     </tr>
 </table>
 
-##### (2) 20 - 90 的整十位数可以在字典上查到:
+##### (2) 20 - 90 :
 
 | twenty`/'twentɪ/` | thirty`/'θɜːtɪ/` | forty`/'fɔːtɪ/` |
 | :----: | :----: | :---: | 
@@ -419,17 +422,24 @@
 ##### (5) 作同位语
 
 #### 1.4 使用基数词时要注意的事项
-##### (1)  hundred, thousand, million, billion 用作定语时 , 一律用单数形式 。 此时 ，它表示的是一个较准确的数字，前面要有 a, one, two 等数词或 several, a few 等表示不确切数量的词 ，说明有多少个 hundred, thousand 或 million。
+**(1)** hundred, thousand, million, billion 用作定语时 , 一律用单数形式 。<br/>
+此时, 它表示的是一个较准确的数字, **前面要有 a, one, two 等数词或 several, a few 等表示不确切数量的词**，说明有多少个 hundred, thousand 或 million。
 
-##### (2)  "hundreds / thousands / millions + of + 名词 ”表示一个大概的数字，通常用来表示数量众多 。 此时，这些数字必须用复数形式 ，但前面不能加 one, two, three 等数字。
+- a few **hundred** students. 几百名学生
+- five **thousand** workers. 五千名工人
+- twenty **million** tons of steel 两千万吨钢材
+
+**(2)** **"hundreds / thousands / millions + of + 名词"** 表示一个大概的数字，通常用来表示数量众多。 此时，**这些数字必须用复数形式，前面不能加 one, two, three 等数字**。
+- **hundreds of** people 数百人
+- **thousands of** students 数千名学生
+- **thousands and thousands of** protesters 成千上万的抗议者
+
+**(3)** 单位数字的复数形式还可以组合在一起使用，表示数量众多，成千上万。
 
 
-##### (3)  单位数字的复数形式还可以组合在一起使用 ， 表示数量众多 ， 成千上万。
+**(4)** 用基数词表示计量， 说明一个物体的尺寸、重量时，用 "数字 + 表示单位的名词 + 相关形容词 " 结构 。 
 
-
-##### (4)  用基数词表示计量 ， 说明一个物体的尺寸 、重量时 ，用 "数字 + 表示单位的名词 + 相关形容词 " 结构 。 
-
-##### (5)  由一个数词和一个表示计量单位的名词合成一个形容词 ， 作定语用 ， 修饰另一个名词时 ， 表示计量单位的名词要用单数
+**(5)** 由一个数词和一个表示计量单位的名词合成一个形容词， 作定语用， 修饰另一个名词时， 表示计量单位的名词要用单数
 
 
 
@@ -439,7 +449,7 @@
 
 #### 2.1 序数词的基本形式
 
-**(1) 第一至第十九:**
+##### (1) 第一至第十九:
 
 | first     | second      | third      | fourth     | fifth      | sixth     |
 | :-------: | :---------: | :--------: | :--------: | :--------: | :-------: |
@@ -447,14 +457,14 @@
 | thirteenth | fourteenth | fifteenth |  sixteenth | seventeenth | eighteenth |
 | nineteenth `/'naɪn'tiːnθ/` |       |           | | | |
 
-**(2) 第 20 - 第 90 的整十位数:**
+##### (2) 第 20 - 第 90 的整十位数:
 
 | twentieth`/'twentɪɪθ/`   | thirtieth`/'θɜːtɪɪθ/` | fortieth`/'fɔːtɪɪθ/`  | 
 | --------- | ----------- | ---------- |
 | fiftieth`/'fɪftɪɪθ/`  | sixtieth`/'sɪkstɪθ/`  | seventieth`/'sevəntɪɪθ/`  |
 | eightieth`/'etɪɪθ/` |   ninetieth`/'naɪntɪɪθ/`  |  |
 
-**(3) 序数词的整数单位: hundredth, thousandth`/'θaʊzəntθ/`, millionth, billionth**
+##### (3) 序数词的整数单位: hundredth, thousandth`/'θaʊzəntθ/`, millionth, billionth
 
 #### 2.2 其他序数词的表达方式
 其他序数词的构成方法是**只将个位数改成序数词**, 十 、 百 、 千位上的数仍用基数词.
@@ -472,28 +482,28 @@
 | 1,000$^{th}$ (thousandth)  | 1,002$^{nd}$ (one thousand and the second) | | |
 
 #### 2.4 序数词在句中的作用
-(1) 作主语 
+##### (1) 作主语 
 - Do you see some bikes over there? **The second** is mine.（你看到那边那几辆自行车了吗？第二辆是我的。）
 - **The first** to arrive will open the windows.（第一个到的人会打开窗户。）
 
-(2) 作宾语
+##### (2) 作宾语
 - He is among **the first** to visit that place.（他是第一批参观过那个地方的人之一.)
 - Please give me **the second**. （请给我第二个.)
 
-(3) 作定语
+##### (3) 作定语
 - 1 have only read **the second** chapter.（我只读完了第二章.)
 - She won **the first** prize in the English speaking competition.（她在英语演讲比赛中获得一等奖.)
 
-(4) 作表语
+##### (4) 作表语
 - He was **the fourth** to arrive.（他是第四个到的.)
 - At no time and in no circumstances will China be **the first** to use nuclear weapons.（无论何时, 无论在何种情况下, 中国都不会首先使用核武器.)
 
 #### 2.5 使用序数词时要注意的事项
-(1) 使用序数词时, 前面要**加定冠词 the**.
+##### (1) 使用序数词时, 前面要**加定冠词 the**.
 - Our team got **the first** place in the game.（我们队在比赛中得了第一名 。 ）
 - He is always **the first** to come. （他总是第一个到.）
 
-(2) 序数词前, 有时可以不用 the, 而用 a, 用来表示 “ 再一, 又一”.
+##### (2) 序数词前, 有时可以不用 the, 而用 a, 用来表示 “ 再一, 又一”.
 - You may try  it **a second** time. （你可以再试一次.)
 - The farmers will sow **a second** time four months later.（农民们四个月后还要再播种一次 。 
 
