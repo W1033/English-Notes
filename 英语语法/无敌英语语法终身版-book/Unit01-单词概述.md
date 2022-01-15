@@ -45,7 +45,7 @@
 - **pronoun `/'pronaʊn/` --n.<语>代词**
     + Okay? You don't have to use the personal pronoun.
       明白了吗? 你不必使用人称代词.
-    + relative pronoun. `/语]关系代词
+    + relative pronoun. [语]关系代词
 - **preposition `[ˌprepəˈzɪʃən]` --n.介词; 前置词**
     + Decide which preposition you need to finish this sentence.
       决定你需要哪一个介词来完成这个句子.

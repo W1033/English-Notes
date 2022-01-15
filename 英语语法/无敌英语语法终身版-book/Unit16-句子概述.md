@@ -3,23 +3,17 @@
 
 
 
-## New Words (生词)
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
+## New Words 
 
 
-
-
-## Content (正文)
+## Content 
 
 ### 1. 构成句子的基本成分
+
 #### 1.1 句子的构成
 
 #### 1.2 各句子成分的作用及构成
+
 ##### 1. 主语
 ##### 2. 谓语
 ##### 3. 表语
@@ -29,11 +23,12 @@
 
 **(1) 宾语表示动作的承受者、动作的对象或结果.**
 - (1) He made **a bookshelf** himself.（他自己做了一个书架。）名词作宾语
-- (2) 1 want **to have a cup of coffee.** （我想要杯咖啡。）不定式作宾语
+- (2) I want **to have a cup of coffee.** （我想要杯咖啡。）不定式作宾语
 - (3) Stop **talking**, please.（请不要说话。）动名词作宾语
-- (4) 1 want to know **who he is**.（我想知道他是谁。）从句作宾语
+- (4) I want to know **who he is**.（我想知道他是谁。）从句作宾语
 
 **(2) 在双宾语结构中，人是间接宾语，事或物是直接宾语。间接宾语表示动 作是为谁做的或对谁做的。间接宾语（动词所指向的人）可以放在直接宾 语之前或之后。如果直接宾语放在间接宾语之前，则由介词to, for等引出 间接宾语。经常需要带双宾语的动词有:**
+
 - | allow | bring |  buy |
   | ---- | ---- | ---- |
   | fetch | find  |  get  |
@@ -56,10 +51,24 @@
 
 ##### 5. 同位语
 ##### 6. 定语
-
-Additional Info: 定语修饰**名词(noun)**和**代词(pronoun)**的成分；说明人或物的特征，性质等。
+**Additional Info** <br/>
+定语: 修饰 `名词(noun)` 或 `代词(pronoun)` 的词、短语、从句称为定语. 
++ 例如: 老牛吃嫩草. `嫩` 就是定语, 用来修饰(草).
 
 ##### 7. 状语
+**Additional Info** <br/>
+状语: 修饰 `动词`、`形容词`、`副词` 以及 `全句` 的句子成分. 
++ 状语是句子成分. 状语从句是状语的形式之一. 
+    - 状语可以是一个词(如"时间副词[today]"或"地点副词[there]"等)或者一个短语(
+        e.g.: 表示事件或地点的介词短语[on Sunday, in the room]等),
+        状语从句必须是一个句子，至少包含主语和谓语两部分. 
++ 状语的形式:
+    - 最常见的是`副词`;
+    - 其次是`介词短语`、`非谓语动词`、`状语从句`;
+        + He went to Beijing
+            <span style="border-bottom: 1px solid red">by plane.</span>
+            他坐飞机去北京.
+    - 偶尔`形容词`和`名词`也做状语. 
 
 
 ### 2. 句子按结构分类
@@ -71,25 +80,25 @@ Additional Info: 定语修饰**名词(noun)**和**代词(pronoun)**的成分；�
 
 ### 3. 五种最基本的句型
 简单句是最基本的句子，根据句子的结构特征及主要成分的组成规律，又可以归纳为 5 种最基本的句型。
-#### 1. 句型一：`主语` + `谓语（系动词）` + `表语`
-- He is a handsome young man.（他是个英俊少年。） 
-- Mr. Smith is our teacher.（史密斯先生是我们的老师。）
+#### 1. `主语` + `谓语(系动词)` + `表语`
+- He is a handsome young man. 他是个英俊少年。
+- Mr. Smith is our teacher. 史密斯先生是我们的老师。
 
-#### 2. 句型二：`主语` + `谓语动词（不及物动词）`
-- The bus stopped.（公共汽车停下来了。） 
-- He gets up early every day.（他每天起得早。）
+#### 2. `主语` + `谓语动词(不及物动词)`
+- The bus stopped. 公共汽车停下来了。
+- He gets up early every day. 他每天起得早。
 
-#### 3. 句型三：`主语` + `谓语（及物动词）` + `宾语`
-- They like roses.（他们喜欢玫瑰。） 
-- We read English newspaper every day.（我们每天看英文报纸。）
+#### 3. `主语` + `谓语(及物动词)` + `宾语`
+- They like roses. 他们喜欢玫瑰。
+- We read English newspaper every day. 我们每天看英文报纸。
 
-#### 4. 句型四：`主语` + `谓语（及物动词）` + `间接宾语` + `直接宾语`
-- Mary sent him a Christmas card.（玛丽寄给他一张圣诞贺卡。）
-- He bought his wife a car as a birthday gift.（他给妻子买了一辆汽车作为生日礼物。）
+#### 4. `主语` + `谓语(及物动词)` + `间接宾语` + `直接宾语`
+- Mary sent him a Christmas card. 玛丽寄给他一张圣诞贺卡。
+- He bought his wife a car as a birthday gift. 他给妻子买了一辆汽车作为生日礼物。
 
-#### 5. 句型五：`主语` + `谓语（及物动词）` + `宾语` + `宾语补足语`
-- They named him old Jack.（他们叫他老杰克。）
-- I saw her come in.（我看到她进来了。）
+#### 5. `主语` + `谓语(及物动词)` + `宾语` + `宾语补足语`
+- They named him old Jack. 他们叫他老杰克。
+- I saw her come in. 我看到她进来了。
 
 在句子中，主语和谓语是必不可少的成分，而表语、宾语、宾语补足语、定语、状语等则是根据表达意思的需要有选择的使用。
 

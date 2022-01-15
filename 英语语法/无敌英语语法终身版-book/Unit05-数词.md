@@ -1,20 +1,6 @@
 # Unit 5 -- 数词
 
 
-
-## Table of Contents
-
-1. 基数词
-2. 序数词
-3. 分数
-4. 小数和百分数
-5. 数词的实际应用
-
-
-
-
-
-
 ## New Words
 
 > 全文提示：单词右上角红色的星号($\color{red}{^*}$)代表为生词.
@@ -141,38 +127,16 @@
 
 ##### (1) 1-20 基数词:
 
-<table>
-    <tr>
-        <td>1. one </td>
-        <td>2. two</td>
-        <td>3. three</td>
-        <td>4. four</td>
-        <td>5. five ``</td>
-        <td>6. six</td>
-    </tr>
-    <tr>
-        <td>7. seven</td>
-        <td>8. eight</td>
-        <td>9. nine <code>/naɪn/</code></td>
-        <td>10. ten</td>
-        <td>11. eleven</td>
-        <td>12. twelve</td>
-    </tr>
-    <tr>
-        <td>13. thirteen</td>
-        <td>14. fourteen</td>
-        <td>15. fifteen</td>
-        <td>16. sixteen</td>
-        <td>17. seventeen</td>
-        <td>18. eighteen</td>
-    </tr>
-    <tr>
-        <td>19. nineteen</td>
-        <td>20. twenty</td>
-    </tr>
-</table>
+| 1. one  | 2. two | 3. three | 
+| :----: | :----: | :---: | 
+| 4. four | 5. five `` | 6. six |
+| 7. seven | 8. eight | 9. nine `/naɪn/`|
+| 10. ten | 11. eleven | 12. twelve |
+| 13. thirteen | 14. fourteen | 15. fifteen |
+| 16. sixteen | 17. seventeen | 18. eighteen |
+| 19. nineteen | 20. twenty | |
 
-##### (2) 20 - 90 :
+##### (2) 20 - 90  整十数倍
 
 | twenty`/'twentɪ/` | thirty`/'θɜːtɪ/` | forty`/'fɔːtɪ/` |
 | :----: | :----: | :---: | 
@@ -184,23 +148,16 @@
 | hundred`/'hʌndrəd/`（百）| thousand`/'θaʊz(ə)nd/`（千）| million（百万）|billion（十亿）|
 | :----: | :----: | :---: | :---: |
 
-#### 1.2 其他基数词的表达形式
+#### 1.2 其他基数词
 
 ##### (1) 21 - 99:
 
 由十位数和个位数合成，中间由连字符(`-`)连接. 
-<table>
-    <tr>
-        <td>21</td>
-        <td>twenty-one</td>
-        <td>34</td>
-        <td>thirty-four</td>
-        <td>58</td>
-        <td>fifty-eight</td>
-        <td>99</td>
-        <td>ninety-nine</td>
-    </tr>
-</table>
+
+| 21 | twenty-one | 34 | thirty-four |
+| :---- | :---- | :---- | :---- |
+| 58 | fifty-eight | 99 | ninety-nine |
+
 ##### (2) 101-999:
 
 由百位数与上面两位数合起来构成，百位数和十位数之间加 and. 如果十位数是零，则在个位数前加 and.
@@ -252,7 +209,7 @@
 >
 > https://zhuanlan.zhihu.com/p/118175363
 
-##### (4) 万位以上数字读法：
+##### (4) 万位以上数字：
 
 我们都知道语文是每位数字后面都有一个特定的计数单位，比如我们从右往左排: 个，十，百，千，万，十万，百万，千万，亿等.
 
@@ -272,13 +229,11 @@
 
 十亿(1,000,000,000): 直接就是 billion.
 
-**注:** 在使用 hundred，thousand，million 时，如果是模糊的表达，例如:
+**注:** 在使用 hundred，thousand，million 时，如果是模糊的表达，单位数字后面要加 `s`，例如:
 
 - 成百上千的 - hundreds of...
 - 成千上万的 - tens of thousands of...
 - 数百万的 - millions of...
-
-这些情况下在其后面加上 **s**.
 
 如果是具体的几百，几千，几百万时，后面不能加s, 例如:
 
@@ -288,7 +243,7 @@
 
 下面是一些不同位数读法的示例:
 
-- **5-6 (10000 ~ 999,999) 位数字读法示例**
+- **5-6 (10000 ~ 999,999) 位数字及读法示例**
 <table>
     <tr>
         <td>11,265</td>
@@ -300,7 +255,7 @@
     </tr>
 </table>
 
-- **7 位以上数字读法示例**
+- **7 位以上数字及读法示例]**
 <table>
     <tr>
         <td>2,536,862</td>
@@ -316,15 +271,15 @@
     </tr>
 </table>
 
-- **10 位数字读法示例**
+- **10 位数字及读法示例**
 <table>
     <tr>
         <td>5，937,284,560</td>
         <td>five billion nine hundred and thirty-seven million two hundred eighty-four thousand five hundred sixty</td>
     </tr>
 </table>
+##### (5) 小数
 
-##### (5) 小数的读法
 英语中的小数点用 point 来表示，小数点后面如果是两位以上的数字，则分别读出. 
 
 例如：
@@ -339,35 +294,15 @@
     </tr>
 </table>
 
-##### (6) 分数的读法
-分数中**分子用基数词表示，分母用序数词表示**. 读的顺序**先读分子，后读分母**. 分子为 1 时，口语中用 "a" 代替 "one"，当分子大于 1 时，分母要加 "s". 例如: 
+##### (6) 分数
+
+内容和下面的 `### 3. 分数` 整合
+
+##### (7) 电话号码
+(a.) 按照顺序读
+
+(b.) 遇到相同的两位数或三位数时，可用 double 或 triple$\color{red}{^*}$, 如果末尾出现三个零，可以按 "千" 来发音。例如: 
 <table>
-    <tr>
-        <td>1/3</td>
-        <td>a/one third</td>
-    </tr>
-    <tr>
-        <td>1/6</td>
-        <td>a/one sixth <code>/sɪksθ/</code></td>
-    </tr>
-    <tr>
-        <td>1/4</td>
-        <td>a/one quarter(fourth)</td>
-    </tr>
-    <tr>
-        <td>3/8</td>
-        <td>three eighths</td>
-    </tr>
-</table>
-
-**分数较为复杂时，可以用 over 来表示.**
-
-例如：**232/503**: two hundred and thirty-two over five hundred and three
-
-##### (7) 电话号码的读法
-- (1) 按照顺序读
-- (2) 遇到相同的两位数或三位数时，可用 double 或 triple$\color{red}{^*}$, 如果末尾出现三个零，可以按 "千" 来发音。例如: 
-  <table>
     <tr>
         <td>22</td>
         <td>double two</td>
@@ -380,16 +315,19 @@
         <td>2682000</td>
         <td>two six eight two thousand</td>
     </tr>
-  </table>
-- (3) 0 可以读为 zero，也可以读成字母 O(ou) 或 nought.
+</table>
 
-##### (8) 度量或重量单位的读法
+(c.) 0 可以读为 zero，也可以读成字母 O(ou) 或 nought.
+
+##### (8) 度量或重量单位
+
 常见的度量单位如 100mph，在这里 `mph` 是缩写，全文是 **miles`/maɪl/` per$\color{red}{^*}$ hour**即每小时所运行英里，直接先读数值再把单位全称读出来即可，重量单位也是如此。例如：
 
 - 145mph: one hundred forty-five miles per hour
 - 50kg: fifty kilograms.
 
-##### (9) 年份的读法
+##### (9) 年份
+
 **(1)** 一般情况下，将表示年份的四个数字按前后分为两组，每一组的数字都按基数词来读。例如：
 
 - 1875: eighteen seventy-five
@@ -410,19 +348,31 @@
 - 1008 年: one thousand and eight 或（ten O eight）
 - 2008 年: two thousand and eight 或（twenty O eight）
 
+
 #### 1.3 基数词在句中的作用
 ##### (1) 做主语
+- **Ten** of the students in this class are Party members.  这个班有 10 个学生是党员。
+- **Eight** plus **six** is fourteen.  8 加 6 等于 14.
 
 ##### (2) 作宾语
+- They have many footballs and you may borrow **three** from them. 他们有很多足球，你可以跟他们借 3 个。
+- She likes that writer and has already read **two** of his novels. 她很喜欢那个作家，已经读过他的两部小说了。
 
 ##### (3) 作定语
+- **Six** students were absent from the class yesterday beacuse of the flu. 由于流感，昨天有 6 名学生缺勤。 
+- There are **three hundred** foreign students in our school. 我们学校有三百名外国学生。
 
 ##### (4) 作表语
+- Five times four is **twenty**. 5 乘以 4 等于 20。
+- A: How old is he? (他几岁了？) B: He is **eleven**. 十一岁了。
 
 ##### (5) 作同位语
+- **You two** can go with us. 你们两人可以和我们一块去。
+- It's my pleasure to help **you three** with your English. 我非常高兴帮助你们三人学习英语。 
+
 
 #### 1.4 使用基数词时要注意的事项
-**(1)** hundred, thousand, million, billion 用作定语时 , 一律用单数形式 。<br/>
+**(1)** **hundred, thousand, million, billion 用作定语时, 一律用单数**形式 。<br/>
 此时, 它表示的是一个较准确的数字, **前面要有 a, one, two 等数词或 several, a few 等表示不确切数量的词**，说明有多少个 hundred, thousand 或 million。
 
 - a few **hundred** students. 几百名学生
@@ -434,13 +384,18 @@
 - **thousands of** students 数千名学生
 - **thousands and thousands of** protesters 成千上万的抗议者
 
-**(3)** 单位数字的复数形式还可以组合在一起使用，表示数量众多，成千上万。
+**(3)** **单位数字的复数**形式还可以组合在一起使用，表示数量众多，成千上万。
+- **tens** of **thousnads**. 成千上万
+- **hundreds** of **thousands**. 几十万，无数
+- **thousands** upon **thousands**. 数以万计
 
+**(4)** 用基数词**表示计量， 说明一个物体的尺寸、重量时**，用 **"数字 + 表示单位的名词 + 相关形容词"** 结构 。 
+- It is said that Dubai Tower is over **800 meters high**.
 
-**(4)** 用基数词表示计量， 说明一个物体的尺寸、重量时，用 "数字 + 表示单位的名词 + 相关形容词 " 结构 。 
-
-**(5)** 由一个数词和一个表示计量单位的名词合成一个形容词， 作定语用， 修饰另一个名词时， 表示计量单位的名词要用单数
-
+**(5)** 由**一个数词**和**一个表示计量单位的名词**合成一个形容词，作定语用，修饰另一个名词时，表示计量单位的名词要用**单数**。
+- He found a **ten-dollar** note on the pavement`/'peɪvm(ə)nt/`(n.人行道；路面). 他在街上发现一张十美元的钞票。
+- Tom is an **eleven-year-old** boy. 汤姆是一个十一岁的男孩。
+- That is a **four-hundred-page** book. 那是一本有 400 页的书。
 
 
 ### 2. 序数词
@@ -451,11 +406,14 @@
 
 ##### (1) 第一至第十九:
 
-| first     | second      | third      | fourth     | fifth      | sixth     |
-| :-------: | :---------: | :--------: | :--------: | :--------: | :-------: |
-| seventh   | eighth      | ninth      | tenth      | eleventh   |  twelfth     |
-| thirteenth | fourteenth | fifteenth |  sixteenth | seventeenth | eighteenth |
-| nineteenth `/'naɪn'tiːnθ/` |       |           | | | |
+| first     | second      | third      | 
+| :------- | :--------- | :-------- |
+| fourth     | fifth      | sixth     |
+| seventh   | eighth `/eɪtθ/` | ninth      |
+| tenth      | eleventh   |  twelfth     |
+| thirteenth | fourteenth | fifteenth | 
+| sixteenth | seventeenth | eighteenth `/'eɪ'tiːnθ/` |
+| nineteenth `/'naɪn'tiːnθ/` |       | 
 
 ##### (2) 第 20 - 第 90 的整十位数:
 
@@ -464,24 +422,32 @@
 | fiftieth`/'fɪftɪɪθ/`  | sixtieth`/'sɪkstɪθ/`  | seventieth`/'sevəntɪɪθ/`  |
 | eightieth`/'etɪɪθ/` |   ninetieth`/'naɪntɪɪθ/`  |  |
 
-##### (3) 序数词的整数单位: hundredth, thousandth`/'θaʊzəntθ/`, millionth, billionth
+##### (3) 序数词的整数单位:
+| hundredth `/'hʌndrədθ/`  | thousandth`/'θaʊzəntθ/` | 
+| --------- | ----------- | 
+| millionth | billionth |
 
 #### 2.2 其他序数词的表达方式
 其他序数词的构成方法是**只将个位数改成序数词**, 十 、 百 、 千位上的数仍用基数词.
-- twenty-first  第 21 &nbsp;&nbsp;&nbsp;&nbsp; thirty-second  第 32
-- forty-third  第 43 &nbsp;&nbsp;&nbsp;&nbsp; ninety-fifth  第 95
-- one hundred and sixty-fourth  第 164
-- two thousand three hundred and the first  第 2,301
+
+| twenty-first  第 21 | thirty-second  第 32 |
+| --------- | ----------- | 
+| forty-third  第 43 | ninety-fifth  第 95 |
+| one hundred and sixty-fourth  第 164 | two thousand three hundred and the first  第 2,301 |
 
 #### 2.3 序数词的缩写: 序数词在实际应用中, 经常以缩写形式出现。其缩写形式是阿拉伯数字加该序数词的最后两个字母 。
 
-| 1$^{st}$ (first) | 2$^{nd}$ (second) | 3$^{rd}$ (third) | 21$^{st}$ (twenty-first) |
-|:---:|:---:|:---:|:---:|
-| 32$^{nd}$ () | 83$^{rd}$ () | 4$^{th}$ () | 9$^{th}$  |
-| 11$^{st}$ | 84$^{th}$  | 101$^{st}$  | 123$^{nd}$ (one hundred and twenty-third)  |
-| 1,000$^{th}$ (thousandth)  | 1,002$^{nd}$ (one thousand and the second) | | |
+| 1$^{st}$ (first) | 2$^{nd}$ (second) | 
+|:---|:---|
+| 3$^{rd}$ (third) | 21$^{st}$ (twenty-first) |
+| 32$^{nd}$ () | 83$^{rd}$ (eighty-third) | 
+| 4$^{th}$ (fourth) | 9$^{th}$ (nintth) |
+| 11$^{st}$ | 84$^{th}$  | 101$^{st}$  | 
+| 123$^{nd}$ (one hundred and twenty-third)  | |
+| 1,000$^{th}$ (thousandth)  | 1,002$^{nd}$ (one thousand and the second) |
 
 #### 2.4 序数词在句中的作用
+
 ##### (1) 作主语 
 - Do you see some bikes over there? **The second** is mine.（你看到那边那几辆自行车了吗？第二辆是我的。）
 - **The first** to arrive will open the windows.（第一个到的人会打开窗户。）
@@ -505,23 +471,34 @@
 
 ##### (2) 序数词前, 有时可以不用 the, 而用 a, 用来表示 “ 再一, 又一”.
 - You may try  it **a second** time. （你可以再试一次.)
-- The farmers will sow **a second** time four months later.（农民们四个月后还要再播种一次 。 
+- The farmers will sow **a second** time four months later.（农民们四个月后还要再播种一次.） 
 
 ### 3. 分数
+
+分数由 基数词 和 序数词 结合构成。规则是**分子用基数词表示，分母用序数词表示**. 读的顺序**先读分子，后读分母**.
+#### 3.1 当分子为 1 时，口语中用 "a" 代替 "one"，当分子大于 1 时，分母(序数词)要加 "s". 例如: 
+
+| 1/3 | a/one third | 1/6 | a/one sixth `/sɪksθ/` |
+| :-- | :-- | :-- | :-- |
+| 3/8 | three eighths | 3/5 | three fifths |
+
+
+### 3.2 如果一个分数有整数部分，整数和分数之间要加 and.
+
+|  2$\frac{1}{2}$  | two and one second |
+| :-- | :-- |
+| 7$\frac{5}{8}$ | seven and five eighths  |
+
+### 3.3 分母是 2，4 的分数还可以用下面的方式表示
+
+**分数较为复杂时，可以用 over 来表示.**
+
+例如：**232/503**: two hundred and thirty-two over five hundred and three
 
 ### 4. 小数和百分数
 
 ### 5. 数词的实际应用
 
-
-<table>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-</table>
 
 
 

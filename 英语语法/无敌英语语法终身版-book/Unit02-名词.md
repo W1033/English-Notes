@@ -88,7 +88,7 @@
 - The lakes abound with fish. 这些湖泊(pō)生产鱼.
     + abound`/əˈbaʊnd/` -v.大量存在(to exist in very large numbers)
         - Examples of this abound in her book. 这样的例子在她树中比比皆是.
-        - **abound with/in** something. 富于, 盛产(if a place, situation etc abounds with things of a particular type, it contains a very large number of them.)
+        - **abound with/in** something. 富于, 盛产
             + The forests abound with deer, birds, and squirrels`/ˈskwɜːrəl/`.
               森林里有许许多多的鹿, 鸟和松鼠.
 
