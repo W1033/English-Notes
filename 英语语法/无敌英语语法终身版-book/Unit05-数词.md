@@ -26,8 +26,8 @@
 
 
 
-
 #### triple `/'trɪp(ə)l/`
+
 ```css
 ├── adj
 │   ├── (1) 有三部分的; 涉及三方的
@@ -104,6 +104,15 @@
 │   │   ├── Jenny was late, as per usual. 珍妮照例迟到了.
 ```
 
+#### pupil `/'pjuːpɪl/` ●●● S2 W1 
+```css
+├── noun [countable]
+│   ├── (1) 学生，（尤指）小学生
+│   │   ├── About 20 pupils study music here. 大约 20 名小学生在这里学习音乐。
+│   │   ├── staff and puplis. 教职员工和学生
+│   ├── (2) 瞳孔 (the small black round area in the middle of your eye.)
+|
+```
 
 
 
@@ -274,79 +283,10 @@
 - **10 位数字及读法示例**
 <table>
     <tr>
-        <td>5，937,284,560</td>
+        <td>5，937,284,560 &nbsp;&nbsp;</td>
         <td>five billion nine hundred and thirty-seven million two hundred eighty-four thousand five hundred sixty</td>
     </tr>
 </table>
-##### (5) 小数
-
-英语中的小数点用 point 来表示，小数点后面如果是两位以上的数字，则分别读出. 
-
-例如：
-<table>
-    <tr>
-        <td>2.5</td>
-        <td>two point five</td>
-    </tr>
-    <tr>
-        <td>45.67</td>
-        <td>fourty-five point six seven</td>
-    </tr>
-</table>
-
-##### (6) 分数
-
-内容和下面的 `### 3. 分数` 整合
-
-##### (7) 电话号码
-(a.) 按照顺序读
-
-(b.) 遇到相同的两位数或三位数时，可用 double 或 triple$\color{red}{^*}$, 如果末尾出现三个零，可以按 "千" 来发音。例如: 
-<table>
-    <tr>
-        <td>22</td>
-        <td>double two</td>
-    </tr>
-    <tr>
-        <td>666</td>
-        <td>triple six</td>
-    </tr>
-    <tr>
-        <td>2682000</td>
-        <td>two six eight two thousand</td>
-    </tr>
-</table>
-
-(c.) 0 可以读为 zero，也可以读成字母 O(ou) 或 nought.
-
-##### (8) 度量或重量单位
-
-常见的度量单位如 100mph，在这里 `mph` 是缩写，全文是 **miles`/maɪl/` per$\color{red}{^*}$ hour**即每小时所运行英里，直接先读数值再把单位全称读出来即可，重量单位也是如此。例如：
-
-- 145mph: one hundred forty-five miles per hour
-- 50kg: fifty kilograms.
-
-##### (9) 年份
-
-**(1)** 一般情况下，将表示年份的四个数字按前后分为两组，每一组的数字都按基数词来读。例如：
-
-- 1875: eighteen seventy-five
-- 1997: nineteen ninety-seven
-
-**(2)** 如果前两个数字为非“零”数字，后两位都为“零”，则先读出前两位数，然后将后面的两个“零”读为 hundred。例如：
-
-- 1800: eighteen hundred
-- 1900: nineteen hundred
-
-**(3)** 第三个数字为“零”（其它数字不是“零”）的年份，将“零”读为字母 O 的发音。例如：
-
-- 1908: nineteen O eight
-
-**(4)** 关于千年的一些读法。
-
-- 2000 年: two thousand
-- 1008 年: one thousand and eight 或（ten O eight）
-- 2008 年: two thousand and eight 或（twenty O eight）
 
 
 #### 1.3 基数词在句中的作用
@@ -355,6 +295,7 @@
 - **Eight** plus **six** is fourteen.  8 加 6 等于 14.
 
 ##### (2) 作宾语
+
 - They have many footballs and you may borrow **three** from them. 他们有很多足球，你可以跟他们借 3 个。
 - She likes that writer and has already read **two** of his novels. 她很喜欢那个作家，已经读过他的两部小说了。
 
@@ -404,7 +345,7 @@
 
 #### 2.1 序数词的基本形式
 
-##### (1) 第一至第十九:
+##### (1) 第 1 至第 19:
 
 | first     | second      | third      | 
 | :------- | :--------- | :-------- |
@@ -415,7 +356,7 @@
 | sixteenth | seventeenth | eighteenth `/'eɪ'tiːnθ/` |
 | nineteenth `/'naɪn'tiːnθ/` |       | 
 
-##### (2) 第 20 - 第 90 的整十位数:
+##### (2) 第 20 -  90 的整十位数:
 
 | twentieth`/'twentɪɪθ/`   | thirtieth`/'θɜːtɪɪθ/` | fortieth`/'fɔːtɪɪθ/`  | 
 | --------- | ----------- | ---------- |
@@ -423,6 +364,7 @@
 | eightieth`/'etɪɪθ/` |   ninetieth`/'naɪntɪɪθ/`  |  |
 
 ##### (3) 序数词的整数单位:
+
 | hundredth `/'hʌndrədθ/`  | thousandth`/'θaʊzəntθ/` | 
 | --------- | ----------- | 
 | millionth | billionth |
@@ -435,7 +377,9 @@
 | forty-third  第 43 | ninety-fifth  第 95 |
 | one hundred and sixty-fourth  第 164 | two thousand three hundred and the first  第 2,301 |
 
-#### 2.3 序数词的缩写: 序数词在实际应用中, 经常以缩写形式出现。其缩写形式是阿拉伯数字加该序数词的最后两个字母 。
+#### 2.3 序数词的缩写: 
+
+序数词在实际应用中, 经常以缩写形式出现。其缩写形式是阿拉伯数字加该序数词的最后两个字母 。
 
 | 1$^{st}$ (first) | 2$^{nd}$ (second) | 
 |:---|:---|
@@ -476,6 +420,7 @@
 ### 3. 分数
 
 分数由 基数词 和 序数词 结合构成。规则是**分子用基数词表示，分母用序数词表示**. 读的顺序**先读分子，后读分母**.
+
 #### 3.1 当分子为 1 时，口语中用 "a" 代替 "one"，当分子大于 1 时，分母(序数词)要加 "s". 例如: 
 
 | 1/3 | a/one third | 1/6 | a/one sixth `/sɪksθ/` |
@@ -483,22 +428,137 @@
 | 3/8 | three eighths | 3/5 | three fifths |
 
 
-### 3.2 如果一个分数有整数部分，整数和分数之间要加 and.
+#### 3.2 如果一个分数有整数部分，整数和分数之间要加 and.
 
 |  2$\frac{1}{2}$  | two and one second |
 | :-- | :-- |
 | 7$\frac{5}{8}$ | seven and five eighths  |
 
-### 3.3 分母是 2，4 的分数还可以用下面的方式表示
+#### 3.3 分母是 2，4 的分数还可以用下面的方式表示
 
-**分数较为复杂时，可以用 over 来表示.**
+|  1/2  | a/one half  |
+| :-- | :-- |
+|  1/4  | a/one quarter |
+|  3/4  | three quarters |
 
-例如：**232/503**: two hundred and thirty-two over five hundred and three
+#### 3.4 分数较大时，可以用 over 来表示.
+
+|  29/78    |  twenty-nine over seventy-eight  |
+| ---- | ---- |
+|  33/50    |  thiry-three over fifty  |
+|  232/503  |  two handred thrity-two over five hundred and three  |
+
 
 ### 4. 小数和百分数
 
+#### 4.1 小数 
+**英语中的小数点用 point 来表示，小数点后面如果是两位以上的数字，则分别读出.**
+
+|  0.28  |   zero point two eight   |
+|  ----  | ---- |
+|  1.37   |  one point three seven    |
+|  93.08  |   ninety-three point zero eight   |
+|  2.5    |   tow point five   |
+|  45.67  |   fourty-five point six seven   |
+
+#### 4.2 百分数
+**`％`符号读作 percent**
+- ten percent 10%
+- I am 100 **percent** in agreement. 我百分之百同意。
+- In our school forty-five **percent** of the pupils$\color{red}{^*}$ are boys. 我们学校 45% 的学生是男孩子。
+
 ### 5. 数词的实际应用
 
+#### 5.1 (表示)排列顺序 
+(1) 基数词表示顺序时，放在**名词后面**.
+- Lesson Three 第三课
+- page 12. 第 12 页
+- World War Two. 第二次世界大战
+
+(2) 序数词表示顺序时，放在**名词之前**，并且要加定冠词 **the**.
+- the Third Lesson  第三课
+- the twelfth page  第 12 页
+- the Second World War  第二次世界大战
+
+(3) **当数字较长时，一般习惯用基数词**表示排列顺序
+- Class Five, Grade Two.  二年级五班
+- Room 205.  205 房间 (读作：room two oh five)
+- Bus No.5  五路公共汽车 (读作：bus number five)
+- Turn to page 287.  翻到 287(two hundred eighty-seven) 页
+
+(4) 基数词和序数词有时表示的意义不同，使用时要根据上下文加以区别
+- The three girls like singing.  这三个女孩子喜欢唱歌。 (*这里指三个人都喜欢唱歌*)
+- The third girl likes singing.  第三个女孩子喜欢唱歌。(*这里指只有一个人喜欢唱歌*)
+
+#### 5.2 (表示)年龄
+(1) 表示年龄，一般用基数词。
+- I am **twenty** years old and my sister is **eighteen**. 我二十岁了，我妹妹十八岁。
+
+(2) 当表示一个人三十多岁，四十多岁...，要是用固定短语： in one's thirties, in one's forties, 即：把**把整十位数写成复数形式**.
+- Our English teacher is **in her thirties.** 我们的英语老师有三十多岁。
+- Although he is **in his sixties**, he still studies English.  尽管他六十多岁了，但还在学习英语。
+
+#### 5.3 (表示) `年`/`月`/`日`
+**(1)** `年` 用 **基数词**，`月` 用**专有名词**，`日` 用**序数词**。
+- 1921 年 7 月 1 日
+    + 写作：July 1, 1921
+    + 读作：July the first, nineteen twenty-one
+- 1876 年 5 月 31 日
+    + 写作：May the thirty-one, eighteen seventy-six
+
+Additional Info: **年份**的补充讲解
+```css
+├── (1) 一般情况下，将表示年份的四个数字按前后分为两组，每一组的数字都按基数词来读。例如：
+│   ├── 1875: eighteen seventy-five
+│   ├── 1997: nineteen ninety-seven
+│   ├── 1978: nineteen seventy-eight
+│
+├── (2) 如果前两个数字为非 "零" 数字，后两位都为 "零"，则先读出前两位数，然后将后面的两个
+│       "零" 读为 hundred。例如：
+│   ├── 1800: eighteen hundred
+│   ├── 1900: nineteen hundred
+│
+├── (3) 第三个数字为 "零" (其它数字不是"零")的年份，将 "零" 读为字母 O 的发音。例如：
+│   ├── 1908: nineteen O eight 
+│
+├── (4) 关于千年的一些读法
+│   ├── 2000 年: two thousand
+│   ├── 1008 年: one thousand and eight 或（ten O eight）
+│   ├── 2008 年: two thousand and eight 或（twenty O eight）
+│
+├── (5) 公元的一些读法
+│   ├── 211 B.C.: two eleven B.C. 公元前 211 年
+│   ├── 169 A.D.: one sixty-nine A.D. 公元 169 年
+```
+
+**(2)** 在表示每月的几号时要用序数词， 但通常不写出 the 来，读的时候则必须读出 the.
+- October 11, 2004
+    + 读作：October the eleventh, two thousand and four
+
+**(3)** 日期也可以全部用阿拉伯数字表示，但是英国人和美国人的写法有所不同。
+- 8.10.98 
+    + 英国式： 98 年 10 月 8 日
+    + 美国式： 98 年 8 月 10 日
+
+**(4)** 表示在几十年代， 要用几十的复数形式。
+- That actress was very famous in the **1930s (nineteen thirties)**. 那个女演员在 20 世纪 30 年代很有名气.
+- Great changes have taken place in China since the late **1970s (nineteen seventies)**. 自 20 世纪 70 年代末以来，中国发生了巨大的变化。
+
+**(5)** 表示十年、 百年、千年的专用名词.
+- decade 十年 .
+- the last decade of the twentieth century 20 世纪的最后 10 年
+- century 百年 / 世^己
+- millennium 千年
+- This temple was built in the 18${^(th)}$ century. 这个寺庙建于 18 世纪。 
+
+
+#### 5.4 (表示)时钟
+
+#### 5.5 (表示)电话号码
+
+#### 5.6 (表示)数学运算
+
+#### 5.7 (表示)数字 + 表示时间、距离、重量或金钱的单位的名词
 
 
 
@@ -509,3 +569,26 @@
 
 
 
+
+
+
+##### (7) 电话号码
+(a.) 按照顺序读
+
+(b.) 遇到相同的两位数或三位数时，可用 double 或 triple$\color{red}{^*}$, 如果末尾出现三个零，可以按 "千" 来发音。例如:
+| 22 | double two |
+| --- | --- |
+| 666 | triple six |
+| 2682000 | two six eight two thousand |
+
+(c.) 0 可以读为 zero，也可以读成字母 O(ou) 或 nought.
+
+
+##### (8) 度量或重量单位
+
+常见的度量单位如 100mph，在这里 `mph` 是缩写，全文是 **miles`/maɪl/` per$\color{red}{^*}$ hour**即每小时所运行英里，直接先读数值再把单位全称读出来即可，重量单位也是如此。例如：
+
+- 145mph: one hundred forty-five miles per hour
+- 50kg: fifty kilograms.
+
+##### (9) 年份
