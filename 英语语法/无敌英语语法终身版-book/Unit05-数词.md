@@ -549,7 +549,7 @@ Additional Info: **年份**的补充讲解
 - the last decade of the twentieth century 20 世纪的最后 10 年
 - century 百年 / 世^己
 - millennium 千年
-- This temple was built in the 18${^(th)}$ century. 这个寺庙建于 18 世纪。 
+- This temple was built in the 18$^{(th)}$ century. 这个寺庙建于 18 世纪。 
 
 
 #### 5.4 (表示)时钟
