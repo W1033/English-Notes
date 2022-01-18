@@ -38,6 +38,7 @@ So listen up, or you’ll get lost, like a blind man clapping in a pharmacy tryi
 Here we go:
 
 ## 1. You Don’t Have To Have A Dream. (第一: 你不一定要擁有夢想)
+
 Americans on talent shows always talk about their dreams. Fine, if you have something that you’ve always dreamed of, like, in your heart, go for it! After all, it’s something to do with your time… chasing$\color{red}{^*}$ a dream. And if it’s a big enough one, it’ll take you most of your life to achieve, so by the time you get to it and are staring into the abyss$\color{red}{^*}$ of the meaninglessness of your achievement, you’ll be almost dead so it won’t matter.
 
 (参加选秀节目的美国人总是谈论他们的梦想。好吧,如果你一直都想去做某件事, 打從心底想要去完成的, 那就去做吧! 毕竟，这与您的时间有关... 追逐梦想。如果它足够大，它会花费你一生的大部分时间来实现，所以当你到达它并凝视着你的成就毫无意义的深渊时，你都已經快死了, 對你來說一切也不重要了. )
