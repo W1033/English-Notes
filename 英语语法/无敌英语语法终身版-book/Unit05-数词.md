@@ -27,7 +27,6 @@
 
 
 #### triple `/'trɪp(ə)l/`
-
 ```css
 ├── adj
 │   ├── (1) 有三部分的; 涉及三方的
@@ -109,7 +108,7 @@
 ├── noun [countable]
 │   ├── (1) 学生，（尤指）小学生
 │   │   ├── About 20 pupils study music here. 大约 20 名小学生在这里学习音乐。
-│   │   ├── staff and puplis. 教职员工和学生
+│   │   ├── staff and pupils. 教职员工和学生
 │   ├── (2) 瞳孔 (the small black round area in the middle of your eye.)
 |
 ```
@@ -350,8 +349,8 @@
 | first     | second      | third      | 
 | :------- | :--------- | :-------- |
 | fourth     | fifth      | sixth     |
-| seventh   | eighth `/eɪtθ/` | ninth      |
-| tenth      | eleventh   |  twelfth     |
+| seventh   | eighth `/eɪtθ/` | ninth   |
+| tenth      | eleventh   |  twelfth   |
 | thirteenth | fourteenth | fifteenth | 
 | sixteenth | seventeenth | eighteenth `/'eɪ'tiːnθ/` |
 | nineteenth `/'naɪn'tiːnθ/` |       | 
@@ -385,7 +384,7 @@
 |:---|:---|
 | 3$^{rd}$ (third) | 21$^{st}$ (twenty-first) |
 | 32$^{nd}$ () | 83$^{rd}$ (eighty-third) | 
-| 4$^{th}$ (fourth) | 9$^{th}$ (nintth) |
+| 4$^{th}$ (fourth) | 9$^{th}$ (ninth) |
 | 11$^{st}$ | 84$^{th}$  | 101$^{st}$  | 
 | 123$^{nd}$ (one hundred and twenty-third)  | |
 | 1,000$^{th}$ (thousandth)  | 1,002$^{nd}$ (one thousand and the second) |
@@ -421,32 +420,36 @@
 
 分数由 基数词 和 序数词 结合构成。规则是**分子用基数词表示，分母用序数词表示**. 读的顺序**先读分子，后读分母**.
 
-#### 3.1 当分子为 1 时，口语中用 "a" 代替 "one"，当分子大于 1 时，分母(序数词)要加 "s". 例如: 
+#### 3.1 当分子为 1 时 
+当分子为 1 时，口语中用 "a" 代替 "one"，当分子大于 1 时，分母(序数词)要加 "s". 例如: 
 
 | 1/3 | a/one third | 1/6 | a/one sixth `/sɪksθ/` |
 | :-- | :-- | :-- | :-- |
 | 3/8 | three eighths | 3/5 | three fifths |
 
 
-#### 3.2 如果一个分数有整数部分，整数和分数之间要加 and.
+#### 3.2 含有整数的分数 
+如果一个分数有整数部分，整数和分数之间要加 and.
 
 |  2$\frac{1}{2}$  | two and one second |
 | :-- | :-- |
 | 7$\frac{5}{8}$ | seven and five eighths  |
 
-#### 3.3 分母是 2，4 的分数还可以用下面的方式表示
+#### 3.3 分母为 2、4 的分数 
+分母是 2、4 的分数还可以用下面的方式表示
 
 |  1/2  | a/one half  |
 | :-- | :-- |
 |  1/4  | a/one quarter |
 |  3/4  | three quarters |
 
-#### 3.4 分数较大时，可以用 over 来表示.
+#### 3.4 较大分数 
+分数较大时，可以用 over 来表示.
 
 |  29/78    |  twenty-nine over seventy-eight  |
 | ---- | ---- |
-|  33/50    |  thiry-three over fifty  |
-|  232/503  |  two handred thrity-two over five hundred and three  |
+|  33/50    |  thirty-three over fifty  |
+|  232/503  |  two hundred thirty-two over five hundred and three  |
 
 
 ### 4. 小数和百分数
@@ -459,12 +462,12 @@
 |  1.37   |  one point three seven    |
 |  93.08  |   ninety-three point zero eight   |
 |  2.5    |   tow point five   |
-|  45.67  |   fourty-five point six seven   |
+|  45.67  |   forty-five point six seven   |
 
 #### 4.2 百分数
 **`％`符号读作 percent**
-- ten percent 10%
-- I am 100 **percent** in agreement. 我百分之百同意。
+- ten percent. (10%)
+- I am 100 **percent** in agreement.  我百分之百同意。
 - In our school forty-five **percent** of the pupils$\color{red}{^*}$ are boys. 我们学校 45% 的学生是男孩子。
 
 ### 5. 数词的实际应用
@@ -547,8 +550,8 @@ Additional Info: **年份**的补充讲解
 **(5)** 表示十年、 百年、千年的专用名词.
 - decade 十年 .
 - the last decade of the twentieth century 20 世纪的最后 10 年
-- century 百年 / 世^己
-- millennium 千年
+- century 百年 / 世纪
+- millennium `/mɪ'lenɪəm/` 千年
 - This temple was built in the 18$^{(th)}$ century. 这个寺庙建于 18 世纪。 
 
 
