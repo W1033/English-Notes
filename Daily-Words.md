@@ -61,13 +61,6 @@ Now I reach out everywhere for God till the day my hands touch him and tell him 
   
   And you're good, Tony. (而你是好人, 托尼.)
 
-## 示例格式
-#### 1. moral `/ˈmɒrəl $ ˈmɔː-/`
-##### 1.1 ●●○ `W2` **adjective**  
-###### (1) ``
--
-##### 1.2 `●○○` **verb**  
-
 
 
 
@@ -308,7 +301,6 @@ if a woman flutters her eyelashes`/ˈaɪlæʃ/`(n.睫毛) at a man, she looks at
 #### 1. dwelling `/ˈdwelɪŋ/` `noun [countable]` *formal*
 ##### 住宅，寓所，住处（a house, apartment etc where people live)
 - Those two men are dwelling with us. 那两个人跟我们住在一起。
-- Some
 
 ### 2021.07.13
 - I've learned that hardly anything is more important than my happiness.
