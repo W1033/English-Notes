@@ -1,6 +1,25 @@
 # English-Notes 英语笔记
 
 
+```css
+├── adj
+│   ├── 
+│   │   ├── 
+│   │   ├── 
+│   ├── 
+│   │   ├──  
+│   │   │  
+│
+├── verb[intransitive, transitive]
+│   ├── 
+│   │   ├── 
+│   │   ├── 
+│
+├── noun
+│   ├── 
+│   ├── 
+
+
 
 18$^{(th)}$
 
