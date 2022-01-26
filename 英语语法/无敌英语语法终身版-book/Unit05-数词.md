@@ -92,7 +92,7 @@
 │   │   │   a speed limit of 40 miles per hour. 每小时40英里的限速.
 │   ├── (2) 每(for each)
 │   │   ├── How much does it cost per kilo? 每公斤多少钱？
-│   │   ├── rooms costing £40(fourty pounds) per night. 每晚收费 40 英镑(pound)的房间.
+│   │   ├── rooms costing £40(forty pounds) per night. 每晚收费 40 英镑(pound)的房间.
 │   │   ├── Admission(`/əd'mɪʃ(ə)n/` -n.门票/入场费) is £9.95(nine points 
 │   │   │   ninety-five pounds) per adult. 成人门票每位 9.95 英镑.
 │   │   ├── The meal cost $25 **per head**(=for or by each person).
@@ -325,7 +325,7 @@
 - **thousands and thousands of** protesters 成千上万的抗议者
 
 **(3)** **单位数字的复数**形式还可以组合在一起使用，表示数量众多，成千上万。
-- **tens** of **thousnads**. 成千上万
+- **tens** of **thousands**. 成千上万
 - **hundreds** of **thousands**. 几十万，无数
 - **thousands** upon **thousands**. 数以万计
 
