@@ -554,10 +554,20 @@ Additional Info: **年份**的补充讲解
 - millennium `/mɪ'lenɪəm/` 千年
 - This temple was built in the 18$^{(th)}$ century. 这个寺庙建于 18 世纪。 
 
-
 #### 5.4 (表示)时钟
 
 #### 5.5 (表示)电话号码
+
+(a.) 按照顺序读
+
+(b.) 遇到相同的两位数或三位数时，可用 double 或 triple$\color{red}{^*}$, 如果末尾出现三个零，可以按 "千" 来发音。例如:
+
+| 22      | double two                 |
+| ------- | -------------------------- |
+| 666     | triple six                 |
+| 2682000 | two six eight two thousand |
+
+(c.) 0 可以读为 zero，也可以读成字母 O(ou) 或 nought.
 
 #### 5.6 (表示)数学运算
 
@@ -576,15 +586,6 @@ Additional Info: **年份**的补充讲解
 
 
 ##### (7) 电话号码
-(a.) 按照顺序读
-
-(b.) 遇到相同的两位数或三位数时，可用 double 或 triple$\color{red}{^*}$, 如果末尾出现三个零，可以按 "千" 来发音。例如:
-| 22 | double two |
-| --- | --- |
-| 666 | triple six |
-| 2682000 | two six eight two thousand |
-
-(c.) 0 可以读为 zero，也可以读成字母 O(ou) 或 nought.
 
 
 ##### (8) 度量或重量单位
