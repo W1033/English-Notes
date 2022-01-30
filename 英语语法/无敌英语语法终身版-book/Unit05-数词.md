@@ -607,7 +607,12 @@ Additional Info: **年份**的补充讲解
 - How much is seventy-two **divided** by three? (72 除以 3 等于多少)
 - Seventy-two **divided** by three **is(/gives)** twenty-four. (72 ÷ 3 = 24)
 
-#### 5.7 (表示)数字 + 表示时间、距离、重量或金钱的单位的名词
+#### 5.7 数字 + 表示 时间/距离/重量/金钱 单位的名词: 
+数字 + 表示 时间/距离/重量/金钱 单位的名词作主语时，谓语动词要用单数。
+- There is too much work to do. **Four days is** not enough. (要做的工作太多了。4 天时间不够。)
+- **One thousand miles is** a long distance. You can't cover it within a day. (一千英里是一段很长的距离。你一天走不完。)
+- 50kg: fifty kilograms.
+- **Five dollars was** a big sum of money for me at that time. (当时，5 美元对我来说是一大比钱。)
 
 
 
@@ -629,6 +634,4 @@ Additional Info: **年份**的补充讲解
 常见的度量单位如 100mph，在这里 `mph` 是缩写，全文是 **miles`/maɪl/` per$\color{red}{^*}$ hour**即每小时所运行英里，直接先读数值再把单位全称读出来即可，重量单位也是如此。例如：
 
 - 145mph: one hundred forty-five miles per hour
-- 50kg: fifty kilograms.
-
 ##### (9) 年份
