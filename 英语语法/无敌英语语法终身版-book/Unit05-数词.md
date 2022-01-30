@@ -584,6 +584,28 @@ Additional Info: **年份**的补充讲解
 (c.) 0 可以读为 zero，也可以读成字母 O(ou) 或 nought.
 
 #### 5.6 (表示)数学运算
+| 加   | plus / and      |
+| ---- | --------------- |
+| 减   | minus           |
+| 乘   | time / multiply |
+| 除   | divided         |
+
+**注意:** 使用 plus 做加法时, 谓语动词只用单数; 当用 and 时, 谓语动词用单、复数都可以.
+
+- How much is thirteen **plus(/and)** five? (13 加 5 等于多少?)
+- Thirteen **plus** five **is(/equals)** eighteen. (13 + 5 = 18)
+- Thirteen **and** five **is(/are/equal/equals/make/makes)** eighteen. (13 + 5 = 18)
+- 
+- How much is twenty **minus** twelve? (20 减 12 等于多少?)
+- Twenty **minus** twelve **leaves(/is)** eight.
+- 
+- How much is five **multiplied** by seven? (5 乘以 7 等于多少?)
+- How much is seven **times** five? (5 乘以 7 等于多少?)
+- Five **multiplied** by seven is thirty-five. (5 * 7 = 35)
+- Sven **times** five is thirty-five.
+- 
+- How much is seventy-two **divided** by three? (72 除以 3 等于多少)
+- Seventy-two **divided** by three **is(/gives)** twenty-four. (72 ÷ 3 = 24)
 
 #### 5.7 (表示)数字 + 表示时间、距离、重量或金钱的单位的名词
 
