@@ -8,7 +8,9 @@
 
 ## Content
 
-英语名词分为**可数**和**不可数**两大类, 这是中文里没有的概念. 可数名词复数形式的构成、可数名词和不可数名词的使用规则应作为本单元的重点. 
+英语名词分为**可数**和**不可数**两大类, 这是中文里没有的概念. 
+
+可数名词复数形式的构成 及 可数名词和不可数名词的使用规则，应作为本单元的重点. 
 
 ### 1. 名词的分类
 
@@ -207,19 +209,132 @@
 
 
 ### 2. 名词的数
-个体名词和集体名词是可数名词，有单数、复数之分。 一般情况下，可数名词词尾加 S 构成其复数形式。由于这是中文里没有的概念，在学习时需要特别注意。 
+个体名词和集体名词是可数名词，有单数、复数之分。 一般情况下，可数名词词尾加 S 构成其复数形式。由于这是中文里没有的概念，在学习时需要特别注意。
+
 #### 2.1 名词复数形式的构成 
 多数名词的复数形式是有规则的变化，即直接在词尾加 s，但有些名次的变化是不规则的，需要记清。
+
 ##### 2.1.1 有规则的变化
+<table>
+    <tr>
+        <th>情况</th>
+        <th>词尾变化</th>
+        <th>例词</th>
+    </tr>
+    <tr>
+        <td>多数名词</td>
+        <td>直接加 s</td>
+        <td>car--cars, student--students, plane--planes</td>
+    </tr>
+    <tr>
+        <td>以 s, x, ch, sh 结尾的单词</td>
+        <td>加 es</td>
+        <td>class--classes, box--boxes, watch--watches, brush-brushes, glass-glasses</td>
+    </tr>
+    <tr>
+        <td rowspan="3">以 o 结尾的单词</td>
+        <td>多数直接加 es</td>
+        <td>hero--heroes, Negro--Negroes, potato--potatoes, volcano/vɒl'keɪnəʊ/(火山)--volcanoes</td>
+    </tr>
+    <tr>
+        <td>词尾是两个元音的单词只加 s</td>
+        <td>bamboo--bamboos, radio--radios, zoo--zoos, video--videos, studio--studios</td>
+    </tr>
+    <tr>
+        <td>一些外来词只加 s</td>
+        <td>photo--photos, solo--solos, tobacco/tə'bækəʊ/-tobaccos, piano--pianos</td>
+    </tr>
+    <tr>
+        <td>辅音字母 + y 结尾的单词</td>
+        <td>先把 y 去掉, 再加 ies (或者说成: 变 y 为 i 加 es)</td>
+        <td>baby--babies, factory--factories, city--cities, lady--ladies, study--studies</td>
+    </tr>
+    <tr>
+        <td>元音字母 + y 结尾的单词</td>
+        <td>直接加 s</td>
+        <td>boys--boys, play--plays, day--days, toy--toys, way--ways</td>
+    </tr>
+    <tr>
+        <td rowspan="3">以 f 或 fe 结尾的单词</td>
+        <td>将 f 或 fe 改为 ves</td>
+        <td>shelf--shelves, life--lives, leaf--leaves</td>
+    </tr>
+    <tr>
+        <td>有几个单词直接在词尾加 s</td>
+        <td>roof--roofs, chief--chiefs, gulf/gʌlf/(noun.海湾)--gulf, belief--beliefs, safe--safes</td>
+    </tr>
+    <tr>
+        <td>个别单词有两种复数形式</td>
+        <td>handkerchief/'hæŋkətʃɪf/(手帕)--hand</td>
+    </tr>
+</table>
 
 ##### 2.1.2 不规则变化
 **(1) 改变元音字母** 
+
+| man --> men 男人             | goose --> geese 鹅          |
+| ---------------------------- | --------------------------- |
+| policeman --> policemen 警察 | tooth --> teeth 牙齿        |
+| foot --> feet 足             | mouse --> mice`/maɪs/` 老鼠 |
+
 **(2) 词尾 + en(只有 2 个单词)** 
+
+- child --> children 孩子 （注: 这里明明加的是 ren.） 
+- ox --> oxen 公牛 
+
 **(3) 有些名词单复数相同** 
-**(4) 表示民族的名词、单、复数形式没有一个统一的规律，应逐一记忆。** 
+
+| an/two aircraft  一艘/两艘飞船 | a/many sheep  一只/许多羊 |
+| ------------------------------ | ------------------------- |
+| a/three deer  一头/三头鹿      | a/two fish  一条/两条鱼   |
+
+单复数相同的名词作句子主语时，其谓语动词要根据实际情况选用。如:
+- There **is a sheep** over there. (那边有一只绵羊.)
+- There **are many sheep** over there. (那边有很多绵羊.)
+
+**(4)表示民族的名词、单、复数形式没有一个统一的规律，应逐一记忆。** 
+
+|      单复数形式形同       |          词尾 + s           |          变 man 为 men          |
+| :-----------------------: | :-------------------------: | :-----------------------------: |
+| a Chinese / five Chinese  | an American / two Americans |   a Frenchman / six Frenchmen   |
+| a Japanese / ten Japanese |  a German / three Germans   | an Englishman / four Englishmen |
+|   a Swiss / some Swiss    |  a Russian / four Russians  |                                 |
+|                           | an Italian / some Italians  |                                 |
+
 **(5) 有些名词只有复数形式，特别是由 2 部分构成的物体。** 
+
+| clothes 衣服              | scissors`/ˈsɪzəz/` n.剪刀 | glasses`/'glɑ:siz/` 眼镜   |
+| :------------------------ | ---------------------- | ------------------------- |
+| pants`/pænts/` n.(长)裤子 | shorts 短裤            | trousers `/ˈtraʊzəz/` n.裤子 |
+
+1. **a pair of scissors** 一把剪刀
+---
+1. I need a new **pair of glasses**. 我需要一副新眼镜.
+1. He was clean-shaven(`/'ʃeɪvn/` adj.剃光毛发的) and **wore glasses**. 他胡子刮得很干净, 戴着一副眼镜.
+    + wore`/wɔː(r)/` -- wear(`/weə/` -vt.(1)穿(衣服、鞋子等); 戴(首饰)) 的过去式
+---
+1. She was wearing dark blue **pants** and a white sweater. 她穿着深蓝色长裤和白色毛衣.
+---
+1. His **trousers** were slightly too short. 他的裤子有点短.
+1. I need a new **pair of trousers** for work. 我需要一条上班穿的新裤子.
+1. The tickets are in my **trouser(adj [only before noun])** pocket. 票在我的裤子口袋里.
+
 **(6) 有些词尾为 s 的名词实际上是 `单数名词本身的词尾`，而不是复数名词的词尾。这类词多为一些 `学科的名称`，不要误以为是复数名词**
+
+| news 新闻                          | mathematics`/mæθ(ə)'mætɪks/` n.数学; 数学运算  | physics 物理学  |
+| :--------------------------------- | :------------------------------------ | :---------------- |
+| plastics 整形外科                  | politics 政治                         | statistics 统计学 |
+| linguistics`/lɪŋ'gwɪstɪks/` 语言学 | electronics` /ɪˌlekˈtrɒnɪks,/` 电子学; 电子设备 |            |
+
+**mathematics 翻译为 `数学` 时后接单数动词; mathematics 翻译为 `数学运算` 时, 可接单数或复数动词.**
+1. **Mathematics is** her best subject at school. 数学是她在学校最擅长的学科.
+1. 
+--- 
+1. **an electronics engineer** 电子工程师
+1. the market for consumer **electronics**. 电子设备消费品市场.
+
 **(7) 有些词尾为 s 的名词是单复数同形。** 
+
 **(8) 复合名词变复数的方式: 两个或多个单词组合成的名词，称为复合名词。** 
 复合名词变复数的形式之一: s 要加在中心词(即具有关键意义的词)后，中心词有可能是第一部分，也有可能是后面的部分。 
 - **son**-in-law --> **sons**-in-law

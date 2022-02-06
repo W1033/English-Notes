@@ -21,23 +21,26 @@
 ##### 4. 宾语
 指动作的对象或动作的承受者，一般由名词、代词或起名词作用的词、短语和从句来担当。及物动词后面都跟有一个宾语。有些动词后可以接双宾语，即：直接宾语和间接宾语。有些动词后可以接复合宾语，即：宾语和宾语补足语。
 
+`Question: 如何区分双宾语和复合宾语？`
+
 **(1) 宾语表示动作的承受者、动作的对象或结果.**
+
 - (1) He made **a bookshelf** himself.（他自己做了一个书架。）名词作宾语
 - (2) I want **to have a cup of coffee.** （我想要杯咖啡。）不定式作宾语
 - (3) Stop **talking**, please.（请不要说话。）动名词作宾语
 - (4) I want to know **who he is**.（我想知道他是谁。）从句作宾语
 
-**(2) 在双宾语结构中，人是间接宾语，事或物是直接宾语。间接宾语表示动 作是为谁做的或对谁做的。间接宾语（动词所指向的人）可以放在直接宾 语之前或之后。如果直接宾语放在间接宾语之前，则由介词to, for等引出 间接宾语。经常需要带双宾语的动词有:**
+**(2) 在双宾语结构中，人是间接宾语，事或物是直接宾语。间接宾语表示动作是为谁做的或对谁做的。间接宾语（动词所指向的人）可以放在直接宾语之前或之后。如果直接宾语放在间接宾语之前，则由介词to, for等引出间接宾语。经常需要带双宾语的动词有:**
 
-- | allow | bring |  buy |
-  | ---- | ---- | ---- |
-  | fetch | find  |  get  |
-  | give  | leave |  make |
-  | offer | order |  pass |
-  | pay | refuse | return |
-  | save | send | show  |
-  | tell | write |   |
-  
+| allow | bring |  buy |
+| ---- | ---- | ---- |
+| fetch | find  |  get  |
+| give  | leave |  make |
+| offer | order |  pass |
+| pay | refuse | return |
+| save | send | show  |
+| tell | write |   |
+
 - (1) He bought **her** *a birthday present*. **间接宾语**  *直接宾语*
 - (1.1) He bought **a birthday present** for *her*. **直接宾语**  *间接宾语*
   (他给她买了一件生日礼物。)
