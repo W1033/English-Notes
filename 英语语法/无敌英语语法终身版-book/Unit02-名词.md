@@ -4,6 +4,32 @@
 
 ## New Words
 
+> 全文提示：单词右上角红色的星号($\color{red}{^*}$)代表为生词.
+
+### series /'sɪəriːz/ 
+```css
+├── noun (plural series)
+│   ├── (1) **series of something** 连续发生的同类事件; 一系列[连串]事件
+│   │   ├── the series of events that led to the outbreak of war. 导致战争爆发的一系列事件.
+│   │   ├── The police are investigating a series of attacks in the area. 
+│   │   │   警方在调查该地区发生的一连串袭击事件.
+│   │   ├── There's been a whole series of accidents on this road.
+│   │   │   这条路上发生了一连串的交通事故.
+│   ├── (2) (有计划的)系列(事件)
+│   │   ├── Staff will hold a series of meetings over the next few weeks. 
+│   │   │   接下来的几周里, 员工将召开一系列会议.
+│   ├── (3) (电视、广播等的)系列片, 系列节目
+│   │   ├── a new comedy/'kɒmɪdɪ/(n.喜剧;喜剧片,喜剧节目) series. 新的喜剧系列节目.
+│   ├── (4) (书、文章等的)系列 [series of]
+│   │   ├── a series of articles on community care. 有关社区关怀的一系列文章.
+│   │   ├── a science fiction/ˈfɪkʃən/(n.小说;虚构的事) series. 科幻小说系列
+│   ├── (5) (同类事物的)一系列, 一连串 [series of]
+│   │   ├── a series of laws against discrimination. 反对歧视的一系列法规.
+│   │   ├── The area/'ɛrɪə/ is linked by a series of canals(/kəˈnæl/ n.运河).
+│   │   │   这一地区由几条运河连接起来.
+```
+
+
 
 
 ## Content
@@ -269,11 +295,13 @@
     </tr>
 </table>
 
+
 ##### 2.1.2 不规则变化
+
 **(1) 改变元音字母** 
 
-| man --> men 男人             | goose --> geese 鹅          |
-| ---------------------------- | --------------------------- |
+| man --> men 男人             | goose`/guːs/` --> geese`/ɡiːs/` 鹅   |
+| --------------------------- | --------------------------- |
 | policeman --> policemen 警察 | tooth --> teeth 牙齿        |
 | foot --> feet 足             | mouse --> mice`/maɪs/` 老鼠 |
 
@@ -308,13 +336,19 @@
 | pants`/pænts/` n.(长)裤子 | shorts 短裤            | trousers `/ˈtraʊzəz/` n.裤子 |
 
 1. **a pair of scissors** 一把剪刀
----
+
+<p style="color:gray; text-indent: 12px;">--------- --------- --------- </p>
+
 1. I need a new **pair of glasses**. 我需要一副新眼镜.
 1. He was clean-shaven(`/'ʃeɪvn/` adj.剃光毛发的) and **wore glasses**. 他胡子刮得很干净, 戴着一副眼镜.
     + wore`/wɔː(r)/` -- wear(`/weə/` -vt.(1)穿(衣服、鞋子等); 戴(首饰)) 的过去式
----
+
+<p style="color:gray; text-indent: 12px;">--------- --------- --------- </p>
+
 1. She was wearing dark blue **pants** and a white sweater. 她穿着深蓝色长裤和白色毛衣.
----
+
+<p style="color:gray; text-indent: 12px;">--------- --------- --------- </p>
+
 1. His **trousers** were slightly too short. 他的裤子有点短.
 1. I need a new **pair of trousers** for work. 我需要一条上班穿的新裤子.
 1. The tickets are in my **trouser(adj [only before noun])** pocket. 票在我的裤子口袋里.
@@ -323,29 +357,74 @@
 
 | news 新闻                          | mathematics`/mæθ(ə)'mætɪks/` n.数学; 数学运算  | physics 物理学  |
 | :--------------------------------- | :------------------------------------ | :---------------- |
-| plastics 整形外科                  | politics 政治                         | statistics 统计学 |
+| plastics 整形外科                  | politics 政治                         | statistics`/stə'tɪstɪks/` 统计学 |
 | linguistics`/lɪŋ'gwɪstɪks/` 语言学 | electronics` /ɪˌlekˈtrɒnɪks,/` 电子学; 电子设备 |            |
 
 **mathematics 翻译为 `数学` 时后接单数动词; mathematics 翻译为 `数学运算` 时, 可接单数或复数动词.**
+
 1. **Mathematics is** her best subject at school. 数学是她在学校最擅长的学科.
-1. 
---- 
-1. **an electronics engineer** 电子工程师
+1. The **Mathematics** of the project **is/are** very complicated. 该项目中的数学运算十分复杂.
+
+<p style="color:gray; text-indent: 12px;">--------- --------- --------- </p>
+
+1. **an electronics engineer`/endʒɪ'nɪə/`** 电子工程师
 1. the market for consumer **electronics**. 电子设备消费品市场.
 
 **(7) 有些词尾为 s 的名词是单复数同形。** 
 
-**(8) 复合名词变复数的方式: 两个或多个单词组合成的名词，称为复合名词。** 
-复合名词变复数的形式之一: s 要加在中心词(即具有关键意义的词)后，中心词有可能是第一部分，也有可能是后面的部分。 
-- **son**-in-law --> **sons**-in-law
-- boy**friend** --> boy**friends**
+| series`/'sɪəriːz/`$\color{red}{^*}$ 系列 | means 手段 | species 种类 |
+| ----------------------- | ---------- | ------------ |
+| headquarters`/ˈhedˌkwɔːtəz/` 总部       | works 工厂 |              |
 
- **复合名词变复数的形式之二**: 由 man 和 woman 构成的复合名词，各部分都变成复数形式。
+**(8) 复合名词变复数的方式: 两个或多个单词组合成的名词，称为复合名词。** 
+
+复合名词变复数的形式之一: **s 要加在中心词(即具有关键意义的词)后**，中心词有可能是第一部分，也有可能是后面的部分。 
+
+| **son**-in-law | **sons**-in-law  (女婿) |
+| ----------------- | ------------------- |
+| boy**friend**  | boy**friends**   (男朋友) |
+| **passer**-by  | **passers**-by   (过)路人 |
+| tooth**brush**`/'tuːθbrʌʃ/` | tooth**brushes** (牙刷) |
+| **looker**-on  | **lookers**-on   旁观者; 观看者 |
+| book**store**  | book**stores** 书店 |
+
++ Looker-on see most of the game. (谚)旁观者清
+
+复合名词变复数的形式之二: 由 man 和 woman 构成的复合名词，各部分都变成复数形式。
+
+| man teacher | man teachers |
+| ----------- | ------------ |
+| woman worker | women workers |
 
 **(9) 外来名词的复数，因其来源不同(如来自拉丁语、希腊语、法语等)变化也不同。**
 
+- formula`/'fɔːmjʊlə/` --> formulae`/'fɔrmjəli/` 公式
+
+- appendix`/ə'pendɪks/` --> appendices 目录
+
+- medium --> media 媒介
+
+- diagnosis`/ˌdaɪəg'nəʊsɪs/` --> diagnoses`/ˌdaiəɡ'nəusi:z/` 诊断
+
+- symposium--> symposia 研讨会 
+
+- criterion`/kraɪ'tɪərɪən/` -->criteria  `/kraɪ'tɪrɪə/` 标准 
+
+
 #### 2.2 集体名词的复数
 ##### 2.2.1 通常用作复数的集体名词
+- cattle `/'kæt(ə)l/`牛，家畜
+- police 警察
+- people 人民
+- militia `/mɪ'lɪʃə/`民兵
+- poultry `/'pəʊltrɪ/`家禽
+- clergy  `/'klɜːdʒɪ/`僧侣，神职人员
+(1)这些名词做主语时,谓语动词要用复数形式.
+- There are herd of cattle on the hillside. (山坡上有一群牛)
+- The police are searching that house in order to catch the criminal. (警察正在搜查那座房子以便抓到罪犯)
+(2)people表示不同种族,国家的人民时,要用peoples.
+- the chinese people. (中国人，中华民族)
+- Peoples from all over the world. (来自世界各国的人民)
 ##### 2.2.2 有些集体名词，表示整体时用单数，表示组成该整体的各个成员时用复数。
 **audience, class, group, couple, crew, family, government, management, public** 等...
 - My family **is** a big one. (我家是个大家庭。)
@@ -354,10 +433,34 @@
 #### 2.3 不可数名词
 物质名词和抽象名词是不可数名词，它们一般没有复数形式，如：
 
+- air 空气
+- water 勇气
+- rice 米饭
+- courage 勇气
+- mews 新闻
+- luck 幸运
+- theory 勇气
+- milk 牛奶
+- information 信息
+
 但需要注意下面 3 种情况
 ##### (1) 有些物质名词有时可用复数形式，表示不同种类，或表示数量之多。
+- fruit 水果--> fruits 各种水果
+- tea 茶--> teas 各种茶叶
+- fish 鱼--> fishes 各种鱼
+- Mineral oils are very important in industry. (矿物油在工业领域很重要)
+    + 矿物油有很多种,如汽油,柴油,煤油等
+- this kind of fish can be found in almost all fresh waters. (这种与几乎可以在各种淡水中找到)
+    + all fish water 指江,河,湖泊等
+
 ##### (2) 有些抽象名词在表示一些比较具体的东西时，可作为可数名词，用复数形式。
-##### (3) 
+- The school football team has had four victories this season. (校足球队在这个赛季已经取得了四场胜利)
+- They had two discussions about this problem. (他们就这个问题已经进行了两次讨论)
+- She was a beauty in her youth. (他年轻时是个美人)
+
+##### (3) 有些物质可用作复数,表示"一份" "一杯" "一种".
+- A black tea with milk,please. (请来一杯加牛奶的红茶)
+- Four beers,please. (请来四杯啤酒,谢谢)
 
 #### 2.4 名词使用时应注意的事项
 
