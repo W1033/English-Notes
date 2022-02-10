@@ -29,6 +29,39 @@
 │   │   │   这一地区由几条运河连接起来.
 ```
 
+### medium `/'miːdɪəm/`
+```css
+├── adj (adjective)
+│   ├── (1) (大小、水平或数量)中等的；中号的 (of middle size, level, or amount)
+│   │   ├── What size shirt does he wear - small, medium or large?
+│   │   │   他穿多大尺码的衬衫 - 小号、中号还是大号？
+│   │   ├── **(of) medium height/length/build**
+│   │   │   ├── She is of medium height. 她中等身材。
+│   │   │   ├── You can say they are of average height, they are of medium
+│   │   │   │   height. 你可以说他们是普通身高，他们是中等身高。
+│   │   │   ├── hair of medium length. 中等长短的头发。
+│   │   │   ├── Fry the onions/'ʌnjən/ over a **medium heat** until they are golden.
+│   │   │   │   用中火把洋葱炸到金黄色。
+│   ├── ► Use average(adj.平均(数)的; [数量]中等的，适中的), not 'medium', when you
+│   │    want to say that someone’s level of skill or ability is neither 
+│   │    high nor low. 当想表达某人的技能或能力不高也不低时用 average, 不用 medium. 
+│   │   ├── students of average ability (NOT students of medium ability) 能力一般的学生。
+│   ├── （2）略
+│   ├── （3）略
+│   ├── （4）略
+│
+├── noun (plural media/'miːdɪə/ or mediums) [countable] 
+│   ├── (1) 传播媒介〔如报纸﹑电视等〕
+│   │   ├── Advertising is a powerful medium. 广告是具有强大影响力的传播媒介。
+│   ├── (2) 略
+│   ├── (3) 略
+│   ├── (4) 略
+│   ├── (5) 略
+│   ├── (6) 略
+```
+
+
+
 
 
 
@@ -44,35 +77,20 @@
 
 #### 1.1 专有名词：
 专有名词是**个人**、**机构**、**地方**、**组织**等专用的名称. 
-<table style="display:table-cell">
-    <tr>
-        <td>Beijing 北京</td>
-        <td>New York 纽约</td>
-        <td>WHO 世界卫生组织</td>
-    </tr>
-    <tr>
-        <td>the Summer Palace 颐和园</td>
-        <td>the National Library 国家图书馆</td>
-        <td>Tom 汤姆</td>
-    </tr>
-</table>
+
+| Beijing 北京 | New York 纽约 | WHO 世界卫生组织  |
+| ----------------- | ----------------- | --------------- |
+| the Summer Palace 颐和园 | the National Library 国家图书馆 | Tom 汤姆  |
 
 使用专有名词时必须注意：
 
-#### 1.1.1 专有名词的第一个字母必须大写.
+##### 1.1.1 专有名词的第一个字母必须大写.
 
-#### 1.1.2 一个专有名词前不加定冠词 the. 如:
-<table style="display:table-cell">
-    <tr>
-        <td>China</td>
-        <td>Jack</td>
-        <td>Africa</td>
-        <td>France</td>
-        <td>Asia</td>
-    </tr>
-</table>
+##### 1.1.2 一个专有名词前不加定冠词 the. 如:
+| China | Jack | Africa | France | Asia |
+| --- | --- | --- | --- | --- |
 
-#### 1.1.3 由几个普通单词构成的专有名词前要加定冠词 the (但是 the 不大写).
+##### 1.1.3 由几个普通单词构成的专有名词前要加定冠词 the (但是 the 不大写).
 - **the** People’s Republic of China 中华人民共和国
 - **the** United Nations 联合国
 - **the** Great Wall 长城
@@ -87,22 +105,12 @@
 其中, 个体名词和集体名词属于**可数名词**；物质名词和抽象名词属于**不可数名词**. 
 
 ##### 1.2.1 个体名词：表示某一类人或物的个体.
-<table style="display:table-cell">
-    <tr>
-        <td>boy - 男孩子</td>
-        <td>radio - 收音机</td>
-        <td>farmer - 农民</td>
-        <td>pilot<code>/ˈpaɪlət/</code> - 飞行员</td>
-        <td>house<code>/haʊs/</code> - 房子</td>
-    </tr>
-    <tr>
-        <td>desk - 书桌</td>
-        <td>city - 城市</td>
-        <td>lake - 胡泊</td>
-        <td>tree - 树</td>
-        <td>astronaut<code>/ˈæstrənɔːt/</code> - 宇航员</td>
-    </tr>
-</table>
+
+| boy - 男孩子 | radio - 收音机  | farmer - 农民  |
+| --------- | --------- | --------- |
+| pilot`/ˈpaɪlət/` - 飞行员 | house`/haʊs/` - 房子  | desk - 书桌 |
+| city - 城市  | lake - 胡泊  | tree - 树  |
+| astronaut`/ˈæstrənɔːt/` - 宇航员  | | |
 
 **注意:** 个体名词是可数名词, 有单、复数之分. 例如:(额外补充, 非书本内容)
 - many boys. 许多男孩子
@@ -120,118 +128,47 @@
               森林里有许许多多的鹿, 鸟和松鼠.
 
 ##### 1.2.2 集体名词: 表示由若干个个体组成的集合体.
-<table style="display:table-cell">
-    <tr>
-        <td>audience - 观众</td>
-        <td>police - 警察</td>    
-    </tr>
-    <tr>
-        <td>team - 队, 组</td>
-        <td>family - 家庭</td>
-    </tr>
-    <tr>
-        <td>group - 组, 团体</td>
-        <td>people - 人民</td>
-    </tr>
-    <tr>
-        <td>cattle - 牛群</td>
-        <td>committee<code>/kəˈmɪti/</code> - 委员会</td>
-    </tr>
-    <tr>
-        <td>data - 数据</td>
-        <td>staff - 全体员工</td>  
-    </tr>
-    <tr>
-        <td>crew<code>/kruː/</code> - 船员</td>    
-        <td>jury<code>/ˈdʒʊri/</code> - 陪审团</td>     
-    </tr>
-    <tr>
-        <td>public - 公众</td>
-        <td>army - 军队</td>     
-    </tr>
-</table>
+
+| audience - 观众 | police - 警察 |
+| --------- | --------- |
+| team - 队, 组 | family - 家庭 |
+| group - 组, 团体 | people - 人民 |
+| cattle - 牛群 | committee`/kəˈmɪti/` - 委员会 |
+| data - 数据 |  staff - 全体员工 |  
+| crew`/kruː/` - 船员 | jury`/ˈdʒʊri/` - 陪审团 |    
+| public - 公众 | army - 军队 |
 
 **注意:** 集体名词是可数名词, 多以单数形式出现, 在句子中既可以表示单数, 也可以表示复数。在使用时, 要根据句子的具体意思, 判断它是单数还是复数.
 
 ##### 1.2.3 物质名词: 表示无法分为个体的物质.
 
-<table style="display:table-cell">
-    <tr>
-        <td>air - 空气</td>
-        <td>water - 水</td>
-        <td>tea - 茶</td>
-        <td>iron - 铁</td>
-    </tr>
-    <tr>
-        <td>wood - 木材</td>
-        <td>cloth - 布</td>
-        <td>ice - 冰</td>
-        <td>cheese  - 奶酪</td>
-    </tr>
-    <tr>
-        <td>coal - 煤</td>
-        <td>cotton - 棉花</td>
-        <td>ink - 墨水</td>
-        <td>oil - 油</td>
-    </tr>
-</table>
+| air - 空气 | water - 水 | tea - 茶 | iron - 铁 |
+| --------- | --------- | --------- | --------- |
+| wood - 木材 | cloth - 布 |ice - 冰 | cheese  - 奶酪 |
+| coal - 煤 | cotton - 棉花 | ink - 墨水 | oil - 油 |
+
 
 ##### 1.2.4 抽象名词: 表示性质, 行为, 状态, 感情等抽象概念.
-<table style="display:table-cell">
-    <tr>
-        <td>love - 爱</td>
-        <td>interest<code>/ˈɪntrɪst/</code> - 兴趣</td>
-        <td>music - 音乐</td>
-        <td>difficulty - 困难</td>
-    </tr>
-    <tr>
-        <td>idea - 思想</td>
-        <td>youth - 青春</td>
-        <td>ambition - 雄心</td>
-        <td>relation - 关系</td>
-    </tr>
-    <tr>
-        <td>beauty - 漂亮</td>
-        <td>hatred<code>`/ˈheɪtrɪd/`</code> - 憎恨</td>
-        <td></td>
-        <td></td>
-    </tr>
-</table>
+| love - 爱  | interest`/ˈɪntrɪst/` - 兴趣 | music - 音乐 | 
+| --------- | --------- | --------- | 
+| difficulty - 困难 | idea - 思想 | youth - 青春 | 
+| ambition - 雄心 | relation - 关系 | beauty - 漂亮 | 
+| hatred`/ˈheɪtrɪd/` - 憎恨 |  |  |
 
 物质名词和抽象名词属于不可数名词, 一般只有单数形式. 其中有些名词有复数形式,但词义已经发生了变化. 如:
 
-<table style="display:table-cell">
-    <tr>
-        <td>water 水 -- waters 领海, 水域</td>
-        <td>wood 木材 -- woods 森林</td>
-    </tr>
-    <tr>
-        <td>work 工作 -- works 作品</td>
-        <td>paper 纸 -- paper 报纸, 文集, 论文</td>
-    </tr>
-    <tr>
-        <td>custom 风俗习惯 -- customs 海关</td>
-        <td>clothe 布 -- clothes 衣服</td>
-    </tr>
-    <tr>
-        <td>force 武力 -- forces 军队</td>
-        <td>good 益处 -- goods 货物</td>
-    </tr>
-    <tr>
-        <td>manner 态度 -- manners 礼貌</td>
-        <td></td>
-    </tr>
-</table>
+| water 水 -- waters 领海, 水域 | wood 木材 -- woods 森林 | 
+| --------- | --------- |
+| work 工作 -- works 作品 | paper 纸 -- paper 报纸, 文集, 论文 | 
+| custom 风俗习惯 -- customs 海关 | clothe 布 -- clothes 衣服 | 
+| force 武力 -- forces 军队 | good 益处 -- goods 货物 | 
+| manner 态度 -- manners 礼貌 | |
 
-**注意:** 中文里有些事物是可数的, 但是相应的英文单词却属于不可数名词的范畴, 需加以注意. 如:
-<table style="display:table-cell">
-    <tr><td>advice<code>/ədˈvaɪs/</code> - 建议</td><tr>
-    <tr><td>chalk - 粉笔</td><tr>
-    <tr><td>equipment - 设备</td><tr>
-    <tr><td>furniture - 家具</td><tr>
-    <tr><td>information - 信息</td><tr>
-</table>
 
+**注意:** 中文里有些事物是可数的, 但是相应的英文单词却属于不可数名词的范畴, 需加以注意. 如
+| advice<code>/ədˈvaɪs/</code> - 建议 | chalk - 粉笔 | equipment - 设备 |
+| ----------------- | ----------------- | --------------- |
+| furniture - 家具 | information - 信息 | |
 
 
 ### 2. 名词的数
@@ -337,17 +274,14 @@
 
 1. **a pair of scissors** 一把剪刀
 
-<p style="color:gray; text-indent: 12px;">--------- --------- --------- </p>
 
 1. I need a new **pair of glasses**. 我需要一副新眼镜.
 1. He was clean-shaven(`/'ʃeɪvn/` adj.剃光毛发的) and **wore glasses**. 他胡子刮得很干净, 戴着一副眼镜.
     + wore`/wɔː(r)/` -- wear(`/weə/` -vt.(1)穿(衣服、鞋子等); 戴(首饰)) 的过去式
 
-<p style="color:gray; text-indent: 12px;">--------- --------- --------- </p>
 
 1. She was wearing dark blue **pants** and a white sweater. 她穿着深蓝色长裤和白色毛衣.
 
-<p style="color:gray; text-indent: 12px;">--------- --------- --------- </p>
 
 1. His **trousers** were slightly too short. 他的裤子有点短.
 1. I need a new **pair of trousers** for work. 我需要一条上班穿的新裤子.
@@ -355,17 +289,17 @@
 
 **(6) 有些词尾为 s 的名词实际上是 `单数名词本身的词尾`，而不是复数名词的词尾。这类词多为一些 `学科的名称`，不要误以为是复数名词**
 
-| news 新闻                          | mathematics`/mæθ(ə)'mætɪks/` n.数学; 数学运算  | physics 物理学  |
-| :--------------------------------- | :------------------------------------ | :---------------- |
-| plastics 整形外科                  | politics 政治                         | statistics`/stə'tɪstɪks/` 统计学 |
-| linguistics`/lɪŋ'gwɪstɪks/` 语言学 | electronics` /ɪˌlekˈtrɒnɪks,/` 电子学; 电子设备 |            |
+| news 新闻     | mathematics`/mæθ(ə)'mætɪks/` n.数学; 数学运算  | 
+| :-------------- | :------------------------------------ | 
+| physics 物理学  |  plastics 整形外科                  | 
+| politics 政治                         | statistics`/stə'tɪstɪks/` 统计学 |
+| linguistics`/lɪŋ'gwɪstɪks/` 语言学 | electronics` /ɪˌlekˈtrɒnɪks,/` 电子学; 电子设备 |
 
 **mathematics 翻译为 `数学` 时后接单数动词; mathematics 翻译为 `数学运算` 时, 可接单数或复数动词.**
 
 1. **Mathematics is** her best subject at school. 数学是她在学校最擅长的学科.
 1. The **Mathematics** of the project **is/are** very complicated. 该项目中的数学运算十分复杂.
 
-<p style="color:gray; text-indent: 12px;">--------- --------- --------- </p>
 
 1. **an electronics engineer`/endʒɪ'nɪə/`** 电子工程师
 1. the market for consumer **electronics**. 电子设备消费品市场.
@@ -392,33 +326,29 @@
 
 复合名词变复数的形式之二: 由 man 和 woman 构成的复合名词，各部分都变成复数形式。
 
-| man teacher | man teachers |
+| man teacher | men teachers |
 | ----------- | ------------ |
 | woman worker | women workers |
 
 **(9) 外来名词的复数，因其来源不同(如来自拉丁语、希腊语、法语等)变化也不同。**
 
-- formula`/'fɔːmjʊlə/` --> formulae`/'fɔrmjəli/` 公式
-
-- appendix`/ə'pendɪks/` --> appendices 目录
-
-- medium --> media 媒介
-
-- diagnosis`/ˌdaɪəg'nəʊsɪs/` --> diagnoses`/ˌdaiəɡ'nəusi:z/` 诊断
-
-- symposium--> symposia 研讨会 
-
-- criterion`/kraɪ'tɪərɪən/` -->criteria  `/kraɪ'tɪrɪə/` 标准 
-
+| formula`/'fɔːmjʊlə/`  |  formulae`/'fɔrmjəli/` 公式 |
+| --------------------  | ---------------------      |
+| appendix`/ə'pendɪks/` |   appendices 目录           |
+| medium`/'miːdɪəm/`$\color{red}{^*}$ |   media 媒介    |
+| diagnosis`/ˌdaɪəg'nəʊsɪs/`|  diagnoses`/ˌdaiəɡ'nəusi:z/` 诊断 |
+| symposium`/sɪm'pəʊzɪəm/`  |   symposia`/sɪm'pozɪə/` 研讨会  |
+| criterion`/kraɪ'tɪərɪən/`| criteria  `/kraɪ'tɪrɪə/` 标准  |
 
 #### 2.2 集体名词的复数
+
 ##### 2.2.1 通常用作复数的集体名词
-- cattle `/'kæt(ə)l/`牛，家畜
-- police 警察
-- people 人民
-- militia `/mɪ'lɪʃə/`民兵
-- poultry `/'pəʊltrɪ/`家禽
-- clergy  `/'klɜːdʒɪ/`僧侣，神职人员
+
+| cattle `/'kæt(ə)l/`牛，家畜  | police 警察 |
+| ----------- | ------------ |
+| people 人民  | militia `/mɪ'lɪʃə/` 民兵 |
+ | poultry`/'pəʊltrɪ/` 家禽  | clergy`/'klɜːdʒɪ/` 僧侣，神职人员 |
+
 (1)这些名词做主语时,谓语动词要用复数形式.
 - There are herd of cattle on the hillside. (山坡上有一群牛)
 - The police are searching that house in order to catch the criminal. (警察正在搜查那座房子以便抓到罪犯)
@@ -432,36 +362,32 @@
 
 #### 2.3 不可数名词
 物质名词和抽象名词是不可数名词，它们一般没有复数形式，如：
-
-- air 空气
-- water 勇气
-- rice 米饭
-- courage 勇气
-- mews 新闻
-- luck 幸运
-- theory 勇气
-- milk 牛奶
-- information 信息
+| air 空气 | water 勇气 | rice 米饭 | 
+| ------ | ------ | ------ |
+| courage 勇气 | mews 新闻 | luck 幸运 |
+| theory 勇气 | milk 牛奶 | information 信息 |
 
 但需要注意下面 3 种情况
+
 ##### (1) 有些物质名词有时可用复数形式，表示不同种类，或表示数量之多。
-- fruit 水果--> fruits 各种水果
-- tea 茶--> teas 各种茶叶
-- fish 鱼--> fishes 各种鱼
-- Mineral oils are very important in industry. (矿物油在工业领域很重要)
+
+| fruit 水果--> fruits 各种水果 | tea 茶--> teas 各种茶叶 | fish 鱼--> fishes 各种鱼 |
+| ------ | ------ | ------ |
+
+- **Mineral`/'mɪn(ə)r(ə)l/`(n.矿物，矿产) oils** are very important in industry. (矿物油在工业领域很重要)
     + 矿物油有很多种,如汽油,柴油,煤油等
-- this kind of fish can be found in almost all fresh waters. (这种与几乎可以在各种淡水中找到)
-    + all fish water 指江,河,湖泊等
+- This kind of fish can be found in almost all fresh **waters**. (这种与几乎可以在各种淡水中找到)
+    + all fish waters 指江,河,湖泊等
 
 ##### (2) 有些抽象名词在表示一些比较具体的东西时，可作为可数名词，用复数形式。
-- The school football team has had four victories this season. (校足球队在这个赛季已经取得了四场胜利)
-- They had two discussions about this problem. (他们就这个问题已经进行了两次讨论)
-- She was a beauty in her youth. (他年轻时是个美人)
+- The school football team has had **four victories** this season. (校足球队在这个赛季已经取得了四场胜利)
+- They had **two discussions** about this problem. (他们就这个问题已经进行了两次讨论)
+- She was a **beauty** in her youth`/juːθ/`. (他年轻时是个美人)
 
-##### (3) 有些物质可用作复数,表示"一份" "一杯" "一种".
-- A black tea with milk,please. (请来一杯加牛奶的红茶)
-- Four beers,please. (请来四杯啤酒,谢谢)
-
+##### (3) 有些物质可用作复数, 表示 "一份", "一杯", "一种".
+- **A black tea** with milk, please. (请来一杯加牛奶的红茶)
+    + 注意：红茶是 black tea. 
+- Four beers, please. (请来四杯啤酒,谢谢)
 #### 2.4 名词使用时应注意的事项
 
 
