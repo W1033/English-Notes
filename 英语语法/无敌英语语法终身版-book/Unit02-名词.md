@@ -91,9 +91,11 @@
 | --- | --- | --- | --- | --- |
 
 ##### 1.1.3 由几个普通单词构成的专有名词前要加定冠词 the (但是 the 不大写).
-- **the** People’s Republic of China 中华人民共和国
-- **the** United Nations 联合国
-- **the** Great Wall 长城
+> **the** People’s Republic of China 中华人民共和国
+>
+> **the** United Nations 联合国
+>
+> **the** Great Wall 长城
 
 这里的 people(人民), republic(共和国）, united(联合的), nation(国家), great(大的), wall(墙)都是普通单词. 
 
@@ -113,32 +115,44 @@
 | astronaut`/ˈæstrənɔːt/` - 宇航员  | | |
 
 **注意:** 个体名词是可数名词, 有单、复数之分. 例如:(额外补充, 非书本内容)
-- many boys. 许多男孩子
-- Farmers grow rice in the rich soil. 农民们在肥沃的土地上种水稻.
-- dairy farmers. 奶农; 畜牧工人.
-    + dairy `/ˈdeəri $ ˈderi/` -n.牛奶场, 乳品场
-- three desks. 三张办公桌
-- two-hundred trees. 200 棵树
-- great lakes. 北美五大湖
-- The lakes abound with fish. 这些湖泊(pō)生产鱼.
-    + abound`/əˈbaʊnd/` -v.大量存在(to exist in very large numbers)
-        - Examples of this abound in her book. 这样的例子在她树中比比皆是.
-        - **abound with/in** something. 富于, 盛产
-            + The forests abound with deer, birds, and squirrels`/ˈskwɜːrəl/`.
-              森林里有许许多多的鹿, 鸟和松鼠.
+
+> △ many boys. 许多男孩子
+>
+> △ Farmers grow rice in the rich soil. 农民们在肥沃的土地上种水稻.
+>
+> △ dairy farmers. 奶农; 畜牧工人.
+> + dairy `/ˈdeəri $ ˈderi/` -n.牛奶场, 乳品场
+>
+> △ three desks. 三张办公桌
+>
+> △ two-hundred trees. 200 棵树
+>
+> △ great lakes. 北美五大湖
+>
+> △ The lakes abound with fish. 这些湖泊(pō)生产鱼.
+> + abound`/əˈbaʊnd/` -v.大量存在(to exist in very large numbers)
+>   - Examples of this abound in her book. 这样的例子在她树中比比皆是.
+>   - **abound with/in** something. 富于, 盛产
+>       + The forests abound with deer, birds, and squirrels`/ˈskwɜːrəl/`. 森林里有许许多多的鹿, 鸟和松鼠.
 
 ##### 1.2.2 集体名词: 表示由若干个个体组成的集合体.
 
-| audience - 观众 | police - 警察 |
-| --------- | --------- |
-| team - 队, 组 | family - 家庭 |
+| audience - 观众  | police - 警察 |
+| ---------       | --------- |
+| team - 队, 组    | family - 家庭 |
 | group - 组, 团体 | people - 人民 |
-| cattle - 牛群 | committee`/kəˈmɪti/` - 委员会 |
-| data - 数据 |  staff - 全体员工 |  
+| cattle - 牛群    | committee`/kəˈmɪti/` - 委员会 |
+| data - 数据      |  staff - 全体员工 |  
 | crew`/kruː/` - 船员 | jury`/ˈdʒʊri/` - 陪审团 |    
-| public - 公众 | army - 军队 |
+| public - 公众    | army - 军队 |
+| vegetable - 蔬菜 |  |
+
 
 **注意:** 集体名词是可数名词, 多以单数形式出现, 在句子中既可以表示单数, 也可以表示复数。在使用时, 要根据句子的具体意思, 判断它是单数还是复数.
+
+> Some people are worth melting for. 有些人值得你融化。
+>
+> I'd like to thank a few people. 我要感谢几个人。
 
 ##### 1.2.3 物质名词: 表示无法分为个体的物质.
 
@@ -244,8 +258,8 @@
 
 **(2) 词尾 + en(只有 2 个单词)** 
 
-- child --> children 孩子 （注: 这里明明加的是 ren.） 
-- ox --> oxen 公牛 
+| child --> children 孩子 (注: 这里明明加的是 ren.) | ox --> oxen 公牛 |
+| --------------------------- | --------------------------- |
 
 **(3) 有些名词单复数相同** 
 
@@ -254,8 +268,9 @@
 | a/three deer  一头/三头鹿      | a/two fish  一条/两条鱼   |
 
 单复数相同的名词作句子主语时，其谓语动词要根据实际情况选用。如:
-- There **is a sheep** over there. (那边有一只绵羊.)
-- There **are many sheep** over there. (那边有很多绵羊.)
+> There **is a sheep** over there. (那边有一只绵羊.)
+> 
+> There **are many sheep** over there. (那边有很多绵羊.)
 
 **(4)表示民族的名词、单、复数形式没有一个统一的规律，应逐一记忆。** 
 
@@ -272,20 +287,20 @@
 | :------------------------ | ---------------------- | ------------------------- |
 | pants`/pænts/` n.(长)裤子 | shorts 短裤            | trousers `/ˈtraʊzəz/` n.裤子 |
 
-1. **a pair of scissors** 一把剪刀
+> **a pair of scissors** 一把剪刀
 
+> I need a new **pair of glasses**. 我需要一副新眼镜.
+>
+> He was clean-shaven(`/'ʃeɪvn/` adj.剃光毛发的) and **wore glasses**. 他胡子刮得很干净, 戴着一副眼镜.
+> + wore`/wɔː(r)/` -- wear(`/weə/` -vt.(1)穿(衣服、鞋子等); 戴(首饰)) 的过去式
 
-1. I need a new **pair of glasses**. 我需要一副新眼镜.
-1. He was clean-shaven(`/'ʃeɪvn/` adj.剃光毛发的) and **wore glasses**. 他胡子刮得很干净, 戴着一副眼镜.
-    + wore`/wɔː(r)/` -- wear(`/weə/` -vt.(1)穿(衣服、鞋子等); 戴(首饰)) 的过去式
+> She was wearing dark blue **pants** and a white sweater. 她穿着深蓝色长裤和白色毛衣.
 
-
-1. She was wearing dark blue **pants** and a white sweater. 她穿着深蓝色长裤和白色毛衣.
-
-
-1. His **trousers** were slightly too short. 他的裤子有点短.
-1. I need a new **pair of trousers** for work. 我需要一条上班穿的新裤子.
-1. The tickets are in my **trouser(adj [only before noun])** pocket. 票在我的裤子口袋里.
+> His **trousers** were slightly too short. 他的裤子有点短.
+>
+> I need a new **pair of trousers** for work. 我需要一条上班穿的新裤子.
+> 
+> The tickets are in my **trouser(adj [only before noun])** pocket. 票在我的裤子口袋里.
 
 **(6) 有些词尾为 s 的名词实际上是 `单数名词本身的词尾`，而不是复数名词的词尾。这类词多为一些 `学科的名称`，不要误以为是复数名词**
 
@@ -296,13 +311,11 @@
 | linguistics`/lɪŋ'gwɪstɪks/` 语言学 | electronics` /ɪˌlekˈtrɒnɪks,/` 电子学; 电子设备 |
 
 **mathematics 翻译为 `数学` 时后接单数动词; mathematics 翻译为 `数学运算` 时, 可接单数或复数动词.**
+> **Mathematics is** her best subject at school. 数学是她在学校最擅长的学科.
+> The **Mathematics** of the project **is/are** very complicated`/'kɒmplɪkeɪtɪd/`. 该项目中的数学运算十分复杂.
 
-1. **Mathematics is** her best subject at school. 数学是她在学校最擅长的学科.
-1. The **Mathematics** of the project **is/are** very complicated. 该项目中的数学运算十分复杂.
-
-
-1. **an electronics engineer`/endʒɪ'nɪə/`** 电子工程师
-1. the market for consumer **electronics**. 电子设备消费品市场.
+> **an electronics engineer`/endʒɪ'nɪə/`** 电子工程师
+> the market for consumer **electronics**. 电子设备消费品市场.
 
 **(7) 有些词尾为 s 的名词是单复数同形。** 
 
@@ -322,7 +335,7 @@
 | **looker**-on  | **lookers**-on   旁观者; 观看者 |
 | book**store**  | book**stores** 书店 |
 
-+ Looker-on see most of the game. (谚)旁观者清
+> Looker-on see most of the game. (谚)旁观者清
 
 复合名词变复数的形式之二: 由 man 和 woman 构成的复合名词，各部分都变成复数形式。
 
@@ -350,15 +363,20 @@
  | poultry`/'pəʊltrɪ/` 家禽  | clergy`/'klɜːdʒɪ/` 僧侣，神职人员 |
 
 (1)这些名词做主语时,谓语动词要用复数形式.
-- There are herd of cattle on the hillside. (山坡上有一群牛)
-- The police are searching that house in order to catch the criminal. (警察正在搜查那座房子以便抓到罪犯)
+>  There are herd of cattle on the hillside. (山坡上有一群牛)
+> 
+>  The police are searching that house in order to catch the criminal. (警察正在搜查那座房子以便抓到罪犯)
+
 (2)people表示不同种族,国家的人民时,要用peoples.
-- the chinese people. (中国人，中华民族)
-- Peoples from all over the world. (来自世界各国的人民)
+> the chinese people. (中国人，中华民族)
+> 
+> Peoples from all over the world. (来自世界各国的人民)
+
 ##### 2.2.2 有些集体名词，表示整体时用单数，表示组成该整体的各个成员时用复数。
 **audience, class, group, couple, crew, family, government, management, public** 等...
-- My family **is** a big one. (我家是个大家庭。)
-- My family **are** all fond of football. (我全家都喜欢足球。)
+> My family **is** a big one. (我家是个大家庭。)
+
+> My family **are** all fond of football. (我全家都喜欢足球。)
 
 #### 2.3 不可数名词
 物质名词和抽象名词是不可数名词，它们一般没有复数形式，如：
@@ -374,34 +392,59 @@
 | fruit 水果--> fruits 各种水果 | tea 茶--> teas 各种茶叶 | fish 鱼--> fishes 各种鱼 |
 | ------ | ------ | ------ |
 
-- **Mineral`/'mɪn(ə)r(ə)l/`(n.矿物，矿产) oils** are very important in industry. (矿物油在工业领域很重要)
-    + 矿物油有很多种,如汽油,柴油,煤油等
-- This kind of fish can be found in almost all fresh **waters**. (这种与几乎可以在各种淡水中找到)
-    + all fish waters 指江,河,湖泊等
+> **Mineral`/'mɪn(ə)r(ə)l/`(n.矿物，矿产) oils** are very important in industry. (矿物油在工业领域很重要)
+> + 矿物油有很多种,如汽油,柴油,煤油等
+> 
+> This kind of fish can be found in almost all fresh **waters**. (这种与几乎可以在各种淡水中找到)
+> + all fish waters 指江,河,湖泊等
 
 ##### (2) 有些抽象名词在表示一些比较具体的东西时，可作为可数名词，用复数形式。
-- The school football team has had **four victories** this season. (校足球队在这个赛季已经取得了四场胜利)
-- They had **two discussions** about this problem. (他们就这个问题已经进行了两次讨论)
-- She was a **beauty** in her youth`/juːθ/`. (他年轻时是个美人)
+> The school football team has had **four victories** this season. (校足球队在这个赛季已经取得了四场胜利)
+> 
+> They had **two discussions** about this problem. (他们就这个问题已经进行了两次讨论)
+> 
+> She was a **beauty** in her youth`/juːθ/`. (他年轻时是个美人)
 
 ##### (3) 有些物质可用作复数, 表示 "一份", "一杯", "一种".
-- **A black tea** with milk, please. (请来一杯加牛奶的红茶)
-    + 注意：红茶是 black tea. 
-- **Four beers**, please. (请来四杯啤酒,谢谢)
+> **A black tea** with milk, please. (请来一杯加牛奶的红茶)
+> + 注意：红茶是 black tea. 
+>     
+> **Four beers**, please. (请来四杯啤酒,谢谢)
 
 #### 2.4 名词使用时应注意的事项
 ##### 2.4.1 单数个体名词
 单数个体名词前面必须有冠词(a/an, the)、指示代词(如 this, that) 或物主代词(如 my, your)等。
+> (1) There is **a boy** in the room. (房间里有一个男孩儿。)
+> 
+> (2) **My son** will go abroad to study. 我儿子将出国上学。
+> 
+> (3) **This car** is very expensive. 这辆车子很贵。
+
+
 ##### 2.4.2 复数可数名词
 复数可数名词前必须有 two, three 等表示具体数字或 many, few, a few, some, several, plenty of, a lot of, lots of 等表示 "一些 ， 很多" 的词修饰，说明数量，名词后必须有 s. 
+
+**Tip：** 上面这些数量词(any, few, some...) 的讲解见 `../一次搞懂数量词.md`
+
+> (1) About **two hundred students** attended his lecture. 大约有 200 名学生出席了他的讲座。
+>
+> (2) There are **plenty of books** in our library. 我们图书馆里有大量的图书。
+>
+> (3) He invented **a few friends** to his birthday party. 他邀请了几个朋友参加他的生日聚会。
+
 ##### 2.4.3 不可数名词
 不可数名词前绝对不可以有 a/an, 名词后不可以有 s。不可数名词前可以有 much, a lot of, some, little, a little, a great/good deal of, plenty of 等词修饰， 说明数量。
+
 ##### 2.4.4 当不可数名词表示某一特定的物质、概念时， 要加定冠词 the。
 对比下面的句子: 
+
 ##### 2.4.5  特别需要注意以下几个不可数名词:
-**news(新闻)，advice(建议)，furniture(家具)，information(信息)，equipment(设备)**。它们的中:文意思都是可数的， 但在英文中却属于不可数名词。 
+**news(新闻)，advice(建议)，furniture(家具)，information(信息)，equipment(设备)**。它们的中文意思都是可数的， 但在英文中却属于不可数名词。 
+
 ##### 2.4.6  "名词 + of + 名词" 结构
- "名词 + of + 名词" 结构： 英语中常用 “ 表示单位的名词 +of+ 名词” 构成的短语表示事或物的量 ， 特别是表示不可数名词的数量 。 of 前面表示单位的词是单数还是复数 ， 要看它前面的数字 ； 而 of 后面的名词， 是可数名词用复数 ， 是不可数名词则用单数。
+"名词 + of + 名词" 结构： 英语中常用 “ 表示单位的名词 +of+ 名词” 构成的短语表示事或物的量 ， 特别是表示不可数名词的数量 。 of 前面表示单位的词是单数还是复数 ， 要看它前面的数字 ； 而 of 后面的名词， 是可数名词用复数 ， 是不可数名词则用单数。
+
+
 ### 3. 名词的所有格
 
 
