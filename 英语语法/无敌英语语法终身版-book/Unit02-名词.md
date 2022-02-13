@@ -433,13 +433,35 @@
 > (3) He invented **a few friends** to his birthday party. 他邀请了几个朋友参加他的生日聚会。
 
 ##### 2.4.3 不可数名词
-不可数名词前绝对不可以有 a/an, 名词后不可以有 s。不可数名词前可以有 much, a lot of, some, little, a little, a great/good deal of, plenty of 等词修饰， 说明数量。
+不可数名词前绝对不可以有 a/an, 名词后不可以有 s。不可数名词前可以有 much, a lot of, some, little, a little, a great/good deal of, plenty of 等词修饰，说明数量。
 
-##### 2.4.4 当不可数名词表示某一特定的物质、概念时， 要加定冠词 the。
+> △ He is fond of **music**. (他喜欢音乐。)
+>
+> △ He drinks **a lot of wine** every day. (他每天喝很多酒。)
+>
+> △ There is **a little milk** left. (还剩一点牛奶。)
+>
+> △ I haven't **much time** for sport. (我没有太多时间做户外运动。)
+
+##### 2.4.4 当不可数名词表示某一特定的物质、概念时，要加定冠词 the。
 对比下面的句子: 
+
+> △ **Snow** is white. (雪是白的。) *泛指雪这种物质*
+> 
+> △ **The snow** on the top of that hill is very white. (哪个山顶的雪很白。) *特质某地点的雪*
+
+> △ I like **music** very much. (我非常喜欢音乐。) *泛指音乐*
+>
+> △ I like **the music** of the film. (我喜欢那个电影里的音乐。) *特质某些音乐作品*
 
 ##### 2.4.5  特别需要注意以下几个不可数名词:
 **news(新闻)，advice(建议)，furniture(家具)，information(信息)，equipment(设备)**。它们的中文意思都是可数的， 但在英文中却属于不可数名词。 
+
+> △ You can get **much useful information** on internet. (你可以从网上获取很多有用的信息。)
+>
+> △ He bought **two pieces of furniture** for his new apartment. (他为他的新公寓买了两件家具。)
+>
+> △ Mr.Smith gave us **some good advice / a piece of good advice**. (史密斯先生给了我们一些 / 一条好的建议。)
 
 ##### 2.4.6  "名词 + of + 名词" 结构
 "名词 + of + 名词" 结构： 英语中常用 “ 表示单位的名词 +of+ 名词” 构成的短语表示事或物的量 ， 特别是表示不可数名词的数量 。 of 前面表示单位的词是单数还是复数 ， 要看它前面的数字 ； 而 of 后面的名词， 是可数名词用复数 ， 是不可数名词则用单数。
