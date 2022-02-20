@@ -60,6 +60,18 @@
 │   ├── (6) 略
 ```
 
+### carton `/'kɑːt(ə)n/` ●○○ noun [countable]
+
+```css
+├── noun [countable]
+│   ├── (1) 硬纸盒﹔塑料盒 
+│   │   ├── **carton of**
+│   │   │   ├── a carton of fruit juice 一盒果汁
+│   │   │   ├── a milk carton 牛奶盒
+│   ├── (2)〔可内置小盒的〕包装箱
+│   │   ├── **carton of** 
+│   │   │   ├── a carton of cigarettes 一条香烟
+```
 
 
 
@@ -464,7 +476,16 @@
 > △ Mr.Smith gave us **some good advice / a piece of good advice**. (史密斯先生给了我们一些 / 一条好的建议。)
 
 ##### 2.4.6  "名词 + of + 名词" 结构
-"名词 + of + 名词" 结构： 英语中常用 “ 表示单位的名词 +of+ 名词” 构成的短语表示事或物的量 ， 特别是表示不可数名词的数量 。 of 前面表示单位的词是单数还是复数 ， 要看它前面的数字 ； 而 of 后面的名词， 是可数名词用复数 ， 是不可数名词则用单数。
+"名词 + of + 名词" 结构： 英语中常用 **"表示单位的名词 + of + 名词" 构成的短语表示事或物的量，特别是表示不可数名词的数量.** of 前面表示单位的词是单数还是复数，要看它前面的数字；而 of 后面的名词，是可数名词用复数，是不可数名词则用单数。
+
+|               不可数名词               | 可数名词 |
+| :------------------------------------: | :------: |
+|     **a** cup of coffee  一杯咖啡      |          |
+|    **two** cup**s** of tea  两杯茶     | **one bag** of books 以保护的说 |
+| **three** piece**s** of cake  三块蛋糕 | **two** basket**s** of apple**s**  两筐苹果 |
+|  **four** bowl**s** of rice  四碗米饭  | **a dozen** of pencil**s** |
+| **ten** carton**s**$\color{red}{^*}$ of milk  是和牛奶 | **a packet** cigarette**s**  一包烟 |
+
 
 
 ### 3. 名词的所有格
@@ -488,7 +509,7 @@
 - Zhang Hua decided to learn **English**. (不定式短语中动词learn的宾语) 张华决定要学习英语.
 
 #### 4.4 作宾语补足语
-- We elected him our **monitor**. 我们选他当我们的班长.
+-   We elected him our **monitor**. 我们选他当我们的班长.
 - Hard experience has made him a **man**. 艰苦经历把他磨练成了一个男子汉.
 
 #### 4.5 作同位语
