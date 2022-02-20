@@ -1,5 +1,8 @@
 # Unit16 句子概述
 
+> 首先把下面这个英语兔老师的视频笔记写完
+>
+> https://www.youtube.com/watch?v=is7vn5URVcc&list=PLiRHe7F8P0-0ykWSiVY9Ia431TB-HzQm0
 
 
 
