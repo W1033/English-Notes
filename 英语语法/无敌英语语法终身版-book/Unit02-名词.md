@@ -464,7 +464,7 @@
 
 > △ I like **music** very much. (我非常喜欢音乐。) *泛指音乐*
 >
-> △ I like **the music** of the film. (我喜欢那个电影里的音乐。) *特质某些音乐作品*
+> △ I like **the music** of the film. (我喜欢那个电影里的音乐。) *特指某些音乐作品*
 
 ##### 2.4.5  特别需要注意以下几个不可数名词:
 **news(新闻)，advice(建议)，furniture(家具)，information(信息)，equipment(设备)**。它们的中文意思都是可数的， 但在英文中却属于不可数名词。 
@@ -476,7 +476,11 @@
 > △ Mr.Smith gave us **some good advice / a piece of good advice**. (史密斯先生给了我们一些 / 一条好的建议。)
 
 ##### 2.4.6  "名词 + of + 名词" 结构
-"名词 + of + 名词" 结构： 英语中常用 **"表示单位的名词 + of + 名词" 构成的短语表示事或物的量，特别是表示不可数名词的数量.** of 前面表示单位的词是单数还是复数，要看它前面的数字；而 of 后面的名词，是可数名词用复数，是不可数名词则用单数。
+"名词 + of + 名词" 结构： 英语中常用 **"表示单位的名词 + of + 名词" 构成的短语表示事或物的量，特别是表示不可数名词的数量.** 
+
+of 前面表示单位的词是单数还是复数，要看它前面的数字；
+
+of 后面的名词，是可数名词用复数，是不可数名词则用单数。
 
 |               不可数名词               | 可数名词 |
 | :------------------------------------: | :------: |
@@ -489,41 +493,134 @@
 
 
 ### 3. 名词的所有格
+名词所有格表示这一名词与他人、他物的所属关系 ， 相当于中文 "......的......"（Tip: 可以读作 “什么什么的什么什么”）。
+
+> Xiao Zhang**\'s** sister 小张的姐姐
+> 
+> Tom**\'s** telephone number 汤姆的电话号码
+> 
+> my brother**\'s** girlfriend 我哥哥的女朋友
+
+名词所有格的表达方式有如下几种：
+
+#### 3.1 表示有生命的东西的名词所有格通常是在名词后加 `'s`。
+> Lao Li**'s** daughter 老李的女儿
+>
+> that girl**'s** father 那个小姑娘的爸爸
+>
+> my English teacher**'s** car 我的英语老师的车子
+
+#### 3.2 以 s 结尾的名词的复数形式，只加 `'` 不加 S。
+
+> the teacher**s'** reading-room 教师阅览室
+>
+> the student**s'** dormitory 学生宿舍
+>
+> my parent**s'** hope 我父母的希望
+>
+> Teacher**s'** Day 教师节
+
+**注意：不以 s 结尾的名词的复数形式，仍要加 `'s`。 如：**
+> Women**\'s** Day 妇女节
+> 
+> children**\'s** balls 孩子们的球
+
+#### 3.3 复合名词和表示一个整体意思的词组只在最后一个词尾加 `'s`。
+> the editor-in-chief**\'s** secretary`/'sekrɪt(ə)rɪ/`(n.秘书) 总编的秘书
+>   + editor-in-chief  n.总编辑，主编
+> 
+> assistant general manager**\'s** office 副总经理办公室
+>
+> my boyfriend**\'s** father 我男朋友的父亲
+
+#### 3.4 如果一样东西同时归两人或多人所有，只在最后一个名词词尾加 `'S`。
+> Tom and **Jack's** room  汤姆和杰克的房间 (*两人合住一个房间*)
+>
+> John, Mary and **Jane's**`/dʒeɪn/` mother  约翰、玛丽和珍妮的母亲 (*三人是兄妹*)
+
+**注意：** 如果表示各名词自己的所有格，则分别加 `'s`。
+
+#### 3.5 用所有格表示店铺或某人的家，但是通常省掉所有格修饰的名词。
+> the Black**\'s** （= the Black's home）布莱克家
+> 
+> the barber**\'s**`/ˈbɑ:bə/` （=the barber's shop）理发店
+
+#### 3.6 表示无生命东西的所有关系，一般不用 `'s`，而是与 of 一起构成短语。
+> the leg of the desk 课桌腿
+>
+> the roof of a car 车顶
+>
+> the name of the book  书名
+
+**注意：** 有些固定短语不受这条规则的限制。如：
+> at a moment**\'s** notice  接到通知后立即
+> 
+> at death**\'s** door 面临死亡
+>
+> at sword**s'** point 剑拔弩张
+>
+> in one's mind**\'s** eye 想象，记忆
+
+#### 3.7 一些表示国家、城市、时间、距离的名词可以直接加 `'s` 表示所有关系 。
+> today**\'s** newspaper 今天的报纸 
+> 
+> Beijing**\'s** population 北京的人口
+> 
+> an hour**\'s** talk 一个小时的谈话 
+> 
+> today**\'s** weather 今天的天气
+> 
+> half an hour**\'s** drive`/draɪv/` 半个小时的车程 
+> 
+> China**\'s** industry 中国的工业
 
 
+#### 3.8 有时，两种所有格形式（of 短语和词尾加 `'s` 的形式） 需要结合在一起使用, 称为 "双重所有格"。
+> a friend of my sister**\'s** （= my sister's friend）我姐姐的一个朋友
+>
+> the book of Bill**\'s** （= Bill's book） 比尔的书
 
 
 ### 4. 名词在句子中的作用
 名词在剧中可以作**主语**, **表语**, **宾语**, **宾语补足语**, **同位语**, **定语**以及**状语**.
 
 #### 4.1 作主语
-- **China** is a developing country. 中国是一个发展中国家.
-- These **children** are fond of books. 这些孩子们喜欢看书.
+> **China** is a developing country. 中国是一个发展中国家.
+>
+> These **children** are fond of books. 这些孩子们喜欢看书.
 
 #### 4.2 作表语
-- Smoking is a dangerous **habit**. 吸烟是一种危险的习惯.
-- That building is our new **library**. 那座大楼是我们的新图书馆.
+> Smoking is a dangerous **habit**. 吸烟是一种危险的习惯.
+>
+> That building is our new **library**. 那座大楼是我们的新图书馆.
 
 #### 4.3 作宾语
-- That boy enjoys playing **computer games**. (动名词的宾语) 那个男孩喜欢玩电脑游戏.
-- Zhang Hua decided to learn **English**. (不定式短语中动词learn的宾语) 张华决定要学习英语.
+> That boy enjoys playing **computer games**. (动名词的宾语) 那个男孩喜欢玩电脑游戏.
+>
+> Zhang Hua decided to learn **English**. (不定式短语中动词 learn 的宾语) 张华决定要学习英语.
 
 #### 4.4 作宾语补足语
--   We elected him our **monitor**. 我们选他当我们的班长.
-- Hard experience has made him a **man**. 艰苦经历把他磨练成了一个男子汉.
+> We elected him our **monitor**. 我们选他当我们的班长.
+>
+> Hard experience has made him a **man**. 艰苦经历把他磨练成了一个男子汉.
 
 #### 4.5 作同位语
-- We **students** like the English teacher very much. 我们学生非常喜欢这个英语老师.
-- This is Mr. Smith, **dean** of our department. 这是史密斯先生, 我们的系主任.
+
+> We **students** like the English teacher very much. 我们学生非常喜欢这个英语老师.
+>
+> This is Mr. Smith, **dean**`/diːn/` of our department. 这是史密斯先生, 我们的系主任.
 
 #### 4.6 作定语
-- They bought a new **colour** TV for the Senior Citizens Home. 他们给养老院买了一台新彩电.
-- **Orange** juice is rich in vitamin C. 橘汁富含维生素C.
+> They bought a new **colour** TV for the Senior Citizens Home. 他们给养老院买了一台新彩电.
+>
+> **Orange** juice is rich in vitamin C. 橘汁富含维生素C.
 
 #### 4.7 作状语
-- Wait a **minute**, I’ll be back soon. 等一下, 我马上回来.
-- Please be sure to telephone me **next time**. 下次请一定给我来电话.
+> Wait a **minute**, I’ll be back soon. 等一下, 我马上回来.
+>
+> Please be sure to telephone me **next time**. 下次请一定给我来电话.
 
 #### 4.8 称呼语：称呼语不作句子成分, 可以视为一个独立结构. 
-- Hurry, **Tom**. 快点, 汤姆.
-- What can I do for you, **madam**? 我能为您做什么, 夫人？
+> Hurry, **Tom**. 快点, 汤姆.
+>
+> What can I do for you, **madam**? 我能为您做什么, 夫人？
