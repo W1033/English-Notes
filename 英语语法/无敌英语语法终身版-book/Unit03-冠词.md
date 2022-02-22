@@ -4,6 +4,46 @@
 
 
 
+## New Words
+
+### indefinite `/ɪn'dɛfɪnət/`
+```css
+├── adjective (adj)
+│   ├── (1)〔行动或时间〕无限期的
+│   │   ├── The next day the union voted to begin an indefinite strike.
+│   │   │   第二天工会投票表决决定开始无限期罢工。
+│   │   ├── The trial was adjourned for an indefinite period. 审判被无限期推迟。 
+│   │   │   ├── trial `/'traɪəl/` n.审判
+│   │   │   ├── adjourn `/ə'dʒɜːn/` vt&vi.休(会)；休(庭)
+│   │   │   ├── period `/'pɪərɪəd/` n.一段时间；时期
+│   │   ├── The store will be closed for an indefinite period. 这家商店将无限期关闭。
+│   ├── (2) 不明确的；不确切的 (not clear or exact)
+│   │   ├── indefinite equation. 不定方程式。
+│   │   ├── indefinite integral. 不定积分。
+│   │   ├── The indefinite a article is either a or an. 不定冠词是 a 或者 an.
+│   │   ├── My heart was filled with puzzlement about the indefinite future 
+│   │   │   and longing`/'lɒŋɪŋ/`(发音类似 "朗应") for the new life. 
+│   │   │   我的心对不确定的未来充满了困惑，渴望着新生活。
+```
+
+### definite `/'dɛfɪnət/`
+```css
+├── adjective
+│   ├── (1) 清楚的，明确的 (clearly know, seen, or stated)
+│   │   ├── It’s impossible for me to give you a definite answer. 我不可能给你明确的答复。
+│   │   ├── We need to record sufficient`/sə'fɪʃ(ə)nt/` data to enable definite
+│   │   │   conclusions to be reached. 我们需要记录足够的数据﹐才能得出明确的结论。
+│   ├── (2)〔安排﹑许诺等〕确切的﹐确定的
+│   │   ├── Fix a definite date for the delivery of your computer.
+│   │   │   请为你的电脑定个确切的交货日期。
+│   ├── (3)〔说话〕确实的﹐肯定的
+│   │   ├── She’s not definite about retiring from the game. 她没有明确说是否退出比赛。
+│   │   ├── She was not exactly good-looking, but definitely attractive.
+│   │   │   她并算漂亮，但确实很有魅力。
+```
+ 
+
+
 <table>
     <tbody style="letter-spacing:0.5px;">
         <tr>
