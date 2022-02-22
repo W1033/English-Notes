@@ -92,7 +92,7 @@
 
 | Beijing 北京 | New York 纽约 | WHO 世界卫生组织  |
 | ----------------- | ----------------- | --------------- |
-| the Summer Palace 颐和园 | the National Library 国家图书馆 | Tom 汤姆  |
+| the Summer Palace`/'pælɪs/` 颐和园 | the National Library 国家图书馆 | Tom 汤姆  |
 
 使用专有名词时必须注意：
 
