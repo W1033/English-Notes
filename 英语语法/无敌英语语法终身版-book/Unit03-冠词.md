@@ -1,6 +1,6 @@
 # Unit 3 -- 冠词
 
-> 待看文章，待做笔记：https://zhu  a(n)  l  a(n)  .zhihu.com/p/21737918
+> 待看文章，待做笔记：https://zhuanlan.zhihu.com/p/21737918
 
 
 
@@ -30,7 +30,7 @@
 ```css
 ├── adjective
 │   ├── (1) 清楚的，明确的 (clearly know, seen, or stated)
-│   │   ├── It’s impossible for me to give you a definite   a(n)  swer. 我不可能给你明确的答复。
+│   │   ├── It’s impossible for me to give you a definite   answer. 我不可能给你明确的答复。
 │   │   ├── We need to record sufficient`/sə'fɪʃ(ə)nt/` data to enable definite
 │   │   │   conclusions to be reached. 我们需要记录足够的数据﹐才能得出明确的结论。
 │   ├── (2)〔安排﹑许诺等〕确切的﹐确定的
@@ -47,10 +47,10 @@
 <table>
     <tbody style="letter-spacing:0.5px;">
         <tr>
-            <td colsp  a(n)  ="2" style="padding-left:20px; font-weight:bold;">英语的不定冠词“a/  a(n)  ”与汉语的“一”表面相似，实则侧重不同。<br> - a/  a(n)  主要起泛指作用，兼职表数量（但不强调数量）；<br> - 汉语 "一" 主要作用是强调数量，兼职表泛指。</td>
+            <td colspan="2" style="padding-left:20px; font-weight:bold;">英语的不定冠词 "a/an" 与汉语的 "一" 表面相似，实则侧重不同。<br> - a/an 主要起泛指作用，兼职表数量（但不强调数量）；<br> - 汉语 "一" 主要作用是强调数量，兼职表泛指。</td>
         </tr>
         <tr>
-            <td colsp  a(n)  ="2" style="text-align:center; font-weight:bold;">a/  a(n)   用法示例
+            <td colspan="2" style="text-align:center; font-weight:bold;">a/an 用法示例
             </td>
         </tr>
         <tr>
@@ -60,7 +60,7 @@
         <tr>
             <td>He's a teacher. <br> 他是 (一个) 老师。</td>
             <td>
-                How much is  the  postage`/'pəʊstɪdʒ/`(n.邮资，邮费) for a postcard?
+                How much is the postage`/'pəʊstɪdʒ/`(n.邮资，邮费) for a postcard?
                 <br> 邮寄一张明信片多少钱。
             </td>
         </tr>
@@ -70,42 +70,42 @@
                 <br> 她死于（一个）星期二。
             </td>
             <td>
-                I have   a(n)   elder bro the r.
+                I have an elder brother.
                 <br> 我有一个哥哥。
             </td>
         </tr>
         <tr>
             <td>
-                A lion is a d  a(n)  gerous   a(n)  imal.
+                A lion is a dangerous animal.
                 <br> 狮子是（一种）危险的动物。
             </td>
             <td>
-                I c  a(n)   type 50 words a minute.
+                I can type 50 words a minute.
                 <br> 我每分钟能打 50 个字。
             </td>
         </tr>
         <tr>
-            <td colsp  a(n)  ="2">
-                A reader lives a thous  a(n)  d lives before he dies.  the  m  a(n)   who never reads lives only  one .
+            <td colspan="2">
+                A reader lives a thousand lives before he dies. The man who never reads lives only one.
                 <br> 读书的人一生能体验千种人生，不读书的人只度过自己的一生。 --《冰与火之歌》
             </td>
         </tr>
         <tr>
-            <td colsp  a(n)  ="2">
-                a/  a(n)  ,  one  分别是泛指，表示数量，强调数量的用法。
+            <td colspan="2">
+                a/an, one 分别是泛指，表示数量，强调数量的用法。
                 <br><br> 美国流行天后 Lady Gaga 的 《Million Reasons》单曲中，有这样两句歌词：
                 <br> I've got a hundred million reasons to walk away. But baby, I just need  one  good  one  to stay.
                 <br> 我有一亿个理由离开。 但是宝贝，我只需要一个好的留下来。
-                <br> - a hundred million reasons 中的 a 表示但不强调数量。 第二句中的第一个  one  强调数量，表示 "一个足矣"， 第二个  one  是代词指 reason。
+                <br> - a hundred million reasons 中的 a 表示但不强调数量。 第二句中的第一个 one 强调数量，表示 "一个足矣"， 第二个 one 是代词指 reason。
             </td>
         </tr>
         <tr>
         </tr>
         <tr>
-            <td colsp  a(n)  ="2"></td>
+            <td colspan="2"></td>
         </tr>
         <tr>
-            <td colsp  a(n)  ="2" style="text-align:center; font-weight:bold;">汉语"一" 用法示例</td>
+            <td colspan="2" style="text-align:center; font-weight:bold;">汉语"一" 用法示例</td>
         </tr>
         <tr>
             <td>起泛指作用</td>
@@ -132,6 +132,7 @@
 
 
 
+
 ## New Words
 
 
@@ -142,7 +143,7 @@
 
 冠词(Article) 是 3 大虚词的一类，必须与名词(noun)一起出现，不能独立使用。
 
-冠词是英语词类中最小的一类，只有 3 个，即：**不定冠词 a 和   a(n)  **，以及 **定冠词  the **。
+冠词是英语词类中最小的一类，只有 3 个，即：**不定冠词 a 和  a(n)  **，以及 **定冠词  the **。
 
 此外也有些特定场合不用冠词，通常称为**零冠词(Zero Article)**
 
@@ -161,6 +162,43 @@
 
 ### 冠词用法概述
 冠词的本质是限定词的一类。为了表意精确，英语句子中出现的名词通常都需要进行一定程度的限定，而汉语没有类似规则。限定通常体现在两方面: **指向**和**数量**，且指向和数量至少有一方面需要被限定。
+
+#### 指向限定
+
+| 指向限定词           | 含义                   | 示例                   |
+| :------------------- | ---------------------- | :--------------------- |
+| a/an                 | 指向任意一个           | a desk,  an apple      |
+| The                  | 指向特定的一个         | the desk over there    |
+| my/your/John's/our   | 指向某人或某群人       | my book                |
+| either               | 指向两者中的某一人     | either of my two books |
+| 单纯的词尾变复数形式 | 指向所有该名词代表对象 | Apples are sweet       |
+
+#### 数量限定
+
+| 数量限定词          | 含义     | 示例                 |
+| ------------------- | -------- | -------------------- |
+| one/two/three...... | 一/二/三 | I have two brothers. |
+| no                  | 没有     | I have no idea.      |
+
+英语中认为类似 "book is a good friend" 的语句是错误的，因为可数名词 book 没有被限定，仿佛飘在空中，找不到归属。
+
+学完本章，读者朋友能够明白，为什么下面 3 句中文对应的是同义句英文：
+
+<table>
+    <tr>
+        <td>我是演员</td>
+        <td rowspan="3">I am an actor.</td>
+    </tr>
+    <tr>
+        <td>我是个演员</td>
+    </tr>
+    <tr>
+        <td>我是一个演员</td>
+    </tr>
+</table>
+
+
+
 
 
 
