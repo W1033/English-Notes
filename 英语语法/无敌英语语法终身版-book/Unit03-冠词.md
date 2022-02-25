@@ -44,6 +44,117 @@
 
 
 
+
+
+## Content
+
+冠词(Article) 是 3 大虚词的一类，必须与名词(noun)一起出现，不能独立使用。
+
+冠词是英语词类中最小的一类，只有 3 个，即：**不定冠词 a 和  a(n)  **，以及 **定冠词  the **。
+
+此外也有些特定场合不用冠词，通常称为**零冠词(Zero Article)**
+
+- 不定冠词(Indefinite Article)
+- 定冠词(Definite Article)
+
+
+旋元佑先生在《语法俱乐部》中对冠词进行了如下简化:
+
+> (1). 把 a(n) 视为 one 的弱化结果，也就是说， a(n) 就代表 one 的意思，只是语气比较弱。 a(n) 与 one 同样都是交代它后面所接的名词是“一个”的概念。如果后面的名词不适合以“一个”来交代，就不适合用 a(n) 。
+>
+> (2). 把 the 视为 that 或 those 的弱化结果。that 或 those 是指示形容词，有明确的指示功能。所以定冠词 the 也可以这样理解：凡是上下文中有明指或暗示时，也就是有“那个”的指示功能时，便要用定冠词 the 。
+
+这种简化能在一定程度上帮助理解冠词，但仅仅掌握这些是不够的。冠词的背后是中英文思维方式的不同。冠词的难点在于，学习者同时受到母语正迁移与负迁移的影响。
+
+
+### 冠词用法概述
+**冠词的本质是限定词的一类**。为了表意精确，英语句子中出现的名词通常都需要进行一定程度的限定，而汉语没有类似规则。限定通常体现在两方面: **指向**和**数量**，且指向和数量至少有一方面需要被限定。
+
+
+
+#### 指向限定词
+
+##### (1) a/an: 指向任意一个
+
+> a desk,  an apple
+
+##### (2) the: 指向特定的一个
+>the desk over there
+
+##### (3) my/your/John's/our: 指向某人或某群人       
+> my book 
+
+##### (4) either: 指向两者中的某一人     
+> either of my two books
+
+##### (5) 单纯的词尾变复数形式：指向所有该名词代表对象 
+> Apples are sweet
+
+
+#### 数量限定词
+
+##### one/two/three...... 一/二/三 
+> I have two brothers.
+
+##### no: 没有     
+> I have no idea. 
+
+
+英语中认为类似 ~~"book is a good friend"~~ 的语句是错误的，因为可数名词 book 没有被限定，仿佛飘在空中，找不到归属。
+
++ 正确写法：A book is a good friend. / Books are good friends.
+
+学完本章，读者朋友能够明白，为什么下面 3 句中文对应的是同义句英文：
+
+<table>
+    <tr>
+        <td>我是演员</td>
+        <td rowspan="3">I am an actor.</td>
+    </tr>
+    <tr>
+        <td>我是个演员</td>
+    </tr>
+    <tr>
+        <td>我是一个演员</td>
+    </tr>
+</table>
+
+<table>
+    <tr style="font-weight:bold; text-align:center;">
+        <td style="text-align:center;" colspan="3">名词分类</td>
+        <td style="text-align:center;">特点</td>
+        <td style="text-align:center;">示例</td>
+    </tr>
+    <tr>
+        <td style="text-align:center;" colspan="3">专有名词</td>
+        <td>已默认在数量和指向上被限定</td>
+        <td>Beijing 北京，<br> China 中国</td>
+    </tr>
+    <tr>
+        <td style="text-align:center;" rowspan="4">普通名词</td>
+        <td style="text-align:center;" rowspan="2">可数名词</td>
+        <td style="text-align:center;">个体名词</td>
+        <td>需要限定</td>
+        <td>taxi 出租车，<br> boy 男生</td>
+    </tr>
+    <tr>
+        <td style="text-align:center;">集体名词</td>
+        <td>单数含义时通常需要限定；<br> 复数含义时默认已在数量上被限定。</td>
+        <td>people, <br> audience, <br> class</td>
+    </tr>
+    <tr>
+        <td style="text-align:center;" rowspan="2">不可数名词</td>
+        <td style="text-align:center;">物质名词</td>
+        <td>已指向所有种类</td>
+        <td>fruit 水果，<br> juice 果汁</td>
+    </tr>
+    <tr>
+        <td style="text-align:center;">抽象名词</td>
+        <td>已默认在数量上被限定</td>
+        <td>health 健康，<br> power 能量</td>
+    </tr>
+</table>
+
 <table>
     <tbody style="letter-spacing:0.5px;">
         <tr>
@@ -124,114 +235,6 @@
             <td>一夫当关，万夫莫开</td>
         </tr>
     </tbody>
-</table>
-
-
-
-
-
-
-
-
-## New Words
-
-
-
-
-
-## Content
-
-冠词(Article) 是 3 大虚词的一类，必须与名词(noun)一起出现，不能独立使用。
-
-冠词是英语词类中最小的一类，只有 3 个，即：**不定冠词 a 和  a(n)  **，以及 **定冠词  the **。
-
-此外也有些特定场合不用冠词，通常称为**零冠词(Zero Article)**
-
-- 不定冠词(Indefinite Article)
-- 定冠词(Definite Article)
-
-
-旋元佑先生在《语法俱乐部》中对冠词进行了如下简化:
-
-> (1). 把 a(n) 视为 one 的弱化结果，也就是说， a(n) 就代表 one 的意思，只是语气比较弱。 a(n) 与 one 同样都是交代它后面所接的名词是“一个”的概念。如果后面的名词不适合以“一个”来交代，就不适合用 a(n) 。
->
-> (2). 把 the 视为 that 或 those 的弱化结果。that 或 those 是指示形容词，有明确的指示功能。所以定冠词 the 也可以这样理解：凡是上下文中有明指或暗示时，也就是有“那个”的指示功能时，便要用定冠词 the 。
-
-这种简化能在一定程度上帮助理解冠词，但仅仅掌握这些是不够的。冠词的背后是中英文思维方式的不同。冠词的难点在于，学习者同时受到母语正迁移与负迁移的影响。
-
-
-### 冠词用法概述
-冠词的本质是限定词的一类。为了表意精确，英语句子中出现的名词通常都需要进行一定程度的限定，而汉语没有类似规则。限定通常体现在两方面: **指向**和**数量**，且指向和数量至少有一方面需要被限定。
-
-#### 指向限定
-
-| 指向限定词           | 含义                   | 示例                   |
-| :------------------- | ---------------------- | :--------------------- |
-| a/an                 | 指向任意一个           | a desk,  an apple      |
-| the                  | 指向特定的一个         | the desk over there    |
-| my/your/John's/our   | 指向某人或某群人       | my book                |
-| either               | 指向两者中的某一人     | either of my two books |
-| 单纯的词尾变复数形式 | 指向所有该名词代表对象 | Apples are sweet       |
-
-#### 数量限定
-
-| 数量限定词          | 含义     | 示例                 |
-| ------------------- | -------- | -------------------- |
-| one/two/three...... | 一/二/三 | I have two brothers. |
-| no                  | 没有     | I have no idea.      |
-
-英语中认为类似 "book is a good friend" 的语句是错误的，因为可数名词 book 没有被限定，仿佛飘在空中，找不到归属。
-
-学完本章，读者朋友能够明白，为什么下面 3 句中文对应的是同义句英文：
-
-<table>
-    <tr>
-        <td>我是演员</td>
-        <td rowspan="3">I am an actor.</td>
-    </tr>
-    <tr>
-        <td>我是个演员</td>
-    </tr>
-    <tr>
-        <td>我是一个演员</td>
-    </tr>
-</table>
-
-
-<table>
-    <tr style="font-weight:bold; text-align:center;">
-        <td style="text-align:center;" colspan="3">名词分类</td>
-        <td style="text-align:center;">特点</td>
-        <td style="text-align:center;">示例</td>
-    </tr>
-    <tr>
-        <td style="text-align:center;" colspan="3">专有名词</td>
-        <td>已默认在数量和指向上被限定</td>
-        <td>Beijing 北京，<br> China 中国</td>
-    </tr>
-    <tr>
-        <td style="text-align:center;" rowspan="4">普通名词</td>
-        <td style="text-align:center;" rowspan="2">可数名词</td>
-        <td style="text-align:center;">个体名词</td>
-        <td>需要限定</td>
-        <td>taxi 出租车，<br> boy 男生</td>
-    </tr>
-    <tr>
-        <td style="text-align:center;">集体名词</td>
-        <td>单数含义时通常需要限定；<br> 复数含义时默认已在数量上被限定。</td>
-        <td>people, <br> audience, <br> class</td>
-    </tr>
-    <tr>
-        <td style="text-align:center;" rowspan="2">不可数名词</td>
-        <td style="text-align:center;">物质名词</td>
-        <td>已指向所有种类</td>
-        <td>fruit 水果，<br> juice 果汁</td>
-    </tr>
-    <tr>
-        <td style="text-align:center;">抽象名词</td>
-        <td>已默认在数量上被限定</td>
-        <td>health 健康，<br> power 能量</td>
-    </tr>
 </table>
 
 

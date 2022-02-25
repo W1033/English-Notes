@@ -76,7 +76,6 @@
     + the central aim of this investigation. 这项调查的主要目的.
     + the central post office. 中央邮局.
 
-
 ## Content
 
 英语单词是构成英文的最基本单位. 
