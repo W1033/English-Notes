@@ -168,7 +168,7 @@
 | 指向限定词           | 含义                   | 示例                   |
 | :------------------- | ---------------------- | :--------------------- |
 | a/an                 | 指向任意一个           | a desk,  an apple      |
-| The                  | 指向特定的一个         | the desk over there    |
+| the                  | 指向特定的一个         | the desk over there    |
 | my/your/John's/our   | 指向某人或某群人       | my book                |
 | either               | 指向两者中的某一人     | either of my two books |
 | 单纯的词尾变复数形式 | 指向所有该名词代表对象 | Apples are sweet       |
