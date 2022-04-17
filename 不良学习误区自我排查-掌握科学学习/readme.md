@@ -37,7 +37,7 @@
 │   │   │  │   在学校考试中成绩不好的孩子经常会认为自己很失败。
 │   ├── (2) 察觉﹐注意到﹐发觉 (to notice, see, or recognize something)
 │   │   ├── Cats are not able to percive colour. 猫不能辨别颜色。
-│   │   ├── We percive him wish to make progress. 我们看得出他是要求进步的。
+│   │   ├── We perceive him wish to make progress. 我们看得出他是要求进步的。
 │   │   ├── You can easily perceive what he wants. 你可以轻而易举地看出他要什么。
 │   │   ├── To percive is to think of something in a particular way. 感知就是以一种特殊的方式去思考某件事。
 ```
