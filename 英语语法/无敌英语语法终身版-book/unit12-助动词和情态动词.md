@@ -2,9 +2,11 @@
 
 
 
-要做笔记:
+要做笔记:  英语语法: 助动词 (基本助动词, 情态助动词, 半助动词)
 
->https://www.youtube.com/watch?v=-mRlocpeYA8
+> Youtube: https://www.youtube.com/watch?v=-mRlocpeYA8
+>
+> BiliBili: https://www.bilibili.com/video/BV1834y1r79u?spm_id_from=333.337.search-card.all.click
 
 ![image-20220227154722188](Unit12-助动词和情态动词.assets/image-20220227154722188.png)
 
@@ -125,19 +127,45 @@
 
 ## 3. 助动词的应用
 
-### 3.1 基本助动词的应用
+### 3.1 基本助动词的应用 （be, do, have）
 
-<strong style="color:red">Notice：下面的笔记是直接转义的视频，还没有修改，错误很多，请不要阅读！！！</strong>
+> 参考另外一个视频：[英语 16 种时态终极讲解]()
 
-仅有的 三个基本助动词behavedo非常常见，他们也出现在咱们之前讲的时态、被动、强调等语法视频中，所以咱们这里就不过多讨论。
+仅有的 三个基本助动词 be, do, have 非常常见，它们也出现在咱们之前讲的
 
-Therabbitiseatingacarrot，兔子正在吃一根胡萝卜，这里是助动词，Be变为is，辅助构成，现在进行时态，Thecatwaseatenbyderabbit，胡萝卜被兔子吃了，这是助动词，Be变为was，辅助构成被动语态。
+"时态"、[英语 16 种时态终极讲解]() 
+
+"被动"、[被动态]()
+
+"强调"、[强调]()
+
+ 等语法视频中，所以咱们这里就不过多讨论。
+
+#### 3.1.1  be
+
+The rabbitiseatingacarrot，兔子正在吃一根胡萝卜，这里是助动词，Be变为is，辅助构成，现在进行时态，Thecatwaseatenbyderabbit，胡萝卜被兔子吃了，这是助动词，Be变为was，辅助构成被动语态。
 
 Therabbithaseatenacarrot，兔子吃掉了根胡萝卜，这里是助动词，Have变为has，辅助构成现在完成时态。
 
 Therabbitdoeslikecoins，兔子真的喜欢硬币，这里是助动词do变为does，构成强调，Therabbitdoesnotlikethelotus，兔子不喜欢看视频白嫖的人。这里是助动词do变为dust，辅助构成，否定。好好再读一遍，刚才两句你懂得。相比基本助动词，情态助动词就复杂一些了。
 
+
+
+
+#### 3.1.2  have
+
+#### 3.1.3  do
+
+
+
+
+
+<strong style="color:red">Notice：下面的笔记是直接转义的视频，还没有修改，错误很多，请不要阅读！！！</strong>
+
+
+
 看could可以表示有能力做某事，也可以坐会，可以，但是注意会在中文里还能表示将要，耳可以，还能表示许可与这里的能够有区别。Icankillawolf，我能杀死一只狼，这里是说我有能力宰狼，但我不一定将要这么做，Icouldkillofflastyear，我去年能杀死一只狼。could是看的过去式，那么这里是说我去年有能力宰狼，至于我现在是否还有能力？这就不一定了。
+
 
 刚才说到cancould，也可以表示可以，中文的可以是多义词，除了表示有能力，也表示许可，所以不要和刚才那种能够的含义混淆，CanIborrowyourbookcouldIborrowyourbookyesofcourse，我能借用你的书吗？当然可以，问句中的cancould是在寻求许可，这里的课虽然是看的过去式变位，但是却没有时间上的含义，而是更礼貌，更委婉。所以在你请求他人做某事的时候，用刻的肯定比看诚恳一些。比如我会说，
 
@@ -160,6 +188,8 @@ Mustnot不是不必须的意思，而是必须不，也就是走到了另一个�
 就会说，
 
 Noyouneednotgivemeathumbsup，不，你不是必须给我点赞noyoudonthavetogivemeathumbsup，也就是要把must换掉，刚才这个need属于情态助动词。而haveto则属于半助动词，咱们呆会儿还会提到。Must还能表示一定肯定，Thelightisontherabbitmustbeathome灯亮着，兔子一定在家。这里不是说兔子必须乖乖待在家里，而是说肯确定兔子在家。
+
+
 
 那如果否定这种可能性？是不是thelightisantonetherabbitmustbeathome？不能这么说，原因还是must只有禁止的含义，所以therabbitmustbeathome就变成了禁止兔子呆在家了这不是侵犯突泉吗？是要负法律责任的。
 
