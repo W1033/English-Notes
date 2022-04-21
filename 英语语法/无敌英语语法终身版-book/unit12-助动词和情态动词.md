@@ -12,7 +12,7 @@
 
 
 
-你好啊，我是最在乎你的英语老师英语兔。这次咱们来说**助动词**(auxiliary verbs)，并着重讲一下**助动词中的情态动词**(modal verbs)。你也许会问，不对啊，助动词和情态动词是不同的两类词吧?，怎么能混在一起？别急，请听英语兔我解释。
+你好啊，我是最在乎你的英语老师英语兔。这次咱们来说**助动词**(auxiliary`/ɔɡ'zɪlɪəri/` verbs)，并着重讲一下**助动词中的情态动词**(modal` /ˈməʊdl` verbs)。你也许会问，不对啊，助动词和情态动词是不同的两类词吧?，怎么能混在一起？别急，请听英语兔我解释。
 
 ## 1. 什么是助动词?
 
@@ -143,47 +143,128 @@
 
 #### 3.1.1  be
 
-The rabbitiseatingacarrot，兔子正在吃一根胡萝卜，这里是助动词，Be变为is，辅助构成，现在进行时态，Thecatwaseatenbyderabbit，胡萝卜被兔子吃了，这是助动词，Be变为was，辅助构成被动语态。
+● The rabbit **is** eating a carrot. 兔子正在吃一根胡萝卜。这里是助动词 be 变为 is 辅助构成现在进行时态.
 
-Therabbithaseatenacarrot，兔子吃掉了根胡萝卜，这里是助动词，Have变为has，辅助构成现在完成时态。
+● The rabbit **was** eaten by the rabbit. 胡萝卜被兔子吃了。这是助动词 be 变为 was 辅助构成被动语态。
 
-Therabbitdoeslikecoins，兔子真的喜欢硬币，这里是助动词do变为does，构成强调，Therabbitdoesnotlikethelotus，兔子不喜欢看视频白嫖的人。这里是助动词do变为dust，辅助构成，否定。好好再读一遍，刚才两句你懂得。相比基本助动词，情态助动词就复杂一些了。
-
-
-
+![image-20220421132351842](Unit12-%E5%8A%A9%E5%8A%A8%E8%AF%8D%E5%92%8C%E6%83%85%E6%80%81%E5%8A%A8%E8%AF%8D.assets/image-20220421132351842.png)
 
 #### 3.1.2  have
+● The rabbit **has** eaten a carrot. 兔子吃掉了根胡萝卜。这里是助动词 have 变为 has 辅助构成现在完成时态。
+
+![image-20220421132726785](Unit12-%E5%8A%A9%E5%8A%A8%E8%AF%8D%E5%92%8C%E6%83%85%E6%80%81%E5%8A%A8%E8%AF%8D.assets/image-20220421132726785.png)
 
 #### 3.1.3  do
+● The rabbit **does** like coins. 兔子真的喜欢硬币。这里是助动词 do 变为 does 构成强调。
+
+● The rabbit **does** not like freeloaders. 兔子不喜欢看视频白嫖的人。这里是助动词 do 变为 does，辅助构成，否定。好好再读一遍，刚才两句你懂得。
+
+
+相比基本助动词，情态助动词就复杂一些了。
+
+#### 3.2 情态助动词的应用
+
+##### 3.2.1 can/could 
+
+###### (1) 表能力 ( **有能力做某事...**、 **会...，可以...**)
+
+can/could 可以表示 **"有能力做某事"**，也可以译作 **"会"，"可以"**，但是注意**"会"** 在中文里还能表示 **"将要"**，**"而"**  **"可以"** 还能表示 **"许可"** ，与这里的 **"能够"** 有区别。
+
+I can kill a wolf. 我能杀死一只狼。这里是说我有能力宰狼，但我不一定将要这么做。
+
+I could kill a wolf last year. 我去年能杀死一只狼。could 是 can 的过去式，那么这里是说我去年有能力宰狼，至于我现在是否还有能力？这就不一定了。
+
+###### (2) 表请求或许可
+
+刚才说到 can/could 也可以表示 **"可以"**，中文的可以是多义词，除了表示有能力，也表示 "许可"，所以不要和刚才那种 **"能够"** 的含义混淆: 
+
+Can/could I borrow your book?  -- Yes, of course.  
+
+我能借用你的书吗？当然可以。问句中的 can/could 是在寻求许可，这里的 could 虽然是 can 的过去式变位，但是却没有时间上的含义，而是更礼貌，更委婉。所以在你请求他人做某事儿的时候，用 could 的肯定比 can 诚恳一些。比如我会说：
+
+**Could** you give this video a thumbs-up?  你能给这个视频点个赞吗？ 
+
+###### (3) 表可能性
+
+Can/could 可以表可能性, 如：
+
+Anything **can**(表可能性) happen.  什么事儿都可能发生。很显然，这里的 can 是表达可能性的。你也可以说：
+
+Anything **could** happen. 这里用 could 可以表示对过去的推测，但是也可以表示现在的可能性，只不过可能性比 can 更小一点。再看：
+
+The rabbit **could have gone** home earlier, but he didn't finish work on time. 兔子本可以早回家的，但他没有按时完成工作。
+
+这里的 could have done 表示过去本可以做但实际未做，这是一种对过去的虚拟表达。
+
+所以情态动词跟虚拟语气还有一腿哦。如果你对虚拟语气还不是特别熟悉，请参见英语图虚拟语气视频。
+
+[虚拟语气就是这么简单（看完就懂!）]()
+
+
+##### 3.2.2 may/might
+
+###### (1) 表请求或许可
+
+跟 can/could 可以表达请求一样，may/might 也有这个意思。
+
+May/might  I borrow your book ?   -- Yes, of course. 
+
+我能借用你的书吗？  当然可以。May 已经很礼貌了，might 更礼貌。
+
+So, might I receive a coin or two from you?  我能从你这儿拿到一辆枚硬币吗？
+
+###### (2) 表可能性
+
+may/might 表示可能性的程度小于 can/could 的可能性。所以翻译为 **"也许，大概，可能"**：
+
+The rabbit isn't here. 兔子不在这。
+
+He may be at home. 他可能在家。（不确定）
+
+如果用 might，则暗示可能性更小一些，
+
+The rabbit isn't here. 兔子不在这。
+
+He may be at home. 他可能在家。（非常不确定）
+
+###### (3) 表祝愿
+
+may 还可以表示祝愿，通常放在句首，
+
+May your succeed!  祝你成功！
+
+这里不是说你被允许成功，或者你有可能成功，那样就完全不是祝福的意思了，对不对？所以这种含义也不会用 might。
+
+
+##### 3.2.3 will/would 
 
 
 
+##### 3.2.4 shall/should
 
+##### 3.2.5 must
 
-<strong style="color:red">Notice：下面的笔记是直接转义的视频，还没有修改，错误很多，请不要阅读！！！</strong>
+###### (1) 表必须 
 
+这是 must 的基本意义，如：
 
+Your must finish your homework first!  你必须先做完作业！
 
-看could可以表示有能力做某事，也可以坐会，可以，但是注意会在中文里还能表示将要，耳可以，还能表示许可与这里的能够有区别。Icankillawolf，我能杀死一只狼，这里是说我有能力宰狼，但我不一定将要这么做，Icouldkillofflastyear，我去年能杀死一只狼。could是看的过去式，那么这里是说我去年有能力宰狼，至于我现在是否还有能力？这就不一定了。
+must 在此为必须是那种不容置辩的语气。所以作为孩子的你不得不爬去乖乖写作业，做完了才能看电视、玩手机啥的。
 
+如果勾起了你不好的童年回忆，建议你去看看 [小王子]() 压压惊吧。
 
-刚才说到cancould，也可以表示可以，中文的可以是多义词，除了表示有能力，也表示许可，所以不要和刚才那种能够的含义混淆，CanIborrowyourbookcouldIborrowyourbookyesofcourse，我能借用你的书吗？当然可以，问句中的cancould是在寻求许可，这里的课虽然是看的过去式变位，但是却没有时间上的含义，而是更礼貌，更委婉。所以在你请求他人做某事的时候，用刻的肯定比看诚恳一些。比如我会说，
+###### (2) 表禁止 
 
-Couldyougivethisvideocomesup，
+再看这个句子，
 
-看could可以表可能性，如anythingcanhappen，什么事儿都可能发生，很显然，这里的can是表达可能性的。你可以说anythingcouldhappen，这里用could可以表示对过去的推测，但是也可以表示现在的可能性，只不过可能性比看更小一点。再看therabbitcouldhavegonehomeearlierbuthedidnotfinishworkontimeto，资本可以早回家的，但他没按时完成工作。
+You must not (mustn't) smoking here. 禁止你在此吸烟。
 
-这里的collectLang表示过去本可以做，但实际未做，是一种对过去的虚拟表达，所以情态动词跟虚拟语气还有一腿。如果你对虚拟语气还不是特别熟悉，请参见英语图虚拟语气视频。
+当 must 加上 not (或缩写为 mustn't)，就有了 **"不准, 禁止"** 的意思。
 
-跟看could可以表达请求一样，Maymight也有这个意思，MayIborrowyourbookmightIborrowyourbookyesofcourse，我能借用你的书吗？当然可以，May已经很礼貌了，Might更礼貌。somightIreceiveacoinortwofromyou，
+英语兔我在这里要特别提醒你，must not 不是 "不必须" 的意思，而是 "必须不"，也就是走到了另一个极端。而且这个否定 must not (mustn't) 只有这个禁止的含义，没有其他含义。
 
-Maymight表示可能性的程度小于cancould的可能性，所以翻译为也许，大概可能，Therabbitisandhereitmaybeathome，兔子不在这儿，他可能在家。如果用match，则暗示可能性更小一些，Therabbitisnthereinmightbeathome。
-
-May还可以表示祝愿，通常放在句首，Mayyousucceed，祝你成功。这里不是说你被允许成功或者你有可能成功，那样就完全不是祝福的意思了，对不对？所以这种含义也不会用might。
-
-这是must的基本意义，如youmustfinishyourhomeworkfirst，你必须先做完作业，Must在此为必须是那种不容置辩的语气。所以作为孩子的你不得不爬去乖乖写作业，做完了才能看电视、玩手机啥的。如果勾起了你不好的童年回忆，建议你去看看小王子压压惊。再看这个句子，Youmustnotsmoking，禁止你再次吸烟。当must加上not或缩写为must，就有了不准禁止的意思。英语课我在这里要特别提醒你，
-
-Mustnot不是不必须的意思，而是必须不，也就是走到了另一个极端。而且这个否定mustnotmust只有这个禁止的含义，没有其他含义。比如，如果你问我，Mustgiveyouathumbsup，我是否一定要给你一个赞？虽然我非常想要，但肯定不能说你必须塞，但我也不能说noyoumustgivemeathumbsup，那样可不是你并非必须给我点赞，而是变成了你绝对不能给我点赞了。兔子，我肯定不会是那个意思，对不对？所以我要否定，
+比如，如果你问我，Mustgiveyouathumbsup，我是否一定要给你一个赞？虽然我非常想要，但肯定不能说你必须塞，但我也不能说noyoumustgivemeathumbsup，那样可不是你并非必须给我点赞，而是变成了你绝对不能给我点赞了。兔子，我肯定不会是那个意思，对不对？所以我要否定，
 
 就会说，
 
@@ -222,6 +303,36 @@ Sharp可以用来征求意见，如shallwemeetatnineam，我们早上九点见�
 Itshouldraintomorrow，明天应该会下雨，这里不是说明天有一物下雨，而是表推测，那里神又是推测。这里的推测是根据具体情况做出的推测，所以表示的可能性程度比较大。
 
 这个用法就相对少见一点，Itsurprisingthatsheshouldbelate，真的很奇怪，他竟然会迟到。这里不是说他应该迟到所以令人吃惊，而是用should表达，竟然体现惊讶、愤怒或者失望等含义。
+
+
+
+
+
+##### 3.2.6 ought to
+
+
+##### 3.2.7 dare/dared
+
+
+##### 3.2.8 need
+
+
+##### 3.2.9 used to 
+
+
+
+#### 3.3 半助动词的应用 
+
+
+
+
+
+
+<strong style="color:red">Notice：下面的笔记是直接转义的视频，还没有修改，错误很多，请不要阅读！！！</strong>
+
+
+
+
 
 这种情况一般会出现在条件状语从句中，IfyourgreentomorrowIwouldgo，如果明天万一下雨，我就不去了，
 
