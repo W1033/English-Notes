@@ -236,12 +236,6 @@ May your succeed!  祝你成功！
 这里不是说你被允许成功，或者你有可能成功，那样就完全不是祝福的意思了，对不对？所以这种含义也不会用 might。
 
 
-##### 3.2.3 will/would 
-
-
-
-##### 3.2.4 shall/should
-
 ##### 3.2.5 must
 
 ###### (1) 表必须 
@@ -250,9 +244,7 @@ May your succeed!  祝你成功！
 
 Your must finish your homework first!  你必须先做完作业！
 
-must 在此为必须是那种不容置辩的语气。所以作为孩子的你不得不爬去乖乖写作业，做完了才能看电视、玩手机啥的。
-
-如果勾起了你不好的童年回忆，建议你去看看 [小王子]() 压压惊吧。
+must 在此为必须是那种不容置辩的语气。所以作为孩子的你不得不爬去乖乖写作业，做完了才能看电视、玩手机啥的。如果勾起了你不好的童年回忆，建议你去看看 [小王子]() 压压惊吧。
 
 ###### (2) 表禁止 
 
@@ -264,37 +256,124 @@ You must not (mustn't) smoking here. 禁止你在此吸烟。
 
 英语兔我在这里要特别提醒你，must not 不是 "不必须" 的意思，而是 "必须不"，也就是走到了另一个极端。而且这个否定 must not (mustn't) 只有这个禁止的含义，没有其他含义。
 
-比如，如果你问我，Mustgiveyouathumbsup，我是否一定要给你一个赞？虽然我非常想要，但肯定不能说你必须塞，但我也不能说noyoumustgivemeathumbsup，那样可不是你并非必须给我点赞，而是变成了你绝对不能给我点赞了。兔子，我肯定不会是那个意思，对不对？所以我要否定，
+比如，如果你问我，
 
-就会说，
+Must I give you a thumbs-up?  我是否一定要给你一个赞呢？
 
-Noyouneednotgivemeathumbsup，不，你不是必须给我点赞noyoudonthavetogivemeathumbsup，也就是要把must换掉，刚才这个need属于情态助动词。而haveto则属于半助动词，咱们呆会儿还会提到。Must还能表示一定肯定，Thelightisontherabbitmustbeathome灯亮着，兔子一定在家。这里不是说兔子必须乖乖待在家里，而是说肯确定兔子在家。
+虽然我非常想要，但肯定不能说 "你必须" 噻。
+
+但我也不能说
+
+No, you mustn't give me a thumbs-up.  不，你并非必须给我点赞。
+
+那样可不是你并非必须给我点赞，而是变成了你绝对不能给我点赞了。兔子我肯定不会是那个意思，对不对？所以我要否定，就会说，
+
+No, you need not give me a thumbs-up.  不，你不是必须给我点赞。
+
+No, you don't have to give a thumbs-up. 不，你不是必须给我点赞。
+
+也就是要把 must 换掉，刚才这个 need 属于情态助动词。而 have to 则属于半助动词，咱们呆会儿还会提到。
+
+###### (3) 表推测
+
+must 还能表示 "一定，肯定"，
+
+The light is on. The rabbit must be at home. 灯亮着，兔子一定在家。
+
+这里不是说兔子必须乖乖待在家里，而是说 "肯确定" 兔子在家。
+
+那如果否定这种可能性？是不是：
+
+~~The light isn't on. The rabbit mustn't be at home.~~
+
+不能这么说，原因还是 mustn't 只有 "禁止" 的含义，所以 The rabbit mustn't be at home. 就变成了禁止兔子呆在家了。 这不是侵犯兔权吗？是要负法律责任的呀。
+
+那要表示灯不亮，兔子很可能不在家又该如何说呢？ 也要把 must 换掉，咱们需要这样说：
+
+The light isn't on. The rabbit can't be at home. 灯不亮，兔子不可能在家。
+
+所以 must 表示推测只能用在肯定句里，否定就只能用 can't。
 
 
 
-那如果否定这种可能性？是不是thelightisantonetherabbitmustbeathome？不能这么说，原因还是must只有禁止的含义，所以therabbitmustbeathome就变成了禁止兔子呆在家了这不是侵犯突泉吗？是要负法律责任的。
+##### 3.2.3 will/would 
 
-那要表示灯不亮，兔子很可能不在家又该如何？也要把must换掉，咱们需要这样说，Thelightisantonetherabbitcanbeathome灯不亮，兔子不可能在家。所以must表示推测是只能用在肯定句里，否定就只能用count。我可以构成将来时，比如现在将来时，Therabbitwilleatcarrot，兔子将吃一根胡萝卜，Would作为will的过去式，就可以构成过去将来时，Therabbitwouldeatcarrot，
+###### (1) 构成将来时
+will 可以构成将来时，比如**现在将来时**:
 
-兔子在过去某一时间将吃一根胡萝卜。如果你对时态还不熟悉，请进英语时态视频合集。
+The rabbit will eat a carrot. 兔子将吃一根胡萝卜。
 
-刚才这句话中的问题其实是有歧义的，咱们马上还会提到。
+Would 作为 will 的过去式，就可以构成**过去将来时**：
 
-咱们看这句wouldyouletmethatbook，你愿意借给我那本书吗？这里的乌有虽然理论上有可能是构成将来时的，表示你将要借我那本书吗？但更大的可能性是比较请求，询问对方是否愿意做某事，所以这句话才是你愿意借书给我吗？在看wouldyoupleaseletmethatbook，请你借给我那本书好吗？这里的would显然不是构成过去、将来时，而是用will的过去式，Would更委婉的表达礼貌，也就是和时间无关，
+The rabbit would eat a carrot. 兔子（在过去某一时间）将吃一根胡萝卜。
 
-请一定不要弄混。所以一般在英语里请求他人做事，通常会说，Wouldyouplease，比如wouldyoupleasesubscribetomychannel，
+如果你对时态还不熟悉，请见英语兔态时态视频合集：[英语16种时态终极详解]()
 
-没错，Will和would也可以表示推测，Askhimevenknowaskhimitwouldknow，问他，他，可能知道，这里不是说他将要知道儿说他可能知道之前过去式语气更弱，类似would表推测也比的程度更弱。
+刚才这句话中的 would 其实是有歧义的，咱们马上还会提到。
 
-还记得咱们刚才提到therabbitwouldeatcarrot有歧义吗？这句话除了有可能是过去、将来时，也可能表示推测兔子可能会吃胡萝卜。具体当然要看语境，Whatwasarabbitfordinneritwouldeatcarrot这类语境就很明确，不是过去将来时，而是表示兔子可能会吃啥。
+###### (2) 表示请求，建议
+咱们看这句：
 
-接下来咱们shallshouldshall和should的含义较多，所以咱们挑最重要的说。另外，虽然should是shall的过去式，但是两者含义区别较大，所以咱们分开来说。
+Would you lend me that book? 你愿意借给我那本书吗？
 
-Sharp可以构成将来时，这点和will相同，IwillbethereatnineamIshallbethereatnineam，我早上九点会在那里。这两句意思基本相同。
+这里的 wll 有虽然理论上有可能是构成将来时的，表示你将要借我那本书吗？但更大的可能性是比较请求，询问对方是否 "愿意" 做某事，所以这句话是才是 "你愿意借书给我" 吗？再看：
 
-Sharp可以用来征求意见，如shallwemeetatnineam，我们早上九点见面如何？这里与其说是推测我们明早九点将要见面吗？不如说是建议我们明早九点见。
+Would you please lend me that book? 请你借给我那本书好吗？
 
-这里是警告命令，再比如圣经里的十诫，Tencommandments中youyoushallnotmurderyoushallnotstealyoushallnotcovered，你不可杀人，不可偷盗，你不可贪心。刚才是现代版本，中国英语版本是shoutnomotherwillshallnotstealthoushallnotcovered，
+这里的 would 显然不是构成过去将来时，而是用 will 的过去式 would 更委婉的表达礼貌，-- 也就是和时间无关，请一定不要弄混。所以，一般在英语里请求他人做事，通常会说 **would you please**，比如
+
+Would you please subscribe`/səb'skraɪb/` to my channel? 你能否订阅我的频道呢？
+
+###### (2) 表推测，假设
+
+没错，Will 和 would 也可以表示推测：
+
+Ask him. He will/would know. 问他吧，他可能知道。
+
+这里不是说他 "将要" 知道, 而是说他 "可能" 知道。和之前过去式语气更弱类似，would 作推测也比 will 的程度更弱。
+
+还记得咱们刚才提到 The rabbit would eat a carrot 有歧义吗？这句话除了有可能是过去将来时，也可能表示推测兔子可能会吃胡萝卜。具体当然要看语境，
+
+- What would the rabbit eat for dinner? 兔子可能要吃什么？
+- He would eat a carrot. 他可能要吃一根胡萝卜。
+
+这里语境就很明确，不是过去将来时，而是表示兔子可能会吃啥。
+
+
+##### 3.2.4 shall/should
+
+接下来咱们说 shall 和 should. shall 和 should 的含义较多，所以咱们挑最重要的说。另外，虽然 should 是 shall 的过去式，但是两者含义区别较大，所以咱们分开来说。
+
+###### (1) shall 构成将来时
+
+shall 可以构成将来时，这点和 will 相同：
+
+I will be there at 9AM. 我早上 9 点会在那里。
+
+I shall be there at 9AM. 我早上 9 点会在那里。
+
+这两句意思基本相同。
+
+
+###### (2) 表请求或征求意见
+
+shall 可以用来征求意见，如:
+
+Shall we meet at 9AM? 我们早上九点见面如何？
+
+这里与其说是预测 "我们明早九点将要见面吗？"，不如说是 "建议" 我们明早九点见吧。
+
+
+###### (3) 表警告，命令等
+
+You shall not pass! 你不许通过！
+
+这里是警告，命令，再比如圣经里的 "十诫" (ten commandments`/kə'mændmənt/`) 中
+
+You shll not murder. You shall not steal. You shall not covet`/'kʌvət/`.
+你不可杀人，你不可偷盗，你不可贪心。
+
+youyoushallnotmurderyoushallnotstealyoushallnotcovered，你不可杀人，不可偷盗，你不可贪心。刚才是现代版本，中国英语版本是shoutnomotherwillshallnotstealthoushallnotcovered，
 
 这个是中古英语中的你的单数，Shot是动词变位。如果你对ewido的这样的表示你，你们的还不太熟悉，请间英语屠LV视频。
 
