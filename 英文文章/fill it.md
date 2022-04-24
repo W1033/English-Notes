@@ -136,7 +136,7 @@ I have, in the past, made important decisions about people I work with – agent
 
 
 ## 9. Don’t Rush. (第九: 別急)
-You don’t need to already know what you’re going to do with the rest of your life. I’m not saying sit around smoking cones all day, but also, don’t panic. Most people I know who were sure of their career path at 20 are having midlife crises now.
+You don’t need to already know what you’re going to do with the rest of your life. I’m not saying sit around smoking all day, but also, don’t panic. Most people I know who were sure of their career path at 20 are having midlife crises now.
 
 (你不需要已经知道你的余生要做什么。我不是说整天坐在那里抽烟，但是，也不要惊慌。我认识的大多数人在20岁时就确定了自己的职业道路，现在却出现了中年危机。)
 

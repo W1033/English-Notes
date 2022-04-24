@@ -147,15 +147,15 @@
 
 ### 3.1 基本助动词的应用 （be, do, have）
 
-> 参考另外一个视频：[英语 16 种时态终极讲解]()
+> 参考另外一个视频：[英语语法: 16种时态终极详解 (合集)(看完就懂)](https://www.bilibili.com/video/BV1Sv411y7d8?spm_id_from=333.999.0.0)
 
 仅有的 三个基本助动词 be, do, have 非常常见，它们也出现在咱们之前讲的
 
-"时态"、[英语 16 种时态终极讲解]() 
+"时态"、[英语语法: 16种时态终极详解 (合集)(看完就懂)](https://www.bilibili.com/video/BV1Sv411y7d8?spm_id_from=333.999.0.0)
 
-"被动"、[被动态]()
+"被动"、[英语语法: 被动语态(被动句)](https://www.bilibili.com/video/BV1dr4y1K7uv?spm_id_from=333.999.0.0)
 
-"强调"、[强调]()
+"强调"、[语法: 英语中的强调](https://www.bilibili.com/video/BV1WQ4y1o7KT?spm_id_from=333.999.0.0)
 
  等语法视频中，所以咱们这里就不过多讨论。
 
@@ -187,11 +187,12 @@
 
 相比基本助动词，情态助动词就复杂一些了。
 
-#### 3.2 情态助动词的应用
 
-##### 3.2.1 can/could 
+### 3.2 情态助动词的应用
 
-###### (1) 表能力 ( **有能力做某事...**、 **会...，可以...**)
+#### 3.2.1 can/could 
+
+##### (1) 表能力 ( **有能力做某事...**、 **会...，可以...**)
 
 can/could 可以表示 **"有能力做某事"**，也可以译作 **"会"，"可以"**，但是注意**"会"** 在中文里还能表示 **"将要"**，**"而"**  **"可以"** 还能表示 **"许可"** ，与这里的 **"能够"** 有区别。
 
@@ -203,7 +204,7 @@ can/could 可以表示 **"有能力做某事"**，也可以译作 **"会"，"可
 
 could 是 can 的过去式，那么这里是说我去年有能力宰狼，至于我现在是否还有能力？这就不一定了。
 
-###### (2) 表请求或许可
+##### (2) 表请求或许可
 
 刚才说到 can/could 也可以表示 **"可以"**，中文的可以是多义词，除了表示有能力，也表示 "许可"，所以不要和刚才那种 **"能够"** 的含义混淆: 
 
@@ -213,7 +214,7 @@ Can/could I borrow your book?  -- Yes, of course.
 
 **Could** you give this video a thumbs-up?  你能给这个视频点个赞吗？ 
 
-###### (3) 表可能性
+##### (3) 表可能性
 
 Can/could 可以表可能性, 如：
 
@@ -231,12 +232,12 @@ Can/could 可以表可能性, 如：
 
 所以情态动词跟虚拟语气还有一腿哦。如果你对虚拟语气还不是特别熟悉，请参见英语图虚拟语气视频。
 
-[虚拟语气就是这么简单（看完就懂!）]()
+[英语"虚拟语气"就是这么简单(看完就懂!)](https://www.bilibili.com/video/BV1bt4y1S779?spm_id_from=333.999.0.0)
 
 
-##### 3.2.2 may/might
+#### 3.2.2 may/might
 
-###### (1) 表请求或许可
+##### (1) 表请求或许可
 
 跟 can/could 可以表达请求一样，may/might 也有这个意思。
 
@@ -248,7 +249,7 @@ May 已经很礼貌了，might 更礼貌。
 
 > So, might I receive a coin or two from you?  我能从你这儿拿到一辆枚硬币吗？
 
-###### (2) 表可能性
+##### (2) 表可能性
 
 may/might 表示可能性的程度小于 can/could 的可能性。所以翻译为 **"也许，大概，可能"**：
 
@@ -262,7 +263,7 @@ may/might 表示可能性的程度小于 can/could 的可能性。所以翻译�
 >
 > He might be at home. 他可能在家。（非常不确定）
 
-###### (3) 表祝愿
+##### (3) 表祝愿
 
 may 还可以表示祝愿，通常放在句首，
 
@@ -271,9 +272,9 @@ may 还可以表示祝愿，通常放在句首，
 这里不是说你被允许成功，或者你有可能成功，那样就完全不是祝福的意思了，对不对？所以这种含义也不会用 might。
 
 
-##### 3.2.5 must
+#### 3.2.5 must
 
-###### (1) 表必须 
+##### (1) 表必须 
 
 这是 must 的基本意义，如：
 
@@ -281,7 +282,7 @@ may 还可以表示祝愿，通常放在句首，
 
 must 在此为必须是那种不容置辩的语气。所以作为孩子的你不得不爬去乖乖写作业，做完了才能看电视、玩手机啥的。如果勾起了你不好的童年回忆，建议你去看看 [小王子]() 压压惊吧。
 
-###### (2) 表禁止 
+##### (2) 表禁止 
 
 再看这个句子，
 
@@ -309,7 +310,7 @@ must 在此为必须是那种不容置辩的语气。所以作为孩子的你不
 
 也就是要把 must 换掉，刚才这个 need 属于情态助动词。而 have to 则属于半助动词，咱们呆会儿还会提到。
 
-###### (3) 表推测
+##### (3) 表推测
 
 must 还能表示 "一定，肯定"，
 
@@ -331,9 +332,9 @@ must 还能表示 "一定，肯定"，
 
 
 
-##### 3.2.3 will/would 
+#### 3.2.3 will/would 
 
-###### (1) 构成将来时
+##### (1) 构成将来时
 will 可以构成将来时，比如**现在将来时**:
 
 > The rabbit will eat a carrot. 兔子将吃一根胡萝卜。
@@ -342,11 +343,11 @@ would 作为 will 的过去式，就可以构成**过去将来时**：
 
 > The rabbit would eat a carrot. 兔子（在过去某一时间）将吃一根胡萝卜。
 
-如果你对时态还不熟悉，请见英语兔态时态视频合集：[英语16种时态终极详解]()
+如果你对时态还不熟悉，请见英语兔态时态视频合集：[英语语法: 16种时态终极详解 (合集)(看完就懂)](https://www.bilibili.com/video/BV1Sv411y7d8?spm_id_from=333.999.0.0)
 
 刚才这句话中的 would 其实是有歧义的，咱们马上还会提到。
 
-###### (2) 表示请求，建议
+##### (2) 表示 "请求，建议"
 咱们看这句：
 
 > Will you lend me that book? 你愿意借给我那本书吗？
@@ -359,7 +360,7 @@ would 作为 will 的过去式，就可以构成**过去将来时**：
 
 > Would you please subscribe`/səb'skraɪb/` to my channel? 你能否订阅我的频道呢？
 
-###### (2) 表推测，假设
+##### (2) 表 "推测，假设"
 
 没错，Will 和 would 也可以表示推测：
 
@@ -369,18 +370,18 @@ would 作为 will 的过去式，就可以构成**过去将来时**：
 
 还记得咱们刚才提到 The rabbit would eat a carrot 有歧义吗？这句话除了有可能是过去将来时，也可能表示推测兔子可能会吃胡萝卜。具体当然要看语境，
 
-> What would the rabbit eat for dinner? 兔子晚饭可能要吃什么？
+> What would the rabbit eat for dinner? 兔子可能要吃什么？
 >
 > He would eat a carrot. 他可能要吃一根胡萝卜。
 
 这里语境就很明确，不是过去将来时，而是表示兔子可能会吃啥。
 
 
-##### 3.2.4 shall/should
+#### 3.2.4 shall/should
 
 接下来咱们说 shall 和 should. shall 和 should 的含义较多，所以咱们挑最重要的说。另外，虽然 should 是 shall 的过去式，但是两者含义区别较大，所以咱们分开来说。
 
-###### (1) shall 构成将来时
+##### (1) shall 构成将来时
 
 shall 可以构成将来时，这点和 will 相同：
 
@@ -391,7 +392,7 @@ shall 可以构成将来时，这点和 will 相同：
 这两句意思基本相同。
 
 
-###### (2) shall 表请求或征求意见
+##### (2) shall 表 "请求或征求意见"
 
 shall 可以用来征求意见，如:
 
@@ -400,43 +401,100 @@ shall 可以用来征求意见，如:
 这里与其说是预测 "我们明早九点将要见面吗？"，不如说是 "建议" 我们明早九点见吧。
 
 
-###### (3) shall 表警告，命令等
-
+##### (3) shall 表 "警告，命令等"
 > You shall not pass! 你不许通过！
 
 这里是警告，命令，再比如圣经里的 "十诫" (ten commandments`/kə'mændmənt/`) 中
 
-> You shll not murder. You shall not steal. You shall not covet`/'kʌvət/`.
+> You shall not murder. You shall not steal. You shall not covet`/'kʌvət/`.
 你不可杀人，你不可偷盗，你不可贪心。
 
-youyoushallnotmurderyoushallnotstealyoushallnotcovered，你不可杀人，不可偷盗，你不可贪心。刚才是现代版本，中国英语版本是shoutnomotherwillshallnotstealthoushallnotcovered，
 
-这个是中古英语中的你的单数，Shot是动词变位。如果你对ewido的这样的表示你，你们的还不太熟悉，请间英语屠LV视频。
+##### (1) should 表 "应当"
 
-这个含义你应该不陌生，如weshouldtreattherabbitwell，我们应该对兔子好点。
+这个含义你应该不陌生，如：
+> We should treat the rabbit well. 我们应该对兔子好点儿。
 
-Itshouldraintomorrow，明天应该会下雨，这里不是说明天有一物下雨，而是表推测，那里神又是推测。这里的推测是根据具体情况做出的推测，所以表示的可能性程度比较大。
+##### (2) should 表 "有一定根据的推测"
+> It should rain tomorrow. 明天应该会下雨。
 
-这个用法就相对少见一点，Itsurprisingthatsheshouldbelate，真的很奇怪，他竟然会迟到。这里不是说他应该迟到所以令人吃惊，而是用should表达，竟然体现惊讶、愤怒或者失望等含义。
+这里不是说明天有义务下雨，而是表推测。这里的推测是根据具体情况做出的推测，所以表示的可能性程度比较大。
+
+##### (3) should 表 "竟然"
+这个用法就相对少见一点：
+
+> It's surprising that he should be late. 真的很奇怪，他竟然会迟到。
+
+这里不是说他应该迟到所以令人吃惊，而是用 should 表达 "竟然" 体现惊讶、愤怒或者失望等含义。
+
+##### (4) should 构成虚拟语气
+这种情况一般会出现在条件状语从句中：
+
+> If it should rain tomorrow, I wouldn't go. 如果明天万一下雨，我就不去了，
+
+是不是很眼熟？这不就是对将来情况的虚拟吗？没错，动词的虚拟语气中会用到 should。再比如：
+
+> You should have eaten the carrot. 你应该吃掉那根胡萝卜（但你没吃）。
+
+这里是对过去的与现实相反的假设还是虚拟语气。如果你对虚拟语气不熟悉，请参见英语兔虚拟语气视频。
+[英语"虚拟语气"就是这么简单(看完就懂!)](https://www.bilibili.com/video/BV1bt4y1S779?spm_id_from=333.999.0.0)
+
+
+#### 3.2.6 ought to
+ought to 表示 "应该"，与 should 在表示应该时的用法大致相同，
+
+> We ought to treat the rabbit well. 我们应该对兔子好点儿。
+
+
+#### 3.2.8 need
+need 最常见的用法是做实义动词，表示需要，如:
+
+> I need your coins. 我需要你的硬币。
+
+![image-20220424224113421](unit12-助动词和情态动词.assets/image-20220424224113421.png)
+
+但 need 也可作为情态动词，也表示 "需要，有必要"。不过既然是情态动词，那就要遵循情态动词的行为守则,
+
+> The rabbit need wait. 兔子需要等待。
+
+是不是听起来有些怪，乍看上去甚至象语法错误？这里的 need 是情态动词， 辅助后面的主动词 wait，当然更常见的说法是：
+
+> The rabbit needs to wait. 兔子需要等待。
+
+![image-20220424224338346](unit12-助动词和情态动词.assets/image-20220424224338346.png)
+
+但是请注意，这里的 needs 可就不是情态动词了，而是变了味的谓语动词后跟非谓语动词中的动词不定式 to wait。
+
+如果你对非谓语动词不熟悉，请参见英语图非谓语动词视频: 
+[一个合集搞定非谓语动词: 不定式, 动名词, 现在分词, 过去分词](https://www.bilibili.com/video/BV1YZ4y1g7mE?spm_id_from=333.999.0.0). 
+
+那么如果否定刚才这两句怎么办？
+
+need 作情态动词时直接加 not: 
+> The rabbit need not wait. 兔子不必等待。
+
+但是作实义动词时就不能直接在后面加 not 了，而是要借助另一个助动词 do:
+
+> The rabbit does not need to wait. 兔子不必等待。
+
+![image-20220424225614683](unit12-助动词和情态动词.assets/image-20220424225614683.png)
+
+大家记得之前咱们讲 must 时说道过 must 的否定吗？
+
+> **Must** I give you a thumbs-up? 我不需要给你点赞吗？
+
+> No, you **need not** give me a thumbs-up. 不，你不是必须给我点赞。
+
+现在你理解更深了吧。
+
+#### 3.2.7 dare/dared
+
+
+#### 3.2.9 used to 
 
 
 
-
-
-##### 3.2.6 ought to
-
-
-##### 3.2.7 dare/dared
-
-
-##### 3.2.8 need
-
-
-##### 3.2.9 used to 
-
-
-
-#### 3.3 半助动词的应用 
+### 3.3 半助动词的应用 
 
 
 
@@ -448,18 +506,6 @@ Itshouldraintomorrow，明天应该会下雨，这里不是说明天有一物下
 
 
 
-
-这种情况一般会出现在条件状语从句中，IfyourgreentomorrowIwouldgo，如果明天万一下雨，我就不去了，
-
-是不是很眼熟？这不就是对将来情况的虚拟吗？没错，动词的虚拟语气中会用到似的。再比如，Youshouldhaveeatenthecarrot，应该吃掉那根胡萝卜，但你没吃。这里是对过去的与现实相反的假设还是虚拟语气。如果你对虚拟语气不熟悉，请参见英语to虚拟语气视频，请叫我套娃to。
-
-表示应该与should在表示应该时的用法大致相同，但往往语气更强一些，Wealltotreattherabbitwell，我们应该对兔子好些。
-
-Need最常见的用法是做实义动词，表示需要，如Ineedyourcoins，我需要你的硬币。
-
-但腻子也可作为情态动词，也表示需要，有必要。不过既然是情态动词，那就要遵循情态动词的行为守则，Therabbitneedswait，兔子需要等待，是不是听起来有些怪，乍看上去甚至象语法错误？这里的need是情态动词辅助后面的主动词wait，当然更常见的说法是，Therabbitneedstowait，兔子需要等待，但是请注意，这里的needs可就不是情态动词了，而是变了味的谓语动词后跟非谓语动词中的动词不定式，
-
-Towait。如果你对非谓语动词不熟悉，请参见英语图非谓语动词视频。那么如果否定刚才这两句怎么办？Need作情态动词时直接加nottherabbitneednotwait，兔子不必等待，加not了，而是要借助另一个助动词，Dotherabbitdoesnotneedtowait，兔子不必等待。大家记得之前咱们讲must时说道过must的否定吗？MustIgiveyouathumbsupnoyouneednotgivemeathumbsup，
 
 Dad跟need类似，也可以穿个马甲，从实义动词摇身一变成为情态助动词。dare作为情态助动词表示感，一般用于否定句和疑问句中，比如，Therabbitdidnottellthetruthtowolf，兔子不敢对郎说出真相，Howdareyou，你好大的胆子。Usedto表示过去的动作，尤其是重复的动作，而且强调和现在的对比。如therabbitusedtoeatapplesnowheonlyeatscarrots，
 
