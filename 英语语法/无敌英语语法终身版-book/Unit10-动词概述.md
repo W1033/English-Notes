@@ -142,7 +142,7 @@
 | appear  似乎 | seem 好像  | come 变得 | go 变得     |
 | ------------ | ---------- | --------- | ----------- |
 | become 变成  | fall 变成  | get 变得  | grow 变得   |
-| trun 变得    | prove 证实 | keep 保持 | remain 保持 |
+| turn 变得    | prove 证实 | keep 保持 | remain 保持 |
 | stay 保持    |            |           |             |
 
 > The leaves are **turning** green. （树叶正在变绿。）

@@ -489,8 +489,45 @@ need 作情态动词时直接加 not:
 
 #### 3.2.7 dare/dared
 
+![image-20220425230759341](unit12-助动词和情态动词.assets/image-20220425230759341.png)
+
+
+dare 跟 need 类似，也可以穿个马甲，从实义动词摇身一变成为情态助动词。dare 作为情态助动词表示 "敢"，一般用于否定句和疑问句中。 比如：
+
+> The rabbit dare$^*$ not tell the truth to the wolf. 兔子不敢对狼说出真相。
+> - *注：这里是情态动词，所以不是 dares.
+
+> How dare you! 你好大的胆子。
 
 #### 3.2.9 used to 
+
+**used to** `/ˈjuːst tuː/`
+```css
+├── modal verb (情态动词)
+│   ├── (1) 过去经常 [一直] (发生)，曾经。
+│   │   ├──  He used to go to our school. 他曾在我们学校就读。
+│   │   ├──  We’re eating out more often than we used to. 我们现在出去吃饭的次数比以前多了。
+│   │   ├── did not use to do something
+│   │   │   ├──  You didn’t use to eat chips when you were younger.你年轻的时候不吃炸薯条的。
+│   ├── (2) 
+│   │   ├── 
+│   │   │  
+│   ├── (3) 
+│   │   ├── 
+```
+
+![image-20220425231054608](unit12-助动词和情态动词.assets/image-20220425231054608.png)
+
+usd to 表示过去的动作，尤其是重复的动作，而且强调和现在的对比。如：
+therabbitusedtoeatapplesnowheonlyeatscarrots，
+
+兔子过去习惯吃苹果，现在他只吃胡萝卜，相比之下，TherabbitAsianAPP就没有这种过去经常习惯的感觉了。请注意，不要把usedto和实义动词use使用，以及动词词组beusedsomethingorbeusedtodoingsomething习惯于什么什么弄混淆，CouldIuseyourphone，我可以用你的电话吗？IamusedToGettingupearly，我习惯早起。咱们再来说几个常见的半助动词。
+
+这个半助动词和can很像，但是有些区别，看的时态只有现在与过去时，所以一般表示的是现在和过去的能力，而beableto可以表达将来的能力。babertoreachschoolontimeifIliverightnow，如果我现在离开，就能按时到学校。
+
+再表示过去的能力时，Waswereableto往往表示成功做成某事，IwasabletoreachschoolontimebecauseIlefthomeearly，因为我离家很早，所以按时到学校。
+
+
 
 
 
@@ -507,13 +544,7 @@ need 作情态动词时直接加 not:
 
 
 
-Dad跟need类似，也可以穿个马甲，从实义动词摇身一变成为情态助动词。dare作为情态助动词表示感，一般用于否定句和疑问句中，比如，Therabbitdidnottellthetruthtowolf，兔子不敢对郎说出真相，Howdareyou，你好大的胆子。Usedto表示过去的动作，尤其是重复的动作，而且强调和现在的对比。如therabbitusedtoeatapplesnowheonlyeatscarrots，
 
-兔子过去习惯吃苹果，现在他只吃胡萝卜，相比之下，TherabbitAsianAPP就没有这种过去经常习惯的感觉了。请注意，不要把usedto和实义动词use使用，以及动词词组beusedsomethingorbeusedtodoingsomething习惯于什么什么弄混淆，CouldIuseyourphone，我可以用你的电话吗？IamusedToGettingupearly，我习惯早起。咱们再来说几个常见的半助动词。
-
-这个半助动词和can很像，但是有些区别，看的时态只有现在与过去时，所以一般表示的是现在和过去的能力，而beableto可以表达将来的能力。babertoreachschoolontimeifIliverightnow，如果我现在离开，就能按时到学校。
-
-再表示过去的能力时，Waswereableto往往表示成功做成某事，IwasabletoreachschoolontimebecauseIlefthomeearly，因为我离家很早，所以按时到学校。
 
 这三个半助动词和我有一样，都表示将要做某事，但是具体语境有些微妙的区别，Begoingto有更强的主观能动性，还有计划做某事的意思，而且通常是很快就要做某事，如gonnaeatdinneratsixPMtoday，我会在六点吃完饭，当然也可以说IwilleatdinneratsixPMtoday。不过在比较，Iwillgraduateinthreeyears，我会在三年内毕业。这句话如果说成IamgoingToGraduateinthreeyears就稍稍有点怪，
 
