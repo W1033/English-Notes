@@ -504,61 +504,107 @@ dare 跟 need 类似，也可以穿个马甲，从实义动词摇身一变成为
 **used to** `/ˈjuːst tuː/`
 ```css
 ├── modal verb (情态动词)
-│   ├── (1) 过去经常 [一直] (发生)，曾经。
+│   ├── (1) 过去经常 [一直] (发生)，曾经。 (used to do 过去常常做某事。过去经常的动作或状态，但现在已经不是了。)
 │   │   ├──  He used to go to our school. 他曾在我们学校就读。
 │   │   ├──  We’re eating out more often than we used to. 我们现在出去吃饭的次数比以前多了。
-│   │   ├── did not use to do something
-│   │   │   ├──  You didn’t use to eat chips when you were younger.你年轻的时候不吃炸薯条的。
-│   ├── (2) 
-│   │   ├── 
-│   │   │  
-│   ├── (3) 
-│   │   ├── 
+│   │   ├── **used not to do something** (过去常常不做什么)
+│   │   │   ├── You used not to fuss/fʌs/ like this. 你以前不是这么大惊小怪的。
+│   │   ├── **never used to do something** (过去从不做什么)
+│   │   │   ├── It never used to bother me. 这我以前从不担心。
+│   ├── (2) 过去曾经〔存在〕
+│   │   ├── Jimmy used to be a friend of mine. 吉米曾是我的朋友。
+│   │   ├── There used to be a large car park on this site. 这地方曾经是个大停车场。
 ```
 
 ![image-20220425231054608](unit12-助动词和情态动词.assets/image-20220425231054608.png)
 
 usd to 表示过去的动作，尤其是重复的动作，而且强调和现在的对比。如：
-therabbitusedtoeatapplesnowheonlyeatscarrots，
 
-兔子过去习惯吃苹果，现在他只吃胡萝卜，相比之下，TherabbitAsianAPP就没有这种过去经常习惯的感觉了。请注意，不要把usedto和实义动词use使用，以及动词词组beusedsomethingorbeusedtodoingsomething习惯于什么什么弄混淆，CouldIuseyourphone，我可以用你的电话吗？IamusedToGettingupearly，我习惯早起。咱们再来说几个常见的半助动词。
+> There rabbit used to eat apples. Now he only eats carrots. 兔子过去(习惯)吃苹果。现在他只吃胡萝卜。
 
-这个半助动词和can很像，但是有些区别，看的时态只有现在与过去时，所以一般表示的是现在和过去的能力，而beableto可以表达将来的能力。babertoreachschoolontimeifIliverightnow，如果我现在离开，就能按时到学校。
+相比之下，
 
-再表示过去的能力时，Waswereableto往往表示成功做成某事，IwasabletoreachschoolontimebecauseIlefthomeearly，因为我离家很早，所以按时到学校。
+> The rabbit ate an apple. 兔子吃了一个苹果。
 
+就没有这种 "过去经常/习惯" 的感觉了。请注意，不要把 used to 和实义动词 use (使用) 以及动词词组 be used to something / be used to doing something (习惯于...) 弄混淆:
 
+> Could I use your phone? 我可以用你的电话吗？
 
+> I am used to getting(重读闭音节双写 t) up early. 我习惯早起。
 
 
 ### 3.3 半助动词的应用 
 
+咱们再来说几个常见的半助动词。
+
+#### 3.3.1 be able to (可能/可以) 
+
+这个半助动词和 can 很像，但是有些区别.  can 的时态只有现在与过去时，所以一般表示的是现在和过去的能力，而 be able to 可以表达将来的能力。
+
+> I'll be able to reach school on time if I leave right now. 如果我现在离开就能按时到学校。
+
+再表示过去的能力时，**was/were able to** 往往表示 "成功做成...":
+> I was able to reach school on time because I left home early. 因为我离家很早所以按时到学校。
+
+#### 3.3.2 be going to / be about to / be to
+这三个半助动词和 will 一样都表示 **将要做某事**，但是具体语境有些微妙的区别:
+
+##### (1) be going to 
+be going to 有更强的主观能动性，还有 "计划做某事" 的意思，而且通常是 "很快就要做某事"，如；
+
+> I'm going to eat dinner at 6PM today. 我会在 6 点吃完饭。
+
+当然也可以说
+
+> I will eat dinner at 6PM today。 我会在 6 点吃完饭。
+
+不过，再比较：
+
+> I will graduate`/'ɡrædʒuət/` in three years. 我会在 3 年内毕业。
+
+这句话如果说成
+
+> I am going to graduate in 3 years. 我会在 3 年内毕业。
+
+就稍稍有点怪，但也不是不行。
+
+##### (2) be about to
+而 be about to 是**马上就要做某事**，时间就更短了。你就不能说：
+
+> ~~I am about to graduate in 3 years.~~  我会在 3 年内毕业。
+
+因为听起来有点矛盾。
+
+##### (3) be to
+还有个 be to 往往表示**被命令做某事**，如：
+
+> You are to finish home work first. 你要先做完作业.
+
+这句话就和
+
+> You must finish home work first. 你必须先做完作业。
+
+有点像，它也可以表示命中注定(因为是被命运命令嘛)：
+
+> I think they are to fall in love with each other. 我想他们注定会相爱。
 
 
+##### (4) had better
 
+had better 表示 **"最好做..."**, 往往表示忠告、警告之意，暗含如果不这么做会有不好的后果。
 
+> You had better follow my orders，你最好听我的命令。
 
-<strong style="color:red">Notice：下面的笔记是直接转义的视频，还没有修改，错误很多，请不要阅读！！！</strong>
+had better 的缩写是 'd better. 其实缩写形式更常见，以至于很多人都不知道 'd better 是 had better，具体请参见英语图 had better 视频。
 
+以上就是英语助动词最核心的概念，再来快速总结一下.
 
+英语的助动词，尤其是其中的情态助动词比较复杂，是英语学习的难点之一。助动词用来辅助之后的主动词构成语法概念，但却不能单独作谓语动词分为三类: 
+- 一、基本助动词没有实际含义，包括 be、have、do。
+- 二、情态助动词有实际含义，在有些语法体系中独立出来被称作情态动词，这些词，往往有很多含义比较复杂，他们包括以下......
+- 三、半助动词也有情态含义，这些词数量就更多了......
 
-
-
-
-
-这三个半助动词和我有一样，都表示将要做某事，但是具体语境有些微妙的区别，Begoingto有更强的主观能动性，还有计划做某事的意思，而且通常是很快就要做某事，如gonnaeatdinneratsixPMtoday，我会在六点吃完饭，当然也可以说IwilleatdinneratsixPMtoday。不过在比较，Iwillgraduateinthreeyears，我会在三年内毕业。这句话如果说成IamgoingToGraduateinthreeyears就稍稍有点怪，
-
-但也不是不行。而beaboutto马上就要做某事，时间就更短了。你就不能说ImaboutToGraduateinthreeyears，因为听起来有点矛盾。还有个bto往往表示被命令做某事，如youaretofinishhomeworkfirst，你要先做完作业，这句话就和youmustfinishhomeworkfirst有点像，她也可以表示命中注定，因为是被命运命令吗？Ithinktheyaretofallinlovewith。
-
-我想他们注定会相爱。
-
-Hadbetter表示最好做，往往表示忠告、警告之意，暗含如果不这么做会有不好的后果。youhadbetterfollowmyorders，你最好听我的命令。hadbetter的缩写是thebetter，其实缩写形式更常见，以至于很多人都不知道的better是hadbetter，具体请参见英语图hadbetter视频。以上就是英语助动词最核心的概念，再来快速总结一下英语的助动词，尤其是其中的情态助动词比较复杂，
-
-是英语学习的难点之一。助动词用来辅助之后的主动词构成语法概念，但却不能单独作谓语动词分为三类，一、基本助动词没有实际含义，包括behavedo，二、情态助动词有实际含义，在有些语法体系中独立出来被称作情态动词，这些词，往往有很多含义比较复杂，他们包括以下三半助动词也有情态含义，
-
-这些词数量就更多了好，这次就到这里，我是最在乎你的英语老师英语屠，请花几秒钟帮忙关注点赞，转发评论，
-
-十分感谢咱们下次再见。
+这次就到这里，我是最在乎你的英语老师英语屠，请花几秒钟帮忙关注点赞，转发评论，十分感谢咱们下次再见。
 
 
 
