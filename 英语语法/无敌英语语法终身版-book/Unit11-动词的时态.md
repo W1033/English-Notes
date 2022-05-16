@@ -1,11 +1,8 @@
 # Unit 11 -- 动词的时态
 
-> [英语时态，看懂这20张图就够了](https://zhuanlan.zhihu.com/p/141778301)
-
-
-
 
 ## New Words
+
 
 
 

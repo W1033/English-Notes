@@ -371,8 +371,8 @@
 #### 2.2 其他序数词的表达方式
 其他序数词的构成方法是**只将个位数改成序数词**, 十 、 百 、 千位上的数仍用基数词.
 
-| twenty-first  第 21 | thirty-second  第 32 |
-| --------- | ----------- | 
+| twenty-seventh  第 27 | thirty-eighth  第 38 |
+| --------- | ----------- |
 | forty-third  第 43 | ninety-fifth  第 95 |
 | one hundred and sixty-fourth  第 164 | two thousand three hundred and the first  第 2,301 |
 
@@ -634,4 +634,5 @@ Additional Info: **年份**的补充讲解
 常见的度量单位如 100mph，在这里 `mph` 是缩写，全文是 **miles`/maɪl/` per$\color{red}{^*}$ hour**即每小时所运行英里，直接先读数值再把单位全称读出来即可，重量单位也是如此。例如：
 
 - 145mph: one hundred forty-five miles per hour
+
 ##### (9) 年份
