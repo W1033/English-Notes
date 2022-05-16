@@ -9,11 +9,16 @@
 
 
 
-> # 英语语法: 助动词 (基本助动词, 情态(助)动词, 半助动词)   -- By 英语兔
+> **英语语法: 助动词 (基本助动词, 情态(助)动词, 半助动词)   -- By 英语兔**
 > 
 > Youtube: https://www.youtube.com/watch?v=-mRlocpeYA8
 >
 > BiliBili: https://www.bilibili.com/video/BV1834y1r79u?spm_id_from=333.337.search-card.all.click
+
+
+
+
+
 
 ![image-20220227154722188](Unit12-助动词和情态动词.assets/image-20220227154722188.png)
 
@@ -536,13 +541,13 @@ ought to的否定形式是将 not 置于 to 前: **ought not to**，而不能像
 
 > ◆ You **ought not to have spent** too much time playing computer games. (你不应该花那么多时间玩电脑游戏。) *实际上花了太多时间玩电脑*
 
+#### 3.5 shall 和 should 的意义和用法
 
-#### 3.5 shall 和 should的意义和用法
 shall 作助动词，表示将来时，只可以跟第一人称，但是作情态动词，可以跟第二、三人称，表示提出建议、征求意见，或命令等多种含义。
 ##### 3.5.1 shall 用在疑问句中
 shall 用在疑问句中，表示征询对方的意见或指示(提供帮助，提出建议)，主要用于第一、三人称，通常译为 "...好吗？要不要...?"
 
-> ◆ What **shall** I do to help you? (我能做业什么来帮助你呢？)
+> ◆ What **shall** I do to help you? (我能做什么来帮助你呢？)
 
 > ◆ **Shall** he come to see you? （要不要他来看你？)
 
