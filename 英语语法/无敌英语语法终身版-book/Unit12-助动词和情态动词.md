@@ -7,15 +7,11 @@
 
 
 
-
-
 > **英语语法: 助动词 (基本助动词, 情态(助)动词, 半助动词)   -- By 英语兔**
 > 
 > Youtube: https://www.youtube.com/watch?v=-mRlocpeYA8
 >
 > BiliBili: https://www.bilibili.com/video/BV1834y1r79u?spm_id_from=333.337.search-card.all.click
-
-
 
 
 
@@ -568,29 +564,93 @@ shall 用在第二、三人称作主语的陈述句中，表示说话者告诚�
 > ◆ Children **should** obey their parents. (儿童应该服从他们的父母。)
 
 ##### 3.5.4 should + have + 过去分词
-“should + have + 过去分词”表示某事在过去应该做，但实际上没
-有做。它的否定句形式，即 “should+not+have+过去分词”，则
-表示做了一件不应该做的事。
-1. You should have studied English earlier.
-(你应该早一点学英语。）*实际上没有早点学*
-2. We shouldn't have been there.
-(我们真不应该去那儿。）*实际上去了*
-3. You shouldn't have told her about that thing.
-(你真不应该告诉她那件事。）
-实际上已经告诉她了
-##### 3.5.5 should用在一些表示“命令，要求，建议”的词后面的从句中，构成“虚拟语气”。
-如：suggest, demand, advise, inquire, propose, command, order, recommend, desire, request, intend, insist等。这类从句中的 should 可以省略。
-1. It is required that this work (should) be finished on time. (这项工作被要求按时完成。）
-2. It is important that you (should) practice spoken English.
-（练习口语是很重要的。）
-3. She requires that everyone (should) take part in the examination.
-(她要求大家都参加这个考试。）
+**"should + have + 过去分词"** 表示某事在过去应该做，但实际上没有做。它的否定句形式，即  **"should + not + have + 过去分词"** ，则表示做了一件不应该做的事。
+
+> ◆ You **should have studied** English earlier. (你应该早一点学英语。) *实际上没有早点学*
+
+> ◆ We **shouldn't have been** there. (我们真不应该去那儿。) *实际上去了*
+
+> ◆ You **shouldn't have told** her about that thing. (你真不应该告诉她那件事。) *实际上已经告诉她了*
+
+##### 3.5.5 should 用在一些表示 "命令，要求，建议" 的词后面的从句中，构成 "虚拟语气"。 如：
+
+| suggest | demand<br />`/dɪ'mænd/` | advise<br />`/əd'vaɪz/` | inquire<br />`/ɪn'kwaɪr/` | propose <br>`/prə'poz/` | command |
+| :----: | :----: | :----: | :----: | :--: | :--: |
+| 建议 | verb.需要，需求；要求 | verb. 劝告，<br />忠告，建议 | verb. 询问，打听 | verb. 提议，建议<br /> noun. proposal | verb. 命令，下令 |
+| **order** | **recommend** | **desire** | **request** | **intent** | **insist** |
+| 命令 | 推荐 | 愿望 | 请求 | 打算 | 坚持 |
+
+等。这类从句中的 should 可以省略。
+
+> ◆ It is **required** that this work (**should**) be finished on time. (这项工作被要求按时完成。)
+
+> ◆ It is **important** that you (**should**) practice spoken English. （练习口语是很重要的。)
+
+> ◆ She **requires** that everyone (**should**) take part in the examination`/ɪg'zæmə'neʃən/`. (她要求大家都参加这个考试。)
+
 
 #### 3.6 will 和 would 的意义和用法
 
+##### 3.6.1 用在疑问句中，表示询问对方的意愿，向对方提出请求。
 
+> ◆ **Will** you come to my office? (请你来我的办公室好吗？)
+
+> ◆ **Will** you please show me the way to the library? (请告诉我去图书馆的路好吗？)
+
+在这类句子中，用 would 比用 will 更加婉转、礼貌，丝亳没有表示过去时间的意思。
+
+> ◆ **Would** you have something more to eat? (你是不是再吃点什么？)
+
+> ◆ **Would** you please help me with my math? (请你帮我学习数学好吗？)
+
+##### 3.6.2 表示 "感意做某事" 或 "决心做某事" ，可用于各种人称。在这类句子中，would 作为 will 的过去式，多用在从句中。
+
+> ◆ I **will** tell you everything I know. (我愿意把我所知道的都告诉你。)
+> 
+> ◆ He said he **would** tell me everything he knew. (他说他要把他所知道的事都告诉我。)
+
+> ◆ I **won’t** make the same mistake again. (我不会再犯同样的错误。)
+>
+> ◆ He promised that he **wouldn't** make the same mistake again. (他保证不再犯同样的销误了。)
+
+> ◆ If you **will** help him, he is sure to pass this examination. (如果你愿意帮助他，他青定能考试及格。)
+> 
+> *作情态动词的 will 可以用于条件状语从句中，表示意愿，而不是时间*
+
+##### 3.6.3 表示习惯性的动作或是一种倾向，通常译为 "常常，总是，习惯于"
+> ◆ People **will** talk. (人们总是说三道四。)
+
+> ◆ When he is in trouble, he **will** turn to his coach for help. (他有因难的时候，总是去我他的教练寻求帮助。)
+
+> ◆ No matter what happened, he **wouldn't** give up his hope of going to college. (无论发生什么，他都没有放弃上大学的愿望。)
+
+##### 3.6.4 would 表示过去经常性的动作。
+> ◆  She **would** come to see us when we were in Beijing. (我们在北京时，她总是来看我们。)
+
+> ◆  We **would** go swimming after school. (我们过去常常在放学后去游泳。)
+
+##### 3.6.5 would 用在虚拟语气中。（参见UNIT14：虚拟语气)
+
+> ◆  If I **were** you, I **would** go at once. (如果我是你，我立刻就走。)
+
+> ◆  If you **had studied** hard, you **would have entered** the college. (如果你学习努力，你就能上大学了。)
+
+##### 3.6.6 would 常用短语
+
+**(1) would rather do sth. 表示宁愿做某事**
+> ◆ He **would rather stay** at home. (他宁愿您待在家里。)
+
+**(2) would rather do A than do B. 表示宁愿做 A 而不愿做 B**
+> ◆ He **would rather stay** at home **than go** to watch the football game. (他宁愿待在家里而不愿去看足球賽。)
+
+**(3) would rather sb. did sth. 表示更愿意某人去做某事**
+> ◆ I **would rather they went** there tomorrow. (我宁愿他们明天去那里。)
+
+**(4) would like to do sth. 表示想要做某事**
+> ◆ I **would like to see** a film tonight. (我今晚想去看电影。)
 
 #### 3.7 used to 的意义和用法
+
 **used to** `/ˈjuːst tuː/`
 ```css
 ├── modal verb (情态动词)
