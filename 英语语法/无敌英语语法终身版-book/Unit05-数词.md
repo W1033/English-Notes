@@ -557,14 +557,18 @@ Additional Info: **年份**的补充讲解
 #### 5.4 (表示)时钟
 钟点用基数词，有两种表示方法：
 ##### 1. 先读小时数，再读分钟数。
+
 + 8:20 -- eight twenty
 + 5:30 -- five thirty
 + 9:50 -- nine fifty
 + 11:45 -- eleven forty-five
+
 ##### 2. 先读分钟数，再读小时数
-表示几点过几分时，不足半小时用 past； <br/>
-超过半小时用 to，但小时要加 1, 分钟用 60 与已知分钟数的差，即：差几分到下个钟点。<br/>
-在这种表示方法中，15 分钟多用 a quarter, 30 分钟多用 half。
+(1) 不足半小时用 past: **分钟数 + past + 分钟数**
+
+(2) 超过半小时用 to: 小时要加 1, 分钟用 60 与已知分钟数的差，即：差几分到下个钟点。<br/>
+在这两种表示方法中，15 分钟多用 a quarter, 30 分钟多用 half。
+
 + 8:20 -- twenty minutes past eight
 + 5:30 -- half past five
 + 9:50 -- ten to ten (差 10 分到 10 点)

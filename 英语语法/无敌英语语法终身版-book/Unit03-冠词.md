@@ -30,7 +30,7 @@
 ```css
 ├── adjective
 │   ├── (1) 清楚的，明确的 (clearly know, seen, or stated)
-│   │   ├── It’s impossible for me to give you a definite   answer. 我不可能给你明确的答复。
+│   │   ├── It’s impossible for me to give you a definite answer. 我不可能给你明确的答复。
 │   │   ├── We need to record sufficient`/sə'fɪʃ(ə)nt/` data to enable definite
 │   │   │   conclusions to be reached. 我们需要记录足够的数据﹐才能得出明确的结论。
 │   ├── (2)〔安排﹑许诺等〕确切的﹐确定的

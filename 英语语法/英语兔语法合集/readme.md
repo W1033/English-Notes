@@ -1,13 +1,12 @@
-# 英语兔语法集合
+# 英语兔语法合集
+
 > 英语兔网站: www.yingyutu.com
 
-$^{\color{red}{*}}$
-
-
-## TOC (Table of Contents)
+> 当前笔记来源 b 站视频合集：https://www.bilibili.com/video/BV1XY411J7aG?p=2
 
 
 
+![image-20220521175655970](readme.assets/image-20220521175655970.png)
 
 
 ## New Words

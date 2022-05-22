@@ -7,17 +7,14 @@ language.
 
 
 
-## Table of contents
-
-
-
+$^{\color{red}{*}}$
 
 ## New Words
 
 
 
-
 ## Content
+
 ### UNIT 1 单词概述
 1. 单词的分类
 2. 学习英语单词应该注意的事项

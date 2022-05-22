@@ -42,9 +42,7 @@
 │   │   │   ├── hair of medium length. 中等长短的头发。
 │   │   │   ├── Fry the onions/'ʌnjən/ over a **medium heat** until they are golden.
 │   │   │   │   用中火把洋葱炸到金黄色。
-│   ├── ► Use average(adj.平均(数)的; [数量]中等的，适中的), not 'medium', when you
-│   │    want to say that someone’s level of skill or ability is neither 
-│   │    high nor low. 当想表达某人的技能或能力不高也不低时用 average, 不用 medium. 
+│   ├── ► 当想表达某人的技能或能力不高也不低时用 average, 不用 medium. 
 │   │   ├── students of average ability (NOT students of medium ability) 能力一般的学生。
 │   ├── （2）略
 │   ├── （3）略
@@ -103,11 +101,11 @@
 | --- | --- | --- | --- | --- |
 
 ##### 1.1.3 由几个普通单词构成的专有名词前要加定冠词 the (但是 the 不大写).
-> **the** People’s Republic of China 中华人民共和国
->
-> **the** United Nations 联合国
->
-> **the** Great Wall 长城
+> ◆ **the** People’s Republic of China 中华人民共和国
+
+> ◆ **the** United Nations 联合国
+
+> ◆ **the** Great Wall 长城
 
 这里的 people(人民), republic(共和国）, united(联合的), nation(国家), great(大的), wall(墙)都是普通单词. 
 
@@ -118,7 +116,9 @@
 
 其中, 个体名词和集体名词属于**可数名词**；物质名词和抽象名词属于**不可数名词**. 
 
-##### 1.2.1 个体名词：表示某一类人或物的个体.
+##### 1.2.1 个体名词：
+
+表示某一类人或物的个体.
 
 | boy - 男孩子 | radio - 收音机  | farmer - 农民  |
 | --------- | --------- | --------- |
@@ -128,26 +128,40 @@
 
 **注意:** 个体名词是可数名词, 有单、复数之分. 例如:(额外补充, 非书本内容)
 
-> △ many boys. 许多男孩子
+> ◆ I’m just a country **boy**. 我不过是个乡下人。
+> 
+> ◆ many **boys**. 许多男孩子
 >
-> △ Farmers grow rice in the rich soil. 农民们在肥沃的土地上种水稻.
->
-> △ dairy farmers. 奶农; 畜牧工人.
+> ◆ The **boys** wanted to play football. 男孩子们想踢足球。
+
+> ◆ There once was a poor`/pɔr/` **farmer** who had four sons`/sʌn/`.
+> 
+> ◆ **Farmers** grow rice in the rich soil. 农民们在肥沃的土地上种水稻.
+> 
+> ◆ dairy **farmers**. 奶农; 畜牧工人.
 > + dairy `/ˈdeəri $ ˈderi/` -n.牛奶场, 乳品场
->
-> △ three desks. 三张办公桌
->
-> △ two-hundred trees. 200 棵树
->
-> △ great lakes. 北美五大湖
->
-> △ The lakes abound with fish. 这些湖泊(pō)生产鱼.
+
+> ◆ The nearest big **city** is San Francisco. 距离最近的大城市是旧金山
+> 
+> ◆ Most **cities** no longer have a clear atmosphere. 大部分都市不再有清新的空气。
+> + atmosphere `/'ætməsfɪr/` -noun.(围绕地球之) 大气，大气层
+>   - pollution of the atmosphere. 大气污染
+
+> ◆ three desks. 三张办公桌
+
+> ◆ two-hundred trees. 200 棵树
+
+> ◆ great lakes. 北美五大湖
+
+> ◆ The lakes abound with fish. 这些湖泊(pō)生产鱼.
 > + abound`/əˈbaʊnd/` -v.大量存在(to exist in very large numbers)
->   - Examples of this abound in her book. 这样的例子在她树中比比皆是.
+>   - Examples of this abound in her book. 这样的例子在她书中比比皆是.
 >   - **abound with/in** something. 富于, 盛产
 >       + The forests abound with deer, birds, and squirrels`/ˈskwɜːrəl/`. 森林里有许许多多的鹿, 鸟和松鼠.
 
-##### 1.2.2 集体名词: 表示由若干个个体组成的集合体.
+##### 1.2.2 集体名词:
+
+表示由若干个个体组成的集合体.
 
 | audience - 观众  | police - 警察 |
 | ---------       | --------- |
@@ -166,15 +180,19 @@
 >
 > I'd like to thank a few people. 我要感谢几个人。
 
-##### 1.2.3 物质名词: 表示无法分为个体的物质.
+##### 1.2.3 物质名词: 
+
+表示无法分为个体的物质.
 
 | air - 空气 | water - 水 | tea - 茶 | iron - 铁 |
 | --------- | --------- | --------- | --------- |
 | wood - 木材 | cloth - 布 |ice - 冰 | cheese  - 奶酪 |
 | coal - 煤 | cotton - 棉花 | ink - 墨水 | oil - 油 |
 
+##### 1.2.4 抽象名词: 
 
-##### 1.2.4 抽象名词: 表示性质, 行为, 状态, 感情等抽象概念.
+表示性质, 行为, 状态, 感情等抽象概念.
+
 | love - 爱  | interest`/ˈɪntrɪst/` - 兴趣 | music - 音乐 | 
 | --------- | --------- | --------- | 
 | difficulty - 困难 | idea - 思想 | youth - 青春 | 
@@ -299,20 +317,20 @@
 | :------------------------ | ---------------------- | ------------------------- |
 | pants`/pænts/` n.(长)裤子 | shorts 短裤            | trousers `/ˈtraʊzəz/` n.裤子 |
 
-> **a pair of scissors** 一把剪刀
+> ◆ **a pair of scissors** 一把剪刀
 
-> I need a new **pair of glasses**. 我需要一副新眼镜.
+> ◆ I need a new **pair of glasses**. 我需要一副新眼镜.
 >
-> He was clean-shaven(`/'ʃeɪvn/` adj.剃光毛发的) and **wore glasses**. 他胡子刮得很干净, 戴着一副眼镜.
-> + wore`/wɔː(r)/` -- wear(`/weə/` -vt.(1)穿(衣服、鞋子等); 戴(首饰)) 的过去式
+> ◆ He was clean-shaven(`/'ʃeɪvn/` adj.剃光毛发的) and **wore glasses**. 他胡子刮得很干净, 戴着一副眼镜.
+> ◆ + wore`/wɔː(r)/` -- wear(`/weə/` -vt.(1)穿(衣服、鞋子等); 戴(首饰)) 的过去式
 
-> She was wearing dark blue **pants** and a white sweater. 她穿着深蓝色长裤和白色毛衣.
+> ◆ She was wearing dark blue **pants** and a white sweater. 她穿着深蓝色长裤和白色毛衣.
 
-> His **trousers** were slightly too short. 他的裤子有点短.
->
-> I need a new **pair of trousers** for work. 我需要一条上班穿的新裤子.
-> 
-> The tickets are in my **trouser(adj [only before noun])** pocket. 票在我的裤子口袋里.
+> ◆ His **trousers** were slightly too short. 他的裤子有点短.
+
+> ◆ I need a new **pair of trousers** for work. 我需要一条上班穿的新裤子.
+
+> ◆ The tickets are in my **trouser(adj [only before noun])** pocket. 票在我的裤子口袋里.
 
 **(6) 有些词尾为 s 的名词实际上是 `单数名词本身的词尾`，而不是复数名词的词尾。这类词多为一些 `学科的名称`，不要误以为是复数名词**
 
@@ -323,11 +341,13 @@
 | linguistics`/lɪŋ'gwɪstɪks/` 语言学 | electronics` /ɪˌlekˈtrɒnɪks,/` 电子学; 电子设备 |
 
 **mathematics 翻译为 `数学` 时后接单数动词; mathematics 翻译为 `数学运算` 时, 可接单数或复数动词.**
-> **Mathematics is** her best subject at school. 数学是她在学校最擅长的学科.
-> The **Mathematics** of the project **is/are** very complicated`/'kɒmplɪkeɪtɪd/`. 该项目中的数学运算十分复杂.
+> ◆ **Mathematics is** her best subject at school. 数学是她在学校最擅长的学科.
+>
+> ◆ The **Mathematics** of the project **is/are** very complicated`/'kɒmplɪkeɪtɪd/`. 该项目中的数学运算十分复杂.
 
-> **an electronics engineer`/endʒɪ'nɪə/`** 电子工程师
-> the market for consumer **electronics**. 电子设备消费品市场.
+> ◆ **an electronics engineer`/endʒɪ'nɪə/`** 电子工程师
+>
+> ◆ the market for consumer **electronics**. 电子设备消费品市场.
 
 **(7) 有些词尾为 s 的名词是单复数同形。** 
 
@@ -347,7 +367,7 @@
 | **looker**-on  | **lookers**-on   旁观者; 观看者 |
 | book**store**  | book**stores** 书店 |
 
-> Looker-on see most of the game. (谚)旁观者清
+> ◆ Looker-on see most of the game. (谚)旁观者清
 
 复合名词变复数的形式之二: 由 man 和 woman 构成的复合名词，各部分都变成复数形式。
 
@@ -375,20 +395,20 @@
  | poultry`/'pəʊltrɪ/` 家禽  | clergy`/'klɜːdʒɪ/` 僧侣，神职人员 |
 
 (1)这些名词做主语时,谓语动词要用复数形式.
->  There are herd of cattle on the hillside. (山坡上有一群牛)
-> 
->  The police are searching that house in order to catch the criminal. (警察正在搜查那座房子以便抓到罪犯)
+ > ◆ There are herd of cattle on the hillside. (山坡上有一群牛)
+ > 
+ > ◆ The police are searching that house in order to catch the criminal. (警察正在搜查那座房子以便抓到罪犯)
 
 (2)people表示不同种族,国家的人民时,要用peoples.
-> the chinese people. (中国人，中华民族)
-> 
-> Peoples from all over the world. (来自世界各国的人民)
+ > ◆ the chinese people. (中国人，中华民族)
+ > ◆ 
+ > ◆ Peoples from all over the world. (来自世界各国的人民)
 
 ##### 2.2.2 有些集体名词，表示整体时用单数，表示组成该整体的各个成员时用复数。
 **audience, class, group, couple, crew, family, government, management, public** 等...
-> My family **is** a big one. (我家是个大家庭。)
+ > ◆ My family **is** a big one. (我家是个大家庭。)
 
-> My family **are** all fond of football. (我全家都喜欢足球。)
+ > ◆ My family **are** all fond of football. (我全家都喜欢足球。)
 
 #### 2.3 不可数名词
 物质名词和抽象名词是不可数名词，它们一般没有复数形式，如：
