@@ -35,7 +35,7 @@ LDOCE5/6 最令人感动的地方是：单词的例句都是带有发音的！�
 
 ### 常用功能解释：
 
-![image](../images-english-notes/image-20210711105500533.png)
+![image](./Longman-dictionary.assets/image-20210711105500533.png)
 
 - **WORD FAMILY (词汇家族)**: 比如 economics, economist, economy, economic, economical 这样的词汇家族。朗文词典在每个单词页面的顶部把所有相关的不同词性的关联词汇清晰地罗列了出来，并且每个家族词汇都设置了超链接，点击即可跳转相关词汇的页面，十分方便。
 
