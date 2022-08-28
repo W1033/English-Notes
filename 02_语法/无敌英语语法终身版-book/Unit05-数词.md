@@ -135,9 +135,9 @@
 
 ##### (1) 1-20 基数词:
 
-| 1. one  | 2. two | 3. three | 
-| :----: | :----: | :---: | 
-| 4. four | 5. five `` | 6. six |
+| 1. one  | 2. two | 3. three |
+| :----: | :----: | :---: |
+| 4. four | 5. five `/faɪv/` | 6. six |
 | 7. seven | 8. eight | 9. nine `/naɪn/`|
 | 10. ten | 11. eleven | 12. twelve |
 | 13. thirteen | 14. fourteen | 15. fifteen |
@@ -192,6 +192,12 @@
 
 <table>
     <tr>
+        <td>1500</td>
+        <td>one thousand (and) five hundred</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
         <td>1,348</td>
         <td>one thousand three hundred and forty-eight</td>
         <td>5,076</td>
@@ -210,6 +216,7 @@
         <td>sixty-two thousand and six</td>
     </tr>
 </table>
+
 
 **Add Info: 下面的 (4)、(5)、(6)、(7)、(8) (9) 为添加内容，非书本内容**
 
