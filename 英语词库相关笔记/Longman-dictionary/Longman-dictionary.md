@@ -13,7 +13,7 @@
     + Computers can be used to facilitate language learning. 计算机可以用来方便语言学习。
 - facilitation `/fəˌsɪlɪˈteɪʃən/` `noun` [uncountable]
 
-#### 2. the‧sau‧rus `/θɪˈsɔːrəs/` noun (plural thesauruses or thesauri /-raɪ/) [countable]  
+#### 2. thesaurus `/θɪˈsɔːrəs/` noun (plural thesauruses or thesauri /-raɪ/) [countable]  
 - 分类词典，同义词词典(a book in which words are put into groups with other words that have similar meanings)
 
 
