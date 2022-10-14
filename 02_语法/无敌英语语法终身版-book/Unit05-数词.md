@@ -5,28 +5,8 @@
 
 > 全文提示：单词右上角红色的星号($\color{red}{^*}$)代表为生词.
 
-```css
-├── adj
-│   ├── 
-│   │   ├── 
-│   │   ├── 
-│   ├── 
-│   │   ├──  
-│   │   │  
-│
-├── verb[intransitive, transitive]
-│   ├── 
-│   │   ├── 
-│   │   ├── 
-│
-├── noun
-│   ├── 
-│   ├── 
-```
-
-
-
 #### triple `/'trɪp(ə)l/`
+
 ```css
 ├── adj
 │   ├── (1) 有三部分的; 涉及三方的
@@ -63,15 +43,6 @@
 │   │   │   我们离家很远，而且非常疲劳.
 │   │   ├── **mile away**: You can't go to NewYork，it's miles away.
 │   │   │   你不能去纽约，那地方太远了。
-│   │   │   
-│   ├── (4) 略
-│   ├── (5) 略
-│   ├── (6) 略
-│   ├── (7) 略
-│   ├── (8) 略
-│   ├── (9) 略
-│   ├── (10) 略
-│   ├── (11) 略
 ```
 
 #### kilometre/kilometer `/'kiləmi:tə(r)/`
@@ -501,6 +472,7 @@
 - The third girl likes singing.  第三个女孩子喜欢唱歌。(*这里指只有一个人喜欢唱歌*)
 
 #### 5.2 (表示)年龄
+
 (1) 表示年龄，一般用基数词。
 - I am **twenty** years old and my sister is **eighteen**. 我二十岁了，我妹妹十八岁。
 
