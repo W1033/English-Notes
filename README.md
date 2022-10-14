@@ -54,7 +54,7 @@
 用`文氏图(Venn 图)`来表示**发音, 语法, 词汇**是英语各项能力的共同交集,
 所以说这三项也就是大家必须要掌握的基本功.
 
-<img src="./images-english-notes/basic-english.jpg"
+<img src="./README.assets/basic-english.jpg"
     style="border-radius: 4px; box-shadow: 1px 1px 3px 2px #e5e5e5">
 
 此段笔记来源: [知乎: 萌姐英语](https://www.zhihu.com/question/59148385/answer/1140437392)
@@ -68,14 +68,11 @@
 
 此处以视频中的一张图来总结整个视频中的内容
 
-<img src="./images-english-notes/english-methodology.png"
-    style="border-radius: 4px; width: 100%;
-        box-shadow: 1px 1px 3px 2px #e5e5e5">
+<img src="./README.assets/english-methodology.png" style="border-radius: 4px; width: 100%; box-shadow: 1px 1px 3px 2px #e5e5e5">
 
 个人觉得可以总结为下图这样：
 
-<img src="./images-english-notes/english-basic.png"
-    style="border-radius: 4px; box-shadow: 1px 1px 3px 2px #e5e5e5">
+<img src="./README.assets/english-basic.png" style="border-radius: 4px; box-shadow: 1px 1px 3px 2px #e5e5e5">
 
 
 ### 3. 欧路词典介绍使用及其扩展词典推荐
