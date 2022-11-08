@@ -1,7 +1,6 @@
 # 无敌英语语法终身学习版
 
-Non-Chinese people often say that the Chinese seem to "sing" their
-language. 
+Non-Chinese people often say that the Chinese seem to "sing" their language. 
 
 老外常常说, 中国人的讲话像唱歌一样.
 
