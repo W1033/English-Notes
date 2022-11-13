@@ -323,8 +323,10 @@
 > ◆ Jane **can't** come to the party, for she has gone to Shanghai on business. (珍妮不能来参加晚会，因为她去上海出差了。)
 
 ##### 3.1.3 表示许可。
+
 在表示许可的意思时，can 和 may 的意思基本相同。只是 can 更多用于口语中，而 may 则比较正式，多出现于正式文体或比较客气的场合。
-##### (1) can 在肯定句中， 表示说话人允许、批准他人做某事。
+
+**(1) can 在肯定句中， 表示说话人允许、批准他人做某事。**
 
 > ◆ You **can/may** sit here. (你可以坐在这儿。)
 
@@ -332,7 +334,8 @@
 
 > ◆ You **can** go swimming if you have finished your homework. (如果完成了作业，你就可以去游泳。)
 
-##### (2) can 用在否定句中，表示不允许做某事，甚至禁止做某事。
+**(2) can 用在否定句中，表示不允许做某事，甚至禁止做某事。**
+
 > ◆ You **cannot** smoke here. (你不能在这儿吸烟。)
 
 > ◆ Before the examination began, the teacher warned us that we **could not** use the cell phone. (考试开始前，老师告诫我们不许使用手机。)

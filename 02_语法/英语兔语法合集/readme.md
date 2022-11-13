@@ -9,7 +9,7 @@
 
 ## New Words
 
-- **of `/ɒv/`|`/əv/` --prep.属于(某人或某物)的; ...的; ...的一部分; 关于; ......**
+- **of `/ɒv/`|`/əv/`--prep.属于 (某人或某物) 的; ...的; ...的一部分; 关于; ......***
     + a friend of Mark's 马克的一个朋友
     + the back of the house. 房子的后面
     + the last scene of the movie. 电影的最后一个场景
@@ -20,17 +20,16 @@
     + a bar of chocolate. 一块巧克力
     + a cup of coffee. 一杯咖啡
     + several packets of cigarettes. 几包香烟
-    + His circle of friends. 他的朋友圈子.
-    + the day of the accident. 故事发生的那一天.
+    + His circle of friends. 他的朋友圈子。
+    + the day of the accident. 故事发生的那一天。
     + the people of China. 中国人民
     + the 27th(twenty-seventh) of July. 7 月 27 日
-    + He died of cancer. 他死于癌症.
+    + He died of cancer. 他死于癌症。
     + We often used to walk by the river of an evening.
-      我们以前晚上常在河边散步.
+      我们以前晚上常在河边散步。
 - **carrot `['kærət]` --n.胡萝卜**
-    + I'll have some more carrot(s). 我还要一些胡萝卜.
-    + These are young carrots and you need not scrape them.
-      这些胡萝卜很嫩, 不用削皮.
+    + I'll have some more carrot(s). 我还要一些胡萝卜。
+    + These are young carrots and you need not scrape them. 这些胡萝卜很嫩，不用削皮。
 
 
 ## Content
