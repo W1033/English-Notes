@@ -9,7 +9,7 @@
       汤姆, "男人" 这个词的复数形式是什么？
     + We use "those" and "these" with plural nouns.
       我们用 "those" and "these" 去修饰复数名词. 
-- **nouns `/naʊn/` --n.名词**
+- **noun `/naʊn/` --n.名词**
     + In English, we can use nouns to modify other nouns. 
       在英语里面, 我们可以用名词来修饰名词.
 - **verb `/vɝb/` --n.动词**
