@@ -6,70 +6,41 @@
 
 > 全文提示：单词右上角红色的星号($\color{red}{^*}$)代表为生词.
 
-### series /'sɪəriːz/ 
-```css
-├── noun (plural series)
-│   ├── (1) **series of something** 连续发生的同类事件; 一系列[连串]事件
-│   │   ├── the series of events that led to the outbreak of war. 导致战争爆发的一系列事件.
-│   │   ├── The police are investigating a series of attacks in the area. 
-│   │   │   警方在调查该地区发生的一连串袭击事件.
-│   │   ├── There's been a whole series of accidents on this road.
-│   │   │   这条路上发生了一连串的交通事故.
-│   ├── (2) (有计划的)系列(事件)
-│   │   ├── Staff will hold a series of meetings over the next few weeks. 
-│   │   │   接下来的几周里, 员工将召开一系列会议.
-│   ├── (3) (电视、广播等的)系列片, 系列节目
-│   │   ├── a new comedy/'kɒmɪdɪ/(n.喜剧;喜剧片,喜剧节目) series. 新的喜剧系列节目.
-│   ├── (4) (书、文章等的)系列 [series of]
-│   │   ├── a series of articles on community care. 有关社区关怀的一系列文章.
-│   │   ├── a science fiction/ˈfɪkʃən/(n.小说;虚构的事) series. 科幻小说系列
-│   ├── (5) (同类事物的)一系列, 一连串 [series of]
-│   │   ├── a series of laws against discrimination. 反对歧视的一系列法规.
-│   │   ├── The area/'ɛrɪə/ is linked by a series of canals(/kəˈnæl/ n.运河).
-│   │   │   这一地区由几条运河连接起来.
-```
+### series `/'sɪəriːz/` 
+**(1) noun (plural series) 系列，连续；丛书；[电]串联；[数]级数**
+- There's been **a whole series of** accidents on this road. 这条路上发生了一连串的交通事故.
+- Staff will hold a **series of** meetings over the next few weeks. 接下来的几周里, 员工将召开一系列会议.
+- a new comedy/'kɒmɪdɪ/(n.喜剧;喜剧片,喜剧节目) series. 新的喜剧系列节目.
+- a **series of** articles on community care`/kɛr/`. 有关社区关怀的一系列文章.
+- a science fiction`/ˈfɪkʃən/`(n.小说;虚构的事) series. 科幻小说系列
+- a **series of** laws against discrimination. 反对歧视的一系列法规.
+- The area`/'ɛrɪə/` is linked by a series of canals(`/kəˈnæl/` n.运河).这一地区由几条运河连接起来.
+
 
 ### medium `/'miːdɪəm/`
-```css
-├── adj (adjective)
-│   ├── (1) (大小、水平或数量)中等的；中号的 (of middle size, level, or amount)
-│   │   ├── What size shirt does he wear - small, medium or large?
-│   │   │   他穿多大尺码的衬衫 - 小号、中号还是大号？
-│   │   ├── **(of) medium height/length/build**
-│   │   │   ├── She is of medium height. 她中等身材。
-│   │   │   ├── You can say they are of average height, they are of medium
-│   │   │   │   height. 你可以说他们是普通身高，他们是中等身高。
-│   │   │   ├── hair of medium length. 中等长短的头发。
-│   │   │   ├── Fry the onions/'ʌnjən/ over a **medium heat** until they are golden.
-│   │   │   │   用中火把洋葱炸到金黄色。
-│   ├── ► 当想表达某人的技能或能力不高也不低时用 average, 不用 medium. 
-│   │   ├── students of average ability (NOT students of medium ability) 能力一般的学生。
-│   ├── （2）略
-│   ├── （3）略
-│   ├── （4）略
-│
-├── noun (plural media/'miːdɪə/ or mediums) [countable] 
-│   ├── (1) 传播媒介〔如报纸﹑电视等〕
-│   │   ├── Advertising is a powerful medium. 广告是具有强大影响力的传播媒介。
-│   ├── (2) 略
-│   ├── (3) 略
-│   ├── (4) 略
-│   ├── (5) 略
-│   ├── (6) 略
-```
+**(1) adj.中等的**
+- What size shirt does he wear - small, medium or large? 他穿多大尺码的衬衫 - 小号、中号还是大号？
 
-### carton `/'kɑːt(ə)n/` ●○○ noun [countable]
+**(of) medium height/length/build**   
+- She is of medium height. 她中等身材。  
+- You can say they are of average height, they are of medium height. 你可以说他们是普通身高，他们是中等身高。
+- hair of medium length. 中等长短的头发。
+- Fry the onions/'ʌnjən/ over a **medium heat** until they are golden. 用中火把洋葱炸到金黄色。
 
-```css
-├── noun [countable]
-│   ├── (1) 硬纸盒﹔塑料盒 
-│   │   ├── **carton of**
-│   │   │   ├── a carton of fruit juice 一盒果汁
-│   │   │   ├── a milk carton 牛奶盒
-│   ├── (2)〔可内置小盒的〕包装箱
-│   │   ├── **carton of** 
-│   │   │   ├── a carton of cigarettes 一条香烟
-```
+**当想表达某人的技能或能力不高也不低时用 average, 不用 medium.**
+- students of average ability (NOT students of medium ability) 能力一般的学生。
+
+**(2) noun 媒介 (plural media/'miːdɪə/ or mediums) [countable]**
+- Advertising is a powerful medium. 广告是具有强大影响力的传播媒介。
+
+
+### carton `/'kɑːt(ə)n/`
+**(1) noun [countable] 纸盒；塑料盒；包装箱**
+
+**carton of**
+- a carton of fruit juice 一盒果汁
+- a milk carton 牛奶盒
+- a carton of cigarettes 一条香烟
 
 
 
@@ -158,7 +129,7 @@
 >   - Examples of this abound in her book. 这样的例子在她书中比比皆是.
 >   - **abound with/in** something. 富于, 盛产
 >       + The forests abound with deer, birds, and squirrels`/ˈskwɜːrəl/`. 森林里有许许多多的鹿, 鸟和松鼠.
-
+      ·
 ##### 1.2.2 集体名词:
 
 表示由若干个个体组成的集合体.
