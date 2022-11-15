@@ -39,39 +39,38 @@
 
 > (1). 把 a(n) 视为 one 的弱化结果，也就是说， a(n) 就代表 one 的意思，只是语气比较弱。 a(n) 与 one 同样都是交代它后面所接的名词是“一个”的概念。如果后面的名词不适合以“一个”来交代，就不适合用 a(n) 。
 >
-> (2). 把 the 视为 that 或 those 的弱化结果。that 或 those 是指示形容词，有明确的指示功能。所以定冠词 the 也可以这样理解：凡是上下文中有明指或暗示时，也就是有“那个”的指示功能时，便要用定冠词 the 。
+> (2). 把 the 视为 that 或 those 的弱化结果。that 或 those 是指示形容词，有明确的指示功能。所以定冠词 the 也可以这样理解：凡是上下文中有明指或暗示时，也就是有“那个”的指示功能时，便要用定冠词 [the]() 。
 
 这种简化能在一定程度上帮助理解冠词，但仅仅掌握这些是不够的。冠词的背后是中英文思维方式的不同。冠词的难点在于，学习者同时受到母语正迁移与负迁移的影响。
 
 
-### 冠词用法概述
+## ▲ 冠词用法概述
 **冠词的本质是限定词的一类**。为了表意精确，英语句子中出现的名词通常都需要进行一定程度的限定，而汉语没有类似规则。限定通常体现在两方面: **指向**和**数量**，且指向和数量至少有一方面需要被限定。
 
-#### 指向限定词
+### 指向限定词
 
-##### (1) a/an: 指向任意一个
+#### (1) a/an: 指向任意一个
 
 > a desk,  an apple
 
-##### (2) the: 指向特定的一个
+#### (2) the: 指向特定的一个
 >the desk over there
 
-##### (3) my/your/John's/our: 指向某人或某群人       
+#### (3) my/your/John's/our: 指向某人或某群人       
 > my book 
 
-##### (4) either: 指向两者中的某一人     
+#### (4) either: 指向两者中的某一人     
 > either of my two books
 
-##### (5) 单纯的词尾变复数形式：指向所有该名词代表对象 
+#### (5) 单纯的词尾变复数形式：指向所有该名词代表对象 
 > Apples are sweet
 
+### 数量限定词
 
-#### 数量限定词
-
-##### one/two/three...... 一/二/三 
+#### one/two/three...... 一/二/三 
 > I have two brothers.
 
-##### no: 没有     
+#### no: 没有     
 > I have no idea. 
 
 
@@ -131,112 +130,55 @@
 </table>
 
 
-##### 英语的不定冠词 "a/an" 与汉语的 "一" 表面相似，实则侧重不同。
+#### 英语的不定冠词 "a/an" 与汉语的 "一" 表面相似，实则侧重不同。
 
-**(1). a/an 主要起泛指作用，兼职表数量（但不强调数量）**
+**a/an 主要起泛指作用，兼职表数量**（但不强调数量）。**汉语 "一" 主要作用是强调数量，兼职表泛指。**
 
-**(2). 汉语  "一" 主要作用是强调数量，兼职表泛指**。
+##### (1) a/an 用法示例
 
-<table>
-    <tbody style="letter-spacing:0.5px;">
-        <tr>
-            <td colspan="2" style="text-align:center; font-weight:bold;">a/an 用法示例
-            </td>
-        </tr>
-        <tr>
-            <td>起泛指作用</td>
-            <td>表示数量</td>
-        </tr>
-        <tr>
-            <td>He's a teacher. <br> 他是 (一个) 老师。</td>
-            <td>
-                How much is the postage`/'pəʊstɪdʒ/`(n.邮资，邮费) for a postcard?
-                <br> 邮寄一张明信片多少钱。
-            </td>
-        </tr>
-        <tr>
-            <td>
-                She died on a Tuesday.
-                <br> 她死于（一个）星期二。
-            </td>
-            <td>
-                I have an elder brother.
-                <br> 我有一个哥哥。
-            </td>
-        </tr>
-        <tr>
-            <td>
-                A lion is a dangerous animal.
-                <br> 狮子是（一种）危险的动物。
-            </td>
-            <td>
-                I can type 50 words a minute.
-                <br> 我每分钟能打 50 个字。
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2">
-                A reader lives a thousand lives before he dies. The man who never reads lives only one.
-                <br> 读书的人一生能体验千种人生，不读书的人只度过自己的一生。 --《冰与火之歌》
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2">
-                a/an, one 分别是泛指，表示数量，强调数量的用法。
-                <br><br> 美国流行天后 Lady Gaga 的 《Million Reasons》单曲中，有这样两句歌词：
-                <br> I've got a hundred million reasons to walk away. But baby, I just need  one  good  one  to stay.
-                <br> 我有一亿个理由离开。 但是宝贝，我只需要一个好的留下来。
-                <br> - a hundred million reasons 中的 a 表示但不强调数量。 第二句中的第一个 one 强调数量，表示 "一个足矣"， 第二个 one 是代词指 reason。
-            </td>
-        </tr>
-        <tr>
-        </tr>
-        <tr>
-            <td colspan="2"></td>
-        </tr>
-        <tr>
-            <td colspan="2" style="text-align:center; font-weight:bold;">汉语"一" 用法示例</td>
-        </tr>
-        <tr>
-            <td>起泛指作用</td>
-            <td>表示数量</td>
-        </tr>
-        <tr>
-            <td>北京是（一）座美丽的城市</td>
-            <td>一生一世一双人</td>
-        </tr>
-        <tr>
-            <td>我有（一）张周杰伦演唱会 VIP 的票。</td>
-            <td>一见如故，再见陌路</td>
-        </tr>
-        <tr>
-            <td>我有（一）个好主意。</td>
-            <td>一夫当关，万夫莫开</td>
-        </tr>
-    </tbody>
-</table>
+| 起泛指作用                                                   | 表示数量                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| He's a teacher.<br />他是 (一个) 老师。                      | How much is the postage`/'pəʊstɪdʒ/`(n.邮资，邮费) for **a** postcard?<br/>邮寄一张明信片多少钱。 |
+| She died on a Tuesday.<br/>她死于（一个）星期二。            | I have an elder brother.<br/>我有一个哥哥。                  |
+| A lion is a dangerous animal.<br/>狮子是（一种）危险的动物。 | I can type 50 words a minute.<br/>我每分钟能打 50 个字。     |
+
+A reader lives a thousand lives before he dies. The man who never reads lives only one.
+读书的人一生能体验千种人生，不读书的人只度过自己的一生。 --《冰与火之歌》
+
+**a/an, one 分别是泛指，表示数量，强调数量的用法:**
+
+美国流行天后 Lady Gaga 的 《Million Reasons》单曲中，有这样两句歌词：
+
+> I've got a hundred million reasons to walk away. But baby, I just need  one  good  one  to stay.
+>
+> 我有一亿个理由离开。 但是宝贝，我只需要一个好的留下来。
+
+- a hundred million reasons 中的 a 表示但不强调数量。 第二句中的第一个 one 强调数量，表示 "一个足矣"， 第二个 one 是代词指 reason。
+
+##### (2) 汉语"一" 用法示例
+
+| 起泛指作用                          | 表示数量           |
+| ----------------------------------- | ------------------ |
+| 北京是（一）座美丽的城市            | 一生一世一双人     |
+| 我有（一）张周杰伦演唱会 VIP 的票。 | 一见如故，再见陌路 |
+| 我有（一）个好主意。                | 一夫当关，万夫莫开 |
 
 
 
 
 
+## ▲ 不定冠词 (a/an)
+不定冠词表示不定的人或物，用来修饰可数名词。
 
+不定冠词 a/an 与数词 one 意思相似，可以表示 "一"，但不强调数目的概念，而是泛指一类人或事物中的 "任何一个，随便哪一个"。它主要用在单数可数名词前，也用于很多固定短语中 。
 
-
----
----
----
-
-### 1. 不定冠词 (a/a(n))
-不定冠词表示不定的人或事物，用来修饰可数名词。不定冠词 a/a(n) 与数词 one 意思相似，可以表示 "一"，但不强调数目的概念，而是泛指一类人或事物中的 "任何一个，随便哪一个"。它主要用在单数可数名词前，也用于很多固定短语中 。
-
-#### 1.1 不定冠词的形式：不定冠词有 a 和 a(n) 两种形式。
+### 1.1 不定冠词的形式：不定冠词有 a 和 an 两种形式。
 
 **(1)** a 用在以辅音开头的单词前。
 
-| a pen             | a dog        | a car  |
-| ----------------- | ------------ | ------ |
-| a plane`/pleɪn/`  | a university | a unit |
+| a pen                    | a dog        | a car  |
+| ------------------------ | ------------ | ------ |
+| a plane`/pleɪn/` -n.飞机 | a university | a unit |
 
 **(2)** an 用在以元音开头的单词前 。
 
@@ -246,18 +188,17 @@
 
 **(3)** 这里要强调的是，所谓以元音开头或是以辅音开头， 指的是发出的音是元音还是辅音，而不是指元音字母或辅音字母。
 
-> a university 一所大学  *第一个音是辅音 j*
+> a university `/ˌjuːnəˈvɜːsəti/` 一所大学  --  git a第一个音是辅音 j*
 >
-> a European`/jʊərə'piːən/` country 一个欧洲国家  *第一个音是辅音 j*
+> a European`/jʊərə'piːən/` country 一个欧洲国家  --  *第一个音是辅音 j*
 >
-> a one-sided`/'wʌn'saidid/`  一个片面的观点  *第一个音是辅音 w*
+> a one-sided`/'wʌn'saidid/`  一个片面的观点  --  *第一个音是辅音 w*
 >
-> an hour`/'aʊə/` 一个小时 h 不发音 ， *第一个音是元音 au*
+> an hour`/'aʊə/` 一个小时 h 不发音  --  *第一个音是元音 au*
 >
-> an honest`/'ɒnɪst/` boy 一个诚实的男孩  *第一个音是元音 。
+> an honest`/'ɒnɪst/` boy 一个诚实的男孩  --  *第一个音是元音 ɒ*
 >
-> an honorable `/ˈɔnərəbl/` 一个品行高尚的人  *第一个音是元音 ɔ*
-> 
+> an honorable `/ˈɔnərəbl/` 一个品行高尚的人  --  *第一个音是元音 ɔ*
 
 
 
@@ -299,7 +240,7 @@ a 和  one  都有 “ 一 ” 的意思 ， 但有时表示的意思有所不�
 
 
 
-### 2. 定冠词 ( the )
+## ▲ 定冠词 (the)
 定冠词通常和一个名词连用 ， 说明或限定某个特定的人或物 ， 而不是任意的
 其他人或物 ， 有 “ 这 ， 那 ， 这些 ， 那些 ” 的意思 。 定冠词用法很广 ， 特别是 辎
 一些固定用法 ， 需认真记牢 。
@@ -405,7 +346,7 @@ O 用在江 、 河 、 湖 、 海 、 山脉 、 岛屿等专有名词前 。
 
 
 
-### 3. 零冠词
+## ▲ 零冠词
 
 很多名词前是不需要任何冠词的 ， 这种情况被称为零冠词 。 下列情况下是不
 用冠词的 ：

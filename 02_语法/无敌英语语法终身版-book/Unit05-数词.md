@@ -1,11 +1,11 @@
 # Unit 5 -- 数词
 
 
-## New Words
-
 > 全文提示：单词右上角红色的星号($\color{red}{^*}$)代表为生词.
 
-#### triple `/'trɪp(ə)l/`
+##  New Words
+
+> **triple `/'trɪp(ə)l/`**
 
 ```css
 ├── adj
@@ -26,7 +26,7 @@
 │   ├── (2) 〔滑冰﹑体操中的〕转体三周
 ```
 
-#### miles `/maɪl/`
+> **miles `/maɪl/`**
 ```css
 ├── noun [countable]
 │   ├── (1) (written abbreviation M) 英里〔距离的计量单位﹐等于1,760码或约1,609米〕:
@@ -45,7 +45,7 @@
 │   │   │   你不能去纽约，那地方太远了。
 ```
 
-#### kilometre/kilometer `/'kiləmi:tə(r)/`
+> **kilometre/kilometer `/'kiləmi:tə(r)/`**
 ```css
 ├── noun [countable]
 │   ├── 千米，公里 (a unit for measuring distance, equal to 1,000 metres) 
@@ -53,7 +53,7 @@
 │   │   ├── One thousand metres go to the kilometre. 一千米为一公里。
 ```
 
-#### per `/pə/` & `/pɜːr/`
+> **per `/pə/` & `/pɜːr/`**
 ```css
 ├── prep(preposition) 介词，前置词
 │   ├── (1) 每小时/天/星期等:
@@ -74,7 +74,7 @@
 │   │   ├── Jenny was late, as per usual. 珍妮照例迟到了.
 ```
 
-#### pupil `/'pjuːpɪl/` ●●● S2 W1 
+> **pupil `/'pjuːpɪl/`**
 ```css
 ├── noun [countable]
 │   ├── (1) 学生，（尤指）小学生
@@ -86,8 +86,7 @@
 
 
 
-
-## Content
+##  Content
 
 数词分为 **基数词** 和 **序数词**.
 
@@ -97,14 +96,13 @@
 
 基数词和序数词可以合成一个分数. 
 
+## ▲ 1. 基数词
 
-
-### 1. 基数词
 基数词是描述事物数量多少的数词. 即 1，2，3，4，5 等词. 
 
-#### 1.1 基本基数词
+### 1.1 基本基数词
 
-##### (1) 1-20 基数词:
+#### (1) 1-20 基数词:
 
 | 1. one  | 2. two | 3. three |
 | :----: | :----: | :---: |
@@ -115,21 +113,22 @@
 | 16. sixteen | 17. seventeen | 18. eighteen |
 | 19. nineteen | 20. twenty | |
 
-##### (2) 20 - 90  整十数倍
+#### (2) 20 - 90  整十数倍
 
 | twenty`/'twentɪ/` | thirty`/'θɜːtɪ/` | forty`/'fɔːtɪ/` |
 | :----: | :----: | :---: | 
 | fifty`/'fɪftɪ/` | sixty`/'sɪkstɪ/` | seventy`/'sev(ə)ntɪ/` | 
 | eighty`/'eɪtɪ/` | ninety`/'naɪntɪ/` | |
 
-##### (3) 数字的整数单位：
+#### (3) 数字的整数单位：
 
 | hundred`/'hʌndrəd/`（百）| thousand`/'θaʊz(ə)nd/`（千）| million（百万）|billion（十亿）|
 | :----: | :----: | :---: | :---: |
 
-#### 1.2 其他基数词
 
-##### (1) 21 - 99:
+### 1.2 其他基数词
+
+#### (1) 21 - 99:
 
 由十位数和个位数合成，中间由连字符(`-`)连接. 
 
@@ -137,7 +136,7 @@
 | :---- | :---- | :---- | :---- |
 | 58 | fifty-eight | 99 | ninety-nine |
 
-##### (2) 101-999:
+#### (2) 101-999:
 
 由百位数与上面两位数合起来构成，百位数和十位数之间加 and. 如果十位数是零，则在个位数前加 and.
 
@@ -158,7 +157,7 @@
     </tr>
 </table>
 
-##### (3) 千位数(1000 - 9999):
+#### (3) 千位数(1000 - 9999):
 千位和百位间不加任何符号，百位和十位间加 and, 如果百位是 0, 则在千位后加 and.
 
 <table>
@@ -195,7 +194,7 @@
 >
 > https://zhuanlan.zhihu.com/p/118175363
 
-##### (4) 万位以上数字：
+#### (4) 万位以上数字：
 
 我们都知道语文是每位数字后面都有一个特定的计数单位，比如我们从右往左排: 个，十，百，千，万，十万，百万，千万，亿等.
 
@@ -203,13 +202,13 @@
 
 我们知道**英语数字中 3 个数字一个逗号，即三位一节，把三位看成一个整体**，后面**再加一个计数单位**即可. 
 
-英语计数单位就是我们常说的 **百(hundred), 千(thousand), 百万(million), 十亿(billion)**. 英语中没有万，亿单位，那如果涉及到 万，十万，千万，亿怎么说呢？
+英语计数单位就是我们常说的 **百(hundred), 千(thousand), 百万(million), 十亿(billion)**. 英语中没有万，亿单位，那如果涉及到 万，十万，千万，亿怎么说呢？很简单：
 
-很简单 10 个 1,000 就是一万 10,000，英语中叫：ten thousand.
+- 一万 （10,000）：10   个 1,000 就是一万；英语中叫：ten thousand.
 
-十万(100,000): 100 个 1000 就是十万，英语中叫：a/one hundred thousand
+- 十万（100,000）：100 个 1,000 就是十万；英语中叫：a/one hundred thousand.
 
-千万(10,000,000):  10 个 百万(million) = ten million
+- 千万（10,000,000):  10 个 百万(million) = ten million
 
 亿(100,000,000): 就是 100 个一百万 = a/one hundred million
 
@@ -266,30 +265,30 @@
 </table>
 
 
-#### 1.3 基数词在句中的作用
-##### (1) 做主语
+### 1.3 基数词在句中的作用
+#### (1) 做主语
 - **Ten** of the students in this class are Party members.  这个班有 10 个学生是党员。
 - **Eight** plus **six** is fourteen.  8 加 6 等于 14.
 
-##### (2) 作宾语
+#### (2) 作宾语
 
 - They have many footballs and you may borrow **three** from them. 他们有很多足球，你可以跟他们借 3 个。
 - She likes that writer and has already read **two** of his novels. 她很喜欢那个作家，已经读过他的两部小说了。
 
-##### (3) 作定语
+#### (3) 作定语
 - **Six** students were absent from the class yesterday beacuse of the flu. 由于流感，昨天有 6 名学生缺勤。 
 - There are **three hundred** foreign students in our school. 我们学校有三百名外国学生。
 
-##### (4) 作表语
+#### (4) 作表语
 - Five times four is **twenty**. 5 乘以 4 等于 20。
 - A: How old is he? (他几岁了？) B: He is **eleven**. 十一岁了。
 
-##### (5) 作同位语
+#### (5) 作同位语
 - **You two** can go with us. 你们两人可以和我们一块去。
 - It's my pleasure to help **you three** with your English. 我非常高兴帮助你们三人学习英语。 
 
 
-#### 1.4 使用基数词时要注意的事项
+### 1.4 使用基数词时要注意的事项
 **(1)** **hundred, thousand, million, billion 用作定语时, 一律用单数**形式 。<br/>
 此时, 它表示的是一个较准确的数字, **前面要有 a, one, two 等数词或 several, a few 等表示不确切数量的词**，说明有多少个 hundred, thousand 或 million。
 
@@ -316,13 +315,13 @@
 - That is a **four-hundred-page** book. 那是一本有 400 页的书。
 
 
-### 2. 序数词
+## ▲ 2. 序数词
 
 表示顺序, 如: 第一 、 第二 、 第三等的词, 称为序数词 。
 
-#### 2.1 序数词的基本形式
+### 2.1 序数词的基本形式
 
-##### (1) 第 1 至第 19:
+#### (1) 第 1 至第 19:
 
 | first     | second      | third      | 
 | :------- | :--------- | :-------- |
@@ -333,20 +332,20 @@
 | sixteenth | seventeenth | eighteenth `/'eɪ'tiːnθ/` |
 | nineteenth `/'naɪn'tiːnθ/` |       | 
 
-##### (2) 第 20 -  90 的整十位数:
+#### (2) 第 20 -  90 的整十位数:
 
 | twentieth`/'twentɪɪθ/`   | thirtieth`/'θɜːtɪɪθ/` | fortieth`/'fɔːtɪɪθ/`  | 
 | --------- | ----------- | ---------- |
 | fiftieth`/'fɪftɪɪθ/`  | sixtieth`/'sɪkstɪθ/`  | seventieth`/'sevəntɪɪθ/`  |
 | eightieth`/'etɪɪθ/` |   ninetieth`/'naɪntɪɪθ/`  |  |
 
-##### (3) 序数词的整数单位:
+#### (3) 序数词的整数单位:
 
 | hundredth `/'hʌndrədθ/`  | thousandth`/'θaʊzəntθ/` | 
 | --------- | ----------- | 
 | millionth | billionth |
 
-#### 2.2 其他序数词的表达方式
+### 2.2 其他序数词的表达方式
 其他序数词的构成方法是**只将个位数改成序数词**, 十 、 百 、 千位上的数仍用基数词.
 
 | twenty-seventh  第 27 | thirty-eighth  第 38 |
@@ -354,51 +353,51 @@
 | forty-third  第 43 | ninety-fifth  第 95 |
 | one hundred and sixty-fourth  第 164 | two thousand three hundred and the first  第 2,301 |
 
-#### 2.3 序数词的缩写: 
+### 2.3 序数词的缩写: 
 
 序数词在实际应用中, 经常以缩写形式出现。其缩写形式是阿拉伯数字加该序数词的最后两个字母 。
 
-| 1$^{st}$ (first) | 2$^{nd}$ (second) | 
+| 1$^{st}$ (first) | 2$^{nd}$ (second) |
 |:---|:---|
 | 3$^{rd}$ (third) | 21$^{st}$ (twenty-first) |
-| 32$^{nd}$ () | 83$^{rd}$ (eighty-third) | 
+| 32$^{nd}$ (thiry-second) | 83$^{rd}$ (eighty-third) |
 | 4$^{th}$ (fourth) | 9$^{th}$ (ninth) |
-| 11$^{st}$ | 84$^{th}$  | 101$^{st}$  | 
-| 123$^{nd}$ (one hundred and twenty-third)  | |
+| 11$^{th}$ (eleventh) | 84$^{th}$  |
+| 123$^{rd}$ (one hundred and twenty-third) | |
 | 1,000$^{th}$ (thousandth)  | 1,002$^{nd}$ (one thousand and the second) |
 
-#### 2.4 序数词在句中的作用
+### 2.4 序数词在句中的作用
 
-##### (1) 作主语 
+#### (1) 作主语 
 - Do you see some bikes over there? **The second** is mine.（你看到那边那几辆自行车了吗？第二辆是我的。）
 - **The first** to arrive will open the windows.（第一个到的人会打开窗户。）
 
-##### (2) 作宾语
+#### (2) 作宾语
 - He is among **the first** to visit that place.（他是第一批参观过那个地方的人之一.)
 - Please give me **the second**. （请给我第二个.)
 
-##### (3) 作定语
+#### (3) 作定语
 - 1 have only read **the second** chapter.（我只读完了第二章.)
 - She won **the first** prize in the English speaking competition.（她在英语演讲比赛中获得一等奖.)
 
-##### (4) 作表语
+#### (4) 作表语
 - He was **the fourth** to arrive.（他是第四个到的.)
 - At no time and in no circumstances will China be **the first** to use nuclear weapons.（无论何时, 无论在何种情况下, 中国都不会首先使用核武器.)
 
-#### 2.5 使用序数词时要注意的事项
-##### (1) 使用序数词时, 前面要**加定冠词 the**.
+### 2.5 使用序数词时要注意的事项
+#### (1) 使用序数词时, 前面要**加定冠词 the**.
 - Our team got **the first** place in the game.（我们队在比赛中得了第一名 。 ）
 - He is always **the first** to come. （他总是第一个到.）
 
-##### (2) 序数词前, 有时可以不用 the, 而用 a, 用来表示 “ 再一, 又一”.
+#### (2) 序数词前, 有时可以不用 the, 而用 a, 用来表示 “ 再一, 又一”.
 - You may try  it **a second** time. （你可以再试一次.)
 - The farmers will sow **a second** time four months later.（农民们四个月后还要再播种一次.） 
 
-### 3. 分数
+## ▲ 3. 分数
 
 分数由 基数词 和 序数词 结合构成。规则是**分子用基数词表示，分母用序数词表示**. 读的顺序**先读分子，后读分母**.
 
-#### 3.1 当分子为 1 时 
+### 3.1 当分子为 1 时 
 当分子为 1 时，口语中用 "a" 代替 "one"，当分子大于 1 时，分母(序数词)要加 "s". 例如: 
 
 | 1/3 | a/one third | 1/6 | a/one sixth `/sɪksθ/` |
@@ -406,14 +405,15 @@
 | 3/8 | three eighths | 3/5 | three fifths |
 
 
-#### 3.2 含有整数的分数 
+### 3.2 含有整数的分数 
 如果一个分数有整数部分，整数和分数之间要加 and.
 
 |  2$\frac{1}{2}$  | two and one second |
 | :-- | :-- |
 | 7$\frac{5}{8}$ | seven and five eighths  |
 
-#### 3.3 分母为 2、4 的分数 
+### 3.3 分母为 2、4 的分数
+
 分母是 2、4 的分数还可以用下面的方式表示
 
 |  1/2  | a/one half  |
@@ -421,7 +421,7 @@
 |  1/4  | a/one quarter |
 |  3/4  | three quarters |
 
-#### 3.4 较大分数 
+### 3.4 较大分数 
 分数较大时，可以用 over 来表示.
 
 |  29/78    |  twenty-nine over seventy-eight  |
@@ -430,9 +430,9 @@
 |  232/503  |  two hundred thirty-two over five hundred and three  |
 
 
-### 4. 小数和百分数
+## ▲ 4. 小数和百分数
 
-#### 4.1 小数 
+### 4.1 小数 
 **英语中的小数点用 point 来表示，小数点后面如果是两位以上的数字，则分别读出.**
 
 |  0.28  |   zero point two eight   |
@@ -442,15 +442,15 @@
 |  2.5    |   tow point five   |
 |  45.67  |   forty-five point six seven   |
 
-#### 4.2 百分数
+### 4.2 百分数
 **`％`符号读作 percent**
 - ten percent. (10%)
 - I am 100 **percent** in agreement.  我百分之百同意。
 - In our school forty-five **percent** of the pupils$\color{red}{^*}$ are boys. 我们学校 45% 的学生是男孩子。
 
-### 5. 数词的实际应用
+## ▲ 5. 数词的实际应用
 
-#### 5.1 (表示)排列顺序 
+### 5.1 (表示)排列顺序 
 (1) 基数词表示顺序时，放在**名词后面**.
 - Lesson Three 第三课
 - page 12. 第 12 页
@@ -471,7 +471,7 @@
 - The three girls like singing.  这三个女孩子喜欢唱歌。 (*这里指三个人都喜欢唱歌*)
 - The third girl likes singing.  第三个女孩子喜欢唱歌。(*这里指只有一个人喜欢唱歌*)
 
-#### 5.2 (表示)年龄
+### 5.2 (表示)年龄
 
 (1) 表示年龄，一般用基数词。
 - I am **twenty** years old and my sister is **eighteen**. 我二十岁了，我妹妹十八岁。
@@ -480,7 +480,7 @@
 - Our English teacher is **in her thirties.** 我们的英语老师有三十多岁。
 - Although he is **in his sixties**, he still studies English.  尽管他六十多岁了，但还在学习英语。
 
-#### 5.3 (表示) `年`/`月`/`日`
+### 5.3 (表示) `年`/`月`/`日`
 **(1)** `年` 用 **基数词**，`月` 用**专有名词**，`日` 用**序数词**。
 - 1921 年 7 月 1 日
     + 写作：July 1, 1921
@@ -533,16 +533,16 @@ Additional Info: **年份**的补充讲解
 - millennium `/mɪ'lenɪəm/` 千年
 - This temple was built in the 18$^{(th)}$ century. 这个寺庙建于 18 世纪。 
 
-#### 5.4 (表示)时钟
+### 5.4 (表示)时钟
 钟点用基数词，有两种表示方法：
-##### 1. 先读小时数，再读分钟数。
+#### 1. 先读小时数，再读分钟数。
 
 + 8:20 -- eight twenty
 + 5:30 -- five thirty
 + 9:50 -- nine fifty
 + 11:45 -- eleven forty-five
 
-##### 2. 先读分钟数，再读小时数
+#### 2. 先读分钟数，再读小时数
 (1) 不足半小时用 past: **分钟数 + past + 分钟数**
 
 (2) 超过半小时用 to: 小时要加 1, 分钟用 60 与已知分钟数的差，即：差几分到下个钟点。<br/>
@@ -553,7 +553,7 @@ Additional Info: **年份**的补充讲解
 + 9:50 -- ten to ten (差 10 分到 10 点)
 + 11:45 -- a quarter to twelve (差一刻到 12 点)
 
-#### 5.5 (表示)电话号码
+### 5.5 (表示)电话号码
 
 (a.) 按照顺序读
 
@@ -566,7 +566,7 @@ Additional Info: **年份**的补充讲解
 
 (c.) 0 可以读为 zero，也可以读成字母 O(ou) 或 nought.
 
-#### 5.6 (表示)数学运算
+### 5.6 (表示)数学运算
 | 加   | plus / and      |
 | ---- | --------------- |
 | 减   | minus           |
@@ -590,7 +590,7 @@ Additional Info: **年份**的补充讲解
 - How much is seventy-two **divided** by three? (72 除以 3 等于多少)
 - Seventy-two **divided** by three **is(/gives)** twenty-four. (72 ÷ 3 = 24)
 
-#### 5.7 数字 + 表示 时间/距离/重量/金钱 单位的名词: 
+### 5.7 数字 + 表示 时间/距离/重量/金钱 单位的名词: 
 数字 + 表示 时间/距离/重量/金钱 单位的名词作主语时，谓语动词要用单数。
 - There is too much work to do. **Four days is** not enough. (要做的工作太多了。4 天时间不够。)
 - **One thousand miles is** a long distance. You can't cover it within a day. (一千英里是一段很长的距离。你一天走不完。)
@@ -609,13 +609,13 @@ Additional Info: **年份**的补充讲解
 
 
 
-##### (7) 电话号码
+#### (7) 电话号码
 
 
-##### (8) 度量或重量单位
+#### (8) 度量或重量单位
 
 常见的度量单位如 100mph，在这里 `mph` 是缩写，全文是 **miles`/maɪl/` per$\color{red}{^*}$ hour**即每小时所运行英里，直接先读数值再把单位全称读出来即可，重量单位也是如此。例如：
 
 - 145mph: one hundred forty-five miles per hour
 
-##### (9) 年份
+#### (9) 年份
