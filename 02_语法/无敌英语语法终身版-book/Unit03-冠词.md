@@ -92,44 +92,6 @@
         <td>我是一个演员</td>
     </tr>
 </table>
-
-<table>
-    <tr style="font-weight:bold; text-align:center;">
-        <td style="text-align:center;" colspan="3">名词分类</td>
-        <td style="text-align:center;">特点</td>
-        <td style="text-align:center;">示例</td>
-    </tr>
-    <tr>
-        <td style="text-align:center;" colspan="3">专有名词</td>
-        <td>已默认在数量和指向上被限定</td>
-        <td>Beijing 北京，<br> China 中国</td>
-    </tr>
-    <tr>
-        <td style="text-align:center;" rowspan="4">普通名词</td>
-        <td style="text-align:center;" rowspan="2">可数名词</td>
-        <td style="text-align:center;">个体名词</td>
-        <td>需要限定</td>
-        <td>taxi 出租车，<br> boy 男生</td>
-    </tr>
-    <tr>
-        <td style="text-align:center;">集体名词</td>
-        <td>单数含义时通常需要限定；<br> 复数含义时默认已在数量上被限定。</td>
-        <td>people, <br> audience, <br> class</td>
-    </tr>
-    <tr>
-        <td style="text-align:center;" rowspan="2">不可数名词</td>
-        <td style="text-align:center;">物质名词</td>
-        <td>已指向所有种类</td>
-        <td>fruit 水果，<br> juice 果汁</td>
-    </tr>
-    <tr>
-        <td style="text-align:center;">抽象名词</td>
-        <td>已默认在数量上被限定</td>
-        <td>health 健康，<br> power 能量</td>
-    </tr>
-</table>
-
-
 #### 英语的不定冠词 "a/an" 与汉语的 "一" 表面相似，实则侧重不同。
 
 **a/an 主要起泛指作用，兼职表数量**（但不强调数量）。**汉语 "一" 主要作用是强调数量，兼职表泛指。**
@@ -165,8 +127,6 @@ A reader lives a thousand lives before he dies. The man who never reads lives on
 
 
 
-
-
 ## ▲ 不定冠词 (a/an)
 
 不定冠词表示不定的人或物，用来修饰可数名词。
@@ -181,7 +141,7 @@ A reader lives a thousand lives before he dies. The man who never reads lives on
 | ------------------------ | ------------ | ------ |
 | a plane`/pleɪn/` -n.飞机 | a university | a unit |
 
-**(2)** an 用在以元音开头的单词前 。
+**(2)** an 用在以元音开头的单词前 。(注：元音和辅音的详细讲解，见同仓库的 `01_发音` 目录)
 
 | an apple`/ˈæpəl/ `|  an egg | an orange  |
 | -------- | ------ | ---------------------|
@@ -189,66 +149,74 @@ A reader lives a thousand lives before he dies. The man who never reads lives on
 
 **(3)** 这里要强调的是，所谓以元音开头或是以辅音开头， 指的是发出的音是元音还是辅音，而不是指元音字母或辅音字母。
 
-> a university `/ˌjuːnəˈvɜːsəti/` 一所大学  --  git a第一个音是辅音 j*
+> a university `/ˌjuːnəˈvɜːsəti/`  一所大学  --  git a第一个音是辅音 j*
 >
-> a European`/jʊərə'piːən/` country 一个欧洲国家  --  *第一个音是辅音 j*
+> a European`/jʊərə'piːən/` country  一个欧洲国家  --  *第一个音是辅音 j*
 >
 > a one-sided`/'wʌn'saidid/`  一个片面的观点  --  *第一个音是辅音 w*
 >
 > an hour`/'aʊə/` 一个小时 h 不发音  --  *第一个音是元音 au*
 >
-> an honest`/'ɒnɪst/` boy 一个诚实的男孩  --  *第一个音是元音 ɒ*
+> an honest`/'ɒnɪst/` boy  一个诚实的男孩  --  *第一个音是元音 ɒ*
 >
 > an honorable `/ˈɔnərəbl/` 一个品行高尚的人  --  *第一个音是元音 ɔ*
 
+### 1.2 不定冠词的用法
 
+#### (1) 表示一类事物中的任何一个 。 在这一用法中 ， a 与  one  的意思相同 。
+> 1. He is **a** student. （他是一个学生。）
+>
+> 2. There is **a** car over there. （那边有一辆小汽车。）
+>
+> 3. I saw **a** good TV play last night.（ 昨天晚上我看了一部很好的电视剧。）
+>
+> 4. I have **an** English-Chinese dictionary. （我有一本英汉字典。）
 
-02 j 不定冠词的用法
-❶ 表示一类事物中的任何一个 。 在这一用法中 ， a 与  one  的意思相同 。
-■ 1 . He is a student. （ 他是一个学生 。 ）
-■ 2.  the re is a car over  the re. （ 那边有一辆小汽车 。 ）
-■ 3.1 saw a good TV play last night.
-（ 昨天晚上我看了一部艮好的电视剧 。 ）
-■ 4. 1 have   a(n)   English-Chinese dictionary. （ 我有一本英汉字典 。 ）
-a 和  one  都有 “ 一 ” 的意思 ， 但有时表示的意思有所不同 。 对比下列句子:
-■ 1. She has studied English for more th  a(n)   a year .
-（ 她学了一年多的英语 。 ） 可能是一年半 ， 或一年三个月等
-■ 2. She has studied English for more th  a(n)    one  year .
-（ 她学了不止一年的英语 。 ） 可能是两年或三年
-❷ 用 “ a ” 代表 “ 一类 ” 人或物 。
-■ 1. A square has four sides. （ 正方形有四条边 。 ）
-■ 2. A horse is a useful   a(n)  imal. （ 马是有用的动物 。 ）
-❸ a 表示 “ 每一 " 单位时间 。
-■ 1. He goes back to his hometown twice a year. （ 他每年回家乡两次 。 ）
-■ 2. Take this medicine three times a day. （ 这药一日吃三次 。 ）
-❹ a 用在专有名词前 ， 可以表示 “ 类似 ” 或 “ 某一个 ” 。
-■ 1. That city is a Venice in China. （ 那个城市是中国的威尼斯 。 ）
-■ 2.  the re was a Mr. Zh  a(n)  g calling you just now.
-（ 刚才有个张先生给你打过电话 。 ）
-❺ a 用于很多固定短语 、 词组中 ， 应该把它们按一个单词来记忆 。
-■ a few 几个
-■ a bit of 一点
-■ have a fever 发烧
-■ have a rest 休息
-■ a little 一点 ■ a lot of 许多
-■ have  a cold 感冒 ■ have a cough 咳嗽
-■ have a headache 头痛 ■ have a walk 散步
-■ have a talk 谈话 ■ have a try 尝试一下
-■ have a good time 过得愉快 ■ have a hot time 过得很难受
-■ as a rule 通常 ■ as a whole 总体
-■ make a difference 有影响 ■ make a promise 作出承诺
+**a 和 one 都有 "一" 的意思，但有时表示的意思有所不同。对比下列句子:**
+> 1. She has studied English for **more than a year**.（ 她学了一年多的英语。） *可能是一年半，或一年三个月等*
+>
+> 2. She has studied English for **more than one year**.（ 她学了不止一年的英语 。） *可能是两年或三年*
 
+#### (2) 用 "a" 代表 "一类" 人或物。
+
+> 1. **A** square has four sides. （正方形有四条边。）
+>
+> 2. **A** horse is a useful animal. （马是有用的动物。）
+
+#### (3) a 表示 "每一" 单位时间。
+> 1. He goes back to his hometown **twice a year**. （他每年回家乡两次。）
+>
+> 2. Take this medicine`/ˈmedəsən/` **three times a day**. （这药一日吃三次。）
+
+#### (4) a 用在专有名词前，可以表示 "类似" 或 "某一个"。
+
+> 1. That city is **a Venice** in China. （那个城市是中国的威尼斯。）
+>
+> 2. There was **a Mr. Zhang** calling you just now.（刚才有个张先生给你打过电话。）
+
+#### (5) a 用于很多固定短语、词组中，应该把它们按一个单词来记忆。
+| a few 几个 | a bit of 一点 |
+| ---- | ---- |
+| a little 一点 | a lot of 许多 |
+| have a fever 发烧 | have a rest 休息 |
+| have a cold 感冒  | have a cough`/kɒf/` 咳嗽 |
+| have a headache 头痛  | have a walk 散步 |
+| have a talk 谈话  | have a try 尝试一下 |
+| have a good time 过得愉快 | have a hot time 过得很难受 |
+| as a rule`/ruːl/` 通常 | as a whole 总体 |
+| make a difference 有影响  | make a promise 作出承诺 |
 
 
 
 ## ▲ 定冠词 (the)
+
 定冠词通常和一个名词连用 ， 说明或限定某个特定的人或物 ， 而不是任意的
-其他人或物 ， 有 “ 这 ， 那 ， 这些 ， 那些 ” 的意思 。 定冠词用法很广 ， 特别是 辎
+其他人或物 ， 有 "这 ， 那 ， 这些 ， 那些" 的意思 。 定冠词用法很广 ， 特别是 辎
 一些固定用法 ， 需认真记牢 。
-01 :定冠词的形式 ： 定冠词只有一个  the  。 但是 ， 它的读音有两个 。
+01 :定冠词的形式 ： 定冠词只有一个 the 。 但是 ， 它的读音有两个 。
 t
 3
-❶  the  在辅音开头的单词前读 /8 。 / 。
+❶ the  在辅音开头的单词前读 /8 。 / 。
 ■ the Union /5 q ju:nj  a(n)  /
 ❷  the  在元音开头的单词前读 /8i:/ 。
 ■  the  apple /5i ： aepl/
@@ -260,61 +228,61 @@ t
 ! 指的人或事物 。
 ❶ 用在某些特指的人或物前 ， 这些人或物一般带有定语 。
 ■ 1. 1 know  the  boy st  a(n)  ding at  the  door.
-（ 我认识站在门口的那个男孩 。 ）
-■ 2. Here are  the  discs you w  a(n)  t. （ 这些是你要的光盘 。 ）
+（ 我认识站在门口的那个男孩 。）
+■ 2. Here are  the  discs you w  a(n)  t. （这些是你要的光盘。）
 ❷ 用在说话各方都知道的人或物的前面 。
-■ 1. How do you like  the  film? （ 你觉得那个电影怎么样 ？ ）
-■ 2. A: Where is  the  mouse? （ 鼠标在哪儿 ？ ）
-B: It is in  the  drawer. （ 在抽屉里 。 ）
-■ 3. He attended  the  opening ceremony yesterday. （ 他昨天出席 了 开幕式 。 ）
+■ 1. How do you like  the  film? （你觉得那个电影怎么样？）
+■ 2. A: Where is  the  mouse? （鼠标在哪儿？）
+B: It is in  the  drawer. （在抽屉里。）
+■ 3. He attended  the  opening ceremony yesterday. （他昨天出席  幕式 。）
 各方都知道的一个开幕式
 ❸ 表示前面刚提到过的人或物 。
 ■ 1. 1 saw a film yesterday.  the  film is really worth  seeing.
-（ 我昨天看了一场电影 。 这个电影真值得一看 。 ）
+（ 我昨天看了一场电影 。 这个电影真值得一看 。）
 ■ 2. A: Do  you know that boy with glasses?
 （ 你认识那个戴眼镜的男孩吗 ？ ） ）
 B: Yeah.  the  boy is a student  in Class Five.
-（ 是的 ， （ 我认识 ） 。 他是五班的学生 。 ）
+（ 是的 ， （我认识 ） 。 他是五班的学生。）
 ❹ 表示世界上独一无二的事物 。
-■ 1.  the  moon moves round  the  earth. （ 月亮绕着地球转 。 ）
-■ 2.  the  children are playing in  the  sun. （ 孩 子们 正在有 阳 光的地方玩 。 ）
+■ 1.  the  moon moves round  the  earth. （月亮绕着地球转。）
+■ 2.  the  children are playing in  the  sun. （孩 子们 正在有 阳 的方玩 。）
 ■ 3. More   a(n)  d more people in  the  world begin to learn Chinese.
-（ 世界上越来越多的人开始学习中文 。 ）
-❺ 用在单数可数名词前 ， 表示某一类人或物 。 （ 此时用法与不定冠词相同 ）
-■ 1 .  the  wolf is a wild   a(n)  imal. （ 狼是一种野生动物 。 ）
+（ 世界上越来越多的人开始学习中文 。）
+❺ 用在单数可数名词前 ， 表示某一类人或物 。 （此时用法与不定冠词同）
+■ 1 .  the  wolf is a wild   a(n)  imal. （狼是一种野生动物。）
 025
 ■ 2.  the  mobile ph one  is a very useful tool for communication.
-（ 手机是一种非常有用的通讯工具 。 ）
+（ 手机是一种非常有用的通讯工具 。）
 G 乐器名称前一般要用定冠词 。
-■ 1. She plays  the  violin beautifully. （ 她小提琴拉得非常动听 。 ）
+■ 1. She plays  the  violin beautifully. （她小提琴拉得非常动听。）
 ■ 2. M  a(n)  y students in my class c  a(n)   play  the  flute, while I c  a(n)   only play  the 
-pi  a(n)  o. （ 我们班许多学生会吹笛子 ， 而我只会弹钢琴 。 ）
-❼ 用在序数词或形容词 、 副词的最高级前 。 （ 副词最高级前的  the  可以省去 ）
+pi  a(n)  o. （我们班许多学生会吹笛子 ， 而我只会弹钢琴。）
+❼ 用在序数词或形容词 、 副词的最高级前 。 （副词最高级前的  the  可以去）
 ■ 1. It is  the  second time that he has been in China.
-（ 这是他第二次来中国 。 ）
+（ 这是他第二次来中国 。）
 ■ 2. He is always  the  first to come.
-（ 他总是第一个来 。 ）
-■ 3. He runs （  the  ） fastest in his class.
-（ 他是班里跑得最快的 。 ）  the  可以省略
+（ 他总是第一个来 。）
+■ 3. He runs （ the  ） fastest in his cls.
+（ 他是班里跑得最快的 。）  the  可以省略
 © 用在由 only 修饰的名词前 。
 ■ 1. You seem to be getting fatter. I think  the 
 only way to lose weight is to do more exercise.
-（ 你好像越来越胖了 。 我认为惟一减轻体重的办法是多运动 。 ）
-■ 2. He is  the  only boy in his family. （ 他是家里惟一的男孩子 。 ） ）
+（ 你好像越来越胖了 。 我认为惟一减轻体重的办法是多运动 。）
+■ 2. He is  the  only boy in his family. （他是家里惟一的男孩子 。））
 ❾  the  与某些形容词连用 ， 表示某一类人 ， 视作复数 。
 . 1.  the  rich wish to be richer,   a(n)  d  the  poor fear to be poorer.
-（ 富人希望更富 ， 而穷人害怕更穷 。 ）
+（ 富人希望更富 ， 而穷人害怕更穷 。）
 ■ 2. It is proper that  the  young should give up  the ir seats to  the  old on  the 
-bus. （ 在公共汽车上 ， 年轻人把座位让给老年人是有礼貌的 。 ）
+bus. （在公共汽车上 ， 年轻人把座位让给老年人是有礼貌的。）
 ①用在由普通单词构成的专有名词前 。
 ■ the  People's Republic of China 中华人民共和国
 ■  the  Summer Palace 颐和园
 ■ the  United Nations 联合国
 ❸ 用在姓氏的复数形式前 ， 表示一家人 。
 ■ 1.  the  Greens were watching TV when I arrived.
-（ 我到的时候 ， 格林一家正在看电视 。 ） ）
+（ 我到的时候 ， 格林一家正在看电视 。） ）
 ■ 2.  the  W  a(n)  gs live on  the  18 th floor of this building.
-（ 老王一家住在这座楼的 18 层 。 ） ）
+（ 老王一家住在这座楼的 18 层 。） ）
 O 用在江 、 河 、 湖 、 海 、 山脉 、 岛屿等专有名词前 。
 ■  the  Yellow Sea 黄海 " the  Pacific Oce  a(n)   太平洋
 ■ the  Ch  a(n)  gji  a(n)  g River 长江 ■  the  Himalayas 喜马拉雅山脉
@@ -354,23 +322,23 @@ O 用在江 、 河 、 湖 、 海 、 山脉 、 岛屿等专有名词前 。
 ❶ 专有名词前
 ■ China ■ America ■ Beijing ■ Beijing University
 o 泛指的抽象名词和物质名词前
-■ 1. Science me  a(n)  s h one st, solid knowledge. （ 科学是老老实实的学问 。 ）
+■ 1. Science me  a(n)  s h one st, solid knowledge. （科学是老老实学问 。）
 ■ 2. What would you like to drink, beer, mineral water or coke?
 （ 你想喝点什么 ， 啤酒 ， 矿泉水 ， 还是可乐 ？ ）
-■ 3.  the re was rain last night. （ 昨天晚上下过雨 。 ）
+■ 3.  the re was rain last night. （昨天晚上下过雨。）
 ❸ 名词前已有指示代词 ， 如 this, that ； 物主代词 ， 如 my, your ； 不定代词 ，
 如 some,   a(n)  y, no ? 以及名词所有格 ， 如 Tom's 等时 ， 不再用冠词 。
-■ 1. This book is very interesting. （ 这本书很有意思 。 ）
+■ 1. This book is very interesting. （这本书很有意思。）
 ■ 2. Her uncle lives on  the  eighth floor,   a(n)  d his room faces  the  park.
-（ 她叔叔住在八层楼 ， 他的房间面朝着公园 。 ）
+（ 她叔叔住在八层楼 ， 他的房间面朝着公园 。）
 ❹ 表示某一类人或事物的复数名词前
 ■ 1. Most Sunday papers have comics, which children enjoy.
-（ 大多数星期日的报纸都登载连环漫画 ， 这是孩子们所喜欢的 。 ）
+（ 大多数星期日的报纸都登载连环漫画 ， 这是孩子们所喜欢的 。）
 . 2. Computers c  a(n)  't think for  the mselves,  the y must be told what to do.
-（ 计算机自己 思维 ， 必须 （ 由人们用诉它们该做什么 。 ）
+（ 计算机自己 思维 ， 必须 （由人们用诉它们该做什么。）
 ❺ 在星期 、 月份 、 季节和由 day 构成的节日前
 ■ 1. We have music classes on Monday   a(n)  d Friday.
-（ 我们星期一和星期五有音乐课 。 ） ）
+（ 我们星期一和星期五有音乐课 。） ）
 027
 ...... * ............... .
 由 festival 构成的节日名称 5
@@ -381,39 +349,39 @@ o 泛指的抽象名词和物质名词前
 中秋节
 ・  the  Spring Festival 春节
 ■ 2. Today is February 14, Valentine's Day.
-（ 今天是 2 月 14 号 ， 情人节 。 ）
+（ 今天是 2 月 14 号 ， 情人节 。）
 ■ 3. National Day comes on October 1.
-（ 国庆节是 10 月 1 号 。 ）
+（ 国庆节是 10 月 1 号 。）
 ■ 4. We always go to  the  beach in summer.
-（ 夏天我们经常去海滨 。 ）
+（ 夏天我们经常去海滨 。）
 ❻ 在三餐饭和球类运动的名词前
 ■ 1. We always have supper at home, but have lunch at a snack bar.
-（ 我们经常在家吃晚饭 ， 但在一家快餐店吃午饭 。 ）
+（ 我们经常在家吃晚饭 ， 但在一家快餐店吃午饭 。）
 ■ 2. He is very good at basketball, but he c  a(n)  't play volleyball.
-（ 他篮球打得非常好 ， 但他不会打排球 。 ）
+（ 他篮球打得非常好 ， 但他不会打排球 。）
 ❼ 在语言 、 学科名称前
 ■ 1.  the  students in this class c  a(n)   speak good English.
-（ 这个班的学生英语说得很好 。 ）
+（ 这个班的学生英语说得很好 。）
 ■ 2. 1 like geography very much, from which I have got a lot of knowledge
 about  the  earth.
-（ 我特别喜欢地理课 ， 从中我学到了很多有关地球的知识 。 ）
+（ 我特别喜欢地理课 ， 从中我学到了很多有关地球的知识 。）
 © 在称呼语或表示头衔和职务的名词前
-■ 1. What's  the  matter, Gr  a(n)  dma? （ 奶奶 ， 怎么 了 ？ ）
-■ 2. Jimmy has been made monitor of  the  class. （ 吉米被选为班长 。 ）
+■ 1. What's  the  matter, Gr  a(n)  dma? （奶奶 ， 怎么 了？）
+■ 2. Jimmy has been made monitor of  the  class. （吉米被选为班长。）
 ❾ 当个体名词在句子中不表示具体事物 ， 只表示与它相关的活动时 ， 不用
 冠词 。
 "1. He studies very hard   a(n)  d always goes to bed very late.
-（ 他学习非常努力 ， 总是很晚才睡觉 。 ） 指与床发生联系的 “ 睡觉 ”
- the re is abed in this room. （ 屋子里有一张床 。 ） 指具体的一张床
-■ 2. His mo the r is in hospital now. （ 他母亲正在住院 。 ）
-泛指与医院有关的 “ 住院 ”
+（ 他学习非常努力 ， 总是很晚才睡觉 。） 指与床发生联系的 "睡觉"
+ the re is abed in this room. （屋子里有一张床 。） 指具体一床
+■ 2. His mo the r is in hospital now. （他母亲正在住院。）
+泛指与医院有关的 "住院"
 ■ at night 在夜里
 ■ at dusk 在黄昏
 ■ at sunrise 日出时
 ■ from day to day 日 复一日
 ■ on foot 步行
 ■ on earth 究竟 ， 到底
-He works in a hospital . （ 他在一所医院上班 。 ） 指具体的一所医院
+He works in a hospital . （他在一所医院上班 。） 指具体的所院
 
 ❸ 一些固定短语中不用冠词 。
 ■ at  noon 在正午

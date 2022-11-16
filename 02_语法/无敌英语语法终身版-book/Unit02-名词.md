@@ -56,7 +56,44 @@
 
 英语的名词 **根据它所代表事物的特点** 分为两大类：**专有名词**和**普通名词**. 
 
+<table>
+    <tr style="font-weight:bold; text-align:center;">
+        <td style="text-align:center;" colspan="3">名词分类</td>
+        <td style="text-align:center;">特点</td>
+        <td style="text-align:center;">示例</td>
+    </tr>
+    <tr>
+        <td style="text-align:center;" colspan="3">专有名词</td>
+        <td>已默认在数量和指向上被限定</td>
+        <td>Beijing 北京，<br> China 中国</td>
+    </tr>
+    <tr>
+        <td style="text-align:center;" rowspan="4">普通名词</td>
+        <td style="text-align:center;" rowspan="2">可数名词</td>
+        <td style="text-align:center;">个体名词</td>
+        <td>需要限定</td>
+        <td>taxi 出租车，<br> boy 男生</td>
+    </tr>
+    <tr>
+        <td style="text-align:center;">集体名词</td>
+        <td>单数含义时通常需要限定；<br> 复数含义时默认已在数量上被限定。</td>
+        <td>people, <br> audience, <br> class</td>
+    </tr>
+    <tr>
+        <td style="text-align:center;" rowspan="2">不可数名词</td>
+        <td style="text-align:center;">物质名词</td>
+        <td>已指向所有种类</td>
+        <td>fruit 水果，<br> juice 果汁</td>
+    </tr>
+    <tr>
+        <td style="text-align:center;">抽象名词</td>
+        <td>已默认在数量上被限定</td>
+        <td>health 健康，<br> power 能量</td>
+    </tr>
+</table>
+
 #### 1.1 专有名词：
+
 专有名词是**个人**、**机构**、**地方**、**组织**等专用的名称. 
 
 | Beijing 北京 | New York 纽约 | WHO 世界卫生组织  |
