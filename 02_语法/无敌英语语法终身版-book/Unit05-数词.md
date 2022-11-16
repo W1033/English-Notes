@@ -208,11 +208,11 @@
 
 - 十万（100,000）：100 个 1,000 就是十万；英语中叫：a/one hundred thousand.
 
-- 千万（10,000,000):  10 个 百万(million) = ten million
+- 千万（10,000,000）:  10 个 百万(million) = ten million
 
-亿(100,000,000): 就是 100 个一百万 = a/one hundred million
+- 亿（100,000,000）: 就是 100 个一百万 = a/one hundred million
 
-十亿(1,000,000,000): 直接就是 billion.
+- 十亿（1,000,000,000）: 直接就是 billion.
 
 **注:** 在使用 hundred，thousand，million 时，如果是模糊的表达，单位数字后面要加 `s`，例如:
 
