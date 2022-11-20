@@ -12,7 +12,7 @@
 
 Personal  pronouns 人称代词
 
-Possesive pronouns 
+Possessive pronouns 
 
 reflexive pronouns 反身代词
 
