@@ -244,23 +244,122 @@ it 属于代词，但是它的用法较广，这里集中加以说明：
 > *it 指前面的决定*
 
 ### 10.3 it 代替一般动物。
+
 > I have a little dog. **It**'s so lovely．（我有一只小狗。它特别可爱。）
 > 
 > A: Where is the cat？（猫在哪儿？）  
 > B: **It** is in my room.（它在我的房间里。）
 
-### 10.4 
+### 10.4 性别不明或是不考虑性别时，it 也可以指人，特别是婴儿或很小的小孩。
+> 1. Who is **it**？（是谁？）*听到敲门声，问是谁，此时不知门外是男是女*
+> 
+> 2. The baby is sleeping in **its** crib`/krɪb/`.（孩子正在它的小床上睡觉。）
 
-### 10.5 
+注意：一经确定性别，就应该用 he 或 she。如，母亲说自己的孩子，一般多指明性别。	
 
-### 10.6 
+> 例 2 也可以说：The baby is sleeping in **her/his** crib. 
 
-### 10.7 
+### 10.5 起指示代词的作用，替代 this，that。
+> A: Whose car is this？（这是谁的小汽车？）
+> B: **It**'s hers.（是她的。）   *it 指前面提到的小汽车，不可重复使用 this*
+>
+> A: Who is that？（那是谁？）
+> B: **It**'s my boyfriend.（是我的男朋友。） 
 
-### 10.8 
+### 10.6 表示自然现象，如: 天气、气候。
 
-### 10.9 
+> **It** is so cold outside that you'd better stay at home. （外面太冷了，你最好待在家里。）
+> **It** is snowing．（下雪了。）
 
-### 10.10 
+### 10.7 表示时间、距离。
+> A: What time is **it**？（几点了？） 
+> B: **It**'s ten twenty．（10 点 20。） 
+> 
+> A: What's the date？（几号了？） 
+> B: **It**'s the second of July．（7 月 2 号。） 
+> 
+> **It**'s time for supper`/ˈsʌpə/`．（该吃晚饭了。） 
+> 
+> A: How far is **it** from here to your school?（从这儿到你的学校有多远？）
+> B: **It**'s not so far. **It**'s just about ten minutes' walk.（不是很远，只要走大约10分钟。）
 
-### 10.11 
+### 10.8 在某些没有具体主语的结构中，用**it**充当主语。
+
+> **It** seems that no one will come．（似乎没有人会来。）
+> 
+> **It** looks as if **it**'s going to rain．（看起来要下雨了。） 
+> 
+> **It** appears to me that our team must win the game. （我觉得我们队肯定能赢。）
+
+### 10.9 it 作形式主语
+
+当主语是**不定式**、**动名词**或**从句**时，经常会出现主语较长，而主语以外的部分又相对较短的情况，于是句子就容易出现 "头重脚轻" 的不平衡现象，从而影响表达效果；为了避免这一问题，可以使用 it 作形式主语，而把真正的主语放在句子尾部，来保持句子的平衡。
+
+#### (1) 动词不定式短语作主语
+
+> **To spend the whole winter in Hawaii with my family** is one of my dreams.
+> 
+> **It** is one of my dreams **to spend the whole winter in Hawaii with my family.**
+
+> **To get to school** usually takes me thirty minutes.
+> 
+> **It** usually takes me thirty minutes **to get to school**.
+
+> **To learn a foreign language** is not easy.
+>  
+> **It** is not easy **to learn a foreign language**. （学习一门外语不容易。）  
+
+#### (2) 动名词短语作主语
+> **Pretending to work hard in front of others** is no good for oneself.
+> 
+> **It** is no good for oneself **pretending to work hard in front of others**.
+
+> **Arguing`/'argjuiŋ/` with him** is useless.
+> ​
+> **It** is useless **arguing with him**. （跟他争论没有用。）  
+
+#### (3) 主语从句作主语
+> **That we have to work more than ten hours every day** is a fact.
+> 
+> **It** is a fact **that we have to work more than ten hours every day**.
+
+> **How people lose`/luːz/` their passion` /'pæʃ(ə)n/` and curiosity`/ˌkjʊərɪˈɒsətɪ/` during their growth** makes me wonder. (人们如何在成长过程中失去激情和好奇心让我感到奇怪。)
+> 
+> It makes me wonder how people lose their passion and curiosity during their growth.
+
+> **Whether you stay or leave** doesn't matter. 
+> 
+> **It** doesn't matter **whether you stay or leave**. （你是留下还是离开都无所谓。）
+
+
+### 10.10 作形式宾语：
+
+在“主语＋谓语＋宾语＋宾语补足语”的句型中，当宾语是不定式、动名词或宾语从句，并且宾语后面有名词或形容词作宾语补足语时，要将真正的宾语移到句尾，用it占据原来宾语的位置，作形式宾语。对比下面的句子：
+
+He found this book difficult.（他发现这本书很难。） *一个词组作宾语，不必后移*
+
+
+
+He found it difficult to solve those problems.（他发现解决那些问题很难。）*不定式短语作宾语*
+
+
+
+He found it no use discussing it with Tom.
+
+（他发现跟汤姆讨论那件事没有用。）*动名词短语作宾语*
+
+
+
+He thinks it important that every college student should master a foreign language. （他认为每一个大学生掌握一门外语是很重要的。）*从句作宾语*
+
+
+
+### 10.11 构成强调句
+
+在英语中，为了强调句子的某一个成分（主语、宾语、状语等），需用下面的强调句型：It is／was＋强调部分＋that／who／whom＋句子的其他全部成分。
+
+(1) 强调主语、宾语、状语。
+
+现以 I saw her in the street last night.为例， 分别对划线部分进行强调。
+
+### 
