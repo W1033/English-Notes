@@ -251,8 +251,8 @@ quickly 就是 eat 的状语.
 英语兔我要再次强调，咱们直到现在所说的都是所谓**简单句 (Simple Sentences)**，说白了就是没法再拆成更多句子，可是我们说话写文章可不全是简单句一个接一个的说。
 
 咱平时说话写文章，经常会把这些不同的简单句互相组合，形成所谓:
-- (1) **compound sentences (复合句/并列句)** 和 
-    + compound `/ˈkɒmpaʊnd $ ˈkɑːm-/` -n.(1)化合物; (2)混合体，复合物; (3)复合词
+- (1) **compound(adj) sentences (复合句/并列句)** 和 
+    + compound `/ˈkɒmpaʊnd/` -n.化合物; 复合物; 复合词. -adj.复合的；混合的
 - (2) **complex sentences (复杂句)**
 
 **compound sentences** 说白了其实就是句子简单的叠加是并列关系，直接翻译为复合句，但是有的语法书上的术语是并列句。而
