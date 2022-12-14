@@ -1204,8 +1204,8 @@ if a woman flutters her eyelashes`/ˈaɪlæʃ/`(n.睫毛) at a man, she looks at
     + He gave his consent(n) to the proposal. 他同意该提案.
     + I never consented(vi) to any of it. 我从未同意这么做过.
     + Well, I suppose I must give my consent. 好吧, 我想我必须同意.
-- **divorce `[dɪ'vɔːs]/[dɪ'vɔrs]` --n.离婚; 脱离.**
-  **--vt.使离婚; 使分离; 与...离婚. --vi.离婚.**
+- **divorce `[dɪ'vɔːs]/[dɪ'vɔrs]` --n.离婚; 分离.**
+  **--vt.使离婚; 使分离; --vi.离婚.**
     + Divorce(n) is becoming commoner. 离婚变成愈来愈稀松平常.
     + Mrs. Cook divorced(vt) her husband. 库克夫人与丈夫离婚了.
     + They are divorced(vt). 他们离婚了.
