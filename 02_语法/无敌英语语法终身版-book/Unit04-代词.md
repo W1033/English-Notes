@@ -107,7 +107,7 @@
 
 #### (2) 代词有格的变化
 
-**代词有格的变化，即主格、宾格之分**，这在汉语中是没有的。ssddwaasdwwaaddwwassdwadadwa
+**代词有格的变化，即主格、宾格之分**，这在汉语中是没有的。
 
 当**一个代词在句中作主语时，要用主格形式**；**作宾语时，要用宾格形式**。而在汉语中，“我、他、她、它、我们、他们”在任何地方出现都不发生变化。
 
@@ -132,7 +132,7 @@
 > Tom will help **you**.（汤姆会来帮助你／你们。）
 
 ### 1.2 人称代词的用法
-人称代词在剧中可以作主语、宾语和表语。
+人称代词在句中可以作主语、宾语和表语。
 #### (1) 人称代词作主语时，需要人称代词的主格形式。 
 > **I** like classical music. （我喜欢古典音乐。）
 > 
@@ -155,7 +155,7 @@
 ### 1.3 几个人称代词并列出现时的顺序
 几个人称代词并列出现时，中文和英文的排列顺序是不一样的。英文中，一般是按 **二、三、一** 的顺序排列；而中文是按 一、二、三 的顺序排列。对比下列句子：
 
-> **You and I** will go to attend that meeting tomorrow. （我和你明天要去开会。） *二、一 人称*
+> **You and I** will go to attend that meeting tomorrow. （我和你明天要去开会。）  *二、一 人称*
 > 
 > You, Tom and I will finish this work today. （我、你和汤姆今天要完成这个工作。） *二，三，一 人称*
 > 
@@ -168,9 +168,10 @@
 we，you，they有时并不指特定的人，而是用来泛指一般人。
 
 > **We** had a very cold winter last year．（去年冬天非常冷。） 
-> 
-> In the tropics`/ˈtrɒpɪk/`, **you** don't need winter clothing. （在热带地区，人们不需要冬天的衣服。）
-
+>
+> In the tropics, **you** don't need winter clothing. （在热带地区，人们不需要冬天的衣服。）
+>
+> + tropic `/ˈtrɒpɪk/` n. 热带（地区）；回归线。
 
 ## 2. 物主代词
 
