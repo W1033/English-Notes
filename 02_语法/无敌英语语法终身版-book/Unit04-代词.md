@@ -2,27 +2,41 @@
 
 > **代词：** -- https://www.wikiwand.com/zh-hans/%E4%BB%A3%E8%A9%9E
 >
-> **代词**（英语：pronoun`/ˈprəʊnaʊn/`），又叫**代名词**，在 [语言学](https://www.wikiwand.com/zh-hans/語言學）和 [语法学](https://www.wikiwand.com/zh-hans/語法學）中是指代替 [名词](https://www.wikiwand.com/zh-hans/名詞）或名词短语的形式词（是否附加限定词各个语言不同），如汉语的“你”、“我”、“他”，英语的“you”、“this”，法语的“nous”、“elle”等。问句中代替被询问物体的代词叫做 [疑问代词](https://www.wikiwand.com/zh-hans/疑问代词)，比如“谁”等。
+> **代词**（英语：pronoun`/ˈprəʊnaʊn/`），又叫**代名词**，在语言学和语法学中是指代替名词或名词短语的形式词（是否附加限定词各个语言不同），如汉语的 "你" 、 "我" 、 "他" ，英语的 "you" 、 "this" ，法语的 "nous" 、 "elle" 等。问句中代替被询问物体的代词叫做 [疑问代词](https://www.wikiwand.com/zh-hans/疑问代词)，比如 "谁" 等。
 >
-> 代词在不同语言中分类也不同，不过大体上包括人称代词、物主代词、复指代词（反身代词）、指示代词、不定代词、疑问代词、连接代词、[关系代词](https://www.wikiwand.com/zh-hans/關係代名詞)等等。
+> 代词在不同语言中分类也不同，不过大体上包括人称代词、物主代词、复指代词（反身代词）、指示代词、不定代词、疑问代词、连接代词、关系代词等等。
 
-代词一般分为九类：人称代词、物主代词、反身代词、相互代词、指示代词、不定代词、疑问代词、连接代词和关系代词。
 
-Personal  pronouns 人称代词
+代词一共 10 类： 
 
-Possessive pronouns 
+- 人称代词 (Personal pronouns)
 
-reflexive pronouns 反身代词
+- 物主代词 (Possessive pronouns)
+    + possessive `/pəˈzesɪv/` n.物主代词；所有格。adj.占有欲强的；所有格的。
 
-reciprocal pronouns
+- 反身代词 (Reflexive pronouns)
+    + reflexive `/rɪˈfleksɪv/` adj.反射性的；反身的。n.反身代词。
 
-demonstrative pronouns 指示代词
+- 强调代词
 
-relative pronouns 
+- 相互代词 (Reciprocal pronouns)
+    + reciprocal `/rɪˈsɪprəkəl/` adj.相互的；互惠的。
 
-Interrogative  pronouns
+- 指示代词 (Demonstrative pronouns)
+    + demonstrative `/dɪˈmɒnstrətɪv/` adj.感情外露的；指示的。n.指示词
 
-indefinite pronouns 
+- 不定代词 (Indefinite pronouns)
+    + indefinite `/ɪn'dɛfɪnət/` adj.无限的；不明确的。
+
+- 疑问代词 (Interrogative pronouns)
+    + interrogative `/ˌɪntə'rɑɡətɪv/`[us] adj.疑问的。n.疑问词。
+
+- 连接代词
+
+- 关系代词 (Relative pronouns)
+
+
+
 
 ## 1. 人称代词
 
@@ -36,7 +50,7 @@ indefinite pronouns
 
 人称代词有**人称**（第一/第二/第三人称）、**数**（单数/复数）和**格$\color{red}{^{(a)}}$**的变化。详见下表。
 
-> $\color{red}{(a)}$ **格** -- https://www.wikiwand.com/zh/%E6%A0%BC_(%E8%AF%AD%E6%B3%95)
+> $\color{red}{(a)}$ [格](https://www.wikiwand.com/zh/%E6%A0%BC_(%E8%AF%AD%E6%B3%95))
 >
 > **格**（英語：case`/keɪs/`），格位，狭义上称为**语法格**，在 [格语法](https://www.wikiwand.com/zh/格语法) 中称为**表层格**，是 [名词](https://www.wikiwand.com/zh/名詞) 、[代词](https://www.wikiwand.com/zh/代詞) 、[分词](https://www.wikiwand.com/zh/分词) 、[数词](https://www.wikiwand.com/zh/數詞) 或 [形容词](https://www.wikiwand.com/zh/形容词) 等 [词类](https://www.wikiwand.com/zh/词类) 当中，反映其在 [短语](https://www.wikiwand.com/zh/短语) 、[从句](https://www.wikiwand.com/zh/子句) 或 [句子](https://www.wikiwand.com/zh/句子) 中所起语法功能（英语：[grammatical`/ɡrəˈmætɪkəl/` function](https://www.wikiwand.com/en/grammatical_function)) 的一种特定 [语法范畴](https://www.wikiwand.com/zh/语法范畴) ，会使 [词](https://www.wikiwand.com/zh/詞_（語言) 发生相应不等的 [屈折变化](https://www.wikiwand.com/zh/词形变化) 。随着 [语言](https://www.wikiwand.com/zh/语言) 逐步演变，格会发生合并（如古希腊语裡 [方位格](https://www.wikiwand.com/zh/方位格) 和 [与格](https://www.wikiwand.com/zh/与格) 合并) ，这种现象称为 [语形融合](https://www.wikiwand.com/zh/語形融合) [[1]](https://www.wikiwand.com/zh/格_（语法)。在更正式的定义裡面，语法格是“一种根据独立名词成分与中心词的关系类型，标记这些名词成分的系统”[[2\]](https://www.wikiwand.com/zh/格_（语法)，故语法格是一种 [词法学](https://www.wikiwand.com/zh/词法学) 上的概念（詞法格) ，应当跟 [语义学](https://www.wikiwand.com/zh/语义学) 上的 [语义格](https://www.wikiwand.com/zh/语义格) （也称语义角色、题元角色) 区分开来。如拉丁语里数个语义格可以共用一个语法格。拥有语法格的语言通常 [语序](https://www.wikiwand.com/zh/语序) 较为 [自由](https://www.wikiwand.com/zh/自由)，且其语序不表示语义格。
 >
@@ -49,7 +63,7 @@ indefinite pronouns
 > - 人称代词宾格：me, you, him, her, it, us, them, whom, whomever.
 > - 人称代词属格：my, mine; your, yours; his; her, hers; its; our, ours; their, theirs; whose; whosever.
 > 
-> 如 *I kicked him* 或 *He cheated on me*。**在格较少的语言裡面，很多格关系是通过介词来实现的**，如英语的介词短语 *(kick) with (his) foot* 或中文的 “用脚（踢）”
+> 如 *I kicked him* 或 *He cheated`/tʃiːt/` on me*。**在格较少的语言裡面，很多格关系是通过介词来实现的**，如英语的介词短语 *(kick) with   (his) foot* 或中文的 “用脚（踢）”
 
 <table>
     <thead>
@@ -93,7 +107,7 @@ indefinite pronouns
 
 #### (2) 代词有格的变化
 
-**代词有格的变化，即主格、宾格之分**，这在汉语中是没有的。
+**代词有格的变化，即主格、宾格之分**，这在汉语中是没有的。ssddwaasdwwaaddwwassdwadadwa
 
 当**一个代词在句中作主语时，要用主格形式**；**作宾语时，要用宾格形式**。而在汉语中，“我、他、她、它、我们、他们”在任何地方出现都不发生变化。
 
