@@ -11,7 +11,7 @@
 
 - 人称代词 (Personal pronouns)
 
-- 物主代词 (Possessive pronouns)
+- 物主代词 (Possessive pronouns) / Property pronouns
     + possessive `/pəˈzesɪv/` n.物主代词；所有格。adj.占有欲强的；所有格的。
 
 - 反身代词 (Reflexive pronouns)
@@ -31,7 +31,7 @@
 - 疑问代词 (Interrogative pronouns)
     + interrogative `/ˌɪntə'rɑɡətɪv/`[us] adj.疑问的。n.疑问词。
 
-- 连接代词
+- 连接代词 (Conjunctive pronouns)
 
 - 关系代词 (Relative pronouns)
 
@@ -48,13 +48,13 @@
 >
 > -- https://www.wikiwand.com/zh-sg/%E4%BA%BA%E7%A8%B1%E4%BB%A3%E8%A9%9E
 
-人称代词有**人称**（第一/第二/第三人称）、**数**（单数/复数）和**格$\color{red}{^{(a)}}$**的变化。详见下表。
+人称代词有**`人称`**（第一/第二/第三人称）、**`数`**（单数/复数）和**`格`$\color{red}{^{(a)}}$**的变化。详见下表。
 
 > $\color{red}{(a)}$ [格](https://www.wikiwand.com/zh/%E6%A0%BC_(%E8%AF%AD%E6%B3%95))
 >
 > **格**（英語：case`/keɪs/`），格位，狭义上称为**语法格**，在 [格语法](https://www.wikiwand.com/zh/格语法) 中称为**表层格**，是 [名词](https://www.wikiwand.com/zh/名詞) 、[代词](https://www.wikiwand.com/zh/代詞) 、[分词](https://www.wikiwand.com/zh/分词) 、[数词](https://www.wikiwand.com/zh/數詞) 或 [形容词](https://www.wikiwand.com/zh/形容词) 等 [词类](https://www.wikiwand.com/zh/词类) 当中，反映其在 [短语](https://www.wikiwand.com/zh/短语) 、[从句](https://www.wikiwand.com/zh/子句) 或 [句子](https://www.wikiwand.com/zh/句子) 中所起语法功能（英语：[grammatical`/ɡrəˈmætɪkəl/` function](https://www.wikiwand.com/en/grammatical_function)) 的一种特定 [语法范畴](https://www.wikiwand.com/zh/语法范畴) ，会使 [词](https://www.wikiwand.com/zh/詞_（語言) 发生相应不等的 [屈折变化](https://www.wikiwand.com/zh/词形变化) 。随着 [语言](https://www.wikiwand.com/zh/语言) 逐步演变，格会发生合并（如古希腊语裡 [方位格](https://www.wikiwand.com/zh/方位格) 和 [与格](https://www.wikiwand.com/zh/与格) 合并) ，这种现象称为 [语形融合](https://www.wikiwand.com/zh/語形融合) [[1]](https://www.wikiwand.com/zh/格_（语法)。在更正式的定义裡面，语法格是“一种根据独立名词成分与中心词的关系类型，标记这些名词成分的系统”[[2\]](https://www.wikiwand.com/zh/格_（语法)，故语法格是一种 [词法学](https://www.wikiwand.com/zh/词法学) 上的概念（詞法格) ，应当跟 [语义学](https://www.wikiwand.com/zh/语义学) 上的 [语义格](https://www.wikiwand.com/zh/语义格) （也称语义角色、题元角色) 区分开来。如拉丁语里数个语义格可以共用一个语法格。拥有语法格的语言通常 [语序](https://www.wikiwand.com/zh/语序) 较为 [自由](https://www.wikiwand.com/zh/自由)，且其语序不表示语义格。
 >
-> 常见的格包括**主格**、**宾格**、与格和**属格**。此外，一些语言拥有庞大的格系统，如。.....
+> 常见的格包括**`主格`**、**`宾格`**、与格和**`属格`**。此外，一些语言拥有庞大的格系统，如 ......
 >
 > 现代汉语的所有词类都不会发生屈折变化 [[3]](https://www.wikiwand.com/zh/格_（语法）#citenote3)，所以在严格的语法格角度来看，汉语没有格系统（已在发展过程中退化消失）。
 >
@@ -62,46 +62,58 @@
 > - 人称代词主格：I, you, he, she, it, we, they, who, whoever.
 > - 人称代词宾格：me, you, him, her, it, us, them, whom, whomever.
 > - 人称代词属格：my, mine; your, yours; his; her, hers; its; our, ours; their, theirs; whose; whosever.
-> 
+>
 > 如 *I kicked him* 或 *He cheated`/tʃiːt/` on me*。**在格较少的语言裡面，很多格关系是通过介词来实现的**，如英语的介词短语 *(kick) with   (his) foot* 或中文的 “用脚（踢）”
 
 <table>
-    <thead>
-    <tr>
-        <th style="text-align:center;">人称代词</th>
-        <th colspan="2" style="text-align:center;">单数</th>
-        <th colspan="2" style="text-align:center;">复数</th>
-    </tr>
-    </thead>
     <tbody>
-    <tr>
-        <td style="text-align:center;">-</td>
-        <td style="text-align:center;">主格</td>
-        <td style="text-align:center;">宾格</td>
-        <td style="text-align:center;">主格</td>
-        <td style="text-align:center;">宾格</td>
-    </tr>
-    <tr>
-        <td style="text-align:center;">第一人称</td>
-        <td style="text-align:center;">I （我）</td>
-        <td style="text-align:center;">me</td>
-        <td style="text-align:center;">we （我们）</td>
-        <td style="text-align:center;">us</td>
-    </tr>
-    <tr>
-        <td style="text-align:center;">第二人称</td>
-        <td style="text-align:center;">you （你）</td>
-        <td style="text-align:center;">you</td>
-        <td style="text-align:center;">you （你们）</td>
-        <td style="text-align:center;">you</td>
-    </tr>
-    <tr>
-        <td style="text-align:center;">第三人称</td>
-        <td style="text-align:center;">he（他）, she（她）, it（它）</td>
-        <td style="text-align:center;">him, her, it</td>
-        <td style="text-align:center;">they （他们）</td>
-        <td style="text-align:center;">them</td>
-    </tr>
+        <tr>
+            <td style="text-align:center;" colspan="11">人称代词</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;"></td>
+            <td style="text-align:center;" colspan="5">单数</td>
+            <td style="text-align:center;" colspan="5">复数</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;">类别</td>
+            <td style="text-align:center;">第一人称</td>
+            <td style="text-align:center;">第二人称</td>
+            <td style="text-align:center;" colspan="3">第三人称</td>
+            <td style="text-align:center;">第一人称</td>
+            <td style="text-align:center;">第二人称</td>
+            <td style="text-align:center;" colspan="3">第三人称</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;">主格</td>
+            <td style="text-align:center;">I</td>
+            <td style="text-align:center;" rowspan="2">you</td>
+            <td style="text-align:center;">he</td>
+            <td style="text-align:center;">she</td>
+            <td style="text-align:center;" rowspan="2">it</td>
+            <td style="text-align:center;">we</td>
+            <td style="text-align:center;" rowspan="2">you</td>
+            <td style="text-align:center;" colspan="3">they</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;">宾格</td>
+            <td style="text-align:center;">me</td>
+            <td style="text-align:center;">him</td>
+            <td style="text-align:center;">her</td>
+            <td style="text-align:center;">us</td>
+            <td style="text-align:center;" colspan="3">them</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;">属格</td>
+            <td style="text-align:center;">my, mine</td>
+            <td style="text-align:center;">your, yours</td>
+            <td style="text-align:center;">his</td>
+            <td style="text-align:center;">her， hers</td>
+            <td style="text-align:center;">its</td>
+            <td style="text-align:center;">our, ours</td>
+            <td style="text-align:center;">your, yours</td>
+            <td style="text-align:center;" colspan="3">their, theirs</td>
+        </tr>
     </tbody>
 </table>
 
@@ -173,13 +185,26 @@ we，you，they有时并不指特定的人，而是用来泛指一般人。
 >
 > + tropic `/ˈtrɒpɪk/` n. 热带（地区）；回归线。
 
+
 ## 2. 物主代词
+
+> ### 补充内容
+> 笔记来自：[【术语攻略】什么是物主代词？](https://zhuanlan.zhihu.com/p/186156161)
+> 
+>
+> 
+> 
+> 
+> 
+
 
 ### 2.1 物主代词的种类
 
 ### 2.2 物主代词在句子中的作用
 
 ### 2.3 表示所有关系时，中、英文有下列区别，需要注意
+
+
 
 ## 3. 反身代词
 

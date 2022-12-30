@@ -1,12 +1,21 @@
 # English-Notes 英语笔记
 
-- 真正的理解是无法速成的，需要大量系统性的输入和辩证的思考。
+
+
+**真正的理解是无法速成的，需要大量系统性的输入和辩证的思考。**
 
 
 
-18$^{(th)}$
+Don't argue with the people of strong determination, because they may change the fact.
+
+别和意志坚定的人争论，因为他们可能将改变现实。
+
+
+
+
 
 ## New Words
+
 - **contemporary `[kənˈtempərəri]`/`[kənˈtempəreri]` --adj. 当代的，现代的。**
   **--n. 同代人，同龄人。**
     + contemporary society 当代社会
