@@ -511,11 +511,11 @@ of 后面的名词，是可数名词用复数，是不可数名词则用单数�
 
 |               不可数名词               | 可数名词 |
 | :------------------------------------: | :------: |
-|     **a** cup of coffee  一杯咖啡      |          |
-|    **two** cup**s** of tea  两杯茶     | **one bag** of books 以保护的说 |
+|     **a** cup of coffee  一杯咖啡      | **three** boxes of eggs 三箱鸡蛋 |
+|    **two** cup**s** of tea  两杯茶     | **one bag** of books 一书包的书 |
 | **three** piece**s** of cake  三块蛋糕 | **two** basket**s** of apple**s**  两筐苹果 |
-|  **four** bowl**s** of rice  四碗米饭  | **a dozen** of pencil**s** |
-| **ten** carton**s**$\color {red}{^*}$ of milk  是和牛奶 | **a packet** cigarette**s**  一包烟 |
+|  **four** bowl**s** of rice  四碗米饭  | **a dozen** of pencil**s** 一打铅笔 |
+| **ten** carton**s**$\color {red}{^*}$ of milk  十盒牛奶 | **a packet** cigarette**s**  一包烟 |
 
 
 
@@ -527,167 +527,117 @@ of 后面的名词，是可数名词用复数，是不可数名词则用单数�
 >
 > **名词所有格** 是能够表示物主或所有关系的一种形式。常见的名词所有格有两种形式：
 >
-> - 一 是在 **名词后加 's** (在以 s 结尾的名词后一般直接加 `'` 即可)，使之兼具形容词与名词的功能。
->   + 例如：Tom's 就是 Tom 的名词所有格，前者意为 “汤姆的”，后者意为 “汤姆”；
+> **(1)** 在 **名词后加 's** (在以 s 结尾的名词后一般直接加 `'` 即可)，使之兼具形容词与名词的功能。
 >
-> -  另一种是 **"名词 A + of + 名词 B"** 的形式， 表示 **"B 的 A"**。
->   + 例如：the color of the sky. 表示 “天空的颜色”。
-> 
+> + 例如：Tom's 就是 Tom 的名词所有格，前者意为 “汤姆的”，后者意为 “汤姆”；
+>
+> **(2)** 另一种是 **"名词 A + of + 名词 B"** 的形式， 表示 **"B 的 A"**。
+>
+> + 例如：the color of the sky. 表示 “天空的颜色”。
+>
 > 具体示例如下：
-> 
-> #### 1. 在名词后加 's
+>
+> ####  1. 在名词后加 's
 >
 > 注：在以 s 结尾的单词后一般直接加 ' 即可
 >
 > > ADJ: That is **Tom's** bag.
 > >
 > > N: That bag is **Tom's**.
-> 
+>
 > > ADJ: It was **my sister's** idea.
 > >
 > > N: The idea was **my sister's**.
-> 
+>
 > > ADJ：**The old man's** books are in this box.
 > >
 > > N: These books are **the old man's**.
-> 
-> > We accepted **Ms. Jones's (Ms. Jones' 也可)** offer. 我们接受了琼斯女士的提议。
-> 
-> * 注：以 - s 结尾 (发音为 /z/) 的人名，可以加's，也可以只加 '。
-> 
-> 
-> 
-> Will you attend **tomorrow's meeting**?
-> 
-> 你会去参加明天的会议吗？
-> 
-> 
-> 
-> Did you see **the girl on your right's expression**?
-> 
-> 你看到你右边那个女孩的表情了吗？
-> 
-> 
-> 
-> It is a ten minutes' walk from here to the subway station.
-> 
-> 从这里到地铁站走路要 10 分钟 (即一段 10 分钟的步行距离)。
-> 
-> 
-> 
-> We found it a students' common problem.
-> 
-> 我们发现这是一个学生们普遍存在的问题。
-> 
-> 
-> 
-> ※注意差别：
-> 
-> Mrs. Green cleaned Susan and Wendy's room.（Susan 和 Wendy 共用一个房间）
-> 
-> 
-> 
-> Mrs. Green cleaned Susan's and Wendy's rooms.（Susan 和 Wendy 各用一个房间）
-> 
-> 
-> 
-> #### 2. "名词 A + of + 名词 B"， 表示 "B 的 A"
-> 
-> Such is the beauty of autumn.
-> 
-> 这就是秋日之美。
-> 
-> 
-> 
-> What do you think is the meaning of the Olympic game?
 >
-> 你认为奥运会的意义是什么？
+> > We accepted **Ms. Jones's (Ms. Jones' 也可)** offer. 我们接受了琼斯女士的提议。
+>
+> * 注：以 - s 结尾 (发音为 /z/) 的人名，可以加 's，也可以只加 '。
+>
+> > Will you attend **tomorrow's meeting**?  你会去参加明天的会议吗？
+>
+> > Did you see **the girl on your right's expression**?  你看到你右边那个女孩的表情了吗？
+>
+> > It is **a ten minutes' walk** from here to the subway station.  从这里到地铁站走路要 10 分钟 (即一段 10 分钟的步行距离)。
+>
+> > We found it **a students' common problem**.  我们发现这是一个学生们普遍存在的问题。
+>
+>
+> ※ 注意差别：
+>
+> > Mrs. Green cleaned **Susan and Wendy's room**.（Susan 和 Wendy 共用一个房间）
+>
+> > Mrs. Green cleaned **Susan's and Wendy's rooms**.（Susan 和 Wendy 各用一个房间）
+>
+> #### 2. "名词 A + of + 名词 B"， 表示 "B 的 A"
+>
+> > Such is **the beauty of autumn**.  这就是秋日之美。
+>
+> > What do you think is **the meaning`/ˈmiːnɪŋ/ ` of the Olympic game**?  你认为奥运会的意义是什么？
+>
+> > They need to learn **some basic knowledge of accounting and finance**.  他们需要学习一些基本的会计和金融知识。
+>
+> #### 规律小结
+>
+> 在语义上，这两种形式几乎没有差别。只是**对于表示人或时间的名词，更常用 + 's 的形式**；
 > 
-> 
-> 
-> They need to learn some basic knowledge of accounting and finance.
-> 
-> 他们需要学习一些基本的会计和金融知识。
-> 
-> 
-> 
-> 【规律小结】
-> 
-> 在语义上，这两种形式几乎没有差别。只是对于表示人或时间的名词，更常用 + 's 的形式；而对于以下情况的名词，更常用 “名词 A + of + 名词 B” 的形式：
-> 
-> - 没有生命的名词，如：the weight of the rock, the power of focus
-> - 需要过程或暗含一段时间的名词，如：the establishment of the university, the development of science and technology
-> - 比较长的名词词组或短语等，如：the wife of someone whom my brother used to work with
-> 
-> 
-> 
-> 【特殊用法 1—— 双重所有格】
-> 
+> 而对于以下情况的名词，更常用 “名词 A + of + 名词 B” 的形式：
+>
+> (1) 没有生命的名词。如：
+> - the weight of the rock (岩石的重量),
+> - the power of focus (专注的力量)
+>
+> (2) 需要过程或暗含一段时间的名词。如：
+> - the establishment`/ɪˈstæblɪʃmənt/` of the university (大学的建立)
+> - the development of science and technology (科学技术的发展)
+>
+> (3) 比较长的名词词组或短语等。如：
+> - the wife of someone whom my brother used to work with. (我哥哥曾经共事过的人的妻子)
+>
+> #### 特殊用法 1 —— 双重所有格
+>
 > 对于表示人的名词，还有以下这种将两种形式混合使用的用法：
+>
+> > **The new car of Mr.Baker's** is red.  史密斯先生的新车是红色的。
+>
+> > **Many works of J. K. Rowling's** have been made into films.  J. K. 罗琳的许多作品都被拍成了电影。
+>
 > 
+>注：表示人与人之间的关系时，可以省略's。
+>
+> > She is **the aunt of Philip's** (用 the aunt of Philip 也可).  她是菲利普的姑姑。
 > 
+>> Betty is **a friend of my wife's** (用 a friend of my wife 也可).  贝蒂是我妻子的一个朋友。
 > 
-> The new car of Mr. Baker's is red.
+>#### 特殊用法 2 —— 省略
 > 
-> 史密斯先生的新车是红色的。
+>另外，在 's 形式后的名词，如果是表示家、商店或服务等（如：the newsagent's`ˈ/njuːzˌeɪdʒənt/`, the chemist's, the hairdresser's 等），可以被省略。例如：
+> - chemist `/'kɛmɪst/` n.药剂师；化学家；药店，药商
+>
 > 
+>> We went to **Nancy's** last evening. ( = Nancy's home)  昨晚我们去了南希家。
 > 
+>> He used to work at **the butcher's**`/'bʊtʃɚ/`. ( = the butcher's shop)  他以前在肉店工作。
 > 
-> Many works of J. K. Rowling's have been made into films.
-> 
-> J. K. 罗琳的许多作品都被拍成了电影。
-> 
-> 
-> 
-> 注：表示人与人之间的关系时，可以省略's。
-> 
-> 
-> 
-> She is the aunt of Philip's (用 the aunt of Philip 也可).
-> 
-> 她是菲利普的姑姑。
-> 
-> 
-> 
-> Betty is a friend of my wife's (用 a friend of my wife 也可).
-> 
-> 贝蒂是我妻子的一个朋友。
-> 
-> 
-> 
-> 【特殊用法 2—— 省略】
-> 
-> 另外，在's 形式后的名词，如果是表示家、商店或服务等（如：the newsagent's, the chemist's, the hairdresser's 等），可以被省略。例如：
-> 
-> 
-> 
-> We went to Nancy's last evening. (=Nancy's home)
-> 
-> 昨晚我们去了南希家。
-> 
-> 
-> 
-> He used to work at the butcher's. (=the butcher's shop)
-> 
-> 他以前在肉店工作。
-> 
-> 
-> 
-> — Whose mobile phone is this?
-> 
-> — It's Rita's.
-> 
-> — 这是谁的手机？
-> 
-> — 是丽塔的。
-> 
-> 名词所有格表示这一名词与他人、他物的所属关系 ， 相当于中文 "...... 的......"（Tip: 可以读作 “什么什么的什么什么”）。
-> 
-> Xiao Zhang's sister 小张的姐姐
-> 
-> Tom's telephone number 汤姆的电话号码
-> 
-> my brother's girlfriend 我哥哥的女朋友
+> > — Whose mobile phone is this?  这是谁的手机？
+> > 
+>> — It's **Rita's**.  是丽塔的。
+
+
+
+
+名词所有格表示这一名词与他人、他物的所属关系 ， 相当于中文 "...... 的......"（Tip: 可以读作 “什么什么的什么什么”）。
+
+Xiao Zhang's sister 小张的姐姐
+
+Tom's telephone number 汤姆的电话号码
+
+my brother's girlfriend 我哥哥的女朋友
+
+
 
 名词所有格的表达方式有如下几种：
 
