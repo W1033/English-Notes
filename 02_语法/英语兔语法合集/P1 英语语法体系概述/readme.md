@@ -220,25 +220,19 @@ Papa Rabbit is tall. 中的 is 说白了就是把 Papa Rabbit 和 tall 连在一
 ### 6. 定语 (Attributive): 主要用来修饰主语或宾语。
 **attributive `/əˈtrɪbjətɪv/`** -adj.修饰的; 限定的; 定语的 (注意：`j`发`I`的音，`j` 后的`ə`不发音)
 
-例如:
-
 > ◆ **The little white** rabbit ate **a large** carrot. 这只小白兔吃了一根大萝卜。
 
 the little white 就是主语 rabbit 的定语，而 a large 就是宾语 carrot 的定语。
 
-
 ### 7. 状语 (adverbial): 主要用来修饰谓语动词。
+
 **adverbial `/ədˈvɜːbiəl/`** -adj. 副词的，状语的. -n.状语
 
-例如:
-
-> ◆ The rabbit ate **quickly**. 兔子快速的吃.
+>  例如:  ◆ The rabbit ate **quickly**. 兔子快速的吃.
 
 quickly 就是 eat 的状语.
 
 ### 8. 同谓语: 主要用来再把主语或宾语说一遍。
-
-例如:
 
 > ◆ Papa Rabbit, **an English teacher**, eats carrots. 兔老爹，一个英语老师吃胡萝卜。
 
@@ -303,19 +297,15 @@ quickly 就是 eat 的状语.
 动词是表示 `动作` 或 `状态` 的词. (详细: 动词是表示 `动作, 行为, 心理活动` 或 `存在, 变化, 消
 失`等的词.)
 
-例如:
-
-> **be, do, have, look, know**
+例如: **be, do, have, look, know**
 
 > ◆ Papa Rabbit **is** a rabbit.  兔老爹是只兔子
 
-
 ### 2. 名词 (noun) `n`
+
 表示 `人, 事物, 地点` 或 `抽象概念` 的名称. (详细: 名词是词性的一种, 也是实词的一种, 是指 `人, 物, 事, 时(间), 地(点), 情感, 概念` 等实体或抽象事物的词.)**
 
-例如: 
-
-> boy, eye, Jack, China
+例如:  **boy, eye, Jack, China**
 
 > ◆ Papa Rabbit is a **rabbit**.  兔老爹是只兔子
 
@@ -323,19 +313,15 @@ quickly 就是 eat 的状语.
 ### 3. 冠词 (article) `art.`
 用在名词之前对名词起限制作用的一种虚词. 用来帮助说明名词所指的人或事物. 
 
-例如:
-
-> **a, an, the**
+例如: **a, an, the**
 
 > ◆ Papa Rabbit is **a** rabbit. 
 
-
 ### 4. 代词 (pronoun) `pron.`
+
 用来代替 `名词`, `形容词` 或 `数词` 的词. (或说为：替代人和物)
 
-例如:
-
-> **I, one, his, which, mine, this**
+例如: **I, one, his, which, mine, this**
 
 > ◆ **I** am **a** rabbit. 
 
@@ -343,9 +329,7 @@ quickly 就是 eat 的状语.
 ### 5. 形容词 (adjective) `adj.`
 修饰 `名词` 或 `代词`, 表示人或事物的性质, 状态, 特征的词. 
 
-例如:
-
-> **small, long, short**
+例如: **small, long, short**
 
 > ◆ I am a **smart** rabbit. 我是只聪明的兔子。 
 
@@ -353,9 +337,7 @@ quickly 就是 eat 的状语.
 ### 6. 数词 (numeral) `num.`
 表示 `数量` 或 `顺序` 的词. 
 
-例如:
-
-> **one, ten, twenty, first, second**
+例如: **one, ten, twenty, first, second**
 
 > ◆ I ate **two** carrots. 我吃了两根胡萝卜。
 
@@ -363,19 +345,15 @@ quickly 就是 eat 的状语.
 ### 7. 副词 (adverb) `adv.`
 修饰`动词`, `形容词`, `(其他)副词` 或 `整个句子`, 表示动作特征或性状特征 
 
-例如:
-
-> **very, often, hard, usually, quickly**
+例如: **very, often, hard, usually, quickly**
 
 > ◆ I ate two carrots **quickly**. 我很快地吃了两根胡萝卜。
 
-
 ### 8. 介词 (preposition) `prep.`
+
 用来表示它后面的`名词`, `代词`, `短语` 或 `从句`与其他句子成分的关系. 
 
-例如:
-
-> **from, for, in, on**
+例如: **from, for, in, on**
 
 > ◆ I ate two carrots **with** chopsticks. 我用筷子吃了两根胡萝卜。
 
@@ -383,9 +361,7 @@ quickly 就是 eat 的状语.
 ### 9. 感叹词 (interjection) `interj.`
 表示说话时的喜悦, 惊讶等各种情感的语气. (或说：表感叹)
 
-例如:
-
-> **oh, hey, dear, my goodness, Dear me, well**
+例如: **oh, hey, dear, my goodness, Dear me, well**
 
 > ◆ **Ah**, the carrot is tasty! 啊，胡萝卜好美味！
 
@@ -393,9 +369,7 @@ quickly 就是 eat 的状语.
 ### 10. 连词 (conjunction) `conj.`
 连词不能独立担任句子成分, 而只起连接 `词与词`,`短语与短语`以及`句子与句子`的作用. (或说：连接词和句)
 
-例如:
-
-> **and, or, but, therefore, or, unless, since, if**
+例如: **and, or, but, therefore, or, unless, since, if**
 
 > ◆ I ate two carrots and a potato, **because** I was hungry. 我吃了两根胡萝卜和一个马铃薯，因为我饿了。
 
