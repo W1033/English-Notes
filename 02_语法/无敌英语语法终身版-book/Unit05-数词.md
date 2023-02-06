@@ -108,7 +108,7 @@
 | :----: | :----: | :---: |
 | 4. four | 5. five `/faɪv/` | 6. six |
 | 7. seven | 8. eight | 9. nine `/naɪn/`|
-| 10. ten | 11. eleven | 12. twelve |
+| 10. ten | 11. eleven | 12. twelve`/twelv/` |
 | 13. thirteen | 14. fourteen | 15. fifteen |
 | 16. sixteen | 17. seventeen | 18. eighteen |
 | 19. nineteen | 20. twenty | |
