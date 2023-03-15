@@ -4,161 +4,6 @@
 
 *注：下面的文字版为使用讯飞机器快转得到的，然后笔者又对照视频一点一点修改的，图片为视频中的截图，一切版权归英语兔老师所有。*
 
-
-<table style="text-align:center; font-size:14px; letter-spacing:1px;">
-    <tr>
-        <td rowspan="13"> 英式/美式发音 </td>
-        <td rowspan="9">元音</td>
-        <td rowspan="6">单元音</td>
-        <td rowspan="3">短音</td>
-        <td style="color:grey">IPA63</td>
-        <td style="color:grey;">/i/</td>
-        <td style="color:grey;">/ʌ/</td>
-        <td style="color:grey;">/u/</td>
-        <td style="color:grey;">/e/</td>
-        <td style="color:grey;">/æ/</td>
-        <td style="color:grey;">/ə/</td>
-        <td style="color:grey;">/ɔ/</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td style="color:red">IPA88<br/>(DJ)</td>
-        <td style="color:red;">/ɪ/</td>
-        <td style="color:red;">/ʌ/</td>
-        <td style="color:red;">/ʊ/</td>
-        <td style="color:red;">/e/</td>
-        <td style="color:red;">/æ/</td>
-        <td style="color:red;">/ə/</td>
-        <td style="color:red;">/ɒ/</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td style="color:green">KK</td>
-        <td style="color:green;">/ɪ/</td>
-        <td style="color:green;">/ʌ/</td>
-        <td style="color:green;">/ʊ/</td>
-        <td style="color:green;">/ɛ/</td>
-        <td style="color:green;">/æ/</td>
-        <td style="color:green;">/ə/</td>
-        <td style="color:green;">/ɒ/</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td rowspan="3">长音</td>
-        <td style="color:grey">IPA63</td>
-        <td style="color:grey;">/iː/</td>
-        <td style="color:grey;">/ɑː/</td>
-        <td style="color:grey;">/uː/</td>
-        <td style="color:grey;">/əː/</td>
-        <td style="color:grey;">/ɔː/</td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-            <td style="color:red">IPA88</td>
-        <td style="color:red;">/iː/</td>
-        <td style="color:red;">/ɑː/</td>
-        <td style="color:red;">/uː/</td>
-        <td style="color:red;">/ɜː/</td>
-        <td style="color:red;">/ɔː/</td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td style="color:green">KK</td>
-        <td style="color:green;">/i/</td>
-        <td style="color:green;">/ɑ/</td>
-        <td style="color:green;">/u/</td>
-        <td style="color:green;">/ɜ/</td>
-        <td style="color:green;">/ɔ/</td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td rowspan="3" colspan="2">双元音</td>
-        <td style="color:grey">IPA63</td>
-        <td style="color:grey;">/ei/</td>
-        <td style="color:grey;">/ai/</td>
-        <td style="color:grey;">/ɔi/</td>
-        <td style="color:grey;">/au/</td>
-        <td style="color:grey;">/əu/</td>
-        <td style="color:grey;">/iə/</td>
-        <td style="color:grey;">/ɛə/</td>
-        <td style="color:grey;">/uə/</td>
-    </tr>
-    <tr>
-        <td style="color:red">IPA88</td>
-        <td style="color:red;">/eɪ/</td>
-        <td style="color:red;">/aɪ/</td>
-        <td style="color:red;">/ɔɪ/</td>
-        <td style="color:red;">/aʊ/</td>
-        <td style="color:red;">/əʊ/</td>
-        <td style="color:red;">/ɪə/</td>
-        <td style="color:red;">/eə/</td>
-        <td style="color:red;">/ʊə/</td>
-    </tr>
-    <tr>
-        <td style="color:green">KK</td>
-        <td style="color:green;">/e/</td>
-        <td style="color:green;">/aɪ/</td>
-        <td style="color:green;">/ɔɪ/</td>
-        <td style="color:green;">/aʊ/</td>
-        <td style="color:green;">/o/</td>
-        <td style="color:green;">/ɪr/</td>
-        <td style="color:green;">/ɛr/</td>
-        <td style="color:green;">/ʊr/</td>
-    </tr>
-    <tr>
-        <td rowspan="4">辅音</td>
-        <td rowspan="2">清浊成对辅音</td>
-        <td colspan="2">清辅音</td>
-        <td style="color:red;">/p/</td>
-        <td style="color:red;">/t/</td>
-        <td style="color:red;">/k/</td>
-        <td style="color:red;">/f/</td>
-        <td style="color:red;">/θ/</td>
-        <td style="color:red;">/s/</td>
-        <td style="color:red;">/ʃ/</td>
-        <td style="color:red;">/tʃ/</td>
-    </tr>
-    <tr>
-        <td colspan="2">浊辅音</td>
-        <td style="color:red;">/b/</td>
-        <td style="color:red;">/d/</td>
-        <td style="color:red;">/ɡ/</td>
-        <td style="color:red;">/v/</td>
-        <td style="color:red;">/ð/</td>
-        <td style="color:red;">/z/</td>
-        <td style="color:red;">/ʒ/</td>
-        <td style="color:red;">/dʒ/</td>
-    </tr>
-    <tr>
-        <td rowspan="2" colspan="3">其它辅音</td>
-        <td style="color:red;">/h/</td>
-        <td style="color:red;">/m/</td>
-        <td style="color:red;">/n/</td>
-        <td style="color:red;">/ŋ/</td>
-        <td style="color:red;">/l/</td>
-        <td style="color:red;">/r/</td>
-        <td style="color:red;">/j/</td>
-        <td style="color:red;">/w/</td>
-    </tr>
-    <tr>
-        <td style="color:red;">/dr/</td>
-        <td style="color:red;">/dz/</td>
-        <td style="color:red;">/tr/</td>
-        <td style="color:red;">/ts/</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-</table>
-​    
-
 英语兔我接下来为你快速讲解一遍所有音标的核心要点。请自行查漏补缺 -- 如果其中某些音标你不是很清楚，请参见对应的音标详解视频。请注意，这个极简版音标讲解是基于最主流的 DJ 音标，但其他音标体系代表的都是同一个英语语音体系，甚至可以说是大同小异，所以并不影响你英语语音的学习和进步。
 
 
@@ -257,7 +102,7 @@
 - **(2) "舌位" 的高低 (Height)**;
 - **(3) 嘴唇的 "圆唇度" (Roundness)**。
 
-![image-20221007173652606](readme.assets/image-20221007173652606.png)
+<img src="readme.assets/image-20221007173652606.png" alt="image-20221007173652606" style="zoom:50%;" />
 
 所谓 **"舌位"** 你可以粗略理解为**发音时舌面隆起的最高点在口腔中的位置**。
 
@@ -265,11 +110,11 @@
 
 比如普通话 "币" 的韵母（拼音 i）舌位前且高；"兔" 的韵母（拼音 u）舌位后且高；"哈" 的韵母（拼音 a）舌位中且低。
 
-![image-20221007174128281](readme.assets/image-20221007174128281.png)
+<img src="readme.assets/image-20221007174128281.png" alt="image-20221007174128281" style="zoom:50%;" />
 
 而刚才这三个元音中，只有 "兔" 的韵母（拼音 u）是需要圆唇的，即 "圆唇度" 很高。
 
-![image-20221007180436976](readme.assets/image-20221007180436976.png)
+<img src="readme.assets/image-20221007180436976.png" alt="image-20221007180436976" style="zoom:50%;" />
 
 - A vowel chart showing the relative vowel qualities represented by some of the symbols used in transcribing English. The symbols [e, a, 0] occur as the first elements of diphthongs. （一个元音图表，显示了（转录/转写/标注）英语中使用的一些符号所代表的相对元音质量。 符号 [ e, a, o ] 作为双元音的第一个元素出现。）
 
@@ -294,7 +139,7 @@
 
 这个元音的**舌位前、高**。
 
-它和拼音 `i` 意义基本一致，也是咱们中国人觉得最容易的音之一。音标在段落中一般书写在双斜杠内，像这样 `/iː/` 其中的 **`ː`** 符号（请注意是两个小三角形而不是冒号）是所谓长音符号，表示这个音通常发音时长较长，但这不是绝对的。
+它和拼音 `i` 意义基本一致，也是咱们中国人觉得最容易的音之一。音标在段落中一般书写在双斜杠内，像这样 `/iː/` 其中的 **`ː`** 符号（请注意是两个小三角形而不是冒号）是所谓长音符号，表示这个音通常发音时长较长，但这不是绝对的。
 
 这个音还有个短版本，如happy的尾音big，谁为钱高？但是在e的后下方，这个音在普通话里不存在，但是咱们军训时教官喊的而就有点像请特别注意，并不是咱们刚提到的e的短版本，所以big不要读成big02舌位厚高，它的高度和拼音物一致，但这个音在现代英语的舌尾已向前迁移，所以比拼音物更前请比较。
 
