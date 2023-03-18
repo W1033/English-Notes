@@ -1,8 +1,10 @@
-# 全部音标（极简版）
+# P3 全部音标（极简版）
 
-> 视频链接：https://www.bilibili.com/video/BV1iV411z7Nj?p=3&spm_id_from=pageDriver&vd_source=033cc0cb90262a8954da54444ec97bda
+
 
 *注：下面的文字版为使用讯飞机器快转得到的，然后笔者又对照视频一点一点修改的，图片为视频中的截图，一切版权归英语兔老师所有。*
+
+
 
 英语兔我接下来为你快速讲解一遍所有音标的核心要点。请自行查漏补缺 -- 如果其中某些音标你不是很清楚，请参见对应的音标详解视频。请注意，这个极简版音标讲解是基于最主流的 DJ 音标，但其他音标体系代表的都是同一个英语语音体系，甚至可以说是大同小异，所以并不影响你英语语音的学习和进步。
 
@@ -118,15 +120,15 @@
 
 - A vowel chart showing the relative vowel qualities represented by some of the symbols used in transcribing English. The symbols [e, a, 0] occur as the first elements of diphthongs. （一个元音图表，显示了（转录/转写/标注）英语中使用的一些符号所代表的相对元音质量。 符号 [ e, a, o ] 作为双元音的第一个元素出现。）
 
-![image-20221007175814739](readme.assets/image-20221007175814739.png)
+<img src="readme.assets/image-20221007175814739.png" alt="image-20221007175814739" style="zoom:50%;" />
 
-![image-20221007181101284](readme.assets/image-20221007181101284.png)
+<img src="readme.assets/image-20221007181101284.png" alt="image-20221007181101284" style="zoom:50%;" />
 
 咱们按照舌位的前后高低和圆唇度，可以把英语中不同的元音像这样画在所谓的 "元音图" 上（即：上图）；
 
 但是英语兔我要特别指出，以上元音是标准英式英语（英音）在元音图上的分布。标准美式英语（美音）的元音稍有不同，所以在舌位兔上的分布也稍有不同，像这样：
 
-![image-20221007181019637](readme.assets/image-20221007181019637.png)
+<img src="readme.assets/image-20221007181019637.png" alt="image-20221007181019637" style="zoom:50%;" />
 
 接下来的极简版音标讲解是基于标准英音的。
 
