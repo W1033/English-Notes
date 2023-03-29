@@ -289,30 +289,34 @@ we，you，they 有时并不指特定的人，而是用来泛指一般人。
 ## 10 it 的用法
 it 属于代词，但是它的用法较广，这里集中加以说明：
 
-### (1) it 代替前面所说过的或是下面将要提到的事物。		    
+### (1) it 代替前面所说过的或是下面将要提到的事物。
+
 > I have seen that film. I like **it** very much. （我看过那个电影。我非常喜欢。）
 > *it 指前面提到的 film*
 > 
 > **It** happened during the World War Two. （它发生在第二次世界大战期间。）
-> *it 指下面要讲的事 *
+> *it 指下面要讲的事*
 
 ### (2) it 可以代替前面提到的整个句子。
+
 > He gave us a lot of help. We shall never forget **it**. （他给过我们很多帮助。我们不会忘记的。）
-> *it 指前面句子所说的事 *
+> *it 指前面句子所说的事*
 >
 > He decided to run every morning. But I don't believe he can keep **it** up. （他决定每天早上跑步。我不相信他能坚持下来。）
-> *it 指前面的决定 *
+> *it 指前面的决定*
 
 ### (3) it 代替一般动物。
+
 > I have a little dog. **It**'s so lovely．（我有一只小狗。它特别可爱。）
 > 
 > A: Where is the cat？（猫在哪儿？）  
 > B: **It** is in my room.（它在我的房间里。）
 
 ### (4) 性别不明或是不考虑性别时，it 也可以指人，特别是婴儿或很小的小孩。
-> 1. Who is **it**？（是谁？）* 听到敲门声，问是谁，此时不知门外是男是女 *
+
+> 1、Who is **it**？（是谁？）*听到敲门声，问是谁，此时不知门外是男是女*
 > 
-> 2. The baby is sleeping in **its** crib`/krɪb/`.（孩子正在它的小床上睡觉。）
+> 2、The baby is sleeping in **its** crib`/krɪb/`.（孩子正在它的小床上睡觉。）
 
 注意：一经确定性别，就应该用 he 或 she。如，母亲说自己的孩子，一般多指明性别。	
 
@@ -342,7 +346,8 @@ it 属于代词，但是它的用法较广，这里集中加以说明：
 > A: How far is **it** from here to your school?（从这儿到你的学校有多远？）  
 > B: **It**'s not so far. **It**'s just about ten minutes' walk.（不是很远，只要走大约 10 分钟。）
 
-### (8) 在某些没有具体主语的结构中，用 ** it ** 充当主语。
+### (8) 在某些没有具体主语的结构中，用 it 充当主语。
+
 > **It** seems that no one will come．（似乎没有人会来。）
 > 
 > **It** looks as if **it**'s going to rain．（看起来要下雨了。） 
@@ -353,7 +358,7 @@ it 属于代词，但是它的用法较广，这里集中加以说明：
 
 #### 下面的笔记大部分来自：[【术语攻略】什么是形式主语？](https://zhuanlan.zhihu.com/p/246523853)
 
-当主语是 ** 不定式 **、** 动名词 ** 或 ** 从句 ** 时，经常会出现主语较长，而主语以外的部分又相对较短的情况，此时句子就容易出现 "头重脚轻" 的不平衡现象，从而影响表达效果；为了避免这一问题，可以使用 it 作形式主语，而把真正的主语放在句子尾部，来保持句子的平衡。
+当主语是 **不定式**、**动名词** 或 **从句** 时，经常会出现主语较长，而主语以外的部分又相对较短的情况，此时句子就容易出现 "头重脚轻" 的不平衡现象，从而影响表达效果；为了避免这一问题，可以使用 it 作形式主语，而把真正的主语放在句子尾部，来保持句子的平衡。
 
 #### 动词不定式短语作主语
 
@@ -384,7 +389,7 @@ it 属于代词，但是它的用法较广，这里集中加以说明：
 > 
 > **It** is a fact **that we have to work more than ten hours every day**.
 
-> **How people lose`/luːz/` their passion`/'pæʃ(ə) n/` and curiosity`/ˌkjʊərɪˈɒsətɪ/` during their growth** makes me wonder. （这让我想知道人是如何在成长过程中失去激情和好奇心的。)
+> **How people lose`/luːz/` their passion`/'pæʃ(ə) n/` and curiosity`/ˌkjʊriˈɒsətɪ/` during their growth** makes me wonder. （这让我想知道人是如何在成长过程中失去激情和好奇心的。)
 > 
 > It makes me wonder how people lose their passion and curiosity during their growth.
 
@@ -393,26 +398,23 @@ it 属于代词，但是它的用法较广，这里集中加以说明：
 > **It** doesn't matter **whether you stay or leave**. 
 
 ### (10) 作形式宾语：
-在 **"主语 ＋ 谓语 ＋ 宾语 ＋ 宾语补足语"** 的句型中，当宾语是 ** 不定式 **、** 动名词 ** 或 ** 宾语从句 **，并且 ** 宾语后面有名词或形容词作宾语补足语时 **，要 ** 将真正的宾语移到句尾 **，** 用 it 占据原来宾语的位置 **，作形式宾语。对比下面的句子：
 
-> He found **this book** difficult.（他发现这本书很难。） * 一个词组作宾语，不必后移 *
+在 **"主语 ＋ 谓语 ＋ 宾语 ＋ 宾语补足语"** 的句型中，当宾语是 **不定式**、**动名词** 或 **宾语从句**，并且 **宾语后面有名词或形容词作宾语补足语时**，要 **将真正的宾语移到句尾**，**用 it 占据原来宾语的位置**，作形式宾语。对比下面的句子：
+
+> He found **this book** difficult.（他发现这本书很难。） *一个词组作宾语，不必后移*
 
 > He found **to solve those problems** *difficult*. （他发现解决这些问题很难。）
 >  
-> He found **it** difficult **to solve those problems**. * 不定式短语作宾语 *
+> He found **it** difficult **to solve those problems**. *不定式短语作宾语*
 
 > He found **discussing it with Tom** *no use*. （他发现跟汤姆讨论这件事没有用。）
 > 
-> He found **it** no use **discussing it with Tom**. * 动名词短语作宾语 *
+> He found **it** no use **discussing it with Tom**. *动名词短语作宾语*
 
-> He thinks **it** important **that every college student should `master` a foreign language**. （他认为每一个大学生掌握一门外语是很重要的。）* 从句作宾语 *
+> He thinks **it** important **that every college student should `master` a foreign language**. （他认为每一个大学生掌握一门外语是很重要的。）*从句作宾语*
 >
 > 上面这句话我用 google translate 翻译后是：  
-> He thinks it is important that every college student should master a foreign language.  
-> 或  
-> He thinks it is important for every college student to master a foreign language.
->
-> 注：上面这两句都是 thinks 后面跟一个从句。
+> He thinks it is important that every college student should master a foreign language. 或 He thinks it is important for every college student to master a foreign language.  (注：上面这两句都是 thinks 后面跟一个从句。)
 
 添加示例：
 
@@ -426,9 +428,9 @@ it 属于代词，但是它的用法较广，这里集中加以说明：
 
 举个中文的例子对比一下，体会一下宾语过长对表达效果的影响：
 
-我觉得 < u > 这件事 </u > 很奇怪，<u > 王先生明明有那么多保镖，而在接到恐吓信后，却偏偏点名只让这两个新来的跟着他去参加这场危机四伏的宴会 </u>。
+我觉得 <u>这件事</u> 很奇怪，<u>王先生明明有那么多保镖，而在接到恐吓信后，却偏偏点名只让这两个新来的跟着他去参加这场危机四伏的宴会</u>。
 
-我觉得 < u > 王先生明明有那么多保镖，而在接到恐吓信后，却偏偏点名只让这两个新来的跟着他去参加这场危机四伏的宴会这件事很奇怪 </u>。
+我觉得 <u>王先生明明有那么多保镖，而在接到恐吓信后，却偏偏点名只让这两个新来的跟着他去参加这场危机四伏的宴会这件事很奇怪</u>。
 
 如今，用 it 当形式宾语已经成为了一种习惯用法。很多单词都可以和形式宾语 it 搭配使用，共同构成某种以 it 作形式宾语的常见句型。具体示例如下：（例句中的加粗字体是形式宾语，下划线部分是真正的宾语。)
 
@@ -448,11 +450,11 @@ it 属于代词，但是它的用法较广，这里集中加以说明：
 > 
 > 例句：Many children tend to take **it** for granted <u>that their parents should meet all their desires</u>. （许多孩子倾向于认为父母应该满足他们所有的愿望是理所当然的。）
 > 
-> 注：<u > 从句 </u > 作 < u > 宾语 </u> it = that their parents should meet all their desires
+> 注：<u>从句 </u> 作 <u>宾语</u> it = that their parents should meet all their desires
 
 ### (11) 构成强调句
 
-在英语中，为了 ** 强调句子的某一个成分 **（主语、宾语、状语等），需用下面的强调句型：
+在英语中，为了 **强调句子的某一个成分**（主语、宾语、状语等），需用下面的强调句型：
 
 **It is/was + 强调部分 + that/who/whom + 句子的其他全部成分。**
 
@@ -489,7 +491,7 @@ it 属于代词，但是它的用法较广，这里集中加以说明：
 
 #### (4) 特殊疑问句的强调句型是：
 
-** 疑问句 + is/was + it + that ...?**
+**疑问句 + is/was + it + that ...?**
 
 > When did you meet him?
 > 
@@ -511,3 +513,9 @@ it 属于代词，但是它的用法较广，这里集中加以说明：
 
 
 **<u></u>**
+
+
+
+
+
+
