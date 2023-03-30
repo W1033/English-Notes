@@ -12,6 +12,26 @@ Don't argue with the people of strong determination, because they may change the
 
 
 
+> Q：有哪些不错的英语语法书推荐？
+>
+> 
+>
+> chatGPT: 以下是几本不错的英语语法书：
+>
+> 1.《英文语法入门》（English Grammar in Use）：这是一本非常受欢迎的英语语法入门书，适合初学者和中级者使用。
+>
+> 2.《剑桥高级英语语法》（Cambridge Grammar for CAE and Proficiency）：这是一本适合高级英语学习者的语法书，可以帮助他们提高英语语法水平。
+>
+> 3.《英语语法大全》（The Complete Guide to English Grammar）：这是一本详细介绍英语语法的书籍，从基础知识到高级技巧都有涉及。
+>
+> 4.《英语语法习题集》（English Grammar in Practice）：这是一本提供大量语法练习的书籍，可以帮助读者巩固所学的英语语法知识。
+>
+> 5.《英语语法：用简单的语言说清楚》（English Grammar: Clear and Simple）：这是一本适合初学者和中级者使用的语法书，语言简单易懂，结构清晰。
+>
+> 以上是一些比较受欢迎和实用的英语语法书，可以根据自己的英语水平和需求选择合适的书籍进行学习。
+
+
+
 > Q：Hi chatGPT, 如何正确学习英文？
 >
 > chatGPT：你好！学习英文需要付出大量的努力和时间，以下是一些可能对你有用的学习英语的建议：
