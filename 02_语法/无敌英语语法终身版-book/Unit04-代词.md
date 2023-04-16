@@ -1,8 +1,8 @@
 # Unit 4 -- 代词
 
-> ** 代词：** -- https://www.wikiwand.com/zh-hans/% E4% BB% A3% E8% A9%9E
+> **代词:** -- https://www.wikiwand.com/zh-hans/% E4% BB% A3% E8% A9%9E
 >
-> ** 代词 **（英语：pronoun`/ˈprəʊnaʊn/`），又叫 ** 代名词 **，在语言学和语法学中是指代替名词或名词短语的形式词（是否附加限定词各个语言不同），如汉语的 "你" 、 "我" 、 "他" ，英语的 "you" 、 "this" ，法语的 "nous" 、 "elle" 等。问句中代替被询问物体的代词叫做 [疑问代词](https://www.wikiwand.com/zh-hans/ 疑问代词)，比如 "谁" 等。
+> **代词**（英语：pronoun`/ˈprəʊnaʊn/`），又叫 **代名词**，在语言学和语法学中是指代替名词或名词短语的形式词（是否附加限定词各个语言不同），如汉语的 "你" 、 "我" 、 "他" ，英语的 "you" 、 "this" ，法语的 "nous" 、 "elle" 等。问句中代替被询问物体的代词叫做 [疑问代词](https://www.wikiwand.com/zh-hans/ 疑问代词)，比如 "谁" 等。
 >
 > 代词在不同语言中分类也不同，不过大体上包括人称代词、物主代词、复指代词（反身代词）、指示代词、不定代词、疑问代词、连接代词、关系代词等等。
 
@@ -44,7 +44,7 @@
 
 #### (1) 人称代词就是表示 “你、我、他（她 / 它）、你们、我们、他（她 / 它）们” 的代词。
 
-> ** 人称代词 **(personal pronoun) 是与一个特定的 [人称](https://www.wikiwand.com/zh-sg/ 人称) 有主要关联的 [代名词](https://www.wikiwand.com/zh-sg/ 代名詞) - [第一人称](https://www.wikiwand.com/zh-sg/ 第一人稱)(我 - I)、第二人称 (你 - you)，或第三人称（他 - he，她 - she，它 - it)。依据 [数](https://www.wikiwand.com/zh-sg/ 数_（语法）)（通常为单数或复数），语法或自然 [性别](https://www.wikiwand.com/zh-sg/ 性_（语法）)，[格](https://www.wikiwand.com/zh-sg/ 格_（语法）) 及正式性 (formality`/fɔːˈmæləti/`) 等因素、人称代词也可以采取不同的对比及差异表示。术语 "人称"(person) 用在这里纯粹是为了表示语法的意义；人称代词不限于人，也可以指 "动物" 和 "物体"（就如英语人称代词通常的用法）。
+> **人称代词**(personal pronoun) 是与一个特定的 [人称](https://www.wikiwand.com/zh-sg/ 人称) 有主要关联的 [代名词](https://www.wikiwand.com/zh-sg/ 代名詞) - [第一人称](https://www.wikiwand.com/zh-sg/ 第一人稱)(我 - I)、第二人称 (你 - you)，或第三人称（他 - he，她 - she，它 - it)。依据 [数](https://www.wikiwand.com/zh-sg/ 数_（语法）)（通常为单数或复数），语法或自然 [性别](https://www.wikiwand.com/zh-sg/ 性_（语法）)，[格](https://www.wikiwand.com/zh-sg/ 格_（语法）) 及正式性 (formality`/fɔːˈmæləti/`) 等因素、人称代词也可以采取不同的对比及差异表示。术语 "人称"(person) 用在这里纯粹是为了表示语法的意义；人称代词不限于人，也可以指 "动物" 和 "物体"（就如英语人称代词通常的用法）。
 >
 > -- https://www.wikiwand.com/zh-sg/% E4% BA% BA% E7% A8% B1% E4% BB% A3% E8% A9%9E
 
@@ -52,18 +52,18 @@
 
 > $\color {red}{(a)}$ [格](https://www.wikiwand.com/zh/% E6% A0% BC_(% E8% AF% AD% E6% B3%95))
 >
-> ** 格 **（英語：case`/keɪs/`），格位，狭义上称为 ** 语法格 **，在 [格语法](https://www.wikiwand.com/zh/ 格语法) 中称为 ** 表层格 **，是 [名词](https://www.wikiwand.com/zh/ 名詞) 、[代词](https://www.wikiwand.com/zh/ 代詞) 、[分词](https://www.wikiwand.com/zh/ 分词) 、[数词](https://www.wikiwand.com/zh/ 數詞) 或 [形容词](https://www.wikiwand.com/zh/ 形容词) 等 [词类](https://www.wikiwand.com/zh/ 词类) 当中，反映其在 [短语](https://www.wikiwand.com/zh/ 短语) 、[从句](https://www.wikiwand.com/zh/ 子句) 或 [句子](https://www.wikiwand.com/zh/ 句子) 中所起语法功能（英语：[grammatical`/ɡrəˈmætɪkəl/` function](https://www.wikiwand.com/en/grammatical_function)) 的一种特定 [语法范畴](https://www.wikiwand.com/zh/ 语法范畴) ，会使 [词](https://www.wikiwand.com/zh/ 詞_（語言) 发生相应不等的 [屈折变化](https://www.wikiwand.com/zh/ 词形变化) 。随着 [语言](https://www.wikiwand.com/zh/ 语言) 逐步演变，格会发生合并（如古希腊语裡 [方位格](https://www.wikiwand.com/zh/ 方位格) 和 [与格](https://www.wikiwand.com/zh/ 与格) 合并) ，这种现象称为 [语形融合](https://www.wikiwand.com/zh/ 語形融合) [[1]](https://www.wikiwand.com/zh/ 格_（语法)。在更正式的定义裡面，语法格是 “一种根据独立名词成分与中心词的关系类型，标记这些名词成分的系统”[[2\]](https://www.wikiwand.com/zh/ 格_（语法)，故语法格是一种 [词法学](https://www.wikiwand.com/zh/ 词法学) 上的概念（詞法格) ，应当跟 [语义学](https://www.wikiwand.com/zh/ 语义学) 上的 [语义格](https://www.wikiwand.com/zh/ 语义格) （也称语义角色、题元角色) 区分开来。如拉丁语里数个语义格可以共用一个语法格。拥有语法格的语言通常 [语序](https://www.wikiwand.com/zh/ 语序) 较为 [自由](https://www.wikiwand.com/zh/ 自由)，且其语序不表示语义格。
+> **格**（英語：case`/keɪs/`），格位，狭义上称为 **语法格**，在 [格语法](https://www.wikiwand.com/zh/ 格语法) 中称为 **表层格**，是 [名词](https://www.wikiwand.com/zh/ 名詞) 、[代词](https://www.wikiwand.com/zh/ 代詞) 、[分词](https://www.wikiwand.com/zh/ 分词) 、[数词](https://www.wikiwand.com/zh/ 數詞) 或 [形容词](https://www.wikiwand.com/zh/ 形容词) 等 [词类](https://www.wikiwand.com/zh/ 词类) 当中，反映其在 [短语](https://www.wikiwand.com/zh/ 短语) 、[从句](https://www.wikiwand.com/zh/ 子句) 或 [句子](https://www.wikiwand.com/zh/ 句子) 中所起语法功能（英语：[grammatical`/ɡrəˈmætɪkəl/` function](https://www.wikiwand.com/en/grammatical_function)) 的一种特定 [语法范畴](https://www.wikiwand.com/zh/ 语法范畴) ，会使 [词](https://www.wikiwand.com/zh/ 詞_（語言) 发生相应不等的 [屈折变化](https://www.wikiwand.com/zh/ 词形变化) 。随着 [语言](https://www.wikiwand.com/zh/ 语言) 逐步演变，格会发生合并（如古希腊语裡 [方位格](https://www.wikiwand.com/zh/ 方位格) 和 [与格](https://www.wikiwand.com/zh/ 与格) 合并) ，这种现象称为 [语形融合](https://www.wikiwand.com/zh/ 語形融合) [[1]](https://www.wikiwand.com/zh/ 格_（语法)。在更正式的定义裡面，语法格是 “一种根据独立名词成分与中心词的关系类型，标记这些名词成分的系统”[[2\]](https://www.wikiwand.com/zh/ 格_（语法)，故语法格是一种 [词法学](https://www.wikiwand.com/zh/ 词法学) 上的概念（詞法格) ，应当跟 [语义学](https://www.wikiwand.com/zh/ 语义学) 上的 [语义格](https://www.wikiwand.com/zh/ 语义格) （也称语义角色、题元角色) 区分开来。如拉丁语里数个语义格可以共用一个语法格。拥有语法格的语言通常 [语序](https://www.wikiwand.com/zh/ 语序) 较为 [自由](https://www.wikiwand.com/zh/ 自由)，且其语序不表示语义格。
 >
 > 常见的格包括 **`主格`**、**`宾格`**、与格和 **`属格`**。此外，一些语言拥有庞大的格系统，如 ......
 >
 > 现代汉语的所有词类都不会发生屈折变化 [[3]](https://www.wikiwand.com/zh/ 格_（语法）#citenote3)，所以在严格的语法格角度来看，汉语没有格系统（已在发展过程中退化消失）。
 >
-> 而现代英语已经丢失了大部分的格系统，仅在 ** 人称代词:** ** 主格 **、** 宾格 **、** 属格 ** 中保留了简化形式。
+> 而现代英语已经丢失了大部分的格系统，仅在 **人称代词:** **主格**、**宾格**、**属格** 中保留了简化形式。
 > - 人称代词主格：I, you, he, she, it, we, they, who, whoever.
 > - 人称代词宾格：me, you, him, her, it, us, them, whom, whomever.
 > - 人称代词属格：my, mine; your, yours; his; her, hers; its; our, ours; their, theirs; whose; whosever.
 >
-> 如 *I kicked him* 或 *He cheated`/tʃiːt/` on me*。** 在格较少的语言裡面，很多格关系是通过介词来实现的 **，如英语的介词短语 *(kick) with   (his) foot* 或中文的 “用脚（踢）”
+> 如 *I kicked him* 或 *He cheated `/tʃiːt/` on me*。** 在格较少的语言裡面，很多格关系是通过介词来实现的 **，如英语的介词短语 *(kick) with (his) foot* 或中文的 “用脚（踢）”
 
 <table>
     <tbody>
@@ -119,9 +119,9 @@
 
 #### (2) 代词有格的变化
 
-** 代词有格的变化，即主格、宾格之分 **，这在汉语中是没有的。
+**代词有格的变化，即主格、宾格之分**，这在汉语中是没有的。
 
-当 ** 一个代词在句中作主语时，要用主格形式 **；** 作宾语时，要用宾格形式 **。而在汉语中，“我、他、她、它、我们、他们” 在任何地方出现都不发生变化。
+当 ** 一个代词在句中作主语时，要用主格形式 **；**作宾语时，要用宾格形式**。而在汉语中，“我、他、她、它、我们、他们” 在任何地方出现都不发生变化。
 
 > **She** is a good student.（她是一个好学生。）
 > *“她” 是句子主语，用主格形式的代词 she*
@@ -513,7 +513,6 @@ it 属于代词，但是它的用法较广，这里集中加以说明：
 
 
 **<u></u>**
-
 
 
 
