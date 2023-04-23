@@ -1,6 +1,6 @@
 # Unit 4 -- 代词
 
-> **代词:** -- https://www.wikiwand.com/zh-hans/% E4% BB% A3% E8% A9%9E
+> **代词:** -- https://www.wikiwand.com/zh-hans/%E4%BB%A3%E8%A9%9E
 >
 > **代词**（英语：pronoun`/ˈprəʊnaʊn/`），又叫 **代名词**，在语言学和语法学中是指代替名词或名词短语的形式词（是否附加限定词各个语言不同），如汉语的 "你" 、 "我" 、 "他" ，英语的 "you" 、 "this" ，法语的 "nous" 、 "elle" 等。问句中代替被询问物体的代词叫做 [疑问代词](https://www.wikiwand.com/zh-hans/ 疑问代词)，比如 "谁" 等。
 >
@@ -438,19 +438,19 @@ it 属于代词，但是它的用法较广，这里集中加以说明：
 > 
 > 例句：I find **it** interesting <u>to learn foreign languages</u>.  （我发现学习外语很有趣。）
 > 
-> 注：<u > 动词不定式 </u > 短语作 < u > 宾语 </u> it = to learn foreign languages
+> 注：<u>动词不定式</u> 短语作 <u>宾语</u> it = to learn foreign languages
 
 > 参照：Alice loves <u>pink</u>.
 > 
 > 例句：Alice loves **it** <u>when the sky turns pink in the twilight`/ˈtwaɪlaɪt/`.</u> （当天空在暮色中变成粉红色时，爱丽丝喜欢它。）
 > 
-> 注：<u > 从句 </u > 作 < u > 宾语 </u> it = when the sky turns pink in the twilight
+> 注：<u>从句</u> 作 <u>宾语</u>  it = when the sky turns pink in the twilight
 
 > 参照：Many children tend to take <u>adequate`/ˈædɪkwət/` food</u> for granted. （许多孩子往往认为充足的食物是理所当然的。）
 > 
 > 例句：Many children tend to take **it** for granted <u>that their parents should meet all their desires</u>. （许多孩子倾向于认为父母应该满足他们所有的愿望是理所当然的。）
 > 
-> 注：<u>从句 </u> 作 <u>宾语</u> it = that their parents should meet all their desires
+> 注：<u>从句</u> 作 <u>宾语</u> it = that their parents should meet all their desires
 
 ### (11) 构成强调句
 
