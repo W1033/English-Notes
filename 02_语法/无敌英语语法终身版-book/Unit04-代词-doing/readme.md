@@ -38,32 +38,32 @@
 
 
 
-## 1. 人称代词
+## 1. 人称代词（Personal pronouns）
 
 ### 1.1 人称代词的形式
 
-#### (1) 人称代词就是表示 “你、我、他（她 / 它）、你们、我们、他（她 / 它）们” 的代词。
+#### (1) 人称代词就是表示 “你、我、他/她/它、你们、我们、他/她/它们” 的代词。
 
-> **人称代词**(personal pronoun) 是与一个特定的 [人称](https://www.wikiwand.com/zh-sg/ 人称) 有主要关联的 [代名词](https://www.wikiwand.com/zh-sg/ 代名詞) - [第一人称](https://www.wikiwand.com/zh-sg/ 第一人稱)(我 - I)、第二人称 (你 - you)，或第三人称（他 - he，她 - she，它 - it)。依据 [数](https://www.wikiwand.com/zh-sg/ 数_（语法）)（通常为单数或复数），语法或自然 [性别](https://www.wikiwand.com/zh-sg/ 性_（语法）)，[格](https://www.wikiwand.com/zh-sg/ 格_（语法）) 及正式性 (formality`/fɔːˈmæləti/`) 等因素、人称代词也可以采取不同的对比及差异表示。术语 "人称"(person) 用在这里纯粹是为了表示语法的意义；人称代词不限于人，也可以指 "动物" 和 "物体"（就如英语人称代词通常的用法）。
+> > 笔记来源：https://zh.wikipedia.org/zh-hans/%E4%BA%BA%E7%A8%B1%E4%BB%A3%E8%A9%9E
 >
-> -- https://www.wikiwand.com/zh-sg/% E4% BA% BA% E7% A8% B1% E4% BB% A3% E8% A9%9E
+> 人称代词是与一个特定的人称有主要关联的**代名词** - 第一人称(I(我))、第二人称 (you(你))，或第三人称（he(他)，she(她)，it(它))。依据 **数**（通常为单数或复数），语法或自然性别，格及正式性 (formality~(1)~) 等因素、人称代词也可以采取不同的对比及差异表示。术语 "人称"(person) 用在这里纯粹是为了表示语法的意义；人称代词不限指于人，也可以指 "动物" 和 "物体"（就如英语人称代词通常的用法）。
+>
+> - (1) formality `/fɔːˈmæləti/` -n.正式，正式性。
 
-人称代词有 **`人称`**（第一 / 第二 / 第三人称）、**`数`**（单数 / 复数）和 **`格`$\color {red}{^{(a)}}$** 的变化。详见下表。
+人称代词有 **`人称`**（第一 / 第二 / 第三人称）、**`数`**（单数 / 复数）和 **`格`$\color {red}{^{(2)}}$** 的变化。详见下表。
 
-> $\color {red}{(a)}$ [格](https://www.wikiwand.com/zh/% E6% A0% BC_(% E8% AF% AD% E6% B3%95))
+> > 来源：https://zh.wikipedia.org/wiki/%E6%A0%BC_(%E8%AF%AD%E6%B3%95)
 >
-> **格**（英語：case`/keɪs/`），格位，狭义上称为 **语法格**，在 [格语法](https://www.wikiwand.com/zh/ 格语法) 中称为 **表层格**，是 [名词](https://www.wikiwand.com/zh/ 名詞) 、[代词](https://www.wikiwand.com/zh/ 代詞) 、[分词](https://www.wikiwand.com/zh/ 分词) 、[数词](https://www.wikiwand.com/zh/ 數詞) 或 [形容词](https://www.wikiwand.com/zh/ 形容词) 等 [词类](https://www.wikiwand.com/zh/ 词类) 当中，反映其在 [短语](https://www.wikiwand.com/zh/ 短语) 、[从句](https://www.wikiwand.com/zh/ 子句) 或 [句子](https://www.wikiwand.com/zh/ 句子) 中所起语法功能（英语：[grammatical`/ɡrəˈmætɪkəl/` function](https://www.wikiwand.com/en/grammatical_function)) 的一种特定 [语法范畴](https://www.wikiwand.com/zh/ 语法范畴) ，会使 [词](https://www.wikiwand.com/zh/ 詞_（語言) 发生相应不等的 [屈折变化](https://www.wikiwand.com/zh/ 词形变化) 。随着 [语言](https://www.wikiwand.com/zh/ 语言) 逐步演变，格会发生合并（如古希腊语裡 [方位格](https://www.wikiwand.com/zh/ 方位格) 和 [与格](https://www.wikiwand.com/zh/ 与格) 合并) ，这种现象称为 [语形融合](https://www.wikiwand.com/zh/ 語形融合) [[1]](https://www.wikiwand.com/zh/ 格_（语法)。在更正式的定义裡面，语法格是 “一种根据独立名词成分与中心词的关系类型，标记这些名词成分的系统”[[2\]](https://www.wikiwand.com/zh/ 格_（语法)，故语法格是一种 [词法学](https://www.wikiwand.com/zh/ 词法学) 上的概念（詞法格) ，应当跟 [语义学](https://www.wikiwand.com/zh/ 语义学) 上的 [语义格](https://www.wikiwand.com/zh/ 语义格) （也称语义角色、题元角色) 区分开来。如拉丁语里数个语义格可以共用一个语法格。拥有语法格的语言通常 [语序](https://www.wikiwand.com/zh/ 语序) 较为 [自由](https://www.wikiwand.com/zh/ 自由)，且其语序不表示语义格。
+> (2) 格（case），格位，狭义上称为语法格，在格语法中称为表层格，是名词、代词、分词、数词或形容词等词类当中，反映其在短语、从句或句子中所起语法功能的一种特定语法范畴，会使词发生相应不等的屈折变化。随着语言逐步演变，格会发生合并（如古希腊语里方位格和与格合并），这种现象称为语形融合[1]。在更正式的定义里面，语法格是 "一种根据独立名词成分与中心词的关系类型，标记这些名词成分的系统" ，故语法格是一种词法学上的概念（词法格），应当跟语义学上的语义格（也称语义角色、题元角色）区分开来。如拉丁语里数个语义格可以共用一个语法格。拥有语法格的语言通常语序较为自由，且其语序不表示语义格。
+> 
+> 常见的格包括 **`主格`**、**`宾格`**、**`与格`** 和 **`属格`**。此外，一些语言拥有庞大的格系统，如 ......
 >
-> 常见的格包括 **`主格`**、**`宾格`**、与格和 **`属格`**。此外，一些语言拥有庞大的格系统，如 ......
->
-> 现代汉语的所有词类都不会发生屈折变化 [[3]](https://www.wikiwand.com/zh/ 格_（语法）#citenote3)，所以在严格的语法格角度来看，汉语没有格系统（已在发展过程中退化消失）。
->
-> 而现代英语已经丢失了大部分的格系统，仅在 **人称代词:** **主格**、**宾格**、**属格** 中保留了简化形式。
+> 现代汉语的所有词类都不会发生屈折变化，所以在严格的语法格角度来看，汉语没有格系统（已在发展过程中退化消失）。而现代英语已经丢失了大部分的格系统，仅在 **人称代词:** **主格**、**宾格**、**属格** 中保留了简化形式。
 > - 人称代词主格：I, you, he, she, it, we, they, who, whoever.
 > - 人称代词宾格：me, you, him, her, it, us, them, whom, whomever.
 > - 人称代词属格：my, mine; your, yours; his; her, hers; its; our, ours; their, theirs; whose; whosever.
 >
-> 如 *I kicked him* 或 *He cheated `/tʃiːt/` on me*。** 在格较少的语言裡面，很多格关系是通过介词来实现的 **，如英语的介词短语 *(kick) with (his) foot* 或中文的 “用脚（踢）”
+> 如 *I kicked him* 或 *He cheated `/tʃiːt/` on me*。**在格较少的语言裡面，很多格关系是通过介词来实现的**，如英语的介词短语 *(kick) with (his) foot* 或中文的 "用脚（踢）"。
 
 <table>
     <tbody>
@@ -116,12 +116,11 @@
         </tr>
     </tbody>
 </table>
-
 #### (2) 代词有格的变化
 
 **代词有格的变化，即主格、宾格之分**，这在汉语中是没有的。
 
-当 ** 一个代词在句中作主语时，要用主格形式 **；**作宾语时，要用宾格形式**。而在汉语中，“我、他、她、它、我们、他们” 在任何地方出现都不发生变化。
+当 **一个代词在句中作主语时，要用主格形式 **；**作宾语时，要用宾格形式**。而在汉语中，“我、他、她、它、我们、他们” 在任何地方出现都不发生变化。
 
 > **She** is a good student.（她是一个好学生。）
 > *“她” 是句子主语，用主格形式的代词 she*
@@ -129,7 +128,7 @@
 > I can't help **her**. （我帮不了她。）
 > *“她” 是句子宾语，用宾格形式的代词 her*
 >
-> ** 注意 **：对比例句可以发现，"她" 在句子中承担不同的成分，所以要选用不同的代词。
+> **注意**：对比例句可以发现，"她" 在句子中承担不同的成分，所以要选用不同的代词。
 
 > **I** want to know how to get to the post office. （我想知道怎么去邮局。）
 > *“我” 是句子主语，用主格形式的代词 I*
@@ -139,11 +138,12 @@
 
 #### (3) 第二人称 you，单数、复数、主格、宾格是同一个单词，使用时没有变化，要根据上下文判断它是单数还是复数。
 
-> **You** should have finished the work yesterday. （你／你们昨天就应该完成这项工作。）
+> **You** should have finished the work yesterday. （你/你们昨天就应该完成这项工作。）
 > 
-> Tom will help **you**.（汤姆会来帮助你／你们。）
+> Tom will help **you**.（汤姆会来帮助你/你们。）
 
 ### 1.2 人称代词的用法
+
 人称代词在句中可以作主语、宾语和表语。
 #### (1) 人称代词作主语时，需要人称代词的主格形式。 
 > **I** like classical music. （我喜欢古典音乐。）
@@ -159,19 +159,19 @@
 > A: Is that **you**, Tom？（是你吗，汤姆？）  
 > B: Yeah，it is **me**. Please open the door. （是我。请开门。） 
 
-> If I were **him**, I would accept the invitation. （如果我是他，我就接受这个邀请。）
+> If I were **him**, I would accept the invitation`/ˌɪnvɪˈteɪʃn/`. （如果我是他，我就接受这个邀请。）
 
-注意：** 介词后面的代词必须用宾格形式 **。  
+注意：**介词后面的代词必须用宾格形式**。  
 > Some of **us** will go to visit the Great Wall this Sunday. 我们这些人本周日要去参观长城。
 
 ### 1.3 几个人称代词并列出现时的顺序
-几个人称代词并列出现时，中文和英文的排列顺序是不一样的。英文中，一般是按 ** 二、三、一 ** 的顺序排列；而中文是按 一、二、三 的顺序排列。对比下列句子：
+几个人称代词并列出现时，中文和英文的排列顺序是不一样的。英文中，一般是按二、三、一 的顺序排列；而中文是按 一、二、三 的顺序排列。对比下列句子：
 
-> **You and I** will go to attend that meeting tomorrow. （我和你明天要去开会。）  * 二、一 人称 *
+> **You and I** will go to attend that meeting tomorrow. （我和你明天要去开会。）  *二、一 人称*
 > 
-> You, Tom and I will finish this work today. （我、你和汤姆今天要完成这个工作。） * 二，三，一 人称 *
+> You, Tom and I will finish this work today. （我、你和汤姆今天要完成这个工作。） *二，三，一 人称*
 > 
-> She and I can finish the work in two days. （我和她两天内可以完成这件工作。） * 三，一 人称 *
+> She and I can finish the work in two days. （我和她两天内可以完成这件工作。） *三，一 人称*
 
 注意：如果是因犯错误需要承担责任时，则将第一人称放到最前面。  
 > **I and Mike** broke the glass. 我和迈克把玻璃打碎了。
@@ -184,7 +184,6 @@ we，you，they 有时并不指特定的人，而是用来泛指一般人。
 > In the tropics, **you** don't need winter clothing. （在热带地区，人们不需要冬天的衣服。）
 >
 > + tropic `/ˈtrɒpɪk/` n. 热带（地区）；回归线。
-
 
 ## 2. 物主代词
 
@@ -476,11 +475,11 @@ it 属于代词，但是它的用法较广，这里集中加以说明：
 #### (2) 强调宾语补足语或表语
 > I'd like to paint`/peɪnt/` the door **<u>white</u>**. （我想把门漆成白色的。）
 > 
-> **<u>It is white that</u>** I'd like to paint the door. * 强调宾语补足语 white*
+> **<u>It is white that</u>** I'd like to paint the door. *强调宾语补足语 white*
 
 > She has become **<u>a famous pianist</u>`/ˈpiːənɪst/`**. （她现在已经是一个著名的钢琴家了。）
 > 
-> **<u>It is a famous pianist that</u>** she has become. * 强调表语 a famous pianist*
+> **<u>It is a famous pianist that</u>** she has become. *强调表语 a famous pianist*
 
 注意：当联系动词是 be 时，不能强调表语。
 
