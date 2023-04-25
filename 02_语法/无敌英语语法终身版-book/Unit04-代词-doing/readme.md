@@ -222,11 +222,47 @@ we，you，they 有时并不指特定的人，而是用来泛指一般人。
 #### (1) 形容词性物主代词只能做定语，修饰名词。 
 形容词性物主代词，即起形容词作用的物主代词，在句子中只可以作定语，修饰名词，因此它只能用于名词前，而不能单独使用。
 
+> What is **your** father? 你父亲是做什么工作的？
+>
+> **Our** classroom is very beautiful. 我们的教室特别漂亮。
+
 #### (2) 名词性物主代词，只能单独使用，后面不可以有名词。
 名词性物主代词，即作名词用的物主代词。它在句子中可以承担名词所能承担的各种句子成分，如：主语、宾语、表语。因为名词性物主代词 = 形容词性物主代词 + 名词，所以名词性物主代词只能单独使用，后面决不可以有名词。
 
+##### 1. 作主语
+> May I use your pen? **Mine**(= my pen) is missing. 我可以用下你的钢笔吗？我的找不到了。
+
+##### 2. 作宾语
+> My bike is lost. Would you please lend me **yours**(= your bike)? 我的自行车丢了，你能借我用下你的（自行车）吗？
+
+##### 3. 作表语
+> A: Whose T-shirt is this? (这是谁的 T 恤衫？)
+> 
+> B: It's not **mine**(= my T-shirt). Perhaps it is **his**(= his T-shirt). 不是我的。可能是他的。
+
+##### 4. 可以和 of 连用，作介词 of 的宾语。
+> He is a friend **of mine**. 他是我的一个朋友。
+
+> A student **of hers** came to see her yesterday. 她的一个学生昨天来看她。
+
+**注意**：of 后面的代词是所有格形式还是宾语形式，表示的意思不同，应该注意。
+> a picture of her. 她的一张照片（照片上的人是她）。
+>
+> a picture of hers. 她的一张照片（属于她的照片中的一张，但照片上的人不一定是她）。
+
 
 ### 2.3 表示所有关系时，中、英文有下列区别，需要注意
+
+#### (1) 在汉语中，有时可以省掉 "我的"、"你的"等表示所属关系的词，但在英语中，这类物主代词一般不能省略。
+> Hand in **your** exercise books. 把（你们的）作业本交上来。
+
+> Don't put **your** hands in **your** pockets. 别把（你的）手放在（你的）口袋里。
+
+#### (2) 谈到人体的某个部位时，往往不用物主代词，而是用介词短语来表示。
+> The ball caught him **on the head**. 球打在了他的头上。
+> The police caught him **by the arm**. 警察抓住了他的胳膊。
+> He hit the thief **in the face**. 他打在小偷的脸上。
+> The bullet hit the police officer **in the shoulder**. 子弹击中了警察的肩膀。
 
 
 
