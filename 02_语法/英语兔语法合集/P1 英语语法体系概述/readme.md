@@ -1,6 +1,5 @@
 # P1 英语语法体系概述
 
-
 Here's a question for you. What is the hardest part of learning English, pronunciation, grammar, or vocabulary`/və'kæbjəlɛri/`? let's see: pronunciation-wise as long as you don't make obvious` /ˈɒbviəs $ ˈɑːb-/ ` mistakes, having an accent is no big deal. as for vocabulary, you could acquire a reasonably`/'ri:znəbli/` large vocabulary through reading or verbal communication, or you could simply go through "word lists". 
 
 这是一个问题。 学习英语、发音、语法或词汇最难的部分是什么？ 让我们看看：发音方面只要你不犯明显的错误，有口音没什么大不了的。 至于词汇，你可以通过阅读或口头交流获得相当多的词汇，或者你可以简单地通过“单词表”。
@@ -8,8 +7,6 @@ Here's a question for you. What is the hardest part of learning English, pronunc
 But grammar... Ah, it's a whole different story. You see plenty of people with good pronunciation and vocabulary still making grammar mistakes in every other sentence. A regional`/'ridʒənl/` accent might be a part of your identity that you can be proud of, but can you also be proud of grammar mistakes? Perhaps not. Also, should you ever try to memorize grammar rules the same way you memorize new words? It's not like you have time to recall a rule before you speak, Right? The fact is, grammar can be tough. And the whole English grammar system just seems like a big mess, doesn't it？ I'm here to help.
 
 但是语法... 啊，这是一个完全不同的故事。你会见到很多语音词汇都不错的人还是频繁犯语法错误。你也许可以为作为身份标志的地域口音而自豪，但您也可以为语法错误感到自豪吗？ 也许不是。 此外，您是否应该尝试以与记忆新单词相同的方式记忆语法规则？ 在你说话之前你没有时间回忆规则，对吧？ 事实是，语法可能很难。 整个英语语法系统看起来就像一团糟，不是吗？我是来帮忙的。
-
-
 
 你好，我是英语兔，我希望通过这个视频帮你在脑中构建，甚至重塑你对英语语法的认知。我知道这听上去像是说大话，但是请让我证明给你看，这个视频比较长，但是它也许会是你看的最重要的英语学习视频...之一，所以还请耐心看完，首先我想问你，你现在对英语的语法体系或者说框架是否有个完整清晰的认知？
 
@@ -26,9 +23,10 @@ But grammar... Ah, it's a whole different story. You see plenty of people with g
 ## ▲ 最基本的句子成分
 
 现在你只要记住两个最基本的句子成分是:
+
 - **主语 (subject)** 和
 - **谓语 (predicate)**
-    + predicate `/ˈpredɪkət/` -noun[countable].谓语
+  + predicate `/ˈpredɪkət/` -noun[countable].谓语
 
 <img src="./readme.assets/image-20220522150047720.png"
     style="border-radius: 4px; width:auto;">
@@ -45,6 +43,7 @@ But grammar... Ah, it's a whole different story. You see plenty of people with g
 ## ▲ 动作(动词)
 
 ### (1) 可以独立完成的动作(/动词)。 结构：主语 + 不及物动词
+
 例如:
 
 > ◆ Papa Rabbit **sleeps**. 兔老爹睡觉.
@@ -54,6 +53,7 @@ But grammar... Ah, it's a whole different story. You see plenty of people with g
 第一种情况对应的句子结构就是: **主语 + 不及物动词**。
 
 ### (2) 有 1 个动作的承受者。 结构：主语 + 单及物动词 + 宾语
+
 例如:
 
 > ◆ Papa Rabbit **likes** you. 兔老爹喜欢你
@@ -65,7 +65,6 @@ But grammar... Ah, it's a whole different story. You see plenty of people with g
 讲完下面的 `### (3)` 又对当前第二种情况的句子基本结构做了修改:
 
 好，我们再回头把之前的第二种情况再改进一下，只有一个宾语的及物动词，我们称之为 **单及物动词 (monotransitive verbs)**。所以第二种情况的句子基本结构, 更更精确就是: **主语 + 单及物动词 + 宾语**。
-
 
 ### (3)有 2 个动作承受者。 结构: 主语 + 双及物动词 + 间接宾语 + 直接宾语
 
@@ -87,6 +86,7 @@ But grammar... Ah, it's a whole different story. You see plenty of people with g
 而第 3 种情况的句子基本结构就是: **主语 + 双及物动词 + 间接宾语 + 直接宾语**。
 
 ### (4) 只有 1 个动作承受者(但需补充)，但又和第二种情况不太一样。 结构：**主语 + 复杂及物动词 + 宾语 + (宾语)补语**
+
 例如:
 
 > ◆ Papa Rabbit considers you smart. 兔老爹认为你聪明.
@@ -97,8 +97,8 @@ But grammar... Ah, it's a whole different story. You see plenty of people with g
 
 所以第 4 种情况的句子基本结构就是: **主语 + 复杂及物动词 + 宾语 + (宾语)补语**.
 
-
 ### (5) 非 "动作(词)"  结构: 主语 + 系动词 + (主语)补语/表语
+
 最后一种，第 5 种情况里的动词所表达的 "动作" 和咱们狭义上说的 "动作" 不太一样。例如:
 
 > ◆ Papa Rabbit is tall. 兔老爹是高的。
@@ -135,12 +135,11 @@ Papa Rabbit is tall. 中的 is 说白了就是把 Papa Rabbit 和 tall 连在一
 而系动词后面的补充信息也自然是 **补足语 (/补语)**。更精确点，可以说是 **主语补语**。
 
 而 主语补语 在咱们中国英语教学中还有另外一个名字叫 **表语 (predicative)**。
+
 - predicative `/prɪˈdɪkətɪv $ ˈpredəkeɪtɪv/` -adj.谓语性的，作表语的
-    + These adjectives`/ˈædʒəktɪv/` are usually used to as the predicative`/predəkeɪtɪv/` in a sentence. 这类形容词通常用在句子中作表语。
+  + These adjectives`/ˈædʒəktɪv/` are usually used to as the predicative`/predəkeɪtɪv/` in a sentence. 这类形容词通常用在句子中作表语。
 
 所以， 第 5 种也就是最后一种情况的句子基本结构: **主语 + 系动词 + (主语)补语/表语**。
-
-
 
 ### 谓语动词
 
@@ -151,21 +150,30 @@ Papa Rabbit is tall. 中的 is 说白了就是把 Papa Rabbit 和 tall 连在一
 
 其实你可能之前就听说过所谓英语的 5 种基本句型: 
 
-> ####  5 种基本句型
+> #### 5 种基本句型
+> 
 > ##### 1. 主语+动词
+> 
 > ##### 2. 主语＋动词+宾语
+> 
 > ##### 3. 主语＋动词+间接宾语+ 直接宾语
+> 
 > ##### 4. 主语+动词+宾语＋宾语补语
+> 
 > ##### 5. 主语+动词+ 主语补语/表语
 > 
-> 
->
 > 注：还有一种 "八大句型" 的分类，即在 "五大句型" 基础上增加：
+> 
 > ##### 6. "there be" 句型。
+> 
 > 如：There is a rabbit. 可理解为第五种句型 "主语 + 系动词 + (主语)补语/表语" 的倒装。
+> 
 > ##### 7. 主语 + 谓语动词 + 状语。
+> 
 > 如：I live in China. 可理解为第一种句型 "主语 + 谓语动词" 的延伸 (虽然这里的状语很重要)。
+> 
 > ##### 8. 主语 + 谓语动词 + 宾话 + 状语。
+> 
 > 如：I put the carrot on the table. 可理解为第四种句型 "主语 + 谓语动词 + 宾语 + 宾语补语" 的延伸。
 
 你说不定还苦恼过，"这怎么背嘛，这么多什么语 + 什么语 + 什么语..." 现在你明白了吧？其实就是在说动词以及动词需要几个对象才能完整表达意思。
@@ -179,6 +187,7 @@ Papa Rabbit is tall. 中的 is 说白了就是把 Papa Rabbit 和 tall 连在一
 ![image-20220522174818995](./readme.assets/image-20220522174818995.png)
 
 谓语动词有 5 个基本类别：
+
 1. 无需承受者或者说宾语。
 2. 有 1 个宾语无需补充信息。
 3. 有 2 个宾语，一个直接一个间接。
@@ -201,23 +210,10 @@ Papa Rabbit is tall. 中的 is 说白了就是把 Papa Rabbit 和 tall 连在一
 
 ## ▲ 句子成分 (clause elements)
 
-句子成分除了刚才讲到的:
-
-### 1. 主语
-
-### 2. 谓语动词
-
-### 3. 宾语
-
-### 4. 宾语补语
-
-### 5. 主语补语
-
-
-
-还有可能有以下主要成分。
+句子成分除了刚才讲到的: (1)主语、(2)谓语动词、(3)宾语、(4)宾语补语、(5)主语补语，还有可能有以下主要成分。
 
 ### 6. 定语 (Attributive): 主要用来修饰主语或宾语。
+
 **attributive `/əˈtrɪbjətɪv/`** -adj.修饰的; 限定的; 定语的 (注意：`j`发`I`的音，`j` 后的`ə`不发音)
 
 > ◆ **The little white** rabbit ate **a large** carrot. 这只小白兔吃了一根大萝卜。
@@ -228,9 +224,7 @@ the little white 就是主语 rabbit 的定语，而 a large 就是宾语 carrot
 
 **adverbial `/ədˈvɜːbiəl/`** -adj. 副词的，状语的. -n.状语
 
->  例如:  ◆ The rabbit ate **quickly**. 兔子快速的吃.
-
-quickly 就是 eat 的状语.
+>  例如:  ◆ The rabbit ate **quickly**. 兔子快速的吃.  *quickly 就是 eat 的状语.*
 
 ### 8. 同谓语: 主要用来再把主语或宾语说一遍。
 
@@ -244,16 +238,17 @@ quickly 就是 eat 的状语.
 
 英语兔我要再次强调，咱们直到现在所说的都是所谓**简单句 (Simple Sentences)**，说白了就是没法再拆成更多句子，可是我们说话写文章可不全是简单句一个接一个的说。
 
-咱平时说话写文章，经常会把这些不同的简单句互相组合，形成所谓:
-- (1) **compound(adj) sentences (复合句/并列句)** 和 
-    + compound `/ˈkɒmpaʊnd/` -n.化合物; 复合物; 复合词. -adj.复合的；混合的
-- (2) **complex sentences (复杂句)**
+咱平时说话写文章，经常会把这些不同的简单句互相组合，形成所谓: (1) **compound sentences (复合句/并列句)** 和 (2) **complex sentences (复杂句)**
+
+- compound  `/ˈkɑːmpaʊnd/` -n.复合物；混合物；化合物。-adj.复合的
+- complex `/kəmˈpleks/` -adj.复杂的。-n.复合体，综合体。
 
 **compound sentences** 说白了其实就是句子简单的叠加是并列关系，直接翻译为复合句，但是有的语法书上的术语是并列句。而
 
 **complex sentences** 说白了就是把一个句子套在另一个句子里，甚至一个句子套的句子还能再套一个句子，一直套下去，此处并不禁止套娃，这是一种从属关系。complex sentences 直接翻译为复杂句。
 
 在这里以一个句子套另一个句子，在英语语法上分别叫做 **主句 (Main Clause)** 和 **从句 (Subordinate Clause)**。
+
 - subordinate `/sə'bɔdɪnet/` --adj.(1)下级的; 从属的; (2)次要的
 
 ![image-20220522214654876](./readme.assets/image-20220522214654876.png)
@@ -279,6 +274,7 @@ quickly 就是 eat 的状语.
 英语这种套娃的从句和咱们中文习惯区别挺大，所以是英语语法难点之一。之后英语兔我会专门做一个视频合集细讲英语从句。
 
 以上说了英语的句子成分和造句，但是现在问题来了，两个句子也许句子组成的方式相同，比如都是：主语 + 谓语动词 + 宾语，可是句中包含的词的类型并不一定相同；比如:
+
 > ◆ The rabbit ate a carrot.
 
 > ◆ he saw something over there.
@@ -294,6 +290,7 @@ quickly 就是 eat 的状语.
 包括
 
 ### 1. 动词 (verb) `v.`
+
 动词是表示 `动作` 或 `状态` 的词. (详细: 动词是表示 `动作, 行为, 心理活动` 或 `存在, 变化, 消
 失`等的词.)
 
@@ -309,8 +306,8 @@ quickly 就是 eat 的状语.
 
 > ◆ Papa Rabbit is a **rabbit**.  兔老爹是只兔子
 
-
 ### 3. 冠词 (article) `art.`
+
 用在名词之前对名词起限制作用的一种虚词. 用来帮助说明名词所指的人或事物. 
 
 例如: **a, an, the**
@@ -325,24 +322,24 @@ quickly 就是 eat 的状语.
 
 > ◆ **I** am **a** rabbit. 
 
-
 ### 5. 形容词 (adjective) `adj.`
+
 修饰 `名词` 或 `代词`, 表示人或事物的性质, 状态, 特征的词. 
 
 例如: **small, long, short**
 
 > ◆ I am a **smart** rabbit. 我是只聪明的兔子。 
 
-
 ### 6. 数词 (numeral) `num.`
+
 表示 `数量` 或 `顺序` 的词. 
 
 例如: **one, ten, twenty, first, second**
 
 > ◆ I ate **two** carrots. 我吃了两根胡萝卜。
 
-
 ### 7. 副词 (adverb) `adv.`
+
 修饰`动词`, `形容词`, `(其他)副词` 或 `整个句子`, 表示动作特征或性状特征 
 
 例如: **very, often, hard, usually, quickly**
@@ -357,22 +354,21 @@ quickly 就是 eat 的状语.
 
 > ◆ I ate two carrots **with** chopsticks. 我用筷子吃了两根胡萝卜。
 
-
 ### 9. 感叹词 (interjection) `interj.`
+
 表示说话时的喜悦, 惊讶等各种情感的语气. (或说：表感叹)
 
 例如: **oh, hey, dear, my goodness, Dear me, well**
 
 > ◆ **Ah**, the carrot is tasty! 啊，胡萝卜好美味！
 
-
 ### 10. 连词 (conjunction) `conj.`
+
 连词不能独立担任句子成分, 而只起连接 `词与词`,`短语与短语`以及`句子与句子`的作用. (或说：连接词和句)
 
 例如: **and, or, but, therefore, or, unless, since, if**
 
 > ◆ I ate two carrots and a potato, **because** I was hungry. 我吃了两根胡萝卜和一个马铃薯，因为我饿了。
-
 
 以上这些词类便是英语的 10 大词类。
 
@@ -387,9 +383,11 @@ quickly 就是 eat 的状语.
 ## ▲ 谓语动词的 "三大本领"。
 
 ### (1) 表示动作的时间
+
 比如: 动作可能在过去或将来。
 
 ### (2) 表示动作的状态，
+
 比如: 动作可能是已经完成的状态或者正在进行的状态。
 
 以上两者合在一起称为 **`时态 (tense)`**。 
@@ -399,12 +397,14 @@ quickly 就是 eat 的状语.
 没错，英语的时态是: **时间 + 状态** 合在一起，而并非只有时间。
 
 英语描述动词时间可能有 4 种: 
+
 - 现在;
 - 过去;
 - 将来;
 - 过去将来. (从过去某个时间点 "算将来") 
 
 英语描述动词状态也可能是 4 种:
+
 - 一般; (未说明)
 - 完成;
 - 进行;
@@ -436,14 +436,11 @@ quickly 就是 eat 的状语.
 
 想让谓语动词充分发挥，我们必须用到另一类经常和动词一起用的词帮助完成任务。他们就是: **助动词 (auxiliary verbs)**
 
-
 ## ▲ 助动词 (auxiliary verbs)
 
-
-
 ## ▲ 非谓语动词
-......如果你以上几句不太明白，不用担心英语托我接下来会专门做一个非谓语动词的视频合集，来细讲这些概念。
 
+......如果你以上几句不太明白，不用担心英语托我接下来会专门做一个非谓语动词的视频合集，来细讲这些概念。
 
 ## ▲ 概述英语语法体系
 
@@ -452,6 +449,7 @@ quickly 就是 eat 的状语.
 英语兔我现在就告诉你，英语语法的核心就是动词，动词能够串起几乎所有语法概念，你要是不信英语兔，我现在就用动词来为你高度或者说粗略概括一下整个英语语法体系。
 
 英语的核心是 **动词** 分为:
+
 - **谓语动词** 和
 - **非谓语动词**.
 
@@ -460,6 +458,7 @@ quickly 就是 eat 的状语.
 同时也囊括以下句子成分: **主语、谓语、动词、宾语、宾语、补语、主语、补语也就是表语**；除此之外，句子成分还有**定语、状语、同谓语**。
 
 简单句可以组合成：
+
 - **并列关系的复合句** 以及
 - **从属关系的复杂句**。
 

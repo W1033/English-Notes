@@ -6,22 +6,9 @@
 
 ## New words
 
-### 2021.07.12
-
-#### 1. facilitate `/fəˈsɪlɪteɪt/` verb [transitive]
-- 促进；使便利 (to make it easier for a process or activity to happen.使一个过程或活动更容易发生)
-    + Computers can be used to facilitate language learning. 计算机可以用来方便语言学习。
-- facilitation `/fəˌsɪlɪˈteɪʃən/` `noun` [uncountable]
-
-#### 2. thesaurus `/θɪˈsɔːrəs/` noun (plural thesauruses or thesauri /-raɪ/) [countable]  
-- 分类词典，同义词词典(a book in which words are put into groups with other words that have similar meanings)
-
-
-#### 2. reminisce `/ˌreməˈnɪs/`  verb[intransitive]
-- 追忆[回忆]往事，缅怀过去(to talk or think about pleasant events in your past).
-    + **reminisce about**
-        - a group of former students reminiscing about their college days. 追忆着大学时光的一群老校友
-
+1. facilitate `/fəˈsɪlɪteɪt/`  -vt.促进；使便利 
+2. thesaurus `/θɪˈsɔːrəs/`  -n.分类词典，同义词词典
+3. reminisce `/ˌreməˈnɪs/` -vt.追忆[回忆]往事，缅怀过去
 
 
 ## Content
@@ -66,58 +53,9 @@ LDOCE5/6 最令人感动的地方是：单词的例句都是带有发音的！�
 
 这些代号提供的信息又通过例证加以充实。例证可把某个词所能显示的各种语法特征都具体地表現出来。而且，表明补足结构和介词搭配的语法代号就直接放在它们所适用的例句之前, 例如:
 
-![image-20210711202457313](Daily-Words.assets/image-20210711202457313.png)
+<img>
 
 上图例子中, 先是列出词类(verb), 接着列出的是表示 "及物" 的语法代号 `[transitive]` 和 "不及物" 的语法代号 `[Intransitive]`.
 
 有关本辞典列入的语法信息的说明可见 "本辞典使用方法简介" 的第 8 项, 以及 "语法代号" 表.
-
-
-
-
-
-
-
-### 欧路词典安装扩展词库的方法，以 windows 为例：
-点击软件右上角的 **工具** --> **词库管理**， 点击 **安装词库**， 点击 **打开文件** 按钮
-找到词库的 mdx 格式所在的文件夹，点击加载即可 (注意：mdd 和 mdx 这两个文件的文件名必须保持一致，mdx 加载后会默认去找 mdd 文件。)
-出现询问是否安装词典的对话框， 点击 "安装词库"  即可。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### 高阶英英词典
-- 韦氏高阶英英词典 (Webster's Advanced Learner's Dictionary)
-- 麦克米伦高阶英英词典 (Macmillan English Dictionary for Advanced Learners)
-- 柯林斯高阶英英词典 (Collins COBUILD Advanced Learner's English Dictionary)
-- 剑桥高阶英英词典 (Cambridge Advanced Learner's Dictionary)
-
-
-#### 三部高阶英汉双解学习词典
-- 21世纪英汉汉英双向词典 (21st Century English-Chinese Dictionary)
-- 牛津高阶英汉双解学习词典 (xford Advanced Learner's English-Chinese Dictionary)
-- 柯林斯高阶英汉双解学习词典 (Collins COBUILD Advanced Learner's English-Chinese Dictionary)
-
-
-#### 两部同义词词典
-- 柯林斯英语同义词字典 (Collins Thesaurus)
-- 牛津初级同义词词典 (Oxford Learner's Thesaurus)
-
-
-#### 三部母语者使用的英英词典
-- 韦氏大学英语词典 (Merriam-Webster's Collegiate Dictionary)
-- 美国传统英语词典 (American Heritage Dictionary)
-- 牛津英语词典 (Oxford Dictionary of English)
 
