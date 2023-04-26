@@ -202,7 +202,7 @@ we，you，they 有时并不指特定的人，而是用来泛指一般人。
 
 ### 2.1 物主代词的种类
 
- 物主代词分为两类：**形容词性物主代词（又称物主形容词）** 和 **名词性物主代词（又称物主代词） **。
+物主代词分为两类：**形容词性物主代词（又称物主形容词）** 和 **名词性物主代词（又称物主代词） **。
 
 #### (1) 各类物主代词列表如下：
 
@@ -274,15 +274,54 @@ we，you，they 有时并不指特定的人，而是用来泛指一般人。
 
 ### 3.1 反身代词的形式
 
+| 人称 | 单数 | 复数 | 特征 |
+| --- | --- | --- | --- |
+| 第一人称 | myself | ourselves | 第一、二人称是在形容词性物主代词后加 self(单数)或 selves(复数)构成反身代词。 |
+| 第二人称 | yourself | yourselves |  |
+| 第三人称 | himeself, herself, itself | theselves | 第三人称是在宾格人称代词后加 self(单数)或 selves(复数)构成反身代词。 |
+
 
 ### 3.2 反身代词在句子中的作用
 反身代词在句子中可以作宾语、表语和同位语。
 
 #### (1) 作宾语
+> God helps those who help **themselves**.(天助自助者。)
 
-#### (1) 作表语
+> I cut **myself** when I prepared supper. 我做晚饭时把自己（的手）切了。
 
-#### (1) 作同位语
+> Certainly she knows how to take care of herself. 她当然知道如何照顾自己了。
+
+#### (2) 作表语
+> I am not quite **myself** today. 我今天很不舒服。
+
+> He fells more **himself** today. 他今天感觉相当好。
+
+> That poor boy was **myself**. 那个可怜的小男孩就是我自己。
+
+#### (3) 作同位语
+> I **myself** was certain of the facts. 我自己对事实确信无疑。
+
+> The president **himself** will attend the opening ceremony. 总统会亲自出席开幕典礼。
+
+反身代词作同位语时，一般具有强调的作用。以上两句如果没有反身代词(myself，himself)，句子依然成立，只是语气没有那么强。反身代词作同位语时在句子中的位置较为灵活。
+
+> She saw it **herself**. / She **herself** saw it. 他亲眼所见。
+
+#### (4) 反身代词和 by 连用，表示强调。
+> He did it all **by himself**. 这完全是他自己做的。
+
+> This machine works **by itself**. 这台机器是自动的。
+
+#### (5) 反身代词不能单独做主语
+在非正式文体中，可以由 and 或 or 与主语相连，作主语的一个强调部分。
+
+> Mangaer **and myself** will attend that meeting. 经理和我本人要去出席那个会。
+
+#### (6) 反身代词一般不作定语。
+要表示 "自己的..." 时，要用形容词性的物质代词 (my, your 等)和 own 一起表示。
+> This is **my own** car. 这是我自己的车。 *这里不能用 myself 表示我自己*
+
+
 
 
 ## 4. 相互代词
