@@ -221,7 +221,11 @@ we，you，they 有时并不指特定的人，而是用来泛指一般人。
 
 #### (1) 形容词性物主代词只能做定语，修饰名词。
 
-> Add Info --> 定语 (Attributive): 主要用来修饰主语或宾语。笔记来自当前仓库 `../../英语兔语法合集/P1 英语语法体系概述/readme.md`
+> Additional Info：
+>
+> **定语 (Attributive): 主要用来修饰主语或宾语。**
+>
+> 笔记来自当前仓库 `../../英语兔语法合集/P1 英语语法体系概述/readme.md`
 
 形容词性物主代词，即起形容词作用的物主代词，在句子中只可以作定语，修饰名词，因此它只能用于名词前，而不能单独使用。
 
@@ -250,6 +254,7 @@ we，you，they 有时并不指特定的人，而是用来泛指一般人。
 > A student **of hers** came to see her yesterday. 她的一个学生昨天来看她。
 
 **注意**：of 后面的代词是所有格形式还是宾语形式，表示的意思不同，应该注意。
+
 > a picture of her. 她的一张照片（照片上的人是她）。
 >
 > a picture of hers. 她的一张照片（属于她的照片中的一张，但照片上的人不一定是她）。
@@ -265,7 +270,7 @@ we，you，they 有时并不指特定的人，而是用来泛指一般人。
 #### (2) 谈到人体的某个部位时，往往不用物主代词，而是用介词短语来表示。
 > The ball caught him **on the head**. 球打在了他的头上。
 
-> The police caught him **by the arm**. 警察抓住了他的胳膊。
+> The police caught him **by the`/ði/` arm**. 警察抓住了他的胳膊。
 
 > He hit the thief **in the face**. 他打在小偷的脸上。
 
@@ -273,28 +278,30 @@ we，you，they 有时并不指特定的人，而是用来泛指一般人。
 
 
 ## 3. 反身代词
-反身代词是用来代表主语自身的代词。反身代词在句子中可以作宾语、表语或是同位语，但是它所代表的仍然是主语本身。主语发出的动作并没有转向他人，而是像镜子一样反射回到动作的发出者那里，所以称之为反身代词。中文一律译为 "...自己"。
+反身代词是用来代表主语自身的代词。反身代词在句子中可以作宾语、表语或是同位语，但是它所代表的仍然是主语本身。主语发出的动作并没有转向他人，而是像镜子一样反射回到动作的发出者那里，所以称之为反身代词。中文一律译为 "......自己"。
 
 ### 3.1 反身代词的形式
 
 | 人称 | 单数 | 复数 | 特征 |
 | --- | --- | --- | --- |
 | 第一人称 | myself | ourselves | 第一、二人称是在形容词性物主代词后加 self(单数)或 selves(复数)构成反身代词。 |
-| 第二人称 | yourself | yourselves |  |
-| 第三人称 | himeself, herself, itself | theselves | 第三人称是在宾格人称代词后加 self(单数)或 selves(复数)构成反身代词。 |
-
+| 第二人称 | yourself | yourselves | 同上 |
+| 第三人称 | himself, herself, itself | themselves | 第三人称是在宾格人称代词后加 self(单数)或 selves(复数)构成反身代词。 |
 
 ### 3.2 反身代词在句子中的作用
-反身代词在句子中可以作宾语、表语和同位语。
+
+反身代词在句子中可以作**宾语**、**表语**和**同位语**。
 
 #### (1) 作宾语
+
 > God helps those who help **themselves**.(天助自助者。)
 
 > I cut **myself** when I prepared supper. 我做晚饭时把自己（的手）切了。
 
-> Certainly she knows how to take care of herself. 她当然知道如何照顾自己了。
+> Certainly she knows how to take care of **herself**. 她当然知道如何照顾自己了。
 
 #### (2) 作表语
+
 > I am not quite **myself** today. 我今天很不舒服。
 
 > He fells more **himself** today. 他今天感觉相当好。
@@ -302,9 +309,14 @@ we，you，they 有时并不指特定的人，而是用来泛指一般人。
 > That poor boy was **myself**. 那个可怜的小男孩就是我自己。
 
 #### (3) 作同位语
+
 > I **myself** was certain of the facts. 我自己对事实确信无疑。
 
 > The president **himself** will attend the opening ceremony. 总统会亲自出席开幕典礼。
+>
+> - president `/ˈprezɪdənt/`
+> - opening `/ˈoʊpənɪŋ/`
+> - ceremony `/ˈserəmoʊni/`
 
 反身代词作同位语时，一般具有强调的作用。以上两句如果没有反身代词(myself，himself)，句子依然成立，只是语气没有那么强。反身代词作同位语时在句子中的位置较为灵活。
 
@@ -318,34 +330,152 @@ we，you，they 有时并不指特定的人，而是用来泛指一般人。
 #### (5) 反身代词不能单独做主语
 在非正式文体中，可以由 and 或 or 与主语相连，作主语的一个强调部分。
 
-> Mangaer **and myself** will attend that meeting. 经理和我本人要去出席那个会。
+> Manager`/ˈmænɪdʒər/` **and myself** will attend that meeting. 经理和我本人要去出席那个会。
 
 #### (6) 反身代词一般不作定语。
+
 要表示 "自己的..." 时，要用形容词性的物质代词 (my, your 等)和 own 一起表示。
 > This is **my own** car. 这是我自己的车。 *这里不能用 myself 表示我自己*
 
-
-
-
 ## 4. 相互代词
+
+相互代词表示一个动作在它所涉及的各个对象之间是相互存在的。
+
+> Tom and Mary help **each other**.  汤姆和玛丽互相帮助。 *"帮助" 这个动作存在于汤姆和玛丽两人之间*
 
 ### 4.1 相互代词的种类
 
+| 通格（主格、宾格）      | 所有格        | 区别                       | 提示                         |
+| ----------------------- | ------------- | -------------------------- | ---------------------------- |
+| each other              | each other's  | 说明两者之间的相互关系     | 在实际的应用中，二者可以互换 |
+| one another` /əˈnʌðər/` | one another's | 说明三者以上相互之间的关系 | 在实际的应用中，二者可以互换 |
+
 ### 4.2 相互代词的作用
+
+#### (1) 相互代词在句子中只可以作宾语。
+> The two sisters encourage **each other** and help **each other**.  两姐妹互相鼓励，互相帮助。
+
+> We study in the same college and often see **each other**.  我们在同一所大学学习， 彼此经常见面。
+
+> Jack and Jane`/dʒeɪn/` gave **one another/each other** a Christmas present last week.  杰克和珍妮上周互赠了圣诞节礼物。
+
+> They are fond of **one another**.  他们彼此都很喜欢对方。 *one another 作介词 of 的宾语*
+>
+> - fond `/fɒnd $ fɑːnd/`  -adj.喜欢的；温柔的；宠爱的
+
+#### (2) 相互代词的所有格在句子中只可以作定语
+> The students are correcting **each other's** mistakes in their papers. 学生们正在互相改正卷子上的错误。
+
+> We should study **one another's** strong points. 我们应该学习彼此的长处。
+
+> They have forgotten **one another's** names. 他们忘记了彼此的姓名。
+>
+> - forgotten `/fəˈɡɒtn $ fərˈɡɑːtn/ ` 
+> -  forget ` /fəˈɡet/ ` -vt&vi.忘记。(时态：forgot，forgotten)
 
 ## 5. 指示代词
 
+指示代词是指代 "这个、那个；这些、那些" 等概念的代词。
+
 ### 5.1 指示代词的种类
 
+指示代词主要有 4 个：
+
+| this`/ðɪs/`（这，这个）           | that`/ðæt/`（那，那个）   |
+| --------------------------------- | ------------------------- |
+| **these` /ðiːz/ `（这些）**       | **those`/ðəʊz/`（那些）** |
+| such 和 same 也可以用作指示代词。 |                           |
+
 ### 5.2 指示代词在句子中的作用
+指示代词在句子中可以作主语、 宾语、 表语和定语。 
+
+#### (1) 作主语
+> **That** is a good idea. 那是一个好主意。
+
+> **These** are what I want. 这些是我所要的。
+
+#### (2) 作宾语
+> Do you like **those**? 你喜欢那些吗？
+
+> We shall never forget **these**. 我们将永远不会忘记这些事。
+#### (3) 作表语
+> What I want to know is **that**. 我所要知道的就是那件事。
+
+> My idea is **this**. 我的意见是这个。
+
+#### (4) 作定语
+
+> I like **those** books about Chinese history. 我喜欢那些关于中国历史的书籍。
+
+> In **those** days, traveling was not as easy as it is today. 在那些日子里， 旅行不像今天这么容易。
+
+> My daughter will go to college **this** fall`/fɔːl/`. 我女儿今年秋天要去上大学。
 
 ### 5.3 指示代词的用法
+#### (1) 指示代词在句中作主语时，指代人或物都可以；作宾语或表语时，只能指代物。
 
-#### 5.4 指示代词 such, same 的用法
+> **This** is Mr. Green. 这是格林先生。
+
+> **That** is my car. 那是我的小汽车。
+
+> I have heard of **that**. 我听说过那件事。
+>
+> I have heard of **him**. 我听说过他。 *作宾语时指人不能用 that*
+
+#### (2) 就时间和空间概念来说
+
+this/these 表示离说话人近一些的人或物， 而 that/those 表示离说话人远一些的人或物。
+
+> **This** building is the library and **that** one is the new classroom building. 这个大楼是图书馆，那个大楼是新的教学楼。
+
+> More and more students are interested in world events **these** days. 这些日子越来越多的学生关心起世界大事了。
+
+> In **those** days he kept studying English. 在那些日子里， 他一直坚持学习英语。
+
+#### (3) 为了避免重复使用一个单词，往往要用 that/those 代替前面提到的东西。
+
+> These buildings are taller than **those** built last year.  这些楼比去年建的那些楼高。 *those 代替 buildings*
+
+> The weather of Kunming is better than **that** of Wuhan.  昆明的天气比武汉的（天气） 好。 *that 代替 the weather*
+
+> The population of Beijing is larger than **that** of Tianjin.  北京的人口比天津的（人口） 多。 *that 代替 the population*
+
+#### (4) this 通常指代下面要提到的事，或者还没有发生的事；that 多指已经发生的事。
+
+> Now don't be too excited when you hear **this**. 听了这个你不要太激动。
+
+> The most important thing I want to say is **this**: Make good use of your time and study hard. 我要说的最重要的事就是这个： 利用好你的时间，努力学习。
+
+> Who did **that**? 那是谁做的？
+
+### 5.4 指示代词 such, same 的用法
+such（这样的人或物）， same（同样的人或物） 也可作指示代词， 其单、复数相同，在句子中代替主语、表语，也可以作形容词用，修饰一个名词。
+
+#### (1) 作主语
+> **Such** are the reasons.  原因就是如此。
+
+> The **same** will happen to you.  同样的事也会发生在你身上。
+
+#### (2) 作表语
+> His anger`/ˈæŋɡər/` was **such** that he lost control of himself.  他相当的气愤以至于不能控制自己。
+
+> Our ideas are the **same**.  我们的意见一致。
+
+#### (3) 作定语
+
+> Since you have **such** a busy day, we'll ask someone else for help.  既然你今天这么忙， 我们去找别人帮忙。
+
+> The two boys are about the **same** height.  这两个男孩差不多高。
+
+#### (4) such 修饰的名词是单数时，要加不定冠词 a。
+
+> **Such cars** must be very expensive.  这些车子肯定很贵。
+
+> He gave me **such a beautiful car** as my birthday present.  他送给我一辆这么漂亮的小汽车作为我的生日礼物。
 
 ## 6. 不定代词
 
-### 6.1 both, either 和 neither 
+### 6.1 both, either 和 neither
 
 ### 6.2 all, each 和 every
 
