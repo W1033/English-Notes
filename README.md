@@ -6,12 +6,6 @@
 
 
 
-Don't argue with the people of strong determination, because they may change the fact.
-
-别和意志坚定的人争论，因为他们可能将改变现实。
-
-
-
 > Q：有哪些不错的英语语法书推荐？
 >
 > 
@@ -29,8 +23,6 @@ Don't argue with the people of strong determination, because they may change the
 > 5.《英语语法：用简单的语言说清楚》（English Grammar: Clear and Simple）：这是一本适合初学者和中级者使用的语法书，语言简单易懂，结构清晰。
 >
 > 以上是一些比较受欢迎和实用的英语语法书，可以根据自己的英语水平和需求选择合适的书籍进行学习。
-
-
 
 > Q：Hi chatGPT, 如何正确学习英文？
 >
@@ -62,44 +54,37 @@ Don't argue with the people of strong determination, because they may change the
 
 ## New Words
 
-- **contemporary `[kənˈtempərəri]`/`[kənˈtempəreri]` --adj. 当代的，现代的。**
-  **--n. 同代人，同龄人。**
-    + contemporary society 当代社会
-    + Longman Dictionary of Contemporary English 5th Edition. 
-      朗文当代英文词典 第 5 版
-    + That's very contemporary. 那是非常现在的。
+| 单词         | 发音              | 词类及汉语意思                                 | 示例                                                         |
+| ------------ | ----------------- | ---------------------------------------------- | ------------------------------------------------------------ |
+| contemporary | `/kənˈtɛmpəreri/` | adj. 当代的，同时代的；<br />n. 同代人；同龄人 | - contemporary society 当代社会<br />- Longman Dictionary of Contemporary English 5th Edition.  朗文当代英文词典 第 5 版 <br />- That's very contemporary. 那是非常现在的。 |
 
 
 
-## Content
 
-### 1. 学习英语到底学的是什么，换句话说，英语是由什么组成的？
+
+## ▲ 学习英语到底学的是什么，换句话说，英语是由什么组成的？
 
 英语的组成基本可以归纳为三大块：**发音，语法，词汇**.
 
 学好发音、语法和词汇。搞定这三个，不存在英语学不好的。
 
-至于所谓的 阅读/听力/写作/翻译/口语 无非都是在这 3 者基础之上的运用。
-在实际操作中，不过就是写句子，听句子，说句子，翻句子。
+至于所谓的 阅读/听力/写作/翻译/口语 无非都是在这 3 者基础之上的运用。在实际操作中，不过就是写句子，听句子，说句子，翻句子。
 
-这里按照数学中取`交集 (intersection set)`的方法，
-用`文氏图 (Venn 图）`来表示**发音，语法，词汇**是英语各项能力的共同交集，
-所以说这三项也就是大家必须要掌握的基本功。
+这里按照数学中取`交集 (intersection set)`的方法，用`文氏图 (Venn 图）`来表示**发音，语法，词汇**是英语各项能力的共同交集，所以说这三项也就是大家必须要掌握的基本功。
 
-<img src="./README.assets/basic-english.jpg"
-    style="border-radius: 4px; box-shadow: rgb(229, 229, 229) 1px 1px 3px 2px; zoom: 50%;">
+<img src="./README.assets/basic-english.jpg" style="border-radius: 4px; box-shadow: rgb(229, 229, 229) 1px 1px 3px 2px; zoom: 67%;">
 
-此段笔记来源：[知乎：萌姐英语](https://www.zhihu.com/question/59148385/answer/1140437392)
-（略有修改）.
+此段笔记来源：[知乎：萌姐英语](https://www.zhihu.com/question/59148385/answer/1140437392)（略有修改）.
 
-### 2. 一张图告诉你英语该学什么
-此节的笔记来自 b 站视频：
 
-> [第 01 讲 一张图告诉你英语该怎么学 | 英语学习方法论](https://www.bilibili.com/video/BV1jE41157bX?t=1435)
 
-此处以视频中的一张图来总结整个视频中的内容
+## ▲ 一张图告诉你英语该学什么
 
-<img src="./README.assets/english-methodology.png" style="border-radius: 4px; width: 100%; box-shadow: rgb(229, 229, 229) 1px 1px 3px 2px; zoom: 67%;">
+此节的笔记来自 b 站视频：[第 01 讲 一张图告诉你英语该怎么学 | 英语学习方法论](https://www.bilibili.com/video/BV1jE41157bX?t=1435)
+
+一张截图总结整个视频中的内容
+
+<img src="./README.assets/english-methodology.png" style="border-radius: 4px; box-shadow: rgb(229, 229, 229) 1px 1px 3px 2px; zoom: 67%;">
 
 个人觉得可以总结为下图这样：
 
