@@ -636,6 +636,38 @@ both 表示 ~~"两者都。.."~~；either 表示 ~~"两者中任何一个都。.
 > | each | `/iːtʃ/` | Pronoun, determiner - 代词，限定词 | 每一个；每个 | 表示："每一个；每个"，<br />常用于描述一个群体中的个体。<br />也可以作为副词使用，表示“各自地；每个地”。 | each...of... （每一个...的） | Each student needs to bring their own supplies.<br />（每个学生都需要带自己的用品。） |
 > | every | `/ˈevri/` | Determiner - 限定词 | 每一个；每个 | 表示："每一个；每个" 的意思，<br />常用于描述一个群体中的所有成员。 | every...of... （每一个...的）; every...that... （每个...的） | Every employee is required to attend the meeting.<br />（每个员工都需要参加会议。） |
 
+#### 6.2.1 all、each、every 的意思
+all 代表或修饰三个及以上的人或物的全部，也可以表示不可数事物的全部、一切；each 是 "每个，各自" 的意思，用来强调含有三者及以上的群体中的每一个 "个体"；every也是 "每个，各自" 的意思，但是，every强调的是 "由个体组成的整体"。
+
+> **All** of us are fond of football. （我们都喜欢足球。）
+
+> **Each** of the children has got a gift on Christmas. （每一个孩子在圣诞节都得到了一件礼物。）
+
+> **Every one** in his class likes football.（他珧里的每一个人都喜欢足球。）即全班都喜欢足球。
+
+#### 6.2.2 all、each 和 every 在句子中的作用。
+##### (1) all 和 each 可以作主语
+
+##### (2) all 和 each 可以作宾语
+
+##### (3) all 和 each 可以作同位语
+
+##### (4) 只有 all 可以作表语
+
+##### (5) all、each 和 every 都可以作定语
+
+
+#### 6.2.3 all、each、every 在使用时应注意的事项
+##### (1) all 代替可数名词作主语时，谓语动词用复数形式，all 代替不可数名词作主语时，谓语动词用单数形式。
+##### (2) all 后接名词时，可以不用 of，后接代词时必须用 of。
+##### (3) each 和 every 有时可以互换，句意没有区别，只是说话人要强调的内容不同，如下面例 1。但有时，这两个词不可以互换，如下面例 2、例 3。
+##### (4) every 只能作定语，不能单独使用。
+##### (5) both 和 all 的区别：both 表示 "两者都..."，而 all 表示 "三者及以上都..."。 
+##### (6) 表示 "(三者以上)都不..." 时，不能用 all，而要用 none。用 all 和 not 构成的否定句所表示的意思是 "不都..."。
+
+
+
+
 ### 6.3 other, the other 和 another
 
 > #### ChatGPT:
