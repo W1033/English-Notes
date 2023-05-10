@@ -647,10 +647,21 @@ all 代表或修饰三个及以上的人或物的全部，也可以表示不可�
 
 #### 6.2.2 all、each 和 every 在句子中的作用。
 ##### (1) all 和 each 可以作主语
+> All he wants is a dictionary. （他想要的就是一本字典。）
+
+> Each of them has a chance to try.（他们每人都有试一次的机会。）
+ 
 
 ##### (2) all 和 each 可以作宾语
+> He gave us all he had.（他把他所有的东西都给我们了。）
+
+> He said he would talk to each of us separately. （他说他将分别跟我们每一个人谈话。）all 和 each 可以作同位语
+
 
 ##### (3) all 和 each 可以作同位语
+> They all agreedd to come.（他们都同意来。） 
+
+> They each sang a song at the party.（晚会上他们每人都唱了一首歌。）
 
 ##### (4) 只有 all 可以作表语
 
