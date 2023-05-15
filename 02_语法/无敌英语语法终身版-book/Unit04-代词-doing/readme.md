@@ -688,55 +688,27 @@ all 代表或修饰三个及以上的人或物的全部，也可以表示不可�
 > | the other | `/ði ˈʌðə(r)/` | Pronoun, determiner - 代词，限定词                    | 另一个；其他的     | 表示两个事物中的另一个，通常与“one”连用。                    | one...the other... （一个...另一个...） | One of the books is mine and the other is my sister's.<br />（其中一本书是我的，另一本是我姐姐的。） |
 > | another   | `/əˈnʌðə(r)/`  | Determiner, pronoun - 限定词，代词                    | 另一个；再一；又一 | 表示另一个或再一个，用于表示与已有的事物或人不同的新事物或人。 | another... （再一个...）                | I need another cup of coffee.<br />（我需要再来一杯咖啡      |
 
-### 6.4 many 和 much
 
-### 6.5 few, a few, little 和 a little
 
-### 6.6 some 和 any
+### 6.4 
 
-### 6.7 no 和 none
 
-### 6.8 one 和 ones
 
-### 6.9 复合不定代词
 
-## 7. 疑问代词
 
-### 7.1 who 和 whom
 
-### 7.2 whose
 
-### 7.3 what 和 which
 
-### 7.4 疑问代词 + ever
 
-### 7.5 who, what 和 which 在使用上应注意的问题
 
-## 8. 连接代词
 
-### 8.1 引导主语从句
 
-### 8.2 引导宾语从句
 
-### 8.3 引导表语从句
 
-### 8.4 who, whom, what, which + 不定式短语作句子的宾语
 
-### 8.5 和 ever 连用
 
-## 9. 关系代词
 
-### 9.1 who 的用法
 
-### 9.2 whom 的用法
-
-### 9.3 whose 的用法
-
-### 9.4 which 的用法
-
-### 9.5 that 的用法
-
-### 9.6 that 和 which 的比较
 
 ## 10 it 的用法
 it 属于代词，但是它的用法较广，这里集中加以说明：
