@@ -130,41 +130,59 @@ what 表示 "什么"，which 表示 "哪一个"，两个词都没有单、复数
 
 
 
-------------
-------------
-------------
-
-
-
 ## 8. 连接代词
-引导主语从句、宾语从句和表语从句的代词是连接代词。Who, whom, whose, what 和 which 以及它们的强调形式 whoever, whomever, whatever, whichever 都可以用作连接代词。连接代词不但起着把从句和主句连接在一起的作用，并且在从句中承担主语、宾语、表语、定语成分。连接代词还可以直接引导一个不定式短语作宾语。
+引导主语从句、宾语从句和表语从句的代词是连接代词^(1)^。Who, whom, whose, what 和 which 以及它们的强调形式 whoever, whomever, whatever, whichever 都可以用作连接代词。连接代词不但起着把从句和主句连接在一起的作用，并且在从句中承担主语、宾语、表语、定语成分。连接代词还可以直接引导一个不定式短语作宾语。
+- (1) 名词性从句包含：主语从句、宾语从句、表语从句、同位语从句。名词性从句的介绍见当前仓库：`../英语兔语法合集/P1 英语语法体系概述/readme.md` 
 
 ### 8.1 引导主语从句
-■ 1. What you have heard of is not true. （你听说的那件事不是真实的。）what 在从句中作 heard 宾语
-■ 2. Who will get the first place has not been known. （谁将赢得一等奖还不知道。）who 在从句中作主语
-■ 3. Which film will be on tonight is still unknown. （今晚上演哪部电影还不知道。）which 在从句中作定语，修饰 film
+> **What you have heard of** is not true. （你听说的那件事不是真实的。） what 在从句中作 heard of 的宾语
+
+> **Who will get the first place** has not been known. （谁将赢得一等奖还不知道。） who 在从句中作主语
+> 
+> - place `/pleɪs/` -n. 地方，场所。 -vt.放置，安排。
+>   + first/second place 第一/第二名.
+
+> **Which film will be on tonight** is still unknown. （今晚上演哪部电影还不知道。） which 在从句中作定语，修饰 film
 
 ### 8.2 引导宾语从句
-■ 1. Do you know whose car it is? （你知道这是谁的小汽车吗？）whose 在从句中作定语，修饰 car
-■ 2. Tell me which book is more interesting. （告诉我哪本书更有意思。）which 在从句中作定语，修饰 book
-■ 3. Have you informed your parents of what you will do in the vacation? （你跟父母说过你假期里要干什么了吗？） what 引导的从句作宾语，what 在从句中作 do 的宾语
+> Do you know **whose car it is**? （你知道这是谁的小汽车吗？） whose 在从句中作定语，修饰 car
+
+> Tell me **which book is more interesting**. （告诉我哪本书更有意思。） which 在从句中作定语，修饰 book
+
+> Have you informed your parents of **what you will do in the vacation**? （你跟父母说过你假期里要干什么了吗？） what 引导的从句作 of 的宾语，what 在从句中作 do 的宾语
 
 ### 8.3 引导表语从句
-■ 1. China is no longer what it used to be. （中国不再是她过去的样子了。）wha 傕从句中作表语
-■ 2. The question is who can help us right now. （问题是现在谁能来帮我们。）who 在从句中作主语
-■ 3. What we want to know is whose car it is. （我们想妾知道的是这是谁的车子。） whose 在从句中作定语修饰 car
+> China is no longer **what it used to be**. （中国不再是她过去的样子了。） what 在从句中作表语
+
+> The question is **who can help us right now**. （问题是现在谁能来帮我们。） who 在从句中作主语
+
+> What we want to know is **whose car it is**. （我们想妾知道的是这是谁的车子。） whose 在从句中作定语修饰 car
 
 ### 8.4 who, whom, what, which + 不定式短语作句子的宾语
-■ 1. Please tell us what to do tomorrow. （请告诉我们明天干什么。）what to do 作 tell 的宾语
-■ 2. I can't decide which to buy.・ （我不能决定买哪一个。）which to buy 作 decide 的宾语
-■ 3. They talked about whom to invite. （他们谈论要邀请谁。）whom to invite 作介词 about 的宾语
-■ 4. He didn't know who to ask for help. （他不知道找谁帮忙。）who to ask for help 作 know 的宾语
+> Please tell us **what to do tomorrow**. （请告诉我们明天干什么。） what to do 作 tell 的宾语
+
+> I can't decide **which to buy**. （我不能决定买哪一个。） which to buy 作 decide 的宾语
+
+> They talked about **whom to invite**. （他们谈论要邀请谁。） whom to invite 作介词 about 的宾语
+
+> He didn't know **who to ask for help**. （他不知道找谁帮忙。） who to ask for help 作 know 的宾语
 
 ### 8.5 和 ever 连用
 who, whom, what, which + ever 构成合成词：whoever, whomever, whatever, whichever, 引导主语从句或宾语从句，ever 起强调的作用，表示 "任何、一切"。
-■ 1. Whoever comes first will open the window. （不管谁最先到都要开窗户。） 
-■ 2. You can take whichever you like. （你可以拿走你喜欢的任何一个。）
-■ 3. Please give this book to whomever you meet in the classroom. （请把这本书交给你在教室里遇到的人，无论他是谁。）
+
+> **Whoever comes first** will open the window. （不管谁最先到都要开窗户。） 
+
+> You can take **whichever you like**. （你可以拿走你喜欢的任何一个。）
+
+> Please give this book to **whomever you meet in the classroom**. （请把这本书交给你在教室里遇到的人，无论他是谁。）
+
+
+
+
+------------
+------------
+------------
+
 
 
 
