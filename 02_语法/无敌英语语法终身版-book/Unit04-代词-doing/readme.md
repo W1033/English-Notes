@@ -130,19 +130,15 @@
 
 当 **一个代词在句中作主语时，要用主格形式 **；**作宾语时，要用宾格形式**。而在汉语中，“我、他、她、它、我们、他们” 在任何地方出现都不发生变化。
 
-> **She** is a good student.（她是一个好学生。）
-> *“她” 是句子主语，用主格形式的代词 she*
+> **She** is a good student.（她是一个好学生。） *“她” 是句子主语，用主格形式的代词 she*
 >
-> I can't help **her**. （我帮不了她。）
-> *“她” 是句子宾语，用宾格形式的代词 her*
+> I can't help **her**. （我帮不了她。） *“她” 是句子宾语，用宾格形式的代词 her*
 >
 > **注意**：对比例句可以发现，"她" 在句子中承担不同的成分，所以要选用不同的代词。
 
-> **I** want to know how to get to the post office. （我想知道怎么去邮局。）
-> *“我” 是句子主语，用主格形式的代词 I*
+> **I** want to know how to get to the post office. （我想知道怎么去邮局。） *“我” 是句子主语，用主格形式的代词 I*
 > 
-> Please show **me** how to get to the post office.（请告诉我怎么去邮局。）
-> *“我” 是句子宾语，用宾格形式的代词 me*
+> Please show **me** how to get to the post office.（请告诉我怎么去邮局。） *“我” 是句子宾语，用宾格形式的代词 me*
 
 #### (3) 第二人称 you，单数、复数、主格、宾格是同一个单词，使用时没有变化，要根据上下文判断它是单数还是复数。
 
@@ -220,7 +216,7 @@ we，you，they 有时并不指特定的人，而是用来泛指一般人。
 
 ### 2.1 物主代词的种类
 
-物主代词分为两类：**形容词性物主代词（又称物主形容词）** 和 **名词性物主代词（又称物主代词） **。
+物主代词分为两类：**形容词性物主代词（又称物主形容词）** 和 **名词性物主代词（又称物主代词）**。
 
 #### (1) 各类物主代词列表如下：
 
@@ -765,15 +761,12 @@ all 代表或修饰三个及以上的人或物的全部，也可以表示不可�
 ### 6.4 many 和 much
 many`/'mɛni/`[US] 和 much 是表示数量的代词，它们意思相同，表示 "许多"，在句子中都可以作主语和定语。不同点在于：many 只能用来代替或修饰可数名词；而 much 只能用来代替或修饰不可数名词。
 
-> **many** books 许多书
->
-> **many** students 许多学生
->
-> **much** money 许多钱 
->
-> **much** time 许多时间
+> | **many** books 许多书 | **many** students 许多学生 |
+> |---|---|
+> |**much** money 许多钱 |**much** time 许多时间|
 
 #### 6.4.1 作主语
+
 > **Many** of them will take part in the Spoken English Competition. （他们当中很多人要参加这次英语口语比赛。）
 
 > **Much** has to be done before the new experiment`/ɪkˈsperəmənt/` starts. （在新实验开始之前，还有许多工作要做。）
@@ -973,21 +966,11 @@ one 和 it 都可以代替前面提到的一个事物，以避免重复，但是
 ### 6.9 复合不定代词
 #### 6.9.1 由 every, some, any, no 分别与 body, one, thing 合成的代词称为复合不定代词（也叫合成代词）。其中，body 和 one 用来指人，而 thing 只 能用来指物。
 
-> everyone/everybody 每人，人人
-> 
-> someone/somebody 某人
-> 
-> anyone/anybody 任何人
-> 
-> no one/nobody 没人
-> 
-> everything 每件事，一切事
->
-> something 某事（物）
->
-> anything 任何事（物）
->
-> nohing 没有东西，事物
+> | everyone/everybody 每人，人人 | someone/somebody 某人 |
+> |---|---|
+> | anyone/anybody 任何人 | no one/nobody 没人 |
+> | everything 每件事，一切事 | something 某事（物） |
+> | anything 任何事（物） | nohing 没有东西，事物 |
 
 #### 6.9.2 复合不定代词的用法：这些代祠都作单数用，在句子中可以作主语、宾语和表语。
 ##### (1) 作主语。此时，其后的谓语动词都应为单数形式。

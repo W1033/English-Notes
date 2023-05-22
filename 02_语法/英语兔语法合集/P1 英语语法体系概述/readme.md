@@ -28,8 +28,7 @@ But grammar... Ah, it's a whole different story. You see plenty of people with g
 - **谓语 (predicate)**
   + predicate `/ˈpredɪkət/` -noun[countable].谓语
 
-<img src="./readme.assets/image-20220522150047720.png"
-    style="border-radius: 4px; width:auto;">
+<img src="./readme.assets/image-20220522150047720.png" style="border-radius: 4px; width: auto; zoom: 80%;">
 
 换句话说，几乎所有的英语句子结构都是 **主语 + 谓语**。你也许要说等等，不是 "主谓宾" 吗？别急，这个问题先放一放，你马上就知道怎么回事了. 这里的主语一般是人或物，不管抽象还是具体，这也很好理解。
 
@@ -234,7 +233,7 @@ the little white 就是主语 rabbit 的定语，而 a large 就是宾语 carrot
 
 总结一下就是 **主语、谓语动词、宾语、宾语补语、主语补语/表语、定语、状语、同谓语**。
 
-![image-20220522213642677](./readme.assets/image-20220522213642677.png)
+<img src="./readme.assets/image-20220522213642677.png" alt="image-20220522213642677" style="zoom:67%;" />
 
 英语兔我要再次强调，咱们直到现在所说的都是所谓**简单句 (Simple Sentences)**，说白了就是没法再拆成更多句子，可是我们说话写文章可不全是简单句一个接一个的说。
 
@@ -243,19 +242,19 @@ the little white 就是主语 rabbit 的定语，而 a large 就是宾语 carrot
 - compound  `/ˈkɑːmpaʊnd/` -n.复合物；混合物；化合物。-adj.复合的
 - complex `/kəmˈpleks/` -adj.复杂的。-n.复合体，综合体。
 
-**compound sentences** 说白了其实就是句子简单的叠加是并列关系，直接翻译为复合句，但是有的语法书上的术语是并列句。而
-
-**complex sentences** 说白了就是把一个句子套在另一个句子里，甚至一个句子套的句子还能再套一个句子，一直套下去，此处并不禁止套娃，这是一种从属关系。complex sentences 直接翻译为复杂句。
+**compound sentences** 说白了其实就是句子简单的叠加是并列关系，直接翻译为复合句，但是有的语法书上的术语是并列句。而 **complex sentences** 说白了就是把一个句子套在另一个句子里，甚至一个句子套的句子还能再套一个句子，一直套下去，此处并不禁止套娃，这是一种从属关系。complex sentences 直接翻译为复杂句。
 
 在这里以一个句子套另一个句子，在英语语法上分别叫做 **主句 (Main Clause)** 和 **从句 (Subordinate Clause)**。
 
-- subordinate `/sə'bɔdɪnet/` --adj.(1)下级的; 从属的; (2)次要的
+- clause `/klɔːz/` -n.从句；条款。
 
-![image-20220522214654876](./readme.assets/image-20220522214654876.png)
+- subordinate `/səˈbɔːrdɪnət/` -adj. 次要的；下级的。-n. 下级，下属；部属；从属。-vt.使从属于，使处于次要地位。
+
+<img src="./readme.assets/image-20220522214654876.png" alt="image-20220522214654876" style="zoom:67%;" />
 
 从句说白了就是把简单句修改一下来充当另一个句子的句子成分。
 
-![image-20220522215436986](./readme.assets/image-20220522215436986.png)
+<img src="./readme.assets/image-20220522215436986.png" alt="image-20220522215436986" style="zoom: 67%;" />
 
 比如我们修改一个简单句，它就可以充当另一个句子的主语 -- 这就是主语从句。
 
@@ -269,17 +268,17 @@ the little white 就是主语 rabbit 的定语，而 a large 就是宾语 carrot
 
 另外，我们修改一个简单从句，它就可以做定语、状语，很显然那些就是定语从句、状语从句。
 
-![image-20220525141146447](readme.assets/image-20220525141146447.png)
+<img src="readme.assets/image-20220525141146447.png" alt="image-20220525141146447" style="zoom:80%;" />
 
 英语这种套娃的从句和咱们中文习惯区别挺大，所以是英语语法难点之一。之后英语兔我会专门做一个视频合集细讲英语从句。
 
 以上说了英语的句子成分和造句，但是现在问题来了，两个句子也许句子组成的方式相同，比如都是：主语 + 谓语动词 + 宾语，可是句中包含的词的类型并不一定相同；比如:
 
-> ◆ The rabbit ate a carrot.
+> ◆ The rabbit ate`/eɪt/ ` a carrot.   兔子吃了一根胡萝卜。
 
-> ◆ he saw something over there.
+> ◆ He saw something over there.  他看见那边有什么东西。
 
-![image-20220525142647726](readme.assets/image-20220525142647726.png)
+<img src="readme.assets/image-20220525142647726.png" alt="image-20220525142647726" style="zoom:80%;" />
 
 很显然这两句话 "句型" 相同，但是包含的词却不太一样。也就是说，同一类句子成分里可能有不同的词类，这概念其实咱们中文也有。
 
