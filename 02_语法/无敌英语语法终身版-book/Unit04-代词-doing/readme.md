@@ -351,107 +351,110 @@ we，you，they 有时并不指特定的人，而是用来泛指一般人。
 要表示 "自己的..." 时，要用形容词性的物质代词 (my, your 等)和 own 一起表示。
 > This is **my own** car. 这是我自己的车。 *这里不能用 myself 表示我自己*
 
+
+
 ## 4. 相互代词
 
-> **Question**： Hi chat，请严谨的定义：英语的相互代词。
+<p style="background-color:#fdeed6; border-radius:6px; padding:10px;"><strong style="color:#f79c21;">提示：</strong>此小节笔记来自《薄冰英语语法》。</p>
+
+### 4.1 相互代词的形式
+
+相互代词是表示相互关系的代词。它们的形式如下：
+
+| 通格（主格、宾格）        | 属格（genitive case）            | 区别                           | 提示                         |
+| ------------------------- | -------------------------------- | ------------------------------ | ---------------------------- |
+| each other （彼此，互相） | each other's （彼此的，互相的）  | ~~说明两者之间的相互关系~~     | 在实际的应用中，二者可以互换 |
+| one another（彼此，互相） | one another's （彼此的，互相的） | ~~说明三者以上相互之间的关系~~ | 在实际的应用中，二者可以互换 |
+
+- another `/əˈnʌðər/` -pron. 另一个；再一个。 -adj. 另一个；再一个。
+- genitive `/'dʒɛnətɪv/` -adj. [语]属格的。 -n. 属格。
+
+### 4.2 相互代词的含义
+
+相互代词表示相互关系，它所指代的名词或代词必须是复形或两个以上。
+
+> 注：上面这句话 chatGPT 解释为：
 >
-> **ChatGPT**: 
->
-> 英语的相互代词是一类用于表示两个或多个人或物之间相互关系的代词。相互代词在语法上指代同一类人或物，并且互相交换位置时意义保持不变。它们常用于描述互动、共享或相互影响的情况。在英语中，常见的相互代词包括 "each other" 和 "one another"。这些相互代词通常用于代替主语或宾语，并且在句子中可以承担主语、宾语、表语等多种语法角色。
->
-> 例如，以下句子中使用了相互代词：
->
-> > They love each other.（他们彼此相爱。）
->
-> > We help one another.（我们互相帮助。）
->
-> > The two teams compete against each other.（这两个队伍相互竞争。）
->
-> 这些句子中的相互代词 "each other" 和 "one another" 表示人或物之间的相互关系，指代的是同一类人或物，同时它们的位置可以互换而不改变句子的意思。
->
-> 
->
-> **Question**: 相互代词  each other 和 one another 可以用作句子的主语吗？
->
-> **ChatGPT**: 
->
-> 是的，相互代词 "each other" 和 "one another" 可以用作句子的主语。当使用相互代词作为主语时，它们表示多个人或物之间的相互关系或相互动作。这种结构常用于描述群体中的互动或共同行为。以下是一些示例：
->
-> > Each other is learning from their mistakes.（彼此从错误中学习。）
-> >
-> > 注："each other" 是句子的主语。这个句子表达的是一个共同的行为或相互关系，即彼此从错误中学习。请注意，这种用法比较罕见，更常见的做法是使用复数主语。以下是修正后的例子：
-> >
-> > **They are learning from their mistakes.**
-> >
-> >  在这个修正后的例子中，"they" 是主语，表示多个人或物，而不是使用相互代词作为主语。
->
-> > One another helps to build a strong team.（互相帮助以建立一个强大的团队。）
-> >
-> > 注：这个句子表达的是团队成员之间相互帮助来建立强大团队的意思。"One another" 引导整个句子的主题，表示团队成员之间的相互关系。修正后的例子应为：
-> >
-> > **They help one another to build a strong team.**
-> >
-> > 在这个修正后的例子中，"they" 是主语，"one another" 为宾语，不定式短语 to build a strong team 为目的状语，强调团队成员之间的互助关系。
->
-> 在这些例句中，"each other" 和 "one another" 分别作为句子的主语，表示多个人或物之间的相互关系或相互动作。请注意，当相互代词用作主语时，动词通常采用复数形式来与其保持一致。
->
-> 
->
-> **Question**: 相互代词可不可以作句子的主语呢？
->
-> **ChatGPT**: 
->
-> 相互代词通常不会直接作为句子的主语出现。它们更常见地用作句子的宾语，表示相互的关系或行为。作为宾语，它们接受动作的影响。
->
-> 然而，有一种情况下，相互代词可以间接地用作句子的主语。这发生在被动语态的句子中，当动作的承受者与执行者相互关联时。在这种情况下，相互代词可以作为被动句中的主语。例如：
->
-> > Each other is loved by them.（他们彼此相爱。）
-> > - 在这个例子中，"each other" 作为被动句的主语，表示彼此之间被他们所爱。
->
-> > One another is supported by the team members.（这个团队的成员互相支持。）
-> >
-> > 被动语态的构成为 "be + 过去分词"，在这个句子中， "is" 是 "be" 的现在时形式，说明这是一个现在时的被动语态。句子的主语 "one another" 是指两个或多个人之间相互支持，而谓语 "is supported" 表示他们正在接受其他人的支持。因此，整个句子的含义是 "一起相互支持的人得到了团队成员的支持" 。
-> >
-> > - 宾语：by the team members.
->
->
-> 需要注意的是，这种结构在实际使用中并不常见，更常见的做法是使用主动句来表达相互关系。相互代词通常更适合作为动词的宾语出现，表示彼此之间的相互关系或行为。
+> 相互代词用于表示两个或更多个人或物之间的相互关系。当我们使用相互代词时，它所指代的名词或代词必须是复数形式或包含两个或更多个人或物。也就是说，相互代词所代表的实体必须存在一种相互性质或相互作用。
+
+> (1) Mr.`/ˈmɪstər/` and Mrs.`/ˈmɪsɪz/` Smith buy expensive presents for **each other**.  史密斯夫妇相互给对方买了贵重的礼物。
+
+> (2) They looked at **one another**. 他们相互对望。
+
+相互代词与反身代词相似，都与主语形成互指关系，但其意义却存在重大差别。如：
+> (3) Bill and Helen blamed **themselves**. 比尔和海伦责怪他们自己。
+
+> (4) Bill and Helen blamed **each other**. 比尔和海伦彼此责怪对方。
+
+在当代英语中，each other 和 one another 在用法上没有什么区别。虽然按照传统语法指二者时用 each other, 指二者以上时用 one another, 但是在语言的实际运用时却很少有这种界线。一般认为，它们在文体上却存在一些差别： each other 多用于非正式文体，而 one another 则多用于较正式文体。
+
+普通动词在表示相互关系时要求用相互代词。如：
+> (5) I think we have misunderstood **each other**. 我认为我们彼此误解了。
+
+有些动词本身就含有相互的意义，它们可以用相互代词，也可以不用。如：
+> (6) Anna and Bob met (**each other**) in Cairo`/ˈkaɪro/`. 安娜和鲍勃在开罗（彼此）见面了。
 
 
+### 4.3 相互代词的功(/作)用
+相且代词在句中可用作宾语、定语等。
 
-相互代词表示一个动作在它所涉及的各个对象之间是相互存在的。
+#### 4.3.1 相互代词宾格用作宾语。如：
 
-> Tom and Mary help **each other**.  汤姆和玛丽互相帮助。 *"帮助" 这个动作存在于汤姆和玛丽两人之间*
+> (1) You and I understand **each other** perfectly. 你我彼此很了解。
 
-### 4.1 相互代词的种类
+> (2) They have been separated from **one another** a long time. 他们分手很久了。
 
-| 通格（主格、宾格）                     | 所有格        | 区别                       | 提示                         |
-| -------------------------------------- | ------------- | -------------------------- | ---------------------------- |
-| each other （彼此，互相）              | each other's  | 说明两者之间的相互关系     | 在实际的应用中，二者可以互换 |
-| one another` /əˈnʌðər/` （彼此，互相） | one another's | 说明三者以上相互之间的关系 | 在实际的应用中，二者可以互换 |
+有时 each other 和 one another 用在同句中，以避免重复。如：
 
-### 4.2 相互代词的作用
+> (3) It seems so pathetic that, if you saw **one another** in the street, you wouldn't recognize **each other**. 境况是如此悲惨，你们如在街上彼此相见，也会彼此不相认的。
+> - pathetic `/pəˈθetɪk/` -adj.可怜的；悲惨的。
 
-#### (1) 相互代词在句子中只可以作宾语。
+> *注： 下面几个示例来自无敌英语语法*：
+>
 > The two sisters encourage **each other** and help **each other**.  两姐妹互相鼓励，互相帮助。
-
+>
 > We study in the same college and often see **each other**.  我们在同一所大学学习， 彼此经常见面。
-
+>
 > Jack and Jane`/dʒeɪn/` gave **one another/each other** a Christmas present last week.  杰克和珍妮上周互赠了圣诞节礼物。
-
+>
 > They are fond of **one another**.  他们彼此都很喜欢对方。 *one another 作介词 of 的宾语*
 >
 > - fond `/fɒnd $ fɑːnd/`  -adj.喜欢的；温柔的；宠爱的
 
-#### (2) 相互代词的所有格在句子中只可以作定语
+#### 4.3.2 相互代词属格（只）用作定语。如：
+
+> (4) We have always maintained that countries should respect **each other's** sovereignty and territorial integrity. 我们一贯主张各国之间应当互相尊重主权和领土的完整。
+> - sovereignty `/ˈsɑːvrənti/` -n. 主权，统治权。
+> - territorial `/ˌterəˈtɔːriəl/` -adj. 领土的，领地的。 -n. 领地
+> - integrity `/ɪnˈteɡrəti/` -n. 正直；诚实；完整，完全。
+
+> (5) They looked into **each other's** eyes for a silentmoment. 他们彼此一时相对无言。
+
+> *注： 下面几个示例来自无敌英语语法*：
+>
 > The students are correcting **each other's** mistakes in their papers. 学生们正在互相改正卷子上的错误。
-
+>
 > We should study **one another's** strong points. 我们应该学习彼此的长处。
-
+>
 > They have forgotten **one another's** names. 他们忘记了彼此的姓名。
 >
 > - forgotten `/fəˈɡɒtn $ fərˈɡɑːtn/ ` 
-> -  forget ` /fəˈɡet/ ` -vt&vi.忘记。(时态：forgot，forgotten)
+> - forget ` /fəˈɡet/ ` -vt&vi.忘记。(时态：forgot，forgotten)
+
+有时亦可用 each others'（与 each other's 无区别）。如：
+
+> (6) Last year we visited **each others'** capitals.  去年，我们互访了对方的首都。
+
+#### 4.3.3 each 和 other 可分开使用。如：
+
+> (7) **Each** tried to persuade the **other** to stay at home. 两人彼此都劝说对方留在家里。(each 在此当然是主格，other 则仍是宾格）
+> - persuade `/pərˈsweɪd/` -vt&vi. 说服，劝告。
+
+> (8) **Each** of the twins wanted to know what the **other** was doing. 这对挛生兄弟都想知道对方在干什么。
+
+
+
+
 
 ## 5. 指示代词
 

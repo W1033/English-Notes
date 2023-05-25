@@ -1,126 +1,46 @@
-## 8. 连接代词
-引导主语从句、宾语从句和表语从句的代词是连接代词^(1)^。Who, whom, whose, what 和 which 以及它们的强调形式 whoever, whomever, whatever, whichever 都可以用作连接代词。连接代词不但起着把从句和主句连接在一起的作用，并且在从句中承担主语、宾语、表语、定语成分。连接代词还可以直接引导一个不定式短语作宾语。
-- (1) 名词性从句包含：主语从句、宾语从句、表语从句、同位语从句。名词性从句的介绍见当前仓库：`../英语兔语法合集/P1 英语语法体系概述/readme.md` 
 
-### 8.1 引导主语从句
-> **What you have heard of** is not true. （你听说的那件事不是真实的。） what 在从句中作 heard of 的宾语
+在当代英语中，each other 和 one another 在用法上没有什么区别。虽然按照传统语法指二者时用 each other, 指二者以上时用 one another, 但是在语言的实际运用时却很少有这种界线。一般认为，它们在文体上却存在一些差别： each other 多用于非正式文体，而 one another 则多用于较正式文体。
 
-> **Who will get the first place** has not been known. （谁将赢得一等奖还不知道。） who 在从句中作主语
-> 
-> - place `/pleɪs/` -n. 地方，场所。 -vt.放置，安排。
->   + first/second place 第一/第二名.
+普通动词在表示相互关系时要求用相互代词。如：
+> (5) I think we have misunderstood **each other**. 我认为我们彼此误解了。
 
-> **Which film will be on tonight** is still unknown. （今晚上演哪部电影还不知道。） which 在从句中作定语，修饰 film
-
-### 8.2 引导宾语从句
-> Do you know **whose car it is**? （你知道这是谁的小汽车吗？） whose 在从句中作定语，修饰 car
-
-> Tell me **which book is more interesting**. （告诉我哪本书更有意思。） which 在从句中作定语，修饰 book
-
-> Have you informed your parents of **what you will do in the vacation**? （你跟父母说过你假期里要干什么了吗？） what 引导的从句作 of 的宾语，what 在从句中作 do 的宾语
-
-### 8.3 引导表语从句
-> China is no longer **what it used to be**. （中国不再是她过去的样子了。） what 在从句中作表语
-
-> The question is **who can help us right now**. （问题是现在谁能来帮我们。） who 在从句中作主语
-
-> What we want to know is **whose car it is**. （我们想妾知道的是这是谁的车子。） whose 在从句中作定语修饰 car
-
-### 8.4 who, whom, what, which + 不定式短语作句子的宾语
-> Please tell us **what to do tomorrow**. （请告诉我们明天干什么。） what to do 作 tell 的宾语
-
-> I can't decide **which to buy**. （我不能决定买哪一个。） which to buy 作 decide 的宾语
-
-> They talked about **whom to invite**. （他们谈论要邀请谁。） whom to invite 作介词 about 的宾语
-
-> He didn't know **who to ask for help**. （他不知道找谁帮忙。） who to ask for help 作 know 的宾语
-
-### 8.5 和 ever 连用
-who, whom, what, which + ever 构成合成词：whoever, whomever, whatever, whichever, 引导主语从句或宾语从句，ever 起强调的作用，表示 "任何、一切"。
-
-> **Whoever comes first** will open the window. （不管谁最先到都要开窗户。） 
-
-> You can take **whichever you like**. （你可以拿走你喜欢的任何一个。）
-
-> Please give this book to **whomever you meet in the classroom**. （请把这本书交给你在教室里遇到的人，无论他是谁。）
+有些动词本身就含有相互的意义，它们可以用相互代词，也可以不用。如：
+> (6) Anna and Bob met (**each other**) in Cairo`/ˈkaɪro/`. 安娜和鲍勃在开罗（彼此）见面了。
 
 
+### 4.3 相互代词的功(/作)用
+相且代词在句中可用作宾语、定语等。
 
-## 9. 关系代词
-引导定语从句的代词叫做关系代词。关系代词有 5 个：**who, whom, whose, which, that**。 关系代词引导一个定语从句，修饰它前面的一个名词或代词（which 还可以修饰整个句子），同时，还要在从句中作**主语**、**宾语**、**表语**或**定语**。**被它修饰的名词、代词或句子叫做先行词**。
+#### 4.3.1 相互代词宾格用作宾研。如：
 
-> Do you know the girl who is talking with our English teacher? （你认识那个正在且艮我们英语老师说话的女孩吗？） the 
-girl 是先行词，who 引导一个定语从句，说明是哪一个 girl。同时， who 在从句中作主语，替代 the girl
+> (1) You and I understand **each other** perfectly. 你我彼此很了解。
 
-> This is the book which I bought yesterday.（这就是我昨天买的书。） the book 是先行词，which 引导定语从句，说明是哪一本
-书。同时， which 在从句中作 bought 的宾语，替代 the book
+> (2) They have been separated from **one another** a long time. 他们分手很久了。
 
+有时 each other 和 one another 用在同句中，以避免重复。如：
 
-### 9.1 who 的用法
-who 在句子中指人，并在定语从句中作主语。
->That's the man **who** wants to see you.（那就是想见你的人。）
+> (3) It seems so pathetic that, if you saw **one another** in the street, you wouldn't recognize **each other**. 境况是如此悲惨，你们如在街上彼此相见，也会彼此不相认的。
+> - pathetic `/pəˈθetɪk/` -adj.可怜的；悲惨的。
 
-> The girl **who** is standing at the door is our monitor. （站在门口的那个女孩是我们班长。）
+#### 4.3.2 相互代词属格用作定语。如：
 
-### 9.2 whom 的用法
-whom 在句子中指人，在定语从句中作宾语。whom 可以省略。
-> That's the man **(whom) you want to see**.（那就是你想见的人。）
+> (4) We have always maintained that countries should respect **each other's** sovereignty and territorial integrity. 我们一贯主张各国之间应当互相尊重主权和领土的完整。
+> - sovereignty `/ˈsɑːvrənti/` -n. 主权，统治权。
+> - territorial `/ˌterəˈtɔːriəl/` -adj. 领土的，领地的。 -n. 领地
+> - integrity `/ɪnˈteɡrəti/` -n. 正直；诚实；完整，完全。
 
-> Is he the man **(whom) you just talked about**? （他就是你们刚才谈到的那个人吗？）
+> (5) They looked into **each other's** eyes for a silentmoment. 他们彼此一时相对无言。
 
-### 9.3 whose 的用法
-> This is the boy **whose** father is our Chinese teacher. （这就是那个男孩，他爸爸是我们的中文老师。）
+有时亦可用 each others'（与 each other's 无区别）。如：
 
-> In this town, there is a college **whose** students are all women. （在这个城镇里，有一所全是女性的大学。）
+> (6) Last year we visited **each others'** capitals.  去年，我们互访了对方的首都。
 
-### 9.4 which 的用法
-which 在句子中只能指事物或动物。在定语从句中，既可以作主语，也可以作宾语。作宾语时可以省略。
-> He told us a story **which made us very excited**. （他给我们讲了一个故事，令我们十分激动。）
+#### 4.3.3 each 和 other 可分开使用。如：
 
-> That is the dictionary **(which) I borrowed from her**. （那就是我跟她借的字典。）
+> (7) **Each** tried to persuade the **other** to stay at home. 两人彼此都劝说对方留在家里。(each 在此当然是主格，other 则仍是宾格）
+> - persuade `/pərˈsweɪd/` -vt&vi. 说服，劝告。
 
-有时，先行词不是一个词，而是前面整个句子。此时，which 代替前面整个句子。例如：
-
-> He said he had finished all his homework, **which** was not true. （他说他已经完成了所有的作业，这不是真的。）
-
-> He was late again, **which** was annoying`/ə'nɔɪɪŋ/`.（他又迟到了，真令人讨厌。）
-
-### 9.5 that 的用法
-that 既可以指人，又可以指事物或动物。也就是说，that 在句子中可以替换 who，也可以替换 which。
-> Is he the man **who/that** gave you a lot of help yesterday? （他就是昨天给你很多帮助的那个人吗？）
-
-> Who is the girl **whom/that** you talked to just now? （刚才你与之谈话的那个女孩是谁？）
-
-> Here is the book **which/that** I told you about the other day. （这就是我前几天跟你说过的那本书。）
-
-### 9.6 that 和 which 的比较
-that 和 which 指物时，一般可以随便使用。但当先行词处于下列各种情况时，只能用 that, 不能用 which。
-
-#### (1) 在形容词最高级后
-> This is the **most interesting** film **that** I have ever seen. （这是我所看过的最有意思的电影。）
-
-> The **most important** thing **that** he asked me to do is to practice more. （他要我做的最重要的事情是多实践。）
-
-#### (2) 在序数词后
-> **The first** thing (**that**) we should discuss is this. （我们要讨论的第一件事就是这个。）
-
-> It is **the second** bike **that** I have lost. （这是我丢的第二辆自行车。）
-
-#### (3) 在大部分不定代词（如 every, any, no, little, few, much 等）所修饰的先行词后，或先行词本身是 all, everything, something, anything, nothing 时。
-
-> He said he was really satisfied with **all that** I had done. （他说他对我所做的一切都很满意。）
-
-> There is **nothing that** I can do for you. （我已经没什么可为你做的了。）
-
-> There is not **much that** we can do now. （我们现在能做的事不多。）
-
-#### (4) 在 only 修饰的先行词后
-> English is the **only** foreign language **that** he has studied. （英语是他学过的惟一一门外语。）
-
-> This is the **only** thing **that** he promised me. （这是他答应我的惟一的一件事。）
-
-#### (5) 当先行词里既有人又有物时 ：
-> The **heroes and events that** are described in this book are taken from history.（这本书里所描述的英雄人物和事件都来自于史实。）
+> (8) **Each** of the twins wanted to know what the **other** was doing. 这对挛生兄弟都想知道对方在干什么。
 
 
 
@@ -133,3 +53,77 @@ that 和 which 指物时，一般可以随便使用。但当先行词处于下�
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## ChatGPT
+
+**Question**： Hi chat，请严谨的定义：英语的相互代词。
+
+**ChatGPT**: 
+
+相互代词用于表示人或物之间的相互关系，具有以下特点：指代同一类人或物，互相交换位置时意义保持不变。常用于描述互动、共享或相互影响的情况。英语中常见的相互代词有 "each other" 和 "one another"。它们可以代替主语、宾语或表语，在句子中承担不同的语法角色。
+
+例如，以下句子中使用了相互代词：
+
+> They love each other.（他们彼此相爱。）
+
+> We help one another.（我们互相帮助。）
+
+> The two teams compete against each other.（这两个队伍相互竞争。）
+
+这些句子中的相互代词 "each other" 和 "one another" 表示人或物之间的相互关系，指代的是同一类人或物，同时它们的位置可以互换而不改变句子的意思。
+
+**Question**: 相互代词  each other 和 one another 可以用作句子的主语吗？
+
+**ChatGPT**: 
+
+是的，相互代词 "each other" 和 "one another" 可以用作句子的主语。当使用相互代词作为主语时，它们表示多个人或物之间的相互关系或相互动作。这种结构常用于描述群体中的互动或共同行为。以下是一些示例：
+
+> Each other is learning from their mistakes.（彼此从错误中学习。）
+>
+> 注："each other" 是句子的主语。这个句子表达的是一个共同的行为或相互关系，即彼此从错误中学习。请注意，这种用法比较罕见，更常见的做法是使用复数主语。以下是修正后的例子：
+>
+> **They are learning from their mistakes.**
+>
+> 在这个修正后的例子中，"they" 是主语，表示多个人或物，而不是使用相互代词作为主语。
+
+> One another helps to build a strong team.（互相帮助以建立一个强大的团队。）
+>
+> 注：这个句子表达的是团队成员之间相互帮助来建立强大团队的意思。"One another" 引导整个句子的主题，表示团队成员之间的相互关系。修正后的例子应为：
+>
+> **They help one another to build a strong team.**
+>
+> 在这个修正后的例子中，"they" 是主语，"one another" 为宾语，不定式短语 to build a strong team 为目的状语，强调团队成员之间的互助关系。
+
+在这些例句中，"each other" 和 "one another" 分别作为句子的主语，表示多个人或物之间的相互关系或相互动作。请注意，当相互代词用作主语时，动词通常采用复数形式来与其保持一致。
+
+**Question**: 相互代词可不可以作句子的主语呢？
+
+**ChatGPT**: 
+
+相互代词通常不会直接作为句子的主语出现。它们更常见地用作句子的宾语，表示相互的关系或行为。作为宾语，它们接受动作的影响。
+
+然而，有一种情况下，相互代词可以间接地用作句子的主语。这发生在被动语态的句子中，当动作的承受者与执行者相互关联时。在这种情况下，相互代词可以作为被动句中的主语。例如：
+
+> Each other is loved by them.（他们彼此相爱。）
+>
+> - 在这个例子中，"each other" 作为被动句的主语，表示彼此之间被他们所爱。
+
+> One another is supported by the team members.（这个团队的成员互相支持。）
+>
+> 被动语态的构成为 "be + 过去分词"，在这个句子中， "is" 是 "be" 的现在时形式，说明这是一个现在时的被动语态。句子的主语 "one another" 是指两个或多个人之间相互支持，而谓语 "is supported" 表示他们正在接受其他人的支持。因此，整个句子的含义是 "一起相互支持的人得到了团队成员的支持" 。
+>
+> - 宾语：by the team members.
+
+需要注意的是，这种结构在实际使用中并不常见，更常见的做法是使用主动句来表达相互关系。相互代词通常更适合作为动词的宾语出现，表示彼此之间的相互关系或行为。
