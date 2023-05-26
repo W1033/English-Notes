@@ -6,55 +6,24 @@
 
 > 全文提示：单词右上角红色的星号 ($\color {red}{^*}$) 代表为生词.
 
-### series `/'sɪəriːz/` 
-**(1) noun (plural series) 系列，连续；丛书；[电] 串联；[数] 级数 **
-- There's been **a whole series of** accidents on this road. 这条路上发生了一连串的交通事故.
-- Staff will hold a **series of** meetings over the next few weeks. 接下来的几周里，员工将召开一系列会议.
-- a new comedy/'kɒmɪdɪ/(n. 喜剧；喜剧片，喜剧节目) series. 新的喜剧系列节目.
-- a **series of** articles on community care`/kɛr/`. 有关社区关怀的一系列文章.
-- a science fiction`/ˈfɪkʃən/`(n. 小说；虚构的事) series. 科幻小说系列
-- a **series of** laws against discrimination. 反对歧视的一系列法规.
-- The area`/'ɛrɪə/` is linked by a series of canals (`/kəˈnæl/` n. 运河). 这一地区由几条运河连接起来.
+series `/'sɪəriːz/`  -n. 系列，连续；丛书；[电]串联；[数]级数
 
-### medium `/'miːdɪəm/`
+medium `/'miːdɪəm/` -n. 媒体，媒介；中间物。-adj. 中等的；中间的。
 
-**(1) adj. 中等的 **
-- What size shirt does he wear - small, medium or large? 他穿多大尺码的衬衫 - 小号、中号还是大号？
-
-**(of) medium height/length/build**   
-- She is of medium height. 她中等身材。  
-- You can say they are of average height, they are of medium height. 你可以说他们是普通身高，他们是中等身高。
-- hair of medium length. 中等长短的头发。
-- Fry the onions/'ʌnjən/over a **medium heat** until they are golden. 用中火把洋葱炸到金黄色。
-
-** 当想表达某人的技能或能力不高也不低时用 average, 不用 medium.**
-- students of average ability (NOT students of medium ability) 能力一般的学生。
-
-**(2) noun 媒介 (plural media/'miːdɪə/or mediums) [countable]**
-- Advertising is a powerful medium. 广告是具有强大影响力的传播媒介。
-
-
-### carton `/'kɑːt (ə) n/`
-**(1) noun [countable] 纸盒；塑料盒；包装箱 **
-
-**carton of**
-- a carton of fruit juice 一盒果汁
-- a milk carton 牛奶盒
-- a carton of cigarettes 一条香烟
+carton `/'kɑːt (ə) n/` -n. 硬纸盒；纸板箱。
 
 
 
 
 
-## Content
 
-英语名词分为 ** 可数 ** 和 ** 不可数 ** 两大类，这是中文里没有的概念. 
+英语名词分为 **可数 ** 和 **不可数** 两大类，这是中文里没有的概念. 
 
 可数名词复数形式的构成 及 可数名词和不可数名词的使用规则，应作为本单元的重点. 
 
-### 1. 名词的分类
+## 1. 名词的分类
 
-英语的名词 ** 根据它所代表事物的特点 ** 分为两大类：** 专有名词 ** 和 ** 普通名词 **. 
+英语的名词 **根据它所代表事物的特点 **分为两大类：**专有名词** 和 **普通名词**. 
 
 <table>
     <tr style="font-weight:bold; text-align:center;">
@@ -91,8 +60,7 @@
         <td>health 健康，<br> power 能量 </td>
     </tr>
 </table>
-
-#### 1.1 专有名词：
+### 1.1 专有名词
 
 专有名词是 **个人 **、**机构 **、**地方 **、**组织 ** 等专用的名称. 
 
@@ -102,13 +70,13 @@
 
 使用专有名词时必须注意：
 
-##### 1.1.1 专有名词的第一个字母必须大写.
+#### 1.1.1 专有名词的第一个字母必须大写.
 
-##### 1.1.2 一个专有名词前不加定冠词 the. 如:
+#### 1.1.2 一个专有名词前不加定冠词 the. 如:
 | China | Jack | Africa | France | Asia |
 | --- | --- | --- | --- | --- |
 
-##### 1.1.3 由几个普通单词构成的专有名词前要加定冠词 the (但是 the 不大写).
+#### 1.1.3 由几个普通单词构成的专有名词前要加定冠词 the (但是 the 不大写).
 > ◆ **the** People’s Republic of China 中华人民共和国
 
 > ◆ **the** United Nations 联合国
@@ -117,14 +85,14 @@
 
 这里的 people (人民), republic (共和国）, united (联合的), nation (国家), great (大的), wall (墙) 都是普通单词. 
 
-#### 1.2 普通名词
+### 1.2 普通名词
 普通名词是一类人、一类事物、一类物质或是抽象槪念共有的名称. 
 
-普通名词又可分为 ** 个体名词 **、** 集体名词 **、** 物质名词 ** 和 ** 抽象名词 **. 
+普通名词又可分为 **个体名词**、**集体名词**、**物质名词** 和 **抽象名词**. 
 
-其中，个体名词和集体名词属于 ** 可数名词 **；物质名词和抽象名词属于 ** 不可数名词 **. 
+其中，个体名词和集体名词属于 **可数名词**；物质名词和抽象名词属于 **不可数名词**. 
 
-##### 1.2.1 个体名词：
+#### 1.2.1 个体名词：
 
 表示某一类人或物的个体.
 
@@ -134,7 +102,7 @@
 | city - 城市  | lake - 胡泊  | tree - 树  |
 | astronaut`/ˈæstrənɔːt/` - 宇航员  | | |
 
-** 注意:** 个体名词是可数名词，有单、复数之分。例如：(额外补充，非书本内容)
+**注意:** 个体名词是可数名词，有单、复数之分。例如：(额外补充，非书本内容)
 
 > ◆ I’m just a country **boy**. 我不过是个乡下人。
 > 
@@ -166,7 +134,7 @@
 >   - Examples of this abound in her book. 这样的例子在她书中比比皆是.
 >   - **abound with/in** something. 富于，盛产
 >       + The forests abound with deer, birds, and squirrels`/ˈskwɜːrəl/`. 森林里有许许多多的鹿，鸟和松鼠.
-##### 1.2.2 集体名词:
+#### 1.2.2 集体名词:
 
 表示由若干个个体组成的集合体.
 
@@ -186,7 +154,7 @@
 >
 > I'd like to thank a few people. 我要感谢几个人。
 
-##### 1.2.3 物质名词:
+#### 1.2.3 物质名词:
 
 表示无法分为个体的物质.
 
@@ -195,7 +163,7 @@
 | wood - 木材 | cloth - 布 |ice - 冰 | cheese  - 奶酪 |
 | coal - 煤 | cotton - 棉花 | ink - 墨水 | oil - 油 |
 
-##### 1.2.4 抽象名词: 
+#### 1.2.4 抽象名词: 
 
 表示性质，行为，状态，感情等抽象概念.
 
@@ -221,13 +189,13 @@
 | furniture - 家具 | information - 信息 | |
 
 
-### 2. 名词的数
+## 2. 名词的数
 个体名词和集体名词是可数名词，有单数、复数之分。 一般情况下，可数名词词尾加 S 构成其复数形式。由于这是中文里没有的概念，在学习时需要特别注意。
 
-#### 2.1 名词复数形式的构成 
+### 2.1 名词复数形式的构成 
 多数名词的复数形式是有规则的变化，即直接在词尾加 s，但有些名次的变化是不规则的，需要记清。
 
-##### 2.1.1 有规则的变化
+#### 2.1.1 有规则的变化
 <table>
     <tr>
         <th > 情况 </th>
@@ -283,7 +251,7 @@
 </table>
 
 
-##### 2.1.2 不规则变化
+#### 2.1.2 不规则变化
 
 **(1) 改变元音字母 ** 
 
@@ -391,9 +359,9 @@
 | symposium`/sɪm'pəʊzɪəm/`  |   symposia`/sɪm'pozɪə/` 研讨会  |
 | criterion`/kraɪ'tɪərɪən/`| criteria  `/kraɪ'tɪrɪə/` 标准  |
 
-#### 2.2 集体名词的复数
+### 2.2 集体名词的复数
 
-##### 2.2.1 通常用作复数的集体名词
+#### 2.2.1 通常用作复数的集体名词
 
 | cattle `/'kæt (ə) l/` 牛，家畜  | police 警察 |
 | ----------- | ------------ |
@@ -410,13 +378,13 @@
  > ◆ 
  > ◆ Peoples from all over the world. (来自世界各国的人民)
 
-##### 2.2.2 有些集体名词，表示整体时用单数，表示组成该整体的各个成员时用复数。
+#### 2.2.2 有些集体名词，表示整体时用单数，表示组成该整体的各个成员时用复数。
 **audience, class, group, couple, crew, family, government, management, public** 等...
  > ◆ My family **is** a big one. (我家是个大家庭。)
 
  > ◆ My family **are** all fond of football. (我全家都喜欢足球。)
 
-#### 2.3 不可数名词
+### 2.3 不可数名词
 物质名词和抽象名词是不可数名词，它们一般没有复数形式，如：
 | air 空气 | water 勇气 | rice 米饭 | 
 | ------ | ------ | ------ |
@@ -425,7 +393,7 @@
 
 但需要注意下面 3 种情况
 
-##### (1) 有些物质名词有时可用复数形式，表示不同种类，或表示数量之多。
+#### (1) 有些物质名词有时可用复数形式，表示不同种类，或表示数量之多。
 
 | fruit 水果 --> fruits 各种水果 | tea 茶 --> teas 各种茶叶 | fish 鱼 --> fishes 各种鱼 |
 | ------ | ------ | ------ |
@@ -436,21 +404,21 @@
 > This kind of fish can be found in almost all fresh **waters**. (这种与几乎可以在各种淡水中找到)
 > + all fish waters 指江，河，湖泊等
 
-##### (2) 有些抽象名词在表示一些比较具体的东西时，可作为可数名词，用复数形式。
+#### (2) 有些抽象名词在表示一些比较具体的东西时，可作为可数名词，用复数形式。
 > The school football team has had **four victories** this season. (校足球队在这个赛季已经取得了四场胜利)
 > 
 > They had **two discussions** about this problem. (他们就这个问题已经进行了两次讨论)
 > 
 > She was a **beauty** in her youth`/juːθ/`. (他年轻时是个美人)
 
-##### (3) 有些物质可用作复数，表示 "一份", "一杯", "一种".
+#### (3) 有些物质可用作复数，表示 "一份", "一杯", "一种".
 > **A black tea** with milk, please. (请来一杯加牛奶的红茶)
 > + 注意：红茶是 black tea. 
 >     
 > **Four beers**, please. (请来四杯啤酒，谢谢)
 
-#### 2.4 名词使用时应注意的事项
-##### 2.4.1 单数个体名词
+### 2.4 名词使用时应注意的事项
+#### 2.4.1 单数个体名词
 单数个体名词前面必须有冠词 (a/an, the)、指示代词 (如 this, that) 或物主代词 (如 my, your) 等。
 > (1) There is **a boy** in the room. (房间里有一个男孩儿。)
 > 
@@ -459,7 +427,7 @@
 > (3) **This car** is very expensive. 这辆车子很贵。
 
 
-##### 2.4.2 复数可数名词
+#### 2.4.2 复数可数名词
 复数可数名词前必须有 two, three 等表示具体数字或 many, few, a few, some, several, plenty of, a lot of, lots of 等表示 "一些 ， 很多" 的词修饰，说明数量，名词后必须有 s. 
 
 **Tip：** 上面这些数量词 (any, few, some...) 的讲解见 `../ 一次搞懂数量词.md`
@@ -470,7 +438,7 @@
 >
 > (3) He invented **a few friends** to his birthday party. 他邀请了几个朋友参加他的生日聚会。
 
-##### 2.4.3 不可数名词
+#### 2.4.3 不可数名词
 不可数名词前绝对不可以有 a/an, 名词后不可以有 s。不可数名词前可以有 much, a lot of, some, little, a little, a great/good deal of, plenty of 等词修饰，说明数量。
 
 > △ He is fond of **music**. (他喜欢音乐。)
@@ -481,7 +449,7 @@
 >
 > △ I haven't **much time** for sport. (我没有太多时间做户外运动。)
 
-##### 2.4.4 当不可数名词表示某一特定的物质、概念时，要加定冠词 the。
+#### 2.4.4 当不可数名词表示某一特定的物质、概念时，要加定冠词 the。
 对比下面的句子: 
 
 > △ **Snow** is white. (雪是白的。) * 泛指雪这种物质 *
@@ -492,7 +460,7 @@
 >
 > △ I like **the music** of the film. (我喜欢那个电影里的音乐。) * 特指某些音乐作品 *
 
-##### 2.4.5  特别需要注意以下几个不可数名词:
+#### 2.4.5  特别需要注意以下几个不可数名词:
 **news (新闻)，advice (建议)，furniture (家具)，information (信息)，equipment (设备)**。它们的中文意思都是可数的， 但在英文中却属于不可数名词。 
 
 > △ You can get **much useful information** on internet. (你可以从网上获取很多有用的信息。)
@@ -501,7 +469,7 @@
 >
 > △ Mr.Smith gave us **some good advice /a piece of good advice**. (史密斯先生给了我们一些 / 一条好的建议。)
 
-##### 2.4.6  "名词 + of + 名词" 结构
+#### 2.4.6  "名词 + of + 名词" 结构
 "名词 + of + 名词" 结构： 英语中常用 **"表示单位的名词 + of + 名词" 构成的短语表示事或物的量，特别是表示不可数名词的数量.** 
 
 of 前面表示单位的词是单数还是复数，要看它前面的数字；
@@ -518,10 +486,10 @@ of 后面的名词，是可数名词用复数，是不可数名词则用单数�
 
 
 
-### 3. 名词的所有格
+## 3. 名词的所有格
 
-#### 补充内容
-
+> ### 补充内容
+>
 > [【术语攻略】什么是名词所有格？](https://zhuanlan.zhihu.com/p/186138435)
 >
 > **名词所有格** 是能够表示物主或所有关系的一种形式。常见的名词所有格有两种形式：
@@ -582,7 +550,7 @@ of 后面的名词，是可数名词用复数，是不可数名词则用单数�
 > #### 规律小结
 >
 > 在语义上，这两种形式几乎没有差别。只是**对于表示人或时间的名词，更常用 + 's 的形式**；
-> 
+>
 > 而对于以下情况的名词，更常用 “名词 A + of + 名词 B” 的形式：
 >
 > (1) 没有生命的名词。如：
@@ -604,48 +572,46 @@ of 后面的名词，是可数名词用复数，是不可数名词则用单数�
 >
 > > **Many works of J. K. Rowling's** have been made into films.  J. K. 罗琳的许多作品都被拍成了电影。
 >
-> 
->注：表示人与人之间的关系时，可以省略's。
+>
+> 注：表示人与人之间的关系时，可以省略's。
 >
 > > She is **the aunt of Philip's** (用 the aunt of Philip 也可).  她是菲利普的姑姑。
-> 
->> Betty is **a friend of my wife's** (用 a friend of my wife 也可).  贝蒂是我妻子的一个朋友。
-> 
->#### 特殊用法 2 —— 省略
-> 
->另外，在 's 形式后的名词，如果是表示家、商店或服务等（如：the newsagent's`ˈ/njuːzˌeɪdʒənt/`, the chemist's, the hairdresser's 等），可以被省略。例如：
+>
+> > Betty is **a friend of my wife's** (用 a friend of my wife 也可).  贝蒂是我妻子的一个朋友。
+>
+> #### 特殊用法 2 —— 省略
+>
+> 另外，在 's 形式后的名词，如果是表示家、商店或服务等（如：the newsagent's`ˈ/njuːzˌeɪdʒənt/`, the chemist's, the hairdresser's 等），可以被省略。例如：
 > - chemist `/'kɛmɪst/` n.药剂师；化学家；药店，药商
 >
-> 
->> We went to **Nancy's** last evening. ( = Nancy's home)  昨晚我们去了南希家。
-> 
->> He used to work at **the butcher's**`/'bʊtʃɚ/`. ( = the butcher's shop)  他以前在肉店工作。
-> 
+> > We went to **Nancy's** last evening. ( = Nancy's home)  昨晚我们去了南希家。
+>
+> > He used to work at **the butcher's**`/'bʊtʃɚ/`. ( = the butcher's shop)  他以前在肉店工作。
+>
 > > — Whose mobile phone is this?  这是谁的手机？
 > > 
->> — It's **Rita's**.  是丽塔的。
+> > — It's **Rita's**.  是丽塔的。
+> 
+> *补充内容结束*
 
+名词所有格表示这一名词与他人、他物的所属关系 ，相当于中文 "...... 的......"（Tip: 可读作 "什么什么的什么什么"）。
 
-名词所有格表示这一名词与他人、他物的所属关系 ， 相当于中文 "...... 的......"（Tip: 可以读作 “什么什么的什么什么”）。
+>  Xiao Zhang's sister  小张的姐姐
 
-Xiao Zhang's sister 小张的姐姐
+>  Tom's telephone number  汤姆的电话号码
 
-Tom's telephone number 汤姆的电话号码
-
-my brother's girlfriend 我哥哥的女朋友
-
-
+>  my brother's girlfriend  我哥哥的女朋友
 
 名词所有格的表达方式有如下几种：
 
-#### 3.1 表示有生命的东西的名词所有格通常是在名词后加 `'s`。
+### 3.1 表示有生命的东西的名词所有格通常是在名词后加 `'s`。
 > Lao Li**'s** daughter 老李的女儿
 >
 > that girl**'s** father 那个小姑娘的爸爸
 >
 > my English teacher**'s** car 我的英语老师的车子
 
-#### 3.2 以 s 结尾的名词的复数形式，只加 `'` 不加 S。
+### 3.2 以 s 结尾的名词的复数形式，只加 `'` 不加 S。
 
 > the teacher**s'** reading-room 教师阅览室
 >
@@ -655,12 +621,13 @@ my brother's girlfriend 我哥哥的女朋友
 >
 > Teacher**s'** Day 教师节
 
-** 注意：不以 s 结尾的名词的复数形式，仍要加 `'s`。 如：**
+**注意：不以 s 结尾的名词的复数形式，仍要加 `'s`。 如：**
+
 > Women**\'s** Day 妇女节
 > 
 > children**\'s** balls 孩子们的球
 
-#### 3.3 复合名词和表示一个整体意思的词组只在最后一个词尾加 `'s`。
+### 3.3 复合名词和表示一个整体意思的词组只在最后一个词尾加 `'s`。
 > the editor-in-chief**\'s** secretary`/'sekrɪt (ə) rɪ/`(n. 秘书) 总编的秘书
 >   + editor-in-chief  n. 总编辑，主编
 > 
@@ -668,19 +635,19 @@ my brother's girlfriend 我哥哥的女朋友
 >
 > my boyfriend**\'s** father 我男朋友的父亲
 
-#### 3.4 如果一样东西同时归两人或多人所有，只在最后一个名词词尾加 `'S`。
+### 3.4 如果一样东西同时归两人或多人所有，只在最后一个名词词尾加 `'S`。
 > Tom and **Jack's** room  汤姆和杰克的房间 (* 两人合住一个房间 *)
 >
 > John, Mary and **Jane's**`/dʒeɪn/` mother  约翰、玛丽和珍妮的母亲 (* 三人是兄妹 *)
 
 ** 注意：** 如果表示各名词自己的所有格，则分别加 `'s`。
 
-#### 3.5 用所有格表示店铺或某人的家，但是通常省掉所有格修饰的名词。
+### 3.5 用所有格表示店铺或某人的家，但是通常省掉所有格修饰的名词。
 > the Black**\'s** （= the Black's home）布莱克家
 > 
 > the barber**\'s**`/ˈbɑ:bə/` （=the barber's shop）理发店
 
-#### 3.6 表示无生命东西的所有关系，一般不用 `'s`，而是与 of 一起构成短语。
+### 3.6 表示无生命东西的所有关系，一般不用 `'s`，而是与 of 一起构成短语。
 > the leg of the desk 课桌腿
 >
 > the roof of a car 车顶
@@ -696,7 +663,7 @@ my brother's girlfriend 我哥哥的女朋友
 >
 > in one's mind**\'s** eye 想象，记忆
 
-#### 3.7 一些表示国家、城市、时间、距离的名词可以直接加 `'s` 表示所有关系 。
+### 3.7 一些表示国家、城市、时间、距离的名词可以直接加 `'s` 表示所有关系 。
 > today**\'s** newspaper 今天的报纸 
 > 
 > Beijing**\'s** population 北京的人口
@@ -710,52 +677,152 @@ my brother's girlfriend 我哥哥的女朋友
 > China**\'s** industry 中国的工业
 
 
-#### 3.8 有时，两种所有格形式（of 短语和词尾加 `'s` 的形式） 需要结合在一起使用，称为 "双重所有格"。
+### 3.8 有时，两种所有格形式（of 短语和词尾加 `'s` 的形式） 需要结合在一起使用，称为 "双重所有格"。
 > a friend of my sister**\'s** （= my sister's friend）我姐姐的一个朋友
 >
 > the book of Bill**\'s** （= Bill's book） 比尔的书
 
 
-### 4. 名词在句子中的作用
-名词在剧中可以作 ** 主语 **, ** 表语 **, ** 宾语 **, ** 宾语补足语 **, ** 同位语 **, ** 定语 ** 以及 ** 状语 **.
 
-#### 4.1 作主语
+## ▲名词的格（case）
+
+> 此节笔记来源：https://zhuanlan.zhihu.com/p/357487053
+
+### 3.1 格的定义——表征句中名词与其它词之间的*关系(relation)* 的一种文法格式。
+
+例释——例如，The general praised the soldier's bravery(将军赞扬了士兵们的勇气)，“General”代表用“praised”标识的这个动作的发起人，“bravery”表示这个动作(of praising)的作用对象。“soldier's”谁的勇气被赞扬。“General”与“bravery”各有一种与“praised”之间的关系，“soldier's”与名词“bravery”之间也有某种关系。
+
+**(注：这里讲的很明白，Case就是句中名词与共它词之间的某种关系，重点强调的是\*关系\*这一个词，那为什么会将这种关系翻译为中文意义毫无相干的汉字“格”呢？这要从英语语法术语的中文来源说起，这些个术语的最初来源，是来自日语翻译的英语语法，因为日文中有中文汉字，翻译成术语后是中文汉字的部分原样抄来的，据传是由最初留学日本的赵灼带回来日本翻译的英语语法书，改为中文出版传播，这部分术语原样照抄未作改动。而“格”在中文中找不到有“关系”这个含义，至于日文翻译为“格”是什么含义不得而知。因此，后来这些语法书和学习者，也鲜有人去探究其真实含义，都以诈传诈地代代相传，更过分的是，绝大部分语法书连Case的定义都不提，直接就搬出“格”这个术语，所以才有了大部分英语学习者学完大学，都不知道“格”到底是个什么东西，认为格反正就是格。因此，即便大家都接受了将Case翻译为“格”的这个事实，但是一定要清楚它表示的含义是句中名词与其它词之间的某种关系！如果简称为“关系”还好理解一些。后面仍以“格”为术语讲解。)**
+
+### 3.2 格的格式——英语中的格仅有两种格式，例如*boy,boy's；bird,bird's。*但是，至少有三种不同的名词关系，且在大部分的代词使用上，每个代词都使用一个单独的代词表示，一般认为有三种名词格,分别是：
+
+I. 主格 (Nominative Case)；
+
+II. 属格(Possessive Case)；
+
+III. 宾格(Objective Case)。
+
+### 3.2.1 主格是名词作为动词的主语时的格式：例如，“The boy grows”。
+
+动词的主语表示所宣称的事物。
+
+### 3.2.2 属格是用于表示名词的所有关系(Ownership)或拥有关系(Possession)：例如，“The boy's book is lost”。名词作为主语时，其单复数的属格不以s结尾，而是以’s后缀结尾：例如，*boy’s，John's，men's*。以s结尾的名词复数，在s的后放置一个’号即可：例如，“The *boys* books.”，
+
+**“The \*birds’\* feathers.”。**
+
+### 3.2.3 宾格是名词具有的用途，当它充当动词(或前置词)的作用对象时的角色。名词的主格与宾格格式一样，格由名词偏向的动词的关系确定：例如，“The man struck the *boy*”。
+
+宾语就是一个动词在其上终止的这个对象的名称。它回答了动作之后是谁，或者是什么这样的问题。
+
+I. 之前，习惯于将以s,x,或ce结尾的名词属格的单数仅以后缀撇号(’)标识，而没有s：例如，“*Sockrates’* wife” “The *Times’* editorial”，但是，这种实践除了几个特殊的情况之外现在几乎已被废弃，例如，“for conscience sake”，本来，我们将所有格的单数都统一成’s来标识将会更好。写成“*Charles’s* book”比“*Charles’* book”更好，“The *goodness’s* wrath”比“The *goodness’* wrath”更好。要么就是考虑后缀发音听起来悦耳，要么就用诗韵写作有押韵的必要；在写作上，后缀’s属于属格单数的语法公正问题。
+
+II. 属格单数的词尾变化’s表示盎格鲁撒克逊的后缀es，其用于标识名词的某种分类的所有格(或属格(Genitive))单数：例如，主格，*smith*；属格，smithes=smith’s，或者a smith。’号表示旧的es中少略掉的e，即记为’s。
+
+III. 在复合词或复杂名称为，属格的标识仅加在最后一个单词中：例如，“my *father-in-law’s* house.” “John Stuart Mill’s *Political Economy.* ”。
+
+### 3.2.4 降格(declension)——当我们将名词的三个格降为两个格的时候，我们称这个名词为降格的名词。
+
+**名** **词** **的** **降** **格**
+
+**--------------------------BOY------------------------**
+
+**----------------单数----------------复数-------------**
+
+**主格…………..boy…………………..boys**
+
+**属格…………..boy’s………………..boys’**
+
+**宾格…………..boy.....................boys**
+
+**--------------------------MAN------------------------**
+
+**----------------单数----------------复数-------------**
+
+**主格…………..man…………………..men**
+
+**属格…………..man’s………………..men’s**
+
+**宾格…………..man.....................men**
+
+**--------------------------LADY------------------------**
+
+**----------------单数----------------复数-------------**
+
+**主格…………..lady…………………..ladies**
+
+**属格…………..lady’s………………..ladies’**
+
+**宾格…………..lady.....................ladies**
+
+**--------------------------SHEEP------------------------**
+
+**----------------单数----------------复数-------------**
+
+**主格…………..sheep…………………..sheep**
+
+**属格…………..sheep’s………………..sheep’**
+
+**宾格…………..sheep.....................sheep**
+
+
+
+来源：<<英语语法和写作>> William Swinton，1879 年版。
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 4. 名词在句子中的作用
+
+名词在剧中可以作 **主语 **, **表语 **, **宾语**, **宾语补足语**, **同位语 **, **定语** 以及 **状语**.
+
+### 4.1 作主语
+
 > **China** is a developing country. 中国是一个发展中国家.
 >
 > These **children** are fond of books. 这些孩子们喜欢看书.
 
-#### 4.2 作表语
+### 4.2 作表语
 > Smoking is a dangerous **habit**. 吸烟是一种危险的习惯.
 >
 > That building is our new **library**. 那座大楼是我们的新图书馆.
 
-#### 4.3 作宾语
+### 4.3 作宾语
 > That boy enjoys playing **computer games**. (动名词的宾语) 那个男孩喜欢玩电脑游戏.
 >
 > Zhang Hua decided to learn **English**. (不定式短语中动词 learn 的宾语) 张华决定要学习英语.
 
-#### 4.4 作宾语补足语
+### 4.4 作宾语补足语
+
 > We elected him our **monitor**. 我们选他当我们的班长.
 >
 > Hard experience has made him a **man**. 艰苦经历把他磨练成了一个男子汉.
 
-#### 4.5 作同位语
+### 4.5 作同位语
 
 > We **students** like the English teacher very much. 我们学生非常喜欢这个英语老师.
 >
 > This is Mr. Smith, **dean**`/diːn/` of our department. 这是史密斯先生，我们的系主任.
 
-#### 4.6 作定语
+### 4.6 作定语
 > They bought a new **colour** TV for the Senior Citizens Home. 他们给养老院买了一台新彩电.
 >
 > **Orange** juice is rich in vitamin C. 橘汁富含维生素 C.
 
-#### 4.7 作状语
+### 4.7 作状语
 > Wait a **minute**, I’ll be back soon. 等一下，我马上回来.
 >
 > Please be sure to telephone me **next time**. 下次请一定给我来电话.
 
-#### 4.8 称呼语：称呼语不作句子成分，可以视为一个独立结构. 
+### 4.8 称呼语：称呼语不作句子成分，可以视为一个独立结构. 
 > Hurry, **Tom**. 快点，汤姆.
 >
 > What can I do for you, **madam**? 我能为您做什么，夫人？
