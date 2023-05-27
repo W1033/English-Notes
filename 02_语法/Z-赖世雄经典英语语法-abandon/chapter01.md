@@ -33,28 +33,19 @@
 
 
 ## 生词 (New Words)
-- **apt [æpt] --adj.易于, 贴切, 合适.**
-    + He is apt to forget people's names. 他容易忘记人的名字.
-    + Not that's not really an apt comparison. 这并不是一个恰当的比较.
-- **intransitive [ɪn'trænsɪtɪv] --adj. 不及物的**
-    + Intransitive verbs take no direct object. 不及物动词不带直接宾语.
-    + The noun is followed by an intransitive verb. 
-      这个名词后接不及物动词.
-- **dative ['deɪtɪv]/['detɪv] --n.与格. --adj. 与格(的)**
-- **cope [kəʊp] --vi 应付、对付**
+- apt `/æpt/` --adj.易于, 贴切, 合适.
+- intransitive `/ɪn'trænsɪtɪv/` --adj. 不及物的
+- dative `/'deɪtɪv]/['detɪv/` --n.与格. --adj. 与格(的)
+- cope `/kəʊp/` --vi 应付、对付
 
-- 说出下面句子画横线所作的成分:
-  
-  <span style="border-bottom: 1px solid #ffa907;">That Forrest Gump
-  saved others during the war</span>(主语从句) surprised us. 
-  
-  The fact <span style="border-bottom: 1px solid #ffa907;">that Forrest
-  Gump saved others during the war</span>(同位语从句) surprised us. 
 
-  Mum always told me <span style="border-bottom: 1px solid #ffa907;">
-  that life was like a box of chocolate.</span>(宾语从句) The truth is
-  <span style="border-bottom: 1px solid #ffa907;">that you never know
-  what you're going to get.</span>(表语从句)
+说出下面句子画横线所作的成分:
+  
+<span style="border-bottom: 1px solid #ffa907;">That Forrest Gump saved others during the war</span>(主语从句) surprised us. 
+  
+The fact <span style="border-bottom: 1px solid #ffa907;">that Forrest Gump saved others during the war</span>(同位语从句) surprised us. 
+
+Mum always told me <span style="border-bottom: 1px solid #ffa907;"> that life was like a box of chocolate.</span>(宾语从句) The truth is <span style="border-bottom: 1px solid #ffa907;">that you never know what you're going to get.</span>(表语从句)
 
 
 

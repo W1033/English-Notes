@@ -8,17 +8,17 @@ In this video collection, let's talk about one of the most important (and possib
 
 你好啊！我是英语兔。这次咱们讲英语的时态，在之前的语法体系综述视频里，咱们提到过一个很关键的概念，那就是英语的时态，或者更准确说是英语动词的时态：**动词的时间**和**动词的状态**在一起合成 "时态"。
 
-![image-20221129122329164](readme.assets/image-20221129122329164.png)
+<img src="readme.assets/image-20221129122329164.png" alt="image-20221129122329164" style="zoom: 67%;" />
 
 **动词 (Verb)**有 **4 种时间**，也有 **4 种状态**，自由排列组合便是理论上的 **16 种时态**。
 
-![image-20221130214309733](readme.assets/image-20221130214309733.png)
+<img src="readme.assets/image-20221130214309733.png" alt="image-20221130214309733" style="zoom: 50%;" />
 
 请特别注意，咱这里说的是国内传统英语教学的语法体系，而语法体系其实国内外都有不少也，有很多不同的争论，比如很多主张动词的时间和动词的状态，或者说动词的体完全独立;
 
 有的认为英语其实根本就没有将来时态（因为动词并没有将来式变位；这个等下会讲到）；
 
-![image-20221130215718501](readme.assets/image-20221130215718501.png)
+<img src="readme.assets/image-20221130215718501.png" alt="image-20221130215718501" style="zoom: 50%;" />
 
 有的认为 16 种时态并不正确，其实没有那么多，甚至有的语法体系里直接忽略其中的几种。
 
@@ -34,19 +34,19 @@ In this video collection, let's talk about one of the most important (and possib
 
 第四种是 **过去将来** ，这是什么鬼？说白了，过去将来，就是对于过去某一个时间点而言的将来。比如：昨天是前天这个过去的将来，画下来就是这样，
 
-![image-20221130220426175](readme.assets/image-20221130220426175.png)
+<img src="readme.assets/image-20221130220426175.png" alt="image-20221130220426175" style="zoom:50%;" />
 
 可是呢，过去的将来和现在的关系就不一定了。比如：昨天的后天是明天，是现在的将来。
 
-![image-20221130220827384](readme.assets/image-20221130220827384.png)
+<img src="readme.assets/image-20221130220827384.png" alt="image-20221130220827384" style="zoom:50%;" />
 
 也就是说 "过去将来" 和 "现在" 没有必然关系，我们暂且把过去将来画成这样，
 
-![image-20221130221002526](readme.assets/image-20221130221002526.png)
+<img src="readme.assets/image-20221130221002526.png" alt="image-20221130221002526" style="zoom:50%;" />
 
 也就是默认过去的将来在现在的过去，但是你要记住这并不一定。也有可能是这样：
 
-![image-20221130221127907](readme.assets/image-20221130221127907.png)
+<img src="readme.assets/image-20221130221127907.png" alt="image-20221130221127907" style="zoom:50%;" />
 
 看到这里，你也许要说，这外国人是吃饱了撑的吗？其实啊，这个**过去将来时间在现实中也不常见，一般只出现在从句中**，而像 "过去将来完成进行时态" 这样的，你搞不好以为我在开玩笑。你甚至可以理解为，"因为英语动词有能力构成这种时态，所以要列举出来"，而有些语法体系甚至也不把它算作时态。
 
@@ -56,25 +56,25 @@ In this video collection, let's talk about one of the most important (and possib
 
 **进行状态**：这兔子正在吃胡萝卜。
 
-![image-20221202204734660](readme.assets/image-20221202204734660.png)
+<img src="readme.assets/image-20221202204734660.png" alt="image-20221202204734660" style="zoom:50%;" />
 
 言下之意就是兔子吃胡萝卜的动作或者说过程正在进行中，我们画图可以这么画，
 
-![image-20221202204847771](readme.assets/image-20221202204847771.png)
+<img src="readme.assets/image-20221202204847771.png" alt="image-20221202204847771" style="zoom: 67%;" />
 
 表示一个正在进行的过程。
 
 接下来**完成状态**：这兔子吃掉了胡萝卜。
 
-![image-20221202204946795](readme.assets/image-20221202204946795.png)
+<img src="readme.assets/image-20221202204946795.png" alt="image-20221202204946795" style="zoom:50%;" />
 
 言下之意就是，胡萝卜已经在兔子肚子里，吃完了，饱了，多半不再继续吃了。我们画图可以这么画，
 
-![image-20221202205030000](readme.assets/image-20221202205030000.png)
+<img src="readme.assets/image-20221202205030000.png" alt="image-20221202205030000" style="zoom: 67%;" />
 
 表示动作完成了，注意完成态的重点在动作状态完成了，而并没有指出动作具体发生的时间。也就说咱们实际上没法标注动作箭头的起点，他不应该这么标注，
 
-![image-20221202205125072](readme.assets/image-20221202205125072.png)
+<img src="readme.assets/image-20221202205125072.png" alt="image-20221202205125072" style="zoom: 67%;" />
 
 因为不管在哪种时间里，完成状态并不直接说明动作的具体开始时间，这个要特别注意。 
 
@@ -82,17 +82,17 @@ In this video collection, let's talk about one of the most important (and possib
 
 再接下来 **完成进行状态**：这兔子从早上就开始吃胡萝卜，现在还没停呢。
 
-![image-20221202210127206](readme.assets/image-20221202210127206.png)
+<img src="readme.assets/image-20221202210127206.png" alt="image-20221202210127206" style="zoom: 50%;" />
 
 言下之意就是不但有好多胡萝卜进了兔子肚子，这还没完，这兔子还有一堆胡萝卜没吃，我们画图可以这么画，
 
-![image-20221202210253003](readme.assets/image-20221202210253003.png)
+<img src="readme.assets/image-20221202210253003.png" alt="image-20221202210253003" style="zoom: 67%;" />
 
 表示动作的一部分完成了，但剩下的还在进行中：再剩下的还有一种状态，可以说有点特殊，你可以理解为没有特别指出的 "默认的、简单的、一般的" 状态。这个一般状态在没有时间的帮助下，可能有那么一点难描述，所以我们就结合时间看一下：这兔子过去吃胡萝卜，将来也吃胡萝卜，前半句是过去时间，后半句是将来时间，这个没问题。可是这个动作的状态是什么？你可能要说过去时间里那吃就是完成咯，将来时间里，动作没完成...，呃，肯定不是完成，也不是进行或完成进行...，可好像动作也没有所谓 "不完成" 状态哦。
 
 所以说如果我们把时间的信息去掉，其实句子中并没有特别指出动作的状态。即使是过去动作 "已经完成" 这一信息，你也是推断出来的。句子本身并没有这么说，对吧？甚至可以说，似乎没有 "状态信息" 啊。这样的状态就是所谓 "一般状态"。我们画图就这么画表示一般，没有具体说明：
 
-![image-20221202210815228](readme.assets/image-20221202210815228.png)
+<img src="readme.assets/image-20221202210815228.png" alt="image-20221202210815228" style="zoom:67%;" />
 
 其实从刚才这个例子里你也可以看出，英语动词的时间和状态往往是联系得非常紧密的。我们之所以在这里拆开来，其实主要还是以教学为目的。而你如果去和母语人士讨论时间加状态，人家却可能对你说，哈？听不懂啊，我就是怎么顺口怎么自然就怎么说啊。英语兔我再给你举个例子，如果我问你你给我这个视频点赞了吗？
 
@@ -106,7 +106,7 @@ In this video collection, let's talk about one of the most important (and possib
 
 ## ▲ 时间 + 状态
 
-![image-20221218211947432](readme.assets/image-20221218211947432.png)
+<img src="readme.assets/image-20221218211947432.png" alt="image-20221218211947432" style="zoom:67%;" />
 
 咱们先不说英语时态的具体构成和英语例句。先（用中文例句）把概念彻底理清，之后再在接下来的视频中讲细节。先说
 
@@ -114,23 +114,25 @@ In this video collection, let's talk about one of the most important (and possib
 
 如果以现在这个时间为参照点，那么现在的动作就有 4 种状态：
 
-![image-20221219211404580](readme.assets/image-20221219211404580.png)
+<img src="readme.assets/image-20221219211404580.png" alt="image-20221219211404580" style="zoom: 40%;" />
 
 **(1)** 现在的，进行中的状态：**现在进行时态 (Present Progressive Tense)**.  如: 这兔子现在正在吃胡萝卜。
 
-![image-20221218212834237](readme.assets/image-20221218212834237.png)
+<img src="readme.assets/image-20221218212834237.png" alt="image-20221218212834237" style="zoom:50%;" />
 
 **(2)** 对现在而言的，完成了的状态：**现在完成时态 (Present Perfect Tense)**。如：如这兔子现在已经吃完了胡萝卜。 
 
-![image-20221218213245517](readme.assets/image-20221218213245517.png) 
+
+
+<img src="readme.assets/image-20221218213245517.png" alt="image-20221218213245517" style="zoom:50%;" /> 
 
 **(3)** 对现在而言的完成了的，但是接下来还会继续的状态：**现在完成进行时态 (Present Perfect Progressive Tense)**。如：这兔子现在已经吃完了一些胡萝卜，还要继续吃。
 
-![image-20221218214808028](readme.assets/image-20221218214808028.png)
+<img src="readme.assets/image-20221218214808028.png" alt="image-20221218214808028" style="zoom:50%;" />
 
 **(4) **对现在而言的没有特别指出的状态：**现在一般时态 (Present Simple Tense)**。或者说 **一般现在时态 (Simple Present Tense)**。如：这兔子吃胡萝卜。可能我们只是在说一个事实，兔子是吃胡萝卜的生物，也可能特制这兔子有吃胡萝卜的习惯。
 
-![image-20221218233235444](readme.assets/image-20221218233235444.png)
+<img src="readme.assets/image-20221218233235444.png" alt="image-20221218233235444" style="zoom:50%;" />
 
 
 
@@ -138,23 +140,23 @@ In this video collection, let's talk about one of the most important (and possib
 
 好，如果咱们把以上 4 种情况往前推一个时间段，去到过去：
 
-![image-20221219211011958](readme.assets/image-20221219211011958.png)
+<img src="readme.assets/image-20221219211011958.png" alt="image-20221219211011958" style="zoom:40%;" />
 
 **(1)** 过去的，进行中的状态：**过去进行时态 (Past Progressive Tense)**。如：这兔子昨天下午 3 点那个时候正在吃胡萝卜。
 
-![image-20221219201713421](readme.assets/image-20221219201713421.png)
+<img src="readme.assets/image-20221219201713421.png" alt="image-20221219201713421" style="zoom:40%;" />
 
 **(2)** 对过去而言的，完成了的状态：**过去完成时态 (Pass Perfect Tense)**。如：这兔子昨天下午 3 点那个时候已经吃完了胡萝卜。
 
-![image-20221219201857303](readme.assets/image-20221219201857303.png)
+<img src="readme.assets/image-20221219201857303.png" alt="image-20221219201857303" style="zoom:40%;" />
 
 **(3)** 对过去而言的，完成了的，但是接下来还会继续的状态：**过去完成进行时态 (Past Perfect Progressive Tense)**。如：这兔子昨天下午 3 点那个时候已经吃完了一些胡萝卜，还要继续吃。（至于之后持续吃到什么时候，我们不得而知。）
 
-![image-20221219201938915](readme.assets/image-20221219201938915.png)
+<img src="readme.assets/image-20221219201938915.png" alt="image-20221219201938915" style="zoom:40%;" />
 
 **(4)** 对过去而言的，没有特别指出的状态：**过去一般时态 (Past Simple Tense)**，或者说 **一般过去时态 (Simple Past Tense)**。如：兔子过去吃了胡萝卜，只是单纯表示这动作发生在过去而已。
 
-![image-20221219202043982](readme.assets/image-20221219202043982.png)
+<img src="readme.assets/image-20221219202043982.png" alt="image-20221219202043982" style="zoom:40%;" />
 
 
 
@@ -162,29 +164,29 @@ In this video collection, let's talk about one of the most important (and possib
 
 好，同理咱们把以上 4 种情况往后推一个时间段，去到将来：
 
-![image-20221219212825218](readme.assets/image-20221219212825218.png)
+<img src="readme.assets/image-20221219212825218.png" alt="image-20221219212825218" style="zoom:40%;" />
 
 **(1)** 将来的，进行中的状态：**将来进行时态 (Future Progressive Tense)**。如：这兔子明天下午 3 点那个时候会正在吃胡萝卜。
 
-![image-20221219202204497](readme.assets/image-20221219202204497.png)
+<img src="readme.assets/image-20221219202204497.png" alt="image-20221219202204497" style="zoom:50%;" />
 
 **(2)** 对将来而言的，完成了的状态：**将来完成事态 (Future Perfect Tense)**。如：这兔子明天下午 3 点那个时候会已经吃完了胡萝卜。（之前什么时候开始吃不知道，也可能现在就已经开始吃了，总之明天 3 点那个时候，肯定吃完了。）
 
-![image-20221219202750052](readme.assets/image-20221219202750052.png)
+<img src="readme.assets/image-20221219202750052.png" alt="image-20221219202750052" style="zoom:50%;" />
 
 **(3)** 对将来而言的完成了的，但是接下来还会继续的状态：**将来完成进行时态 (Future Perfect Progressive Tense)**。如：这兔子明天下午 3 点那个时候已经吃完了一些胡萝卜，还要继续吃。（什么时候开始吃，什么时候结束吃我们都不知道。总之明天 3 点那个时候已经吃了一段时间，而且还不停止。）
 
-![image-20221219202718396](readme.assets/image-20221219202718396.png)
+<img src="readme.assets/image-20221219202718396.png" alt="image-20221219202718396" style="zoom:50%;" />
 
 **(4)** 对将来而言的没有特别指出的状态：**将来一般时态 (Future Simple Tense)**，或者说 **一般将来时态 (Simple Future Tense)**。如：兔子将来吃胡萝卜。（只是单纯表示这动作会发生在将来而已。）
 
-![image-20221219202905127](readme.assets/image-20221219202905127.png)
+<img src="readme.assets/image-20221219202905127.png" alt="image-20221219202905127" style="zoom:50%;" />
 
 
 
 ### 过去将来
 
-![image-20221219213427934](readme.assets/image-20221219213427934.png)
+<img src="readme.assets/image-20221219213427934.png" alt="image-20221219213427934" style="zoom:40%;" />
 
 那么接下来过去将来，有那么一点点抽象，有些语法书甚至不收录英语托，我来试着换种形式解释：
 
@@ -192,25 +194,27 @@ In this video collection, let's talk about one of the most important (and possib
 >
 > 那么上个月张三出院的时候说我要报仇，要咬那只兔子一口，那么问题就来了，张三要在什么时间点去咬兔子呢？而我们在现在这个时间点又该怎么去描述张三作案动机？如果张三在上个月说，下个月的某一天，你一定会看见我正在咬那只兔子，那么张三就是在说对于上个月那个时间点而言的，将来有可能是上个星期，今天也有可能是下个星期。总之啊，有那么一个时间点，我们去看张三，他会是在咬兔子这样一个动作的过程中，（当然他也许是说大话，不过他本人非常确定。）这个就是 **过去将来进行时态**。
 >
-> ![image-20221219203736729](readme.assets/image-20221219203736729.png)
+> <img src="readme.assets/image-20221219203736729.png" alt="image-20221219203736729" style="zoom:50%;" />
 >
 > 那张三很自大嘛，企图咬兔子。他要是再自大一点，也许会说：“下个月的某一天，你一定会发现我已经咬了那只兔子。” 也就是说，张三认为，以上一个月那个时间点算（这个时间点和现在也没有必然前后关系）。我们看到他的时候，他已经咬了那只兔子，而且完成了咬的动作了。同学们，这个是什么时态？时间是 "过去将来时间"，对不对。状态是 "完成状态"，对不对？那么是什么时态？**过去将来完成时态**。
 >
-> ![image-20221219203554026](readme.assets/image-20221219203554026.png)
+> <img src="readme.assets/image-20221219203554026.png" alt="image-20221219203554026" style="zoom:50%;" />
 >
 >  好，如果张三说：“下个月的某一天，你一定会发现我不但咬了那只兔子，还会一直咬下去”。作案情节就严重了，已经不是报仇那么简单，而是虐待小动物罪啦。动作时间是什么？过去将来。动作状态是什么？完成进行。所以同学们说这里时态是什么？对嘛，**过去将来完成进行时态**。
 >
-> ![image-20221219204022839](readme.assets/image-20221219204022839.png)
+> <img src="readme.assets/image-20221219204022839.png" alt="image-20221219204022839" style="zoom:50%;" />
 >
 > 好，最后一种，如果张三只是说：“等着瞧，我一定咬那只兔子。“ 那么我们就有点难判断了，反正他在那个 "过去将来" 的时间也没表明咬兔子的状态，所以是 "一般状态"。时态呢，就是 **过去将来一般时态** 或者说 **一般过去将来时态** (Past Future Simple Tense)
 >
-> ![image-20221219204318177](readme.assets/image-20221219204318177.png)
+> <img src="readme.assets/image-20221219204318177.png" alt="image-20221219204318177" style="zoom:50%;" />
 >
 > 怎么样？同学们你们搞懂张三咬兔子这个案件了吗？
 
 
 
-咱们回来总结一下，如果我们把所有的 16 种英语时态放在一条时间线上，大概是这个样子,  ![image-20221219204621558](readme.assets/image-20221219204621558.png)
+咱们回来总结一下，如果我们把所有的 16 种英语时态放在一条时间线上，大概是这个样子,  
+
+<img src="readme.assets/image-20221219204621558.png" alt="image-20221219204621558" style="zoom:50%;" />
 
 虽然他看上去貌似复杂，但实际上只是 4 种动作状态在时间轴上往前移往后移，等下我们每一种时态都会讲到，但是在那之前，我们先来说说英语时态最需要注意的，或者说，最容易犯错的地方。
 
@@ -226,11 +230,11 @@ In this video collection, let's talk about one of the most important (and possib
 
 **(1)** 学校里教时间和状态往往是 "揉" 在一起教，或者即使区分，往往也不特别指出。这就导致，很多人的脑中的时态是这个样子的：
 
-![image-20221219205811139](readme.assets/image-20221219205811139.png)
+<img src="readme.assets/image-20221219205811139.png" alt="image-20221219205811139" style="zoom:50%;" />
 
 所以你可能之前感觉英语的时态，怎么一会儿一般，一会儿完成，一会儿将来，一会儿能加时间在句中，一会儿不能加，怎么那么多规则要背呀！这说话时候能有时间反应过来吗？这是第一个难点，你必须要理解时间和状态是怎么 "合体" 的，这一点之前视频里咱们应该已经弄清楚了。
 
-![image-111](readme.assets/111.png)
+<img src="readme.assets/111.png" alt="image-111" style="zoom:50%; border:1px solid #eee; border-radius:20px;" />
 
 ### 难点 2 : 动词变位 (Verb Conjugation)
 
@@ -238,15 +242,15 @@ In this video collection, let's talk about one of the most important (and possib
 
 **(2)** 英语动词有 "变位" 现象，也就是单词拼写往往会改变，英语时态的各种 "时间" 和 "状态" 的概念，并不难理解，因为咱们中文也可以表达相同的概念。问题在于咱们中文里表达时间的概念，只要加上描述时间的字眼就行了，如：
 
-![image-20221219214943459](readme.assets/image-20221219214943459.png)
+<img src="readme.assets/image-20221219214943459.png" alt="image-20221219214943459" style="zoom: 50%;" />
 
 不需要对字本身做出改动。咱们汉字的写法在不同的时间状态里可不会改变。你能想象 "免礼、免罪、免罚"，过去时间要改写成 "兔理、兔罪、兔罚" 吗？
 
-![image-20221219215104840](readme.assets/image-20221219215104840.png)
+<img src="readme.assets/image-20221219215104840.png" alt="image-20221219215104840" style="zoom:50%;" />
 
 但是英语就不同了，表达不同的时态，不但往往要加表示时间的信息，还往往会对动词本身的拼写做出改动。比如: 
 
-![image-20221219215218671](readme.assets/image-20221219215218671.png)
+<img src="readme.assets/image-20221219215218671.png" alt="image-20221219215218671" style="zoom:50%;" />
 
 动词原形 eat 就要改拼写为 ate，这个就是动词的时态变位。顺便说一句，即是在同一个时间，如现在时间里: 
 
@@ -272,7 +276,7 @@ In this video collection, let's talk about one of the most important (and possib
 
 **(4)** 时态往往和其他语法概念和现象混在一起，所以算是更加难上加难。比如：
 
-![image-20221219221629311](readme.assets/image-20221219221629311.png)
+<img src="readme.assets/image-20221219221629311.png" alt="image-20221219221629311" style="zoom:50%;" />
 
 现在完成时态:  The rabbit **has eaten** a carrot. (这兔子吃掉了胡萝卜。) 可以和情态动词 may 使用，那就是:  The rabbit may **have eaten** the carrot. (这兔子可能吃掉了胡萝卜。)  如果再来个情态动词也加上时间，再加否定就成了: The rabbit could not **have eaten** the carrot. (这兔子不可能(之前就) 吃掉了这胡萝卜。)  如果再改被动，那就成了:  The carrot could not **have been eaten** by the rabbit. (这胡萝卜不可能(之前就) 被兔子吃掉了。)
 
@@ -286,7 +290,7 @@ In this video collection, let's talk about one of the most important (and possib
 
 一般现在时态构成很简单：直接加动词原形，也就是动词在字典里的词条就行。除了第三人称单数要在词尾加 `s` 。比如: 
 
-![image-20221219222252801](readme.assets/image-20221219222252801.png)
+<img src="readme.assets/image-20221219222252801.png" alt="image-20221219222252801" style="zoom:50%;" />
 
 这个时态可以说是 "最容易构成" 的时态。但是在综述视频里，英语兔我反而是把 "一般" 态放在现在时的最后来讲的，为什么？因为他反而是最容易出错的时态之一。最主要的原因是很多同学容易把 "现在" 时间 和 "一般" 状态弄混淆。一看到 "现在" 俩字，有些人就本能觉得那一定是现在正在进行中的动作喽。
 
