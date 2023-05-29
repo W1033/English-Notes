@@ -4,7 +4,7 @@
 
 > 当前笔记来源 YouTube 视频合集：https://www.youtube.com/watch?v=is7vn5URVcc&list=PLiRHe7F8P0-0ykWSiVY9Ia431TB-HzQm0&ab_channel=%E8%8B%B1%E8%AF%AD%E5%85%94
 
-![image-20220521175655970](readme.assets/image-20220521175655970.png)
+
 
 
 ## New Words

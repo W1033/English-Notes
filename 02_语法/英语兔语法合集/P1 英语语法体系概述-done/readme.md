@@ -28,14 +28,14 @@ But grammar... Ah, it's a whole different story. You see plenty of people with g
 - **谓语 (predicate)**
   + predicate `/ˈpredɪkət/` -noun[countable].谓语
 
-<img src="./readme.assets/image-20220522150047720.png" style="border-radius: 4px; width: auto; zoom: 80%;">
+<img src="./readme.assets/image-20220522150047720.png" style="border-radius: 4px; zoom: 50%;">
 
 换句话说，几乎所有的英语句子结构都是 **主语 + 谓语**。你也许要说等等，不是 "主谓宾" 吗？别急，这个问题先放一放，你马上就知道怎么回事了. 这里的主语一般是人或物，不管抽象还是具体，这也很好理解。
 
 而接下来的怎么样里面都有一个广义的动作或者发生了什么事儿，注意这个动作并不是我们平时狭义说的要 "动起来" 的 "动作"，而这个广义的动作也就是我们语法上说的 **动词 (verbs)**。
 
 <img src="./readme.assets/image-20220522150515441.png"
-    style="border-radius: 4px; width:auto;">
+    style="border-radius: 4px; width: auto; zoom: 67%;">
 
 那么，这世上有哪些不同类型的 "动作" 呢？
 
@@ -73,7 +73,7 @@ But grammar... Ah, it's a whole different story. You see plenty of people with g
 
 这里的核心动词是 teach 教，但是**教授的知识是英语**，而**知识的接受对象是你**。
 
-![image-20220522163638976](./readme.assets/image-20220522163638976.png)
+<img src="./readme.assets/image-20220522163638976.png" alt="image-20220522163638976" style="zoom:67%;" />
 
 在语法上，我们把这样的动词的两个承受者分别称为：
 
@@ -119,7 +119,7 @@ Papa Rabbit is tall. 中的 is 说白了就是把 Papa Rabbit 和 tall 连在一
 这个 look 通常意义是 "看"，但是这里到底是谁看啊？其实不是兔老爹在看，兔老爹在这里是被看；这句话的意思是 "兔老爹看上去高"，其实也是把动词后面的 tall 赋予给动词前面的主语 Papa Rabbit 而已，也算是划等号，只不过划等号比之前的 is 多了个 "看上去" 的意义。
 
 <img src="./readme.assets/image-20220522170650689.png"
-    style="border-radius: 4px; width:70%;">
+    style="border-radius: 4px; zoom: 67%;">
 
 你也可以说:
 
@@ -144,46 +144,56 @@ Papa Rabbit is tall. 中的 is 说白了就是把 Papa Rabbit 和 tall 连在一
 
 你别看我们刚刚只是在说英语的动词，实际上以上的这几种基本的动词所对应的简单句的类型可以说是涵盖了英语所有的句子。那些长长的看起来让人眼花缭乱的，让你做题做到吐血的，往往说到底都只不过是以上这 5 种动词对应的句子类型而已。
 
-<img src="./readme.assets/image-20220522173807430.png"
-    style="border-radius: 4px; width:70%;">
+<img src="./readme.assets/image-20220522173807430.png" style="border-radius: 4px; zoom: 67%;">
 
 其实你可能之前就听说过所谓英语的 5 种基本句型: 
 
 > #### 5 种基本句型
-> 
+>
 > ##### 1. 主语+动词
-> 
+>
 > ##### 2. 主语＋动词+宾语
-> 
+>
 > ##### 3. 主语＋动词+间接宾语+ 直接宾语
-> 
+>
 > ##### 4. 主语+动词+宾语＋宾语补语
-> 
+>
 > ##### 5. 主语+动词+ 主语补语/表语
-> 
+>
 > 注：还有一种 "八大句型" 的分类，即在 "五大句型" 基础上增加：
-> 
+>
 > ##### 6. "there be" 句型。
-> 
+>
 > 如：There is a rabbit. 可理解为第五种句型 "主语 + 系动词 + (主语)补语/表语" 的倒装。
-> 
+>
 > ##### 7. 主语 + 谓语动词 + 状语。
-> 
+>
 > 如：I live in China. 可理解为第一种句型 "主语 + 谓语动词" 的延伸 (虽然这里的状语很重要)。
-> 
+>
 > ##### 8. 主语 + 谓语动词 + 宾话 + 状语。
-> 
+>
 > 如：I put the carrot on the table. 可理解为第四种句型 "主语 + 谓语动词 + 宾语 + 宾语补语" 的延伸。
+>
+> > **ChatGPT:**
+> >
+> > - 主语：I（我）
+> > - 谓语：put（放置）
+> > - 宾语：the carrot（胡萝卜）
+> > - 介词短语：on the table（在桌子上）
+> >
+> > 在这个句子中，介词短语 "on the table" 实际上是一个状语，它修饰谓语 "put"，表示动作发生的位置。状语可以提供关于时间、地点、方式、原因等方面的信息。
+> >
+> > 因此，整个句子的结构是主语 + 谓语 + 宾语 + 状语。正确地描述了胡萝卜被放置在桌子上的动作和位置。
 
 你说不定还苦恼过，"这怎么背嘛，这么多什么语 + 什么语 + 什么语..." 现在你明白了吧？其实就是在说动词以及动词需要几个对象才能完整表达意思。
 
-![image-20220522174609567](./readme.assets/image-20220522174609567.png)
+<img src="./readme.assets/image-20220522174609567.png" alt="image-20220522174609567" style="zoom: 50%;" />
 
 好，咱们先快速做个小结.
 
 英语中的所有句子，当拆到不能再拆后都是在说: **"什么 + 怎么样"**，什么是语法上的**主语**，怎么样是**谓语**；谓语都有一个核心动词，叫做**谓语动词**。
 
-![image-20220522174818995](./readme.assets/image-20220522174818995.png)
+<img src="./readme.assets/image-20220522174818995.png" alt="image-20220522174818995" style="zoom: 60%;" />
 
 谓语动词有 5 个基本类别：
 
@@ -193,11 +203,11 @@ Papa Rabbit is tall. 中的 is 说白了就是把 Papa Rabbit 和 tall 连在一
 4. 有 1 个宾语，但是需要补充信息，也就是(宾语)补语。
 5. 用来赋予状态性质的 "系动词"，系动词之前是主语，之后是主语补语，又称作表语。
 
-![image-20220525114443465](readme.assets/image-20220525114443465.png)
+<img src="readme.assets/image-20220525114443465.png" alt="image-20220525114443465" style="zoom:60%;" />
 
 而这 5 种谓语动词便是对应了 5 种基本句型：
 
-![image-20220522175456515](./readme.assets/image-20220522175456515.png)
+<img src="./readme.assets/image-20220522175456515.png" alt="image-20220522175456515" style="zoom: 50%;" />
 
 如果你听懂了英语兔我刚才说的，请在公屏上告诉我哦！
 
@@ -209,7 +219,19 @@ Papa Rabbit is tall. 中的 is 说白了就是把 Papa Rabbit 和 tall 连在一
 
 ## ▲ 句子成分 (clause elements)
 
-句子成分除了刚才讲到的: (1)主语、(2)谓语动词、(3)宾语、(4)宾语补语、(5)主语补语，还有可能有以下主要成分。
+句子成分除了刚才讲到的: 
+
+### 1. 主语
+
+### 2. 谓语动词
+
+### 3. 宾语
+
+### 4. 宾语补语
+
+### 5. 主语补语
+
+还有可能有以下主要成分。
 
 ### 6. 定语 (Attributive): 主要用来修饰主语或宾语。
 
@@ -233,28 +255,36 @@ the little white 就是主语 rabbit 的定语，而 a large 就是宾语 carrot
 
 总结一下就是 **主语、谓语动词、宾语、宾语补语、主语补语/表语、定语、状语、同谓语**。
 
-<img src="./readme.assets/image-20220522213642677.png" alt="image-20220522213642677" style="zoom:67%;" />
+<img src="./readme.assets/image-20220522213642677.png" alt="image-20220522213642677" style="zoom: 50%;" />
 
-英语兔我要再次强调，咱们直到现在所说的都是所谓**简单句 (Simple Sentences)**，说白了就是没法再拆成更多句子，可是我们说话写文章可不全是简单句一个接一个的说。
+## ▲ 句子结构
 
-咱平时说话写文章，经常会把这些不同的简单句互相组合，形成所谓: (1) **compound sentences (复合句/并列句)** 和 (2) **complex sentences (复杂句)**
+### 1. 简单句 (simple sentences)
+
+### 2. 复合句/并列句 (compound sentences)
+
+### 3. 复杂句 (complex sentences)
+
+英语兔我要再次强调，咱们直到现在所说的都是所谓**(1) 简单句 (simple sentences)**，说白了就是没法再拆成更多句子，可是我们说话写文章可不全是简单句一个接一个的说。咱平时说话写文章，经常会把这些不同的简单句互相组合，形成所谓:  **(2)复合句/并列句 (compound sentences)** 和 **(3) 复杂句 (complex sentences)**。
+
+**复合句 (compound sentences)**: 说白了其实就是句子简单的叠加是并列关系，直接翻译为复合句，但是有的语法书上的术语是并列句。
+
+**复杂句 (complex sentences** 说白了就是把一个句子套在另一个句子里，甚至一个句子套的句子还能再套一个句子，一直套下去，此处并不禁止套娃，这是一种从属关系。complex sentences 直接翻译为复杂句。
+
+在这里以一个句子套另一个句子，在英语语法上分别叫做 **主句 (Main Clause)** 和 **从句 (Subordinate Clause)**。
 
 - compound  `/ˈkɑːmpaʊnd/` -n.复合物；混合物；化合物。-adj.复合的
 - complex `/kəmˈpleks/` -adj.复杂的。-n.复合体，综合体。
 
-**compound sentences** 说白了其实就是句子简单的叠加是并列关系，直接翻译为复合句，但是有的语法书上的术语是并列句。而 **complex sentences** 说白了就是把一个句子套在另一个句子里，甚至一个句子套的句子还能再套一个句子，一直套下去，此处并不禁止套娃，这是一种从属关系。complex sentences 直接翻译为复杂句。
-
-在这里以一个句子套另一个句子，在英语语法上分别叫做 **主句 (Main Clause)** 和 **从句 (Subordinate Clause)**。
-
 - clause `/klɔːz/` -n.从句；条款。
 
-- subordinate `/səˈbɔːrdɪnət/` -adj. 次要的；下级的。-n. 下级，下属；部属；从属。-vt.使从属于，使处于次要地位。
+- subordinate `/səˈbɔːrdɪnət/` -n. 下级，下属；部属；从属。-adj. 次要的；下级的。 -vt. 使从属于。
 
-<img src="./readme.assets/image-20220522214654876.png" alt="image-20220522214654876" style="zoom:67%;" />
+<img src="./readme.assets/image-20220522214654876.png" alt="image-20220522214654876" style="zoom: 40%;" />
 
 从句说白了就是把简单句修改一下来充当另一个句子的句子成分。
 
-<img src="./readme.assets/image-20220522215436986.png" alt="image-20220522215436986" style="zoom: 67%;" />
+<img src="./readme.assets/image-20220522215436986.png" alt="image-20220522215436986" style="zoom: 50%;" />
 
 比如我们修改一个简单句，它就可以充当另一个句子的主语 -- 这就是主语从句。
 
@@ -268,7 +298,7 @@ the little white 就是主语 rabbit 的定语，而 a large 就是宾语 carrot
 
 另外，我们修改一个简单从句，它就可以做定语、状语，很显然那些就是定语从句、状语从句。
 
-<img src="readme.assets/image-20220525141146447.png" alt="image-20220525141146447" style="zoom:80%;" />
+<img src="readme.assets/image-20220525141146447.png" alt="image-20220525141146447" style="zoom: 50%;" />
 
 英语这种套娃的从句和咱们中文习惯区别挺大，所以是英语语法难点之一。之后英语兔我会专门做一个视频合集细讲英语从句。
 
@@ -278,7 +308,7 @@ the little white 就是主语 rabbit 的定语，而 a large 就是宾语 carrot
 
 > ◆ He saw something over there.  他看见那边有什么东西。
 
-<img src="readme.assets/image-20220525142647726.png" alt="image-20220525142647726" style="zoom:80%;" />
+<img src="readme.assets/image-20220525142647726.png" alt="image-20220525142647726" style="zoom: 50%;" />
 
 很显然这两句话 "句型" 相同，但是包含的词却不太一样。也就是说，同一类句子成分里可能有不同的词类，这概念其实咱们中文也有。
 
@@ -373,7 +403,7 @@ the little white 就是主语 rabbit 的定语，而 a large 就是宾语 carrot
 
 说到这里英语兔我要提醒你，**句子成分 (Clause Elements)** 和 句子中的**词类 (Parts of Speech)** 是完全不同的概念，
 
- ![image-20220525152304459](readme.assets/image-20220525152304459.png)
+<img src="readme.assets/image-20220525152304459.png" alt="image-20220525152304459" style="zoom: 60%;" />
 
 这里面每一种句子成分除了谓语动词是动词，其他都可能包含不同的词类。你也许注意到了，句子成分中最特殊的似乎就是谓语动词这一类。其他句子成分可能是不同词类，但是谓语动词很显然只可能是动词。英语谓语动词有些很厉害的本领，而这些本领咱们中文的动词都没有，所以是英语语法难点之一。
 
@@ -391,7 +421,7 @@ the little white 就是主语 rabbit 的定语，而 a large 就是宾语 carrot
 
 以上两者合在一起称为 **`时态 (tense)`**。 
 
-![image-20220525171052482](readme.assets/image-20220525171052482.png)
+<img src="readme.assets/image-20220525171052482.png" alt="image-20220525171052482" style="zoom:50%;" />
 
 没错，英语的时态是: **时间 + 状态** 合在一起，而并非只有时间。
 
@@ -411,7 +441,7 @@ the little white 就是主语 rabbit 的定语，而 a large 就是宾语 carrot
 
 而动词的 4 种时间和 4 种状态自由排列组合，理论上就有 16 种可能的时态。
 
-![image-20220525173027183](readme.assets/image-20220525173027183.png)
+<img src="readme.assets/image-20220525173027183.png" alt="image-20220525173027183" style="zoom:50%;" />
 
 很多同学之所以时态这块很乱，没有搞清楚时态实际上是排列组合，并不是线性的列表，也并非只和时间有关。时态是英语的难点之一，因为咱们中文动词没有这样的特性，英语兔我之后会专门做一个视频细讲英语的时态。
 
@@ -425,11 +455,11 @@ the little white 就是主语 rabbit 的定语，而 a large 就是宾语 carrot
 
 (如果我是只兔子...) 中 I 后的 were 就暗示了我其实并不是只兔子，中文动词也没有这样的特性，所以也是一大难点。英语兔之后也会专门做一个视频细讲 "动词语气"。
 
-![image-20220529164426455](readme.assets/image-20220529164426455.png)
+<img src="readme.assets/image-20220529164426455.png" alt="image-20220529164426455" style="zoom:50%;" />
 
 以上三个概念在专业术语中称作 动词(Verb) 的 **Tense**, **Aspect**，**Mood**, 合称 TAM -- 中文往往一作动词的 **时**, **体**, **气**。
 
-![image-20220529165048695](readme.assets/image-20220529165048695.png)
+<img src="readme.assets/image-20220529165048695.png" alt="image-20220529165048695" style="zoom:50%;" />
 
 英语兔我在之后的视频会详细讲述谓语动词的几种厉害的本领，但是现在要特别指出一点，那就是，英语的谓语动词本身往往是不能够独立完成刚才说的那些本领，以及另外一些其他的本领，而且谓语动词独自也无法完成，比如表示否定、可能性、必须性等意思。
 
@@ -471,7 +501,7 @@ the little white 就是主语 rabbit 的定语，而 a large 就是宾语 carrot
 
 概括完毕。
 
-![image-20220529171003382](readme.assets/image-20220529171003382.png)
+<img src="readme.assets/image-20220529171003382.png" alt="image-20220529171003382" style="zoom:50%;" />
 
 以上就是英语语法体系的主体框架，绝大多数的语法规则都逃不出这个框架，而无数的规则和特例也只不过就是让这个核心体系更加丰富而已。当然请不要误解英语兔，我做这个视频的目的，我做这个视频可不是要告诉你英语语法很简单很规则，就那么几条，更不是告诉你那些厚厚的语法书里全都是废话。
 
