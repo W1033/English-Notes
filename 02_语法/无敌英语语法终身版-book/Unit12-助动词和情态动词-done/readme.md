@@ -722,6 +722,7 @@ would do 只说明过去如何，而 **used to 不但说明过去，也表明了
 > ◆ A: **Dare** you **tell** her the truth?  B: No, I **dare not** tell her the truth. *情态动词*
 
 ##### 3.8.2 need 其他用法：在表示 =="某事需要被..."==，need 后跟==动名词==，用主动语态的形式表示被动的意思，也可以用==不定式的被动语态==形式。
+
 > ◆ This house **needs cleaning**.
 > 
 > ◆ = This house **needs to be cleaned**.  (这个房子需要清扫了。)
