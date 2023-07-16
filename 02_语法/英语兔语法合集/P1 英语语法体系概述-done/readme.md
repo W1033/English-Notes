@@ -1,5 +1,14 @@
 # P1 英语语法体系概述
 
+
+
+> Reminder（提示）: 本文档为英语兔老师在 Youtube 上传的视频转录而成，但若无法打开油管，下面的 b 站视频也可以看，出入不大。 
+> 
+> https://www.bilibili.com/video/BV1r54y1m7gd/?spm_id_from=333.337.search-card.all.click&vd_source=e92153ec1930505e455be52646a78b7c
+
+
+
+
 Here's a question for you. What is the hardest part of learning English, pronunciation, grammar, or vocabulary`/və'kæbjəlɛri/`? let's see: pronunciation-wise as long as you don't make obvious` /ˈɒbviəs $ ˈɑːb-/ ` mistakes, having an accent is no big deal. as for vocabulary, you could acquire a reasonably`/'ri:znəbli/` large vocabulary through reading or verbal communication, or you could simply go through "word lists". 
 
 这是一个问题。 学习英语、发音、语法或词汇最难的部分是什么？ 让我们看看：发音方面只要你不犯明显的错误，有口音没什么大不了的。 至于词汇，你可以通过阅读或口头交流获得相当多的词汇，或者你可以简单地通过“单词表”。

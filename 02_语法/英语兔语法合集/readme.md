@@ -4,6 +4,7 @@
 
 > 当前笔记来源 YouTube 视频合集：https://www.youtube.com/watch?v=is7vn5URVcc&list=PLiRHe7F8P0-0ykWSiVY9Ia431TB-HzQm0&ab_channel=%E8%8B%B1%E8%AF%AD%E5%85%94
 
+> BiliBili 也有对应的视频，但是和 YouTube 的有些许差异，打不开油管的可以看 b 站： 
 
 
 
