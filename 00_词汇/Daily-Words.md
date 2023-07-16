@@ -977,8 +977,7 @@ if a woman flutters her eyelashes`/ˈaɪlæʃ/`(n.睫毛) at a man, she looks at
     + split(vt) logs. 劈开圆木.
     + The gale split(vt) the sails. 强风把帆扯破.
     + split(vt) a board in two. 把木板劈成两半.
-    + a debate that has split(vt) the country down the middle. 
-      使全国分成两大派的一场争论.
+    + a debate that has split(vt) the country down the middle. 使全国分成两大派的一场争论.
     + Let's split(vt)! 咱们快走吧.
     + This wood splits(vi) easily. 这种木材容易裂开.
     + The ship suddenly split(vi) in two. 那艘船突然裂成两半.
