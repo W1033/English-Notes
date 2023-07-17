@@ -8,6 +8,49 @@
 
 
 
+## TOC (Table of contents 目录)
+##### ▲ 句子入门 - 简单句
+##### ▲ 组成句子的最基本成分
+##### ▲ 句子结构 及 最重要的组成部分 - 动词
+- (1) 可以独立完成的动作(/动词)。 结构：主语 + 不及物动词
+- (2) 有 1 个动作的承受者。 结构：主语 + 单及物动词 + 宾语
+- (3) 有 2 个动作承受者。 结构: 主语 + 双及物动词 + 间接宾语 + 直接宾语
+- (4) 只有 1 个动作承受者(但需补充)，但又和第二种情况不太一样。 结构：主语 + 复杂及物动词 + 宾语 + (宾语)补语
+- (5) 非 "动作(词)"  结构: 主语 + 系动词 + (主语)补语/表语
+- 谓语动词是什么？
+##### ▲ 句子成分 (clause elements)
+1. 主语
+2. 谓语动词
+3. 宾语
+4. 宾语补语
+5. 主语补语
+6. 定语 (Attributive): 主要用来修饰主语或宾语。
+7. 状语 (adverbial): 主要用来修饰谓语动词。
+8. 同谓语: 主要用来再把主语或宾语说一遍。
+##### ▲ 句子结构
+1. 简单句 (simple sentences)
+2. 复合句/并列句 (compound sentences)
+3. 复杂句 (complex sentences)
+##### ▲ (单词的) 词性 (parts of speech)
+1. 动词 (verb) `v.`
+2. 名词 (noun) `n`
+3. 冠词 (article) `art.`
+4. 代词 (pronoun) `pron.`
+5. 形容词 (adjective) `adj.`
+6. 数词 (numeral) `num.`
+7. 副词 (adverb) `adv.`
+8. 介词 (preposition) `prep.`
+9. 感叹词 (interjection) `interj.`
+10. 连词 (conjunction) `conj.`
+##### ▲ 谓语动词的 "三大本领"。
+- (1) 表示动作的时间
+- (2) 表示动作的状态，
+- (3) 表示动作的假设, 情感...
+##### ▲ 助动词 (auxiliary verbs)
+##### ▲ 非谓语动词
+##### ▲ 概述英语语法体系
+
+
 
 Here's a question for you. What is the hardest part of learning English, pronunciation, grammar, or vocabulary`/və'kæbjəlɛri/`? let's see: pronunciation-wise as long as you don't make obvious` /ˈɒbviəs $ ˈɑːb-/ ` mistakes, having an accent is no big deal. as for vocabulary, you could acquire a reasonably`/'ri:znəbli/` large vocabulary through reading or verbal communication, or you could simply go through "word lists". 
 
@@ -21,7 +64,7 @@ But grammar... Ah, it's a whole different story. You see plenty of people with g
 
 如果你觉得现在自己的英语语法认知不成体系，那么我接下来就是要帮你理清整个英语语法的核心框架，如果你现在的英语语法已经学得不错了，那么接下来的内容也可能对你有些启发。
 
-## ▲ 简单句
+## ▲ 句子入门 - 简单句
 
 我想再问你一个问题，我们为什么学语法？ “为了考试考高分！” 好吧，我说的不是这个，其实所有的英语语法说白了只有一个目的 -- 造句。英语和中文一样，咱们说话写文章有的时候用短句子，有的时候用长句子，不同的短句又可以组合成新的长句。
 
@@ -29,7 +72,7 @@ But grammar... Ah, it's a whole different story. You see plenty of people with g
 
 我们把这样的不能再拆的 “基本句” 称: **简单句 (Simple Sentences)**。而这样的简单句 -- 除去那些 “嗯”，“哦”，“啊” 这样的感叹句、或者省略句、或者向整句提问的问句 -- 全部都是在说：什么怎么样？没错，绝大多数的句子粗略的分一共就只有这两个部分：**什么 + 怎么样**，而 “什么” 和 “怎么样” 分别对应了两个最基本的 **句子成分 (Clause Elements)** ("句子成分", 是个语法概念，咱们等会还要细讲.)
 
-## ▲ 最基本的句子成分
+## ▲ 组成句子的最基本成分
 
 现在你只要记住两个最基本的句子成分是:
 
@@ -48,7 +91,7 @@ But grammar... Ah, it's a whole different story. You see plenty of people with g
 
 那么，这世上有哪些不同类型的 "动作" 呢？
 
-## ▲ 动作(动词)
+## ▲ 句子结构 及 最重要的组成部分 - 动词
 
 ### (1) 可以独立完成的动作(/动词)。 结构：主语 + 不及物动词
 
@@ -74,7 +117,7 @@ But grammar... Ah, it's a whole different story. You see plenty of people with g
 
 好，我们再回头把之前的第二种情况再改进一下，只有一个宾语的及物动词，我们称之为 **单及物动词 (monotransitive verbs)**。所以第二种情况的句子基本结构, 更更精确就是: **主语 + 单及物动词 + 宾语**。
 
-### (3)有 2 个动作承受者。 结构: 主语 + 双及物动词 + 间接宾语 + 直接宾语
+### (3) 有 2 个动作承受者。 结构: 主语 + 双及物动词 + 间接宾语 + 直接宾语
 
 例如:
 
@@ -323,7 +366,7 @@ the little white 就是主语 rabbit 的定语，而 a large 就是宾语 carrot
 
 语法中的 
 
-## ▲  词性 (parts of speech)
+## ▲ (单词的) 词性 (parts of speech)
 
 包括
 
