@@ -308,8 +308,15 @@ In this video collection, let's talk about one of the most important (and possib
 
 
 
-
 在接下来的视频中，让我们一起来详细讨论每种时态的构成。
+
+
+
+
+
+# 16 种时态详解
+
+<img src="readme.assets/111.png" alt="image-111" style="zoom:50%; border:1px solid #eee; border-radius:20px;" />
 
 ## ▲ 一般现在时态
 
@@ -611,7 +618,7 @@ Would 加 b 加动词的现在分词，例句 I said I would be eating a carrot 
 
 
 
- 
+
 
 
 
