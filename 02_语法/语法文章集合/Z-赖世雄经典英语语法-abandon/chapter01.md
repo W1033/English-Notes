@@ -40,9 +40,9 @@
 
 
 说出下面句子画横线所作的成分:
-  
+
 <span style="border-bottom: 1px solid #ffa907;">That Forrest Gump saved others during the war</span>(主语从句) surprised us. 
-  
+
 The fact <span style="border-bottom: 1px solid #ffa907;">that Forrest Gump saved others during the war</span>(同位语从句) surprised us. 
 
 Mum always told me <span style="border-bottom: 1px solid #ffa907;"> that life was like a box of chocolate.</span>(宾语从句) The truth is <span style="border-bottom: 1px solid #ffa907;">that you never know what you're going to get.</span>(表语从句)
@@ -103,6 +103,7 @@ Mum always told me <span style="border-bottom: 1px solid #ffa907;"> that life wa
               = There is no use in `crying over split milk`. (覆水难收)
 
 ##### 4. `名词性从句`作主语
+
 - Added: 什么是`从句`? 答: 见`./英语中的从句.md`  
 - (4.1) 从事翻译时, 我们会碰到类似这样的句子:
     + [他不读书]令我生气. 这个句子的主语虽然是 "他不读书", 但若译为 `He doesn't study`
