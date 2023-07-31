@@ -263,6 +263,7 @@ we，you，they 有时并不指特定的人，而是用来泛指一般人。
 > Don't put **your** hands in **your** pockets. 别把（你的）手放在（你的）口袋里。
 
 #### (2) 谈到人体的某个部位时，往往不用物主代词，而是用介词短语来表示。
+
 > The ball caught him **on the head**. 球打在了他的头上。
 
 > The police caught him **by the`/ði/` arm**. 警察抓住了他的胳膊。

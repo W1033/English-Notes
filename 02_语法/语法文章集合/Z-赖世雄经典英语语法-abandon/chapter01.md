@@ -40,9 +40,9 @@
 
 
 说出下面句子画横线所作的成分:
-  
+
 <span style="border-bottom: 1px solid #ffa907;">That Forrest Gump saved others during the war</span>(主语从句) surprised us. 
-  
+
 The fact <span style="border-bottom: 1px solid #ffa907;">that Forrest Gump saved others during the war</span>(同位语从句) surprised us. 
 
 Mum always told me <span style="border-bottom: 1px solid #ffa907;"> that life was like a box of chocolate.</span>(宾语从句) The truth is <span style="border-bottom: 1px solid #ffa907;">that you never know what you're going to get.</span>(表语从句)
@@ -277,7 +277,9 @@ Mum always told me <span style="border-bottom: 1px solid #ffa907;"> that life wa
               = `How we can handle the problem` depends on how much money
               we can collect.
               我们如何处理这问题要视我们能募集到多少钱而定.
+
 ##### 6. `表距离的地方副词短语`作主语
+
 - `from` + `地方名词` + `to` + `地方名词`: 此为表距离的地方副词短语, 亦可作主语,
   与`单数的 be 动词`连用.
     + `From Shanghai to Beijing` is about 1000 kilometers.
@@ -407,6 +409,7 @@ Mum always told me <span style="border-bottom: 1px solid #ffa907;"> that life wa
     + He became [a good body(s.c)].
 
 ##### 10. 不完全不及物动词(系动词)的种类及其表语的用法
+
 + (a.) `be 动词` : be动词之后可用名词(含名词对等语如名词性从句、名词短语、动名词、
   不定式等)或 形容词(含作形容词的现在分词、过去分词、介词短语、地方副词或地方副词短语等)作表语.
     - be 动词之后有 11 种表语
