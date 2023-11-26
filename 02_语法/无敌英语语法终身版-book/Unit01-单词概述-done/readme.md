@@ -4,6 +4,8 @@
 
 ## New Words
 
+==待编辑：书写为表格形式==
+
 - plural `/'plʊr(ə)l/` --n. 复数. --adj. 复数的
 - noun `/naʊn/` --n.名词
 - verb `/vɝb/` --n.动词
@@ -169,6 +171,8 @@ Unit2 ~ Unit10 将详细介绍不同的词类.
 
 ### 3.2 派生法: 
 即在一个单词的前面加上一个前缀或后面加上一个后缀，有时前缀、后缀都加，从而构成一个新的单词。加后缀，一般是改变词性；加前缀，一般是改变词的意思，如变成原词的反义词。
+
+==下面这几个单词待编辑成表格形式==
 
 - **practice** `/ˈpræktɪs/` -noun <br>
     + (1) 练习 (when you do a particular thing, often regularly, in order to improve your skill at it.)
