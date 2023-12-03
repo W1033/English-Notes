@@ -68,16 +68,17 @@
       `on the whole`, `as has been stated`, `last but not least`, 
       `in addition`等.
 
+## ▲. 英文中 `提示` 的单词用法.
 
-## ▲. 英文中 `提示` 的单词用法. 
-- 温馨提示: Reminder.
-- 警告类提示: Warning/Caution
-- 一般提示: Notice
-- 提示: Hint 和 Tip 的区别:
-    + : a hint is like a partial$\color{red}{^*}$ piece of information that you either
-      give or is given to you, while a tip is a more complete and
-      objective$\color{red}{^*}$ information about the matter, but they both
-      have a very similar meaning.  (hint 就像是你提供或提供给你的部分信息,
-      而 tip 则是有关此事的更完整和客观的信息, 但是他们具有非常相似的含义.)
-    + Hint: an indirect suggestion(间接的暗示)
-    + Tip: an indication$\color{red}{^*}$ (一个提示)
+| 温馨提示:                                | Reminder.       |
+| ---------------------------------------- | --------------- |
+| 警告类提示:                              | Warning/Caution |
+| 一般提示:                                | Notice          |
+| 间接的暗示（an indirect suggestion）     | Hint            |
+| 一个提示（建议，忠告）（ an indication） | Tip             |
+
+**Hint 和 Tip 的区别**：
+
+a hint is like a partial$\color{red}{^*}$ piece of information that you either give or is given to you, while a tip is a more complete and objective$\color{red}{^*}$ information about the matter, but they both have a very similar meaning.  
+
+hint 就像是你提供或提供给你的部分信息，而 tip 则是有关此事的更完整和客观的信息，但是他们具有非常相似的含义.
