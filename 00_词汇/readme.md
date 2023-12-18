@@ -2,7 +2,6 @@
 
 
 
-
 ## ▲ 待编辑生词
 
 | 单词           | 美式发音           | 词类 + 汉语释义                |
@@ -25,6 +24,16 @@
 
 
 
+## ▲ 相似单词
+
+|   单词   |  发音   |   中文释义   |
+| :--- | :--- | :------- |
+| transition     |  `/træn'zɪʃən/`     |  n. 过渡；~~转变~~   |
+| transform      | `/træns'fɔrm/`      |  v. 变换；~~转换~~   |
+| transformation | `/ˌtrænsfəˈmeɪʃən/` |  n. 转化；变换   |
+
+
+
 
 ## ▲ 单词书写规则：
 
@@ -41,8 +50,7 @@
 (4) 形容词（adjective）的所有汉语释义都添加 `的`，也是为了下面的背诵做铺垫。
 
 
-
-## 单词背诵建议：
+## ▲ 单词背诵建议：
 
 (1) 如果单词只有名词（noun）一种词性时，直接背诵释义。例如：production 的背诵方式如下：
 
@@ -82,13 +90,5 @@
 > https://github.com/shimohq/chinese-programmer-wrong-pronunciation
 
 
-
-## ▲ 相似单词
-
-|   单词   |  发音   |   中文释义   |
-| :--- | :--- | :------- |
-| transition     |  `/træn'zɪʃən/`     |  n. 过渡；~~转变~~   |
-| transform      | `/træns'fɔrm/`      |  v. 变换；~~转换~~   |
-| transformation | `/ˌtrænsfəˈmeɪʃən/` |  n. 转化；变换   |
 
 
