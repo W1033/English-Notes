@@ -6,13 +6,13 @@
 
 | 单词           | 美式发音           | 词类 + 汉语释义                |
 | -------------- | ------------------ | ------------------------------ |
-| consortium     | /kənˈsɔrtiəm/      | n. 财团；联营企业              |
-| footprint      | /ˈfʊtˌprɪnt/       | n. 脚印；占地面积              |
-| specific       | /spəˈsɪfɪk/        | adj. 具体的；特定的；n. 特效药 |
-| combination    | /ˌkɑːmbɪˈneɪʃn/    | n. 组合；结合                  |
-| profile        | /ˈproʊˌfaɪl/       | n. 侧面，轮廓；简介；配置文件  |
-| reproducible   | /ˌriːprəˈduːsəbl/  | adj. 可再生的；可复写的        |
-| reproduce      | /ˌriːprəˈduːs/     | v. 复制；繁殖；重现            |
+| consortium     | `/kənˈsɔrtiəm/`      | n. 财团；联营企业              |
+| footprint      | `/ˈfʊtˌprɪnt/`       | n. 脚印；占地面积              |
+| specific       | `/spəˈsɪfɪk/`        | adj. 具体的；特定的；n. 特效药 |
+| combination    | `/ˌkɑːmbɪˈneɪʃn/`    | n. 组合；结合                  |
+| profile        | `/ˈproʊˌfaɪl/`       | n. 侧面，轮廓；简介；配置文件  |
+| reproducible   | `/ˌriːprəˈduːsəbl/`  | adj. 可再生的；可复写的        |
+| reproduce      | `/ˌriːprəˈduːs/`     | v. 复制；繁殖；重现            |
 |                |                    |                                |
 | 下面待做笔记   |                    |                                |
 | representation | /ˌrɛprɪzɛnˈteɪʃən/ | n. 表现；代表；描绘            |
