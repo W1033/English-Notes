@@ -4,6 +4,8 @@
 
 ## ▲ 待编辑生词
 
+*Edited: 2023.12.19 over*.
+
 | 单词           | 美式发音           | 词类 + 汉语释义                |
 | -------------- | ------------------ | ------------------------------ |
 | consortium     | `/kənˈsɔrtiəm/`      | n. 财团；联营企业              |
@@ -13,16 +15,14 @@
 | profile        | `/ˈproʊˌfaɪl/`       | n. 侧面；简介；配置文件  |
 | reproducible   | `/ˌriːprəˈduːsəbl/`  | adj. 可再生的；可复写的        |
 | reproduce      | `/ˌriːprəˈduːs/`     | v. 复制；繁殖；重现            |
-|                |                    |                                |
-| 下面待做笔记   |                    |  |
 | representation | `/ˌreprɪzenˈteɪʃən/` | n. 表示；表现；代表 |
 | entail         | `/ɪnˈteɪl/`      | v. 使必需；需要 |
 | analog         | `/ˈænəˌlɔɡ/`      | adj. 模拟的；类似的；n. 模拟器 |
-| arbitrary      | `/ˈɑːrbɪtrəri/`   | adj. 任意的；武断的<br />→ an arbitrary decision 武断的决定<br />→an arbitrary chosen number 任选的一个数字 |
-| correspond     | `/ˌkɑːrəˈspɑːnd/ ` | v. 符合；一致；相当            |
-| assign         | /əˈsaɪn/           | v. 指定；分配；委派            |
-| discrete       | /dɪˈskriːt/        | adj. 离散的；个别的；不连续的  |
-| reproduce      | /ˌriːprəˈduːs/     | v. 复制；繁殖；重现            |
+| arbitrary      | ` /ˈɑːrbətreri/` | adj. 任意的；武断的<br />→ an arbitrary decision 武断的决定<br />→ an arbitrary chosen number 任选的一个数字 |
+| correspond     | `/ˌkɑːrəˈspɑːnd/ ` | v. 符合；相符；相当          |
+| assign         | `/əˈsaɪn/`        | v. 指定；分配            |
+| discrete       | `/dɪˈskriːt/`     | adj. 离散的；分离的 |
+| reproduce      | `/ˌriːprəˈduːs/`  | v. 复制；繁殖；重现           |
 
 
 
