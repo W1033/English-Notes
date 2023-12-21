@@ -13,6 +13,9 @@
 - pavement
 - stray
 - observation
+- ladder
+- dialectic
+- swish
 - 
 
 
@@ -29,53 +32,53 @@
 
 ## ▲ 待编辑生词
 
-| **单词**        | **美式发音**     | **词类** **+** **汉语释义**  |
-| --------------- | ---------------- | ---------------------------- |
-| ~~arrangement~~ | /əˈreɪndʒmənt/   | n. 安排；布置；协议          |
-| ~~solar~~       | /ˈsoʊlər/        | adj. 太阳的；太阳能的        |
-| ~~flare~~       | /flɛr/           | n. 闪光；v. 闪烁             |
-| ~~furious~~     | /ˈfjʊriəs/       | adj. 狂怒的；猛烈的          |
-| ~~spark~~       | /spɑːrk/         | n. 火花；火星；v. 闪耀       |
-| ~~accuracy~~    | /ˈækjərəsi/      | n. 精确性；准确度            |
-| ~~chin~~        | /tʃɪn/           | n. 下巴                      |
-| ~~nuzzle~~      | /ˈnʌzəl/         | v. 用鼻子轻轻触碰            |
-| ~~breast~~      | /brɛst/          | n. 乳房；胸部                |
-| vile            | /vaɪl/           | adj. 卑鄙的；恶劣的          |
-| slipper         | /ˈslɪpər/        | n. 拖鞋                      |
-| swirl           | /swɜrl/          | v. 旋转；n. 旋涡             |
-| gritty          | /ˈɡrɪti/         | adj. 多砂粒的；坚韧的        |
-| striking        | /ˈstraɪkɪŋ/      | adj. 引人注目的；显著的      |
-| flour           | /flaʊər/         | n. 面粉                      |
-| kiwis           | /ˈkiwiz/         | n. 猕猴桃（复数）            |
-| ethylene        | /ˈɛθəˌlin/       | n. 乙烯                      |
-| signal          | /ˈsɪɡnəl/        | n. 信号；v. 发信号           |
-| kickstart       | /ˈkɪkstɑrt/      | v. 踢动启动；n. 起动器       |
-| ripen           | /ˈraɪpən/        | v. （使）成熟                |
-| overdrive       | /ˈoʊvərˌdraɪv/   | n. 过桥；超驱动；v. 过度运转 |
-| bunch           | /bʌntʃ/          | n. 串；束；群                |
-| chain           | /tʃeɪn/          | n. 链条；v. 用链条束缚       |
-| reaction        | /riˈækʃən/       | n. 反应；反作用              |
-| veggies         | /ˈvɛdʒiz/        | n. 蔬菜（俚语）              |
-| toss            | /tɔs/            | v. 投掷；辗转；n. 投掷       |
-| diametrical     | /ˌdaɪəˈmɛtrɪkəl/ | adj. 直径的；正好相对的      |
-| reciprocal      | /rɪˈsɪprəkl/     | adj. 相互的；倒数的          |
-| evoke           | /ɪˈvoʊk/         | v. 唤起；引起                |
-| geometric       | /ˌdʒiəˈmɛtrɪk/   | adj. 几何的；几何学的        |
-| cylindrical     | /sɪˈlɪndrɪkəl/   | adj. 圆柱形的                |
-| cylinder        | /ˈsɪlɪndər/      | n. 圆柱；汽缸                |
-| lime            | /laɪm/           | n. 酸橙；石灰；淡绿色        |
-| aqua            | /ˈækwə/          | n. 水绿色；水；蓝绿色        |
-| fuchsia         | /ˈfyuʃə/         | n. 紫红色；劳伦斯报春花      |
-| violet          | /ˈvaɪəlɪt/       | n. 紫罗兰色；紫罗兰花        |
-| spectrum        | /ˈspɛktrəm/      | n. 光谱；范围；一系列        |
-| spectral        | /ˈspɛktrəl/      | adj. 光谱的；幽灵的          |
-| radial          | /ˈreɪdiəl/       | adj. 辐射的；径向的；光线的  |
-| neutral         | /ˈnutrəl/        | adj. 中性的；中立的          |
-| formal          | /ˈfɔrməl/        | adj. 正式的；形式上的        |
-| derivation      | /ˌdɛrɪˈveɪʃən/   | n. 衍生；派生                |
-| colorcube       | /ˈkʌlərkjub/     | n. 色彩立方体；颜色立方      |
-| portion         | /ˈpɔrʃən/        | n. 部分；一份                |
-| scrape          | /skreɪp/         | v. 刮；擦；n. 刮痕；困境     |
+| **单词**        | **美式发音**       | **词类** **+** **汉语释义**  |
+| --------------- | ------------------ | ---------------------------- |
+| flour           | /flaʊər/           | n. 面粉                      |
+| kiwis           | /ˈkiwiz/           | n. 猕猴桃（复数）            |
+| ethylene        | /ˈɛθəˌlin/         | n. 乙烯                      |
+| signal          | /ˈsɪɡnəl/          | n. 信号；v. 发信号           |
+| kickstart       | /ˈkɪkstɑrt/        | v. 踢动启动；n. 起动器       |
+| ripen           | /ˈraɪpən/          | v. （使）成熟                |
+| overdrive       | /ˈoʊvərˌdraɪv/     | n. 过桥；超驱动；v. 过度运转 |
+| bunch           | /bʌntʃ/            | n. 串；束；群                |
+| chain           | /tʃeɪn/            | n. 链条；v. 用链条束缚       |
+| reaction        | /riˈækʃən/         | n. 反应；反作用              |
+| veggies         | /ˈvɛdʒiz/          | n. 蔬菜（俚语）              |
+| toss            | /tɔs/              | v. 投掷；辗转；n. 投掷       |
+| diametrical     | /ˌdaɪəˈmɛtrɪkəl/   | adj. 直径的；正好相对的      |
+| reciprocal      | /rɪˈsɪprəkl/       | adj. 相互的；倒数的          |
+| evoke           | /ɪˈvoʊk/           | v. 唤起；引起                |
+| geometric       | /ˌdʒiəˈmɛtrɪk/     | adj. 几何的；几何学的        |
+| cylindrical     | /sɪˈlɪndrɪkəl/     | adj. 圆柱形的                |
+| cylinder        | /ˈsɪlɪndər/        | n. 圆柱；汽缸                |
+| lime            | /laɪm/             | n. 酸橙；石灰；淡绿色        |
+| aqua            | /ˈækwə/            | n. 水绿色；水；蓝绿色        |
+| fuchsia         | /ˈfyuʃə/           | n. 紫红色；劳伦斯报春花      |
+| violet          | /ˈvaɪəlɪt/         | n. 紫罗兰色；紫罗兰花        |
+| spectrum        | /ˈspɛktrəm/        | n. 光谱；范围；一系列        |
+| spectral        | /ˈspɛktrəl/        | adj. 光谱的；幽灵的          |
+| radial          | /ˈreɪdiəl/         | adj. 辐射的；径向的；光线的  |
+| neutral         | /ˈnutrəl/          | adj. 中性的；中立的          |
+| formal          | /ˈfɔrməl/          | adj. 正式的；形式上的        |
+| derivation      | /ˌdɛrɪˈveɪʃən/     | n. 衍生；派生                |
+| colorcube       | /ˈkʌlərkjub/       | n. 色彩立方体；颜色立方      |
+| portion         | /ˈpɔrʃən/          | n. 部分；一份                |
+| scrape          | /skreɪp/           | v. 刮；擦；n. 刮痕；困境     |
+| ~~arrangement~~ | ~~/əˈreɪndʒmənt/~~ | ~~n. 安排；布置；协议~~      |
+| ~~solar~~       | ~~/ˈsoʊlər/~~      | ~~adj. 太阳的；太阳能的~~    |
+| ~~flare~~       | ~~/flɛr/~~         | ~~n. 闪光；v. 闪烁~~         |
+| ~~furious~~     | ~~/ˈfjʊriəs/~~     | ~~adj. 狂怒的；猛烈的~~      |
+| ~~spark~~       | ~~/spɑːrk/~~       | ~~n. 火花；火星；v. 闪耀~~   |
+| ~~accuracy~~    | ~~/ˈækjərəsi/~~    | ~~n. 精确性；准确度~~        |
+| ~~chin~~        | ~~/tʃɪn/~~         | ~~n. 下巴~~                  |
+| ~~nuzzle~~      | ~~/ˈnʌzəl/~~       | ~~v. 用鼻子轻轻触碰~~        |
+| ~~breast~~      | ~~/brɛst/~~        | ~~n. 乳房；胸部~~            |
+| ~~vile~~        | ~~/vaɪl/~~         | ~~adj. 卑鄙的；恶劣的~~      |
+| ~~slipper~~     | ~~/ˈslɪpər/~~      | ~~n. 拖鞋~~                  |
+| ~~swirl~~       | ~~/swɜrl/~~        | ~~v. 旋转；n. 旋涡~~         |
+| ~~gritty~~      | ~~/ˈɡrɪti/~~       | ~~adj. 多砂粒的；坚韧的~~    |
+| ~~striking~~    | ~~/ˈstraɪkɪŋ/~~    | ~~adj. 引人注目的；显著的~~  |
 
 | 单词         | 美式发音         | 词类 + 汉语释义           |
 | ------------ | ---------------- | ------------------------- |
