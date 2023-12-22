@@ -2,6 +2,16 @@
 
 
 
+## ▲ 单词发音疑惑
+
+*Created: 2023.12.22*
+
+<img src="readme.assets/image-20231222131649939.png" alt="image-20231222131649939" style="zoom:40%;" />
+
+Q: 为什么上面单词的音标中是短元音 `/ɪ/` ，但是读音却是长元音 `/iː/` 的短音版 `/i/`？ 
+
+像这种情况的发音问题不仅仅局限于 `/ɪ/`，其他情况也有，后续遇到其他情况，会继续补充。
+
 
 
 
@@ -16,6 +26,12 @@
 - ladder
 - dialectic
 - swish
+- cluster
+- compulsory
+- moron
+- 
+- 
+- 
 - 
 
 
@@ -32,53 +48,53 @@
 
 ## ▲ 待编辑生词
 
-| **单词**        | **美式发音**       | **词类** **+** **汉语释义**  |
-| --------------- | ------------------ | ---------------------------- |
-| flour           | /flaʊər/           | n. 面粉                      |
-| kiwis           | /ˈkiwiz/           | n. 猕猴桃（复数）            |
-| ethylene        | /ˈɛθəˌlin/         | n. 乙烯                      |
-| signal          | /ˈsɪɡnəl/          | n. 信号；v. 发信号           |
-| kickstart       | /ˈkɪkstɑrt/        | v. 踢动启动；n. 起动器       |
-| ripen           | /ˈraɪpən/          | v. （使）成熟                |
-| overdrive       | /ˈoʊvərˌdraɪv/     | n. 过桥；超驱动；v. 过度运转 |
-| bunch           | /bʌntʃ/            | n. 串；束；群                |
-| chain           | /tʃeɪn/            | n. 链条；v. 用链条束缚       |
-| reaction        | /riˈækʃən/         | n. 反应；反作用              |
-| veggies         | /ˈvɛdʒiz/          | n. 蔬菜（俚语）              |
-| toss            | /tɔs/              | v. 投掷；辗转；n. 投掷       |
-| diametrical     | /ˌdaɪəˈmɛtrɪkəl/   | adj. 直径的；正好相对的      |
-| reciprocal      | /rɪˈsɪprəkl/       | adj. 相互的；倒数的          |
-| evoke           | /ɪˈvoʊk/           | v. 唤起；引起                |
-| geometric       | /ˌdʒiəˈmɛtrɪk/     | adj. 几何的；几何学的        |
-| cylindrical     | /sɪˈlɪndrɪkəl/     | adj. 圆柱形的                |
-| cylinder        | /ˈsɪlɪndər/        | n. 圆柱；汽缸                |
-| lime            | /laɪm/             | n. 酸橙；石灰；淡绿色        |
-| aqua            | /ˈækwə/            | n. 水绿色；水；蓝绿色        |
-| fuchsia         | /ˈfyuʃə/           | n. 紫红色；劳伦斯报春花      |
-| violet          | /ˈvaɪəlɪt/         | n. 紫罗兰色；紫罗兰花        |
-| spectrum        | /ˈspɛktrəm/        | n. 光谱；范围；一系列        |
-| spectral        | /ˈspɛktrəl/        | adj. 光谱的；幽灵的          |
-| radial          | /ˈreɪdiəl/         | adj. 辐射的；径向的；光线的  |
-| neutral         | /ˈnutrəl/          | adj. 中性的；中立的          |
-| formal          | /ˈfɔrməl/          | adj. 正式的；形式上的        |
-| derivation      | /ˌdɛrɪˈveɪʃən/     | n. 衍生；派生                |
-| colorcube       | /ˈkʌlərkjub/       | n. 色彩立方体；颜色立方      |
-| portion         | /ˈpɔrʃən/          | n. 部分；一份                |
-| scrape          | /skreɪp/           | v. 刮；擦；n. 刮痕；困境     |
-| ~~arrangement~~ | ~~/əˈreɪndʒmənt/~~ | ~~n. 安排；布置；协议~~      |
-| ~~solar~~       | ~~/ˈsoʊlər/~~      | ~~adj. 太阳的；太阳能的~~    |
-| ~~flare~~       | ~~/flɛr/~~         | ~~n. 闪光；v. 闪烁~~         |
-| ~~furious~~     | ~~/ˈfjʊriəs/~~     | ~~adj. 狂怒的；猛烈的~~      |
-| ~~spark~~       | ~~/spɑːrk/~~       | ~~n. 火花；火星；v. 闪耀~~   |
-| ~~accuracy~~    | ~~/ˈækjərəsi/~~    | ~~n. 精确性；准确度~~        |
-| ~~chin~~        | ~~/tʃɪn/~~         | ~~n. 下巴~~                  |
-| ~~nuzzle~~      | ~~/ˈnʌzəl/~~       | ~~v. 用鼻子轻轻触碰~~        |
-| ~~breast~~      | ~~/brɛst/~~        | ~~n. 乳房；胸部~~            |
-| ~~vile~~        | ~~/vaɪl/~~         | ~~adj. 卑鄙的；恶劣的~~      |
-| ~~slipper~~     | ~~/ˈslɪpər/~~      | ~~n. 拖鞋~~                  |
-| ~~swirl~~       | ~~/swɜrl/~~        | ~~v. 旋转；n. 旋涡~~         |
-| ~~gritty~~      | ~~/ˈɡrɪti/~~       | ~~adj. 多砂粒的；坚韧的~~    |
-| ~~striking~~    | ~~/ˈstraɪkɪŋ/~~    | ~~adj. 引人注目的；显著的~~  |
+| **单词**        | **美式发音**         | **词类** **+** **汉语释义**              |
+| --------------- | -------------------- | ---------------------------------------- |
+| ~~flour~~       | ~~/flaʊər/~~         | n. 面粉                                  |
+| ~~kiwis~~       | ~~/ˈkiwiz/~~         | n. 猕猴桃（复数）                        |
+| ~~ethylene~~    | ~~/ˈɛθəˌlin/~~       | n. 乙烯                                  |
+| ~~signal~~      | ~~/ˈsɪɡnəl/~~        | n. 信号；v. 发信号                       |
+| ~~kickstart~~   | ~~/ˈkɪkstɑrt/~~      | v. 启动（摩托）；n.（摩托的）启动        |
+| ~~ripen~~       | ~~/ˈraɪpən/~~        | v. （使）成熟                            |
+| ~~overdrive~~   | ~~/ˈoʊvərˌdraɪv/~~   | n. 超速传动；过载                        |
+| ~~bunch~~       | ~~/bʌntʃ/~~          | n. 一束；一串；一群；v. 使成束；成群     |
+| ~~chain~~       | ~~/tʃeɪn/~~          | n. 链条；一系列；连锁；v. （用链条）拴住 |
+| ~~reaction~~    | ~~/riˈækʃən/~~       | n. 反应；反作用                      |
+| ~~veggies~~     | ~~/ˈvɛdʒiz/~~        | n. 蔬菜（俚语）                      |
+| ~~toss~~        | ~~/tɔs/~~            | v. 投掷；辗转；n. 投掷               |
+| ~~diametrical~~ | ~~/ˌdaɪəˈmɛtrɪkəl/~~ | adj. 直径的；正好相反的              |
+| ~~reciprocal~~  | ~~/rɪˈsɪprəkl/~~     | adj. 相互的；倒数的                  |
+| ~~evoke~~       | ~~/ɪˈvoʊk/~~         | v. 引起，唤起（感情、记忆或形象）       |
+| ~~geometric~~   | ~~/ˌdʒiəˈmɛtrɪk/~~   | adj. 几何的；几何学的                 |
+| cylindrical     | /sɪˈlɪndrɪkəl/       | adj. 圆柱形的                        |
+| cylinder        | /ˈsɪlɪndər/          | n. 圆柱；汽缸                        |
+| lime            | /laɪm/               | n. 酸橙；石灰；淡绿色                  |
+| aqua            | /ˈækwə/              | n. 水绿色；水；蓝绿色                  |
+| fuchsia         | /ˈfyuʃə/             | n. 紫红色；劳伦斯报春花                 |
+| violet          | /ˈvaɪəlɪt/           | n. 紫罗兰色；紫罗兰花                    |
+| spectrum        | /ˈspɛktrəm/          | n. 光谱；范围；一系列                    |
+| spectral        | /ˈspɛktrəl/          | adj. 光谱的；幽灵的                    |
+| radial          | /ˈreɪdiəl/           | adj. 辐射的；径向的；光线的              |
+| neutral         | /ˈnutrəl/            | adj. 中性的；中立的                      |
+| formal          | /ˈfɔrməl/            | adj. 正式的；形式上的                    |
+| derivation      | /ˌdɛrɪˈveɪʃən/       | n. 衍生；派生                            |
+| colorcube       | /ˈkʌlərkjub/         | n. 色彩立方体；颜色立方                  |
+| portion         | /ˈpɔrʃən/            | n. 部分；一份                            |
+| scrape          | /skreɪp/             | v. 刮；擦；n. 刮痕；困境                 |
+| ~~arrangement~~ | ~~/əˈreɪndʒmənt/~~   | ~~n. 安排；布置；协议~~                  |
+| ~~solar~~       | ~~/ˈsoʊlər/~~        | ~~adj. 太阳的；太阳能的~~                |
+| ~~flare~~       | ~~/flɛr/~~           | ~~n. 闪光；v. 闪烁~~                     |
+| ~~furious~~     | ~~/ˈfjʊriəs/~~       | ~~adj. 狂怒的；猛烈的~~                  |
+| ~~spark~~       | ~~/spɑːrk/~~         | ~~n. 火花；火星；v. 闪耀~~               |
+| ~~accuracy~~    | ~~/ˈækjərəsi/~~      | ~~n. 精确性；准确度~~                    |
+| ~~chin~~        | ~~/tʃɪn/~~           | ~~n. 下巴~~                              |
+| ~~nuzzle~~      | ~~/ˈnʌzəl/~~         | ~~v. 用鼻子轻轻触碰~~                    |
+| ~~breast~~      | ~~/brɛst/~~          | ~~n. 乳房；胸部~~                        |
+| ~~vile~~        | ~~/vaɪl/~~           | ~~adj. 卑鄙的；恶劣的~~                  |
+| ~~slipper~~     | ~~/ˈslɪpər/~~        | ~~n. 拖鞋~~                              |
+| ~~swirl~~       | ~~/swɜrl/~~          | ~~v. 旋转；n. 旋涡~~                     |
+| ~~gritty~~      | ~~/ˈɡrɪti/~~         | ~~adj. 多砂粒的；坚韧的~~                |
+| ~~striking~~    | ~~/ˈstraɪkɪŋ/~~      | ~~adj. 引人注目的；显著的~~              |
 
 | 单词         | 美式发音         | 词类 + 汉语释义           |
 | ------------ | ---------------- | ------------------------- |
