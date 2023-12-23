@@ -4,6 +4,8 @@
 
 ## ▲ 单词发音疑惑
 
+### (1) evoke
+
 *Created: 2023.12.22*
 
 <img src="readme.assets/image-20231222131649939.png" alt="image-20231222131649939" style="zoom:40%;" />
@@ -11,6 +13,10 @@
 Q: 为什么上面单词的音标中是短元音 `/ɪ/` ，但是读音却是长元音 `/iː/` 的短音版 `/i/`？ 
 
 像这种情况的发音问题不仅仅局限于 `/ɪ/`，其他情况也有，后续遇到其他情况，会继续补充。
+
+### (2) advantage
+
+advantage `/ədˈvæntɪdʒ/`，读音中第一个是字母 a 的发音是 `/ə/`，但词典上的读音好像类似 `/æ/`，我实在没搞明白！
 
 
 
@@ -34,6 +40,16 @@ Q: 为什么上面单词的音标中是短元音 `/ɪ/` ，但是读音却是长
 - negotiate
 - theoretical
 - cube
+- conclusive
+
+- rapid
+
+- contest
+
+- iteration
+
+- item
+
 - 
 
 - 
@@ -52,59 +68,84 @@ Q: 为什么上面单词的音标中是短元音 `/ɪ/` ，但是读音却是长
 
 ## ▲ 待编辑生词
 
-| 单词         | 美式发音         | 词类 + 汉语释义           |
-| ------------ | ---------------- | ------------------------- |
-| decisive     | /dɪˈsaɪsɪv/      | adj. 决定性的；果断的     |
-| expansion    | /ɪkˈspænʒən/     | n. 扩张；扩大；增长       |
-| contest      | /ˈkɑntɛst/       | n. 比赛；竞赛；v. 竞争    |
-| recurse      | /rɪˈkɜrs/        | v. 递归；迭代             |
-| pulsate      | /ˈpʌlseɪt/       | v. 脉动；有规律地振动     |
-| variant      | /ˈvɛriənt/       | n. 变体；adj. 不同的      |
-| muscle       | /ˈmʌsəl/         | n. 肌肉；力量             |
-| economic     | /ˌikəˈnɑmɪk/     | adj. 经济的；经济学的     |
-| Irish        | /ˈaɪrɪʃ/         | adj. 爱尔兰的；爱尔兰人的 |
-| unmistakable | /ˌʌnmɪsˈteɪkəbl/ | adj. 不会误解的；明显的   |
-| main         | /meɪn/           | adj. 主要的；n. 主要部分  |
-| cluster      | /ˈklʌstər/       | n. 簇；群；v. 聚集        |
-| spelling     | /ˈspɛlɪŋ/        | n. 拼写；拼法             |
-| idiom        | /ˈɪdiəm/         | n. 成语；习语             |
-
-| 单词         | 美式发音         | 词类 + 汉语释义           |
-| ------------ | ---------------- | ------------------------- |
-| decisive | /dɪˈsaɪsɪv/  | adj. 决定性的；果断的 |
-| expansion | /ɪkˈspænʒən/  | n. 扩张；扩大；增长 |
-| contest | /ˈkɑntɛst/  | n. 比赛；竞赛；v. 竞争 |
-| recurse | /rɪˈkɜrs/  | v. 递归；迭代 |
-| pulsate | /ˈpʌlseɪt/  | v. 脉动；有规律地振动 |
-| variant | /ˈvɛriənt/  | n. 变体；adj. 不同的 |
-| muscle | /ˈmʌsəl/  | n. 肌肉；力量 |
-| economic | /ˌikəˈnɑmɪk/  | adj. 经济的；经济学的 |
-| Irish | /ˈaɪrɪʃ/  | adj. 爱尔兰的；爱尔兰人的 |
-| unmistakable | /ˌʌnmɪsˈteɪkəbl/  | adj. 不会误解的；明显的 |
-| main | /meɪn/  | adj. 主要的；n. 主要部分 |
-| cluster | /ˈklʌstər/  | n. 簇；群；v. 聚集 |
-| spelling | /ˈspɛlɪŋ/  | n. 拼写；拼法 |
-| idiom | /ˈɪdiəm/  | n. 成语；习语单词,美式发音,词类 + 汉语释义 |
-| decisive | /dɪˈsaɪsɪv/  | adj. 决定性的；果断的 |
-| expansion | /ɪkˈspænʒən/  | n. 扩张；扩大；增长 |
-| contest | /ˈkɑntɛst/  | n. 比赛；竞赛；v. 竞争 |
-| recurse | /rɪˈkɜrs/  | v. 递归；迭代 |
-| pulsate | /ˈpʌlseɪt/  | v. 脉动；有规律地振动 |
-| variant | /ˈvɛriənt/  | n. 变体；adj. 不同的 |
-| muscle | /ˈmʌsəl/  | n. 肌肉；力量 |
-| economic | /ˌikəˈnɑmɪk/  | adj. 经济的；经济学的 |
-| Irish | /ˈaɪrɪʃ/  | adj. 爱尔兰的；爱尔兰人的 |
-| unmistakable | /ˌʌnmɪsˈteɪkəbl/  | adj. 不会误解的；明显的 |
-| main | /meɪn/  | adj. 主要的；n. 主要部分 |
-| cluster | /ˈklʌstər/  | n. 簇；群；v. 聚集 |
-| spelling | /ˈspɛlɪŋ/  | n. 拼写；拼法 |
-| idiom | /ˈɪdiəm/  | n. 成语；习语 |
-
 
 
 
 
 ## ▲ 已编辑生词
+
+*Edited: 2023.12.23*
+
+| 单词         | 美式发音         | 词类 + 汉语释义 |
+| ------------ | ---------------- | --------------- |
+| decisive     | /dɪˈsaɪsɪv/      |                 |
+| expansion    | /ɪkˈspænʒən/     |                 |
+| contest      | /ˈkɑntɛst/       |                 |
+| recurse      | /rɪˈkɜrs/        |                 |
+| pulsate      | /ˈpʌlseɪt/       |                 |
+| variant      | /ˈvɛriənt/       |                 |
+| muscle       | /ˈmʌsəl/         |                 |
+| economic     | /ˌikəˈnɑmɪk/     |                 |
+| Irish        | /ˈaɪrɪʃ/         |                 |
+| unmistakable | /ˌʌnmɪsˈteɪkəbl/ |                 |
+| main         | /meɪn/           |                 |
+| cluster      | /ˈklʌstər/       |                 |
+| spelling     | /ˈspɛlɪŋ/        |                 |
+| idiom        | /ˈɪdiəm/         |                 |
+
+
+
+*Edited: 2023.12.22*
+
+| **单词**    | **美式发音**     | **词类** **+** **汉语释义**  |
+| ----------- | ---------------- | ---------------------------- |
+| flour       | /flaʊər/         |                            |
+| kiwis       | /ˈkiwiz/         |                            |
+| ethylene    | /ˈɛθəˌlin/       |                            |
+| signal      | /ˈsɪɡnəl/        |                            |
+| kickstart   | /ˈkɪkstɑrt/      |                            |
+| ripen       | /ˈraɪpən/        |                            |
+| overdrive   | /ˈoʊvərˌdraɪv/   |                            |
+| bunch       | /bʌntʃ/          |                            |
+| chain       | /tʃeɪn/          |                            |
+| reaction    | /riˈækʃən/       |                            |
+| veggies     | /ˈvɛdʒiz/        |                            |
+| toss        | /tɔs/            |                            |
+| diametrical | /ˌdaɪəˈmɛtrɪkəl/ |                            |
+| reciprocal  | /rɪˈsɪprəkl/     |                            |
+| evoke       | /ɪˈvoʊk/         |                            |
+| geometric   | /ˌdʒiəˈmɛtrɪk/   |                            |
+| cylindrical | /sɪˈlɪndrɪkəl/   |                            |
+| cylinder    | /ˈsɪlɪndər/      |                            |
+| lime        | /laɪm/           |                            |
+| aqua        | /ˈækwə/          |                            |
+| fuchsia     | /ˈfyuʃə/         |                            |
+| violet      | /ˈvaɪəlɪt/       |                            |
+| spectrum    | /ˈspɛktrəm/      |                            |
+| spectral    | /ˈspɛktrəl/      |                            |
+| radial      | /ˈreɪdiəl/       |                            |
+| neutral     | /ˈnutrəl/        |                            |
+| formal      | /ˈfɔrməl/        |                            |
+| derivation  | /ˌdɛrɪˈveɪʃən/   |                            |
+| colorcube   | /ˈkʌlərkjub/     |                            |
+| portion     | /ˈpɔrʃən/        |                            |
+| scrape      | /skreɪp/         |                            |
+| arrangement | /əˈreɪndʒmənt/   |                            |
+| solar       | /ˈsoʊlər/        |                            |
+| flare       | /flɛr/           |                            |
+| furious     | /ˈfjʊriəs/       |                            |
+| spark       | /spɑːrk/         |                            |
+| accuracy    | /ˈækjərəsi/      |                            |
+| chin        | /tʃɪn/           |                            |
+| nuzzle      | /ˈnʌzəl/         |                            |
+| breast      | /brɛst/          |                            |
+| vile        | /vaɪl/           |                            |
+| slipper     | /ˈslɪpər/        |                            |
+| swirl       | /swɜrl/          |                            |
+| gritty      | /ˈɡrɪti/         |                            |
+| striking    | /ˈstraɪkɪŋ/      |                            |
+
+
 
 *Edited: 2023.12.19 over*.
 
@@ -125,6 +166,7 @@ Q: 为什么上面单词的音标中是短元音 `/ɪ/` ，但是读音却是长
 | assign         | `/əˈsaɪn/`        | v. 指定；分配            |
 | discrete       | `/dɪˈskriːt/`     | adj. 离散的；分离的 |
 | reproduce      | `/ˌriːprəˈduːs/`  | v. 复制；繁殖；重现           |
+| stress | `/stres/` | n. 压力；重读；v. 强调；重读 |
 
 
 
