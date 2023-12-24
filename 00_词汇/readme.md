@@ -50,7 +50,7 @@ advantage `/ədˈvæntɪdʒ/`，读音中第一个是字母 a 的发音是 `/ə/
 
 - item
 
-- 
+- quad
 
 - 
 
