@@ -34,29 +34,29 @@ advantage `/ədˈvæntɪdʒ/`，读音中第一个是字母 a 的发音是 `/ə/
 
 *Edited: 2023.12.25*
 
-| 单词        | 美式发音        | 词类 + 汉语释义                  |
-| ----------- | --------------- | -------------------------------- |
-| inward      | `/ˈɪnwərd/`     | adj. 内心的；向内的；adv. 向内地 |
-| quarrel     | `/ˈkwɑːrəl/`    | n. 争吵；争论；v. 争吵，争论     |
-| pavement    | `/ˈpeɪvmənt/`   | n. 人行道；路面                  |
-| stray       | /streɪ/         | v. 迷路；adj. 走失的，偏离的     |
-| observation | /ˌɑbsərˈveɪʃən/ | n. 观察；评论；观察力            |
-| ladder      | /ˈlædər/        | n. 梯子；阶梯                    |
-| dialectic   | /ˌdaɪəˈlɛktɪk/  | n. 辩证法；adj. 辩证的           |
-| swish       | /swɪʃ/          | v. 嗖嗖作响；n. 嗖嗖声           |
-| cluster     | /ˈklʌstər/      | n. 簇；群；v. 聚集               |
-| compulsory  | /kəmˈpʌlsəri/   | adj. 强制的；必修的              |
-| moron       | /ˈmɔrɑn/        | n. 低能者；白痴                  |
-| solitude    | /ˈsɑləˌtud/     | n. 孤独；独居                    |
-| socialize   | /ˈsoʊʃəˌlaɪz/   | v. 社交；使适应社会              |
-| negotiate   | /nɪˈɡoʊʃɪˌeɪt/  | v. 谈判；协商                    |
-| theoretical | /ˌθiəˈrɛtɪkl/   | adj. 理论的；假设的              |
-| cube        | /kjuːb/         | n. 立方体；v. 使成方块           |
-| conclusive  | /kənˈkluːsɪv/   | adj. 结论性的；决定性的          |
-| rapid       | /ˈræpɪd/        | adj. 快速的；迅猛的              |
-| contest     | /ˈkɑntɛst/      | n. 比赛；竞赛；v. 竞争           |
-| iteration   | /ˌɪtəˈreɪʃən/   | n. 迭代；重复                    |
-| item        | /ˈaɪtəm/        | n. 项目；条款；物品              |
+| 单词        | 美式发音           | 词类 + 汉语释义                    |
+| ----------- | ------------------ | ---------------------------------- |
+| inward      | `/ˈɪnwərd/`        | adj. 内心的；向内的；adv. 向内地   |
+| quarrel     | `/ˈkwɑːrəl/`       | n. 争吵；争论；v. 争吵，争论       |
+| pavement    | `/ˈpeɪvmənt/`      | n. 人行道；路面                    |
+| stray       | `/streɪ/`          | v. 走失，迷路；adj. 走失的；迷路的 |
+| observation | `/ˌɑːbzərˈveɪʃən/` | n. 观察；观测                      |
+| ladder      | `/ˈlædər/`         | n. 梯子；阶梯                      |
+| dialectic   | `/ˌdaɪəˈlektɪk/`   | n. 辩证法；adj. 辩证法的           |
+| swish       | `/swɪʃ/`           | v. 嗖嗖作响；n. 嗖嗖声             |
+| cluster     | /ˈklʌstər/         | n. 簇；群；v. 聚集                 |
+| compulsory  | /kəmˈpʌlsəri/      | adj. 强制的；必修的                |
+| moron       | /ˈmɔrɑn/           | n. 低能者；白痴                    |
+| solitude    | /ˈsɑləˌtud/        | n. 孤独；独居                      |
+| socialize   | /ˈsoʊʃəˌlaɪz/      | v. 社交；使适应社会                |
+| negotiate   | /nɪˈɡoʊʃɪˌeɪt/     | v. 谈判；协商                      |
+| theoretical | /ˌθiəˈrɛtɪkl/      | adj. 理论的；假设的                |
+| cube        | /kjuːb/            | n. 立方体；v. 使成方块             |
+| conclusive  | /kənˈkluːsɪv/      | adj. 结论性的；决定性的            |
+| rapid       | /ˈræpɪd/           | adj. 快速的；迅猛的                |
+| contest     | /ˈkɑntɛst/         | n. 比赛；竞赛；v. 竞争             |
+| iteration   | /ˌɪtəˈreɪʃən/      | n. 迭代；重复                      |
+| item        | /ˈaɪtəm/           | n. 项目；条款；物品                |
 
 
 
