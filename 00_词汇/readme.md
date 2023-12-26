@@ -24,15 +24,38 @@ advantage `/ədˈvæntɪdʒ/`，读音中第一个是字母 a 的发音是 `/ə/
 
 ## ▲ 待查生词
 
-- satisfaction
-- relief
+- 
+- 
+- 
 - 
 
 
 
 ## ▲ 待编辑生词
 
-*Edited: 2023.12.25*
+*Edited: 2023.12.26*
+
+| 单词         | 美式发音           | 词类 + 汉语释义           |
+| ------------ | ------------------ | ------------------------- |
+| conclusive   | /kənˈkluːsɪv/      | adj. 结论性的；决定性的   |
+| rapid        | /ˈræpɪd/           | adj. 快速的；迅猛的       |
+| contest      | /ˈkɑntɛst/         | n. 比赛；竞赛；v. 竞争    |
+| iteration    | /ˌɪtəˈreɪʃən/      | n. 迭代；重复             |
+| item         | `/ˈaɪtəm/`         | n. 一项、一条；项目；条款 |
+| satisfaction | ` /ˌsætəsˈfækʃən/` | n. 满意；满足；满意度     |
+| relief       | `/rɪˈlif/`         | n. 缓解；救济；浮雕       |
+| interference | `/ˌɪntərˈfɪrəns/`  | n. 干扰；干扰             |
+| pattern      | `/ˈpætərn/`        | n. 模式；图案；v. 模仿    |
+| medical      | `/ˈmɛdɪkl/`        | adj. 医学的；医疗的       |
+| locality     | `/loʊˈkæləti/`     | n. 地区；位置             |
+| calculation  | `/ˌkælkjəˈleɪʃən/` | n. 计算；推断             |
+| physical     | `/ˈfɪzɪkəl/`       | adj. 身体的；物理的       |
+| experiment   | `/ɪkˈsperəmənt/`   | n. 实验；v. 做实验        |
+|              |                    |                           |
+
+
+
+*Edited: 2023.12.25-26*
 
 | 单词        | 美式发音           | 词类 + 汉语释义                     | 例句                                                         |
 | ----------- | ------------------ | ----------------------------------- | ------------------------------------------------------------ |
@@ -52,11 +75,6 @@ advantage `/ədˈvæntɪdʒ/`，读音中第一个是字母 a 的发音是 `/ə/
 | negotiate   | `/nɪˈɡoʊʃiˌeɪt/`   | v. 谈判；协商                       | - The two countries are negotiating a trade agreement. <br />这两个国家正在谈判一项贸易协议。 |
 | theoretical | `/ˌθiːəˈretɪkəl/`  | adj. 理论的；理论上的               | - theoretical physics. 理论物理（学）                        |
 | cube        | `/kjuːb/`          | n. 立方体；v. 求...的立方；使成方块 | - a sugar cube 一块放糖<br />- Cut the meat into small cubes. 把肉切成丁。<br />- 4 cubed is 64. 4 的立方是 64. |
-| conclusive  | /kənˈkluːsɪv/      | adj. 结论性的；决定性的             |                                                              |
-| rapid       | /ˈræpɪd/           | adj. 快速的；迅猛的                 |                                                              |
-| contest     | /ˈkɑntɛst/         | n. 比赛；竞赛；v. 竞争              |                                                              |
-| iteration   | /ˌɪtəˈreɪʃən/      | n. 迭代；重复                       |                                                              |
-| item        | /ˈaɪtəm/           | n. 项目；条款；物品                 |                                                              |
 
 
 
