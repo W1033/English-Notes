@@ -33,6 +33,32 @@ advantage `/ədˈvæntɪdʒ/`，读音中第一个是字母 a 的发音是 `/ə/
 
 ## ▲ 待编辑生词
 
+
+
+*Edited: 2023.12.28*
+
+| 单词        | 美式发音       | 词类 + 汉语释义                 |
+| ----------- | -------------- | ------------------------------- |
+| honorable   | /ˈɑnərəbl̩/     | adj. 光荣的；可敬的             |
+| sandal      | /ˈsændəl/      | n. 凉鞋；穿凉鞋；木屐           |
+| commute     | /kəˈmjut/      | v. 通勤；交换；减刑             |
+| transparent | /trænsˈpærənt/ | adj. 透明的；清澈的；明了的     |
+| desire      | /dɪˈzaɪər/     | n. 渴望；欲望；v. 渴望，想要    |
+| tactic      | /ˈtæktɪk/      | n. 策略；战术                   |
+| endless     | /ˈɛndlɪs/      | adj. 无尽的；无休止的           |
+| refer       | /rɪˈfɜr/       | v. 参考；提到；提交             |
+| invoke      | /ɪnˈvoʊk/      | v. 援引；祈求；产生             |
+| spray       | /spreɪ/        | n. 喷雾；飞沫；v. 喷射，喷溅    |
+| steal       | /stil/         | v. 偷窃；偷偷地移动；n. 便宜货  |
+| ink         | /ɪŋk/          | n. 墨水；油墨；v. 钤记，签署    |
+| practice    | /ˈpræktɪs/     | n. 实践；练习；v. 练习；实行    |
+| humble      | /ˈhʌmbəl/      | adj. 谦卑的；谦逊的；v. 使谦卑  |
+| minute      | /ˈmɪnɪt/       | adj. 微小的；n. 分钟；v. 记录   |
+| phrasal     | /ˈfreɪzəl/     | adj. 成语的；短语的             |
+| brush       | /brʌʃ/         | n. 刷子；v. 刷；擦过；与...擦碰 |
+
+
+
 *Edited: 2023.12.26*
 
 | 单词         | 美式发音           | 词类 + 汉语释义           |
