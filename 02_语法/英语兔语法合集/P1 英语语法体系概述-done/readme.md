@@ -1,54 +1,34 @@
 # P1 英语语法体系概述
 
 
-
 > Reminder（提示）: 本文档为英语兔老师在 Youtube 上传的视频转录而成，但若无法打开油管，下面的 b 站视频也可以看，出入不大。 
 > 
 > https://www.bilibili.com/video/BV1r54y1m7gd/?spm_id_from=333.337.search-card.all.click&vd_source=e92153ec1930505e455be52646a78b7c
 
 
 
-## TOC (Table of contents 目录)
-##### ▲ 句子入门 - 简单句
-##### ▲ 组成句子的最基本成分
-##### ▲ 句子结构 及 最重要的组成部分 - 动词
-- (1) 可以独立完成的动作(/动词)。 结构：主语 + 不及物动词
-- (2) 有 1 个动作的承受者。 结构：主语 + 单及物动词 + 宾语
-- (3) 有 2 个动作承受者。 结构: 主语 + 双及物动词 + 间接宾语 + 直接宾语
-- (4) 只有 1 个动作承受者(但需补充)，但又和第二种情况不太一样。 结构：主语 + 复杂及物动词 + 宾语 + (宾语)补语
-- (5) 非 "动作(词)"  结构: 主语 + 系动词 + (主语)补语/表语
-- 谓语动词是什么？
-##### ▲ 句子成分 (clause elements)
-1. 主语
-2. 谓语动词
-3. 宾语
-4. 宾语补语
-5. 主语补语
-6. 定语 (Attributive): 主要用来修饰主语或宾语。
-7. 状语 (adverbial): 主要用来修饰谓语动词。
-8. 同谓语: 主要用来再把主语或宾语说一遍。
-##### ▲ 句子结构
-1. 简单句 (simple sentences)
-2. 复合句/并列句 (compound sentences)
-3. 复杂句 (complex sentences)
-##### ▲ (单词的) 词性 (parts of speech)
-1. 动词 (verb) `v.`
-2. 名词 (noun) `n`
-3. 冠词 (article) `art.`
-4. 代词 (pronoun) `pron.`
-5. 形容词 (adjective) `adj.`
-6. 数词 (numeral) `num.`
-7. 副词 (adverb) `adv.`
-8. 介词 (preposition) `prep.`
-9. 感叹词 (interjection) `interj.`
-10. 连词 (conjunction) `conj.`
-##### ▲ 谓语动词的 "三大本领"。
-- (1) 表示动作的时间
-- (2) 表示动作的状态，
-- (3) 表示动作的假设, 情感...
-##### ▲ 助动词 (auxiliary verbs)
-##### ▲ 非谓语动词
-##### ▲ 概述英语语法体系
+## ▲ New Words
+
+| 单词           | 美式发音            | 词类 + 汉语释义                     |
+| -------------- | ------------------- | ----------------------------------- |
+| vocabulary     | `/vəˈkæbjələri/`    | n. 词汇；词汇表                     |
+| obvious        | `/ˈɑːbviəs/`        | adj. 明显的；显而易见的             |
+| reasonably     | `/ˈrizənəbli/`      | adv. 合理地；相当地                 |
+| regional       | `/ˈriːdʒənəl/`      | adj. 地区的；区域的                 |
+| predicate      | `/ˈpredɪkət/`       | n. 谓语；v. 断言                    |
+| monotransitive | `/ˌmɑnətrænˈzɪtɪv/` | adj. 单及物的（动词只需一个宾语的） |
+| ditransitive   | `/ˌdaɪtrænˈzɪtɪv/`  | adj. 双及物的（动词需要两个宾语的） |
+| predicative    | /prɪˈdɪkəˌteɪtɪv/   | adj. 表语的；谓语性的               |
+| attributive    | `/əˈtrɪbjəˌtɪv/`    | n. 定语；adj. 定语的；作定语的      |
+| adverbial      | `/ədˈvɜːrbiəl/ `    | n. 状语；adj. 状语的；副词的        |
+| compound       | /ˈkɑmpaʊnd/         | n. 化合物；adj. 复合的；v. 使合成   |
+| complex        | /ˈkɑmplɛks/         | adj. 复杂的；n. 复合物              |
+| clause         | /klɔz/              | n. 从句；条款                       |
+| subordinate    | /səˈbɔrdənɪt/       | adj. 从属的；下级的；v. 使从属      |
+| tense          | /tɛns/              | n. 时态；adj. 紧张的；v. 使紧张     |
+| aspect         | /ˈæspɛkt/           | n. 方面；外观；观点                 |
+| mood           | /mud/               | n. 心情；语气；调子                 |
+
 
 
 
@@ -188,7 +168,7 @@ Papa Rabbit is tall. 中的 is 说白了就是把 Papa Rabbit 和 tall 连在一
 而 主语补语 在咱们中国英语教学中还有另外一个名字叫 **表语 (predicative)**。
 
 - predicative `/prɪˈdɪkətɪv $ ˈpredəkeɪtɪv/` -adj.谓语性的，作表语的
-  + These adjectives`/ˈædʒəktɪv/` are usually used to as the predicative`/predəkeɪtɪv/` in a sentence. 这类形容词通常用在句子中作表语。
+  + These adjectives`/ˈædʒəktɪv/` are usually used to as the predicative in a sentence. 这类形容词通常用在句子中作表语。
 
 所以， 第 5 种也就是最后一种情况的句子基本结构: **主语 + 系动词 + (主语)补语/表语**。
 
