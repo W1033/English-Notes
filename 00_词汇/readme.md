@@ -33,6 +33,23 @@ advantage `/ədˈvæntɪdʒ/`，读音中第一个是字母 a 的发音是 `/ə/
 
 ## ▲ 待编辑生词
 
+*Added: 2024.01.06*
+
+| 单词       | 美式发音      | 词类 + 汉语释义                 |
+| ---------- | ------------- | ------------------------------- |
+| reasonable | /ˈrizənəbl̩/   | adj. 合理的；公道的             |
+| spoon      | /spun/        | n. 匙；调羹；v. 用勺子舀取      |
+| bucket     | /ˈbʌkɪt/      | n. 桶；一桶的量；v. 使...倒入桶 |
+| structure  | /ˈstrʌktʃər/  | n. 结构；构造；v. 构建          |
+| refer      | /rɪˈfɜr/      | v. 参考；涉及；提交             |
+| referee    | /ˌrɛfəˈri/    | n. 裁判员；v. 仲裁，裁决        |
+| renew      | /rɪˈnju/      | v. 更新；恢复；重新开始         |
+| proud      | /praʊd/       | adj. 骄傲的；自豪的；高傲的     |
+| float      | /floʊt/       | v. 漂浮；浮现；n. 浮动物体      |
+| attain     | /əˈten/       | v. 达到；获得；完成             |
+| underage   | /ˌʌndərˈeɪdʒ/ | adj. 未成年的                   |
+|            |               |                                 |
+
 
 
 *Edited: 2023.12.28*

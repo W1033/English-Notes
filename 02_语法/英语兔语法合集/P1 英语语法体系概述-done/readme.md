@@ -18,11 +18,12 @@
 | predicate      | `/ˈpredɪkət/`       | n. 谓语；v. 断言                    |
 | monotransitive | `/ˌmɑnətrænˈzɪtɪv/` | adj. 单及物的（动词只需一个宾语的） |
 | ditransitive   | `/ˌdaɪtrænˈzɪtɪv/`  | adj. 双及物的（动词需要两个宾语的） |
-| predicative    | /prɪˈdɪkəˌteɪtɪv/   | adj. 表语的；谓语性的               |
+| predicative    | `/ˈpredəkeɪtɪv/`     | adj. 表语的；谓语性的               |
+| predicate | `/ˈpredɪkət/` | n. 谓语；v. 断言 |
 | attributive    | `/əˈtrɪbjəˌtɪv/`    | n. 定语；adj. 定语的；作定语的      |
 | adverbial      | `/ədˈvɜːrbiəl/ `    | n. 状语；adj. 状语的；副词的        |
-| compound       | /ˈkɑmpaʊnd/         | n. 化合物；adj. 复合的；v. 使合成   |
-| complex        | /ˈkɑmplɛks/         | adj. 复杂的；n. 复合物              |
+| compound       | `/ˈkɑːmpaʊnd/` | n. 化合物；复合词；adj. 复合的；v. 使合成 |
+| complex        | `/ˌkɑːmˈpleks/` | adj. 复杂的；n. 复合物              |
 | clause         | /klɔz/              | n. 从句；条款                       |
 | subordinate    | /səˈbɔrdənɪt/       | adj. 从属的；下级的；v. 使从属      |
 | tense          | /tɛns/              | n. 时态；adj. 紧张的；v. 使紧张     |
