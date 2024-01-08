@@ -487,3 +487,4 @@
 | **visible**    | **a/.**明显的，看得见 的 | see                  |
 | **visual**     | 是觉得                   | image                |
 | **well-being** | ”.健康，康乐             | health               |
+
