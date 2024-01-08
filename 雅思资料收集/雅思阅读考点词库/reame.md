@@ -44,28 +44,28 @@
 
 **ChatGPT answer + Edited by myself**
 
-| 单词        | 美式发音           | 词类 + 汉语释义                                              |
-| ----------- | ------------------ | ------------------------------------------------------------ |
-| resemble    | /rɪˈzɛmbəl/        | v. 类似；像；类似于                                          |
-| recognize   | /ˈrɛkəɡˌnaɪz/      | v. 认出；承认；公认                                          |
-| adjust      | /əˈdʒʌst/          | v. 调整；适应；校正                                          |
-| approach    | /əˈproʊtʃ/         | v. 靠近；接近；n. 靠近；方法                                 |
-| fundamental | /ˌfʌndəˈmɛntəl/    | adj. 基本的；根本的；n. 基本原理                             |
-| rely on     | /rɪˈlaɪ ɒn/        | 依赖；依靠                                                   |
-| domestic    | /dəˈmɛstɪk/        | adj. 国内的；家庭的；驯养的                                  |
-| measure     | `/ˈmɛʒər/`         | v. 测量；衡量；n. 措施；尺寸                                 |
-| trait       | `/treɪt/`          | n. 特征；特点；品质                                          |
-| coin        | `/kɔɪn/`           | n. 硬币；v. 创造新词                                         |
-| artificial  | `/ˌɑːrtɪˈfɪʃəl/`   | adj. 人造的；人工的；虚假的                                  |
-| prompt      | `/prɑːmpt/`        | v. 提示；鼓励；<br />n. 提示符；<br />adj. 迅(xùn)速的；敏捷的；<br />adv. 迅速地；敏捷地 |
-| exchange    | `/ɪksˈtʃeɪndʒ/`    | n. 交换；兑换；v. 交换；兑换                                 |
-| underlie    | `/ˌʌndərˈlaɪ/`     | v. 构成...的基础；位于...之下                                |
-| ignore      | `/ɪɡˈnɔr/`         | v. 忽视；忽略                                                |
-| fertiliser  | `/ˈfɜːtəlaɪzə/`    | n. 肥料                                                      |
-| that        | `/ðæt/`            | determiner, pronoun. 那，那个；<br />conj. 因为；以至于（引导从句，连接词）；<br />adv. 那么；那样 |
-| and         | `/ænd/`            | conj. 和；而且；<br />n. 逻辑与(AND)                         |
-| rather than | `/ˈræðər/` `/ðæn/` | 宁愿；而不是                                                 |
-| thanks to   | `/θæŋks/` `/tu/`   | 由于；幸亏                                                   |
+| 单词        | 美式发音           | 词类 + 汉语释义                                              | 雅思阅读真题命题方式                                         |
+| ----------- | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| resemble    | ` /rɪˈzembəl/`     | v. 像；类似                                                  | like, look like, be similar to                               |
+| recognize   | `/ˈrɛkəɡˌnaɪz/`    | v. 认出，识别；承认                                          | perceive, acknowledge, realize,appreciate, admit, identify, comprehend, understand, know |
+| adjust      | `/əˈdʒʌst/`        | v. 调整；适应；校正                                          | change, modify, shift, alter                                 |
+| approach    | `/əˈproʊtʃ/`       | n. 方法；v. 靠近；接近                                       | method, way                                                  |
+| fundamental | `/ˌfʌndəˈmentəl/`  | adj. 基本的；根本的；n. 基本原理                             | rudimentary, preliminary, basic                              |
+| rely on     | /`rɪˈlaɪ` - `ɒn`/  | 依赖；依靠                                                   | depend on                                                    |
+| domestic    | `/dəˈmɛstɪk/`      | adj. 国内的；家庭的                                          | home, local, national                                        |
+| measure     | `/ˈmɛʒər/`         | v. 测量；衡量；n. 措施；尺寸                                 | calculate, assess, evaluate                                  |
+| trait       | `/treɪt/`          | n. 特征；特点；品质                                          | characteristic, feature, property                            |
+| coin        | `/kɔɪn/`           | n. 硬币；v. 创造新词                                         | first used, invent                                           |
+| artificial  | `/ˌɑːrtɪˈfɪʃəl/`   | adj. 人造的；人工的；虚假的                                  | synthetic, man-made                                          |
+| prompt      | `/prɑːmpt/`        | v. 提示；鼓励；<br />n. 提示符；<br />adj. 迅(xùn)速的；敏捷的；<br />adv. 迅速地；敏捷地 | initiate, immediately                                        |
+| exchange    | `/ɪksˈtʃeɪndʒ/`    | n. 交换；兑换；v. 交换；兑换                                 | share, apply A to B                                          |
+| underlie    | `/ˌʌndərˈlaɪ/`     | v. 构成...的基础；位于...之下                                | based on, ground, root                                       |
+| ignore      | `/ɪɡˈnɔr/`         | v. 忽视；忽略                                                | neglect, overlook, underestimate                             |
+| fertiliser  | `/ˈfɜːtəlaɪzə/`    | n. 肥料                                                      | chemical, toxic, unnatural                                   |
+| that        | `/ðæt/`            | determiner, pronoun. 那，那个；<br />conj. 因为；以至于（引导从句，连接词）；<br />adv. 那么；那样 | this, it, they, those, these, such <br />*指代是雅思阅读的重要考点 |
+| and         | `/ænd/`            | conj. 和；而且；<br />n. 逻辑与(AND)                         | or; as well as, both...and, not only...but also..., other than, in addition, besides, on the one hand...on the other hand..., neither...nor...<br />*并列结构是雅思阅读的重要考点 |
+| rather than | `/ˈræðər/` `/ðæn/` | 宁愿；而不是                                                 | but, yet, however; whereas, nonetheless, nevertheless, although, notwithstanding though, instead<br />*转折结构是雅思阅读的重要考点 |
+| thanks to   | `/θæŋks/` `/tu/`   | 由于；幸亏                                                   | stem from, derive, owing to, due to, according to, because of, on account of, as a result of, leading to, because, since, for; in that, as, therefore, hence <br />*因果关系是雅思阅读重要考点 |
 
 
 
@@ -77,7 +77,7 @@
 
 ## 第二类考点词
 
-共100+71=171个3主：这类词中考点词与近义词有重复，故卖际为171个考 点词。丿
+共100+71=171个3主：这类词中考点词与近义词有重复，故卖际为171个考 点词。
 
 定义：雅思阅谈丈章中只要出现该词，60%会疲命题考查！不同的真题中疲考 查过一次以上重要考点词！
 
