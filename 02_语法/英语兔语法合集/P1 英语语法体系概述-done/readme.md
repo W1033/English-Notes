@@ -16,28 +16,26 @@
 | reasonably     | `/ˈrizənəbli/`      | adv. 合理地；相当地                 |
 | regional       | `/ˈriːdʒənəl/`      | adj. 地区的；区域的                 |
 | predicate      | `/ˈpredɪkət/`       | n. 谓语；v. 断言                    |
-| monotransitive | `/ˌmɑnətrænˈzɪtɪv/` | adj. 单及物的（动词只需一个宾语的） |
-| ditransitive   | `/ˌdaɪtrænˈzɪtɪv/`  | adj. 双及物的（动词需要两个宾语的） |
+| monotransitive | `/ˌmɑnətrænˈzətɪv/` | adj. 单及物的（动词只需一个宾语的） |
+| ditransitive   | `/ˌdaɪtrænˈzətɪv/` | adj. 双及物的（动词需要两个宾语的） |
 | predicative    | `/ˈpredəkeɪtɪv/`     | adj. 表语的；谓语性的               |
 | predicate | `/ˈpredɪkət/` | n. 谓语；v. 断言 |
 | attributive    | `/əˈtrɪbjəˌtɪv/`    | n. 定语；adj. 定语的；作定语的      |
 | adverbial      | `/ədˈvɜːrbiəl/ `    | n. 状语；adj. 状语的；副词的        |
 | compound       | `/ˈkɑːmpaʊnd/` | n. 化合物；复合词；adj. 复合的；v. 使合成 |
 | complex        | `/ˌkɑːmˈpleks/` | adj. 复杂的；n. 复合物              |
-| clause         | /klɔz/              | n. 从句；条款                       |
-| subordinate    | /səˈbɔrdənɪt/       | adj. 从属的；下级的；v. 使从属      |
-| tense          | /tɛns/              | n. 时态；adj. 紧张的；v. 使紧张     |
-| aspect         | /ˈæspɛkt/           | n. 方面；外观；观点                 |
-| mood           | /mud/               | n. 心情；语气；调子                 |
+| clause         | `/ klɒːz/`     | n. 从句；条款                       |
+| subordinate    | `/səˈbɔːrdənət/` | adj. 下级的；次要的；n. 下级；下属 |
+| tense          | `/tens/`          | n. 时态；adj. 紧张的；v. 使紧张     |
+| aspect         | `/ˈæspekt/` | n. 方面；外观                 |
+| mood           | `/muːd/`       | n. 心情；语气；情绪 |
 
 
-
-
-Here's a question for you. What is the hardest part of learning English, pronunciation, grammar, or vocabulary`/və'kæbjəlɛri/`? let's see: pronunciation-wise as long as you don't make obvious` /ˈɒbviəs $ ˈɑːb-/ ` mistakes, having an accent is no big deal. as for vocabulary, you could acquire a reasonably`/'ri:znəbli/` large vocabulary through reading or verbal communication, or you could simply go through "word lists". 
+Here's a question for you. What is the hardest part of learning English, pronunciation, grammar, or `vocabulary`? let's see: pronunciation-wise as long as you don't make `obvious` mistakes, having an accent is no big deal. as for vocabulary, you could acquire a `reasonably` large vocabulary through reading or verbal communication, or you could simply go through "word lists". 
 
 这是一个问题。 学习英语、发音、语法或词汇最难的部分是什么？ 让我们看看：发音方面只要你不犯明显的错误，有口音没什么大不了的。 至于词汇，你可以通过阅读或口头交流获得相当多的词汇，或者你可以简单地通过“单词表”。
 
-But grammar... Ah, it's a whole different story. You see plenty of people with good pronunciation and vocabulary still making grammar mistakes in every other sentence. A regional`/'ridʒənl/` accent might be a part of your identity that you can be proud of, but can you also be proud of grammar mistakes? Perhaps not. Also, should you ever try to memorize grammar rules the same way you memorize new words? It's not like you have time to recall a rule before you speak, Right? The fact is, grammar can be tough. And the whole English grammar system just seems like a big mess, doesn't it？ I'm here to help.
+But grammar... Ah, it's a whole different story. You see plenty of people with good pronunciation and vocabulary still making grammar mistakes in every other sentence. A `regional` accent might be a part of your identity that you can be proud of, but can you also be proud of grammar mistakes? Perhaps not. Also, should you ever try to memorize grammar rules the same way you memorize new words? It's not like you have time to recall a rule before you speak, Right? The fact is, grammar can be tough. And the whole English grammar system just seems like a big mess, doesn't it？ I'm here to help.
 
 但是语法... 啊，这是一个完全不同的故事。你会见到很多语音词汇都不错的人还是频繁犯语法错误。你也许可以为作为身份标志的地域口音而自豪，但您也可以为语法错误感到自豪吗？ 也许不是。 此外，您是否应该尝试以与记忆新单词相同的方式记忆语法规则？ 在你说话之前你没有时间回忆规则，对吧？ 事实是，语法可能很难。 整个英语语法系统看起来就像一团糟，不是吗？我是来帮忙的。
 
@@ -58,8 +56,7 @@ But grammar... Ah, it's a whole different story. You see plenty of people with g
 现在你只要记住两个最基本的句子成分是:
 
 - **主语 (subject)** 和
-- **谓语 (predicate)**
-  + predicate `/ˈpredɪkət/` -noun[countable].谓语
+- **谓语 (`predicate`)**
 
 <img src="./readme.assets/image-20220522150047720.png" style="border-radius: 4px; zoom: 50%;">
 
@@ -113,7 +110,7 @@ But grammar... Ah, it's a whole different story. You see plenty of people with g
 - **直接宾语 (direct object)** 和 
 - **间接宾语 (indirect object)**。
 
-如果我光说 "兔老爹教英语"，其实语义已经完整了，因为教英语的 "英语" 这里就是直接宾语。而如果我光说兔老爹教你而又没有上下文的话，你肯定觉得还缺了什么？所以你在这里是间接宾语，这样的往往既有直接宾语又有间接宾语的动词，也是及物动词的一种，更具体说它属于 **双及物动词 (ditransitive`/ˌdaɪˈtrænsətɪv/` verbs)**。
+如果我光说 "兔老爹教英语"，其实语义已经完整了，因为教英语的 "英语" 这里就是直接宾语。而如果我光说兔老爹教你而又没有上下文的话，你肯定觉得还缺了什么？所以你在这里是间接宾语，这样的往往既有直接宾语又有间接宾语的动词，也是及物动词的一种，更具体说它属于 **双及物动词 (`ditransitive` verbs)**。
 
 而第 3 种情况的句子基本结构就是: **主语 + 双及物动词 + 间接宾语 + 直接宾语**。
 
@@ -166,10 +163,9 @@ Papa Rabbit is tall. 中的 is 说白了就是把 Papa Rabbit 和 tall 连在一
 
 而系动词后面的补充信息也自然是 **补足语 (/补语)**。更精确点，可以说是 **主语补语**。
 
-而 主语补语 在咱们中国英语教学中还有另外一个名字叫 **表语 (predicative)**。
+而 主语补语 在咱们中国英语教学中还有另外一个名字叫 **表语 (`predicative`)**。
 
-- predicative `/prɪˈdɪkətɪv $ ˈpredəkeɪtɪv/` -adj.谓语性的，作表语的
-  + These adjectives`/ˈædʒəktɪv/` are usually used to as the predicative in a sentence. 这类形容词通常用在句子中作表语。
++ These adjectives`/ˈædʒəktɪv/` are usually used to as the predicative in a sentence. 这类形容词通常用在句子中作表语。
 
 所以， 第 5 种也就是最后一种情况的句子基本结构: **主语 + 系动词 + (主语)补语/表语**。
 
@@ -268,7 +264,7 @@ Papa Rabbit is tall. 中的 is 说白了就是把 Papa Rabbit 和 tall 连在一
 
 ### 6. 定语 (Attributive): 主要用来修饰主语或宾语。
 
-**attributive `/əˈtrɪbjətɪv/`** -adj.修饰的; 限定的; 定语的 (注意：`j`发`I`的音，`j` 后的`ə`不发音)
+attributive  `/əˈtrɪbjəˌtɪv/`  n. 定语；adj. 定语的；作定语的（ (注意：`j`发`I`的音，`j` 后的`ə`不发音)
 
 > ◆ **The little white** rabbit ate **a large** carrot. 这只小白兔吃了一根大萝卜。
 
@@ -276,7 +272,7 @@ the little white 就是主语 rabbit 的定语，而 a large 就是宾语 carrot
 
 ### 7. 状语 (adverbial): 主要用来修饰谓语动词。
 
-**adverbial `/ədˈvɜːbiəl/`** -adj. 副词的，状语的. -n.状语
+adverbial  `/ədˈvɜːrbiəl/ `  n. 状语；adj. 状语的；副词的
 
 >  例如:  ◆ The rabbit ate **quickly**. 兔子快速的吃.  *quickly 就是 eat 的状语.*
 
