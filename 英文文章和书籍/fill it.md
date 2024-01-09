@@ -83,7 +83,7 @@ But don’t despair! There is an inverse correlation between depression and exer
 (但不要绝望! 抑郁症和运动之间有一个反比的关系。做到这一点。跑步，我美丽的知识分子，跑步。而且不要抽烟。当然。)
 
 ## 5. Be Hard On Your Opinions (嚴格審視自己的意見)
-A famous bon mot asserts that opinions are like arse-holes, in that everyone has one. There is great wisdom in this… but I would add that opinions differ significantly from arse-holes, in that yours should be constantly and thoroughly examined.
+A famous bon motto asserts that opinions are like arse-holes, in that everyone has one. There is great wisdom in this… but I would add that opinions differ significantly from arse-holes, in that yours should be constantly and thoroughly examined.
 
 (有一句著名的格言说，意见就像屁眼一样，每个人都有一个。这句话很有智慧......但我要补充的是，意见与屁眼有很大的不同，因为你的意见应该被不断地彻底检查。)
 
