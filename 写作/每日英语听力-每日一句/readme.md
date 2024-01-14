@@ -1,6 +1,45 @@
 # 每日英语听力 - 每日一句
 
 
+
+18.Dec
+We don't see things as they are, we see them as we are.
+我们所看见的不是事物的本质，而是以自己的方式在看待它。
+
+
+
+19.Dec
+
+
+
+20.Dec
+You shall judge a man by his foes as well as by his friends.
+你要判断一个人的为人，可以通过他的朋友，也可以通过他的敌人。
+
+
+21.Dec
+For every minute you are angry you lose sixty seconds of happiness.你每发怒一分钟，也就失去了六十秒的幸福。
+
+
+December 27
+When the great thinker despises mankind, he despises its laziness.
+伟大的思想家蔑视人类时，他所蔑视的是人类的懒惰。
+
+
+
+
+25.Dec
+Christmas waves a magic wand over this world, and behold, everything is softer and more beautiful.
+圣诞节对着这个世界挥舞了一下魔杖，看呐，一切都变得柔软而美丽。
+
+
+29.Dec
+You don't write because you want to say something. You write because you have something to say.
+一个人写作的原因不是要随便说点什么，而是要确实有话要说。
+
+
+
+
 | 时间       | 英文                                                         | 中文翻译                                                     |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2024.01.08 | Everyone is a moon, and has a dark side which he never shows to anybody. | 人人都是月亮，都有不愿展示给他人的阴暗面。                   |
@@ -10,7 +49,7 @@
 |            |                                                              |                                                              |
 |            |                                                              |                                                              |
 |            |                                                              |                                                              |
-|            |                                                              |                                                              |
+| 2023.12.19 | Love should be a tree whose roots are deep in the earth, but whose branches extend into heaven. | 爱应该像一棵树，根深植于沃土，枝条伸向无垠苍穹。             |
 | 2023.12.17 | If you want to kill any idea in the world, get a committee working on it. | 想要扼杀世界上任何一个创意，那就组织一个委员会来研究它吧。   |
 |            |                                                              |                                                              |
 |            |                                                              |                                                              |

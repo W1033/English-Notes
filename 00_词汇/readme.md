@@ -33,46 +33,69 @@ advantage `/ədˈvæntɪdʒ/`，读音中第一个是字母 a 的发音是 `/ə/
 
 ## ▲ 待编辑生词
 
-*Added: 2024.01.06*
+*Added: 2024.01.014*
 
-| 单词       | 美式发音      | 词类 + 汉语释义                 |
-| ---------- | ------------- | ------------------------------- |
-| reasonable | /ˈrizənəbl̩/   | adj. 合理的；公道的             |
-| spoon      | /spun/        | n. 匙；调羹；v. 用勺子舀取      |
-| bucket     | /ˈbʌkɪt/      | n. 桶；一桶的量；v. 使...倒入桶 |
-| structure  | /ˈstrʌktʃər/  | n. 结构；构造；v. 构建          |
-| refer      | /rɪˈfɜr/      | v. 参考；涉及；提交             |
-| referee    | /ˌrɛfəˈri/    | n. 裁判员；v. 仲裁，裁决        |
-| renew      | /rɪˈnju/      | v. 更新；恢复；重新开始         |
-| proud      | /praʊd/       | adj. 骄傲的；自豪的；高傲的     |
-| float      | /floʊt/       | v. 漂浮；浮现；n. 浮动物体      |
-| attain     | /əˈten/       | v. 达到；获得；完成             |
-| underage   | /ˌʌndərˈeɪdʒ/ | adj. 未成年的                   |
-|            |               |                                 |
+| 单词          | 美式发音             | 词类 + 汉语释义                   |
+| ------------- | -------------------- | ------------------------------ |
+| preliminary   | `/prɪˈlɪmɪˌneri/   | adj. 初步的；预备的                |
+| task          | `/tæsk/            | n. 任务；工作                      |
+| Cambridge     | `/ˈkeɪmbrɪdʒ/      | n. 剑桥（英国城市名）              |
+| available     | `/əˈveɪləbəl/      | adj. 可用的；可获得的              |
+| rudimentary   | `/ˌruːdɪˈmentəri/  | adj. 基础的；初步的                |
+| convincing    | `/kənˈvɪnsɪŋ/      | adj. 有说服力的；令人信服的        |
+| convince      | `/kənˈvɪns/        | v. 说服；使确信                    |
+| nasal         | `/ˈneɪzəl/         | adj. 鼻的；n. 鼻音                 |
+| set out       | `/set ˈaʊt/`        | phr. v. 出发；开始                 |
+| harness       | `/ˈhɑːrnɪs/        | v. 利用；n. 马具                  |
+| recognize     | `/ˈrekəɡˌnaɪz/     | v. 认出；承认                      |
+| summation     | `/sʌˈmeɪʃən/`       | n. 总和；总结                      |
+| rather than   | `/ˈræðər ˈðæn/     | conj. 而不是                       |
+| beard         | `/bɪrd/            | n. 胡须                            |
+| adjustment    | `/əˈdʒʌstmənt/     | n. 调整；调节                      |
+| turn          | `/tɜːrn/           | v. 转动；变成 n. 转弯；轮流         |
+| migration     | `/maɪˈɡreɪʃən/     | n. 迁移；移居                      |
+| grow          | `/ɡroʊ/            | v. 生长；增长                      |
+| resist        | `/rɪˈzɪst/         | v. 抵抗；反抗                      |
+| negotiation   | `/nɪˌɡoʊʃiˈeɪʃən/ | n. 谈判；协商                      |
+| legend        | `/ˈledʒənd/        | n. 传说；图例                      |
+| disturb       | `/dɪˈstɜːrb/       | v. 打扰；扰乱                      |
+| infringement  | `/ɪnˈfrɪndʒmənt/   | n. 侵犯；违反                      |
+| infringe      | `/ɪnˈfrɪndʒ/       | v. 侵犯；违反                      |
+| advance       | `/ədˈvæns/         | v. 前进；推进 n. 进展              |
+| film          | `/fɪlm/            | n. 电影；薄膜 v. 拍摄              |
+| plane         | `/pleɪn/           | n. 飞机；平面 adj. 平坦的          |
+| crew          | `/kruː/            | n. 全体船员；团队                  |
+| youth         | `/juːθ/            | n. 青年；年轻时期                  |
+| reasonable    | `/ˈrizənəbəl/      | adj. 合理的；适度的                |
+| spoon         | `/spun/            | n. 勺子                           |
+| bucket        | `/ˈbʌkɪt/          | n. 桶；水桶                       |
+| structure     | `/ˈstrʌktʃər/      | n. 结构；建筑物                    |
+| refer         | `/rɪˈfɜːr/         | v. 参考；涉及                      |
+| referee       | `/ˌrefəˈriː/       | n. 裁判；仲裁人                    |
+| renew         | `/rɪˈnjuː/         | v. 更新；续约                      |
+| proud         | `/praʊd/           | adj. 自豪的；骄傲的                |
+| float         | `/floʊt/           | v. 漂浮；n. 浮标                   |
+| attain        | `/əˈteɪn/          | v. 达到；获得                      |
+| underage      | `/ˌʌndərˈeɪdʒ/     | adj. 未成年的                     |
+| honorable    | `/ˈɑnərəbəl/        | adj. 光荣的；尊敬的                |
+| sandal       | `/ˈsændl/           | n. 凉鞋；拖鞋                      |
+| commute      | `/kəˈmjuːt/         | v. 通勤；交换                      |
+| transparent  | `/trænsˈpærənt/     | adj. 透明的；易懂的                |
+| desire       | `/dɪˈzaɪər/`        | n. 欲望；渴望；v. 渴望；希望       |
+| desirous | `/dɪˈzaɪrəs/` | adj. 渴望的；想望的 |
+| tactic       | `/ˈtæktɪk/          | n. 策略；手段                      |
+| endless      | `/ˈɛndləs/          | adj. 无尽的；无止境的              |
+| refer        | `/rɪˈfɜːr/          | v. 参考；提到                      |
+| invoke       | `/ɪnˈvoʊk/          | v. 调用；引起                      |
+| spray        | `/spreɪ/            | n. 喷雾；v. 喷洒；涂抹             |
+| steal        | `/stiːl/            | v. 偷窃；悄悄地做                  |
+| ink          | `/ɪŋk/              | n. 墨水；v. 签署；涂墨             |
+| practice     | `/ˈpræktɪs/         | n. 实践；练习 v. 练习；执行        |
+| humble       | `/ˈhʌmbəl/          | adj. 谦逊的；简陋的；低下的        |
+| minute       | `/ˈmɪnɪt/           | n. 分钟；adj. 微小的；详细的       |
+| phrasal      | `/ˈfreɪzəl/         | adj. 短语的；词组的               |
+| brush        | `/brʌʃ/             | n. 刷子；v. 刷；轻触              |
 
-
-
-*Edited: 2023.12.28*
-
-| 单词        | 美式发音       | 词类 + 汉语释义                 |
-| ----------- | -------------- | ------------------------------- |
-| honorable   | /ˈɑnərəbl̩/     | adj. 光荣的；可敬的             |
-| sandal      | /ˈsændəl/      | n. 凉鞋；穿凉鞋；木屐           |
-| commute     | /kəˈmjut/      | v. 通勤；交换；减刑             |
-| transparent | /trænsˈpærənt/ | adj. 透明的；清澈的；明了的     |
-| desire      | /dɪˈzaɪər/     | n. 渴望；欲望；v. 渴望，想要    |
-| tactic      | /ˈtæktɪk/      | n. 策略；战术                   |
-| endless     | /ˈɛndlɪs/      | adj. 无尽的；无休止的           |
-| refer       | /rɪˈfɜr/       | v. 参考；提到；提交             |
-| invoke      | /ɪnˈvoʊk/      | v. 援引；祈求；产生             |
-| spray       | /spreɪ/        | n. 喷雾；飞沫；v. 喷射，喷溅    |
-| steal       | /stil/         | v. 偷窃；偷偷地移动；n. 便宜货  |
-| ink         | /ɪŋk/          | n. 墨水；油墨；v. 钤记，签署    |
-| practice    | /ˈpræktɪs/     | n. 实践；练习；v. 练习；实行    |
-| humble      | /ˈhʌmbəl/      | adj. 谦卑的；谦逊的；v. 使谦卑  |
-| minute      | /ˈmɪnɪt/       | adj. 微小的；n. 分钟；v. 记录   |
-| phrasal     | /ˈfreɪzəl/     | adj. 成语的；短语的             |
-| brush       | /brʌʃ/         | n. 刷子；v. 刷；擦过；与...擦碰 |
 
 
 
