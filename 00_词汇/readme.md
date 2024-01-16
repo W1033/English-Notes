@@ -31,6 +31,175 @@ advantage `/ədˈvæntɪdʒ/`，读音中第一个是字母 a 的发音是 `/ə/
 
 ## ▲ 待编辑生词
 
+*Added: 2024.01.15* 
+
+ChatGPT 4.0 生成。
+
+原因：在识别 wordly_wire_3000_list-level.pdf 第一页单词列表中，chatGPT 自己生成了这些单词。
+
+| 单词        | 美式发音          | 词类 + 汉语释义           |
+| ----------- | ----------------- | ------------------------- |
+| gain        | `/ɡeɪn/`        | v. 获得；增加 n. 增益              |
+| gift        | `/ɡɪft/`        | n. 礼物；天赋                      |
+| great       | `/ɡreɪt/`       | adj. 伟大的；重要的                |
+| habit       | `/ˈhæbɪt/`      | n. 习惯；习性                      |
+| happen      | `/ˈhæpən/`      | v. 发生                             |
+| happy       | `/ˈhæpi/`       | adj. 快乐的；幸运的                |
+| hard        | `/hɑːrd/`       | adj. 困难的；硬的                  |
+| help        | `/hɛlp/`        | v. 帮助 n. 帮助                    |
+| hide        | `/haɪd/`        | v. 隐藏；躲藏 n. 皮革              |
+| high        | `/haɪ/`         | adj. 高的；高级的                  |
+| hit         | `/hɪt/`         | v. 打；撞击 n. 打击                |
+| hold        | `/hoʊld/`       | v. 持有；举行 n. 把握              |
+| hope        | `/hoʊp/`        | v. 希望 n. 希望                    |
+| hurt        | `/hɜːrt/`       | v. 伤害；疼痛 n. 伤害              |
+| idea        | `/aɪˈdiːə/`     | n. 想法；理念                      |
+| important   | `/ɪmˈpɔːrtənt/` | adj. 重要的；主要的                  |
+| interest    | `/ˈɪntrəst/`    | n. 兴趣；利息 v. 使感兴趣           |
+| invent      | `/ɪnˈvɛnt/`     | v. 发明；创造                       |
+| joy         | `/dʒɔɪ/`        | n. 欢乐；高兴                      |
+| jump        | `/dʒʌmp/`       | v. 跳跃；突增 n. 跳跃               |
+| keep        | `/kiːp/`        | v. 保持；维持 n. 饲养               |
+| kill        | `/kɪl/`         | v. 杀死；消灭                       |
+| kind        | `/kaɪnd/`       | adj. 仁慈的；种类 n. 种类           |
+| know        | `/noʊ/`         | v. 知道；认识                       |
+| last        | `/læst/`        | adj. 最后的；持久的 v. 持续         |
+| laugh       | `/læf/`         | v. 笑 n. 笑声                       |
+| learn       | `/lɜːrn/`       | v. 学习；了解                       |
+| leave       | `/liːv/`        | v. 离开；留下 n. 休假               |
+| left        | `/lɛft/`        | adj. 左边的；剩下的 v. 离开（leave的过去式和过去分词）|
+| let         | `/lɛt/`         | v. 让；允许                         |
+| light       | `/laɪt/`        | n. 光；灯 adj. 轻的；浅色的 v. 点亮 |
+| like        | `/laɪk/`        | v. 喜欢；相似 adj. 相似的           |
+| little      | `/ˈlɪtəl/`      | adj. 小的；少量的 adv. 一点儿      |
+| live        | `/lɪv/`         | v. 居住；活着 adj. 活的             |
+| long        | `/lɔːŋ/`        | adj. 长的；长期的 adv. 长时间       |
+| look        | `/lʊk/`         | v.看；寻找 n. 外表              |
+| lose        | `/luːz/`         | v. 失去；输掉                       |
+| love        | `/lʌv/`          | v. 爱；喜爱 n. 爱                  |
+| make        | `/meɪk/`         | v. 制作；使成为                     |
+| man         | `/mæn/`          | n. 男人；人类                       |
+| many        | `/ˈmɛni/`        | adj. 许多的                         |
+| mark        | `/mɑːrk/`        | n. 标记；分数 v. 标记               |
+| may         | `/meɪ/`          | modal v. 可以；可能                 |
+| me          | `/mi/`           | pron. 我（宾格）                    |
+| mean        | `/miːn/`         | v. 意味着；打算 adj. 吝啬的        |
+| meet        | `/miːt/`         | v. 遇见；满足 n. 会面               |
+| melt        | `/mɛlt/`         | v. 融化；消散                      |
+| men         | `/mɛn/`          | n. 男人们（man的复数）              |
+| mine        | `/maɪn/`         | pron. 我的；n. 矿山                |
+| mix         | `/mɪks/`         | v. 混合；混杂 n. 混合物            |
+| more        | `/mɔːr/`         | adj. 更多的 adv. 更多地             |
+| most        | `/moʊst/`        | adj. 最多的 adv. 最；极其           |
+| move        | `/muːv/`         | v. 移动；搬家 n. 移动              |
+| much        | `/mʌtʃ/`         | adv. 很多；非常 adj. 大量的         |
+| must        | `/mʌst/`         | modal v. 必须；必然                 |
+| my          | `/maɪ/`          | pron. 我的                          |
+| name        | `/neɪm/`         | n. 名字；名称 v. 命名               |
+| near        | `/nɪər/`         | adj. 近的；接近的 adv. 接近 v. 靠近 |
+| need        | `/niːd/`         | v. 需要；必须 n. 需求               |
+| never       | `/ˈnɛvər/`       | adv. 从不；永不                     |
+| new         | `/njuː/`         | adj. 新的；最近的                   |
+| next        | `/nɛkst/`        | adj. 下一个的；接近的 adv. 接着     |
+| night       | `/naɪt/`         | n. 夜晚；夜间                       |
+| no          | `/noʊ/`          | adv. 不；没有 n. 拒绝               |
+| not         | `/nɑːt/`         | adv. 不                             |
+| now         | `/naʊ/`          | adv. 现在；立即                     |
+| of          | `/ʌv/`           | prep. 的；关于                      |
+| off         | `/ɔf/`           | prep. 离开；从...上 adv. 远离      |
+| on          | `/ɑn/`           | prep. 在...上；进行中 adv. 继续     |
+| one         | `/wʌn/`          | num. 一；单一的 pron. 某人         |
+| only        | `/ˈoʊnli/`       | adv. 仅仅；只有 adj. 唯一的        |
+| open        | `/ˈoʊpən/`       | adj. 打开的；公开的 v. 打开        |
+| or          | `/ɔr/`           | conj. 或者；否则                   |
+| our         | `/aʊər/`         | pron. 我们的                       |
+| out         | `/aʊt/`          | adv. 出去；外面 prep. 在...外      |
+| over        | `/ˈoʊvər/`       | prep. 在...上方；超过 adv. 结束    |
+| own         | `/oʊn/`          | adj. 自己的 v. 拥有                |
+| part        | `/pɑrt/`         | n. 部分；角色 v. 分开              |
+| pass        | `/pæs/`          | v. 通过；传递 n. 通行证            |
+| people      | `/ˈpipəl/`       | n. 人们；民族                      |
+| pick        | `/pɪk/`          | v. 挑选；采摘 n. 选择              |
+| picture     | `/ˈpɪktʃər/`     | n. 图片；画 v. 描绘；想象          |
+| place       | `/pleɪs/`        | n. 地方；位置 v. 放置              |
+| play        | `/pleɪ/`         | v. 玩；演奏 n. 游戏；剧本          |
+| point       | `/pɔɪnt/`         | n. 点；要点 v. 指向；强调          |
+| put         | `/pʊt/`           | v. 放置；提出                      |
+| read        | `/riːd/`          | v. 阅读；理解 n. 读物              |
+| right       | `/raɪt/`          | adj. 正确的；右边的 adv. 正确地    |
+| run         | `/rʌn/`           | v. 跑；运行 n. 跑步；经营          |
+| said        | `/sɛd/`           | v. 说（say的过去式和过去分词）     |
+| same        | `/seɪm/`          | adj. 相同的；不变的                |
+| saw         | `/sɔ/`            | v. 看见（see的过去式）             |
+| say         | `/seɪ/`           | v. 说；表达                        |
+| school      | `/skuːl/`         | n. 学校；上学                      |
+| see         | `/siː/`           | v. 看见；理解                      |
+| seem        | `/siːm/`          | v. 似乎；好像                      |
+| send        | `/sɛnd/`          | v. 发送；派遣                      |
+| set         | `/sɛt/`           | v. 设置；放置 n. 一套；集合        |
+| she         | `/ʃi/`            | pron. 她                           |
+| should      | `/ʃʊd/`           | modal v. 应该；可能                |
+| show        | `/ʃoʊ/`           | v. 展示；显示 n. 展览；节目        |
+| side        | `/saɪd/`           | n. 侧面；方面                      |
+| sit         | `/sɪt/`           | v. 坐；坐落                        |
+| small       | `/smɔl/`          | adj. 小的；少量的                  |
+| so          | `/soʊ/`           | adv. 如此；因此 conj. 所以         |
+| some        | `/sʌm/`           | adj. 一些；某些 pron. 一些         |
+| something   | `/ˈsʌmθɪŋ/`       | pron. 某事；某物                   |
+| soon        | `/suːn/`          | adv. 不久；很快                     |
+| start       | `/stɑrt/`         | v. 开始；启动 n. 开始              |
+| stop        | `/stɑp/`          | v. 停止；中断 n. 停止              |
+| such        | `/sʌtʃ/`           | adj. 这样的；如此的                  |
+| take        | `/teɪk/`           | v. 拿取；带走 n. 接受              |
+| tell        | `/tɛl/`            | v. 告诉；分辨                      |
+| than        | `/ðæn/`            | conj. 比；超过                     |
+| that        | `/ðæt/`            | pron./adj. 那个（远指）            |
+| the         | `/ðə/`             | art. 这个；那个（特指）            |
+| their       | `/ðɛər/`           | pron. 他们的                       |
+| them        | `/ðɛm/`            | pron. 他们（宾格）                 |
+| then        | `/ðɛn/`            | adv. 然后；那时                    |
+| there       | `/ðɛr/`            | adv. 在那里；存在                  |
+| these       | `/ðiːz/`           | pron./adj. 这些（近指）            |
+| they        | `/ðeɪ/`            | pron. 他们；她们；它们             |
+| thing       | `/θɪŋ/`            | n. 事物；东西                      |
+| think       | `/θɪŋk/`           | v. 思考；认为                      |
+| this        | `/ðɪs/`            | pron./adj. 这个（近指）            |
+| those       | `/ðoʊz/`           | pron./adj. 那些（远指）            |
+| three       | `/θriː/`           | num. 三                            |
+| time        | `/taɪm/`           | n. 时间；次数 v. 计时              |
+| to          | `/tu/`             | prep. 到；对于 conj. 以便          |
+| today       | `/təˈdeɪ/`         | adv. 今天 n. 今天                  |
+| together    | `/təˈɡɛðər/`       | adv. 一起；共同                    |
+| too         | `/tuː/`            | adv. 也；过于                      |
+| top         | `/tɑp/`            | n. 顶部；最高位 adj. 最高的        |
+| two         | `/tuː/`            | num. 两个                          |
+| under       | `/ˈʌndər/`         | prep. 在...下面 adv. 在下面        |
+| up          | `/ʌp/`             | adv. 向上；起床 prep. 沿着         |
+| us          | `/ʌs/`             | pron. 我们（宾格）                    |
+| very        | `/ˈvɛri/`        | adv. 非常；确实                    |
+| want        | `/wɑːnt/`        | v. 想要；需要                      |
+| was         | `/wɑːz/`         | v. 是（be动词的过去式）            |
+| we          | `/wiː/`          | pron. 我们                         |
+| well        | `/wɛl/`          | adv. 好；很 adj. 健康的            |
+| went        | `/wɛnt/`         | v. 去（go的过去式）                |
+| were        | `/wɜːr/`         | v. 是（be动词的过去式）            |
+| what        | `/wɑːt/`         | pron. 什么                         |
+| when        | `/wɛn/`          | adv. 何时；当...时 conj. 当...时   |
+| where       | `/wɛər/`         | adv. 在哪里；到哪里                |
+| which       | `/wɪtʃ/`         | pron. 哪一个                       |
+| who         | `/huː/`          | pron. 谁                           |
+| will        | `/wɪl/`          | modal v. 将；会                    |
+| with        | `/wɪð/`          | prep. 与；用                       |
+| word        | `/wɜːrd/`        | n. 单词；话                        |
+| work        | `/wɜːrk/`        | n. 工作；职业 v. 工作；运行        |
+| world       | `/wɜːrld/`       | n. 世界；领域                      |
+| would       | `/wʊd/`          | modal v. 将；愿意                  |
+| write       | `/raɪt/`          | v. 写；书写                        |
+| year        | `/jɪr/`           | n. 年；年度                        |
+| you         | `/juː/`           | pron. 你；你们                     |
+| young       | `/jʌŋ/`           | adj. 年轻的；年少的                |
+
+
 
 
 *Added: 2024.01.014*
