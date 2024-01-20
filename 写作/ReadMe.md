@@ -20,6 +20,20 @@
 
 
 
+
+He's just an average guy in terms of height and build, not particularly standing out in crowd, but there's something about his smile that's memorable.
+
+就身高和体型而言，他只是一个普通人，在人群中并不特别突出，但他的笑容令人难忘。
+
+
+
+The colour-sorted bottles are put into furnaces which melt the glass in preparation for molding.
+
+将分类好颜色的瓶子放入炉子中，熔化玻璃以准备成型。
+
+
+
+
 ## ▲ 电影台词
 
 | 英文                                                         | 中文                                                         | 电影 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                  | 添加时间   |
