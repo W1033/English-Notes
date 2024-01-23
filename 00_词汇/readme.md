@@ -31,6 +31,66 @@ advantage `/ədˈvæntɪdʒ/`，读音中第一个是字母 a 的发音是 `/ə/
 
 ## ▲ 待编辑生词
 
+
+
+*Added: 2024.01.22*
+
+ChatGPT 4.0 translations
+
+| 单词        | 美式发音        | 词类 + 汉语释义                       |
+| ----------- | --------------- | ------------------------------------- |
+| through     | `/θruː/`        | prep, adv. 通过；穿过；adj. 直通的    |
+| arbor       | `/ˈɑrbər/      | n. 凉亭；树篱                         |
+| minutia     | `/maɪˈnuːʃiə/  | n. 细节；小事                         |
+| chief       | `/tʃiːf/       | n. 首领；主要的 adj. 最主要的；首席的 |
+| deputy      | `/ˈdɛpjuti/    | n. 副手；代理人                       |
+| phrase      | `/freɪz/       | n. 短语；习语 v. 措词表达             |
+| destructive | `/dɪˈstrʌktɪv/ | adj. 破坏性的；毁灭性的               |
+| erase       | `/ɪˈreɪs/      | v. 擦除；抹去                         |
+| any         | `/ˈɛni/        | adj. 任何的；所有的 pron. 任何人      |
+| bonus       | `/ˈboʊnəs/     | n. 奖金；额外津贴                     |
+| lexical     | `/ˈlɛksɪkəl/   | adj. 词汇的；词典的                   |
+| coherence   | `/koʊˈhɪrəns/  | n. 一致性；连贯性                     |
+| academy     | `/əˈkædəmi/    | n. 学院；研究院                       |
+| bark        | `/bɑrk/        | n. 树皮；吠声 v. 吠叫；咆哮           |
+| dye         | `/daɪ/         | n. 染料 v. 染色                       |
+| die         | `/daɪ/         | v. 死亡；消逝 n. 骰子                 |
+| verse       | `/vɜrs/        | n. 诗；韵文                           |
+| module      | `/ˈmɑdʒuːl/    | n. 模块；组件                         |
+| merge       | `/mɜrdʒ/       | v. 合并；融合                         |
+| pulp        | `/pʌlp/        | n. 浆状物；纸浆 v. 使成浆状           |
+| miss        | `/mɪs/         | v. 错过；思念 n. 小姐                 |
+| stamina     | `/ˈstæmɪnə/    | n. 耐力；持久力                       |
+| pronounce   | `/prəˈnaʊns/`   | v. 发音；宣布                         |
+
+| 单词      | 美式发音       | 词类 + 汉语释义                           |
+| --------- | -------------- | ----------------------------------------- |
+| juggle    | `/ˈdʒʌɡəl/    | v. 玩杂耍；尽力应付                       |
+| aspirate  | `/ˈæspəˌreɪt/ | v. 发送气音；抽出 n. 清音                 |
+| dash      | `/dæʃ/        | n. 猛冲；短跑 v. 破折号；猛冲             |
+| ascend    | `/əˈsɛnd/     | v. 上升；攀登                             |
+| descend   | `/dɪˈsɛnd/    | v. 下降；传下                             |
+| vest      | `/vɛst/       | n. 背心；马甲 v. 授予；穿上               |
+| investing | `/ɪnˈvɛstɪŋ/  | v. 投资；授予（invest的现在分词形式）     |
+| rule      | `/ruːl/       | n. 规则；统治 v. 统治；裁定               |
+| inception | `/ɪnˈsɛpʃən/  | n. 开始；开端                             |
+| basket    | `/ˈbæskɪt/    | n. 篮子；篮筐                             |
+| case      | `/keɪs/       | n. 情况；箱子 v. 考察；调查               |
+| crux      | `/krʌks/      | n. 关键；难题                             |
+| form      | `/fɔrm/       | n. 形式；形状 v. 形成；建立               |
+| orbit     | `/ˈɔrbɪt/     | n. 轨道；眼眶 v. 绕轨道运行               |
+| lump      | `/lʌmp/       | n. 块；肿块 v. 归并在一起；成块状         |
+| revival   | `/rɪˈvaɪvəl/  | n. 复兴；复活                             |
+| cottage   | `/ˈkɑtɪdʒ/    | n. 小屋；村舍                             |
+| crash     | `/kræʃ/       | v. 碰撞；坠落 n. 碰撞；崩溃               |
+| smash     | `/smæʃ/       | v. 粉碎；打碎 n. 猛撞；巨大成功           |
+| slam      | `/slæm/       | v. 砰地关上；猛烈抨击 n. 猛然关闭         |
+| collide   | `/kəˈlaɪd/    | v. 碰撞；冲突                             |
+| wreck     | `/rɛk/        | n. 失事船（或飞机）；残骸 v. 毁坏；使失事 |
+| fiction   | `/ˈfɪkʃən/    | n. 小说；虚构                             |
+
+
+
 *Added: 2024.01.16*
 
 ChatGPT 4.0 translations
@@ -81,6 +141,7 @@ ChatGPT 4.0 translations
 | eager          | `/ˈiːɡər/            | adj. 渴望的；热切的                  |
 | tongue         | `/tʌŋ/               | n. 舌头；语言                        |
 | credit         | `/ˈkrɛdɪt/`          | n. 信用；学分 v. 归功于；信任        |
+
 
 
 *Added: 2024.01.15* 
