@@ -31,6 +31,33 @@ advantage `/ədˈvæntɪdʒ/`，读音中第一个是字母 a 的发音是 `/ə/
 
 ## ▲ 待编辑生词
 
+*Added: 2024.01.23*
+
+ChatGPT 4.0 translations
+
+| 单词              | 美式发音               | 词类 + 汉语释义                           |
+| ----------------- | ---------------------- | ----------------------------------------- |
+| faint             | `/feɪnt/`            | adj. 微弱的；模糊的；v. 晕倒；昏厥；n. 晕倒；昏厥 |
+| compact           | `/kəmˈpækt/`         | adj. 紧凑的；结实的；n. 粉盒；契约；v. 压紧；压实 |
+| laminate          | `/ˈlæməˌneɪt/`       | v. 压制；n. 层压板         |
+| callout           | `/ˈkɔːlaʊt/           | n. 呼叫；标注                             |
+| spec              | `/spɛk/               | n. 规格；投机（specification的简写形式）  |
+| account           | `/əˈkaʊnt/`          | n. 账户；描述；v. 解释；认为              |
+| take into account | `/teɪk ˈɪntu əˈkaʊnt/` | phrasal. 考虑；重视                   |
+| skim              | `/skɪm/`              | v. 略读，浏览；撇去〔液体表面的浮油或漂浮物〕 |
+| crucial           | `/ˈkruːʃəl/`          | adj. 关键的；决定性的                     |
+| central           | `/ˈsɛntrəl/`          | adj. 中央的；中心的；主要的                |
+| chip              | `/tʃɪp/`              | n. 薯片；芯片；碎片；v. 打碎；削下 |
+| narration         | `/nəˈreɪʃən/`         | n. 叙述；旁白           |
+| sleek             | `/sliːk/`             | adj. 光滑的；时髦的     |
+
+
+
+
+
+
+
+
 *Added: 2024.01.16*
 
 ChatGPT 4.0 translations
@@ -38,7 +65,7 @@ ChatGPT 4.0 translations
 | 单词             | 美式发音               | 词类 + 汉语释义                       |
 | ---------------- | ---------------------- | ------------------------------------- |
 | authenticate     | `/ɔːˈθentɪkeɪt/`      | v. 鉴别；验证                         |
-| unbelievable     | `/ˌʌnbɪˈliːvəbəl/    | adj. 难以置信的；不可思议的            |
+| unbelievable     | `/ˌʌnbɪˈliːvəbəl/     | adj. 难以置信的；不可思议的            |
 | posh             | `/pɑʃ/                | adj. 豪华的；时髦的                    |
 | audible          | `/ˈɔdəbəl/            | adj. 可听见的                          |
 | alveolar         | `/ælˈviːələr/         | adj. 齿槽的；牙槽的                    |
@@ -59,10 +86,10 @@ ChatGPT 4.0 translations
 | dodge            | `/dɑdʒ/               | v. 躲避；闪开 n. 躲闪                  |
 | judge            | `/dʒʌdʒ/              | n. 法官；评判员 v. 判断；评价          |
 | tube             | `/tuːb/               | n. 管；电子管                         |
-| morph            | `/mɔrf/                | v. 变形；转换                           |
-| stand             | `/stænd/               | v. 站立；忍受 n. 架子；摊位            |
-| curtain           | `/ˈkɜrtn/              | n. 窗帘；幕 v. 覆盖；隐藏              |
-| yawn              | `/jɔn/                 | v. 打哈欠 n. 哈
+| morph            | `/mɔrf/               | v. 变形；转换                           |
+| stand            | `/stænd/             | v. 站立；忍受 n. 架子；摊位            |
+| curtain          | `/ˈkɜrtn/           | n. 窗帘；幕 v. 覆盖；隐藏              |
+| yawn             | `/jɔn/              | v. 打哈欠 n. 哈
 | yawn            | `/jɔn/               | v. 打哈欠 n. 哈欠                   |
 | stretch         | `/strɛtʃ/            | v. 伸展；延伸 n. 伸展；一段时间     |
 | tap             | `/tæp/               | n. 轻拍；水龙头 v. 轻拍；开发       |
