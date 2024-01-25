@@ -68,15 +68,15 @@ ChatGPT 4.0 translations
 | 单词        | 美式发音            | 词类 + 汉语释义                       |
 | ----------- | ------------------- | --------------------------------- |
 | popular     | `/ˈpɑpjələr/`       | adj. 流行的；受欢迎的                |
-| popularity  | `/ˌpɑːpjuˈlærəti/`  | n. 受欢迎；流行                     |
+| popularity  | `/ˌpɑːpjuˈlærəti/`  | n. 流行；受欢迎                 |
 | phrasal     | `/ˈfreɪzəl/`        | adj. 短语的；词组的                 |
-| phrase      | `/freɪz/`           | n. 短语；习语 v. 措辞；表达          |
-| account     | `/əˈkaʊnt/`        | n. 账户；报告 v. 解释；认为          |
-| plot        | `/plɑt/`           | n. 情节；阴谋 v. 密谋；绘制          |
+| phrase      | `/freɪz/`           | n. 短语；习语； v. 措辞；表达         |
+| account     | `/əˈkaʊnt/`        | n. 账户；报告； v. 解释；认为        |
+| plot        | `/plɑt/`           | n. 情节；阴谋； v. 密谋；绘制       |
 | formant     | `/ˈfɔrmənt/`       | n. [语音]共振峰；[音乐]泛音          |
 | during      | `/ˈdʊrɪŋ/` | prep. 在…期间                      |
-| metallic    | `/məˈtælɪk/        | adj. 金属的；金属般的                |
-| drive       | `/draɪv/           | v. 驾驶；推动 n. 驱动；冲动          |
+| metallic    | `/məˈtælɪk/`       | adj. 金属的；金属般的                |
+| drive       | `/draɪv/`         | v. 开车、驾驶；  n. 驱车出行；驱动(器) |
 | convention  | `/kənˈvɛnʃən/`     | n. 会议；惯例；公约                 |
 
 
@@ -89,9 +89,9 @@ ChatGPT 4.0 translations
 | faint             | `/feɪnt/`            | adj. 微弱的；模糊的；v. 晕倒；昏厥；n. 晕倒；昏厥 |
 | compact           | `/kəmˈpækt/`         | adj. 紧凑的；结实的；n. 粉盒；契约；v. 压紧；压实 |
 | laminate          | `/ˈlæməˌneɪt/`       | v. 压制；n. 层压板         |
-| callout           | `/ˈkɔːlaʊt/           | n. 呼叫；标注                             |
-| spec              | `/spɛk/               | n. 规格；投机（specification的简写形式）  |
-| account           | `/əˈkaʊnt/`          | n. 账户；描述；v. 解释；认为              |
+| callout           | `/ˈkɔːlaʊt/`          | n. 呼叫；标注                             |
+| spec              | `/spɛk/`              | n. 规格；规范；说明书（specification的缩写） |
+| account           | `/əˈkaʊnt/`          | n. 账户；报告；v. 解释；认为      |
 | take into account | `/teɪk ˈɪntu əˈkaʊnt/` | phrasal. 考虑；重视                   |
 | skim              | `/skɪm/`              | v. 略读，浏览；撇去〔液体表面的浮油或漂浮物〕 |
 | crucial           | `/ˈkruːʃəl/`          | adj. 关键的；决定性的                     |
