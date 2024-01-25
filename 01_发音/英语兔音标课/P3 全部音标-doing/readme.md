@@ -109,25 +109,25 @@
 
 比如普通话 "币" 的韵母（拼音 i）舌位前且高；"兔" 的韵母（拼音 u）舌位后且高；"哈" 的韵母（拼音 a）舌位中且低。
 
-<img src="readme.assets/image-20221007174128281.png" alt="image-20221007174128281" style="zoom: 33%;" />
+<img src="readme.assets/image-20221007174128281.png" alt="image-20221007174128281" style="zoom:40%; border:1px solid #f2f2f2; border-radius:20px;"/>
 
 而刚才这三个元音中，只有 "兔" 的韵母（拼音 u）是需要圆唇的，即 "圆唇度" 很高。
 
-<img src="readme.assets/image-20221007180436976.png" alt="image-20221007180436976" style="zoom: 40%;" />
+<img src="readme.assets/image-20221007180436976.png" alt="image-20221007180436976" style="zoom:40%; border:1px solid #f2f2f2; border-radius:20px;" />
 
 - A vowel chart showing the relative vowel qualities represented by some of the symbols used in transcribing English. The symbols [e, a, 0] occur as the first elements of diphthongs. （一个元音图表，显示了（转录/转写/标注）英语中使用的一些符号所代表的相对元音质量。 符号 [ e, a, o ] 作为双元音的第一个元素出现。）
 
-<img src="readme.assets/image-20221007175814739.png" alt="image-20221007175814739" style="zoom: 33%;" />
+<img src="readme.assets/image-20221007175814739.png" alt="image-20221007175814739" style="zoom:40%;border:1px solid #f2f2f2; border-radius:20px;" />
 
 
 
 咱们按照舌位的前后高低和圆唇度，可以把英语中不同的元音像这样画在所谓的 "元音图" 上（即：下图）；
 
-<img src="readme.assets/image-20221007181101284.png" alt="image-20221007181101284" style="zoom: 33%;" />
+<img src="readme.assets/image-20221007181101284.png" alt="image-20221007181101284" style="zoom: 40%;border:1px solid #f2f2f2; border-radius:20px;" />
 
 但是英语兔我要特别指出，以上元音是标准英式英语（英音）在元音图上的分布。标准美式英语（美音）的元音稍有不同，所以在舌位兔上的分布也稍有不同，像这样：
 
-<img src="readme.assets/image-20221007181019637.png" alt="image-20221007181019637" style="zoom: 33%;" />
+<img src="readme.assets/image-20221007181019637.png" alt="image-20221007181019637" style="zoom:40%;border:1px solid #f2f2f2; border-radius:20px;" />
 
 接下来的极简版音标讲解是基于标准英音的。
 
