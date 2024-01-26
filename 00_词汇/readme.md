@@ -108,8 +108,10 @@ ChatGPT 4.0 translations
 | 单词        | 美式发音        | 词类 + 汉语释义                       |
 | ----------- | --------------- | ------------------------------------- |
 | through     | `/θruː/`        | prep, adv. 通过；穿过；adj. 直通的    |
-| arbor       | `/ˈɑrbər/      | n. 凉亭；树篱                         |
-| minutia     | `/maɪˈnuːʃiə/  | n. 细节；小事                         |
+| arbor       | `/ˈɑrbər/`    | n. 凉亭；树篱                         |
+|  |  | *Arbor Day 植树节* |
+| minutia     | `/mɪˈnuːʃɪə/`  | n. 细节；小事（单数形式）             |
+| minutiae | `/mɪ'nuʃɪi/` | n. 细节；小事（复数形式） |
 | chief       | `/tʃiːf/       | n. 首领；主要的 adj. 最主要的；首席的 |
 | deputy      | `/ˈdɛpjuti/    | n. 副手；代理人                       |
 | phrase      | `/freɪz/       | n. 短语；习语 v. 措词表达             |
