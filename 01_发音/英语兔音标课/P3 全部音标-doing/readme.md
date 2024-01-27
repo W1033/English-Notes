@@ -194,12 +194,33 @@
 >
 > 差别比较大，第一个音要撅嘴唇，它是个后元音，所以，所以舌头要向后隆起，使声音是从口腔后部发出来.后一个发声的时候，嘴巴不用那么撅，而且发的声音部位没有那么后、舌头没有那么撅，发声要短粗干脆.
 >
+> ### 讲 `/ʊ/` 发音的视频
 >
-> https://en-yinbiao.xiao84.com/18536.html
+> #### [《中国式英语发音纠正》音标 短元音 u 和长元音 u: 发音的本质区别！](https://www.youtube.com/watch?v=emg4IRZ4bEk&ab_channel=%E8%80%81%E6%9D%8E%E8%8B%B1%E8%AF%AD)
 >
-> [英式音标/ʊ/](https://en-yinbiao.xiao84.com/yinbiaofayin/u-sound.html)和[英式音标/u:/](https://en-yinbiao.xiao84.com/yinbiaofayin/u-sound2.html)都是后元音，发音时口型基本一致，舌后部向软颚抬起，双唇收圆。主要区别是/ʊ/是短元音,发音短促有力；/u:/是长元音，发音要稍长。
+> #### [How to Pronounce: /ʊ/ vs. / u/](https://www.youtube.com/watch?v=ZObWFEbqc3A&ab_channel=VOALearningEnglish)
 >
-> 点击单词跟着读一读，比较左边单词与右边单词发音的区别。
+> Today, let's explore the vowel sound `/ʊ/` It's the sound of modal verbs, among many other important words. 
+>
+> (今天，让我们来探索元音发音“/u /”它是情态动词的发音，还有许多其他重要的单词。)
+>
+> To make the `/ʊ/` sound,  your lips should be slightly rounded and relaxed. Your tongue should be relaxed, and raised at the back of your mouth. 
+>
+> (要发出“/ʊ/”这个音，你的嘴唇应该微微张开并放松。你的舌头应该放松，并在口腔后部抬起。) 
+>
+> `/ʊ/` is a common sound in modal verbs, you know, those auxiliary verbs that express ability or possibility. They often have an-o, u, l, d spelling, as in: could, should, would. But the `/ʊ/` vowel sound has two other common spelling patterns. The first is the letters oo, as in: good,
+>
+> (`/ʊ/`是情态动词中常见的发音，你知道的，那些表达能力或可能性的助动词。它们通常有an-o, u, l, d拼写，如：could, should, would。但`/ʊ/`元音发音还有两种常见的拼写模式。第一种是字母oo，如：good, )
+
+
+
+==Note：总的来说，发 `/ʊ/`的时候，最重要的一点是：嘴型几乎不动；但长元音`/uː/`却要把嘴唇撅起来，舌头向后隆起，舍身放平，声音是从口腔后部发出来的，声音比较浑厚。==
+
+
+
+
+
+
 
 
 
