@@ -35,6 +35,20 @@
 
 
 
+
+
+## ▲为什么 `/ʌn/` 英音发「昂」，美音发「安」？
+
+*Added: 2024.01.27*
+
+==笔记待做==
+
+> https://www.zhihu.com/question/399870307
+
+
+
+
+
 ## ▲ 英语元音（母音）
 
 > https://www.youtube.com/watch?v=rwCK-kepCIc&ab_channel=%E5%93%A5%E5%80%AB%E5%B8%83Columbus
