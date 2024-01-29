@@ -100,8 +100,7 @@ ChatGPT 4.0 translations
 | narration         | `/nəˈreɪʃən/`         | n. 叙述；旁白           |
 | sleek             | `/sliːk/`             | adj. 光滑的；时髦的     |
 
-
-*Added: 2024.01.22*
+*Added: 2024.01.22, Edited: 2024.01.29*
 
 ChatGPT 4.0 translations
 
