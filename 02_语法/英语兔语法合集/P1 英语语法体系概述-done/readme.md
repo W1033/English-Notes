@@ -264,7 +264,7 @@ Papa Rabbit is tall. 中的 is 说白了就是把 Papa Rabbit 和 tall 连在一
 
 ### 6. 定语 (Attributive): 主要用来修饰主语或宾语。
 
-attributive  `/əˈtrɪbjəˌtɪv/`  n. 定语；adj. 定语的；作定语的（ (注意：`j`发`I`的音，`j` 后的`ə`不发音)
+attributive  `/əˈtrɪbjəˌtɪv/` adj. 定语的；作定语的（ (注意：`j`发`I`的音，`j` 后的`ə`不发音)
 
 > ◆ **The little white** rabbit ate **a large** carrot. 这只小白兔吃了一根大萝卜。
 
@@ -272,7 +272,7 @@ the little white 就是主语 rabbit 的定语，而 a large 就是宾语 carrot
 
 ### 7. 状语 (adverbial): 主要用来修饰谓语动词。
 
-adverbial  `/ədˈvɜːrbiəl/ `  n. 状语；adj. 状语的；副词的
+adverbial  `/ədˈvɜːrbiəl/` adj. 副词的； n. 状语
 
 >  例如:  ◆ The rabbit ate **quickly**. 兔子快速的吃.  *quickly 就是 eat 的状语.*
 
