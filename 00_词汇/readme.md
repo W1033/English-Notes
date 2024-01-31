@@ -608,11 +608,13 @@ ChatGPT 4.0 生成。
 
 ## ▲ 相似单词
 
-|   单词   |  发音   |   中文释义   |
-| :--- | :--- | :------- |
-| transition     |  `/træn'zɪʃən/`     |  n. 过渡；~~转变~~   |
-| transform      | `/træns'fɔrm/`      |  v. 变换；~~转换~~   |
-| transformation | `/ˌtrænsfəˈmeɪʃən/` |  n. 转化；变换   |
+|   单词   |  发音   |   中文释义   |   示例   |
+| :--- | :--- | :------- | -------- |
+| transition     |  `/træn'zɪʃən/`     | n. 过渡；转变<br />v. 过渡；转变 |  → transition period  过渡时期<br />→ transition point.  转变点；过渡点<br />→ Making the transition  from youth to adulthood can be very painful. <br />从青年过渡到成年会是一个非常痛苦的过程。<br />→ a society that is in transition (=changing) 一个正在转型的社会  |
+| transform      | `/træns'fɔrm/`      |  v. (使)变换；(使)转换  |  → transform into. 转变成<br />→ Free Transform 自由变换<br />→ transform coding 编码转换<br />→ Fourier`/ˈfʊərɪˌeɪ/` transform 傅里叶变换<br />→ It was an event that would transform my life. <br />那是能够彻底改变我一生的一件事。<br />→ How  do we transform one type of file to another? <br />我们如何将一种文件类型转换为另一种类型？  |
+| transformation | `/ˌtrænsfəˈmeɪʃən/` | n. 变换；转换；转变 | → social transformation 社会转型（/转变）<br />→ coordinate transformation 坐标变换<br />→ transformation process 转换过程<br />→ The transformation has been nothing short of a miracle. <br />这种变化看成奇迹。 |
+
+
 
 
 
@@ -675,6 +677,39 @@ ChatGPT 4.0 生成。
 /ˈtɪpɪkəl/  t-y-p-i-c-a-l. 典型的；有代表性的。
 
 ```
+
+
+
+## 备份格式比较好的单词记录方式
+
+*Added: 2024.01.31*
+
+*注：上面的格式是 2021-2023 年上半年记单词时根据 Vue 文档摸索出来的格式，但是这种格式对背单词实际上并无多大帮助，看起俩也不是很明朗。*
+
+### suite /swiːt/
+
+```css
+├── noun [countable]
+│   ├── (1) [ROOMS 房间] (a set of rooms, especially expensive ones in a hotel) 套房〔尤指酒店豪华套房〕:
+│   │   ├── a honeymoon suite 蜜月套房
+│   │   ├── a **suite of rooms** for palace guests 王室贵宾套房
+│   ├── (2) [FURNITURE 家具] (especially British English a set of matching furniture for a room) 一套家具:
+│   │   ├── a pink bathroom suite 一套粉红色浴室家具
+│   │   ├── three-piece suite (=a large seat and two chairs)
+│   ├── (3) [COMPUTERS 计算机] *technical* (a group of related computer programs) 套件
+│   ├── (4) [MUSIC 音乐] (a piece of music made up of several short parts) 组曲:
+│   │   ├── the Nutcracker Suite《胡桃夹子组曲》
+│   ├── (5) [POLITICS 政治] *formal* (the people who work for or help an important person)〔要人的〕一批随员[随从] SYN  retinue
+```
+> [!TIP]
+>
+> 2023 年下半年开始就是用这种格式来记单词了。例句是可选的，如果单词一点都不认识的时候建议可以不要看例句。
+
+| 单词  | 美式发音  | 词类 + 汉语释义   | 例句                                                         |
+| ----- | --------- | ----------------- | ------------------------------------------------------------ |
+| suite | `/swiːt/` | n. 套房；一套设备 | → a suite of 一系列<br />→ We booked a suite for our honeymoon. <br />我们为蜜月预定了一套公寓。 |
+
+
 
 
 
