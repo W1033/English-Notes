@@ -264,7 +264,7 @@ Papa Rabbit is tall. 中的 is 说白了就是把 Papa Rabbit 和 tall 连在一
 
 ### 6. 定语 (Attributive): 主要用来修饰主语或宾语。
 
-attributive  `/əˈtrɪbjəˌtɪv/` adj. 定语的；作定语的（ (注意：`j`发`I`的音，`j` 后的`ə`不发音)
+attributive  `/əˈtrɪbjəˌtɪv/` adj. 定语的（ (注意：`j`发`I`的音，`j` 后的`ə`不发音)
 
 > ◆ **The little white** rabbit ate **a large** carrot. 这只小白兔吃了一根大萝卜。
 

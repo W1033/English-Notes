@@ -6,6 +6,137 @@
 
 
 
+## ▲ 英语相似词汇/短语汇总
+
+### die, pass way, perish
+
+| 相似词汇/短语 | 意思                                             | 示例                                                         |
+| ------------- | ------------------------------------------------ | ------------------------------------------------------------ |
+| die           | 死亡，死去。<br />指生物失去生命或事物不复存在。 | The old man died last week.<br />那个老人上周去世了。        |
+| pass away     | 去世，过世。<br />die 的委婉说法。               | The famous author passed away suddenly. <br />那位著名作家突然去世了。 |
+| perish        |                                                  |                                                              |
+
+
+
+| 单词/词组 | 发音          | 意思                                         | 区别                                       | 示例                                                         |
+| --------- | ------------- | -------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------ |
+| die       | `/daɪ/`       | 死亡，指生命的终止。                         | 最常用，语气直接。                         | → He died in a car accident.<br /> (他在一场车祸中死亡。)<br />→ The old man died last week.<br />那个老人上周去世了。 |
+| pass away | `/pæs əˈweɪ/` | 去世，也是指死亡，但比“die”更委婉。          | 更为委婉、文雅，常用于正式或敏感的语境。   | → My grandmother passed away last year. <br />(我奶奶去年去世了。) |
+| perish    | `/ˈpɛrɪʃ/`    | 死亡，但常用于大规模、悲惨或暴力的死亡情景。 | 语气更为强烈，常用于描述灾难、战争等情况。 | → Many perished in the earthquake. <br />(许多人在地震中丧生。) |
+
+这三个词语都描述了生命的终止，但它们的使用场合和语气各有不同。"Die" 是最普遍的表达；"pass away" 更加委婉，适用于较为正式或敏感的场合；而 "perish" 则通常用于描述更加悲惨或暴力的死亡情景。
+
+## ▲ ChatGPT 4.0 翻译句子及解析
+
+*Added: 2024.02.01*
+
+### 随着季节的变化，景观完全变了。
+
+最常用英文翻译可能是：**As the seasons change, the landscape transforms completely.**
+
+这里的翻译使用了以下元素：
+
+1. **主语和谓语**：“As the seasons change” 是一个**时间状语从句**，用来说明主句发生的时间背景。这里的主语是 "the seasons"（季节），而谓语是 "change"（变化），表示季节的更迭。
+
+2. **主句**：“the landscape transforms completely” 是主句，描述了随着季节的变化，景观发生了怎样的变化。这里的主语是 "the landscape"（景观），而谓语是 "transforms"（转变），"completely"（完全地）用作副词，强调变化的程度。
+
+3. **连词**：“As” 作为连词，用来引导时间状语从句，表明两个动作（季节的变化和景观的转变）是同时发生的。
+
+这种翻译方式比较直接地传达了原文的意思，同时保持了语句的流畅性和清晰度。在这个句子中，"change" 和 "transform" 分别用来描绘季节的变化和景观的变化，传达了原文“消逝”和“改变”的意境。
+
+
+
+> ### 状语从句
+>
+> 状语从句是一个从句（状语从句必须是一个句子，至少包含主语和谓语两部分。但也是一个不完全的句子，不能独立成句），它在（复合）句子中作为状语存在，用来修饰主句中的动词、形容词、副词或整个句子，提供关于动作发生的时间(when, before, after ...)、地点(where, wherever)、原因(because, since,  as ...)、目的(so that, in order that ...)、条件、方式或程度等方面的信息。状语从句根据其所提供的信息类型，可以分为几种不同的类别，例如时间状语从句、地点状语从句、原因状语从句等。
+>
+> #### 1. 时间状语从句
+>
+> | 引导词  | 发音      | 词类 & 汉语意思   | 语法                               | 示例                                                         |
+> | ------ | --------- | ----------------- | ---------------------------------- | ------------------------------------------------------------ |
+> | when   | `/wɛn/`     | conj. 当…时       | 描述主句中的<br />动作发生的时间。 | When the sun sets, the birds return to their nests. <br />(当太阳下山时，鸟儿回到它们的巢穴。) |
+> | as     | `/æz/`      | conj. 当…时；因为 | 同上                               | As I was watching, the bird flew away. <br />(当我在看的时候，鸟飞走了。) |
+> | before | `/bɪˈfɔːr/` | conj. 在…之前     | 同上                               | Finish your homework before you go out. <br />(在你出去之前完成你的作业。) |
+> | after  | `/ˈæftər/`  | conj. 在…之后     | 同上                               | After the movie ended, we went for dinner. <br />(电影结束后，我们去吃晚饭。) |
+> | while  | `/waɪl/`    | conj. 当…时；虽然 | 同上                               | While he was sleeping, the phone rang. <br />(他睡觉的时候，电话响了。) |
+> | since  | `/sɪns/`    | conj. 自从        | 同上                               | She hasn't been seen since yesterday. <br />(自从昨天以来，她就没有出现过。) |
+> | until  | `/ənˈtɪl/`  | conj. 直到…为止   | 同上                               | Wait here until I come back. <br />(在这里等着，直到我回来。) |
+> | once   | `/wʌns/`    | conj. 一旦        | 同上                               | Once you finish your homework, you can watch TV. <br />(一旦你完成了作业，你就可以看电视。) |
+> 
+> #### 2. 地点状语从句
+> 
+> | 引导词   | 发音        | 词类 & 汉语意思  | 语法                               | 示例                                                         |
+> | -------- | ----------- | ---------------- | ---------------------------------- | ------------------------------------------------------------ |
+> | where    | `/wɛər/`      | conj. 在…地方    | 描述主句中的<br />动作发生的地点。 | He always feels happy where there is sunshine. <br />(在有阳光的地方，他总是感到快乐。) |
+> | wherever | `/wɛərˈɛvər/` | conj. 无论在哪里 | 同上                               | You can find beauty wherever you look. <br />(无论你看向哪里，你都能发现美。) |
+
+> #### 3. 原因状语从句
+>
+> | 引导词    | 发音      | 词类 & 汉语意思  | 语法                                     | 示例                                                         |
+> | -------- | --------- | ---------------- | ---------------------------------------- | ------------------------------------------------------------ |
+> | because  | `/bɪˈkɔːz/` | conj. 因为       | 提供主句中的<br />动作发生的原因或理由。 | Because it was raining, we cancelled the picnic. <br />(因为下雨，我们取消了野餐。) |
+> | since    | `/sɪns/`    | conj. 既然；因为 | 同上                                     | Since you are not interested, we will not discuss it further. <br />(既然你不感兴趣，我们就不再进一步讨论了。) |
+> | as       | `/æz/`      | conj. 因为       | 同上                                     | As he was not feeling well, he stayed at home. <br />(因为他感觉不舒服，所以他呆在家里。) |
+> | now that | `/naʊ ðæt/` | conj. 既然       | 同上                                     | Now that we have finished the project, we can relax. <br />(既然我们已经完成了项目，我们可以放松一下了。) |
+
+> #### 4. 目的状语从句
+>
+> | 引导词        | 发音             | 词类 & 汉语意思 | 语法                             | 示例                                                         |
+> | ------------- | ---------------- | --------------- | -------------------------------- | ------------------------------------------------------------ |
+> | so that       | `/səʊ ðæt/`        | conj. 以便      | 描述主句<br />动作的目的或意图。 | He whispered so that he would not disturb the others. <br />(他轻声说话，以免打扰别人。) |
+> | in order that | `/ɪn ˈɔːrdər ðæt/` | conj. 为了      | 同上                             | He left early in order that he could catch the train. <br />(他早早离开，为了赶上火车。) |
+
+> #### 5. 结果状语从句
+>
+> | 引导词       | 发音       | 词类 & 汉语意思   | 语法                             | 示例                                                         |
+> | ----------- | ---------- | ----------------- | -------------------------------- | ------------------------------------------------------------ |
+> | so...that   | `/səʊ ðæt/`  | conj. 如此…以至于 | 描述主句<br />动作的结果或后果。 | He ran so fast that he won the race. <br />(他跑得如此之快以至于赢得了比赛。) |
+> | such...that | `/sʌtʃ ðæt/` | conj. 如此…以至于 | 同上                             | It was such a hot day that we decided to stay indoors. <br />(天气如此炎热以至于我们决定待在室内。) |
+
+> #### 6. 条件状语从句
+>
+> | 引导词        | 发音             | 词类 & 汉语意思   | 语法                               | 示例                                                         |
+> | ------------- | ---------------- | ----------------- | ---------------------------------- | ------------------------------------------------------------ |
+> | if            | `/ɪf/`             | conj. 如果        | 描述主句<br />动作发生的条件或假设。 | If it rains, the event will be cancelled. <br />(如果下雨，活动将被取消。) |
+> | unless        | `/ənˈlɛs/`         | conj. 除非        | 同上   | You will not succeed unless you work harder. <br />(除非你更加努力，否则你不会成功。) |
+> | provided that | `/prəˈvaɪdɪd ðæt/` | conj. 只要        | 同上   | ou can go out provided that you finish your homework. <br />(只要你完成了作业，你就可以出去。) |
+> | as long as    | `/æz lɒŋ æz/` | conj. 只要 | 同上 | As long as you keep trying, you will eventually succeed. <br />(只要你坚持尝试，你最终会成功。) |
+
+> #### 7. 方式状语从句
+>
+> | 引导词        | 发音             | 词类 & 汉语意思   | 语法                               | 示例                                                        |
+> | -------------| ---------------- | ----------------- | ---------------------------------- | ------------------------------------------------------ |
+> | as           | `/æz/` | conj. 像…一样 | 描述主句中的<br />动作发生的方式或状态。 | He acted as if nothing had happened. <br />(他表现得好像什么都没发生过一样。) |
+> | as if        | `/æz ɪf/` | conj. 好像 | 同上 | She sings as if she were a professional. <br />(她唱歌就像是个专业歌手一样。) |
+> | as though    | `/æz ðoʊ/` | conj. 好像 | 同上 | He talks as though he knows everything. <br />(他说话的样子好像他知道一切。) |
+
+> #### 8. 让步状语从句
+>
+> | 引导词        | 发音             | 词类 & 汉语意思   | 语法                               | 示例                                                         |
+> | ------------- | ---------------- | ----------------- | ---------------------------------- | ------------------------------------------------------------ |
+> | although      | `/ɔːlˈðoʊ/`        | conj. 尽管 | 描述与主句中的<br />情况相对立或相矛盾的情况。 | Although it was raining, the game continued. <br />(尽管下雨，比赛还是继续了。) |
+> | though        | `/ðoʊ/`            | conj. 虽然 | 同上 | He is very friendly, though a bit shy. <br />(他非常友好，虽然有点害羞。) |
+> | even though   | `/ˈiːvən ðoʊ/`     | conj. 即使 | 同上 | Even though he was tired, he kept working. <br />(即使他很累，他还是继续工作。) |
+> | whereas       | `/wɛərˈæz/`        | conj. 然而 | 同上 | She is very outgoing, whereas her brother is shy. <br />(她非常外向，然而她的兄弟很害羞。) |
+> | while         | `/waɪl/`           | conj. 虽然 | 同上 | While I enjoy hiking, I dislike camping. <br />(虽然我喜欢远足，我不喜欢露营。) |
+
+
+>
+> | 类别         | 常见引导词                                         | 语法                                     | 示例                                                         |
+> | ------------ | -------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------ |
+> | 时间状语从句 | when, as, before, after, while, since, until, once | 描述主句中的动作发生的时间。             | When the sun sets, the birds return to their nests.<br /> (当太阳下山时，鸟儿回到它们的巢穴。) |
+> | 地点状语从句 | where, wherever                                    | 描述主句中的动作发生的地点。             | He always feels happy where there is sunshine.<br /> (在有阳光的地方，他总是感到快乐。) |
+> | 原因状语从句 | because, since, as, now that                       | 提供主句中的动作发生的原因或理由。       | Since it was raining, we cancelled the picnic`/'pɪknɪk/`. <br />(由于下雨，我们取消了野餐。) |
+> | 目的状语从句 | so that, in order that                             | 描述主句动作的目的或意图。               | He whispered so that he would not disturb the others. <br />(他轻声说话，以免打扰别人。) |
+> | 结果状语从句 | so...that, such...that                             | 描述主句动作的结果或后果。               | He ran so fast that he won the race. <br />(他跑得如此之快以至于赢得了比赛。) |
+> | 条件状语从句 | if, unless, provided that, as long as              | 描述主句动作发生的条件或假设。           | If it rains, the event will be cancelled.<br /> (如果下雨，活动将被取消。) |
+> | 方式状语从句 | as, as if, as though                               | 描述主句中的动作发生的方式或状态。       | She danced as if no one was watching. <br />(她跳舞就像没有人在看一样。) |
+> | 让步状语从句 | although, though, even though, whereas, while      | 描述与主句中的情况相对立或相矛盾的情况。 | Although it was raining, the game continued.<br /> (尽管下雨，比赛还是继续了。) |
+
+
+
+
+
 
 
 ## ▲ 英语固定搭配
