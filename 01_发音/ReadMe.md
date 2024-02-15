@@ -69,9 +69,9 @@
 >
 > 注意以下词典的音标，不光in发/ən/，ri也发/rə/
 >
-> ![img](./ReadMe.assets/v2-5a20dcd4936a06be2ff4a2020c2d769a_r.jpg)
+> <img src="./ReadMe.assets/v2-5a20dcd4936a06be2ff4a2020c2d769a_r.jpg" alt="img" style="zoom:50%;" />
 >
-> ![img](./ReadMe.assets/v2-876a97c4cd0356c6365b13e2a1ffeca3_r.jpg)
+> <img src="./ReadMe.assets/v2-876a97c4cd0356c6365b13e2a1ffeca3_r.jpg" alt="img" style="zoom:50%;" />
 >
 >
 > ---
