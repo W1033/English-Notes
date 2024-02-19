@@ -19,8 +19,6 @@
 
 
 
-
-
 He's just an average guy in terms of height and build, not particularly standing out in crowd, but there's something about his smile that's memorable.
 
 就身高和体型而言，他只是一个普通人，在人群中并不特别突出，但他的笑容令人难忘。
@@ -34,13 +32,29 @@ The colour-sorted bottles are put into furnaces which melt the glass in preparat
 
 
 
+
+## ▲ 常用句子翻译
+
+| 索引 | 中文     | 英文                                                         | 备注                                      |
+| ---- | -------- | ------------------------------------------------------------ | ----------------------------------------- |
+| 1    | 少吃多餐 | eat small, frequent meals. 或<br />have several small meals a day. | Added: 2024.02.19.<br />From: chatGPT 4.0 |
+|      |          |                                                              |                                           |
+|      |          |                                                              |                                           |
+
+
+
+
+
+
+
+
 ## ▲ 电影台词
 
-| 英文                                                         | 中文                                                         | 电影 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                  | 添加时间   |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------- | ---------- |
-| **[Mohammad ](https://www.imdb.com/name/nm0708216/?ref_=tt_ch):** *[crying]* Our teacher says that God loves the blind more because they can't see. But I told him if it was so, He would not make us blind so that we can't see Him. He answered "God is not visible. He is everywhere. You can feel Him. You see Him through your fingertips." Now I reach out everywhere for God till the day my hands touch Him and tell Him everything, even all the secrets in my heart.<br />Mohammad: *[crying]* Nobody loves me because I'm blind. | 穆罕默德：~~你知道，没有人喜欢我。他们都因为我是个瞎子而离开我。~~ 我们的老师说上帝更爱盲人，因为他们看不见。但是我告诉他，如果上帝真的爱我们的话，就不会让我们成为瞎子了，以至于让我们看不见他。老师回答说：上帝是看不见的。他无处不在，你可以感觉到他，你可以通过你的手指来感受到他。现在我四处寻找上帝直到我的手可以感觉到他，然后告诉他我心中所有的秘密。 | Color of Paradise( dir. Majid Majidi, 1999) | 2023.12.17 |
-|                                                              |                                                              |                                             |            |
-|                                                              |                                                              |                                             |            |
+| 英文                                                         | 中文                                                         | 电影 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 添加时间   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| **[Mohammad ](https://www.imdb.com/name/nm0708216/?ref_=tt_ch):** *[crying]* Our teacher says that God loves the blind more because they can't see. But I told him if it was so, He would not make us blind so that we can't see Him. He answered "God is not visible. He is everywhere. You can feel Him. You see Him through your fingertips." Now I reach out everywhere for God till the day my hands touch Him and tell Him everything, even all the secrets in my heart.<br />Mohammad: *[crying]* Nobody loves me because I'm blind. | 穆罕默德：我们的老师说上帝更爱盲人，因为他们看不见。但是我告诉他，如果上帝真的爱我们的话，就不会让我们成为瞎子了，以至于让我们看不见他。老师回答说：上帝是看不见的。他无处不在，你可以感觉到他，你可以通过你的手指来感受到他。现在我四处寻找上帝直到我的手可以感觉到他，然后告诉他我心中所有的秘密。 | Color of Paradise( dir. Majid Majidi, 1999)<br /><br />中文名：《天堂的颜色》 | 2023.12.17 |
+|                                                              |                                                              |                                                              |            |
+|                                                              |                                                              |                                                              |            |
 
 
 
