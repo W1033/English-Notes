@@ -93,10 +93,10 @@ ChatGPT 4.0 translations
 | stocking            | `/ˈstɑkɪŋ/`             | n. 长袜                       |
 | sock                | `/sɑːk/`                | n. 短袜                       |
 | hose                | `/hoʊz/`                | n. 长筒袜；软管                |
-| inhibition          | `/ˌɪnhɪˈbɪʃən/         | n. 抑制；禁止                   |
-| dwell               | `/dwɛl/                | v. 居住；细想                   |
-| otherwise           | `/ˈʌðərˌwaɪz/          | adv. 否则；不同地               |
-| disrupt             | `/dɪsˈrʌpt/            | v. 扰乱；破坏                   |
+| inhibition          | `/ˌɪnhəˈbɪʃən/`         | n. 抑制；禁止                  |
+| dwell               | `/dwɛl/`               | v. 居住；细想                   |
+| otherwise           | `/ˈʌðərˌwaɪz/`         | adv. 否则；不然；除此之外        |
+| disrupt             | `/dɪsˈrʌpt/`           | v. 扰乱；使中断                  |
 | chemical            | `/ˈkɛmɪkəl/            | adj. 化学的；n. 化学制品         |
 | keep in check       | `/kiːp ɪn tʃɛk/        | phr. 控制；制约                 |
 | serotonin           | `/ˌsɛroʊˈtoʊnɪn/       | n. 血清素                       |
