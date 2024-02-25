@@ -55,10 +55,83 @@ advantage `/ədˈvæntɪdʒ/` 和 advice `/əd'vaɪs/`，读音中第一个是�
 - 
 - 
 - 
-- 
+
+
+
+
+
 
 
 ## ▲ 待编辑生词
+
+*Added: 2024.02.25*
+
+ChatGPT 4.0 translations
+
+**注：下面表格单词已写到 Goodnotes**
+
+| 单词     | 美式发音        | 词类 + 汉语释义                          | 示例                                                         |
+| -------- | --------------- | ---------------------------------------- | ------------------------------------------------------------ |
+| theater  | `/ˈθiətər/`     | n. 剧院；电影院                          | We went to the theater to watch a live performance. <br />(我们去剧院观看了一场现场表演。) |
+| theatre  | `/ˈθiətər/`     | n. 剧院；电影院                          | She has a passion for working in the theatre.<br /> (她对在剧院工作充满热情。) |
+| rave     | `/reɪv/`        | v. 狂热讨论；<br />n. 狂欢               | v. The critics raved about the new movie.<br /> (评论家们对这部新电影赞不绝口。)<br>n. They went to a rave on the beach. <br />(他们去海滩参加了一场狂欢派对。) |
+| rant     | `/rænt/`        | v. 咆哮；激昂地说                        | He ranted about the unfairness of the situation.<br /> (他激昂地谈论着这种情况的不公平。) |
+| brave    | `/breɪv/`       | adj. 勇敢的；<br />v. 勇敢面对           | adj. The brave firefighter saved the child from the fire. <br />(勇敢的消防员从火中救出了孩子。)<br>v. She braved the storm to help her friend. <br />(她勇敢地面对暴风雨去帮助她的朋友。) |
+| survival | `/sərˈvaɪvəl/`  | n. 生存；幸存                            | The survival rate after the surgery was high. <br />(手术后的生存率很高。) |
+| fit      | `/fɪt/`         | v. 适合；安装；<br />adj. 合适的；健康的 | adj. The dress is a perfect fit for her. <br />(这条裙子非常适合她。)<br>v. The key fits the lock perfectly. <br />(这把钥匙非常适合这个锁。) |
+| fittest  | `/ˈfɪtɪst/`     | adj. 最适合的（fit的最高级）             | Only the fittest animals survive in the wild. <br />(只有最适合的动物能在野外生存。) |
+| incident | `/ˈɪnsɪdənt/`   | n. 事件                                  | An incident at the school caused concern among parents. <br />(学校发生的一起事件让家长们感到担忧。) |
+| optical  | `/ˈɑptɪkəl/`    | adj. 光学的；视觉的                      | Optical instruments are essential for this research. <br />(光学仪器对这项研究至关重要。) |
+| converge | `/kənˈvɜːrdʒ/`  | v. 汇聚；集中                            | The protestors converged at the city center. <br />(抗议者在市中心汇聚。) |
+| focal    | `/ˈfoʊkəl/`     | adj. 焦点的；核心的                      | The focal point of the discussion was community safety. <br />(讨论的焦点是社区安全。)<br />The focal point of the study was urban development. <br />(这项研究的核心焦点是城市发展。) |
+| among    | `/əˈmʌŋ/`       | prep. 在...之中                          | The teacher divided the candies among the students. <br />(老师将糖果分给了学生们。) |
+| element  | `/ˈeləmənt/`    | n. 元素；成分                            | Water is composed of the elements hydrogen and oxygen. <br />(水由氢和氧两种元素组成。) |
+| hydrogen | `/ˈhaɪdrədʒən/` | n. 氢                                    | Hydrogen is the most abundant element in the universe. (氢是宇宙中最丰富的元素。) |
+| oxygen   | `/ˈɑːksɪdʒən/`  | n. 氧                                    | Plants produce oxygen during photosynthesis. (植物在光合作用过程中产生氧气。) |
+| abundant | `/əˈbʌndənt/`   | adj. 丰富的；大量的                      | The region is known for its abundant natural resources. (这个地区以其丰富的自然资源而闻名。) |
+|          |                 |                                          |                                                              |
+|          |                 |                                          |                                                              |
+
+- theater：主要指演出剧目的场所，如剧院或电影院，也可指戏剧或表演艺术本身。 
+- theatre：通常指用于戏剧、音乐剧或电影放映的场所，也可以指演出艺术本身。 
+- rave：作为动词时，可以指热情赞扬或狂热讨论；作为名词，常用于描述大型舞蹈派对或音乐会。 
+- rant：作为动词，通常指发表长篇大论或激昂地讲话，尤指在愤怒或激动的情绪下。 
+- brave：作为形容词，意味着勇敢或无畏；作为动词，表示勇敢地面对或经受困难或危险的情况 |
+- Survival：指的是生存或幸存，而 "fittest" 是形容词 "fit" 的最高级形式，常用于表达“最适合”的概念，特别是在“适者生存”的语境中。 
+- fit：作为动词，则表示使某物适合或安装某物；作为形容词，可以表示物品大小、形状合适或描述身体健康。 
+- fittest：这个发音强调了 "fit" 的最高级形式，通常用于描述最适合、最合适或最健康的状态。例如，在短语 "survival of the fittest"（适者生存）中，"fittest" 指的是在自然选择中最有生存能力的个体。 
+- incident
+- optical
+- converge
+- focal：强调了事物的重要性或核心地位，适用于强调某个话题、问题或对象的中心或关键性。
+- among：作为介词，通常用于表示在多个人或事物之间的关系或分布。
+- element：指的是组成物质的基本成分，也可用于描述构成更大整体的个别部分或方面。
+- hydrogen
+- oxygen
+- abundant：形容词，用来描述存在于大量或丰富的状态。
+
+
+
+
+
+*Added: 2024.02.24*
+
+ChatGPT 4.0 translations
+
+| 单词       | 美式发音 | 词类 + 汉语释义        | 示例                                                         |
+| ---------- | --------------- | ---------------------- | ------------------------------------------------------------ |
+| attribute  | `/ˈætrɪˌbjut/` (n.), <br />`/əˈtrɪˌbjut/` (v.) | n. 属性；v. 归因于     | n. The color is an important attribute of the fabric.<br /> (颜色是这种面料的一个重要属性。)<br>v. He attributed his success to hard work.<br /> (他把成功归因于努力工作。) |
+| overload   | `/ˌoʊvərˈloʊd/` | v. 超载；n. 超负荷     | v. Don't overload the washing machine.<br /> (不要超载洗衣机。)<br>n. The electrical overload caused a blackout. <br />(电力超载导致了停电。) |
+| excitement | `/ɪkˈsaɪtmənt/` | n. 兴奋；激动          | The announcement generated a lot of excitement.<br /> (这个公告引起了很多兴奋。) |
+| junior     | `/ˈdʒuːniər/` | adj. 级别低的；年少的；n. 年少者；下级。 | adj. She is two years junior to me. (她比我小两岁。)<br>n. He is a junior in the legal firm.<br>(他是律师事务所的初级员工。) |
+| lounge     | `/laʊndʒ/`     | n. 休息室；v. 闲逛     | n. The hotel has a comfortable lounge.<br>(酒店有一个舒适的休息室。)<br>v. We lounged by the pool all day.<br>(我们整天在泳池边闲逛。) |
+| adverbial | `/ədˈvɜrːbiəl/` | adj. 副词的；n. 状语 | adj. An adverbial phrase modifies the verb.<br>(副词短语用来修饰动词。)<br>n. "Quickly" in "He ran quickly" is an adverbial.<br>(“He ran quickly”中的“quickly”是状语。) |
+| delta      | `/ˈdɛltə/`     | n. 三角洲              | The Nile Delta is known for its fertile land.<br>(尼罗河三角洲以其肥沃的土地而闻名。) |
+| sexual     | `/ˈsɛkʃuəl/`  | adj. 性的；性别的      | The study covers various aspects of sexual behavior.<br>(这项研究涵盖了性行为的各个方面。) |
+| affection  | `/əˈfɛkʃən/`   | n. 喜爱；感情          | She has a deep affection for her grandparents.<br>(她对她的祖父母有深厚的感情。) |
+| crowd      | `/kraʊd/`      | n. 人群；v. 挤满       | n. A large crowd gathered in the square.<br>(一个大人群聚集在广场上。)<br>v. Fans crowded the stadium.<br>(球迷们挤满了体育场。) |
+| truth      | `/truθ/`       | n. 真相；真理          | The truth about the incident was finally revealed.<br>(关于这起事件的真相最终被揭露了。) |
+
 
 
 
@@ -209,7 +282,6 @@ ChatGPT 4.0 translations
 | blame       | `/bleɪm/         | v. 责备；n. 责任       |
 | blossoms    | `/ˈblɑːsəmz/     | n. 花；v. 开花         |
 | bounce      | `/baʊns/         | v. 弹跳；反弹          |
-| brave       | `/breɪv/         | adj. 勇敢的            |
 | broad       | `/brɔːd/         | adj. 宽的；广泛的      |
 | burst       | `/bɜrst/         | v. 爆裂；突发          |
 | capture     | `/ˈkæptʃər/      | v. 捕获；夺取          |
