@@ -64,6 +64,27 @@ advantage `/ədˈvæntɪdʒ/` 和 advice `/əd'vaɪs/`，读音中第一个是�
 
 ## ▲ 待编辑生词
 
+*Added: 2024.02.26*
+
+ChatGPT 4.0 translations
+
+| 单词           | 美式发音            | 词类 + 汉语释义    | 概述                                                         | 示例                                                         |
+| -------------- | ------------------- | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| prey           | `/preɪ/`            | n. 猎物；v. 捕食   | 解释：作为名词时，通常指被捕食的动物或对象；<br />作为动词时，则指进行捕食的行为。 | n. The lion quietly stalked its prey. <br />(狮子悄悄地追踪着它的猎物。)<br>v. Owls prey on small mammals. <br />(猫头鹰捕食小型哺乳动物。) |
+| stalk          | `/stɔːk/`           | v. 悄悄跟踪；n. 茎 | 解释：作为动词时指悄悄地跟踪或追踪，常见于描述捕食者行为；<br />作为名词时指植物的茎部。 | v. The cat stalked the bird before pouncing. <br />(猫在扑向鸟之前悄悄地跟踪它。)<br>n. She cut the stalks off the flowers. <br />(她剪掉了花的茎。) |
+| groan          | `/ɡroʊn/`           | v. 呻吟；n. 呻吟声 | 解释：作为动词时指发出低沉的、表达痛苦或不满的声音；<br />作为名词时指呻吟声。 | v. The patient groaned in pain. <br />(病人痛苦地呻吟。)<br>n. A groan of disappointment filled the room. <br />(房间里充满了失望的呻吟声。) |
+| disappointment | `/ˌdɪsəˈpɔɪntmənt/` | n. 失望            | 解释：指因期望未达到或希望落空而产生的感觉。                 | His failure to win the race was a big disappointment. <br />(他未能赢得比赛是一个巨大的失望。) |
+| appoint        | `/əˈpɔɪnt/`         | v. 任命；指定      | 解释：指派某人担任特定职务或角色，或确定某事物的时间或地点。<br />概述：通常用于形容正式的任命、指派或安排。 | She was appointed as the new manager. <br />(她被任命为新经理。)<br>We appointed a meeting for next week. <br />(我们安排了下周的会议。) |
+| failure        | `/ˈfeɪljər/`        | n. 失败；故障      | 解释：指未能达到预期目标或结果的状态，或指机器、系统等的故障或功能失效。<br />概述：通常用来描述在某项活动或任务中未能成功，或者是设备和系统的不正常工作状态。 | His attempt to climb the mountain ended in failure. (他试图攀登这座山，但以失败告终。)<br>The failure of the engine caused the car to stop. (引擎故障导致汽车停止运行。) |
+|                |                     |                    |                                                              |                                                              |
+|                |                     |                    |                                                              |                                                              |
+
+
+
+
+
+
+
 *Added: 2024.02.25*
 
 ChatGPT 4.0 translations
