@@ -75,35 +75,23 @@ ChatGPT 4.0 translations
 | specialty | `/ˈspɛʃəlti/` | n. 专业；特产   | His specialty is heart surgery. <br />(他的专业是心脏外科手术。)<br>This region's specialty is wine. <br />(这个地区的特产是葡萄酒。) |
 | endure | `/ɪnˈdʊr/` | v. 忍受；持续   | She endured years of hardship. <br />(她忍受了多年的艰难。)<br>The tradition has endured for centuries. <br />(这一传统持续了几个世纪。) |
 | scrap | `/skræp/` | n. 废料；v. 废弃 | n. He collected metal scraps for recycling. <br />(他收集金属废料用于回收。)<br>v. They decided to scrap the old car. <br />(他们决定报废旧车。) |
+| sleepy       | `/ˈsliːpi/`          | adj. 困倦的            | He felt sleepy after the long journey. <br />(长途旅行后他感到困倦。) |
+| quo          | `/kwoʊ/`             | n. 现状                | The government is determined to maintain the status quo. <br />(政府决心维持现状。) |
+| bias         | `/ˈbaɪəs/`           | n. 偏见；adj. 有偏见的 | There is a clear bias against this policy. <br />(对这一政策有明显的偏见。) |
+| encyclopedia | `/ˌɛnsaɪkləˈpiːdiə/` | n. 百科全书            | She referred to the encyclopedia to complete her research. <br />(她查阅了百科全书以完成她的研究。) |
+| maintain | `/meɪnˈteɪn/`   | v. 维持；保持       | It's important to maintain a healthy diet. (保持健康饮食很重要。) |
+| status   | `/ˈsteɪtəs/`    | n. 地位；状态      | The project's status is updated weekly. (该项目的状态每周更新一次。) |
+
 
 - "specialty" 通常用于描述某人擅长的特定领域或某地区著名的特色产品。
 - "endure" 指长时间承受某种困难或不快，或某事物的持久存在。
 - "scrap" 既可以作为名词，指废旧或无用的物料（如废金属），也可以作为动词，表示丢弃或废弃某物。
-
- 
-
-这是您提供的单词列表 "sleepy", "quo", "bias", 和 "encyclopedia" 的翻译及相关示例：
-
-| 单词         | 美式发音             | 词类 + 汉语释义        | 示例                                                         |
-| ------------ | -------------------- | ---------------------- | ------------------------------------------------------------ |
-| sleepy       | `/ˈsliːpi/`          | adj. 困倦的            | He felt sleepy after the long journey. (长途旅行后他感到困倦。) |
-| quo          | `/kwoʊ/`             | n. 现状                | The government is determined to maintain the status quo. (政府决心维持现状。) |
-| bias         | `/ˈbaɪəs/`           | n. 偏见；adj. 有偏见的 | There is a clear bias against this policy. (对这一政策有明显的偏见。) |
-| encyclopedia | `/ˌɛnsaɪkləˈpiːdiə/` | n. 百科全书            | She referred to the encyclopedia to complete her research. (她查阅了百科全书以完成她的研究。) |
-
-下面是对每个单词的解释：
-
-1. **sleepy**：表示感到困倦或昏昏欲睡的状态，常用来描述人在疲劳或需要休息时的感觉。
-
-2. **quo**：通常在短语 "status quo"（现状）中使用，指维持当前的状况或水平。
-
-3. **bias**：指持有偏见或不公正态度，可以用作名词描述这种偏见本身，或形容词描述有偏见的态度或行为。
-
-4. **encyclopedia**：指提供广泛知识信息的参考书籍，通常涵盖多个领域或主题。
-
-这些解释有助于您更好地理解这些单词的常见用法。如果您有其他问题或需要帮助，请随时告知。
-
-
+- sleepy：表示感到困倦或昏昏欲睡的状态，常用来描述人在疲劳或需要休息时的感觉。
+- quo：通常在短语 "status quo"（现状）中使用，指维持当前的状况或水平。
+- bias：指持有偏见或不公正态度，可以用作名词描述这种偏见本身，或形容词描述有偏见的态度或行为。
+- encyclopedia：指提供广泛知识信息的参考书籍，通常涵盖多个领域或主题。
+- maintain：通常指保持或维持某种状态、水平或条件。可以用于描述维持健康、平衡、秩序、质量等方面。
+- status：指个人、事物或项目的地位、情况或条件。可以用于描述社会地位、项目进度、法律状态等。
 
 
 
