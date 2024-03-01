@@ -59,36 +59,33 @@ advantage `/ədˈvæntɪdʒ/` 和 advice `/əd'vaɪs/`，读音中第一个是�
 
 
 
-
-
 *Added: 2024.03.01*
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+注：下面表格单词已写到 Goodnotes
 
-| 单词      | 美式发音      | 词类 + 汉语释义 | 示例                                                         |
-| --------- | ------------- | --------------- | ------------------------------------------------------------ |
-| specialty | `/ˈspɛʃəlti/` | n. 专业；特产   | His specialty is heart surgery. <br />(他的专业是心脏外科手术。)<br>This region's specialty is wine. <br />(这个地区的特产是葡萄酒。) |
-| endure | `/ɪnˈdʊr/` | v. 忍受；持续   | She endured years of hardship. <br />(她忍受了多年的艰难。)<br>The tradition has endured for centuries. <br />(这一传统持续了几个世纪。) |
-| scrap | `/skræp/` | n. 废料；v. 废弃 | n. He collected metal scraps for recycling. <br />(他收集金属废料用于回收。)<br>v. They decided to scrap the old car. <br />(他们决定报废旧车。) |
-| sleepy       | `/ˈsliːpi/`          | adj. 困倦的            | He felt sleepy after the long journey. <br />(长途旅行后他感到困倦。) |
-| quo          | `/kwoʊ/`             | n. 现状                | The government is determined to maintain the status quo. <br />(政府决心维持现状。) |
-| bias         | `/ˈbaɪəs/`           | n. 偏见；adj. 有偏见的 | There is a clear bias against this policy. <br />(对这一政策有明显的偏见。) |
-| encyclopedia | `/ˌɛnsaɪkləˈpiːdiə/` | n. 百科全书            | She referred to the encyclopedia to complete her research. <br />(她查阅了百科全书以完成她的研究。) |
-| maintain | `/meɪnˈteɪn/`   | v. 维持；保持       | It's important to maintain a healthy diet. <br />(保持健康饮食很重要。) |
-| status   | `/ˈsteɪtəs/`    | n. 地位；状态      | The project's status is updated weekly. <br />(该项目的状态每周更新一次。) |
+| 单词    | 美式发音    | 词类 + 汉语释义     | 示例                                                         |
+| ------- | ----------- | ------------------- | ------------------------------------------------------------ |
+| special | `/ˈspɛʃəl/` | adj. 特别的；特殊的 | She bought a special gift for her friend's birthday. <br />(她为朋友的生日买了一份特别的礼物。) |
+| alarm   | `/əˈlɑrm/`  | n. 警报；v. 使惊恐  | n. The fire alarm went off during the meeting. <br />(会议期间火警响起。)<br>v. The news alarmed the public. <br />(这条新闻使公众感到惊恐。) |
+| barrier | `/ˈbæriər/` | n. 障碍物；屏障     | The language barrier made communication difficult. <br />(语言障碍使沟通变得困难。) |
+| reenter | `/riˈɛntər/`| v. 再进入          | She had to reenter her password. <br />(她必须重新输入她的密码。) |
+| moss    | `/mɔs/`     | n. 苔藓（xiǎn）      | The stones were covered with moss. <br />(石头上长满了苔藓。)   |
+| cabin | `/ˈkæbɪn/` | n. 小屋；船舱 | We stayed in a log cabin in the mountains. <br />(我们在山中的一间小木屋里住宿。) |
+| log | `/lɒːɡ/` | n. 圆木；日志；v. 记录 | n. The fireplace was stacked with logs. <br />(壁炉里堆满了圆木。)<br>v. She logged her work hours in the system. <br />(她在系统中记录了她的工作时间。) |
+| stack | `/stæk/` | n. 堆；v. 堆积 | n. There is a stack of books on the table. <br />(桌子上有一堆书。)<br>v. She stacked the plates in the cupboard. <br />(她把盘子堆放在橱柜里。) |
 
 解释：
-- specialty：通常用于描述某人擅长的特定领域或某地区著名的特色产品。
-- endure：指长时间承受某种困难或不快，或某事物的持久存在。
-- scrap：既可以作为名词，指废旧或无用的物料（如废金属），也可以作为动词，表示丢弃或废弃某物。
-- sleepy：表示感到困倦或昏昏欲睡的状态，常用来描述人在疲劳或需要休息时的感觉。
-- quo：通常在短语 "status quo"（现状）中使用，指维持当前的状况或水平。
-- bias：指持有偏见或不公正态度，可以用作名词描述这种偏见本身，或形容词描述有偏见的态度或行为。
-- encyclopedia：指提供广泛知识信息的参考书籍，通常涵盖多个领域或主题。
-- maintain：通常指保持或维持某种状态、水平或条件。可以用于描述维持健康、平衡、秩序、质量等方面。
-- status：指个人、事物或项目的地位、情况或条件。可以用于描述社会地位、项目进度、法律状态等。
+- **special**：作为形容词，"special" 通常用来形容与众不同的、特殊的或特别的事物或情况，强调其独特性或重要性。
+- **alarm** ：作为名词时，通常指警报或警告信号，如火警、闹钟等。作为动词时，则表示引起某人的恐慌或担忧。
+- **barrier**：作为名词，"barrier" 指的是物理上的障碍物，如栅(zhà)栏、墙等，或者是象征性的障碍，如语言障碍、文化障碍等，阻碍人们的行动或沟通。
+- **reenter**：指再次进入某个地方或状态，或重新开始参与某事。
+- **moss**：指一种小的绿色或黄绿色植物，通常在湿润或阴暗的地方生长，如石头或树干上。 
+- **cabin**：指一个小房子，通常位于乡村或偏远地区，或者指船舶、飞机等交通工具内的乘客或机组人员的居住区域。
+- **log**：作为名词，"log" 可以指被砍下用作燃料或建筑材料的大树枝或圆木，也可以指记录事件或活动的日志。作为动词，"log" 表示记录信息，如记录航行数据、工作时间或其他重要事项。
+- **stack**：作为名词，"stack" 指一堆整齐排列的物品，如书籍、盘子等。作为动词，"stack" 表示将物品堆叠起来，通常是为了储存或保持整洁。
+
 
 --- --- --- --- --- ---
 
