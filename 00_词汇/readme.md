@@ -614,7 +614,7 @@ ChatGPT 4.0 translations
 | 单词              | 美式发音               | 词类 + 汉语释义                           |                            |
 | ----------------- | ---------------------- | ----------------------------------------- | ----------------------------------------- |
 | faint             | `/feɪnt/`            | adj. 微弱的；模糊的<br />v. 晕倒 | adj. There was a faint sound coming from the room. <br />(房间里传来了微弱的声音。)<br />v. She fainted from exhaustion. <br />(她因为筋疲力尽而晕倒。) |
-| compact           | `/kəmˈpækt/`         | adj. 紧凑的；n. 紧凑物 | adj. The apartment is small but compact. <br />(这个公寓小但布局紧凑。)<br>n. She carried her makeup in a small compact. <br />(她携带一个小巧的化妆盒。) |
+| compact           | `/kəmˈpækt/`         | adj. 紧凑的；小巧的 | adj. The apartment is small but compact. <br />(这个公寓小但布局紧凑。)<br>n. She carried her makeup in a small compact. <br />(她携带一个小巧的化妆盒。) |
 | laminate          | `/ˈlæməˌneɪt/`       | v. 覆膜；n. 层压板 | v. They decided to laminate the important documents for preservation. <br />(他们决定给重要文件覆上薄膜以便保存。)<br>n. The countertop is made of laminate. <br />(这个台面是由层压板制成的。) |
 | callout       | `/ˈkɔːlaʊt/`          | n. 呼叫；标注                             | The emergency services received a callout to a house fire. <br />(紧急服务部门接到了对一起住宅火灾的呼叫。) |
 | spec              | `/spɛk/`              | n. 规格；说明（specification的缩写） | Please check the product specs before purchase. <br />(购买前请检查产品规格。) |
