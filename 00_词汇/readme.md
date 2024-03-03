@@ -57,6 +57,55 @@ advantage `/ədˈvæntɪdʒ/` 和 advice `/əd'vaɪs/`，读音中第一个是�
 
 ## ▲ 待编辑生词
 
+*Added: 2024.03.03*
+ChatGPT 4.0 translations
+~~注：下面表格单词已写到 Goodnotes~~
+
+| 单词           | 美式发音             | 词类 + 汉语释义               | 示例                                                         |
+| -------------- | -------------------- | ----------------------------- | ------------------------------------------------------------ |
+| rebel          | `/ˈrɛbəl/`           | n. 反叛者; v. 反抗            | n. The rebels were fighting against the government. <br />(叛乱者在与政府作战。)<br />v. The teenager rebelled against authority. <br />(那个青少年反抗权威。)。 |
+| crew           | `/kruː/`             | n. 全体人员(船、飞机)；团队   | The ship's crew worked tirelessly throughout the journey. <br />(船上的全体船员在整个航程中不知疲倦地工作。)<br />The aircraft crew performed a safety check. <br />(飞机全体人员进行了安全检查。)<br />The project team worked like a well-coordinated crew. <br />(项目团队像一个默契十足的团队一样工作。) |
+| tireless       | `/ˈtaɪərləs/`        | adj. 不知疲倦的               | She was tireless in her efforts to improve the community. <br />(她在改善社区方面的努力是不知疲倦的。) |
+| throughout     | `/θruˈaʊt/`          | prep. & adv. 遍及；贯穿       | The festival was celebrated throughout the country. <br />(这个节日在整个国家庆祝。) |
+| festival       | `/ˈfestəvəl/`        | n. 节日；庆祝活动             | The town holds an annual music festival every summer. <br />(这个镇每年夏天都会举办一次音乐节。) |
+| Christian      | `/ˈkrɪstʃən/`        | n. 基督徒；adj. 基督教的      | n. She is a devout Christian. <br />(她是一位虔诚的基督徒。)<br />adj. Christian values influence her decisions. <br />(基督教的价值观影响着她的决定。) |
+| devout         | `/dɪˈvaʊt/`          | adj. 虔诚的                   | He is a devout follower of his religion. (他是他的宗教的虔诚信徒。) |
+| religion       | `/rɪˈlɪdʒən/`        | n. 宗教                       | She studies the influence of religion on culture. <br />(她研究宗教对文化的影响。) |
+| culture        | `/ˈkʌltʃər/`         | n. 文化                       | Each country has its own unique culture. <br />(每个国家都有其独特的文化。) |
+| congregation   | `/ˌkɑːŋɡrəˈɡeɪʃn/`   | n. （尤指教堂的）会众         | The congregation gathered for the weekly service. <br />(会众聚集参加每周的礼拜仪式。) |
+| congratulation | `/kənˌɡrætʃəˈleɪʃn/` | n. 祝贺; 恭喜（通常用作复数） | He received many congratulations on his promotion. <br />(他因晋升收到了许多祝贺。) |
+
+列表解释：
+
+- **rebel (n.)**：作为名词，“rebel”指的是反抗现有权威、政府或其他控制力量的人，通常用于描述参与政治或军事反叛的个体或团体。作为动词，描述的是反抗或抵制的行为，可以是对父母、学校、工作或更广泛的社会规范的反抗。
+
+- **crew**：指一组共同工作的人，尤其是在船上、飞机上或其他运输工具上的工作人员。在更广泛的意义上，也可以指任何类型的工作或运动团队。
+
+- **tireless (adj.)**：形容词 "tireless" 用于形容一个人或其努力、工作等，表示不知疲倦或持续不懈的。通常用于赞扬某人在某项任务或活动中表现出的持续的努力和能量。
+
+- **throughout (prep. & adv.)**：作为介词（prep.），"throughout" 用来表达在某个地区或空间的每个部分，或在某个时间段的始终。作为副词（adv.），它表示在所有部分或整个期间。
+
+- **festival (n.)**：作为名词，"festival" 指的是为了特定目的或庆祝某事件而举办的一系列活动或庆典，如音乐节、电影节、宗教节日等。这通常是一次快乐和庆祝的时刻，可能包括音乐、舞蹈、表演、游行等各种活动。
+
+- **Christian (n. & adj.)**：作为名词，“Christian”指的是信仰基督教的人。作为形容词，它用来描述与基督教有关的事物，如基督教的教义、传统或文化等。
+
+- **devout (adj.)**：通常用于形容人对宗教、信仰或某种事业非常虔诚和认真。
+
+- **religion (n.)**：作为名词，“religion”指的是围绕神灵崇拜、精神信仰和道德规范的一套体系，它通常包括仪式、礼拜活动和教义。这个词用于描述不同的信仰体系，如基督教、伊斯兰教、佛教等。
+
+- **culture (n.)**：作为名词，"culture" 指的是某个社会或群体的生活方式、艺术、信仰、价值观、习俗、行为准则和社交习惯等。这个词广泛用于描述人类社会的多样性和复杂性，涉及到历史、传统、语言、宗教等方面。
+
+- **congregation (n.)**：作为名词，“congregation”通常指在宗教场所，尤其是教堂，聚集的人群，用于指代那些参加宗教礼拜的人。这个词强调了一群人基于共同的信仰或目的而聚集在一起的概念。
+
+- **congratulation (n.)**：作为名词，“congratulation”通常用作复数形式“congratulations”，表示对某人的成就、成功或好消息的祝贺和庆祝。这个词用于表达赞扬和对他人成就的认可。
+
+    
+
+
+--- --- --- --- --- ---
+
+
+
 *Added: 2024.03.02*
 ChatGPT 4.0 translations
 ~~注：下面表格单词已写到 Goodnotes~~
@@ -187,23 +236,26 @@ ChatGPT 4.0 translations
 
 --- --- --- --- --- ---
 
-
 *Added: 2024.02.27*
 ChatGPT 4.0 translations
 **注：下面表格单词已写到 Goodnotes**
 
-| 单词  | 美式发音    | 词类 + 汉语释义   | 概述                           | 示例                             |
-| ------- | -------------- | ------------------ | ------------------------------------------------------- | ------------------------------------------------------------ |
-| magnify | `/ˈmæɡnɪfaɪ/` | vt. 放大；夸大 | 主要用于描述使某物在视觉上看起来更大，或在比喻意义上增加事物的重要性或严重性。 | The microscope can magnify the image up to 1000 times. (显微镜可以将图像放大至1000倍。)<br>She has a tendency to magnify the problems she faces. <br />(她倾向于夸大她面临的问题。) |
-| tendency | `/ˈtɛndənsi/` | n. 趋势；倾向 | 指人或事物的一种普遍趋势、倾向或习惯。  | She has a tendency to be overly critical. <br />(她有过分挑剔的倾向。)<br>There's a tendency for prices to rise. <br />(价格有上涨的趋势。) |
-| virtue | `/ˈvɜːrtʃuː/` | n. 美德；优点    | 指道德上值得赞扬的品质或行为，也可指事物的优点。  | Patience is a great virtue. (耐心是一种伟大的美德。)<br>Honesty is his virtue. (诚实是他的优点。) |
-| retreat | `/rɪˈtriːt/`  | n. & v. 撤退；隐退    | 用于描述从困难、危险或不愉快的情况中撤离或后退的行为。 | The army was forced to retreat. (军队被迫撤退。)She retreated to her room to think. (她退到房间里思考。) |
-| force | `/fɔːrs/` | n. & v. 力量；强迫 | 通常指物理上的力量或强制性的措施。 | He used force to open the door. (他用力打开门。)<br>They forced him to sign the document. (他们强迫他签署文件。) |
+| 单词  | 美式发音    | 词类 + 汉语释义   | 示例                             |
+| ------- | -------------- | ------------------ | ------------------------------------------------------------ |
+| magnify | `/ˈmæɡnɪfaɪ/` | vt. 放大；夸大 | The microscope can magnify the image up to 1000 times. <br />(显微镜可以将图像放大至1000倍。)<br>She has a tendency to magnify the problems she faces. <br />(她倾向于夸大她面临的问题。) |
+| tendency | `/ˈtɛndənsi/` | n. 趋势；倾向 | She has a tendency to be overly critical. <br />(她有过分挑剔的倾向。)<br>There's a tendency for prices to rise. <br />(价格有上涨的趋势。) |
+| virtue | `/ˈvɜːrtʃuː/` | n. 美德；优点    | Patience is a great virtue. <br />(耐心是一种伟大的美德。)<br>Honesty is his virtue. <br />(诚实是他的优点。) |
+| retreat | `/rɪˈtriːt/`  | n. & v. 撤退；隐退    | n. The army was forced to retreat. <br />(军队被迫撤退。)<br />v. She retreated to her room to think. <br />(她退到房间里思考。) |
+| force | `/fɔːrs/` | n. 力量；影响力 <br />v. 强迫 | n. He used force to open the door. <br />(他用力打开门。)<br>v. They forced him to sign the document. <br />(他们强迫他签署文件。) |
 
-- "tendency" 通常用于描述个人或群体的习惯性行为或某个过程、事物发展的一般方向。
-- "virtue" 常用于描述个人的道德品质、行为特点或事物的积极属性。
-- "retreat" 可用于描述军事行动中的撤退，也可以用于形容在压力或困境下的后退或隐退行为。
-- "force" 既可以作为名词，表示物理上的力量，例如推或拉的力量；也可以作为动词，表示强迫某人做某事。
+列表解释：
+
+- "magnify"：主要用于描述使某物在视觉上看起来更大，或在比喻意义上增加事物的重要性或严重性。
+
+- "tendency"：通常用于描述个人或群体的习惯性行为或某个过程、事物发展的一般方向。
+- "virtue"：常用于描述个人的道德品质、行为特点或事物的积极属性。
+- "retreat"：可用于描述军事行动中的撤退，也可以用于形容在压力或困境下的后退或隐退行为。
+- "force"：既可以作为名词，表示物理上的力量，例如推或拉的力量；也可以作为动词，表示强迫某人做某事。
 
 
 --- --- --- --- --- ---
@@ -557,23 +609,45 @@ ChatGPT 4.0 translations
 
 *Added: 2024.01.23*
 ChatGPT 4.0 translations
-注：下面表格单词已写到 Goodnotes；日期见：2024.03.02-03
+注：下面表格单词已写到 Goodnotes；日期见：2024.03.03
 
-| 单词              | 美式发音               | 词类 + 汉语释义                           |
-| ----------------- | ---------------------- | ----------------------------------------- |
-| faint             | `/feɪnt/`            | adj. 微弱的；模糊的；v. 晕倒；昏厥；n. 晕倒；昏厥 |
-| compact           | `/kəmˈpækt/`         | adj. 紧凑的；结实的；n. 粉盒；契约；v. 压紧；压实 |
-| laminate          | `/ˈlæməˌneɪt/`       | v. 压制；n. 层压板         |
-| callout           | `/ˈkɔːlaʊt/`          | n. 呼叫；标注                             |
-| spec              | `/spɛk/`              | n. 规格；规范；说明书（specification的缩写） |
-| account           | `/əˈkaʊnt/`          | n. 账户；报告；v. 解释；认为      |
-| take into account | `/teɪk ˈɪntu əˈkaʊnt/` | phrasal. 考虑；重视                   |
-| skim              | `/skɪm/`              | v. 略读，浏览；撇去〔液体表面的浮油或漂浮物〕 |
-| crucial           | `/ˈkruːʃəl/`          | adj. 关键的；决定性的                     |
-| central           | `/ˈsɛntrəl/`          | adj. 中央的；中心的；主要的                |
-| chip              | `/tʃɪp/`              | n. 薯片；芯片；碎片；v. 打碎；削下 |
-| narration         | `/nəˈreɪʃən/`         | n. 叙述；旁白           |
-| sleek             | `/sliːk/`             | adj. 光滑的；时髦的     |
+| 单词              | 美式发音               | 词类 + 汉语释义                           |                            |
+| ----------------- | ---------------------- | ----------------------------------------- | ----------------------------------------- |
+| faint             | `/feɪnt/`            | adj. 微弱的；模糊的<br />v. 晕倒 | adj. There was a faint sound coming from the room. <br />(房间里传来了微弱的声音。)<br />v. She fainted from exhaustion. <br />(她因为筋疲力尽而晕倒。) |
+| compact           | `/kəmˈpækt/`         | adj. 紧凑的；n. 紧凑物 | adj. The apartment is small but compact. <br />(这个公寓小但布局紧凑。)<br>n. She carried her makeup in a small compact. <br />(她携带一个小巧的化妆盒。) |
+| laminate          | `/ˈlæməˌneɪt/`       | v. 覆膜；n. 层压板 | v. They decided to laminate the important documents for preservation. <br />(他们决定给重要文件覆上薄膜以便保存。)<br>n. The countertop is made of laminate. <br />(这个台面是由层压板制成的。) |
+| callout       | `/ˈkɔːlaʊt/`          | n. 呼叫；标注                             | The emergency services received a callout to a house fire. <br />(紧急服务部门接到了对一起住宅火灾的呼叫。) |
+| spec              | `/spɛk/`              | n. 规格；说明（specification的缩写） | Please check the product specs before purchase. <br />(购买前请检查产品规格。) |
+| account           | `/əˈkaʊnt/`          | n. 账户；报告；考虑；<br />v. 解释；认为 | n. He has an account at a local bank. <br />(他在一家当地银行有一个账户。)<br />v. How do you account for the success of the project? <br />(你如何解释这个项目的成功？) |
+| take into account | `/teɪk ˈɪntu əˈkaʊnt/` | phrasal. 考虑；重视                   |                    |
+| skim              | `/skɪm/`              | v. 略读，撇去〔液体表面的浮油或漂浮物〕 | He skimmed the article quickly. <br />(他快速略读了这篇文章。) |
+| crucial           | `/ˈkruːʃəl/`          | adj. 关键的；决定性的                     | The support of her family was crucial to her success. <br />(她家人的支持对她的成功至关重要。) |
+| central           | `/ˈsɛntrəl/`          | adj. 中心的；主要的                | The library plays a central role in the community. <br />(图书馆在社区中扮演着主要角色。) |
+| chip              | `/tʃɪp/`              | n. 芯片；碎片；薄片；v. 打碎；削下 | n. The computer has a powerful chip. <br />(这台电脑有一个强大的芯片。)<br />He noticed a small chip in the glass. <br />(他注意到玻璃上有一个小碎片。)<br />She loves eating potato chips. <br />(她喜欢吃薯片。)<br />v. He accidentally chipped the vase. <br />(他不小心打碎了花瓶。) |
+| narration         | `/næˈreɪʃən/`        | n. 叙述；旁白           | The documentary had excellent narration. <br />(这部纪录片的旁白非常出色。)<br />The movie's narration was both informative and entertaining. <br />(这部电影的旁白既提供信息又富有娱乐性。) |
+| sleek             | `/sliːk/`             | adj. 光滑的；时髦的     | The design of the car is very sleek. <br />(这辆车的设计非常时髦光滑。) |
+| informative | `/ɪnˈfɔːrmətɪv/` | adj. 提供信息的；有教育意义的 | The documentary was both informative and interesting. <br />(这部纪录片既提供了信息又很有趣。) |
+| entertaining | `/ˌɛntərˈteɪnɪŋ/` | adj. 有趣的；娱乐性的 | His stories are always entertaining. <br />(他的故事总是很有趣。) |
+| documentary | `/ˌdɑːkjəˈmentəri/` | n. 纪录片 | She watched a documentary about wildlife conservation. <br />(她观看了一部关于野生动物保护的纪录片。) |
+
+列表解释：
+
+- **faint (adj.)**：作为形容词，表示某物非常微弱或不明显，如声音、光线或感觉。作为动词，指因为疲劳、疼痛或震惊等原因而突然失去意识。这个用法在描述健康或医疗情况时常见。
+- compact
+- laminate
+- **callout (n.)**：作为名词，“callout”可以指紧急情况下的呼叫或请求，尤其是指向警察、救护车或其他紧急服务的请求。在出版或设计领域中，它还可以指文档、图表或演示中的注释或突出显示的部分。这个词在不同的情境中有着不同的用法。
+- spec
+- account
+- take into account
+- skim
+- crucial
+- **central (adj.)**：作为形容词，“central”用于描述位于中心的事物或在某个过程、系统中起主要作用的事物。"中心的"指的是物理上或比喻意义上的中心位置，而"主要的"则强调事物的重要性或关键性。
+- **narration (n.)**：作为名词，“narration”指的是讲述一个故事或事件的行为，通常用于描述电影、电视节目或纪录片中的旁白部分，提供背景信息、解释或评论。
+- **informative (adj.)**：作为形容词，"informative" 用于形容提供有用信息或知识的事物，尤其是在教育或传播知识的情境中。它强调了内容的教育性和知识性。
+- **entertaining (adj.)**：同样作为形容词，"entertaining" 描述的是提供娱乐、乐趣或愉悦的事物。这个词常用于形容电影、书籍、表演等能够引起兴趣和提供乐趣的活动或内容。
+- **documentary (n.)**：作为名词，"documentary" 指的是一种影视作品，它通过记录现实生活中的人物、事件或情况来提供信息和知识，通常用于教育或提高观众对某个主题的了解。纪录片旨在展示真实情况，而非虚构内容。
+
+
 
 
 ------
