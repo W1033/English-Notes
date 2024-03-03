@@ -1131,7 +1131,7 @@ ChatGPT 4.0 translations
 | combination     | `/ˌkɑːmbɪˈneɪʃən/`         | n. 结合；组合              | This dish is a delicious combination of flavors. (这道菜是各种口味的美妙结合。) |
 | profile         | `/ˈproʊfaɪl/`             | n. 侧面(轮廓)；简介；配置文件 | n. The mountain has a distinctive profile. (这座山有一个独特的轮廓。) |
 | reproducible    | `/ˌriːprəˈduːsəbl/`       | adj. 可复制的              | The experiment's results are reproducible. (实验结果是可复制的。) |
-| reproduce       | `/ˌriːprəˈduːs/`          | v. 复制；繁殖             | The artist failed to reproduce the colors of the original painting. (艺术家未能复制原画的颜色。) |
+| reproduce       | `/ˌriːprəˈduːs/`          | v. 复制；繁殖             | The artist failed to reproduce the colors of the original painting. (艺术家未能复制原画的颜色。)<br />The scientist managed to reproduce the experiment's results. (科学家设法复制了实验的结果。) |
 | representation  | `/ˌreprɪzɛnˈteɪʃən/`      | n. 代表；表现              | She argued for better representation of women in politics. (她主张在政治中更好地代表妇女。) |
 | entail          | `/ɪnˈteɪl/`               | v. 牵涉；需要              | The project will entail a lot of hard work. (这个项目将需要大量的努力。) |
 | analog          | `/ˈænəlɔg/`               | adj. 模拟的               | The old analog system was replaced by a digital one. (旧的模拟系统被数字系统替代。) |
@@ -1139,7 +1139,6 @@ ChatGPT 4.0 translations
 | correspond      | `/ˌkɔːrəˈspɑːnd/`         | v. 相符；相一致          | The two stories correspond in many details. (这两个故事在许多细节上相符。) |
 | assign          | `/əˈsaɪn/`                | v. 分配；指派              | She was assigned the task of organizing the meeting. (她被指派组织会议的任务。) |
 | discrete        | `/dɪˈskriːt/`              | adj. 离散的；不连续的      | The report is divided into discrete sections. (报告被分为几个离散的部分。) |
-| reproduce       | `/ˌriːprəˈduːs/`          | v. 复制；繁殖             | The scientist managed to reproduce the experiment's results. (科学家设法复制了实验的结果。) |
 | stress          | `/stres/`                 | n. 压力；重读；<br />v. 强调；重读 | n. She's been under a lot of stress at work. (她在工作中承受了很大的压力。)<br>v. The report stresses the need for economic reform. (报告强调了进行经济改革的必要性。)<br />n. He felt a lot of stress during the exams. (他在考试期间感到很大压力。)<br/>v. The teacher stressed the importance of homework. (老师强调了家庭作业的重要性。) |
 
 解释：
