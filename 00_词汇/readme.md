@@ -286,8 +286,8 @@ ChatGPT 4.0 translations
 | -------- | --------------- | ---------------------------------------- | ------------------------------------------------------------ |
 | theater  | `/ˈθiətər/`     | n. 剧院；电影院                          | We went to the theater to watch a live performance. <br />(我们去剧院观看了一场现场表演。) |
 | theatre  | `/ˈθiətər/`     | n. 剧院；电影院                          | She has a passion for working in the theatre.<br /> (她对在剧院工作充满热情。) |
-| rave     | `/reɪv/`        | v. 狂热讨论；<br />n. 狂欢               | v. The critics raved about the new movie.<br /> (评论家们对这部新电影赞不绝口。)<br>n. They went to a rave on the beach. <br />(他们去海滩参加了一场狂欢派对。) |
-| rant     | `/rænt/`        | v. 咆哮；激昂地说                        | He ranted about the unfairness of the situation.<br /> (他激昂地谈论着这种情况的不公平。) |
+| rave     | `/reɪv/`        | v. 狂热赞扬; <br />n. 狂欢派对           | v. The critics raved about the new movie.<br /> (评论家们对这部新电影赞不绝口。)<br>v. She raved about the new restaurant. <br />(她对新餐馆赞不绝口。)<br />n. They went to a rave on the beach. <br />(他们去海滩参加了一场狂欢派对。) |
+| rant     | `/rænt/`        | v. 咆哮；长篇大论                        | He ranted about the unfairness of the situation.<br /> (他激昂地谈论着这种情况的不公平。)<br />He ranted against the new policies. <br />(他对新政策长篇大论地咆哮。) |
 | brave    | `/breɪv/`       | adj. 勇敢的；<br />v. 勇敢面对           | adj. The brave firefighter saved the child from the fire. <br />(勇敢的消防员从火中救出了孩子。)<br>v. She braved the storm to help her friend. <br />(她勇敢地面对暴风雨去帮助她的朋友。) |
 | survival | `/sərˈvaɪvəl/`  | n. 生存；幸存                            | The survival rate after the surgery was high. <br />(手术后的生存率很高。) |
 | fit      | `/fɪt/`         | v. 适合；安装；<br />adj. 合适的；健康的 | adj. The dress is a perfect fit for her. <br />(这条裙子非常适合她。)<br>v. The key fits the lock perfectly. <br />(这把钥匙非常适合这个锁。) |
@@ -304,8 +304,8 @@ ChatGPT 4.0 translations
 
 - theater：主要指演出剧目的场所，如剧院或电影院，也可指戏剧或表演艺术本身。 
 - theatre：通常指用于戏剧、音乐剧或电影放映的场所，也可以指演出艺术本身。 
-- rave：作为动词时，可以指热情赞扬或狂热讨论；作为名词，常用于描述大型舞蹈派对或音乐会。 
-- rant：作为动词，通常指发表长篇大论或激昂地讲话，尤指在愤怒或激动的情绪下。 
+- **rave (v. & n.)**：作为动词，“rave”意指热情而狂热地赞扬或谈论某事。作为名词，它常用来描述大型的、热闹的舞蹈派对或音乐活动，通常伴随着电子音乐和光效。
+- **rant (v.)**：作为动词，“rant”指的是激动或愤怒地长时间说话，通常带有强烈的情感或批评的口吻。这个词描述的是一种强烈表达情感或观点的方式，常常以长篇大论的形式出现，可能包含批评、抱怨或愤怒的成分。
 - brave：作为形容词，意味着勇敢或无畏；作为动词，表示勇敢地面对或经受困难或危险的情况 |
 - Survival：指的是生存或幸存，而 "fittest" 是形容词 "fit" 的最高级形式，常用于表达“最适合”的概念，特别是在“适者生存”的语境中。 
 - fit：作为动词，则表示使某物适合或安装某物；作为形容词，可以表示物品大小、形状合适或描述身体健康。 
@@ -1129,7 +1129,7 @@ ChatGPT 4.0 translations
 | footprint       | `/ˈfʊtprɪnt/`             | n. 脚印；足迹（个人或机构活动对环境的影响） | He left wet footprints on the floor. (他在地板上留下了湿脚印。)<br>The company is trying to reduce its environmental footprint. (公司正在努力减少其环境足迹。) |
 | specific        | `/spəˈsɪfɪk/`             | adj. 特定的；明确的        | He gave specific instructions on how to proceed. (他给出了如何进行的具体指示。) |
 | combination     | `/ˌkɑːmbɪˈneɪʃən/`         | n. 结合；组合              | This dish is a delicious combination of flavors. (这道菜是各种口味的美妙结合。) |
-| profile         | `/ˈproʊfaɪl/`             | n. 侧面(轮廓)；简介；配置文件 | n. The mountain has a distinctive profile. (这座山有一个独特的轮廓。) |
+| profile         | `/ˈproʊfaɪl/`             | n. 侧面；简介；配置文件 | n. The mountain has a distinctive profile. (这座山有一个独特的轮廓。) |
 | reproducible    | `/ˌriːprəˈduːsəbl/`       | adj. 可复制的              | The experiment's results are reproducible. (实验结果是可复制的。) |
 | reproduce       | `/ˌriːprəˈduːs/`          | v. 复制；繁殖             | The artist failed to reproduce the colors of the original painting. (艺术家未能复制原画的颜色。)<br />The scientist managed to reproduce the experiment's results. (科学家设法复制了实验的结果。) |
 | representation  | `/ˌreprɪzɛnˈteɪʃən/`      | n. 代表；表现              | She argued for better representation of women in politics. (她主张在政治中更好地代表妇女。) |
