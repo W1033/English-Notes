@@ -245,7 +245,7 @@ Examplesword setsCollocationsPhrases
 
 #### 91. Turn around: 转向反⽅方向；(⽣生意或经济) 好转；船只留留港
 
-#### 92. Turn down: 减⼩小，关⼩小，调低；拒绝
+#### 92. Turn down: 减⼩，关⼩，调低；拒绝
 
 #### 93. Turn off: 关掉，关闭；拐弯，使转变⽅方向；使失去兴趣
 

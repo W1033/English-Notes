@@ -57,8 +57,58 @@ advantage `/ədˈvæntɪdʒ/` 和 advice `/əd'vaɪs/`，读音中第一个是�
 
 ## ▲ 待编辑生词
 
-*Added: 2024.03.03*
+### Added: 2024.03.03
 ChatGPT 4.0 translations
+
+~~注：下面表格单词已写到 Goodnotes~~
+
+
+| 单词   | 美式发音      | 词类 + 汉语释义      | 示例                                                         |
+| ------ | ------------- | -------------------- | ------------------------------------------------------------ |
+| litter | `/ˈlɪtər/`    | n. 垃圾；废弃物 <br />v. 乱丢垃圾     | n. The park was full of litter after the concert. <br>(音乐会后，公园里到处是垃圾。)<br />v. Please don't litter in the park. <br>(请不要在公园里乱丢垃圾。) |
+| sanction | `/ˈsæŋkʃən/` | n. 制裁；批准 <br />v. 批准；制裁 | n. The country faced international sanctions. <br>(该国面临国际制裁。)<br />v. The plan was sanctioned by the board. <br>(该计划得到了董事会的批准。) |
+| congressional | `/kənˈɡrɛʃənəl/` | adj. 国会的 | The congressional committee held a hearing on the matter. <br />(国会委员会就此事举行了听证会。) |
+| congress | `/ˈkɑːŋɡrɛs/` | n. 国会；大会 | The bill was passed by Congress. <br>(这项法案由国会通过。)<br />An international medical congress was held in the city. <br>(一次国际医学大会在该城市举行。) |
+| oversight | `/ˈoʊvərsaɪt/` | n. 监督；疏忽 | The project failed due to lack of proper oversight. <br />(由于缺乏适当的监督，该项目失败了。) |
+| antagonym | `/ænˈtæɡənɪm/` | n. 自反词（具有相反两种含义的词） | "Sanction" is an example of an antagonym. <br>(“Sanction” 是一个自反词的例子。) |
+| indefinite | `/ɪnˈdɛfɪnət/` | adj. 无限的；不确定的 | The meeting has been postponed for an indefinite period. <br />(会议已被推迟至不确定的时间。) |
+
+列表解释：
+
+- **litter (n.)**：作为名词，"litter" 指的是随意丢弃的小件废弃物，如纸张、瓶子、包装等。这个词常用于描述公共场所的清洁问题，强调垃圾的不规范处理和环境影响。作为动词，"litter" 描述的是乱丢垃圾的行为，即随意将废弃物扔在地面或公共场所，导致环境脏乱。这个词强调了对环境的不负责任的态度和行为。
+
+- **sanction (n.)**：作为名词，“sanction”可以指两种截然不同的含义：一是指由于违反规则或法律而采取的惩罚或制裁措施，常见于国际关系中的政治或经济制裁；二是指对某个行为或计划的正式批准或许可。作为动词，"sanction" 也有两个主要含义：批准或正式认可某项行为、决定或计划；或对某人或某国实施制裁或惩罚。
+
+    > [!NOTE]
+    >
+    > Q：GPT, 这个单词的意思好奇怪啊？为什么出现一个单词具有两种相反的汉语意思的显现啊？
+    >
+    > ChatGPT：确实，"sanction" 是英语中非常有趣的单词之一，因为它是一个自反词（antagonym），也就是说，它具有两个相反的含义。这种情况在英语中是不常见的，但确实存在。
+    >
+    > 原因在于语言的发展和历史使用方式。"Sanction" 这个词来源于拉丁语 "sanctio"，意思是 "法律令"。在不同的语境和历史时期，这个词逐渐演变出了两个主要含义：
+    >
+    > 1. **批准、认可**：这个含义是基于 "sanctio" 的法律授权或正式批准的概念。当 "sanction" 用于这种情境时，它指的是对某种行为或决定的正式认可或支持。
+    > 2. **制裁、惩罚**：在另一种情境下，"sanction" 被用来指代一种惩罚或对规则违反者的制裁，这是基于法律执行的概念，即强制执行法律规定的措施。
+    >
+    > 这种双重含义可能会导致混淆，因此在使用 "sanction" 这个词时，理解上下文非常重要，以确定它是指批准还是制裁。
+
+- **congressional (adj.)**：作为形容词，“congressional”用来描述与国会（或类似立法机构）相关的事物。它常用于指国会的活动、决策或成员等。
+
+- **congress (n.)**：作为名词，“congress”最常见的含义是指国家的立法机构，特别是在提到美国国会时。它是一个政治术语，用于描述议员或代表组成的官方机构，负责制定和通过法律。此外，"congress" 也常用来指代各种类型的大型会议或集会，通常是针对特定主题或领域的专业性或学术性活动。
+
+- **oversight (n.)**：“oversight”有两个主要含义：一是指对项目、工作或活动的监督和管理，强调监控和指导的作用；二是指疏忽或失误，即由于疏忽或不注意而导致的错误。使用时需根据上下文来判断具体意思。(注：和上面的 sanction 一样也是一个自反词)
+
+- **antagonym (n.)**：这是一个语言学术语，用来描述一个单词同时具有两个相反含义的现象。自反词在语境中可能会引起混淆，因为它们的含义依赖于使用它们的具体情境。
+
+- **indefinite (adj.)**：作为形容词，“indefinite”用来描述没有明确限制或确定的结束点的事物。它常用于指时间、期限或数量上的不确定性或无限制性。这个词可以用来表达某事物的不确定性或模糊性，如时间、计划或描述。
+
+--- --- --- --- --- ---
+
+
+
+### Added: 2024.03.03
+ChatGPT 4.0 translations
+
 ~~注：下面表格单词已写到 Goodnotes~~
 
 | 单词           | 美式发音             | 词类 + 汉语释义               | 示例                                                         |
@@ -69,45 +119,34 @@ ChatGPT 4.0 translations
 | throughout     | `/θruˈaʊt/`          | prep. & adv. 遍及；贯穿       | The festival was celebrated throughout the country. <br />(这个节日在整个国家庆祝。) |
 | festival       | `/ˈfestəvəl/`        | n. 节日；庆祝活动             | The town holds an annual music festival every summer. <br />(这个镇每年夏天都会举办一次音乐节。) |
 | Christian      | `/ˈkrɪstʃən/`        | n. 基督徒；adj. 基督教的      | n. She is a devout Christian. <br />(她是一位虔诚的基督徒。)<br />adj. Christian values influence her decisions. <br />(基督教的价值观影响着她的决定。) |
-| devout         | `/dɪˈvaʊt/`          | adj. 虔诚的                   | He is a devout follower of his religion. (他是他的宗教的虔诚信徒。) |
+| devout         | `/dɪˈvaʊt/`          | adj. 虔诚的                   | He is a devout follower of his religion. <br>(他是他的宗教的虔诚信徒。) |
 | religion       | `/rɪˈlɪdʒən/`        | n. 宗教                       | She studies the influence of religion on culture. <br />(她研究宗教对文化的影响。) |
 | culture        | `/ˈkʌltʃər/`         | n. 文化                       | Each country has its own unique culture. <br />(每个国家都有其独特的文化。) |
 | congregation   | `/ˌkɑːŋɡrəˈɡeɪʃn/`   | n. （尤指教堂的）会众         | The congregation gathered for the weekly service. <br />(会众聚集参加每周的礼拜仪式。) |
 | congratulation | `/kənˌɡrætʃəˈleɪʃn/` | n. 祝贺; 恭喜（通常用作复数） | He received many congratulations on his promotion. <br />(他因晋升收到了许多祝贺。) |
 
 列表解释：
-
 - **rebel (n.)**：作为名词，“rebel”指的是反抗现有权威、政府或其他控制力量的人，通常用于描述参与政治或军事反叛的个体或团体。作为动词，描述的是反抗或抵制的行为，可以是对父母、学校、工作或更广泛的社会规范的反抗。
-
 - **crew**：指一组共同工作的人，尤其是在船上、飞机上或其他运输工具上的工作人员。在更广泛的意义上，也可以指任何类型的工作或运动团队。
-
 - **tireless (adj.)**：形容词 "tireless" 用于形容一个人或其努力、工作等，表示不知疲倦或持续不懈的。通常用于赞扬某人在某项任务或活动中表现出的持续的努力和能量。
-
 - **throughout (prep. & adv.)**：作为介词（prep.），"throughout" 用来表达在某个地区或空间的每个部分，或在某个时间段的始终。作为副词（adv.），它表示在所有部分或整个期间。
-
 - **festival (n.)**：作为名词，"festival" 指的是为了特定目的或庆祝某事件而举办的一系列活动或庆典，如音乐节、电影节、宗教节日等。这通常是一次快乐和庆祝的时刻，可能包括音乐、舞蹈、表演、游行等各种活动。
-
 - **Christian (n. & adj.)**：作为名词，“Christian”指的是信仰基督教的人。作为形容词，它用来描述与基督教有关的事物，如基督教的教义、传统或文化等。
-
 - **devout (adj.)**：通常用于形容人对宗教、信仰或某种事业非常虔诚和认真。
-
 - **religion (n.)**：作为名词，“religion”指的是围绕神灵崇拜、精神信仰和道德规范的一套体系，它通常包括仪式、礼拜活动和教义。这个词用于描述不同的信仰体系，如基督教、伊斯兰教、佛教等。
-
 - **culture (n.)**：作为名词，"culture" 指的是某个社会或群体的生活方式、艺术、信仰、价值观、习俗、行为准则和社交习惯等。这个词广泛用于描述人类社会的多样性和复杂性，涉及到历史、传统、语言、宗教等方面。
-
 - **congregation (n.)**：作为名词，“congregation”通常指在宗教场所，尤其是教堂，聚集的人群，用于指代那些参加宗教礼拜的人。这个词强调了一群人基于共同的信仰或目的而聚集在一起的概念。
-
 - **congratulation (n.)**：作为名词，“congratulation”通常用作复数形式“congratulations”，表示对某人的成就、成功或好消息的祝贺和庆祝。这个词用于表达赞扬和对他人成就的认可。
 
-    
 
 
 --- --- --- --- --- ---
 
 
 
-*Added: 2024.03.02*
+### Added: 2024.03.02
 ChatGPT 4.0 translations
+
 ~~注：下面表格单词已写到 Goodnotes~~
 
 | 单词   | 美式发音       | 词类 + 汉语释义     | 示例                                                         |
@@ -138,8 +177,12 @@ ChatGPT 4.0 translations
 
 
 
-*Added: 2024.01.014；Edited: 2024.03.02*
+### Added: 2024.01.14
+
+*Edited: 2024.03.02*
+
 ChatGPT 4.0 translations
+
 ~~注：下面表格单词已写到 Goodnotes~~
 
 | 单词         | 美式发音          | 词类 + 汉语释义              |
@@ -208,8 +251,9 @@ ChatGPT 4.0 translations
 --- --- --- --- --- ---
 
 
-*Added: 2024.03.01*
+### Added: 2024.03.01
 ChatGPT 4.0 translations
+
 注：下面表格单词已写到 Goodnotes
 
 | 单词    | 美式发音    | 词类 + 汉语释义     | 示例                                                         |
@@ -236,8 +280,9 @@ ChatGPT 4.0 translations
 
 --- --- --- --- --- ---
 
-*Added: 2024.02.27*
+### Added: 2024.02.27
 ChatGPT 4.0 translations
+
 **注：下面表格单词已写到 Goodnotes**
 
 | 单词  | 美式发音    | 词类 + 汉语释义   | 示例                             |
@@ -261,8 +306,9 @@ ChatGPT 4.0 translations
 --- --- --- --- --- ---
 
 
-*Added: 2024.02.26*
+### Added: 2024.02.26
 ChatGPT 4.0 translations
+
 **注：下面表格单词已写到 Goodnotes**
 
 | 单词           | 美式发音            | 词类 + 汉语释义    | 概述                                                         | 示例                                                         |
@@ -278,8 +324,9 @@ ChatGPT 4.0 translations
 --- --- --- --- --- ---
 
 
-*Added: 2024.02.25*
+### Added: 2024.02.25
 ChatGPT 4.0 translations
+
 **注：下面表格单词已写到 Goodnotes**
 
 | 单词     | 美式发音        | 词类 + 汉语释义                          | 示例                                                         |
@@ -324,7 +371,7 @@ ChatGPT 4.0 translations
 --- --- --- --- --- ---
 
 
-*Added: 2024.02.24*
+### Added: 2024.02.24
 
 ChatGPT 4.0 translations
 
@@ -348,9 +395,12 @@ ChatGPT 4.0 translations
 --- --- --- --- --- ---
 
 
-*Added: 2024.02.19*
+### Added: 2024.02.19
 *Edited：2024.02.27......*
+
 ChatGPT 4.0 translations
+
+**注：上面表格单词已写到 Goodnotes**
 
 | 单词                | 美式发音                 | 词类 + 汉语释义                 |
 | ------------------- | ------------------------ | ----------------------------|
@@ -361,8 +411,6 @@ ChatGPT 4.0 translations
 | drive               | `/draɪv/`               | v. 驾驶；推动；n. 驱动；驱动器    |
 | programmable        | `/ˈproʊɡræməbəl/`       | adj. 可编程的                  |
 | revise              | `/rɪˈvaɪz/`             | v. 修改；复习                  |
-
-**注：上面表格单词已写到 Goodnotes**
 
 | 单词                | 美式发音                 | 词类 + 汉语释义                 |
 | ------------------- | ------------------------ | ----------------------------|
@@ -409,7 +457,7 @@ ChatGPT 4.0 translations
 --- --- --- --- --- ---
 
 
-*Added: 2024.02.18*
+### Added: 2024.02.18
 ChatGPT 4.0 translations
 
 | 单词          | 美式发音               | 词类 + 汉语释义               |
@@ -448,7 +496,7 @@ ChatGPT 4.0 translations
 --- --- --- --- --- ---
 
 
-*Added: 2024.02.15*
+### Added: 2024.02.15
 ChatGPT 4.0 translations
 
 | 单词            | 美式发音              | 词类 + 汉语释义                |
@@ -519,7 +567,7 @@ ChatGPT 4.0 translations
 
 --- --- --- --- --- ---
 
-*Added: 2024.02.04*
+### Added: 2024.02.04
 ChatGPT 4.0 translations 
 注：下面表格单词已写到 Goodnotes
 
@@ -530,7 +578,7 @@ ChatGPT 4.0 translations
 
 --- --- --- --- --- ---
 
-*Added: 2024.02.01*
+### Added: 2024.02.01
 ChatGPT 4.0 translations
 ~~注：下面表格单词已写到 Goodnotes~~
 
@@ -586,7 +634,7 @@ ChatGPT 4.0 translations
 
 --- --- --- --- --- ---
 
-*Added: 2024.01.25*
+### Added: 2024.01.25
 ChatGPT 4.0 translations
 注：下面表格单词已写到 Goodnotes；日期见 2024.02.03
 
@@ -607,7 +655,7 @@ ChatGPT 4.0 translations
 
 --- --- --- --- --- ---
 
-*Added: 2024.01.23*
+### Added: 2024.01.23
 ChatGPT 4.0 translations
 注：下面表格单词已写到 Goodnotes；日期见：2024.03.03
 
@@ -652,7 +700,7 @@ ChatGPT 4.0 translations
 
 ------
 
-*Added: 2024.01.22*
+### Added: 2024.01.22
 *Edited: 2024.01.29、02.29、*
 ChatGPT 4.0 translations
 ~~注：下面表格单词已写到 Goodnotes~~
