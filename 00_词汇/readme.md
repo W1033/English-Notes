@@ -57,10 +57,10 @@ advantage `/ədˈvæntɪdʒ/` 和 advice `/əd'vaɪs/`，读音中第一个是�
 
 ## ▲ 待编辑生词
 
-### Added: 2024.03.03
+### Added: 2024.03.04
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+注：下面表格单词已写到 Goodnotes
 
 
 | 单词   | 美式发音      | 词类 + 汉语释义      | 示例                                                         |
