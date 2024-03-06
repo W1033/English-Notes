@@ -70,7 +70,7 @@ ChatGPT 4.0 translations
 | firm       | `/fɜːrm/`       | adj. 坚固的；坚定的 <br />n. 公司                     | adj. The mattress is quite firm. (这个床垫相当坚固。)<br />n. She works for a law firm. (她在一家律师事务所工作。) |
 | instant    | `/ˈɪnstənt/`    | adj. 即时的；立即的 <br />n. 瞬间；时刻               | adj. He needed an instant response. (他需要一个即时的回应。)<br />adj. instant coffee. 速溶咖啡。 instant soup. 方便汤。<br />n. The message was sent and received in an instant. (这条信息发送并立即收到。)<br />n. He decided to leave at that instant. (他决定就在那个瞬间离开。)<br />n. The decision was made in an instant. (决定是在一瞬间做出的。) |
 | duplicate  | `/ˈduːplɪkeɪt/` | adj. 完全相同的；复制的 <br />n. 复制品 <br />v. 复制 | adj. He had a duplicate key made. (他制作了一把完全相同的钥匙。)<br />n. She kept a duplicate of the document for safety. (为了安全，她保留了该文件的复制品。)<br />v. They duplicated the original painting. (他们复制了原画。) |
-|            |                 |                                                       |                                                              |
+| comrade    | `/ˈkɑːmræd/`    | n. 同志；伙伴                                         | He greeted his comrades in arms. (他向他的战友们问好。)      |
 
 解释：
 
@@ -85,6 +85,11 @@ ChatGPT 4.0 translations
     + 作为形容词 (adj.)，“duplicate”用于形容两个事物在形式上**`完全相同的`**，通常指副本与原件在外观和功能上的相似性。这个词常用于描述复制品，如**`复制的`**文件、钥匙或物品。
     + 作为名词 (n.)，"duplicate" 指的是任何事物的精确副本，强调与原件的一致性。常用于描述文档、艺术品、数据或物理物品的**`复制品`**。
     + 作为动词 (v.)，"duplicate" 指制作一样的副本，特别是在制作文件、艺术品或其他物品的精确复制品时使用。这个动词强调**`复制`**的过程，即创建与原件一样的事物。
+- **comrade (n.)**：
+    - 作为名词，"comrade" 指的是**`同志`**或**`伙伴`**，通常用来描述在军队、政治组织或运动中共同工作或战斗的人之间的关系。这个词强调了团结和共同目标的重要性，常用于表达战友或政治上的同道合作关系。
+
+
+
 
 
 
