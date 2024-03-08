@@ -6,6 +6,36 @@
 
 
 
+
+
+## ▲ 英语考试及认证
+
+*Added: 2024.03.08* - ChatGPT 4.0
+
+| 排名 | 考试名称（英文全称）                                     | 描述                                                         |
+| ---- | -------------------------------------------------------- | ------------------------------------------------------------ |
+| 1    | KET（Key English Test）                                  | 剑桥英语入门考试，针对英语初学者                             |
+| 2    | PET（Preliminary English Test）                          | 剑桥普通英语初级考试，适合初中级英语学习者                   |
+| 3    | FCE（First Certificate in English）                      | 剑桥第一英语证书，针对中高级英语学习者                       |
+| 4    | TOEIC（Test of English for International Communication） | 国际交流英语测试，评估日常英语交流和职场英语沟通能力         |
+| 5    | BEC（Business English Certificates）                     | 商务英语证书，专注于商务环境的英语能力                       |
+| 6    | CAE（Certificate in Advanced English）                   | 剑桥高级英语证书，高级英语水平认证                           |
+| 7    | CPE（Certificate of Proficiency in English）             | 剑桥熟练英语证书，最高级别的英语水平考试                     |
+| 8    | 高考（Gaokao）                                           | 高等教育入学考试，中国高中生的大学入学考试，英语是其中一部分 |
+| 9    | 四级（CET-4, College English Test-4）                    | 大学英语四级考试，中国大学基础英语水平测试                   |
+| 10   | 六级（CET-6, College English Test-6）                    | 大学英语六级考试，中国大学较高级的英语水平测试               |
+| 11   | IELTS（International English Language Testing System）   | 雅思：国际英语语言测试系统，广泛用于英语国家的学术和移民申请 |
+| 12   | 托福（TOEFL, Test of English as a Foreign Language）     | 国际英语能力测试，用于申请英语国家的大学                     |
+| 13   | SAT（Scholastic Assessment Test）                        | 学术能力评估测试，美国的大学入学考试，评估写作、批判性阅读和数学能力 |
+| 14   | GMAT（Graduate Management Admission Test）               | 管理研究生入学考试，用于申请商学院的考试                     |
+| 15   | GRE（Graduate Record Examinations）                      | 研究生入学考试，用于申请美国研究生院的标准化考试             |
+
+
+
+
+
+
+
 ## 英语书籍
 
 | 书籍名称          | 纸质/电子 | 书籍格式 | 存储位置 | 阅读情况<br />(是/否/在读中) | 阅读进度 | 笔记<br />(有/无/书写中) |     视频<br />/资源   | 备注       |
