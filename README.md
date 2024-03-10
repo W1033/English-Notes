@@ -8,6 +8,153 @@
 
 
 
+## ▲ 【罗肖尼】如何永远学会一个单词？
+
+> 笔记来源：https://www.bilibili.com/festival/jzj2023?bvid=BV1ns4y1A7fj&spm_id_from=333.337.search-card.all.click
+
+Form-meaning connection knowledge
+
+词形-意义联系知识
+
+
+
+### 第一章 - 三个难题
+
+#### 词汇难题之一 - 任意符号难题
+
+The arbitrary sign problem of vocabulary acquisition
+
+
+
+短期记忆（working memory）
+
+
+
+...public enemy number one of language students if forgetting.  -*Lomb Kato, Polyglot: How I learn Languges*
+
+语言学习者们的头号公敌，便是遗忘。
+
+
+
+词条式学习（Definition / Glossary Learning) 
+
+
+
+One forgets words as one forgets names. One's vocabulary needs constant fertilizing or it will die. (我们忘记单词就如同我们忘记名字，我们的词汇需要被常常回顾，否则它们便会死去。）
+
+
+
+Words have a habit of changing their meaning from one context to another. -*William Labov, The Boundaries of Words and Their Meanings* （单词们经常换一个语境就改变一次意思）
+
+
+
+Beware of the dog 当心恶犬
+
+dog-eared 书页的折角
+
+dog tired 疲惫至极 
+
+bot dog 一种食物 
+
+top dog 优胜者
+
+dirty dog 卑鄙小人
+
+going to the dogs 情况持续变坏
+
+putting on the dog 大摆排场
+
+
+
+| take after my dad               | 和我爸爸长得像     |
+| ------------------------------- | ------------------ |
+| take apart the TV               | 把电视机拆开       |
+| take down my address            | 记录我的地址       |
+| take in a friend                | 把朋友接进家里住   |
+| take off my shoes               | 脱掉我的鞋子       |
+| plane takes off                 | 飞机起飞           |
+| take to the streets             | 上街游行           |
+| take on a project               | 开始一个新项目     |
+| take on the enemy               | 与敌人短兵相接     |
+| here is my take one the problem | 我对这个问题的看法 |
+| take up tennies                 | 开始学习网球       |
+| take up half of the room        | 占了半间屋子       |
+| take over the opponent          | 超越了对手         |
+| takeaway of the lesson          | 本堂课程的要点     |
+| burger for takeaway             | 点汉堡包外卖       |
+| take me for an idiot            | 把我当个白痴       |
+
+Multi-word Combination（多词组合语 (即：固定搭配)）
+
+
+
+#### 词汇难题之二 - 宽度问题
+
+The Width Problem of Vocabulary Acquisition
+
+
+
+#### 词汇难题之三 - 深度难题
+
+The Depth Problem of Vocabulary Acquisition
+
+
+
+词形变化（morphological relationships） 
+
+句法规则（syntactic frame）
+
+搭配可能 （collocational potentials） 
+
+适用场合（linguistic register） 
+
+词义特征（semantic values）
+
+
+
+Third, we must honor the dictum that a dictionary is a reference work. It is meant to be used by a reader to heIp with unknown words in an otherwise meaningful text, or by a writer who knows full well what she is trying to say. For these purposes, a good dictionary is a valuable tool. But, **a dictionary is not designed to be a stand-alone source of meanings for words that are isolated from a comprehensible context**, and it serves this purpose poorly. **Therefore, we must abandon the belief in contextless vocabulary building programs in which students try to memorize the definitions of lists of unrelated words**. （第三，我们必须遵守词典的原则，即词典是一本参考书。它旨在帮助读者在其他意义明确的文本中理解不熟悉的单词，或帮助作家明确自己想要表达的内容。对于这些目的来说，一本好的词典是一个宝贵的工具。但是，**词典并不是旨在作为孤立于可理解上下文之外的单词的含义的独立来源**，在这方面它的作用并不好。**因此，我们必须放弃对无上下文词汇构建程序的信仰，这种程序中学生试图记住一系列无关单词的定义**。）
+- *参考文献：Anderson, R. C., ＆ Nagy, W. E. (1992). The vocabulary conundrum. American Educator: The Professional Journal of the American Federation of Teachers, 16(4).*
+
+
+
+### 第二章 - 语境的力量 (Chapter Two - The power of Context)
+
+
+
+simplicity is the ultimate sophistication 大道至简
+
+
+
+"... words cannot be removed from their contexts. One can only understand them — and should only learn them - in their contexts."  —— *Lomb Kato, Polyglot: How I learn languages* (所以我们 "不能把词汇从它们的语境中剥离出来"，一个人只有在语境中才能够理解词语。）
+
+Contextual Learning (语境式学习）
+
+词条式学习
+
+Comprehensible Input (可理解输入)
+
+
+
+
+
+#### 词汇学习公式
+
+#### 语言传奇 
+
+
+
+### 第三章 - 一百万词
+
+#### 半页纸
+
+#### 后记 - "书的皱纹"
+
+
+
+
+
+
+
 ## ▲ 英语考试及认证
 
 *Added: 2024.03.08* - ChatGPT 4.0
@@ -87,44 +234,59 @@
 
 ## ChatGPT 当作英语单词翻译员
 
-*Edited: 2024.03.02、2024.01.08*
+*Edited: 2024.01.08、2024.03.02、2024.03.10*
 
-Hello GPT, 当前对话你是一个英语专家、专业的单词翻译员，你可以根据我的要求尽可能严谨准确的翻译单词。
-
-下面我会给你一些示例，请按照这个示例的格式来帮忙翻译单词，表格下面给出单词的解释，示例如下：
-
-> | 单词     | 美式发音     | 词类 + 汉语释义         | 示例                                                         |
-> | -------- | ------------ | ----------------------- | ------------------------------------------------------------ |
-> | vital    | `/ˈvaɪtl/`   | adj. 至关重要的；生命的 | Regular exercise is vital for good health. <br />(定期锻炼对于良好的健康至关重要。) |
-> | tourism  | `/ˈtʊrɪzəm/` | n. 旅游业               | The city's economy is heavily dependent on tourism. <br />(这座城市的经济极度依赖旅游业。) |
-> | facial   | `/ˈfeɪʃəl/`  | adj. 面部的             | She uses a special cream for her facial skin. <br />(她使用特别的面霜护理面部肌肤。) |
-> | dwelling | `/ˈdwɛlɪŋ/`  | n. 住宅                 | The area is known for its traditional dwellings. <br />(这个区域以其传统住宅闻名。) |
-> | forth    | `/ fɔːrθ/`   | adv. 向前；向外         | He stepped forth into the sunlight. <br />(他走出来，站到阳光下。) |
-> | gaze     | `/ɡeɪz/`     | n. & v. 凝视            | n. Her gaze was fixed on the distant hills. <br />(她的目光凝视着远处的山丘。)<br>v. She gazed at the stars. (她凝视着星星。) |
-> | soothing | `/ˈsuːðɪŋ/`  | adj. 安慰的；舒缓的     | The music had a soothing effect on the baby. <br />(这音乐对婴儿有舒缓的效果。) |
-> | soothe   | `/suːð/`     | v. 安慰；减轻（痛苦）   | She soothed the crying child by rocking him gently. <br />(她轻轻摇晃来安抚哭泣的孩子。) |
->
-> 解释：
->
-> - **vital**：作为形容词，通常用来描述对生命、生存或成功非常重要或必需的事物。它强调某事物的基本重要性或关键性。 → vital energy 生命能量
-> - **tourism**：指旅游活动及其相关的服务和产业。它涵盖了旅行目的地的选择、旅行过程中的体验，以及旅游业对经济和文化的影响。
-> - **facial**：作为形容词，"facial" 主要用来描述与面部相关的事物，如面部表情、面部特征或面部护理。
-> - **dwelling**：指居住的地方，如房子或公寓。通常用于指住宅，特别是在法律或正式文档中。
-> - **forth**：通常用于表达向前或向外的移动，强调从起始点向外的动作。
-> - **gaze**：作为名词和动词，表示长时间而且经常是固定不动地看着某物，通常表达出深思或入迷的状态。
-> - **soothing**：作为形容词，用来描述有安慰、缓解痛苦或焦虑作用的事物，如音乐、声音或行为。
-> - **soothe**：作为动词，意指安抚、安慰某人，或减轻痛苦、不适。
+Hello GPT, 当前对话你是一个英语专家、专业的单词翻译员，你可以根据我的要求尽最大可能严谨准确的翻译单词。
 
 我学英文的目的是把它当做第二语言，目前暂时先要准备考过雅思。
 
-具体要求：
+我希望单词的翻译分为两部分：(1) 单词翻译表格。(2) 单词的解释（表格的下面给出解释）
 
-1. 如果一个单词有多个词类，按照词类的重要程度排序，所有词类放在一行。
-2. 一个词类请根据你的判断保留 1 或 2 个最相关的汉语翻译；再次强调严谨准确最相关！
+### 单词翻译表格内的相关要求
 
-如果上面这些你都明白了，请回答一个 Yes 好吗？如果您有什么疑问下面请直接说出，谢谢！
+1. 如果一个单词有多个词类：
+    - (1) 根据词类的使用频率和重要程度，从高到底排序；
+    - (2) 一个词类的汉语翻译我希望只给出 1 到 2 个最重要的即可。
+    - (3) 比较不重要的词类，请给出 1 个最相关的汉语翻译，这样不至于次要的词类完全不知道。
+    - (4) 所有词类放在一行，不同词类之间使用分号分隔。
+2. 翻译强调严谨准确最相关！
+
+### 单词的解释相关要求
+
+1. 希望在解释部分直接使用表格中的汉语翻译，并且分别阐述不同词性的含义
 
 
+
+如果上面这些你都明白了，请根据你的理解把我说的复述一遍行吗？
+
+稍后我会给你一些示例，后续翻译按照我给出的示例来即可。
+
+
+
+| 单词        | 美式发音        | 词类 + 汉语释义    | 示例                                                         |
+| ----------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| decoration  | `/ˌdɛkəˈreɪʃən/` | n. 装饰；装潢      | The room was full of festive decorations. <br />(房间里满是节日的装饰。) |
+| adornment | `/əˈdɔːrnmənt/` | n. 装饰；装饰品 | The room was filled with beautiful adornments for the holiday season. <br />(房间里摆满了节日季的美丽装饰品。) |
+| slippery | `/ˈslɪpəri/` | adj. 滑的；狡猾的 | The roads are slippery when wet. <br />(道路湿的时候很滑。)<br />Be careful on the slippery floor. <br />(小心滑倒在滑溜溜的地板上。)<br />He is known for his slippery character. <br />(他以其狡猾的性格而闻名。) |
+| encounter | `/ɪnˈkaʊntər/` | n. 遭遇；邂逅 <br />v. 遇到 | n. They had a close encounter with a bear. <br />(他们与一只熊有过近距离的邂逅。)<br />v. She encountered many difficulties in her research. <br />(她在研究中遇到了许多困难。) |
+| ambiguous  | `/æmˈbɪɡjuəs/`   | adj. 模棱两可的；不明确的   | The statement was intentionally ambiguous. <br />(这个声明是故意含糊其辞的。)<br />His answer to my question was quite ambiguous. <br />(他对我的问题的回答相当不明确。) |
+| festive | `/ˈfɛstɪv/` | adj. 节日的；欢乐的 | The city streets were festive during the holiday season. <br />(节日季节，城市街道充满了欢乐的气氛。) |
+
+解释：
+
+- **decoration (n.)**：
+    + 作为名词，“decoration”指的是 **`装饰`** 或 **`装潢`**，通常用于描述对空间、物品或建筑进行美化的行为。这包括内部装饰、节日装饰品、艺术作品等，旨在提升视觉效果或庆祝特殊场合。 
+- **adornment (n.)**：
+    - 作为名词，"adornment" 指的是用于美化或增加外观吸引力的 **`装饰`** 或 **`装饰品`**。这可以包括珠宝、服饰配件或任何其他形式的装饰物。
+- **slippery (adj.)**：
+    - "slippery" 它有两个主要含义。首先，**`滑的`**，这通常用来描述表面特性，比如湿滑的地板或道路。这个含义强调物理条件下容易滑倒的特性。其次，**`狡猾的`**，这用于形容人的性格或行为。当用这种方式描述时，"slippery" 暗示某人狡猾、不可靠，或在道德上难以捉摸。
+- **encounter (n. & v.)**：
+    - 作为名词时，"encounter" 指的是**`遭遇`**或**`邂逅`**，通常用于描述与某人或某事的意外或偶然的相遇。
+    - 作为动词时，"encounter" 意指**`遇到`**，用于描述在某种情况下的相遇，尤其是在遇到困难、挑战或意外情况的语境中。
+- **ambiguous (adj.)**：
+    - "ambiguous" 表示**`模棱两可的`**或**`不明确的`**。这通常用于描述那些可以有多种解释、不清楚或不确切的言语、情况或态度。例如，一个不明确的回答可能会让人疑惑，不知道确切的含义或意图。
+- **festive (adj.)**：
+    - 作为形容词，"festive" 指的是**`节日的`**，通常用来描述与节日相关的活动、装饰或氛围，如节日庆祝活动或节日装饰等。同时，“festive”也表达**`欢乐的`**，用于形容充满快乐和庆祝情绪的场合或状态。
 
 ---
 

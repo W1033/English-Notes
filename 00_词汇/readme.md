@@ -68,17 +68,16 @@ ChatGPT 4.0 translations
 | decoration  | `/ˌdɛkəˈreɪʃən/` | n. 装饰；装潢      | The room was full of festive decorations. <br />(房间里满是节日的装饰。) |
 | adornment | `/əˈdɔːrnmənt/` | n. 装饰；装饰品 | The room was filled with beautiful adornments for the holiday season. <br />(房间里摆满了节日季的美丽装饰品。) |
 | slippery | `/ˈslɪpəri/` | adj. 滑的；狡猾的 | The roads are slippery when wet. <br />(道路湿的时候很滑。)<br />Be careful on the slippery floor. <br />(小心滑倒在滑溜溜的地板上。)<br />He is known for his slippery character. <br />(他以其狡猾的性格而闻名。) |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| encounter | `/ɪnˈkaʊntər/` | n. 遭遇；邂逅 <br />v. 遇到 | n. They had a close encounter with a bear. <br />(他们与一只熊有过近距离的邂逅。)<br />v. She encountered many difficulties in her research. <br />(她在研究中遇到了许多困难。) |
+| ambiguous  | `/æmˈbɪɡjuəs/`   | adj. 模棱两可的；不明确的   | The statement was intentionally ambiguous. <br />(这个声明是故意含糊其辞的。)<br />His answer to my question was quite ambiguous. <br />(他对我的问题的回答相当不明确。) |
+| festive | `/ˈfɛstɪv/` | adj. 节日的；欢乐的 | The city streets were festive during the holiday season. <br />(节日季节，城市街道充满了欢乐的气氛。) |
 
 解释：
 
 - **decoration (n.)**：
     + 作为名词，“decoration”指的是 **`装饰`** 或 **`装潢`**，通常用于描述对空间、物品或建筑进行美化的行为。这包括内部装饰、节日装饰品、艺术作品等，旨在提升视觉效果或庆祝特殊场合。
-
+    
 - **adornment (n.)**：
-
     - 作为名词，"adornment" 指的是用于美化或增加外观吸引力的 **`装饰`** 或 **`装饰品`**。这可以包括珠宝、服饰配件或任何其他形式的装饰物。
 
     > [!TIP]
@@ -98,10 +97,14 @@ ChatGPT 4.0 translations
     > 虽然两者可以互换使用，但 "decoration" 更多用于室内装饰或节日装饰，而 "adornment" 更侧重于个人装饰和佩戴的物品。
 
 - **slippery (adj.)**：
-
     - "slippery" 它有两个主要含义。首先，**`滑的`**，这通常用来描述表面特性，比如湿滑的地板或道路。这个含义强调物理条件下容易滑倒的特性。其次，**`狡猾的`**，这用于形容人的性格或行为。当用这种方式描述时，"slippery" 暗示某人狡猾、不可靠，或在道德上难以捉摸。
-
-
+- **encounter (n. & v.)**：
+    - 作为名词时，"encounter" 指的是**`遭遇`**或**`邂逅`**，通常用于描述与某人或某事的意外或偶然的相遇。
+    - 作为动词时，"encounter" 意指**`遇到`**，用于描述在某种情况下的相遇，尤其是在遇到困难、挑战或意外情况的语境中。
+- **ambiguous (adj.)**：
+    - "ambiguous" 表示**`模棱两可的`**或**`不明确的`**。这通常用于描述那些可以有多种解释、不清楚或不确切的言语、情况或态度。例如，一个不明确的回答可能会让人疑惑，不知道确切的含义或意图。
+- **festive (adj.)**：
+    - 作为形容词，"festive" 指的是**`节日的`**，通常用来描述与节日相关的活动、装饰或氛围，如节日庆祝活动或节日装饰等。同时，“festive”也表达**`欢乐的`**，用于形容充满快乐和庆祝情绪的场合或状态。
 
 
 
@@ -115,7 +118,7 @@ ChatGPT 4.0 translations
 | ---------- | --------------- | ----------------------------------------------------- | ------------------------------------------------------------ |
 | conviction | `/kənˈvɪkʃən/`  | n. 定罪；信念                                         | He was released after his conviction was overturned. (在他的定罪被推翻后，他被释放了。)<br />She spoke with conviction about her beliefs. (她坚定地表达了她的信仰。) |
 | firm       | `/fɜːrm/`       | adj. 坚固的；坚定的 <br />n. 公司                     | adj. The mattress is quite firm. (这个床垫相当坚固。)<br />n. She works for a law firm. (她在一家律师事务所工作。) |
-| instant    | `/ˈɪnstənt/`    | adj. 即时的；立即的 <br />n. 瞬间；时刻               | adj. He needed an instant response. (他需要一个即时的回应。)<br />adj. instant coffee. 速溶咖啡。 instant soup. 方便汤。<br />n. The message was sent and received in an instant. (这条信息发送并立即收到。)<br />n. He decided to leave at that instant. (他决定就在那个瞬间离开。)<br />n. The decision was made in an instant. (决定是在一瞬间做出的。) |
+| instant    | `/ˈɪnstənt/`    | n. 瞬间；片刻; <br />adj. 即时的                      | n. He decided to leave at that instant. (他决定就在那个瞬间离开。)<br />n. The decision was made in an instant. (决定是在一瞬间做出的。)<br />adj. He needed an instant response. (他需要一个即时的回应。)<br />adj. instant coffee. 速溶咖啡。 instant soup. 方便汤。 |
 | duplicate  | `/ˈduːplɪkeɪt/` | adj. 完全相同的；复制的 <br />n. 复制品 <br />v. 复制 | adj. He had a duplicate key made. (他制作了一把完全相同的钥匙。)<br />n. She kept a duplicate of the document for safety. (为了安全，她保留了该文件的复制品。)<br />v. They duplicated the original painting. (他们复制了原画。) |
 | comrade    | `/ˈkɑːmræd/`    | n. 同志；伙伴                                         | He greeted his comrades in arms. (他向他的战友们问好。)      |
 
@@ -430,7 +433,7 @@ ChatGPT 4.0 translations
 | survival | `/sərˈvaɪvəl/`  | n. 生存；幸存                            | The survival rate after the surgery was high. <br />(手术后的生存率很高。) |
 | fit      | `/fɪt/`         | v. 适合；安装；<br />adj. 合适的；健康的 | adj. The dress is a perfect fit for her. <br />(这条裙子非常适合她。)<br>v. The key fits the lock perfectly. <br />(这把钥匙非常适合这个锁。) |
 | fittest  | `/ˈfɪtɪst/`     | adj. 最适合的（fit的最高级）             | Only the fittest animals survive in the wild. <br />(只有最适合的动物能在野外生存。) |
-| incident | `/ˈɪnsɪdənt/`   | n. 事件                                  | An incident at the school caused concern among parents. <br />(学校发生的一起事件让家长们感到担忧。) |
+| incident | `/ˈɪnsɪdənt/`   | n. 事件；事故                            | An incident at the school caused concern among parents. <br />(学校发生的一起事件让家长们感到担忧。)<br />An incident disrupted the peace of the small town. <br />(一个事件打破了小镇的平静。) |
 | optical  | `/ˈɑptɪkəl/`    | adj. 光学的；视觉的                      | Optical instruments are essential for this research. <br />(光学仪器对这项研究至关重要。) |
 | converge | `/kənˈvɜːrdʒ/`  | v. 汇聚；集中                            | The protestors converged at the city center. <br />(抗议者在市中心汇聚。) |
 | focal    | `/ˈfoʊkəl/`     | adj. 焦点的；核心的                      | The focal point of the discussion was community safety. <br />(讨论的焦点是社区安全。)<br />The focal point of the study was urban development. <br />(这项研究的核心焦点是城市发展。) |
