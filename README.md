@@ -10,11 +10,13 @@
 
 ## ▲ 【罗肖尼】如何永远学会一个单词？
 
+*Added: 2024.03.09*
+
 > 笔记来源：https://www.bilibili.com/festival/jzj2023?bvid=BV1ns4y1A7fj&spm_id_from=333.337.search-card.all.click
 
-Form-meaning connection knowledge
 
-词形-意义联系知识
+
+Form-meaning connection knowledge (词形-意义联系知识)
 
 
 
@@ -40,7 +42,8 @@ The arbitrary sign problem of vocabulary acquisition
 
 
 
-One forgets words as one forgets names. One's vocabulary needs constant fertilizing or it will die. (我们忘记单词就如同我们忘记名字，我们的词汇需要被常常回顾，否则它们便会死去。）
+One forgets words as one forgets names. One's vocabulary needs constant fertilizing or it will die. 
+(我们忘记单词就如同我们忘记名字，我们的词汇需要被常常回顾，否则它们便会死去。）
 
 
 
@@ -112,8 +115,10 @@ The Depth Problem of Vocabulary Acquisition
 
 
 
-Third, we must honor the dictum that a dictionary is a reference work. It is meant to be used by a reader to heIp with unknown words in an otherwise meaningful text, or by a writer who knows full well what she is trying to say. For these purposes, a good dictionary is a valuable tool. But, **a dictionary is not designed to be a stand-alone source of meanings for words that are isolated from a comprehensible context**, and it serves this purpose poorly. **Therefore, we must abandon the belief in contextless vocabulary building programs in which students try to memorize the definitions of lists of unrelated words**. （第三，我们必须遵守词典的原则，即词典是一本参考书。它旨在帮助读者在其他意义明确的文本中理解不熟悉的单词，或帮助作家明确自己想要表达的内容。对于这些目的来说，一本好的词典是一个宝贵的工具。但是，**词典并不是旨在作为孤立于可理解上下文之外的单词的含义的独立来源**，在这方面它的作用并不好。**因此，我们必须放弃对无上下文词汇构建程序的信仰，这种程序中学生试图记住一系列无关单词的定义**。）
-- *参考文献：Anderson, R. C., ＆ Nagy, W. E. (1992). The vocabulary conundrum. American Educator: The Professional Journal of the American Federation of Teachers, 16(4).*
+Third, we must honor the dictum that a dictionary is a reference work. It is meant to be used by a reader to heIp with unknown words in an otherwise meaningful text, or by a writer who knows full well what she is trying to say. For these purposes, a good dictionary is a valuable tool. But, **a dictionary is not designed to be a stand-alone source of meanings for words that are isolated from a comprehensible context**, and it serves this purpose poorly. **Therefore, we must abandon the belief in contextless vocabulary building programs in which students try to memorize the definitions of lists of unrelated words**. 
+(第三，我们必须遵守词典的原则，即词典是一本参考书。它旨在帮助读者在其他意义明确的文本中理解不熟悉的单词，或帮助作家明确自己想要表达的内容。对于这些目的来说，一本好的词典是一个宝贵的工具。但是，**词典并不是旨在作为孤立于可理解上下文之外的单词的含义的独立来源**，在这方面它的作用并不好。**因此，我们必须放弃对无上下文词汇构建程序的信仰，这种程序中学生试图记住一系列无关单词的定义**。)  
+
+——*参考文献：Anderson, R. C., ＆ Nagy, W. E. (1992). The vocabulary conundrum. American Educator: The Professional Journal of the American Federation of Teachers, 16(4).*
 
 
 
@@ -148,6 +153,36 @@ Comprehensible Input (可理解输入)
 #### 半页纸
 
 #### 后记 - "书的皱纹"
+
+
+
+
+
+
+
+
+
+## ▲英语学习的认知——总述·阅读篇
+
+> 笔记来源：https://www.bilibili.com/video/BV1aD4y127GE/?spm_id_from=333.1007.0.0&vd_source=e92153ec1930505e455be52646a78b7c
+
+<img src="./README.assets/iShot_2024-03-11_10.09.51.png" alt="iShot_2024-03-11_10.09.51" style="zoom:50%;" />
+
+<img src="./README.assets/iShot_2024-03-11_10.13.17.png" alt="iShot_2024-03-11_10.13.17" style="zoom:50%;" />
+
+<img src="./README.assets/iShot_2024-03-11_10.19.29.png" alt="iShot_2024-03-11_10.19.29" style="zoom:50%;" />
+
+
+
+显性知识（Explicit Knowledge）
+
+
+
+<img src="./README.assets/iShot_2024-03-11_10.36.00.png" alt="iShot_2024-03-11_10.36.00" style="zoom:50%;" />
+
+
+
+
 
 
 
