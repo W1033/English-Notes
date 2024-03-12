@@ -57,6 +57,37 @@ advantage `/ədˈvæntɪdʒ/` 和 advice `/əd'vaɪs/`，读音中第一个是�
 
 ## ▲ 待编辑生词
 
+### Added: 2024.03.12
+
+ChatGPT 4.0 translations
+
+~~注：下面表格单词已写到 Goodnotes~~
+
+| 单词     | 美式发音    | 词类 + 汉语释义                                              | 示例                                                         |
+| -------- | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| announce | `/əˈnaʊns/` | v. 宣布；通告                                                | The company will announce its new product next week. <br />(公司将于下周宣布其新产品。) |
+| further  | `/ˈfɜrðər/` | adv. 更远地；进一步地<br />adj. 更远的；进一步的 <br />v. 促进；推动 | We need to explore the issue further. (我们需要进一步探讨这个问题。)<br />She lives in a further village. (她住在一个更远的村庄。)<br />This research will further our understanding of the topic. (这项研究将促进我们对这个话题的理解。) |
+| order    | `/ˈɔːrdər/` | n. 顺序；命令；订单 <br />v. 订购；命令                      | n. Keep your books in order. (把你的书排列整齐。) <br />v. He ordered a pizza. (他订购了一个比萨。) <br />v. The captain ordered his soldiers to advance. (队长命令他的士兵前进。) |
+|          |             |                                                              |                                                              |
+
+解释：
+
+- **announce (v.)**：
+  - 作为动词，“announce”用于表达 **`宣布`** 或 **`通告`** 某事。这通常涉及在公众场合或正式场合中公开传达重要信息、消息或决策。例如，领导人可能宣布重大政策，或公司可能通告新产品的发布。
+- **further (adv., adj., v.)**：
+    - 作为副词和形容词，“further”用于表达 **`更远地/的`** 或 **`进一步的/地`**，可以用来描述距离的延伸或事物发展的深入。
+    - 作为动词，"further" 意味着 **`促进`** 或 **`推进`**，指助长或加速某事物的进程或发展。
+
+- **order (n. & v.)**：
+    - 作为名词，“order”有多个含义，包括 **`顺序`**（事物排列的方式）、**`命令`**（指示或要求）、**`订单`**（购买的指令或请求）。
+    - 作为动词，“order”主要用于表示 **`订购`**（如订购食物或商品）或 **`命令`**（指示某人做某事）。
+
+
+
+
+
+
+
 ### Added: 2024.03.11
 
 ChatGPT 4.0 translations
