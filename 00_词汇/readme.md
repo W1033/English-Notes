@@ -63,24 +63,54 @@ ChatGPT 4.0 translations
 
 ~~注：下面表格单词已写到 Goodnotes~~
 
-| 单词     | 美式发音    | 词类 + 汉语释义                                              | 示例                                                         |
-| -------- | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| announce | `/əˈnaʊns/` | v. 宣布；通告                                                | The company will announce its new product next week. <br />(公司将于下周宣布其新产品。) |
-| further  | `/ˈfɜrðər/` | adv. 更远地；进一步地<br />adj. 更远的；进一步的 <br />v. 促进；推动 | We need to explore the issue further. (我们需要进一步探讨这个问题。)<br />She lives in a further village. (她住在一个更远的村庄。)<br />This research will further our understanding of the topic. (这项研究将促进我们对这个话题的理解。) |
-| order    | `/ˈɔːrdər/` | n. 顺序；命令；订单 <br />v. 订购；命令                      | n. Keep your books in order. (把你的书排列整齐。) <br />v. He ordered a pizza. (他订购了一个比萨。) <br />v. The captain ordered his soldiers to advance. (队长命令他的士兵前进。) |
-|          |             |                                                              |                                                              |
+| 单词       | 美式发音         | 词类 + 汉语释义                                              | 示例                                                         |
+| ---------- | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| announce   | `/əˈnaʊns/`      | v. 宣布；通告                                                | The company will announce its new product next week. <br />(公司将于下周宣布其新产品。) |
+| further    | `/ˈfɜrðər/`      | adv. 更远地；进一步地<br />adj. 更远的；进一步的 <br />v. 促进；推动 | adv. We need to explore the issue further. <br />(我们需要进一步探讨这个问题。)<br />adj. She lives in a further village. <br />(她住在一个更远的村庄。)<br />v. This research will further our understanding of the topic. <br />(这项研究将促进我们对这个话题的理解。) |
+| order      | `/ˈɔːrdər/`      | n. 顺序；命令；订单 <br />v. 订购；命令                      | n. Keep your books in order. <br />(把你的书排列整齐。) <br />n. Keep the files in alphabetical order. <br />(按字母顺序排列文件。) <br />v. He ordered a pizza`/ˈpiːtsə/`. <br />(他订购了一个比萨。) <br />v. He ordered a new computer online. <br />(他在网上订购了一台新电脑。) <br />v. The captain ordered his soldiers to advance. <br />(队长命令他的士兵前进。) |
+| conduit    | `/ˈkɑːnduɪt/`    | n. 管道；渠道                                                | The conduit carries water to the city.<br>(管道将水输送到城市。) |
+| hypothesis | `/haɪˈpɑːθəsɪs/` | n. 假设；假说                                                | The scientist proposed a hypothesis for the experiment.<br>(科学家为实验提出了一个假设。) |
+| complete   | `/kəmˈpliːt/`    | adj. 完整的；完全的 <br />v. 完成；结束                      | adj. We have a complete set of the author's works.<br>(我们拥有这位作者作品的完整套装。) <br />v. She completed her degree last year.<br>(她去年完成了她的学位。) |
+| overall    | `/ˌoʊvərˈɒːl/`   | adj. 总的；全面的 <br />adv. 总体上                          | adj. The overall cost was higher than expected.<br>(总体成本高于预期。) <br />adj. Overall band Score. (总分)<br />adv. Overall, the project was a success.<br>(总的来说，这个项目是成功的。)band |
+| band       | `/bænd/`         | n. 乐队；带(子)；波段；级别 <br />v. 联合；用带绑(bǎng)扎    | n. The band will perform tonight. <br />(乐队将于今晚表演。) <br />n. She wears a silver band on her wrist. <br />(她手腕上戴着一个银色的手环。) <br />n. This radio operates in a different frequency band. <br />(这台收音机在不同的频率波段运作。) <br />n. He is in the top salary band for his role. <br />(他在他的职位上处于最高薪资级别。) <br />v. They banded together to form a study group. <br />(他们联合起来组成了一个学习小组。) |
+| stamp      | `/stæmp/`        | n. 邮票；印章 <br />v. 盖章；跺脚                            | n. I collect stamps from different countries.<br>(我收集来自不同国家的邮票。) <br />v. He stamped his foot in frustration.<br>(他因挫败感而跺脚。) |
+| voluntary  | `/ˈvɑːləntɛri/`  | adj. 自愿的；志愿的                                          | She does voluntary work at the hospital.<br>(她在医院做志愿工作。) |
+|            |                  |                                                              |                                                              |
+|            |                  |                                                              |                                                              |
+|            |                  |                                                              |                                                              |
 
 解释：
 
 - **announce (v.)**：
   - 作为动词，“announce”用于表达 **`宣布`** 或 **`通告`** 某事。这通常涉及在公众场合或正式场合中公开传达重要信息、消息或决策。例如，领导人可能宣布重大政策，或公司可能通告新产品的发布。
 - **further (adv., adj., v.)**：
-    - 作为副词和形容词，“further”用于表达 **`更远地/的`** 或 **`进一步的/地`**，可以用来描述距离的延伸或事物发展的深入。
+    - 作为副词和形容词，“further”用于表达 **`更远地/的`** 或 **`进一步地/的`**，可以用来描述距离的延伸或事物发展的深入。
     - 作为动词，"further" 意味着 **`促进`** 或 **`推进`**，指助长或加速某事物的进程或发展。
-
 - **order (n. & v.)**：
     - 作为名词，“order”有多个含义，包括 **`顺序`**（事物排列的方式）、**`命令`**（指示或要求）、**`订单`**（购买的指令或请求）。
     - 作为动词，“order”主要用于表示 **`订购`**（如订购食物或商品）或 **`命令`**（指示某人做某事）。
+- **conduit (n.)**：
+    - 作为名词，“conduit”指的是 **`管道`** 或 **`渠道`**，通常用于指代传输液体、气体或电缆的物理结构，也可比喻指信息、资源或服务的传递途径。
+- **hypothesis (n.)**：
+    - 作为名词，“hypothesis”表示 **`假设`** 或 **`假说`**，常用于科学和研究领域，指基于有限的信息做出的初始理论或猜测，待进一步验证或测试。
+- **complete (adj. & v.)**：
+    - 作为形容词，“complete”描述的是 **`完整的`** 或 **`完全的`** 状态，表示没有缺失部分或属性，或是完全充足的。
+    - 作为动词，"complete" 指 **`完成`** 或 **`结束`** 某项任务或过程，意味着使之达到结束点或完成状态。
+- **overall (adj. & adv.)**：
+    - 作为形容词，“overall”指的是涵盖所有部分或方面的**`总的`**或**`全面的`**。
+    - 作为副词，它表达 **`总体上`** 或 **`大体上`** 的概念，指考虑所有因素后的总体状况或结果。
+- **band (n. & v.)**：
+    - 作为名词，“band”可以指：
+        1. **`乐队`**：一组为演奏音乐而聚集的人。
+        2. **`带(子)`**：用于绑扎或装饰的窄条；又比如手环或戒指。
+        3. **`波段`**：无线电的特定频率范围。
+        4. **`级别`**：某个特定的范围或类别。
+    - 作为动词，“band”意味着**`联合`**或**`用带绑扎`**。联合表示为了共同目的或兴趣而聚集，而用带绑扎则指物理上用条带或类似物固定或装饰。
+- **stamp (n. & v.)**：
+    - 作为名词，“stamp”可能指 **`邮票`**，一种用于邮寄的标签，或 **`印章`**，用于在文档上盖印。
+    - 作为动词，它可以表示 **`盖章`** 在文件上留下印记，或 **`跺脚`** 表达情绪。
+- **voluntary (adj.)**：
+    - 作为形容词，“voluntary”指的是 **`自愿的`** 或 **`志愿的`** 行为，意味着行动是出于个人意愿而非因外部压力或义务。
 
 
 

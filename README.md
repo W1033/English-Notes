@@ -182,7 +182,7 @@ Comprehensible Input (可理解输入)
 
 
 
-
+Free voluntary(`/ˈvɑːləntɛri/`) reading (FVR), a very pleasant form of comprehensible input, is the source of out reading comprehension, nearly all of our educated vocabulary, our ability to write with good styles, to understand and use complex grammar, and this seems to be true across languages.
 
 
 
