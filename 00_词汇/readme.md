@@ -63,13 +63,18 @@ ChatGPT 4.0 translations
 
 ~~注：下面表格单词已写到 Goodnotes~~
 
-| 单词       | 美式发音      | 词类 + 汉语释义             | 示例                                                         |
-| ---------- | ------------- | --------------------------- | ------------------------------------------------------------ |
-| regression | `/rɪˈɡrɛʃən/` | n. 回归；退化               | The patient showed signs of regression in his condition. <br />(病人的状况出现了退化的迹象。) |
-| hunger     | `/ˈhʌŋɡər/`   | n. 饥饿；渴望 <br />v. 渴望 | n. The campaign aims to reduce world hunger. <br />(该运动旨在减少世界饥饿问题。) <br />v. She hungered for success. <br />(她渴望成功。) |
-| campaign   | `/kæmˈpeɪn/`  | n. 活动；运动；战役         | The charity launched a campaign to raise funds. (慈善机构发起了一项筹款活动。) <br />The military campaign lasted several months. (军事战役持续了几个月。) |
-|            |               |                             |                                                              |
-|            |               |                             |                                                              |
+| 单词         | 美式发音           | 词类 + 汉语释义                         | 示例                                                         |
+| ------------ | ------------------ | --------------------------------------- | ------------------------------------------------------------ |
+| regression   | `/rɪˈɡrɛʃən/`      | n. 回归；退化                           | The patient showed signs of regression in his condition. <br />(病人的状况出现了退化的迹象。) |
+| hunger       | `/ˈhʌŋɡər/`        | n. 饥饿；渴望 <br />v. 渴望             | n. The campaign aims to reduce world hunger. <br />(该运动旨在减少世界饥饿问题。) <br />v. She hungered for success. <br />(她渴望成功。) |
+| campaign     | `/kæmˈpeɪn/`       | n. 活动；运动；战役                     | The charity launched a campaign to raise funds. <br />(慈善机构发起了一项筹款活动。) <br />The military campaign lasted several months. <br />(军事战役持续了几个月。) |
+| hostile      | `/ˈhɑːstəl/`       | adj. 敌对的；不友好的                   | The proposal received a hostile response from the board. <br />(该提案受到了董事会的敌对回应。) |
+| empower      | `/ɪmˈpaʊər/`       | v. 授权；使能够                         | The new law empowers the government to regulate this industry. <br />(新法律授权政府来监管这个行业。) |
+| power        | `/ˈpaʊər/`         | n. 力量；权力；电力 <br />v. 供电；驱动 | n. The country is seeking to increase its nuclear power. <br />(该国正寻求增加其核能力量。) <br />n. The government has the power to enact laws. <br />(政府有权制定法律。) <br />n. The city was without power after the storm. <br />(风暴过后，城市断电了。) <br />v. The generator powers the entire building. <br />(发电机为整栋建筑供电。) |
+| schedule     | `/ˈskedʒʊl/`       | n. 时间表；日程安排 <br />v. 安排；预定 | n. I need to check my schedule for tomorrow. <br />(我需要检查一下明天的日程安排。) <br />v. We scheduled a meeting for next Monday. <br />(我们安排了下周一的会议。) |
+| antagonistic | `/ænˌtæɡəˈnɪstɪk/` | adj. 敌对的；对抗性的                   | His remarks were highly antagonistic to the government's policy. <br />(他的言论对政府政策极度敌对。) |
+| court        | `/kɔːrt/`          | n. 法院；球场；宫廷 <br />v. 追求；招致 | n. The case was taken to court. <br />(案件被提交到法院。) <br />n. We played tennis on the court. <br />(我们在球场上打网球。) <br />v. He is courting controversy with his statements. <br />(他的言论在招致争议。) |
+| veto         | `/ˈviːtoʊ/`        | n. 否决权 <br />v. 否决                 | n. The president has the veto over new legislation. <br />(总统对新立法拥有否决权。) <br />v. The proposal was vetoed by the committee. <br />(该提议被委员会否决了。) |
 
 单词解释
 
@@ -82,10 +87,30 @@ ChatGPT 4.0 translations
 
 - **campaign (n.)**：
     - 作为名词，“campaign”不仅指一系列为达到特定目标而设计的**`活动`**或**`运动`**，这些目标可能是社会性的、政治性的或商业性的，也指在军事上的一系列有组织的行动，即**`战役`**。在军事语境中，一场“campaign”通常包括多个战斗和操作，旨在达成更广泛的战略目标。
+- **hostile (adj.)**：
+    - 作为形容词，“hostile”主要描述**`敌对的`**或**`不友好的`**态度、环境或行为。它可以用来形容人与人之间的关系，例如某人对他人持有敌意或不友好的感觉；也可以描述更广泛的环境或情况，如对某人不利的条件或氛围。
 
+- **empower (v.)**：
+    - 作为动词，“empower”意味着**`授权`**或**`使能够`**，即赋予某人或某群体权力或能力，让他们有能力进行决策或采取行动。通常用于强调增强个体或群体的自主性和自信。
+- **power (n. & v.)**：
+    - 作为名词，“power”有几层意义：它可以指**`力量`**，即完成某事的能力或强度；**`权力`**，涉及控制、指挥或做决定的能力；或者**`电力`**，指供应设备运行所需的能源。
+    - 作为动词，“power”意味着**`驱动`**或**`供电`**，指为设备或机械提供所需能源以使其运行。
+- **schedule (n. & v.)**：
+    - 作为名词，“schedule”指的是一种**`时间表`**或**`日程安排`**，用于记录将要发生的事件及其时间。
+    - 作为动词，“schedule”意味着**`安排`**或**`预定`**某个事件或活动在特定时间发生。
+- **antagonistic (adj.)**：
+    - 作为形容词，“antagonistic”描述了**`敌对的`**或**`对抗性的`**态度、行为或关系。这个词常用于形容某人或某事物与另一方在立场、利益或观点上存在冲突或竞争。
 
+- **court (n. & v.)**：
 
+    - 作为名词，“court”可以指**`法院`**，即进行法律审判和解决纠纷的地方；**`球场`**，如网球场或篮球场等运动场地；或**`宫廷`**，即国王和其随从的居住和工作场所。
 
+    - 作为动词，“court”意味着**`追求`**，特别是指求爱或努力赢得某人的青睐；也可以用来表示**`招致`**，比如招致风险或争议。
+
+- **veto (n. & v.)**：
+
+    - 作为名词，“veto”指的是**`否决权`**，这是一种特定的权力，使个人或机构能够阻止法案、提案或决定的通过。这通常用于政治和立法的语境中，如一个国家的总统或国王可以对立法机构通过的法律行使否决权。
+    - 作为动词，“veto”表示执行这种权力来**`否决`**某项法案、提案或决定。这意味着通过行使否决权来阻止某事的实施或成为法律。
 
 
 
