@@ -74,11 +74,24 @@ ChatGPT 4.0 translations
 | avenue | `/ˈævənuː/` | n. 大道；途径 | The city is known for its wide avenues lined with trees. <br />(这座城市以其两旁种满树木的宽阔大道而闻名。) <br />The main avenue was lined with shops and restaurants. <br />(主大道两旁林立着商店和餐馆。)<br />Exploring new technologies provides an avenue for business growth. <br />(探索新技术为业务增长提供了一种途径。)<br/>Exploring renewable energy sources is an important avenue for environmental sustainability. <br />(探索可再生能源是实现环境可持续性的重要途径。) |
 | imprint | `/'ɪmprɪnt/` (n.) <br />`/ɪm'prɪnt/` (v.) | n. 印记 <br />v. 印刻；铭记 | n. The incident left a deep imprint on her psyche. <br />(这个事件在她的心灵上留下了深刻的印记。)<br />n. The artist's imprint is evident in all his works. <br />(这位艺术家的印记在他的所有作品中都很明显。)<br />v. His teachings are imprinted in my mind. <br />(他的教诲铭记在我心中。) <br />v. The tragedy imprinted sorrow on her face. <br />(那场悲剧在她的脸上留下了悲伤的印记。) |
 | psyche | `/ˈsaɪki/` | n. 心智；灵魂 | The experiences shaped his psyche profoundly. <br />(这些经历深刻地塑造了他的心智和灵魂。) |
+| psycho       | `/ˈsaɪkoʊ/`                               | adj. 精神病的；<br />n. 精神病患者          | adj. That was a psycho behavior. <br />(那是一种精神病态的行为。) <br />n. The movie "Psycho" was directed by Alfred Hitchcock. <br />(电影《惊魂记》是由阿尔弗雷德·希区柯克导演的。) |
 | evident | `/ˈɛvɪdənt/` | adj. 明显的；显而易见的 | It was evident that she was unhappy. <br />(她不高兴是显而易见的。)<br />The evidence was evident to all present. <br />(在场的所有人都明显看到了证据。)<br />The damage to the building was evident even from a distance. <br />(即使从远处也能明显看到建筑的损坏。) |
 | profound | `/prəˈfaʊnd/` | adj. 深刻的；深远的 | She has a profound understanding of the subject. <br />(她对这个主题有深刻的理解。) |
-|  |  |  |  |
+| vaccinate | `/ˈvæksəneɪt/` | v. 接种疫苗 | Many parents choose to vaccinate their children against common diseases. <br />(许多父母选择给他们的孩子接种预防常见疾病的疫苗。) |
+| accomplished | `/əˈkɑːmplɪʃt/` | adj. 熟练的；有成就的 | She is an accomplished musician, known for her technical proficiency and emotional performances. <br />(她是一位有成就的音乐家，以其技术精湛和富有感情的表演而闻名。) |
+| accomplish | `/əˈkɑːmplɪʃ/` | v. 完成；实现 | She accomplished her goal of running a marathon. <br />(她实现了跑完马拉松的目标。) |
+| pianist | `/ˈpiːənɪst/` | n. 钢琴家 | He is a talented pianist. <br />(他是一位有才华的钢琴家。) |
+| musician | `/mjʊˈzɪʃən/` | n. 音乐家 | She works as a professional musician. <br />(她是一名职业音乐家。) |
+| proficiency | `/prəˈfɪʃənsi/` | n. 精通；熟练 | Her proficiency in Japanese is impressive. <br />(她的日语熟练程度令人印象深刻。) |
+| Japan | `/dʒəˈpæn/` | n. 日本 | He traveled to Japan last year. <br />(他去年去了日本。)<br /> He is fascinated by the culture of Japan. <br />(他对日本的文化非常着迷。) |
+| Japanese | `/ˌdʒæpəˈniːz/` | n. 日语；日本人 <br />adj. 日本的；日本人的 | n. She is studying Japanese at university. <br />(她在大学学习日语。) <br />adj. He loves Japanese culture. <br />(他热爱日本文化。) |
+| renovation | `/ˌrɛnəˈveɪʃən/` | n. 翻新；修复 | The museum is closed for renovation. <br />(博物馆因翻新而关闭。) <br />They specialize in the renovation of old houses. <br />(他们专门从事旧房屋的修复工作。) |
+| renovate | `/ˈrɛnəveɪt/` | v. 翻新；修复 | They plan to renovate the old house to its original glory. <br />(他们计划将这座旧房子翻新回其原有的辉煌。)<br />The hotel has been renovated and redecorated.<br />(酒店已经翻新﹐并重新装饰。) |
+| redecorate | `/ˌriːˈdɛkəreɪt/` | v. 重新装饰 | They decided to redecorate their living room to give it a fresh look. <br />(他们决定重新装饰客厅，给它一个新的外观。) |
+| decorate | `/ˈdɛkəreɪt/` | v. 装饰；装修 | She loves to decorate her house for the holidays. <br />(她喜欢在节日期间装饰她的房子。) |
 
 ### 单词解释
+
 - **hawk (n. & v.)**：
   - 作为名词，"hawk" 指的是 **`鹰`**，一类捕食性鸟类，以其锐利的视觉和飞行时捕捉猎物的能力而著名；同时，在政治语境中，“hawk”也用来指倾向于采取强硬外交政策的 **`鹰派人物`**。
   - 作为动词，"hawk" 表示 **`叫卖`**，即在公共场合兜售商品的行为。
@@ -90,12 +103,38 @@ ChatGPT 4.0 translations
     - 作为动词，"imprint" 表示 **`印刻`** 或 **`铭记`**，既可以是在物理对象上留下标记，也可以是在心理或记忆中留下难忘的印象。
 - **psyche (n.)**：
     - “psyche”作为名词，描述了个体的 **`心智`** 和 **`灵魂`**，涉及到一个人的思维、感情和内在精神世界。它强调了个人的内心活动和情感状态，以及这些因素如何影响一个人的行为和人格。
+- **psycho (adj. & n.)**：
+    - 作为形容词，“psycho”指的是与**`精神病`**相关的或表现出精神病特征的。
+    - 作为名词，"psycho" 指的是一位**`精神病患者`**，通常用于非正式或俚语中，描述那些行为异常或患有精神疾病的人。
 - **evident (adj.)**：
     - 当我们说某事是 **`明显的`** 或 **`显而易见的`**（evident），我们指的是它很容易被观察到或理解，不需要进一步的解释或证明。
 - **profound (adj.)**：
     - 描述为 **`深刻的`** 或 **`深远的`**（profound）意味着某事物具有深度和强烈的影响，通常指思想、感受或影响程度深远，超出了表面的理解。
-
-
+- **vaccinate (v.)**：
+    - 作为动词，“vaccinate”意味着给予**`疫苗接种`**，是指通过注射疫苗来提供对某种疾病的免疫力。这个过程帮助个体或群体抵抗特定的病毒或细菌，是现代医学预防疾病的重要手段。
+- **accomplished (adj.)**：
+    - 作为形容词，“accomplished”描述了在某个领域或技能上非常**`熟练的`**和**`有成就的`**状态。它通常用来赞扬某人的技能水平非常高，并且在其领域内取得了显著的成就。
+- **accomplish (v.)**：
+    - 当我们谈论 “accomplish”，指的是 **`完成`** 或 **`实现`** 某个任务或目标，表示成功地达到预定的结果或标准。
+- **pianist (n.)**：
+    - “pianist” 指的是 **`钢琴家`**，即专业演奏钢琴的人。
+- **musician (n.)**：
+    - “musician” 意指 **`音乐家`**，泛指任何专业从事音乐创作、演奏或歌唱的人。
+- **proficiency (n.)**：
+    - “proficiency” 描述的是在某个领域或技能上的 **`精通`** 或 **`熟练`** 水平，表示达到了高度的技能和能力。
+- **Japan (n.)**：
+    - 作为名词，“Japan”指的是位于东亚的一个岛国，是一个具有丰富历史和文化的国家，以其先进的技术、传统艺术和自然美景而闻名。
+- **Japanese (n. & adj.)**：
+    - 作为名词，"Japanese" 指的是 **`日语`** 或日本的 **`人民`**。
+    - 作为形容词，它描述的是与 **`日本的`** 或 **`日本人的`** 相关的事物，如日本文化、日本食物等。
+- **renovation (n.)**：
+    - “renovation”作为名词，指的是**`翻新`**或**`修复`**的过程，涉及更新和修复旧建筑、家具或系统等，使之恢复到较好的状态或更现代化。
+- **renovate (v.)**：
+    - 作为动词，“renovate”指的是**`翻新`**或**`修复`**某物，特别是建筑或房间，使之恢复到更好的状态或更现代化。
+- **redecorate (v.)**：
+    - 作为动词，“redecorate”意味着**`重新装饰`**某个空间或建筑，通常涉及更改装饰风格、更新油漆颜色、更换家具等，以赋予该空间新的外观和感觉。
+- **decorate (v.)**：
+    - 作为动词，“decorate”意味着**`装饰`**或**`装修`**，指通过添加装饰物或以某种方式改变空间的外观来美化一个房间、建筑或物体。
 
 
 
@@ -1504,17 +1543,69 @@ ChatGPT 4.0 translations
 
 
 
-
-
 ## ▲ 相似单词
 
 |   单词   |  发音   |   中文释义   |   示例   |
 | :--- | :--- | :------- | -------- |
-| transition     |  `/træn'zɪʃən/`     | n. 过渡；转变<br />v. 过渡；转变 |  → transition period  过渡时期<br />→ transition point.  转变点；过渡点<br />→ Making the transition  from youth to adulthood can be very painful. <br />从青年过渡到成年会是一个非常痛苦的过程。<br />→ a society that is in transition (=changing) 一个正在转型的社会  |
+| transition     |  `/træn'zɪʃən/`     | n. 过渡；转变 |  transition period  (过渡时期)<br />Making the transition  from youth to adulthood can be very painful. <br />(从青年过渡到成年会是一个非常痛苦的过程.)<br />a society that is in transition (=changing) <br />(一个正在转型的社会)  |
 | transform      | `/træns'fɔrm/`      |  v. (使)变换；(使)转换  |  → transform into. 转变成<br />→ Free Transform 自由变换<br />→ transform coding 编码转换<br />→ Fourier`/ˈfʊərɪˌeɪ/` transform 傅里叶变换<br />→ It was an event that would transform my life. <br />那是能够彻底改变我一生的一件事。<br />→ How  do we transform one type of file to another? <br />我们如何将一种文件类型转换为另一种类型？  |
 | transformation | `/ˌtrænsfəˈmeɪʃən/` | n. 变换；转换；转变 | → social transformation 社会转型（/转变）<br />→ coordinate transformation 坐标变换<br />→ transformation process 转换过程<br />→ The transformation has been nothing short of a miracle. <br />这种变化看成奇迹。 |
 
-
+> ## 全面了解一下单词 "transform"
+>
+> ### 1. 基本信息
+>
+> - **发音**：/trænsˈfɔːrm/
+> - **词性**：动词
+>
+> ### 2. 意思
+>
+> "Transform" 主要有以下含义：
+>
+> #### (1) 彻底改变某物的外观或性质
+> - **城市重建示例**：考虑一个城市区域的重建项目。原先这里可能是一片破旧的工业区，经过彻底的重建和发展，它被 **transform** 成了一个充满现代商业中心和居民区的活跃社区。这里，"transform" 描述的是一个地区由荒废不堪变为充满活力的过程，外观和性质都发生了根本变化。 
+> - **个人形象改变示例**：一个人可能通过健康饮食和锻炼，彻底改变了自己的身体形态和健康状况。可以说，他通过这些行动 **transformed** 自己成为一个更健康、更有活力的人。这个例子中，"transform" 用来描述个人外观和身体健康的深刻变化。
+>
+> #### (2) 转换，变换
+> - **职业转变示例**：一个专业的运动员退役后，可能会将自己的生涯方向 **transform** 成为一名教练或体育评论员。在这里，"transform" 描述的是职业角色和身份的转换。
+>  - **技术变革示例**：互联网技术的发展 **transformed** 传统的商业模式，使得电子商务成为现代经济的一个重要组成部分。这里，“transform”指的是互联网技术如何改变（转换）了商业运作的方式和形态。
+>    
+>
+> ### 3. 用法
+>
+> - **作为及物动词**：通常需要一个宾语，表示被变化或转换的对象。
+>   
+>   示例：The renovation transformed the old building into a modern office. (装修将这座旧建筑改造成了现代办公室。)
+>   
+> - **与介词短语连用**：经常与介词 "into" 一起使用，表明变化的结果或目标状态。
+>   
+>   示例：He transformed his diet and turned into a healthy person. (他改变了饮食习惯，变成了一个健康的人。)
+>
+> ### 4. 词源
+>
+> - 来自拉丁语 "transformare"，其中 "trans-" 意为“跨越”，"formare" 意为“形成、塑造”，整体含义是形态的彻底改变。
+>
+> ### 5. 派生词
+>
+> - **名词形式**：transformation (/ˌtrænsfərˈmeɪʃən/)，指改变的行为或过程，以及改变的结果。
+>   
+>   示例：The transformation of the city’s skyline has been remarkable. (这座城市天际线的变化令人瞩目。)
+>
+> - **形容词形式**：transformative (/trænsˈfɔːrmətɪv/)，指有改变或转变力的，能引起变化的。
+>   
+>   示例：The new policy had a transformative effect on the economy. (新政策对经济产生了变革性的影响。)
+>
+> ### 6. 同义词和反义词
+>
+> - **同义词**：convert, change, alter, metamorphose
+> - **反义词**：maintain, preserve, keep
+>
+> ### 7. 在句子中的应用
+>
+> - 在科技领域："Digital technology has transformed the way we communicate."
+> - 在个人发展领域："She transformed her life through hard work and determination."
+>
+> 总结来说，"transform" 是一个表达深刻和根本变化的强有力的动词，它涵盖了外观、性质或状态的改变，并且这种改变通常是显著和彻底的。
 
 
 
@@ -1586,7 +1677,7 @@ ChatGPT 4.0 translations
 
 *Added: 2024.01.31*
 
-*注：上面的格式是 2021-2023 年上半年记单词时根据 Vue 文档摸索出来的格式，但是这种格式对背单词实际上并无多大帮助，看起俩也不是很明朗。*
+*注：上面的格式是 2021-2023 年上半年记单词时根据 Vue 文档摸索出来的格式，但是这种格式对背单词实际上并无多大帮助，看起来也不是很明朗。*
 
 ### suite /swiːt/
 
@@ -1609,7 +1700,7 @@ ChatGPT 4.0 translations
 
 | 单词  | 美式发音  | 词类 + 汉语释义   | 例句                                                         |
 | ----- | --------- | ----------------- | ------------------------------------------------------------ |
-| suite | `/swiːt/` | n. 套房；一套设备 | → a suite of 一系列<br />→ We booked a suite for our honeymoon. <br />我们为蜜月预定了一套公寓。 |
+| suite | `/swiːt/` | n. 套房；一套设备 | a suite of 一系列<br />We booked a suite for our honeymoon. <br />(我们为蜜月预定了一套公寓。) |
 
 
 
