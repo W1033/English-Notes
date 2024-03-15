@@ -49,13 +49,55 @@ advantage `/ədˈvæntɪdʒ/` 和 advice `/əd'vaɪs/`，读音中第一个是�
 - 
 - 
 
-
+> 考虑到您的学习目的，特别是在寻找简洁性与全面性之间的平衡;
+>
+> 提供更简洁的翻译，专注于词汇的主要和常用含义，以便更好地平衡全面性和易学性。
 
 
 
 
 
 ## ▲ 待编辑生词
+
+
+### Added: 2024.03.14
+
+ChatGPT 4.0 translations
+
+~~注：下面表格单词已写到 Goodnotes~~
+
+### 单词翻译表格
+
+| 单词 | 美式发音 | 词类 + 汉语释义 | 示例 |
+| ---- | ------- | --------------- | ---- |
+| hawk | `/hɔːk/` | n. 鹰；鹰派人物 <br />v. 叫卖 | n. A hawk was circling high in the sky. <br />(一只鹰在高空盘旋。) <br />v. He hawked his paintings in the art district. <br />(他在艺术区叫卖他的画作。) |
+| avenue | `/ˈævənuː/` | n. 大道；途径 | The city is known for its wide avenues lined with trees. <br />(这座城市以其两旁种满树木的宽阔大道而闻名。) <br />The main avenue was lined with shops and restaurants. <br />(主大道两旁林立着商店和餐馆。)<br />Exploring new technologies provides an avenue for business growth. <br />(探索新技术为业务增长提供了一种途径。)<br/>Exploring renewable energy sources is an important avenue for environmental sustainability. <br />(探索可再生能源是实现环境可持续性的重要途径。) |
+| imprint | `/'ɪmprɪnt/` (n.) <br />`/ɪm'prɪnt/` (v.) | n. 印记 <br />v. 印刻；铭记 | n. The incident left a deep imprint on her psyche. <br />(这个事件在她的心灵上留下了深刻的印记。)<br />n. The artist's imprint is evident in all his works. <br />(这位艺术家的印记在他的所有作品中都很明显。)<br />v. His teachings are imprinted in my mind. <br />(他的教诲铭记在我心中。) <br />v. The tragedy imprinted sorrow on her face. <br />(那场悲剧在她的脸上留下了悲伤的印记。) |
+| psyche | `/ˈsaɪki/` | n. 心智；灵魂 | The experiences shaped his psyche profoundly. <br />(这些经历深刻地塑造了他的心智和灵魂。) |
+| evident | `/ˈɛvɪdənt/` | adj. 明显的；显而易见的 | It was evident that she was unhappy. <br />(她不高兴是显而易见的。)<br />The evidence was evident to all present. <br />(在场的所有人都明显看到了证据。)<br />The damage to the building was evident even from a distance. <br />(即使从远处也能明显看到建筑的损坏。) |
+| profound | `/prəˈfaʊnd/` | adj. 深刻的；深远的 | She has a profound understanding of the subject. <br />(她对这个主题有深刻的理解。) |
+|  |  |  |  |
+
+### 单词解释
+- **hawk (n. & v.)**：
+  - 作为名词，"hawk" 指的是 **`鹰`**，一类捕食性鸟类，以其锐利的视觉和飞行时捕捉猎物的能力而著名；同时，在政治语境中，“hawk”也用来指倾向于采取强硬外交政策的 **`鹰派人物`**。
+  - 作为动词，"hawk" 表示 **`叫卖`**，即在公共场合兜售商品的行为。
+- **avenue (n.)**：
+    - 作为名词，“avenue”首先指的是宽阔的**`大道`**，通常是城市中主要的、树木成行的街道。
+    - 同时，它也用于比喻意义，表示达到目标或解决问题的一种方法或**`途径`**。这种用法强调了实现某一目的的可能路径或方式。
+- **imprint (v. & n.)**：
+    - 作为名词，"imprint" 指的是 **`印记`**，表现为物理的痕迹或心理的深刻影响。
+    - 作为动词，"imprint" 表示 **`印刻`** 或 **`铭记`**，既可以是在物理对象上留下标记，也可以是在心理或记忆中留下难忘的印象。
+- **psyche (n.)**：
+    - “psyche”作为名词，描述了个体的 **`心智`** 和 **`灵魂`**，涉及到一个人的思维、感情和内在精神世界。它强调了个人的内心活动和情感状态，以及这些因素如何影响一个人的行为和人格。
+- **evident (adj.)**：
+    - 当我们说某事是 **`明显的`** 或 **`显而易见的`**（evident），我们指的是它很容易被观察到或理解，不需要进一步的解释或证明。
+- **profound (adj.)**：
+    - 描述为 **`深刻的`** 或 **`深远的`**（profound）意味着某事物具有深度和强烈的影响，通常指思想、感受或影响程度深远，超出了表面的理解。
+
+
+
+
 
 ### Added: 2024.03.14
 
