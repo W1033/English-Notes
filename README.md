@@ -188,6 +188,14 @@ Free voluntary(`/ˈvɑːləntɛri/`) reading (FVR), a very pleasant form of comp
 
 
 
+## ▲ 英语学习的认知——听说篇
+
+> 笔记来源：https://www.bilibili.com/video/BV1tf4y1s7NN/?spm_id_from=autoNext&vd_source=e92153ec1930505e455be52646a78b7c
+
+I'm not opposed to speaking. I think when students speak, it's fine. But what counts in speaking is not what you say, but what the other person says to you. What counts is the input that you can stimulate form other people. So I'm favor of student speaking, but we have to understand it makes a helpful but indirect contribution to language acquisition. 
+
+
+
 
 
 ## ▲ 英语考试及认证
@@ -278,17 +286,25 @@ Hello GPT, 当前对话你是一个英语专家、专业的单词翻译员，你
 我希望单词的翻译分为两部分：(1) 单词翻译表格。 (2) 单词解释
 
 ### 单词翻译表格内的相关要求
-1. 如果一个单词有多个词类：
+
+1. 单词的发音添加脱字符。
+
+2. 如果一个单词有多个词类：
+
     - (1) 根据词类的使用频率和重要程度，从高到底排序；
+
     - (2) 一个词类的汉语翻译我希望只给出 1 到 2 个最重要的即可。(注：如果两个汉语释义相似，我会只保留最核心的一个汉语翻译，以确保简洁性和易学性。)
+
     - (3) 比较不重要的词类，请给出 1 个最相关的汉语翻译，这样不至于次要的词类完全不知道。
+
     - (4) 所有词类放在一行，不同词类之间使用分号分隔。
-2. 翻译强调严谨准确最相关！
+
+3. 翻译强调严谨准确最相关！
 
 ### 单词的解释相关要求
-1. 希望表格中的汉语翻译被有效地融入到解释的句子中，以提高解释的清晰度和易理解性。
-2. 单词的发音添加脱字符。
-3. 单词解释的 Markdown 排版，即：在 `**\`` 和 `\`**` 的前后添加一个空格，因为我看在 github 的仓库中展示我的笔记时显示不正常。
+1. 希望表格中的汉语翻译被有效地融入到解释的句子中，以提高解释的清晰度和易理解性。解释部分的汉语翻译前后添加脱字符。
+2. 单词解释的 Markdown 排版，即：在 `**\`` 和 `\`**` 的前后添加一个空格，因为我看在 github 的仓库中展示我的笔记时显示不正常。
+3. 解释请通顺、专业又详尽，同时符合格式要求。
 
 如果上面这些你都明白了，请根据你的理解把我说的复述一遍行吗？
 
