@@ -24,20 +24,20 @@ Remove unnecessary wording.(删掉多余的词句。) For instance(例如):
 - `very good` 可以换成 `impressive`.
 - `very many` 可以写成 `numerous`^(3)^. 
 Oh! And another thing. I know this contradicts^(4)^ what I just said，but don't use contractions^(5)^. I do not use contractions。(另一个问题就是，虽然这个跟我之前说的有点矛盾，但是不要使用缩略词。)
-- (1) demonstrate `/ˈdemənstreɪt/` vt.说明；证明；示范，演示
-- (2) crucial `/ˈkruːʃəl/` adj.至关重要的，决定性的
+- (1) demonstrate `/ˈdemənstreɪt/` vt. 证明；演示
+- (2) crucial `/ˈkruːʃəl/` adj. 关键的；决定性的
     + a crucial moment. 关键时刻
     + Salt is a crucial ingredient in cooking. 盐是烹调的一种重要材料。
     + The next step is crucial to [for] our success. 下一步对我们的成功非常重要。
-- (3) numerous `/ˈnjuːmərəs/` adj.许多的，众多的
+- (3) numerous `/ˈnjuːmərəs/` adj. 许多的，众多的
     + 在日常英语中﹐人们一般说 a lot of﹐而不说numerous.
         - There were a lot of mistakes in his essay. 他的文章里有许多错误。
     + Similar instances are numerous. 类似的例子极多。
     + His collection of books is numerous. 他的藏书众多。
-- (4) contradict `/ˌkɑːntrəˈdɪkt/` verb.反驳；与...矛盾；自相矛盾
+- (4) contradict `/ˌkɑːntrəˈdɪkt/` v. 反驳；矛盾
     + Dad just cannot bear to be contradicted. 爸爸就是受不了有人反驳他。
     + Within five minutes he had contradicted himself twice. 五分钟内他就两次自相矛盾。
-- (5) contraction `/kənˈtrækʃən/` noun.收缩，缩短；缩略词
+- (5) contraction `/kənˈtrækʃən/` n. 缩写；收缩
 
 别用这些缩略语: `can't, won't, gonna, wanna` 等等。当然聊天发信息没问题，但是学术写作里这么写不太正式了(but they are too informal for academic writing). 
 
