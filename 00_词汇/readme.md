@@ -129,6 +129,16 @@ ChatGPT 4.0 translations
 | shot         | `/ʃɑːt/`           | n. 射击；射门；〔电影﹑电视节目中的〕镜头<br />v. 射击       | n. She was killed by a single shot to the head. <br />(她被人击中头部一枪打死。)<br />n. His shot hit the bar. (他射门集中球门的横梁。)<br />n. The final shot of the movie was breathtaking. <br>(电影的最后一镜非常震撼。)<br>v. He shot an arrow at the target. <br>(他向目标射了一箭。) |
 | mythical     | `/ˈmɪθɪkəl/`       | adj. 神话的；虚构的                                          | The story is based on mythical creatures like dragons and unicorns. <br>(这个故事是基于龙和独角兽这样的神话生物。) |
 |              |                    |                                                              |                                                              |
+| reasonable   | `/ˈrizənəbəl/`     | adj. 合理的；公道的                                          | His request for a higher salary is reasonable. (他要求加薪是合理的。) |
+| spoon        | `/spun/`           | n. 勺子                                                      | She measured the sugar with a spoon. (她用勺子量糖。)        |
+| bucket       | `/ˈbʌkɪt/`         | n. 桶                                                        | We used a bucket to carry water from the well. (我们用桶从井里挑水。) |
+| structure    | `/ˈstrʌktʃər/`     | n. 结构；建筑物                                              | Data Structure (数据结构)<br />The Eiffel Tower is an iconic structure in Paris. (埃菲尔铁塔是巴黎的标志性建筑。) |
+| refer        | `/rɪˈfɜr/`         | v. 提到；参考                                                | He referred to his notes during the presentation. (他在演讲期间参考了他的笔记。) |
+| referee      | `/ˌrefəˈriː/`      | n. 裁判                                                      | The referee made a controversial decision during the match. (比赛中裁判做出了有争议的决定。) |
+| renew        | `/rɪˈnjuː/`        | v. 续期；更新                                                | It's time to renew your passport. (是时候更新你的护照了。)   |
+| proud        | `/praʊd/`          | adj. 自豪的；骄傲的                                          | He is proud of his volunteer work. (他为自己的志愿工作感到自豪。) |
+| float        | `/floʊt/`          | v. 漂浮；飘动<br>n. 浮点数                                   | v. The leaf floats on the surface of the water. (树叶在水面上漂浮。)<br>v. The balloon floated away in the breeze. (气球随风飘动。)<br>n. We use float type for decimal numbers in programming. (在编程中，我们使用浮点类型表示小数。) |
+| attain       | `/əˈteɪn/`         | v. 达到；获得                                                | She attained a high level of proficiency in Japanese. (她在日语中达到了高水平的熟练程度。) |
 |              |                    |                                                              |                                                              |
 |              |                    |                                                              |                                                              |
 |              |                    |                                                              |                                                              |
@@ -136,16 +146,6 @@ ChatGPT 4.0 translations
 |              |                    |                                                              |                                                              |
 |              |                    |                                                              |                                                              |
 |              |                    |                                                              |                                                              |
-| reasonable   | `/ˈrizənəbəl/      | adj. 合理的；适度的                                          |                                                              |
-| spoon        | `/spun/            | n. 勺子                                                      |                                                              |
-| bucket       | `/ˈbʌkɪt/          | n. 桶；水桶                                                  |                                                              |
-| structure    | `/ˈstrʌktʃər/      | n. 结构；建筑物                                              |                                                              |
-| refer        | `/rɪˈfɜːr/         | v. 参考；涉及                                                |                                                              |
-| referee      | `/ˌrefəˈriː/       | n. 裁判；仲裁人                                              |                                                              |
-| renew        | `/rɪˈnjuː/         | v. 更新；续约                                                |                                                              |
-| proud        | `/praʊd/           | adj. 自豪的；骄傲的                                          |                                                              |
-| float        | `/floʊt/           | v. 漂浮；n. 浮标                                             |                                                              |
-| attain       | `/əˈteɪn/          | v. 达到；获得                                                |                                                              |
 |              |                    |                                                              |                                                              |
 | underage     | `/ˌʌndərˈeɪdʒ/     | adj. 未成年的                                                |                                                              |
 | honorable    | `/ˈɑnərəbəl/       | adj. 光荣的；尊敬的                                          |                                                              |
