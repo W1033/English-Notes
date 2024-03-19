@@ -73,122 +73,100 @@ ChatGPT 4.0 translations
 
 #### 单词翻译表格
 
-*注：因为单词太多，所以省略了 **单词解释** 部分*。
+*注：因为单词太多，所以省略了大部分的 **单词解释***。
 
-| 单词        | 美式发音           | 词类 + 汉语释义       | 示例                                                         |
-| ----------- | ------------------ | --------------------- | ------------------------------------------------------------ |
-| preliminary | `/prɪˈlɪmɪˌneri/`  | adj. 初步的；预备的   | He conducted preliminary research before starting the project. (在开始项目前，他进行了初步研究。)<br>They held a preliminary meeting to discuss the plan. (他们举行了预备会议来讨论计划。) |
-| task        | `/tæsk/`           | n. 任务               | Completing this task will require careful planning. (完成这项任务将需要仔细规划。) |
-| available   | `/əˈveɪləbəl/`     | adj. 可用的；可获得的 | The report will be available online. (报告将在线上提供。)<br>Are there any tickets available for tonight's show? (今晚的演出还有票吗？) |
-| rudimentary | `/ˌruːdɪˈmɛntəri/` | adj. 基础的；初步的   | He has rudimentary skills in cooking. (他具有基础的烹饪技能。)<br>They discussed the rudimentary concepts of the theory. (他们讨论了该理论的初步概念。) |
-| convincing  | `/kənˈvɪnsɪŋ/`     | adj. 有说服力的       | Her explanation was clear and convincing. (她的解释清晰而有说服力。) |
-| convince    | `/kənˈvɪns/`       | v. 说服；使相信       | It took some time to convince the committee of the plan's merits. (花了一些时间才说服委员会相信该计划的优点。) |
-| nasal       | `/ˈneɪzəl/`        | adj. 鼻的             | Nasal passages can become blocked when you have a cold. (感冒时鼻腔可能会堵塞。) |
-| set out     | `/sɛt ˈaʊt/`       | phr. v. 开始；出发    | They set out early to catch the first light of dawn. (他们一早出发以捕捉黎明的第一缕光线。) |
-| harness     | `/ˈhɑːrnɪs/`       | v. 利用；控制         | Engineers are finding ways to harness wind energy efficiently. (工程师们正在寻找有效利用风能的方法。) |
-| recognize   | `/ˈrɛkəɡnaɪz/`     | v. 识别；认出         | He failed to recognize the signs of fatigue in his team. (他没能识别出团队中的疲劳迹象。)<br>She was recognized for her contributions to science. (她因对科学的贡献而获得认可。) |
-| Cambridge   | `/ˈkeɪmbrɪdʒ/      | n. 剑桥（英国城市名） |                                                              |
-
-| 单词        | 美式发音        | 词类 + 汉语释义                        | 示例                                                         |
-| ----------- | --------------- | -------------------------------------- | ------------------------------------------------------------ |
-| utter       | `/ˈʌtər/`       | adj. 完全的；彻底的<br>v. 说；发出声音 | adj. It was an utter disaster. (这是彻底的灾难。)<br>v. He uttered a few words in Spanish. (他用西班牙语说了几个词。) |
-| summation   | `/səˈmeɪʃən/`   | n. 总结；总和                          | The report ended with a summation of the findings. (报告以对发现的总结结束。) |
-| rather than | `/ˈræðər ðæn/`  | conj. 而不是                           | She decided to write an email rather than call. (她决定写电子邮件而不是打电话。) |
-| beard       | `/bɪrd/`        | n. 胡须                                | He grew a beard during the lockdown. (在封锁期间，他留了胡须。) |
-| bear        | `/ber/`         | v. 承担；忍受 <br />n. 熊              | v. It's hard to bear the pain. <br />(很难忍受这种痛苦。) <br />n. We saw a bear in the woods. <br />(我们在树林里看到了一只熊。) |
-| adjustment  | `/əˈdʒʌstmənt/` | n. 调整；调节                          | Making small adjustments to your diet can improve your health. (对饮食进行小的调整可以改善你的健康。) |
-| turn        | `/tɜrn/`        | v. 转动；转变<br>n. 转弯；机会         | v. She turned the knob and opened the door. (她转动旋钮并打开了门。)<br>n. It's your turn to play the game. (轮到你玩游戏了。) |
-| migration   | `/maɪˈɡreɪʃən/` | n. 迁移；移民                          | The annual migration of the wildebeest is a spectacular sight. (年度的角马迁徙是壮观的景象。) |
-| grow        | `/ɡroʊ/`        | v. 生长；增长                          | Plants grow faster in the right conditions. (在适宜的条件下，植物生长得更快。) |
-| resist      | `/rɪˈzɪst/`     | v. 抵抗；抗拒                          | It's hard to resist the temptation of sweets. (很难抗拒甜食的诱惑。) |
-| tip         | `/tɪp/`         | n. 尖端；小费<br>v. 倾斜；给小费       | n. The tip of the pen is very fine. (这支笔的尖非常细。)<br>v. He tipped the waiter generously. (他慷慨地给服务员小费。) |
-
-这个表格为上述单词提供了汉语释义和相应的示例，旨在帮助您更好地理解和记忆每个单词。如果您需要进一步的解释或有其他单词要查询，请告诉我。
-
-| 单词         | 美式发音          | 词类 + 汉语释义              | 示例 |
-| ------------ | ----------------- | ---------------------------- | ---- |
-| preliminary  | `/prɪˈlɪmɪˌneri/  | adj. 初步的；预备的          |      |
-| task         | `/tæsk/           | n. 任务；工作                |      |
-| Cambridge    | `/ˈkeɪmbrɪdʒ/     | n. 剑桥（英国城市名）        |      |
-| available    | `/əˈveɪləbəl/     | adj. 可用的；可获得的        |      |
-| rudimentary  | `/ˌruːdɪˈmentəri/ | adj. 基础的；初步的          |      |
-| convincing   | `/kənˈvɪnsɪŋ/     | adj. 有说服力的；令人信服的  |      |
-| convince     | `/kənˈvɪns/       | v. 说服；使确信              |      |
-| nasal        | `/ˈneɪzəl/        | adj. 鼻的；n. 鼻音           |      |
-| set out      | `/set ˈaʊt/`      | phr. v. 出发；开始           |      |
-| harness      | `/ˈhɑːrnɪs/       | v. 利用；n. 马具             |      |
-| recognize    | `/ˈrekəɡˌnaɪz/    | v. 认出；承认                |      |
-| summation    | `/sʌˈmeɪʃən/`     | n. 总和；总结                |      |
-| rather than  | `/ˈræðər ˈðæn/    | conj. 而不是                 |      |
-| beard        | `/bɪrd/           | n. 胡须                      |      |
-|              |                   |                              |      |
-| adjustment   | `/əˈdʒʌstmənt/    | n. 调整；调节                |      |
-| turn         | `/tɜːrn/          | v. 转动；变成 n. 转弯；轮流  |      |
-| migration    | `/maɪˈɡreɪʃən/    | n. 迁移；移居                |      |
-| grow         | `/ɡroʊ/           | v. 生长；增长                |      |
-| resist       | `/rɪˈzɪst/        | v. 抵抗；反抗                |      |
-| negotiation  | `/nɪˌɡoʊʃiˈeɪʃən/ | n. 谈判；协商                |      |
-| legend       | `/ˈledʒənd/       | n. 传说；图例                |      |
-| disturb      | `/dɪˈstɜːrb/      | v. 打扰；扰乱                |      |
-| infringement | `/ɪnˈfrɪndʒmənt/  | n. 侵犯；违反                |      |
-| infringe     | `/ɪnˈfrɪndʒ/      | v. 侵犯；违反                |      |
-| advance      | `/ədˈvæns/        | v. 前进；推进 n. 进展        |      |
-| film         | `/fɪlm/           | n. 电影；薄膜 v. 拍摄        |      |
-| plane        | `/pleɪn/          | n. 飞机；平面 adj. 平坦的    |      |
-| crew         | `/kruː/           | n. 全体船员；团队            |      |
-| youth        | `/juːθ/           | n. 青年；年轻时期            |      |
-| reasonable   | `/ˈrizənəbəl/     | adj. 合理的；适度的          |      |
-| spoon        | `/spun/           | n. 勺子                      |      |
-| bucket       | `/ˈbʌkɪt/         | n. 桶；水桶                  |      |
-| structure    | `/ˈstrʌktʃər/     | n. 结构；建筑物              |      |
-| refer        | `/rɪˈfɜːr/        | v. 参考；涉及                |      |
-| referee      | `/ˌrefəˈriː/      | n. 裁判；仲裁人              |      |
-| renew        | `/rɪˈnjuː/        | v. 更新；续约                |      |
-| proud        | `/praʊd/          | adj. 自豪的；骄傲的          |      |
-| float        | `/floʊt/          | v. 漂浮；n. 浮标             |      |
-| attain       | `/əˈteɪn/         | v. 达到；获得                |      |
-| underage     | `/ˌʌndərˈeɪdʒ/    | adj. 未成年的                |      |
-| honorable    | `/ˈɑnərəbəl/      | adj. 光荣的；尊敬的          |      |
-| sandal       | `/ˈsændl/         | n. 凉鞋；拖鞋                |      |
-| commute      | `/kəˈmjuːt/       | v. 通勤；交换                |      |
-| transparent  | `/trænsˈpærənt/   | adj. 透明的；易懂的          |      |
-| desire       | `/dɪˈzaɪər/`      | n. 欲望；渴望；v. 渴望；希望 |      |
-| desirous     | `/dɪˈzaɪrəs/`     | adj. 渴望的；想望的          |      |
-| tactic       | `/ˈtæktɪk/        | n. 策略；手段                |      |
-| endless      | `/ˈɛndləs/        | adj. 无尽的；无止境的        |      |
-| refer        | `/rɪˈfɜːr/        | v. 参考；提到                |      |
-| invoke       | `/ɪnˈvoʊk/        | v. 调用；引起                |      |
-| spray        | `/spreɪ/          | n. 喷雾；v. 喷洒；涂抹       |      |
-| steal        | `/stiːl/          | v. 偷窃；悄悄地做            |      |
-| ink          | `/ɪŋk/            | n. 墨水；v. 签署；涂墨       |      |
-| practice     | `/ˈpræktɪs/       | n. 实践；练习 v. 练习；执行  |      |
-| humble       | `/ˈhʌmbəl/        | adj. 谦逊的；简陋的；低下的  |      |
-| minute       | `/ˈmɪnɪt/         | n. 分钟；adj. 微小的；详细的 |      |
-| phrasal      | `/ˈfreɪzəl/       | adj. 短语的；词组的          |      |
-| brush        | `/brʌʃ/           | n. 刷子；v. 刷；轻触         |      |
+| 单词        | 美式发音           | 词类 + 汉语释义                        | 示例                                                         |
+| ----------- | ------------------ | -------------------------------------- | ------------------------------------------------------------ |
+| preliminary | `/prɪˈlɪməneri/`   | adj. 初步的；预备的                    | He conducted preliminary research before starting the project. <br>(在开始项目前，他进行了初步研究。)<br>They held a preliminary meeting to discuss the plan. <br>(他们举行了预备会议来讨论计划。) |
+| task        | `/tæsk/`           | n. 任务                                | Completing this task will require careful planning. <br>(完成这项任务将需要仔细规划。) |
+| available   | `/əˈveɪləbəl/`     | adj. 可用的；可获得的                  | The report will be available online. <br>(报告将在线上提供。)<br>Are there any tickets available for tonight's show?<br /> (今晚的演出还有票吗？) |
+| rudimentary | `/ˌruːdəˈmentəri/` | adj. 基础的；初步的                    | He has rudimentary skills in cooking. <br>(他具有基础的烹饪技能。)<br>They discussed the rudimentary concepts of the theory. <br>(他们讨论了该理论的初步概念。) |
+| convincing  | `/kənˈvɪnsɪŋ/`     | adj. 有说服力的                        | Her explanation was clear and convincing. <br>(她的解释清晰而有说服力。) |
+| convince    | `/kənˈvɪns/`       | v. 说服；使相信                        | It took some time to convince the committee`/kəˈmɪti/` of the plan's merits`/ˈmerɪt/`. <br>(花了一些时间才说服委员会相信该计划的优点。) |
+| nasal       | `/ˈneɪzəl/`        | adj. 鼻的；鼻音的                      | nasal voice. (鼻音)<br />nasal congestion (鼻塞)<br />Nasal passages can become blocked when you have a cold. <br>(感冒时鼻腔可能会堵塞。) |
+| set out     | `/sɛt ˈaʊt/`       | phr. v. 开始；出发                     | They set out early to catch the first light of dawn. <br>(他们一早出发以捕捉黎明的第一缕光线。) |
+| harness     | `/ˈhɑːrnɪs/`       | n. 马具；<br />v. 利用                 | n. The horse was fitted with a harness. <br />(马被装上了马具。)<br/>n. The horse was fitted with a leather harness. <br />(这匹马配上了皮革马具。)<br/>v. We must harness the energy of the sun for electricity. <br />(我们必须利用太阳能来发电。)<br />v. They harnessed solar energy to power the building. <br />(他们利用太阳能为建筑供电。)<br />v. Engineers are finding ways to harness wind energy efficiently. <br>(工程师们正在寻找有效利用风能的方法。) |
+| recognize   | `/ˈrɛkəɡnaɪz/`     | v. 识别；认出                          | He failed to recognize the signs of fatigue in his team. <br>(他没能识别出团队中的疲劳迹象。)<br>She was recognized for her contributions to science. <br>(她因对科学的贡献而获得认可。) |
+| Cambridge   | `/ˈkeɪmbrɪdʒ/`     | n. 剑桥（英国城市名）                  |                                                              |
+|             |                    |                                        |                                                              |
+| utter       | `/ˈʌtər/`          | adj. 完全的；彻底的<br>v. 说；发出声音 | adj. It was an utter disaster. <br>(这是彻底的灾难。)<br>v. He uttered a few words in Spanish. <br>(他用西班牙语说了几个词。) |
+| summation   | `/səˈmeɪʃən/`      | n. 总和；总结                          | The summation of the first ten even numbers is 110. <br />(前十个偶数的总和是 110。)<br />The report ended with a summation of the findings. <br>(报告以对发现的总结结束。) |
+| rather than | `/ˈræðər ðæn/`     | conj. 而不是                           | She decided to write an email rather than call. <br>(她决定写电子邮件而不是打电话。) |
+| beard       | `/bɪrd/`           | n. 胡须                                | full beard. (大胡子)<br />He has had his beard shaved off. <br />(他把胡子刮掉了。) - 现在完成时。<br />He grew a beard during the lockdown. <br>(在封锁期间，他留了胡须。) |
+| bear        | `/ber/`            | v. 承担；忍受 <br />n. 熊              | v. It's hard to bear the pain. <br />(很难忍受这种痛苦。) <br />n. We saw a bear in the woods. <br />(我们在树林里看到了一只熊。) |
+| adjustment  | `/əˈdʒʌstmənt/`    | n. 调整；调节                          | Making small adjustments to your diet can improve your health. <br>(对饮食进行小的调整可以改善你的健康。) |
+| turn        | `/tɜrn/`           | v. 转动；转变<br>n. 转弯；机会         | v. She turned the knob and opened the door. <br>(她转动旋钮并打开了门。)<br>n. It's your turn to play the game. <br>(轮到你玩游戏了。) |
+| migration   | `/maɪˈɡreɪʃən/`    | n. 迁移；移民                          | The annual migration of the wildebeest`/ˈwɪldəbiːst/` is a spectacular sight. <br>(年度的角马迁徙是壮观的景象。) |
+| grow        | `/ɡroʊ/`           | v. 生长；增长                          | Plants grow faster in the right conditions. <br>(在适宜的条件下，植物生长得更快。) |
+| resist      | `/rɪˈzɪst/`        | v. 抵抗；抗拒                          | It's hard to resist the temptation of sweets. <br>(很难抗拒甜食的诱惑。) |
+| tip         | `/tɪp/`            | n. 尖端；小费；建议<br>v. 倾斜；给小费 | n. The tip of the pen is very fine. <br>(这支笔的尖非常细。)<br>v. He tipped the waiter generously. <br>(他慷慨地给服务员小费。) |
 
 #### 单词解释
+
+- **harness (n. & v.)**
+    - 作为名词，**`harness`** 指的是一种 **`马具`**，指马或其他动物拉车时所用的套具。
+    - 作为动词，**`harness`** 表示 **`利用`**，指借助于某种力量或资源进行有效使用，尤其是将自然力量转化为可用的能源或达成特定目的。
 
 - **bear (v. & n.)**：
     - 作为动词，“bear”表示**`承担`**或**`忍受`**某事，涵盖了从物理、情感到责任等方面的容忍或承受能力。
     - 作为名词，"bear" 指的是**`熊`**，一种大型的哺乳动物，常见于森林、山区。
-- 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| 单词         | 美式发音           | 词类 + 汉语释义                                              | 示例                                                         |
+| ------------ | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| negotiation  | `/nɪˌɡoʊʃiˈeɪʃən/` | n. 谈判                                                      | conduct negotiations (进行谈判)<br />break off negotiations (中断谈判)<br />resume negotiations (重启谈判)<br />The successful negotiation resulted in a beneficial agreement. <br>(成功的谈判导致了一个有益的协议。) |
+| legend       | `/ˈlɛdʒənd/`       | n. 传说；图例                                                | According to legend, the city was founded by a mythical hero. <br>(根据传说，这座城市是由一个神话英雄建立的。)<br>The map's legend explains its symbols. <br>(地图的图例解释了其符号。) |
+| disturb      | `/dɪˈstɜːrb/`      | v. 打扰；干扰                                                | I didn't like to disturb you. <br />(我本不愿打扰你。)<br />Sorry to disturb you, but I have an urgent message. <br />(对不起，打扰一下，我有一个紧急消息。)<br />Please do not disturb her while she is studying. <br>(她学习时请不要打扰她。) |
+| infringement | `/ɪnˈfrɪndʒmənt/`  | n. 侵权；违反                                                | patent infringement (专利侵权)<br />The company was sued for copyright infringement. <br>(该公司因侵犯版权被起诉。) |
+| infringe     | `/ɪnˈfrɪndʒ/`      | v. 侵犯；违反                                                | To copy the book would infringe copyright laws. <br>(复制这本书将侵犯版权法。) |
+| film         | `/fɪlm/`           | n. 电影；胶片；薄膜<br>v. 拍摄                               | n. We watched a classic film last night. <br />(我们昨晚看了一部经典电影。)<br>n. We watched a classic film shot`/ʃɑːt/` on 35mm film.<br /> (我们观看了一部用35毫米胶片拍摄的经典电影。)<br />v. They plan to film the documentary in the jungle. <br />(他们计划在丛林中拍摄这部纪录片。) |
+| plane        | `/pleɪn/`          | n. 飞机；平面<br>v. 刨平                                     | n. She took a plane to New York. <br>(她乘飞机去了纽约。)<br>v. The carpenter planed the wood smooth. <br>(木匠将木头刨平。) |
+| youth        | `/juːθ/`           | n. 青年；青春时期                                            | She spent her youth in the countryside. <br>(她在乡下度过了她的青春时光。) |
+|              |                    |                                                              |                                                              |
+| even         | `/ˈiːvən/`         | adj. 平坦的；相等的；偶数的<br/>adv. 甚至；更加<br/>v. 使平衡 | adj. The floor is even. <br>(地板是平坦的。)<br/>adj. Six is an even number. <br>(六是一个偶数。)<br/>adv. He works even harder now. <br>(他现在工作更努力了。)<br/>adv. He didn't even know her name. <br>(他甚至不知道她的名字。)<br />adv. Even young children know the difference between right and wrong. <br>(即使是小孩子也分得清对错。)<br />v. We need to even the scores. <br>(我们需要使比分平衡。) |
+| knob         | `/nɑːb/`           | n. (球形)把手；旋钮                                          | The door knob was broken and needed to be replaced. <br>(门把手坏了，需要更换。) |
+| spectacular  | `/spɛkˈtækjələr/`  | adj. 壮观的；引人注目的                                      | The fireworks display was truly spectacular. <br>(烟火表演真是壮观。) |
+| fine         | `/faɪn/`           | adj. 优质的；细致的；晴朗的<br/>adv. 很好地<br/>n. 罚款<br/>v. 罚款 | adj. The detail in the painting is very fine. <br>(画中的细节非常细致。)<br/>adj. We had fine weather on our trip. <br>(我们旅行时遇到了晴朗的天气。)<br/>adv. She performed fine in the play. <br>(她在剧中表现得很好。)<br/>adv. The dress fitted me fine. <br>(这条连衣裙我穿正合身。)<br />n. He paid a fine for speeding. <br>(他因超速驾驶而缴纳了罚款。)<br/>n. He had to pay a fine for speeding. <br>(他因超速被罚款。)<br />v. The company was fined for breaking environmental regulations. <br>(该公司因违反环境规定而被罚款。) |
+| shot         | `/ʃɑːt/`           | n. 射击；射门；〔电影﹑电视节目中的〕镜头<br />v. 射击       | n. She was killed by a single shot to the head. <br />(她被人击中头部一枪打死。)<br />n. His shot hit the bar. (他射门集中球门的横梁。)<br />n. The final shot of the movie was breathtaking. <br>(电影的最后一镜非常震撼。)<br>v. He shot an arrow at the target. <br>(他向目标射了一箭。) |
+| mythical     | `/ˈmɪθɪkəl/`       | adj. 神话的；虚构的                                          | The story is based on mythical creatures like dragons and unicorns. <br>(这个故事是基于龙和独角兽这样的神话生物。) |
+|              |                    |                                                              |                                                              |
+|              |                    |                                                              |                                                              |
+|              |                    |                                                              |                                                              |
+|              |                    |                                                              |                                                              |
+|              |                    |                                                              |                                                              |
+|              |                    |                                                              |                                                              |
+|              |                    |                                                              |                                                              |
+|              |                    |                                                              |                                                              |
+| reasonable   | `/ˈrizənəbəl/      | adj. 合理的；适度的                                          |                                                              |
+| spoon        | `/spun/            | n. 勺子                                                      |                                                              |
+| bucket       | `/ˈbʌkɪt/          | n. 桶；水桶                                                  |                                                              |
+| structure    | `/ˈstrʌktʃər/      | n. 结构；建筑物                                              |                                                              |
+| refer        | `/rɪˈfɜːr/         | v. 参考；涉及                                                |                                                              |
+| referee      | `/ˌrefəˈriː/       | n. 裁判；仲裁人                                              |                                                              |
+| renew        | `/rɪˈnjuː/         | v. 更新；续约                                                |                                                              |
+| proud        | `/praʊd/           | adj. 自豪的；骄傲的                                          |                                                              |
+| float        | `/floʊt/           | v. 漂浮；n. 浮标                                             |                                                              |
+| attain       | `/əˈteɪn/          | v. 达到；获得                                                |                                                              |
+|              |                    |                                                              |                                                              |
+| underage     | `/ˌʌndərˈeɪdʒ/     | adj. 未成年的                                                |                                                              |
+| honorable    | `/ˈɑnərəbəl/       | adj. 光荣的；尊敬的                                          |                                                              |
+| sandal       | `/ˈsændl/          | n. 凉鞋；拖鞋                                                |                                                              |
+| commute      | `/kəˈmjuːt/        | v. 通勤；交换                                                |                                                              |
+| transparent  | `/trænsˈpærənt/    | adj. 透明的；易懂的                                          |                                                              |
+| desire       | `/dɪˈzaɪər/`       | n. 欲望；渴望；v. 渴望；希望                                 |                                                              |
+| desirous     | `/dɪˈzaɪrəs/`      | adj. 渴望的；想望的                                          |                                                              |
+| tactic       | `/ˈtæktɪk/         | n. 策略；手段                                                |                                                              |
+| endless      | `/ˈɛndləs/         | adj. 无尽的；无止境的                                        |                                                              |
+| refer        | `/rɪˈfɜːr/         | v. 参考；提到                                                |                                                              |
+|              |                    |                                                              |                                                              |
+| invoke       | `/ɪnˈvoʊk/         | v. 调用；引起                                                |                                                              |
+| spray        | `/spreɪ/           | n. 喷雾；v. 喷洒；涂抹                                       |                                                              |
+| steal        | `/stiːl/           | v. 偷窃；悄悄地做                                            |                                                              |
+| ink          | `/ɪŋk/             | n. 墨水；v. 签署；涂墨                                       |                                                              |
+| practice     | `/ˈpræktɪs/        | n. 实践；练习 v. 练习；执行                                  |                                                              |
+| humble       | `/ˈhʌmbəl/         | adj. 谦逊的；简陋的；低下的                                  |                                                              |
+| minute       | `/ˈmɪnɪt/          | n. 分钟；adj. 微小的；详细的                                 |                                                              |
+| phrasal      | `/ˈfreɪzəl/        | adj. 短语的；词组的                                          |                                                              |
+| brush        | `/brʌʃ/            | n. 刷子；v. 刷；轻触                                         |                                                              |
 
 
 
@@ -219,9 +197,13 @@ ChatGPT 4.0 translations
 | versatile | `/ˈvɜːrsətəl/` | adj. 多才多艺的；多用途的 | He is a versatile musician who can play several instruments. <br>(他是一位能演奏多种乐器的多才多艺的音乐家。) |
 | reliable | `/rɪˈlaɪəbəl/` | adj. 可靠的 | She is a reliable employee who always completes her tasks on time. <br>(她是一位总是准时完成任务的可靠员工。) |
 | heritage | `/ˈhɛrɪtɪdʒ/` | n. 遗产 | The city is known for its rich cultural heritage. <br>(这个城市以其丰富的文化遗产而闻名。) |
-| advance     | `/ədˈvæns/`    | v. 推进；促进；<br />n. 进步；提前 | v. They plan to advance the project deadline. <br />(他们计划提前项目截止日期。)<br>n. The advance of technology brings new challenges. <br />(技术的进步带来了新的挑战。)<br />n.  I should **warn** you **in advance** that I’m not a very good dancer.<br />(我要先提醒你﹐我跳舞不是很好。) |
+| advance     | `/ədˈvæns/`    | v. 推进；促进；<br />n. 进步；提前 | v. They plan to advance the project deadline. <br />(他们计划提前项目截止日期。)<br>v. The team is working hard to advance their project. <br/>(团队正在努力推进他们的项目。)<br/>n. The advance of technology brings new challenges. <br />(技术的进步带来了新的挑战。)<br />n.  I should **warn** you **in advance** that I’m not a very good dancer.<br />(我要先提醒你﹐我跳舞不是很好。)<br />n. They received an advance on their salary. <br/>(他们预先收到了工资。)<br />n. He paid for the car in advance. <br />(他提前支付了汽车款项。) |
 | fabric | `/ˈfæbrɪk/` | n. 织物 | This shirt is made of breathable fabric. <br>(这件衬衫是用透气的织物制成的。) |
 | utilize | `/ˈjuːtəlaɪz/` | v. 利用；使用 | They utilize solar panels to generate electricity. <br>(他们利用太阳能板发电。) |
+
+
+
+
 
 #### 单词解释
 
@@ -613,6 +595,7 @@ ChatGPT 4.0 translations
 - **ambiguous (adj.)**：
     - "ambiguous" 表示**`模棱两可的`**或**`不明确的`**。这通常用于描述那些可以有多种解释、不清楚或不确切的言语、情况或态度。例如，一个不明确的回答可能会让人疑惑，不知道确切的含义或意图。
 - **festive (adj.)**：
+  
     - 作为形容词，"festive" 指的是**`节日的`**，通常用来描述与节日相关的活动、装饰或氛围，如节日庆祝活动或节日装饰等。同时，“festive”也表达**`欢乐的`**，用于形容充满快乐和庆祝情绪的场合或状态。
 
 
@@ -1795,7 +1778,7 @@ ChatGPT 4.0 translations
 
 ## ▲ 单词书写规则：
 
-(1) 汉语释义只写常用的 2 个（最多 3 个），常用的依据来自欧路词典、chatGPT、Google translate 三个软件的对比。
+(1) 汉语释义只写常用的 2 个（最多 3 个），常用的依据来自欧路词典、chatGPT、Google translate 三个软件的对比；主要来自 ChatGPT 4.0 的翻译，参考欧路词典做交叉验证。
 
 (2) 动词统一的只写 `v.`，不分 vt (verb transitive) 和 vi (verb intransitive)。
 
@@ -1806,8 +1789,6 @@ ChatGPT 4.0 translations
 - 如果动词词性(verb part of speech) 比名词词性重要，那么动词词性放在首位。
 
 (4) 形容词（adjective）的所有汉语释义都添加 `的`，也是为了下面的背诵做铺垫。
-
-
 
 
 
