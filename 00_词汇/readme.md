@@ -176,7 +176,7 @@ ChatGPT 4.0 translations
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+注：下面表格单词已写到 Goodnotes - 笔记日期：2024.03.19
 
 #### 单词翻译表格
 
