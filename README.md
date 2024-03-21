@@ -8,6 +8,39 @@
 
 
 
+
+
+1. magnificent /mæɡˈnɪfɪsnt/ 壮丽的；宏伟的；值得赞扬的
+2. primeval /praɪˈmiːvl/ adj. 原始的;远古的
+3. boa constrictor /ˈbəʊə kənstrɪktə(r)/ 巨蚺(南美蟒，捕食时把猎物缢死)
+4. in the act of /ɪn ðə ækt ɒv/ 正在做…
+5. chewing /ˈtʃuːɪŋ/
+6. prey /preɪ/
+7. pondered /ˈpɒndəd/ /d/ 没读  v.考虑;沉思;琢磨 ponder的过去分词和过去式~ (about/on/over sth)
+8. adventures /ədˈvɛntʃəz/
+9. jungle /ˈdʒʌŋɡl/ 丛林
+10. have things explained have “使，让”
+11. have +宾语+done (即动词过去分词) 结构，宾语被done
+12. have +宾语+do sth 动作的执行者为宾语 
+13. have +宾语+doing sth 动作的执行者为宾语,但是动词必须是持续性动词/延续性动词，后面常接一个时间段
+14. have +宾语+形容词/副词/介词短语 促使某一动作发生
+15. Please have your money ready.请准备好钱
+16. devote /dɪˈvəʊt/
+17. **devote yourself to sb/sth** 献身；致力；专心
+18. **devote sth to sth** 把…用于
+19. arithmetic /əˈrɪθmətɪk/ 算术
+20. disheartened /dɪsˈhɑːtnd/ adj.灰心的;失望的;气馁的
+21. always and forever 永远
+22. 为什么用to be explaining而不用 to explain：to be explaining可以表示一个持续的状态（文心一言回答）
+
+
+
+
+
+
+
+
+
 ## ▲ 【罗肖尼】如何永远学会一个单词？
 
 *Added: 2024.03.09*
@@ -411,6 +444,77 @@ Hello GPT, 当前对话你是一个英语专家、专业的单词翻译员，你
 > 3. 高级水平：*《英语语法的长期参考书》（A Comprehensive Grammar of the English Language）by Randolph Quirk, Sidney Greenbaum, Geoffrey Leech, and Jan Svartvik.* 这是一本涵盖英语语法的完整教科书，适合高级英语学习者和专业人士。
 > 
 > 除了这些书，还有许多其他优秀的英语语法书籍和在线资源可供选择，包括网络课程、练习和交互式学习材料。根据自己的水平和需求选择适合自己的资源进行学习。
+
+
+
+
+
+## ▲ 英文书刊名的标示方法
+
+> 参考中华人民共和国新闻出版行业标准 CY/T 154—2017号《中文出版物夹用英文的编辑规范》第10章“英文书刊名的标示方法”：
+
+10.1、中文句子内夹有英文书籍名、报刊名时，不应借用中文书名号，应以英文斜体表示。
+
+- 示例1：《今日晨报》第 4 版转载的那篇有关饮食结构的文章译自周一出版的 *Football Daily*。
+
+- 示例2：她在《中国出版》、《出版发行研究》、*Learned Publishing* 等国内外期刊发表过数篇文章。
+
+10.2、中文句子内夹有英文文章的标题，该标题使用英文正体字，用中文引号标示。
+
+- 示例：*World of Tomorrow* 是去年的畅销书，其中第七篇文章 “Will Human Be Joyfully Enslaved by Cellphone？” 在读者中成为热门话题。 (笔者注：英文正体字为什么不用英文标点符号标示？我个人习惯用英文标示。)
+
+10.3、中文句子内夹有的英文书名中带有的副书名用冒号标示；夹有英文的文章副标题，用英文破折号标示。
+
+- 示例 1：他昨天网购的那本原版书 *Self Regained：A Journey to Shangri-La*，中文名是不是可翻译为《凤凰涅槃： 香格里拉之行》？
+
+- 示例 2：她的毕业论文最后定名为 “Affecting Factors on Second Language Acquisition — A Survey of Foreign Students Learning Chinese in China”。
+
+
+
+## ▲ 如何正确使用和打出英文的破折号？
+
+### hyphen、em dash 和 en dash 是什么？
+
+#### ChatGPT 4.0:
+
+Hyphen（连字符）、em dash（破折号）、和 en dash（短破折号）是英文中常用的三种标点符号，它们的长度和用途各不相同：
+
+##### 1、Hyphen (连字符)
+- 符号：`-`
+- 用途：
+    - (1) 连接两个相关的词汇。如`twenty-three`（二十三）、`long-term`（长期的）。
+    - (2) 分割单词，尤其在文本自动换行时。
+
+##### 2、En dash (短破折号)
+- 符号：`–`（比连字符长，但比破折号短）
+- 用途：
+    - (1) 表示数值范围。如`10–20`（10到20）。
+    - (2) 连接两个具有相等关系的词汇。如`London–Paris flight`（伦敦至巴黎的航班）。
+
+##### 3、Em dash (破折号)
+
+- 符号：`—`（比连字符和短破折号都长）
+- 用途：
+    - (1) 引入附加信息或插入语。如`He loves three things—football, burgers, and fast cars`（他喜欢三件事——足球、汉堡和快车）。
+    - (2) 表示话语的中断或转折，增加语句的强调效果。
+
+在键盘上输入这些符号的方法各不相同。例如，在大多数键盘上，连字符是直接可用的，而破折号通常需要通过组合键输入（如在Word中，可以通过输入两个连字符后跟空格自动转换为em dash）。不同的操作系统和文本编辑器可能有不同的快捷键或方法来输入这些符号。
+
+### 三个破折号的输入方式
+
+这里是如何在Mac和Windows上输入Hyphen、En dash 和 Em dash 的表格：
+
+| 符号类型           | 符号 | Mac 快捷键               | Windows 快捷键          |
+| ------------------ | ---- | ------------------------ | ----------------------- |
+| Hyphen (连字符)    | `-`  | 直接按键盘上的 `-` 键    | 直接按键盘上的 `-` 键   |
+| En dash (短破折号) | `–`  | `Option` + `-`           | `Alt` + `0150` (小键盘) |
+| Em dash (破折号)   | `—`  | `Option` + `Shift` + `-` | `Alt` + `0151` (小键盘) |
+
+注意：
+
+- 对于Windows，使用数字小键盘输入数字代码时，需要确保Num Lock键处于打开状态。
+- 在Mac上，`Option`键有时也被称为`Alt`键。
+
 
 
 
