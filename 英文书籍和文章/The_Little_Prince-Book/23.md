@@ -1,0 +1,21 @@
+## Chapter 23
+
+**-The little prince encounters a merchant (seller)**
+
+
+
+"Good morning," said the little prince.
+
+"Good morning," said the merchant.
+
+This was a merchant who sold pills that had been invented to quench 抑制 thirst. You need only swallow one pill a week, and you would feel no need of anything to drink.
+
+"Why are you selling those?" asked the little prince.
+
+"Because they save a tremendous amount of time," said the merchant. "Computations 计算 have been made by experts. With these pills, you save fifty-three minutes in every week."
+
+"And what do I do with those fifty-three minutes?"
+
+"Anything you like."
+
+"As for me," said the little prince to himself, "if I had fifty-three minutes to spend as I liked, I should walk at my leisure toward a spring of fresh water." 

@@ -61,6 +61,33 @@ advantage `/ədˈvæntɪdʒ/` 和 advice `/əd'vaɪs/`，读音中第一个是�
 
 
 
+### Added: 2024.03.22
+ChatGPT 4.0 translations
+
+~~注：下面表格单词已写到 Goodnotes~~
+
+### 单词翻译表格
+
+| 单词              | 美式发音                                     | 词类 + 汉语释义                | 示例                                                         |
+| ----------------- | -------------------------------------------- | ------------------------------ | ------------------------------------------------------------ |
+| preface           | `/ˈprɛfɪs/`                                  | n. 序言                        | The author added a personal anecdote in the preface.<br>(作者在序言中加入了一个个人轶事。) |
+| hyphen            | `/ˈhaɪfən/`                                  | n. 连字符                      | Words are often connected by a hyphen to form a compound term.<br>(单词经常通过连字符连接形成复合词。) |
+| dash              | `/dæʃ/`                                      | n. 破折号                      | Use a dash to introduce a list or an explanation.<br>(使用破折号来引入列表或解释。) |
+| dine              | `/daɪn/`                                     | v. 用餐                        | They dined under the stars on the beach.<br>(他们在海滩上的星空下用餐。) |
+| compromise        | `/ˈkɑːmprəmaɪz/`                             | n. 妥协；折中方案<br>v. 妥协   | n. In the negotiations, both sides reached a compromise. <br />(在谈判中，双方达成了妥协。)<br>v. We should not compromise our principles. <br />(我们不应该妥协我们的原则。) |
+| not-so-nicely-lit | N/A                                          | adj. 照明不佳的                | The corridor was not-so-nicely-lit, creating a gloomy atmosphere.<br>(走廊照明不佳，营造出阴郁的氛围。) |
+| campus            | `/ˈkæmpəs/`                                  | n. 校园                        | The campus was buzzing with activity during the festival.<br>(节日期间，校园内活动繁忙。) |
+| off-campus        | `/ˌɔfˈkæmpəs/`                               | adj. 校园外的                  | Off-campus housing can be cheaper than living in dormitories.<br>(校外住宿的费用可能比住宿舍更便宜。) |
+| state-of-the-art  | `/ˌsteɪt əv ði ˈɑrt/`                        | adj. 最先进的                  | The laboratory is equipped with state-of-the-art instruments.<br>(实验室配备了最先进的仪器。) |
+| allergen          | `/ˈælərdʒən/`                                | n. 过敏原                      | Dust mites are a common allergen in homes.<br>(尘螨是家庭中常见的过敏原。)<br />Pollen is a common allergen that triggers hay fever.<br/>(花粉是引发花粉热的常见过敏原。) |
+| digest            | `/daɪˈdʒɛst/` (v.), <br />`/ˈdaɪdʒɛst/` (n.) | v. 消化；理解<br>n. 摘要；文摘 | v. It takes time to digest complex information. <br />(需要时间来消化复杂的信息。)<br>n. She read a digest of the week's news. <br />(她阅读了一周新闻的摘要。) |
+
+
+
+
+
+
+
 ### Re-edit: 2024.03.18-19
 
 *Added: 2024.01.14*
