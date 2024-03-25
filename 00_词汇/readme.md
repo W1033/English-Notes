@@ -147,24 +147,24 @@ ChatGPT 4.0 translations
 
 根据您的要求，这里是针对给定单词的详细翻译表格：
 
-| 单词        | 美式发音         | 词类 + 汉语释义                          | 示例                                                         |
-| ----------- | ---------------- | ---------------------------------------- | ------------------------------------------------------------ |
-| drum        | `/drʌm/`         | n. 鼓；v. 击鼓                           | n. He plays the drum in a band.<br />(他在乐队中演奏鼓。)<br />v. He drummed his fingers on the table.<br />(他在桌子上敲击着手指。) |
-| aware       | `/əˈwer/`        | adj. 意识到的                            | She was aware of the problem.<br />(她意识到了问题。)        |
-| awareness   | `/əˈwernəs/`     | n. 意识，认识                            | Raising awareness about health is important.<br />(提高健康意识很重要。) |
-| mill        | `/mɪl/`          | n. 磨坊，工厂；<br />v. 研磨，加工       | n. The old mill is a historic site.<br />(那座老磨坊是一个历史遗址。)<br />v. The farmer mills wheat into flour.<br />(农民把小麦磨成面粉。) |
-| normal      | `/ˈnɔːrməl/`     | adj. 正常的，常规的；<br />n. 常态，标准 | His behavior is perfectly normal.<br />(他的行为完全正常。)  |
-| range       | `/reɪndʒ/`       | n. 范围，系列；<br />v. 排列，变动       | n. The store offers a wide range of products.<br />(这家商店提供了广泛的产品范围。)<br />v. The discussion ranged over several topics.<br />(讨论涵盖了几个话题。) |
-| vast        | `/væst/`         | adj. 广阔的，巨大的                      | The vast plains stretch for miles.<br />(辽阔的平原延伸数英里。) |
-| exhaust     | `/ɪgˈzɔːst/`     | v. 使筋疲力尽，耗尽<br />n. 排气，废气； | v. The long journey exhausted them.<br />(长途旅行使他们筋疲力尽。)<br />n. The car's exhaust was loud and smoky.<br />(汽车的排气响亮且冒烟。) |
-| disillusion | `/ˌdɪsɪˈluːʒən/` | n. 幻灭，觉醒；<br />v. 使醒悟，幻想破灭 | n. The end of the affair marked his disillusion with love.<br />(这段恋情的结束标志着他对爱情的幻灭。)<br />v. The realities of life disillusioned her.<br />(生活的现实使她幻想破灭。) |
-| fatigue     | `/fəˈtiːɡ/`      | n. 疲劳，疲乏；<br />v. 使疲劳，疲惫     | n. The symptoms of the illness include fatigue.<br />(这种病的症状包括疲劳。)<br />v. The continuous work fatigued him.<br />(连续的工作使他感到疲劳。) |
+| 单词        | 美式发音         | 词类 + 汉语释义                            | 示例                                                         |
+| ----------- | ---------------- | ------------------------------------------ | ------------------------------------------------------------ |
+| drum        | `/drʌm/`         | n. 鼓；v. 敲击                             | n. He plays the drum in a band.<br />(他在乐队中演奏鼓。)<br />v. He drummed his fingers on the table.<br />(他在桌子上敲击着手指。) |
+| aware       | `/əˈwer/`        | adj. 意识到的                              | She was aware of the problem.<br />(她意识到了问题。)        |
+| awareness   | `/əˈwernəs/`     | n. 意识，认识                              | Self-Awareness (自我意识/自我认知)<br />Raising awareness about health is important.<br />(提高健康意识很重要。) |
+| mill        | `/mɪl/`          | n. 磨坊；工厂；<br />v. 研磨；加工         | n. The old mill is a historic site.<br />(那座老磨坊是一个历史遗址。)<br />v. The farmer mills wheat into flour.<br />(农民把小麦磨成面粉。) |
+| normal      | `/ˈnɔːrməl/`     | adj. 正常的，常规的；<br />n. 常态，标准   | His behavior is perfectly normal.<br />(他的行为完全正常。)  |
+| range       | `/reɪndʒ/`       | n. 范围，系列；<br />v. 排列，变动         | n. The store offers a wide range of products.<br />(这家商店提供了广泛的产品范围。)<br />v. The discussion ranged over several topics.<br />(讨论涵盖了几个话题。) |
+| vast        | `/væst/`         | adj. 广阔的，巨大的                        | The vast plains stretch for miles.<br />(辽阔的平原延伸数英里。) |
+| exhaust     | `/ɪgˈzʌːst/`     | v. 使筋疲力尽，耗尽<br />n. 排气，废气；   | v. The long journey exhausted them.<br />(长途旅行使他们筋疲力尽。)<br />n. The car's exhaust was loud and smoky.<br />(汽车的排气响亮且冒烟。) |
+| disillusion | `/ˌdɪsɪˈluːʒən/` | n. 幻灭；醒悟；<br />v. 使幻想破灭；使醒悟 | n. The end of the affair marked his disillusion with love.<br />(这段恋情的结束标志着他对爱情的幻灭。)<br />v. The realities of life disillusioned her.<br />(生活的现实使她幻想破灭。) |
+| fatigue     | `/fəˈtiːɡ/`      | n. 疲劳，疲乏；<br />v. 使疲劳             | n. The symptoms of the illness include fatigue.<br />(这种病的症状包括疲劳。)<br />v. The continuous work fatigued him.<br />(连续的工作使他感到疲劳。) |
 
 ### 单词解释
 
 1. **drum (n. & v.)**
    - 作为名词，drum 指的是 **`鼓`**，这是一种打击乐器，通常由圆筒形的框架和紧绷的膜组成，通过用鼓棒或手敲打来发声。
-   - 作为动词，drum 描述在鼓或任何平面上 **`敲打`** 的动作，以产生节奏或声响。
+   - 作为动词，它主要指的是敲打的动作，特别是在鼓或类似的表面上 **`敲击`** 以产生声音。动词形式的“drum”常用于描述任何重复性的敲打行为，不仅限于音乐演奏中的鼓击。
 
 2. **aware (adj.)**
    - 形容词 aware 表示 **`意识到的`** 或 **`知道的`**，用于描述一个人对某情况或信息有认知和理解。
