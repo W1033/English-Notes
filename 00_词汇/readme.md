@@ -125,14 +125,54 @@ advantage `/ədˈvæntɪdʒ/` 和 advice `/əd'vaɪs/`，读音中第一个是�
 
 ## ▲ 待编辑生词
 
+### Added: 2024.03.27
+
+ChatGPT 4.0 translations
+
+~~注：下面表格单词已写到 Goodnotes~~
+
+| 单词          | 美式发音             | 词类 + 汉语释义        | 示例                                                         |
+| ------------- | -------------------- | ---------------------- | ------------------------------------------------------------ |
+| puke          | `/pjuːk/            | v. 呕吐                | He felt like he was going to puke after the ride.<br />(他觉得骑完后要呕吐了。) |
+| dude          | `/duːd/             | n. 家伙；哥们儿        | That dude knows how to party!<br />(那个家伙知道怎么派对！)  |
+| dud           | `/dʌd/              | n. 失败者；无用的东西  | The fireworks were a dud.<br />(那些烟花是次品。)            |
+| impersonation | `/ˌɪmpɜːrsəˈneɪʃən/ | n. 扮演；模仿          | His impersonation of the president was hilarious.<br />(他模仿总统的样子非常搞笑。) |
+| impersonate   | `/ɪmˈpɜːrsəˌneɪt/   | v. 扮演；模仿          | He was arrested for impersonating a police officer.<br />(他因冒充警察被逮捕。) |
+| explode       | `/ɪkˈsploʊd/        | v. 爆炸；激增          | The bomb exploded in a remote area.<br />(炸弹在偏远地区爆炸了。) |
+| decadence     | `/ˈdɛkədəns/        | n. 堕落，颓废          | The book describes the decadence of the empire.<br />(这本书描述了帝国的堕落。) |
+| rig           | `/rɪɡ/              | v. 操纵；n. 设备，装置 | v. The election was rigged.<br />(选举被操纵了。)<br />n. The oil rig is off the coast.<br />(石油钻塔在海岸外。) |
+| hinge         | `/hɪndʒ/            | n. 铰链；v. 依...而定  | n. The door's hinge is broken.<br />(门的铰链坏了。)<br />v. The decision hinges on the results of the survey.<br />(决定取决于调查结果。) |
+| corn          | `/kɔːrn/            | n. 玉米                | He planted corn in his backyard.<br />(他在后院种了玉米。)   |
+| synth         | `/sɪnθ/             | n. 合成器              | He plays the synth in a band.<br />(他在乐队里演奏合成器。)  |
+| bald          | `/bɔːld/            | adj. 秃头的            | He is balding at the top of his head.<br />(他的头顶开始秃了。) |
+| facility      | `/fəˈsɪləti/        | n. 设施；设备          | The new facility will open next year.<br />(新设施将于明年开放。) |
+| hatch         | `/hætʃ/             | v. 孵化；n. 舱口，开口 | v. The eggs are about to hatch.<br />(蛋快要孵化了。)<br />n. Open the hatch to get some fresh air.<br />(打开舱口吸点新鲜空气。) |
+| ventilation   | `/ˌvɛntəˈleɪʃən/    | n. 通风                | Proper ventilation is important in a building.<br />(建筑中的适当通风是很重 |
+
+| 单词          | 美式发音         | 词类 + 汉语释义            | 示例                                                         |
+| ------------- | ---------------- | -------------------------- | ------------------------------------------------------------ |
+| infectious    | `/ɪnˈfɛkʃəs/    | adj. 传染的；有感染力的    | The doctor said the disease is highly infectious.<br />(医生说这种病非常容易传染。) |
+| exhaust       | `/ɪɡˈzɔːst/     | v. 使筋疲力尽；n. 排气系统 | v. The long journey exhausted him.<br />(长途旅行使他筋疲力尽。)<br />n. The car's exhaust was leaking.<br />(车的排气系统有泄漏。) |
+| normally      | `/ˈnɔːrməli/    | adv. 通常地                | He is normally very punctual.<br />(他通常非常准时。)        |
+| aggressive    | `/əˈɡrɛsɪv/     | adj. 侵略性的；好斗的      | His aggressive behavior was causing problems.<br />(他好斗的行为引起了问题。) |
+| advisement    | `/ədˈvaɪzmənt/  | n. 考虑，商议              | The proposal is under advisement.<br />(该提案正在考虑中。)  |
+| shaky         | `/ˈʃeɪki/       | adj. 摇晃的；不稳定的      | His alibi for that night seems shaky.<br />(他那天晚上的不在场证明看起来不稳固。) |
+| stun          | `/stʌn/         | v. 使震惊；使晕倒          | The news stunned everyone.<br />(这消息震惊了所有人。)       |
+| advise        | `/ədˈvaɪz/      | v. 建议；通知              | I advise caution in this situation.<br />(我建议在这种情况下要小心。) |
+| unique        | `/juːˈniːk/     | adj. 独特的；唯一的        | Her voice is truly unique.<br />(她的声音真的很独特。)       |
+| adopt         | `/əˈdɑːpt/      | v. 采纳；收养              | They decided to adopt a child.<br />(他们决定收养一个孩子。) |
+| prior         | `/ˈpraɪər/      | adj. 优先的；在前的        | The safety of the crew is our prior concern.<br />(船员的安全是我们首要关注的事项。) |
+| take stock of | `/teɪk stɒk ʌv/ | phr. 评估，审视            | We need to take stock of our resources.<br />(我们需要评估我们的资源。) |
+| ruthless      | `/ˈruːθləs/     | adj. 无情的；残忍的        | He is known for his ruthless business practices.<br />(他以其无情的商业做法而闻名。) |
+| submission    | `/səbˈmɪʃən/    | n. 提交；屈服              | The deadline for the submission of applications is tomorrow.<br />(提交申请的截止日期是明天。) |
+
+
 
 ### Added: 2024.03.26
 
 ChatGPT 4.0 translations
 
 ~~注：下面表格单词已写到 Goodnotes~~
-
-
 
 我明白了，对于最重要的词性，如果有两个重要且相关的汉语翻译，我们应该都提供。这里是修正后的表格，确保主要词性的翻译更为全面：
 
@@ -184,7 +224,7 @@ ChatGPT 4.0 translations
 | range       | `/reɪndʒ/`       | n. 范围，系列；<br />v. 排列，变动         | n. The store offers a wide range of products.<br />(这家商店提供了广泛的产品范围。)<br />v. The discussion ranged over several topics.<br />(讨论涵盖了几个话题。) |
 | vast        | `/væst/`         | adj. 广阔的，巨大的                        | The vast plains stretch for miles.<br />(辽阔的平原延伸数英里。) |
 | exhaust     | `/ɪgˈzʌːst/`     | v. 使筋疲力尽，耗尽<br />n. 排气，废气；   | v. The long journey exhausted them.<br />(长途旅行使他们筋疲力尽。)<br />n. The car's exhaust was loud and smoky.<br />(汽车的排气响亮且冒烟。) |
-| disillusion | `/ˌdɪsɪˈluːʒən/` | n. 幻灭；醒悟；<br />v. 使幻想破灭；使醒悟 | n. The end of the affair marked his disillusion with love.<br />(这段恋情的结束标志着他对爱情的幻灭。)<br />v. The realities of life disillusioned her.<br />(生活的现实使她幻想破灭。) |
+| disillusion | `/ˌdɪsəˈluːʒən/` | n. 幻灭；醒悟；<br />v. 使幻想破灭；使醒悟 | n. **Time to end this disillusion**: 是时候醒悟了<br />n. The end of the affair marked his disillusion with love.<br />(这段恋情的结束标志着他对爱情的幻灭。)<br />v. The realities of life disillusioned her.<br />(生活的现实使她幻想破灭。) |
 | fatigue     | `/fəˈtiːɡ/`      | n. 疲劳，疲乏；<br />v. 使疲劳             | n. The symptoms of the illness include fatigue.<br />(这种病的症状包括疲劳。)<br />v. The continuous work fatigued him.<br />(连续的工作使他感到疲劳。) |
 
 ### 单词解释
