@@ -125,6 +125,84 @@ advantage `/ədˈvæntɪdʒ/` 和 advice `/əd'vaɪs/`，读音中第一个是�
 
 ## ▲ 待编辑生词
 
+### Added: 2024.03.28
+
+ChatGPT 4.0 translations
+
+~~注：下面表格单词已写到 Goodnotes~~
+
+| 单词        | 美式发音          | 词类 + 汉语释义                | 示例                                                         |
+| ----------- | ----------------- | ------------------------------ | ------------------------------------------------------------ |
+| cock        | `/kɑːk/          | n. 公鸡；v. 扣动（枪栓）       | n. The cock crowed at dawn.<br />(公鸡在黎明时打鸣。)<br />v. He cocked the gun before shooting.<br />(他在射击前扣动了枪栓。) |
+| assault     | `/əˈsɔːlt/       | n. 攻击；v. 袭击               | n. The assault lasted for hours.<br />(攻击持续了几个小时。)<br />v. The fortress was assaulted by enemy troops.<br />(堡垒遭到敌军的袭击。) |
+| rifle       | `/ˈraɪfəl/       | n. 步枪；v. 搜查并偷走         | n. He loaded the rifle carefully.<br />(他小心地装填步枪。)<br />v. The thief rifled through the drawers.<br />(小偷翻遍了抽屉。) |
+| piss        | `/pɪs/           | v. 小便；n. 尿液               | v. The dog pissed on the tree.<br />(狗在树上小便。)         |
+| lyrical     | `/ˈlɪrɪkəl/      | adj. 抒情的                    | His speech was lyrical and moving.<br />(他的演讲抒情而感人。) |
+| debounce    | `/diːˈbaʊns/     | v. 消除（电子信号的）抖动      | Engineers debounce the switch to prevent false triggering.<br />(工程师消除开关的抖动以防止错误触发。) |
+| weird       | `/wɪərd/         | adj. 怪异的                    | The situation got really weird.<br />(情况变得真的很怪异。)  |
+| obsession   | `/əbˈsɛʃən/      | n. 痴迷，强迫观念              | His obsession with cleanliness is well-known.<br />(他对清洁的痴迷是众所周知的。) |
+| independent | `/ˌɪndɪˈpɛndənt/ | adj. 独立的                    | She is a very independent person.<br />(她是一个非常独立的人。) |
+| geography   | `/dʒiˈɑːɡrəfi/   | n. 地理                        | He studied the geography of the region for his report.<br />(他为报告研究了该地区的地理。) |
+| Oxford      | `/ˈɑːksfərd/     | n. 牛津（英国城市）            | He attended Oxford University.<br />(他就读于牛津大学。)     |
+| mint        | `/mɪnt/          | n. 薄荷；造币厂；adj. 崭新的   | n. I grew some mint in my garden.<br />(我在花园里种了一些薄荷。)<br />adj. The car is in mint condition.<br />(这辆车状况良好，像新的一样。) |
+| sift        | `/sɪft/          | v. 筛选，过滤                  | She sifted the flour before baking.<br />(她在烘焙前筛了面粉。) |
+| press       | `/prɛs/          | v. 按压，压榨；n. 报刊，新闻界 | v. Press the button to start the machine.<br />(按下按钮以启动机器。)<br />n. The press covered the event extensively.<br />(新闻界广泛报道了这一事件。) |
+| avian         | `/ˈeɪviən/       | adj. 鸟类的                               | Avian species have various adaptations for flight.<br />(鸟类有各种各样适应飞行的特征。) |
+
+| 短语/单词     | 美式发音         | 词类 + 汉语释义               | 示例                                                         |
+| ------------- | ---------------- | ----------------------------- | ------------------------------------------------------------ |
+| take the cake | `/teɪk ðə keɪk/ | phr. 胜过一切，最突出         | Winning the lottery really takes the cake!<br />(中彩票真的是胜过一切！) |
+| Eyre          | `/ɛər/          | n. 艾尔（人名或地名）         | Lake Eyre is located in Australia.<br />(艾尔湖位于澳大利亚。) |
+| sargasso      | `/sɑːrˈɡæsoʊ/   | n. 马尾藻；马尾藻海           | The Sargasso Sea is known for its floating seaweed.<br />(马尾藻海以其漂浮的海藻而闻名。) |
+| tuck          | `/tʌk/          | v. 把...塞进；n. （衣服的）褶 | v. She tucked the letter into her diary.<br />(她把信塞进了日记本。)<br />n. The tuck in the dress was sewn neatly.<br />(连衣裙的褶皱缝制得很整齐。) |
+| tuck away     | `/tʌk əˈweɪ/    | phr. 隐藏，存放               | He tucked away some money for emergencies.<br />(他存了一些钱应急。) |
+| bunny         | `/ˈbʌni/        | n. 小兔子                     | The little girl has a stuffed bunny.<br />(这个小女孩有一个填充的小兔子玩具。) |
+| lit           | `/lɪt/          | adj. 点燃的，亮着的           | The room was lit by a single candle.<br />(房间里由一支蜡烛点亮。) |
+| light         | `/laɪt/         | n. 光；adj. 轻的；v. 点燃     | n. The light from the sun is bright.<br />(太阳光很亮。)<br />adj. She prefers light meals.<br />(她喜欢吃清淡的饭菜。)<br />v. Light the candle, please.<br />(请点燃蜡烛。) |
+| sock          | `/sɑːk/         | n. 袜子                       | He bought a pair of woolen socks.<br />(他买了一双羊毛袜。)  |
+| mitt          | `/mɪt/          | n. （尤指棒球的）手套         | The baseball player caught the ball with his mitt.<br />(那位棒球运动员用手套接住了球。) |
+| mitten        | `/ˈmɪtən/       | n. 连指手套                   | She wore her warm mittens in the snow.<br />(她在雪中戴着她的保暖连指手套。) |
+| lull          | `/lʌl/          | v. 使平静；n. 平静时期        | v. The motion of the car lulled the baby to sleep.<br />(汽车的运动使婴儿入睡。)<br />n. There was a lull in the storm.<br />(暴风雨中出现了一段平静时期。) |
+| commute       | `/kəˈmjuːt/     | v. 通勤                       | He commutes to work every day by train.<br />(他每天乘火车通勤上班。) |
+| heading       | `/ˈhɛdɪŋ/       | n. 标题；方向                 | The heading of the article was eye-catching.<br />(文章的标题很抢眼。) |
+| homeward      | `/ˈhoʊmwərd/    | adj./adv. 归家的，朝家的       | After a long day at work, she is homeward bound.<br />(工作了一整天后，她正归家。) |
+
+| 单词           | 美式发音             | 词类 + 汉语释义            | 示例                                                         |
+| ------------- | -------------------- | -------------------------- | ------------------------------------------------------------ |
+| excerpt       | `/ˈɛksɜːrpt/`       | n. 摘录；节选              | **excerpt of/from**<br /> An excerpt of the speech appeared in the Sunday paper.<br />演讲的节录刊登在周日报纸上了。<br />She read an excerpt from her novel during the presentation.<br />(她在演讲期间朗读了小说的摘录。) |
+| paperback     | `/ˈpeɪpərbæk/       | n. 平装书，软皮书          | I bought a paperback version of the book for convenience.<br />(为了方便，我买了一本平装版的书。) |
+| peak          | `/piːk/             | n. 顶点；最高点            | The mountain's peak is covered with snow year-round.<br />(这座山的顶点终年积雪。) |
+| sustenance    | `/ˈsʌstənəns/       | n. 食物；生计              | People need both physical and spiritual sustenance.<br />(人们需要身体和精神上的滋养。) |
+| livelihood    | `/ˈlaɪvlihʊd/       | n. 生计，谋生              | Many people in the village depend on farming for their livelihood.<br />(村里许多人依靠耕种为生。) |
+| goatherd      | `/ˈɡoʊtˌhɜːrd/      | n. 牧羊人                  | The goatherd led his goats up the hill to graze.<br />(牧羊人带着他的羊群上山吃草。) |
+| buck          | `/bʌk/`            | n. 雄鹿；[口]美元；<br />v. 反抗 | n. A large buck was spotted in the forest.<br />(在森林中发现了一只大雄鹿。)<br />n. The buck roamed freely in the forest.<br />(雄鹿在森林中自由漫游。) <br />v. That laptop costs over a thousand bucks.<br />(那台笔记本电脑价值超过一千美元。)<br />v. The horse bucked off its rider.<br />(马把骑手甩了下来。) |
+| prod          | `/prɑːd/            | v. 刺，戳；激励            | v. She prodded him in the ribs to get his attention.<br />(她戳了戳他的肋部以引起他的注意。) |
+| autobiography | `/ˌɔːtəbaɪˈɑːɡrəfi/ | n. 自传                    | He published his autobiography last year.<br />(他去年出版了自传。) |
+| recollection  | `/ˌrɛkəˈlɛkʃən/     | n. 回忆，记忆              | My recollection of the event is quite different.<br />(我对那个事件的回忆和别人很不一样。) |
+| hush          | `/hʌʃ/              | v. 安静；n. 沉默           | v. She hushed the children before the show started.<br />(她在演出开始前让孩子们安静下来。)<br />n. There was a hush in the room as the announcement was made.<br />(宣布时房间里一片寂静。) |
+| magnitude     | `/ˈmæɡnɪˌtuːd/      | n. 重要性；巨大            | The earthquake was of such magnitude that it was felt in distant cities.<br />(这次地震非常强烈，远处的城市都能感觉到。) |
+
+| 单词     | 美式发音         | 词类 + 汉语释义        | 示例                                                         |
+| -------- | ---------------- | ---------------------- | ------------------------------------------------------------ |
+| solitude | `/ˈsɑːlɪˌtjuːd/ | n. 孤独；隐居          | He enjoys the solitude of the mountains.<br />(他喜欢山中的孤独。) |
+| lullaby  | `/ˈlʌləˌbaɪ/    | n. 摇篮曲              | She sang a lullaby to the baby.<br />(她给婴儿唱摇篮曲。)    |
+| piece    | `/piːs/         | n. 件；块；篇章        | I ate a piece of cake.<br />(我吃了一块蛋糕。)               |
+| moose    | `/muːs/         | n. 麋鹿                | A moose was spotted near the camp.<br />(营地附近发现了一只麋鹿。) |
+| muffin   | `/ˈmʌfɪn/       | n. 松饼；小蛋糕        | Would you like a blueberry muffin?<br />(你想要一个蓝莓松饼吗？) |
+| kernel   | `/ˈkɜːrnəl/     | n. 核心；仁            | The kernel of his argument is strong.<br />(他的论点的核心是有力的。) |
+| spot     | `/spɑːt/        | n. 地点；斑点；v. 发现 | n. We found a perfect spot for a picnic.<br />(我们找到了一个野餐的完美地点。)<br />v. I spotted a deer in the woods.<br />(我在树林里发现了一只鹿。) |
+| roam     | `/roʊm/         | v. 漫游；漫步          | The cattle roam freely in the meadow.<br />(牛在草地上自由漫游。) |
+| sunshine | `/ˈsʌnˌʃaɪn/    | n. 阳光                | The flowers opened in the morning sunshine.<br />(花朵在早晨的阳光中开放。) |
+| canyon   | `/ˈkænjən/      | n. 峡谷                | The river carved a deep canyon in the landscape.<br />(河流在地貌中刻出了一条深峡谷。) |
+| gorge    | `/ɡɔːrdʒ/       | n. 峡谷；狭路          | The gorge was filled with lush greenery.<br />(峡谷里长满了茂密的绿色植被。) |
+| gully    | `/ˈɡʌli/        | n. 冲沟；小峡谷        | After the rain, water flowed through the gully.<br />(雨后，水流过了冲沟。) |
+| ravine   | `/rəˈviːn/      | n. 沟壑；深谷          | The hikers navigated the steep sides of the ravine.<br />(远足者们在陡峭的沟壑边缘行走。) |
+| valley   | `/ˈvæli/        | n. 谷，山谷            | The valley was known for its fertile soil.<br />(这个山谷以其肥沃的土壤而闻名。) |
+
+
+
+
+
 ### Added: 2024.03.27
 
 ChatGPT 4.0 translations
@@ -174,8 +252,6 @@ ChatGPT 4.0 translations
 
 ~~注：下面表格单词已写到 Goodnotes~~
 
-我明白了，对于最重要的词性，如果有两个重要且相关的汉语翻译，我们应该都提供。这里是修正后的表格，确保主要词性的翻译更为全面：
-
 | 单词       | 美式发音         | 词类 + 汉语释义                    | 示例                                                         |
 | ---------- | ---------------- | ---------------------------------- | ------------------------------------------------------------ |
 | spare      | `/spɛər/`        | adj. 多余的，备用的；<br>v. 节约    | adj. Keep a spare key in a safe place.<br />(将备用钥匙放在安全的地方。)<br />v. Please spare some food for the animals.<br />(请为动物留下一些食物。) |
@@ -200,19 +276,17 @@ ChatGPT 4.0 translations
 
 ~~注：下面表格单词已写到 Goodnotes~~
 
-| 单词        | 美式发音           | 词类 + 汉语释义      | 示例                                                         |
-| ----------- | ------------------ | -------------------- | ------------------------------------------------------------ |
-| explanation | `/ˌɛkspləˈneɪʃən/` | n. 解释；说明        | He gave a clear explanation of how it works.<br>(他清楚地解释了它是如何工作的。) |
-| biggie      | `/ˈbɪɡi/`          | n. 重要人物或事物    | That movie was a real biggie in the box office.<br>(那部电影是票房的重要作品。) |
-| reservation | `/ˌrɛzərˈveɪʃən/`  | n. 预约；保留意见    | I have a reservation at the restaurant.<br>(我在那家餐厅有预约。) |
-| summon      | `/ˈsʌmən/`         | v. 召唤；召集        | The president summoned his advisors to a meeting.<br>(总统召集他的顾问们开会。) |
-| noon        | `/nuːn/`           | n. 正午；中午        | We plan to meet at noon.<br>(我们计划中午见面。)             |
-| misfortune  | `/mɪsˈfɔrtʃən/`    | n. 不幸；厄运        | She suffered a great deal of misfortune.<br>(她遭受了很多不幸。) |
-| quiet       | `/ˈkwaɪət/`        | adj. 安静的；n. 安静 | She prefers a quiet place to read.<br>(她喜欢在一个安静的地方读书。) |
-| grazing     | `/ˈɡreɪzɪŋ/`       | n. 放牧；牧草地      | The cows are out for grazing.<br>(奶牛出去吃草了。)          |
-| graze       | `/ɡreɪz/`          | v. 放牧；擦伤        | The sheep graze on the hillside.<br>(绵羊在山坡上吃草。)     |
-
-根据您的要求，这里是针对给定单词的详细翻译表格：
+| 单词        | 美式发音          | 词类 + 汉语释义      | 示例                                                         |
+| ----------- | ----------------- | -------------------- | ------------------------------------------------------------ |
+| explanation | `/ˌɛkspləˈneɪʃən/ | n. 解释；说明        | He gave a clear explanation of how it works.<br>(他清楚地解释了它是如何工作的。) |
+| biggie      | `/ˈbɪɡi/          | n. 重要人物或事物    | That movie was a real biggie in the box office.<br>(那部电影是票房的重要作品。) |
+| reservation | `/ˌrɛzərˈveɪʃən/  | n. 预约；保留意见    | I have a reservation at the restaurant.<br>(我在那家餐厅有预约。) |
+| summon      | `/ˈsʌmən/         | v. 召唤；召集        | The president summoned his advisors to a meeting.<br>(总统召集他的顾问们开会。) |
+| noon        | `/nuːn/           | n. 正午；中午        | We plan to meet at noon.<br>(我们计划中午见面。)             |
+| misfortune  | `/mɪsˈfɔrtʃən/    | n. 不幸；厄运        | She suffered a great deal of misfortune.<br>(她遭受了很多不幸。) |
+| quiet       | `/ˈkwaɪət/        | adj. 安静的；n. 安静 | She prefers a quiet place to read.<br>(她喜欢在一个安静的地方读书。) |
+| grazing     | `/ˈɡreɪzɪŋ/       | n. 放牧；牧草地      | The cows are out for grazing.<br>(奶牛出去吃草了。)          |
+| graze       | `/ɡreɪz/          | v. 放牧；擦伤        | The sheep graze on the hillside.<br>(绵羊在山坡上吃草。)     |
 
 | 单词        | 美式发音         | 词类 + 汉语释义                            | 示例                                                         |
 | ----------- | ---------------- | ------------------------------------------ | ------------------------------------------------------------ |
@@ -239,12 +313,6 @@ ChatGPT 4.0 translations
 4. **exhaust (n. & v.)**
    - 作为动词，exhaust 表示 **`使筋疲力尽`** 或 **`耗尽`**，用于描述由于过度使用、劳累或消耗而导致的疲劳或资源耗竭状态。
    - 作为名词，exhaust 指的是 **`排气`** 或 **`废气`**，特别是指从发动机排出的废气或气体。
-
-
-
-
-
-
 
 
 
