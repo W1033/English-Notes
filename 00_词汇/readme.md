@@ -125,6 +125,47 @@ advantage `/ədˈvæntɪdʒ/` 和 advice `/əd'vaɪs/`，读音中第一个是�
 
 ## ▲ 待编辑生词
 
+### Added: 2024.03.29
+ChatGPT 4.0 translations
+
+~~注：下面表格单词已写到 Goodnotes~~
+
+| 单词     | 美式发音       | 词类 + 汉语释义                       | 示例                                                         |
+|----------|----------------|------------------------------------|--------------------------------------------------------------|
+| tap      | `/tæp/        | n. 水龙头；轻拍；<br />v. 轻拍；开发  | n. Turn off the tap to save water.<br />(关掉水龙头以节约用水。)<br />v. He tapped the table with his fingers.<br />(他用手指轻拍桌子。) |
+| faucet   | `/ˈfɔːsɪt/    | n. 水龙头                           | The faucet in the kitchen is leaking.<br />(厨房的水龙头正在漏水。) |
+| tangent       | `/ˈtæn.dʒənt/      | n. 正切（数学）；切线；<br />adj. 离题的 | n. In mathematics, the tangent of an angle is a trigonometric function.<br />(在数学中，角的正切是一种三角函数。)<br />adj. He went off on a tangent during the discussion.<br />(他在讨论中突然离题。) |
+| process       | `/ˈprɑː.sɛs/       | n. 过程；v. 加工，处理                   | n. The process of making bread takes several hours.<br />(制作面包的过程需要几个小时。)<br />v. The factory processes raw materials into finished products.<br />(工厂将原材料加工成成品。) |
+| embellish     | `/ɪmˈbɛl.ɪʃ/       | v. 装饰，美化；夸张                      | She embellished the story with colorful details.<br />(她用丰富的细节美化了这个故事。) |
+| instruction   | `/ɪnˈstrʌk.ʃən/    | n. 指令；教学                            | Follow the instructions on the package.<br />(遵循包装上的指示。) |
+| fortress      | `/ˈfɔːr.trəs/      | n. 要塞，堡垒                            | The fortress stood on the hill, overlooking the valley.<br />(要塞矗立在山丘上，俯瞰着山谷。) |
+| troop         | `/truːp/           | n. 军队；一群（人或动物）                | The troop of scouts set up their tents in the clearing.<br />(这群童子军在空地上搭起了他们的帐篷。) |
+|               |                     |                                          |                                                              |
+| piss          | `/pɪs/             | v. 小便；n. 小便（粗俗用语）             | v. The dog pissed on the tree.<br />(狗在树上小便了。)       |
+| bloke         | `/bloʊk/           | n. 家伙，男人（非正式用语）              | He's a nice bloke.<br />(他是个不错的家伙。)                 |
+| factorial     | `/fækˈtɔːriəl/     | n. 阶乘                                  | The factorial of 5 is 120.<br />(5的阶乘是120。)             |
+| consider      | `/kənˈsɪdər/       | v. 考虑；认为                            | Please consider my proposal.<br />(请考虑我的提议。)         |
+| consideration | `/kənˌsɪdəˈreɪʃən/ | n. 考虑；体贴                            | Your consideration is appreciated.<br />(感谢您的体贴。)     |
+| think about   | `/θɪŋk əˈbaʊt/     | phr. 考虑                                | I need to think about your offer.<br />(我需要考虑一下你的提议。) |
+| think over    | `/θɪŋk ˈoʊvər/     | phr. 仔细考虑                            | He decided to think over the job opportunity.<br />(他决定仔细考虑这个工作机会。) |
+| torture       | `/ˈtɔːrʧər/        | n. 折磨，拷打；v. 折磨                   | n. The prisoners faced torture.<br />(囚犯们面临拷打。)<br />v. He was tortured for the information.<br />(他因信息被折磨。) |
+| obsession     | `/əbˈsɛʃən/        | n. 痴迷，强迫观念                        | His obsession with cleanliness is well-known.<br />(他对清洁的痴迷是众所周知的。) |
+|               |                     |                                          |                                                              |
+| grip          | `/ɡrɪp/            | n. 紧握，把握；v. 抓紧                   | n. The climber had a firm grip on the rope.<br />(攀岩者紧紧握住绳子。)<br />v. The fear gripped him as he walked through the dark alley.<br />(当他穿过黑暗的小巷时，恐惧抓住了他。) |
+| gluten        | `/ˈɡluːtən/        | n. 面筋                                  | People with celiac disease cannot tolerate gluten.<br />(患有乳糜泻的人不能忍受面筋。) |
+| regain        | `/rɪˈɡeɪn/         | v. 恢复，重新获得                        | He hopes to regain his health through treatment.<br />(他希望通过治疗恢复健康。) |
+| gene          | `/dʒiːn/           | n. 基因                                  | Scientists study genes to understand hereditary traits.<br />(科学家研究基因以了解遗传特征。) |
+| participate   | `/pɑːrˈtɪsɪpeɪt/   | v. 参与                                  | All team members are expected to participate in the project.<br />(预期所有团队成员都将参与这个项目。) |
+| screening     | `/ˈskriːnɪŋ/       | n. 筛查，放映                            | The screening of the film will be at 8 PM.<br />(电影的放映将在晚上8点进行。) |
+| cognitive     | `/ˈkɑːɡnɪtɪv/      | adj. 认知的                              | Cognitive development is crucial in the early years of education.<br />(早期教育中的认知发展至关重要。) |
+| enslave       | `/ɪnˈsleɪv/        | v. 奴役，使成为奴隶                      | The history books tell of populations being enslaved by conquerors.<br />(历史书籍讲述了被征服者奴役的人口。) |
+| close-at-hand | `/ˈkloʊs ət ˈhænd/ | adj. 近在咫尺的                          | Help was close-at-hand when the accident occurred.<br />(事故发生时，帮助近在咫尺。) |
+| intimate      | `/ˈɪntɪmət/        | adj. 亲密的；n. 密友                     | adj. They shared an intimate conversation.<br />(他们进行了一场亲密的对话。)<br />n. He trusted only his intimates with the secret.<br />(他只将秘密告诉了他的密友。) |
+
+
+
+
+
 ### Added: 2024.03.28
 
 ChatGPT 4.0 translations
@@ -133,20 +174,25 @@ ChatGPT 4.0 translations
 
 | 单词        | 美式发音          | 词类 + 汉语释义                | 示例                                                         |
 | ----------- | ----------------- | ------------------------------ | ------------------------------------------------------------ |
-| cock        | `/kɑːk/          | n. 公鸡；v. 扣动（枪栓）       | n. The cock crowed at dawn.<br />(公鸡在黎明时打鸣。)<br />v. He cocked the gun before shooting.<br />(他在射击前扣动了枪栓。) |
-| assault     | `/əˈsɔːlt/       | n. 攻击；v. 袭击               | n. The assault lasted for hours.<br />(攻击持续了几个小时。)<br />v. The fortress was assaulted by enemy troops.<br />(堡垒遭到敌军的袭击。) |
-| rifle       | `/ˈraɪfəl/       | n. 步枪；v. 搜查并偷走         | n. He loaded the rifle carefully.<br />(他小心地装填步枪。)<br />v. The thief rifled through the drawers.<br />(小偷翻遍了抽屉。) |
-| piss        | `/pɪs/           | v. 小便；n. 尿液               | v. The dog pissed on the tree.<br />(狗在树上小便。)         |
-| lyrical     | `/ˈlɪrɪkəl/      | adj. 抒情的                    | His speech was lyrical and moving.<br />(他的演讲抒情而感人。) |
-| debounce    | `/diːˈbaʊns/     | v. 消除（电子信号的）抖动      | Engineers debounce the switch to prevent false triggering.<br />(工程师消除开关的抖动以防止错误触发。) |
-| weird       | `/wɪərd/         | adj. 怪异的                    | The situation got really weird.<br />(情况变得真的很怪异。)  |
-| obsession   | `/əbˈsɛʃən/      | n. 痴迷，强迫观念              | His obsession with cleanliness is well-known.<br />(他对清洁的痴迷是众所周知的。) |
-| independent | `/ˌɪndɪˈpɛndənt/ | adj. 独立的                    | She is a very independent person.<br />(她是一个非常独立的人。) |
-| geography   | `/dʒiˈɑːɡrəfi/   | n. 地理                        | He studied the geography of the region for his report.<br />(他为报告研究了该地区的地理。) |
-| Oxford      | `/ˈɑːksfərd/     | n. 牛津（英国城市）            | He attended Oxford University.<br />(他就读于牛津大学。)     |
-| mint        | `/mɪnt/          | n. 薄荷；造币厂；adj. 崭新的   | n. I grew some mint in my garden.<br />(我在花园里种了一些薄荷。)<br />adj. The car is in mint condition.<br />(这辆车状况良好，像新的一样。) |
-| sift        | `/sɪft/          | v. 筛选，过滤                  | She sifted the flour before baking.<br />(她在烘焙前筛了面粉。) |
-| press       | `/prɛs/          | v. 按压，压榨；n. 报刊，新闻界 | v. Press the button to start the machine.<br />(按下按钮以启动机器。)<br />n. The press covered the event extensively.<br />(新闻界广泛报道了这一事件。) |
+| cock        | `/kɑːk/`          | n. 公鸡；[俗]阴茎；<br />v. 扣动（枪栓） | n. The cock crowed at dawn.<br />(公鸡在黎明时打鸣。)<br />n. The cock crowed early in the morning. <br />(公鸡一大早就打鸣。)<br />v. He cocked the gun before shooting.<br />(他在射击前扣动了枪栓。) |
+| rooster | `/ˈruːstər/` | n. 公鸡 | The rooster crowed at dawn.<br />(公鸡在黎明时打鸣。) |
+| crow | `/kroʊ/` | n. 乌鸦；<br />v. 啼叫（特指公鸡） | n. A crow flew`/fluː/` over the field.<br />(一只乌鸦飞过田野。)<br />v. The rooster crows at dawn.<br />(公鸡在黎明时啼叫。) |
+| dawn | `/dɔːn/` | n. 黎明；开始；<br>v. 破晓 | n. The dawn brought a beautiful sunrise.<br />(黎明带来了美丽的日出。)<br>v. The day dawned clear and bright.<br />(天空破晓时清晰而明亮。)<br />v. The morning dawned fresh and clear after the storm.<br />(暴风雨过后﹐破晓时天朗气清。) |
+| assault     | `/əˈsɒːlt/`      | n. 攻击；v. 袭击               | n. The assault lasted for hours.<br />(攻击持续了几个小时。)<br />v. The fortress was assaulted by enemy troops.<br />(堡垒遭到敌军的袭击。) |
+| rifle       | `/ˈraɪfəl/`       | n. 步枪；v. 搜查并偷走         | n. He loaded the rifle carefully.<br />(他小心地装填步枪。)<br />v. The thief rifled through the drawers.<br />(小偷翻遍了抽屉。) |
+| piss        | `/pɪs/`           | v. 小便；n. 尿液               | v. The dog pissed on the tree.<br />(狗在树上小便。)<br />n. He was fully clothed and covered in puke and piss.<br />(他全身都沾满了呕吐物和尿。) |
+| lyrical     | `/ˈlɪrɪkəl/`      | adj. 抒情的      | His speech was lyrical and moving.<br />(他的演讲抒情而感人。) |
+| debounce    | `/diːˈbaʊns/`     | v. 消除（电子信号的）抖动      | Engineers debounce the switch to prevent false triggering.<br />(工程师消除开关的抖动以防止错误触发。) |
+| bounce      | `/baʊns/`         | v. 弹跳；反弹；<br>n. 弹跳；弹性         | v. The ball bounced off the floor.<br />(球从地板上弹跳起来。)<br />n. The new tennis ball has good bounce.<br />(新的网球弹性很好。) |
+| weird       | `/wɪrd/`         | adj. 古怪的；怪异的              | A really weird thing happened last night.<br />(昨晚发生了一件非常奇怪的事。)<br />He’s a weird bloke.<br />(他是个古怪的家伙。)<br />The situation got really weird.<br />(情况变得真的很怪异。) |
+| obsession   | `/əbˈsɛʃən/`      | n. 痴迷；困扰          | His obsession with cleanliness is well-known.<br />(他对清洁的痴迷是众所周知的。)<br />Love is an obsession.<br />(爱是一种困扰)<br />He was in the grip of an obsession he was powerless to resist.<br />(他陷入了一种无力抗拒的困扰之中) |
+| cleanliness | `/ˈklɛnlɪnəs/` | n. 清洁，清洁度 | a high standard of cleanliness.<br />(很高的卫生标准）<br />Maintaining cleanliness in the hospital is critical`/ˈkrɪtɪkəl/`.<br />(医院的清洁度维护至关重要。) |
+| independent | `/ˌɪndəˈpendənt/` | adj. 独立的                    | She is a very independent person.<br />(她是一个非常独立的人。)<br />She leads an independent life.<br />(她过着独立的生活。)<br />India became independent in 1947. <br />(印度与 1947 年独立。)<br />By this age, the child becomes relatively independent of his mother.<br />(到了这个年龄，孩子可以较为独立，不完全依赖母亲。) |
+| geography   | `/dʒiˈɑːɡrəfi/`   | n. 地理（学）              | a geography lesson. 地理课<br />physical geography. 自然地理学<br />He studied the geography of the region for his report.<br />(他为报告研究了该地区的地理。) |
+| Oxford      | `/ˈɑːksfərd/`     | n. 牛津（英国城市）            | He attended Oxford University.<br />(他就读于牛津大学。)     |
+| mint        | `/mɪnt/`          | n. 薄荷；造币厂；adj. 崭新的   | n. I grew some mint in my garden.<br />(我在花园里种了一些薄荷。)<br />adj. The car is in mint condition.<br />(这辆车状况良好，像新的一样。) |
+| sift        | `/sɪft/`          | v. 筛选，过滤                  | She sifted the flour before baking.<br />(她在烘焙前筛了面粉。) |
+| press       | `/prɛs/          | v. 按压，压榨；<br />n. 报刊，新闻界 | v. Press the button to start the machine.<br />(按下按钮以启动机器。)<br />n. The press covered the event extensively.<br />(新闻界广泛报道了这一事件。) |
 | avian         | `/ˈeɪviən/       | adj. 鸟类的                               | Avian species have various adaptations for flight.<br />(鸟类有各种各样适应飞行的特征。) |
 
 | 短语/单词     | 美式发音         | 词类 + 汉语释义               | 示例                                                         |
@@ -1098,8 +1144,8 @@ ChatGPT 4.0 translations
 
 
 
-
 ### Added: 2024.02.25
+
 ChatGPT 4.0 translations
 
 **注：下面表格单词已写到 Goodnotes**
@@ -1324,7 +1370,6 @@ ChatGPT 4.0 translations
 | crowd           | `/kraʊd/         | n. 人群；v. 挤满       |
 | cushion         | `/ˈkʊʃən/        | n. 垫子；v. 缓冲       |
 | dangle          | `/ˈdæŋɡəl/       | v. 悬挂；摇摆          |
-| dawn            | `/dɔn/           | n. 黎明；开端          |
 | decorate        | `/ˈdɛkəˌreɪt/    | v. 装饰；布置          |
 | delighted       | `/dɪˈlaɪtɪd/     | adj. 高兴的            |
 | demonstrate     | `/ˈdɛmənˌstreɪt/ | v. 证明；展示          |
