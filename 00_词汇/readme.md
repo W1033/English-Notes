@@ -345,7 +345,7 @@ ChatGPT 4.0 translations
 | accelerate | `/əkˈseləˌreɪt/` | v. 加速，促进                     | The car accelerated on the highway.<br />(汽车在高速公路上加速。) |
 | grade      | `/ɡreɪd/`        | n. 等级，年级；<br>v. 评分，分级    | n. She is in the ninth grade at school.<br />(她在学校上九年级。)<br />v. The teacher graded the exams fairly.<br />(老师公平地给考试打分。) |
 | true       | `/truː/`         | adj. 真实的，真正的                | Her story was found to be true.<br />(她的故事被发现是真的。) |
-| quiz       | `/kwɪz/`         | n. 测验，小考；<br>v. 盘问，测验    | n. There will be a quiz next class.<br />(下堂课将有一个测验。)<br />v. The teacher quizzed the students about the story.<br />(老师向学生们提问了那个故事。) |
+| quiz       | `/kwɪz/`         | n. 小测验，问答游戏；<br />v. 测验，提问 | n. There will be a quiz next class.<br />(下堂课将有一个测验。)<br />v. The teacher quizzed us on our homework.<br />(老师就我们的作业对我们进行了提问。) |
 | thrift     | `/θrɪft/`        | n. 节俭，节约                     | Her thrift was admired by all.<br />(她的节俭受到所有人的赞赏。) |
 | dean       | `/diːn/`         | n. 院长，主任                     | The dean spoke at the graduation ceremony.<br />(院长在毕业典礼上发言。) |
 | catch      | `/kætʃ/`         | v. 捕捉，抓住；<br>n. 捕获物，好发现 | v. He tried to catch the ball.<br />(他试图抓住球。)<br />n. That was a good catch!<br />(那是个好捕获！) |
