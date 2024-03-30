@@ -115,15 +115,54 @@ advantage `/ədˈvæntɪdʒ/` 和 advice `/əd'vaɪs/`，读音中第一个是�
 - 
 - 
 
-> 考虑到您的学习目的，特别是在寻找简洁性与全面性之间的平衡;
->
-> 提供更简洁的翻译，专注于词汇的主要和常用含义，以便更好地平衡全面性和易学性。
-
-
 
 
 
 ## ▲ 待编辑生词
+
+### Added: 2024.03.30
+
+ChatGPT 4.0 translations
+
+~~注：下面表格单词已写到 Goodnotes~~
+
+ 根据您的要求，这里是所请求单词的翻译表格，包括词性、汉语释义和示例：
+
+| 单词       | 美式发音          | 词类 + 汉语释义         | 示例                                                         |
+| ---------- | ----------------- | ----------------------- | ------------------------------------------------------------ |
+| minimum    | `/ˈmɪnɪməm/      | n. 最小量；最低限度     | The job requires a minimum of five years of experience.<br />(这份工作要求至少五年经验。) |
+| cement     | `/sɪˈmɛnt/       | n. 水泥；<br />v. 巩固，加强 | n. The sidewalk was laid with fresh cement.<br />(人行道铺上了新水泥。)<br />v. The crisis cemented their relationship.<br />(危机巩固了他们的关系。) |
+| sprig      | `/sprɪɡ/         | n. 嫩枝，小枝      | She added a sprig of parsley to the dish.<br />(她在菜里加了一小枝欧芹。) |
+| perch      | `/pɜːrtʃ/        | n. 栖木；v. 栖息   | n. The bird flew to its perch.<br />(鸟飞到了它的栖木上。)<br />v. She perched on the edge of the desk.<br />(她坐在桌子边缘。) |
+| estimate   | `/ˈɛstɪmeɪt/     | n. 估计；v. 估计   | n. The estimate for the project was too low.<br />(项目的预算估计太低。)<br />v. They estimated the crowd to be around 10,000.<br />(他们估计人群大约有10,000人。) |
+| glamorous  | `/ˈɡlæmərəs/     | adj. 迷人的，富有魅力的 | The actress wore a glamorous dress to the premiere.<br />(这位女演员身着迷人的礼服出席首映式。) |
+| chaff      | `/tʃæf/          | n. 谷壳；废物；开玩笑   | He always dismissed the criticism as mere chaff.<br />(他总是将批评视为无足轻重的废话。) |
+| impression | `/ɪmˈprɛʃən/     | n. 印象              | Her first impression of the city was positive.<br />(她对这座城市的第一印象是正面的。) |
+| ridge      | `/rɪdʒ/          | n. 脊；山脊           | The mountain ridge was covered with snow.<br />(山脊覆盖着雪。) |
+| relief     | `/rɪˈliːf/       | n. 缓解；解脱         | The medicine provided quick relief from pain.<br />(这药物迅速缓解了疼痛。) |
+| occupation | `/ˌɑːkjʊˈpeɪʃən/ | n. 职业；占领         | His occupation is a school teacher.<br />(他的职业是学校教师。) |
+| holocaust  | `/ˈhɑːləkɔːst/   | n. 大屠杀；浩劫       | The Holocaust was a tragic period in history.<br />(大屠杀是历史上的悲剧时期。) |
+| semitism   | `/ˈsɛmɪtɪzəm/    | n. 犹太人的特性或习惯  | The book discusses the history of Semitism in the region.<br />(这本书讨论了该地区犹太人的特性或习惯的历史。) |
+| summon       | `/ˈsʌmən/      | v. 召唤；召集         | He was summoned to court to testify.<br />(他被召唤到法庭作证。) |
+| offscreen    | `/ˌɔːfˈskriːn/ | adj. 屏幕外的         | The actor's offscreen personality is very different from his movie roles.<br />(这位演员的屏幕外个性与他的电影角色非常不同。) |
+| protective   | `/prəˈtɛktɪv/  | adj. 保护性的         | She wore protective gear while riding the motorcycle.<br />(她骑摩托车时穿着防护装备。) |
+|  |  |  |  |
+| release           | `/rɪˈlis/`      | v. 释放；发布<br>n. 发行；释放         | v. They plan to release the new software tomorrow.<br>(他们计划明天发布新软件。)<br>n. The release of the movie is scheduled for next month.<br>(这部电影的上映定于下个月。) |
+| extensive    | `/ɪkˈstɛnsɪv/`  | adj. 广泛的；大量的     | His research has extensive coverage of the subject.<br>(他的研究广泛涵盖了这个主题。) |
+| species      | `/ˈspiːʃiːz/`   | n. 物种               | This species is endangered and protected by law.<br>(这个物种濒临灭绝并受到法律保护。) |
+| primeval     | `/praɪˈmiːvəl/` | adj. 原始的；远古的     | The primeval forest is untouched by modern development.<br>(这片原始森林未被现代开发触及。) |
+| necktie      | `/ˈnektaɪ/` | n. 领带               | He chose a silk necktie for the meeting.<br>(他为会议选择了一条丝质领带。) |
+| always and forever | N/A       | phrase 永远          | Their promise was to be together always and forever.<br>(他们的承诺是永远在一起。) |
+| dishearten | `/dɪsˈhɑːrtən/` | v. 使沮丧，使气馁 | The series of failures disheartened him.<br />(一连串的失败使他感到沮丧。)<br />Don't let this defeat dishearten you.<br />(不要因这次失败而气馁。) |
+| disheartened | `/dɪsˈhɑːrtənd/`| adj. 沮丧的；气馁的     | After failing the exam, he felt disheartened and doubted his abilities.<br />(在考试失败后，他感到很沮丧，对自己的能力产生了怀疑。)<br />She felt disheartened after the failure.<br>(失败后她感到气馁。)<br />Do Not Let Me Disheartened. 不要让我失望。 |
+| arithmetic   | `/əˈrɪθmətɪk/`  | n. 算术                | Learning the basics of arithmetic is essential in school.<br>(学习算术基础是学校教育的必要部分。) |
+| devote       | `/dɪˈvoʊt/`     | v. 奉献；致力于         | He devoted his life to helping others.<br>(他把一生奉献给帮助他人。)<br />He devoted his energies to writing films. <br />(他致力于电影剧本的创作。)<br /><br />朗文 6：在日常英语中，人们一般说 `put time/energy etc into something`，而不说 ~~*devote time/energy etc to something*~~· <br />e.g.: He **put a lot of time into** the project.<br />(他在这个项目上投入了大量时间)。 |
+| jungle       | `/ˈdʒʌŋɡəl/`    | n. 丛林                | They went on an expedition through the dense jungle.<br>(他们进行了一次穿越茂密丛林的探险。) |
+| adventure    | `/ədˈvɛntʃər/`  | n. 冒险                | She wrote a book about her adventures in Africa.<br>(她写了一本关于她在非洲的冒险的书。) |
+| ponder       | `/ˈpɑːndər/`    | v. 沉思；考虑       | He pondered the question before giving his answer.<br>(他在给出答案之前仔细思考了这个问题。) |
+
+
+
 
 ### Added: 2024.03.29
 ChatGPT 4.0 translations
@@ -192,8 +231,8 @@ ChatGPT 4.0 translations
 | Oxford      | `/ˈɑːksfərd/`     | n. 牛津（英国城市）            | He attended Oxford University.<br />(他就读于牛津大学。)     |
 | mint        | `/mɪnt/`          | n. 薄荷；造币厂；adj. 崭新的   | n. I grew some mint in my garden.<br />(我在花园里种了一些薄荷。)<br />adj. The car is in mint condition.<br />(这辆车状况良好，像新的一样。) |
 | sift        | `/sɪft/`          | v. 筛选，过滤                  | She sifted the flour before baking.<br />(她在烘焙前筛了面粉。) |
-| press       | `/prɛs/          | v. 按压，压榨；<br />n. 报刊，新闻界 | v. Press the button to start the machine.<br />(按下按钮以启动机器。)<br />n. The press covered the event extensively.<br />(新闻界广泛报道了这一事件。) |
-| avian         | `/ˈeɪviən/       | adj. 鸟类的                               | Avian species have various adaptations for flight.<br />(鸟类有各种各样适应飞行的特征。) |
+| press       | `/prɛs/`         | v. 按，压；<br />n. 新闻界，出版社 | v. Press the button to start the machine.<br />(按下按钮以启动机器。)<br />n. The press covered the event extensively.<br />(新闻界广泛报道了这一事件。)<br />n. The press released a statement about the event.<br />(新闻界对该事件发表了一份声明。) |
+| avian         | `/ˈeɪviən/`      | adj. 鸟类的                               | Avian species have various adaptations for flight.<br />(鸟类有各种各样适应飞行的特征。) |
 
 | 短语/单词     | 美式发音         | 词类 + 汉语释义               | 示例                                                         |
 | ------------- | ---------------- | ----------------------------- | ------------------------------------------------------------ |
@@ -347,7 +386,8 @@ ChatGPT 4.0 translations
 | disillusion | `/ˌdɪsəˈluːʒən/` | n. 幻灭；醒悟；<br />v. 使幻想破灭；使醒悟 | n. **Time to end this disillusion**: 是时候醒悟了<br />n. The end of the affair marked his disillusion with love.<br />(这段恋情的结束标志着他对爱情的幻灭。)<br />v. The realities of life disillusioned her.<br />(生活的现实使她幻想破灭。) |
 | fatigue     | `/fəˈtiːɡ/`      | n. 疲劳，疲乏；<br />v. 使疲劳             | n. The symptoms of the illness include fatigue.<br />(这种病的症状包括疲劳。)<br />v. The continuous work fatigued him.<br />(连续的工作使他感到疲劳。) |
 
-### 单词解释
+#### 单词解释
+
 1. **drum (n. & v.)**
    - 作为名词，drum 指的是 **`鼓`**，这是一种打击乐器，通常由圆筒形的框架和紧绷的膜组成，通过用鼓棒或手敲打来发声。
    - 作为动词，它主要指的是敲打的动作，特别是在鼓或类似的表面上 **`敲击`** 以产生声音。动词形式的“drum”常用于描述任何重复性的敲打行为，不仅限于音乐演奏中的鼓击。
@@ -370,7 +410,7 @@ ChatGPT 4.0 translations
 
 ~~注：下面表格单词已写到 Goodnotes~~
 
-### 单词翻译表格
+#### 单词翻译表格
 
 | 单词              | 美式发音                                     | 词类 + 汉语释义                | 示例                                                         |
 | ----------------- | -------------------------------------------- | ------------------------------ | ------------------------------------------------------------ |
@@ -1135,7 +1175,7 @@ ChatGPT 4.0 translations
 
 | 单词           | 美式发音            | 词类 + 汉语释义    | 概述                                                         | 示例                                                         |
 | -------------- | ------------------- | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| prey           | `/preɪ/`            | n. 猎物；v. 捕食   | 解释：作为名词时，通常指被捕食的动物或对象；<br />作为动词时，则指进行捕食的行为。 | n. The lion quietly stalked its prey. <br />(狮子悄悄地追踪着它的猎物。)<br>v. Owls prey on small mammals. <br />(猫头鹰捕食小型哺乳动物。) |
+| prey           | `/preɪ/`            | n. 猎物；v. 捕食   | 解释：作为名词时，通常指被捕食的动物或对象；<br />作为动词时，则指进行捕食的行为。 | n. The lion quietly stalked its prey. <br />(狮子悄悄地追踪着它的猎物。)<br>v. Owls prey on small mammals. <br />(猫头鹰捕食小型哺乳动物。)<br />n. The tiger stalked its prey in the shadows.<br/>(老虎在阴影中悄悄跟踪其猎物。)<br/>v. Owls prey on mice and other small animals.<br/>(猫头鹰捕食老鼠和其他小动物。) |
 | stalk          | `/stɔːk/`           | v. 悄悄跟踪；n. 茎 | 解释：作为动词时指悄悄地跟踪或追踪，常见于描述捕食者行为；<br />作为名词时指植物的茎部。 | v. The cat stalked the bird before pouncing. <br />(猫在扑向鸟之前悄悄地跟踪它。)<br>n. She cut the stalks off the flowers. <br />(她剪掉了花的茎。) |
 | groan          | `/ɡroʊn/`           | v. 呻吟；n. 呻吟声 | 解释：作为动词时指发出低沉的、表达痛苦或不满的声音；<br />作为名词时指呻吟声。 | v. The patient groaned in pain. <br />(病人痛苦地呻吟。)<br>n. A groan of disappointment filled the room. <br />(房间里充满了失望的呻吟声。) |
 | disappointment | `/ˌdɪsəˈpɔɪntmənt/` | n. 失望            | 解释：指因期望未达到或希望落空而产生的感觉。                 | His failure to win the race was a big disappointment. <br />(他未能赢得比赛是一个巨大的失望。) |
