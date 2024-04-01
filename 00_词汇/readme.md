@@ -120,6 +120,67 @@ advantage `/ədˈvæntɪdʒ/` 和 advice `/əd'vaɪs/`，读音中第一个是�
 
 ## ▲ 待编辑生词
 
+### Added: 2024.04.01
+
+ChatGPT 4.0 translations
+
+~~注：下面表格单词已写到 Goodnotes~~
+
+Here is the translation for the requested words:
+
+| Word         | American Pronunciation | Part of Speech + Chinese Definition       | Example Sentence                                          |
+|--------------|------------------------|-------------------------------------------|----------------------------------------------------------|
+| literature   | `/ˈlɪtərətʃər/`       | n. 文学                                   | She has an extensive collection of world literature. (她拥有丰富的世界文学藏书。) |
+| literary     | `/ˈlɪtəˌrɛri/`        | adj. 文学的                               | He made a significant literary achievement. (他取得了重要的文学成就。) |
+| quote        | `/kwoʊt/`             | v. 引用；n. 引文                           | v. He quoted a famous poet in his speech. (他在演讲中引用了一位著名诗人的话。) |
+| bam          | `/bæm/`               | interj. （突然发生的声音或行动的表示）     | The door went bam and everyone looked up. (门“砰”的一声，所有人都抬头看。) |
+| pariah       | `/pəˈraɪə/`           | n. 被排斥或鄙视的人                       | He became a social pariah after the scandal. (丑闻之后他成了社会弃儿。) |
+| booby        | `/ˈbuːbi/`            | n. 傻瓜；笨蛋                             | Don't be such a booby! (别做傻瓜！) |
+| shout-out    | `/ˈʃaʊtˌaʊt/`         | n. 大声喊出；公开感谢或认可               | I want to give a shout-out to my team for their hard work. (我想大声感谢我的团队为他们的辛勤工作。) |
+| rapture      | `/ˈræptʃər/`          | n. 狂喜                                   | She listened to the music with a look of rapture. (她听音乐时面露狂喜。) |
+| effortless   | `/ˈɛfərtləs/`         | adj. 不费力的                             | He made an effortless jump and won the game. (他轻松跳跃赢得了比赛。) |
+| boast        | `/boʊst/`             | v. 吹嘘；n. 自夸                           | v. He boasts about his achievements. (他夸耀自己的成就。) |
+| concise      | `/kənˈsaɪs/`          | adj. 简洁的                               | His explanation was clear and concise. (他的解释清晰而简洁。) |
+| propaganda   | `/ˌprɑːpəˈɡændə/`     | n. 宣传                                   | The government's campaign was full of propaganda. (政府的运动充满了宣传。) |
+| exclusive    | `/ɪkˈskluːsɪv/`       | adj. 独有的，专有的                       | They obtained an exclusive interview with the celebrity. (他们获得了对那位名人的独家采访。) |
+
+These translations aim to provide a clear understanding of each word's meaning and usage, along with example sentences to illustrate their practical application. If you need further clarification or additional words translated, please let me know.
+
+Here is the translation for the requested words, focusing on the most common meanings and keeping the definitions concise:
+
+| Word           | American Pronunciation | Part of Speech + Chinese Definition      | Example Sentence                                       |
+|----------------|------------------------|------------------------------------------|-------------------------------------------------------|
+| indivisible    | `/ˌɪndɪˈvɪzəbl/`      | adj. 不可分割的                          | The concept of freedom is indivisible from human rights. (自由的概念与人权不可分割。) |
+| onto           | `/ˈɒntu/`             | prep. 到...之上                          | She climbed onto the roof. (她爬到屋顶上。)             |
+| impression     | `/ɪmˈprɛʃən/`         | n. 印象                                  | His speech made a strong impression on the audience. (他的演讲给观众留下了深刻的印象。) |
+| repent         | `/rɪˈpɛnt/`           | v. 悔改，后悔                            | He repented for his past mistakes. (他为过去的错误感到后悔。) |
+| slack          | `/slæk/`              | adj. 松弛的；v. 松懈，减弱              | adj. The rope is too slack. (绳子太松了。)<br>v. Don't slack on your duties. (不要在职责上松懈。) |
+| fortunate      | `/ˈfɔːrtʃənət/`       | adj. 幸运的                              | She was fortunate to find her lost ring. (她很幸运找到了她丢失的戒指。) |
+| total          | `/ˈtoʊtl/`            | n. 总计；adj. 总的，全部的              | n. The total comes to $100. (总计为100美元。)<br>adj. The total amount is overwhelming. (总金额是压倒性的。) |
+| labyrinth      | `/ˈlæbərɪnθ/`        | n. 迷宫                                  | The ancient palace was a labyrinth of corridors. (古宫殿是一个迷宫般的走廊。) |
+| labyrinthine   | `/ˌlæbəˈrɪnθɪn/`     | adj. 迷宫般的                            | The legal procedures were labyrinthine and complex. (法律程序错综复杂。) |
+| corpse         | `/kɔːrps/`            | n. 尸体                                  | The corpse was found in the woods. (尸体在树林中被发现。) |
+| literally      | `/ˈlɪtərəli/`         | adv. 字面上的，确实地                    | He was literally the only person there. (他确实是那里唯一的人。) |
+| literal        | `/ˈlɪtərəl/`          | adj. 字面的，确切的                      | The literal meaning of the word is clear. (这个词的字面意思很清楚。) |
+
+This translation aims to capture the primary and common uses of each word, providing clarity and ease of learning. If further adjustments are needed or if there are additional words to translate, please let me know.
+
+
+| 单词        | 美式发音          | 词类 + 汉语释义             | 示例                                                         |
+|-------------|-------------------|-------------------------|--------------------------------------------------------------|
+| endanger    | `/ɛnˈdeɪndʒər/`  | v. 使处于危险              | His reckless driving could endanger lives.<br />(他鲁莽的驾驶可能会危及生命。) |
+| wonder      | `/ˈwʌndər/`      | v. 想知道；对...感到惊奇；n. 奇迹  | v. I wonder why she left the party early.<br />(我想知道她为什么早早地离开了聚会。)<br />n. The Great Wall is one of the wonders of the world.<br />(长城是世界奇迹之一。) |
+| mouth       | `/maʊθ/`         | n. 嘴；口                 | She put the spoon in her mouth.<br />(她把勺子放进嘴里。) |
+| tremendous  | `/trɪˈmɛndəs/`   | adj. 巨大的；极好的        | They won the game by a tremendous margin.<br />(他们以巨大的优势赢得了比赛。) |
+| toward      | `/təˈwɔrd/`      | prep. 朝向；对于           | He walked toward the door.<br />(他朝门走去。) |
+| itinerary   | `/aɪˈtɪnəˌrɛri/` | n. 旅行计划；行程单         | She checked her itinerary to confirm the flight times.<br />(她查看了她的行程单以确认航班时间。) |
+
+
+
+
+
+
+
 ### Added: 2024.03.30
 
 ChatGPT 4.0 translations
@@ -341,16 +402,16 @@ ChatGPT 4.0 translations
 | ---------- | ---------------- | ---------------------------------- | ------------------------------------------------------------ |
 | spare      | `/spɛər/`        | adj. 多余的，备用的；<br>v. 节约    | adj. Keep a spare key in a safe place.<br />(将备用钥匙放在安全的地方。)<br />v. Please spare some food for the animals.<br />(请为动物留下一些食物。) |
 | brute      | `/bruːt/`        | adj. 野蛮的，残忍的；<br>n. 野兽    | adj. It was a brute force approach.<br />(这是一种野蛮的方式。)<br />n. He was a brute in his anger.<br />(他生气时像个野兽。) |
-| harbor     | `/ˈhɑːrbər/`     | n. 港口，避难所；<br>v. 怀有，藏匿   | n. The ship sailed into the harbor.<br />(船驶入港口。)<br />v. She harbored a secret for years.<br />(她隐藏了一个秘密多年。) |
+| harbor     | `/ˈhɑːrbər/`     | n. 港口，避难所；<br>v. 怀有（情感等） | n. The ship sailed into the harbor.<br />(船驶入港口。)<br />v. She harbored a secret for years.<br />(她隐藏了一个秘密多年。) |
 | accelerate | `/əkˈseləˌreɪt/` | v. 加速，促进                     | The car accelerated on the highway.<br />(汽车在高速公路上加速。) |
 | grade      | `/ɡreɪd/`        | n. 等级，年级；<br>v. 评分，分级    | n. She is in the ninth grade at school.<br />(她在学校上九年级。)<br />v. The teacher graded the exams fairly.<br />(老师公平地给考试打分。) |
-| true       | `/truː/`         | adj. 真实的，真正的                | Her story was found to be true.<br />(她的故事被发现是真的。) |
+| true       | `/truː/`         | adj. 真实的，正确的；adv. 真实地 | adj. The facts are true.<br />(这些事实是真实的。)<br />adv. true enough. (确实如此)<br />adv. Surprisingly, the story turned out to be true.<br />(令人惊讶的是，这个故事竟然是真实地。)<br />adv. He spoke true about his experiences`/ɪkˈspɪriənsɪz/` |
 | quiz       | `/kwɪz/`         | n. 小测验，问答游戏；<br />v. 测验，提问 | n. There will be a quiz next class.<br />(下堂课将有一个测验。)<br />v. The teacher quizzed us on our homework.<br />(老师就我们的作业对我们进行了提问。) |
 | thrift     | `/θrɪft/`        | n. 节俭，节约                     | Her thrift was admired by all.<br />(她的节俭受到所有人的赞赏。) |
 | dean       | `/diːn/`         | n. 院长，主任                     | The dean spoke at the graduation ceremony.<br />(院长在毕业典礼上发言。) |
-| catch      | `/kætʃ/`         | v. 捕捉，抓住；<br>n. 捕获物，好发现 | v. He tried to catch the ball.<br />(他试图抓住球。)<br />n. That was a good catch!<br />(那是个好捕获！) |
-| fitness    | `/ˈfɪtnəs/`      | n. 健康，适宜                     | His fitness improved with exercise.<br />(他的健康状况随着锻炼有所改善。) |
-| convenient | `/kənˈviːniənt/` | adj. 方便的，便利的                | The hotel is convenient to the airport.<br />(这家酒店去机场很方便。) |
+| catch      | `/kætʃ/`         | v. 捕捉，抓住；<br>n. 捕获物 | v. He tried to catch the ball.<br />(他试图抓住球。)<br />v. He caught the ball effortlessly.<br />(他毫不费力地接住了球。)<br />n. The fisherman boasted about his catch.<br />(渔夫夸耀他的捕获。)<br />n. That was a good catch!<br />(那是个好捕获！) |
+| fitness    | `/ˈfɪtnəs/`      | n. 健康，适合                  | His fitness improved with exercise.<br />(他的健康状况随着锻炼有所改善。) |
+| convenient | `/kənˈviːniənt/` | adj. 方便的，便利的                | The hotel is convenient to the airport.<br />(这家酒店去机场很方便。)<br />Is three o'clock convenient for you?<br />(三点钟你方便吗？) |
 
 
 
@@ -373,18 +434,18 @@ ChatGPT 4.0 translations
 | grazing     | `/ˈɡreɪzɪŋ/       | n. 放牧；牧草地      | The cows are out for grazing.<br>(奶牛出去吃草了。)          |
 | graze       | `/ɡreɪz/          | v. 放牧；擦伤        | The sheep graze on the hillside.<br>(绵羊在山坡上吃草。)     |
 
-| 单词        | 美式发音         | 词类 + 汉语释义                            | 示例                                                         |
-| ----------- | ---------------- | ------------------------------------------ | ------------------------------------------------------------ |
-| drum        | `/drʌm/`         | n. 鼓；v. 敲击                             | n. He plays the drum in a band.<br />(他在乐队中演奏鼓。)<br />v. He drummed his fingers on the table.<br />(他在桌子上敲击着手指。) |
-| aware       | `/əˈwer/`        | adj. 意识到的                              | She was aware of the problem.<br />(她意识到了问题。)        |
-| awareness   | `/əˈwernəs/`     | n. 意识，认识                              | Self-Awareness (自我意识/自我认知)<br />Raising awareness about health is important.<br />(提高健康意识很重要。) |
-| mill        | `/mɪl/`          | n. 磨坊；工厂；<br />v. 研磨；加工         | n. The old mill is a historic site.<br />(那座老磨坊是一个历史遗址。)<br />v. The farmer mills wheat into flour.<br />(农民把小麦磨成面粉。) |
-| normal      | `/ˈnɔːrməl/`     | adj. 正常的，常规的；<br />n. 常态，标准   | His behavior is perfectly normal.<br />(他的行为完全正常。)  |
-| range       | `/reɪndʒ/`       | n. 范围，系列；<br />v. 排列，变动         | n. The store offers a wide range of products.<br />(这家商店提供了广泛的产品范围。)<br />v. The discussion ranged over several topics.<br />(讨论涵盖了几个话题。) |
-| vast        | `/væst/`         | adj. 广阔的，巨大的                        | The vast plains stretch for miles.<br />(辽阔的平原延伸数英里。) |
-| exhaust     | `/ɪgˈzʌːst/`     | v. 使筋疲力尽，耗尽<br />n. 排气，废气；   | v. The long journey exhausted them.<br />(长途旅行使他们筋疲力尽。)<br />n. The car's exhaust was loud and smoky.<br />(汽车的排气响亮且冒烟。) |
-| disillusion | `/ˌdɪsəˈluːʒən/` | n. 幻灭；醒悟；<br />v. 使幻想破灭；使醒悟 | n. **Time to end this disillusion**: 是时候醒悟了<br />n. The end of the affair marked his disillusion with love.<br />(这段恋情的结束标志着他对爱情的幻灭。)<br />v. The realities of life disillusioned her.<br />(生活的现实使她幻想破灭。) |
-| fatigue     | `/fəˈtiːɡ/`      | n. 疲劳，疲乏；<br />v. 使疲劳             | n. The symptoms of the illness include fatigue.<br />(这种病的症状包括疲劳。)<br />v. The continuous work fatigued him.<br />(连续的工作使他感到疲劳。) |
+| 单词        | 美式发音         | 词类 + 汉语释义                          | 示例                                                         |
+| ----------- | ---------------- | ---------------------------------------- | ------------------------------------------------------------ |
+| drum        | `/drʌm/`         | n. 鼓；v. 敲击                           | n. He plays the drum in a band.<br />(他在乐队中演奏鼓。)<br />v. He drummed his fingers on the table.<br />(他在桌子上敲击着手指。) |
+| aware       | `/əˈwer/`        | adj. 意识到的                            | She was aware of the problem.<br />(她意识到了问题。)        |
+| awareness   | `/əˈwernəs/`     | n. 意识，认知                            | Self-Awareness (自我意识/自我认知)<br />Raising awareness about health is important.<br />(提高健康意识很重要。) |
+| mill        | `/mɪl/`          | n. 磨坊；工厂；<br />v. 研磨；加工       | n. The old mill is a historic site.<br />(那座老磨坊是一个历史遗址。)<br />v. The farmer mills wheat into flour.<br />(农民把小麦磨成面粉。) |
+| normal      | `/ˈnɔːrməl/`     | adj. 正常的，常规的；<br />n. 常态，标准 | His behavior is perfectly normal.<br />(他的行为完全正常。)  |
+| range       | `/reɪndʒ/`       | n. 范围，系列；<br />v. 排列，变动       | n. The store offers a wide range of products.<br />(这家商店提供了广泛的产品范围。)<br />v. The discussion ranged over several topics.<br />(讨论涵盖了几个话题。) |
+| vast        | `/væst/`         | adj. 广阔的，巨大的                      | The vast plains stretch for miles.<br />(辽阔的平原延伸数英里。) |
+| exhaust     | `/ɪgˈzʌːst/`     | v. 使筋疲力尽，耗尽<br />n. 排气，废气； | v. The long journey exhausted them.<br />(长途旅行使他们筋疲力尽。)<br />n. The car's exhaust was loud and smoky.<br />(汽车的排气响亮且冒烟。) |
+| disillusion | `/ˌdɪsəˈluːʒən/` | n. 幻灭；醒悟；<br />v. 使幻想破灭       | n. **Time to end this disillusion**: 是时候醒悟了<br />n. The end of the affair marked his disillusion with love.<br />(这段恋情的结束标志着他对爱情的幻灭。)<br />v. The realities of life disillusioned her.<br />(生活的现实使她幻想破灭。) |
+| fatigue     | `/fəˈtiːɡ/`      | n. 疲劳，疲乏；<br />v. 使疲劳           | n. The symptoms of the illness include fatigue.<br />(这种病的症状包括疲劳。)<br />v. The continuous work fatigued him.<br />(连续的工作使他感到疲劳。) |
 
 #### 单词解释
 
