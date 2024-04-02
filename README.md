@@ -5,6 +5,10 @@
 ==**真正的理解是无法速成的，需要大量系统性的输入和辩证的思考。**==
 
 
+
+
+
+
 GPT，我有 2 个疑问：
 1. 第三列中，单词的词性是按照：词类的使用频率和重要程度，从高到底排序？
 2. 第二个问题是关于表格中 2 个单词的：
@@ -14,20 +18,9 @@ GPT，我有 2 个疑问：
 
 
 
-1. magnificent /mæɡˈnɪfɪsnt/ 壮丽的；宏伟的；值得赞扬的
-2. primeval /praɪˈmiːvl/ adj. 原始的;远古的
-3. boa constrictor /ˈbəʊə kənstrɪktə(r)/ 巨蚺(南美蟒，捕食时把猎物缢死)
-4. in the act of /ɪn ðə ækt ɒv/ 正在做…
-5. chewing /ˈtʃuːɪŋ/
-6. prey /preɪ/
-7. pondered /ˈpɒndəd/ /d/ 没读  v.考虑;沉思;琢磨 ponder的过去分词和过去式~ (about/on/over sth)
-8. adventures /ədˈvɛntʃəz/
-9. jungle /ˈdʒʌŋɡl/ 丛林
-10. have things explained have “使，让”
-11. have +宾语+done (即动词过去分词) 结构，宾语被done
-12. have +宾语+do sth 动作的执行者为宾语 
-13. have +宾语+doing sth 动作的执行者为宾语,但是动词必须是持续性动词/延续性动词，后面常接一个时间段
-14. have +宾语+形容词/副词/介词短语 促使某一动作发生
+1. 
+6. 
+10. 
 15. Please have your money ready.请准备好钱
 16. devote /dɪˈvəʊt/
 17. **devote yourself to sb/sth** 献身；致力；专心

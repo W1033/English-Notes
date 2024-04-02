@@ -177,10 +177,6 @@ This translation aims to capture the primary and common uses of each word, provi
 
 
 
-
-
-
-
 ### Added: 2024.03.30
 
 ChatGPT 4.0 translations
@@ -224,8 +220,8 @@ ChatGPT 4.0 translations
 
 
 
-
 ### Added: 2024.03.29
+
 ChatGPT 4.0 translations
 
 ~~注：下面表格单词已写到 Goodnotes~~
@@ -396,7 +392,7 @@ ChatGPT 4.0 translations
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+注：下面表格单词已写到 Goodnotes -  笔记日期：24.04.01、02
 
 | 单词       | 美式发音         | 词类 + 汉语释义                    | 示例                                                         |
 | ---------- | ---------------- | ---------------------------------- | ------------------------------------------------------------ |
@@ -422,30 +418,28 @@ ChatGPT 4.0 translations
 
 ~~注：下面表格单词已写到 Goodnotes~~
 
-| 单词        | 美式发音          | 词类 + 汉语释义      | 示例                                                         |
-| ----------- | ----------------- | -------------------- | ------------------------------------------------------------ |
-| explanation | `/ˌɛkspləˈneɪʃən/ | n. 解释；说明        | He gave a clear explanation of how it works.<br>(他清楚地解释了它是如何工作的。) |
-| biggie      | `/ˈbɪɡi/          | n. 重要人物或事物    | That movie was a real biggie in the box office.<br>(那部电影是票房的重要作品。) |
-| reservation | `/ˌrɛzərˈveɪʃən/  | n. 预约；保留意见    | I have a reservation at the restaurant.<br>(我在那家餐厅有预约。) |
-| summon      | `/ˈsʌmən/         | v. 召唤；召集        | The president summoned his advisors to a meeting.<br>(总统召集他的顾问们开会。) |
-| noon        | `/nuːn/           | n. 正午；中午        | We plan to meet at noon.<br>(我们计划中午见面。)             |
-| misfortune  | `/mɪsˈfɔrtʃən/    | n. 不幸；厄运        | She suffered a great deal of misfortune.<br>(她遭受了很多不幸。) |
-| quiet       | `/ˈkwaɪət/        | adj. 安静的；n. 安静 | She prefers a quiet place to read.<br>(她喜欢在一个安静的地方读书。) |
-| grazing     | `/ˈɡreɪzɪŋ/       | n. 放牧；牧草地      | The cows are out for grazing.<br>(奶牛出去吃草了。)          |
-| graze       | `/ɡreɪz/          | v. 放牧；擦伤        | The sheep graze on the hillside.<br>(绵羊在山坡上吃草。)     |
-
-| 单词        | 美式发音         | 词类 + 汉语释义                          | 示例                                                         |
-| ----------- | ---------------- | ---------------------------------------- | ------------------------------------------------------------ |
-| drum        | `/drʌm/`         | n. 鼓；v. 敲击                           | n. He plays the drum in a band.<br />(他在乐队中演奏鼓。)<br />v. He drummed his fingers on the table.<br />(他在桌子上敲击着手指。) |
-| aware       | `/əˈwer/`        | adj. 意识到的                            | She was aware of the problem.<br />(她意识到了问题。)        |
-| awareness   | `/əˈwernəs/`     | n. 意识，认知                            | Self-Awareness (自我意识/自我认知)<br />Raising awareness about health is important.<br />(提高健康意识很重要。) |
-| mill        | `/mɪl/`          | n. 磨坊；工厂；<br />v. 研磨；加工       | n. The old mill is a historic site.<br />(那座老磨坊是一个历史遗址。)<br />v. The farmer mills wheat into flour.<br />(农民把小麦磨成面粉。) |
-| normal      | `/ˈnɔːrməl/`     | adj. 正常的，常规的；<br />n. 常态，标准 | His behavior is perfectly normal.<br />(他的行为完全正常。)  |
-| range       | `/reɪndʒ/`       | n. 范围，系列；<br />v. 排列，变动       | n. The store offers a wide range of products.<br />(这家商店提供了广泛的产品范围。)<br />v. The discussion ranged over several topics.<br />(讨论涵盖了几个话题。) |
-| vast        | `/væst/`         | adj. 广阔的，巨大的                      | The vast plains stretch for miles.<br />(辽阔的平原延伸数英里。) |
-| exhaust     | `/ɪgˈzʌːst/`     | v. 使筋疲力尽，耗尽<br />n. 排气，废气； | v. The long journey exhausted them.<br />(长途旅行使他们筋疲力尽。)<br />n. The car's exhaust was loud and smoky.<br />(汽车的排气响亮且冒烟。) |
-| disillusion | `/ˌdɪsəˈluːʒən/` | n. 幻灭；醒悟；<br />v. 使幻想破灭       | n. **Time to end this disillusion**: 是时候醒悟了<br />n. The end of the affair marked his disillusion with love.<br />(这段恋情的结束标志着他对爱情的幻灭。)<br />v. The realities of life disillusioned her.<br />(生活的现实使她幻想破灭。) |
-| fatigue     | `/fəˈtiːɡ/`      | n. 疲劳，疲乏；<br />v. 使疲劳           | n. The symptoms of the illness include fatigue.<br />(这种病的症状包括疲劳。)<br />v. The continuous work fatigued him.<br />(连续的工作使他感到疲劳。) |
+| 单词        | 美式发音           | 词类 + 汉语释义                          | 示例                                                         |
+| ----------- | ------------------ | ---------------------------------------- | ------------------------------------------------------------ |
+| drum        | `/drʌm/`           | n. 鼓；v. 敲击                           | n. He plays the drum in a band.<br />(他在乐队中演奏鼓。)<br />v. He drummed his fingers on the table.<br />(他在桌子上敲击着手指。) |
+| aware       | `/əˈwer/`          | adj. 意识到的                            | She was aware of the problem.<br />(她意识到了问题。)        |
+| awareness   | `/əˈwernəs/`       | n. 意识，认知                            | Self-Awareness (自我意识/自我认知)<br />Raising awareness about health is important.<br />(提高健康意识很重要。) |
+| mill        | `/mɪl/`            | n. 磨坊；工厂；<br />v. 研磨；加工       | n. The old mill is a historic site.<br />(那座老磨坊是一个历史遗址。)<br />v. The farmer mills wheat into flour.<br />(农民把小麦磨成面粉。) |
+| normal      | `/ˈnɔːrməl/`       | adj. 正常的，常规的；<br />n. 常态，标准 | His behavior is perfectly normal.<br />(他的行为完全正常。)  |
+| range       | `/reɪndʒ/`         | n. 范围，系列；<br />v. 排列，变动       | n. The store offers a wide range of products.<br />(这家商店提供了广泛的产品范围。)<br />v. The discussion ranged over several topics.<br />(讨论涵盖了几个话题。) |
+| vast        | `/væst/`           | adj. 广阔的，巨大的                      | The vast plains stretch for miles.<br />(辽阔的平原延伸数英里。) |
+| exhaust     | `/ɪgˈzʌːst/`       | v. 使筋疲力尽，耗尽<br />n. 排气，废气； | v. The long journey exhausted them.<br />(长途旅行使他们筋疲力尽。)<br />n. The car's exhaust was loud and smoky.<br />(汽车的排气响亮且冒烟。) |
+| disillusion | `/ˌdɪsəˈluːʒən/`   | n. 幻灭；醒悟；<br />v. 使幻想破灭       | n. **Time to end this disillusion**: 是时候醒悟了<br />n. The end of the affair marked his disillusion with love.<br />(这段恋情的结束标志着他对爱情的幻灭。)<br />v. The realities of life disillusioned her.<br />(生活的现实使她幻想破灭。) |
+| fatigue     | `/fəˈtiːɡ/`        | n. 疲劳，疲乏；<br />v. 使疲劳           | n. The symptoms of the illness include fatigue.<br />(这种病的症状包括疲劳。)<br />v. The continuous work fatigued him.<br />(连续的工作使他感到疲劳。) |
+|             |                    |                                          |                                                              |
+| explanation | `/ˌɛkspləˈneɪʃən/` | n. 解释；说明                            | He gave a clear explanation of how it works.<br>(他清楚地解释了它是如何工作的。) |
+| biggie      | `/ˈbɪɡi/`          | n. 重要人或物                            | That movie was a real biggie in the box office.<br>(那部电影是票房的重要作品。) |
+| reservation | `/ˌrɛzərˈveɪʃən/`  | n. 预订；保留(意见)                      | She made a reservation at the restaurant.<br />(她在餐厅进行了预订。)<br />He has some reservations about the proposal.<br />(他对这个提案有一些保留意见。) |
+| summon      | `/ˈsʌmən/`         | v. 召唤；召集                            | The president summoned his advisors to a meeting.<br>(总统召集他的顾问们开会。)<br />The magician summoned a rabbit out of the hat.<br />(魔术师召唤出一只兔子从帽子里。) |
+| noon        | `/nuːn/`           | n. 正午；中午                            | We plan to meet at noon.<br>(我们计划中午见面。)<br />He rarely gets up before noon. <br />(他很少在中午之前起床。) |
+| misfortune  | `/mɪsˈfɔrtʃən/`    | n. 灾难；不幸                            | She suffered a great deal of misfortune.<br>(她遭受了很多不幸。)<br />Poverty and misfortune.<br />(贫穷与不幸) |
+| quiet       | `/ˈkwaɪət/`        | adj. 安静的；<br />n. 安静               | adj. She prefers a quiet place to read.<br>(她喜欢在一个安静的地方读书。)<br />adj. We'll have to be quiet so as not to wake the baby.<br />(我们得安静点，免得吵醒宝宝。)<br />adj. It's a nice car. The engine's`/ˈendʒɪn/` really quiet. <br />(这车真好，发动机声音很小。)<br />n. We were enjoying the quiet of the forest.<br />(我们享受着森林的静谧。)<br />n. I've had an awful day – now I just want some peace and quiet. <br />(我今天过得糟透了 – 现在只想清静清静。) |
+| grazing     | `/ˈɡreɪzɪŋ/`       | n. 放牧；牧草地                          | The cows are out for grazing.<br>(奶牛出去吃草了。)<br />I counted 34 wild goats grazing. <br />(我数了有 34 只野山羊在吃草。)<br />Sheep are grazing. 羊在吃草。 |
+| graze       | `/ɡreɪz/`          | v. 放牧；擦伤                            | The sheep graze on the hillside.<br>(绵羊在山坡上吃草。)<br />Groups of cattle were grazing on the rich grass.<br />(牛群在肥美的青草地上吃草。)<br />fields where they used to graze their sheep. <br />(他们过去放养的田野。) |
 
 #### 单词解释
 
@@ -473,19 +467,19 @@ ChatGPT 4.0 translations
 
 #### 单词翻译表格
 
-| 单词              | 美式发音                                     | 词类 + 汉语释义                | 示例                                                         |
-| ----------------- | -------------------------------------------- | ------------------------------ | ------------------------------------------------------------ |
-| preface           | `/ˈprɛfɪs/`                                  | n. 前言；序言                  | The author wrote a touching preface for her novel.<br/>(作者为她的小说写了一段感人的前言。)<br />The author added a personal anecdote in the preface.<br>(作者在序言中加入了一个个人轶事。) |
-| hyphen            | `/ˈhaɪfən/`                                  | n. 连字符                      | A hyphen is used to join words like 'well-known'.<br/>(连字符用于连接像‘well-known’这样的词。)<br />Words are often connected by a hyphen to form a compound term.<br>(单词经常通过连字符连接形成复合词。) |
-| dash              | `/dæʃ/`                                      | n. 破折号；<br />v. 猛冲       | n. Use a dash to introduce a list or an explanation.<br>(使用破折号来引入列表或解释。)<br />n. Use a dash to separate parts of a sentence.<br/>(使用破折号来分隔句子的部分。)<br/>v. He dashed to the store before it closed.<br/>(他在商店关门前猛冲过去。) |
-| dine              | `/daɪn/`                                     | v. 用餐                        | They dined under the stars on the beach.<br>(他们在海滩上的星空下用餐。) |
-| compromise        | `/ˈkɑːmprəmaɪz/`                             | n. 妥协；<br>v. 妥协           | n. In the negotiations, both sides reached a compromise. <br />(在谈判中，双方达成了妥协。)<br>v. We should not compromise our principles. <br />(我们不应该妥协我们的原则。) |
-| not-so-nicely-lit | N/A                                          | adj. 照明不佳的                | The corridor was not-so-nicely-lit, creating a gloomy atmosphere.<br>(走廊照明不佳，营造出阴郁的氛围。) |
-| campus            | `/ˈkæmpəs/`                                  | n. 校园                        | The campus was buzzing with activity during the festival.<br>(节日期间，校园内活动繁忙。) |
-| off-campus        | `/ˌɔfˈkæmpəs/`                               | adj. 校园外的                  | Off-campus housing can be cheaper than living in dormitories.<br>(校外住宿的费用可能比住宿舍更便宜。) |
-| state-of-the-art  | `/ˌsteɪt əv ði ˈɑrt/`                        | adj. 最先进的                  | The laboratory is equipped with state-of-the-art instruments.<br>(实验室配备了最先进的仪器。) |
-| allergen          | `/ˈælərdʒən/`                                | n. 过敏原                      | Dust mites are a common allergen in homes.<br>(尘螨是家庭中常见的过敏原。)<br />Pollen is a common allergen that triggers hay fever.<br/>(花粉是引发花粉热的常见过敏原。) |
-| digest            | `/daɪˈdʒɛst/` (v.), <br />`/ˈdaɪdʒɛst/` (n.) | v. 消化；理解<br>n. 摘要；文摘 | v. It takes time to digest complex information. <br />(需要时间来消化复杂的信息。)<br>n. She read a digest of the week's news. <br />(她阅读了一周新闻的摘要。) |
+| 单词                       | 美式发音                                     | 词类 + 汉语释义                | 示例                                                         |
+| -------------------------- | -------------------------------------------- | ------------------------------ | ------------------------------------------------------------ |
+| preface                    | `/ˈprɛfɪs/`                                  | n. 前言；序言                  | The author wrote a touching preface for her novel.<br/>(作者为她的小说写了一段感人的前言。)<br />The author added a personal anecdote in the preface.<br>(作者在序言中加入了一个个人轶事。) |
+| hyphen                     | `/ˈhaɪfən/`                                  | n. 连字符                      | A hyphen is used to join words like 'well-known'.<br/>(连字符用于连接像‘well-known’这样的词。)<br />Words are often connected by a hyphen to form a compound term.<br>(单词经常通过连字符连接形成复合词。) |
+| dash                       | `/dæʃ/`                                      | n. 破折号；<br />v. 猛冲       | n. Use a dash to introduce a list or an explanation.<br>(使用破折号来引入列表或解释。)<br />n. Use a dash to separate parts of a sentence.<br/>(使用破折号来分隔句子的部分。)<br/>v. He dashed to the store before it closed.<br/>(他在商店关门前猛冲过去。) |
+| dine                       | `/daɪn/`                                     | v. 用餐                        | They dined under the stars on the beach.<br>(他们在海滩上的星空下用餐。) |
+| compromise                 | `/ˈkɑːmprəmaɪz/`                             | n. 妥协；<br>v. 妥协           | n. In the negotiations, both sides reached a compromise. <br />(在谈判中，双方达成了妥协。)<br>v. We should not compromise our principles. <br />(我们不应该妥协我们的原则。) |
+| not-so-nicely-lit（light） | N/A                                          | adj. 照明不佳的                | The corridor was not-so-nicely-lit, creating a gloomy atmosphere.<br>(走廊照明不佳，营造出阴郁的氛围。) |
+| campus                     | `/ˈkæmpəs/`                                  | n. 校园                        | The campus was buzzing with activity during the festival.<br>(节日期间，校园内活动繁忙。) |
+| off-campus                 | `/ˌɔfˈkæmpəs/`                               | adj. 校（园）外的              | Off-campus housing can be cheaper than living in dormitories.<br>(校外住宿的费用可能比住宿舍更便宜。) |
+| state-of-the-art           | `/ˌsteɪt əv ði ˈɑrt/`                        | adj. 最先进的                  | The laboratory is equipped with state-of-the-art instruments.<br>(实验室配备了最先进的仪器。) |
+| allergen                   | `/ˈælərdʒən/`                                | n. 过敏原                      | Dust mites are a common allergen in homes.<br>(尘螨是家庭中常见的过敏原。)<br />Pollen is a common allergen that triggers hay fever.<br/>(花粉是引发花粉热的常见过敏原。) |
+| digest                     | `/daɪˈdʒɛst/` (v.), <br />`/ˈdaɪdʒɛst/` (n.) | v. 消化；理解<br>n. 摘要；文摘 | v. It takes time to digest complex information. <br />(需要时间来消化复杂的信息。)<br>n. She read a digest of the week's news. <br />(她阅读了一周新闻的摘要。) |
 
 
 
