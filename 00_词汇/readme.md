@@ -120,6 +120,40 @@ advantage `/ədˈvæntɪdʒ/` 和 advice `/əd'vaɪs/`，读音中第一个是�
 
 ## ▲ 待编辑生词
 
+
+### Added: 2024.04.03
+
+ChatGPT 4.0 translations
+
+~~注：下面表格单词已写到 Goodnotes~~
+
+| 单词           | 美式发音          | 词类 + 汉语释义                | 示例                                                         |
+|----------------|-------------------|-------------------------------|--------------------------------------------------------------|
+| obsolete       | `/ˌɑːbsəˈliːt/` | adj. 过时的                   | The software is obsolete.<br />(这个软件已经过时。)<br />obsolete weapons.<br />(已淘汰的武器) |
+| delegate       | `/ˈdeləɡət/`（n.）<br>`/ˌdelɪˈɡeɪt/`（v.） | n. 代表<br>v. 委派           | n. He is a delegate at the conference.<br />(他是会议的代表。)<br />v. She will delegate the task to her team.<br />(她将把任务委派给她的团队。) |
+| hill           | `/hɪl/`           | n. 小山                       | They walked up the hill.<br />(他们走上了小山。)<br />A hawk hovered over the hill. <br />(一只鹰在小山的上空翱翔。) |
+| mere           | `/mɪr/`           | adj. 仅仅的，只不过的         | It's a mere formality.<br />(这只不过是个形式。) |
+| merely         | `/ˈmɪrli/`        | adv. 仅仅地                   | He merely laughed at the joke.<br />(他仅仅对那个笑话笑了笑。) |
+| pray           | `/preɪ/`          | v. 祈祷                       | They pray for good weather.<br />(他们祈求好天气。) |
+| chew           | `/tʃu/`           | v. 咀嚼                       | He chews slowly to savor his food.<br />(他慢慢咀嚼以享受食物。) |
+| savor / savour | `/ˈseɪvər/` | v. 品尝，享受；n. 滋味 | v. Savor the taste of the wine.<br />(品尝这葡萄酒的味道。)<br />n. The savor of the soup was delightful.<br />(这汤的滋味令人愉悦。) |
+| in the act of  |                   | phrase 在...过程中            | Caught in the act of lying, he had no excuse.<br />(在撒谎过程中被抓，他无法辩解。) |
+| magnificent    | `/mæɡˈnɪfəsənt/` | adj. 壮丽的，宏伟的           | The palace looks magnificent at night.<br />(宫殿在夜间看起来非常壮丽。) |
+| championship   | `/ˈtʃæmpiənˌʃɪp/`| n. 锦标赛                     | She aims to win the world championship.<br />(她的目标是赢得世界锦标赛。) |
+| session        | `/ˈsɛʃən/`        | n. 会议，会期                 | The session lasted two hours.<br />(会议持续了两个小时。) |
+| parliament     | `/ˈpɑrləmənt/`    | n. 议会                       | The parliament debated the new bill.<br />(议会讨论了新法案。) |
+| formality | `/fɔːrˈmælɪti/ | n. 正式手续；礼节 | Completing the form is just a formality.<br />(填写表格只是一种形式手续。) |
+| assembly | `/əˈsɛmbli/ | n. 集会；议会；装配 | The assembly passed a new law.<br />(议会通过了一项新法律。) |
+| plague | `/pleɪɡ/ | n. 瘟疫；灾害；v. 折磨，困扰 | n. The city was hit by a terrible plague.<br />(这个城市遭受了可怕的瘟疫。)<br />v. He was plagued by guilt.<br />(他被罪恶感折磨。) |
+| render | `/ˈrɛndər/ | v. 使成为；提供；演绎 | The court rendered a verdict of guilty.<br />(法院作出了有罪的裁决。) |
+|  |  |  |  |
+
+这次翻译尝试更准确地反映了每个单词的发音和含义，并提供了相应的示例。如果还需要进一步的调整或有其他单词需要翻译，请告诉我。
+
+
+
+
+
 ### Added: 2024.04.01
 
 ChatGPT 4.0 translations
@@ -401,7 +435,7 @@ ChatGPT 4.0 translations
 | harbor     | `/ˈhɑːrbər/`     | n. 港口，避难所；<br>v. 怀有（情感等） | n. The ship sailed into the harbor.<br />(船驶入港口。)<br />v. She harbored a secret for years.<br />(她隐藏了一个秘密多年。) |
 | accelerate | `/əkˈseləˌreɪt/` | v. 加速，促进                     | The car accelerated on the highway.<br />(汽车在高速公路上加速。) |
 | grade      | `/ɡreɪd/`        | n. 等级，年级；<br>v. 评分，分级    | n. She is in the ninth grade at school.<br />(她在学校上九年级。)<br />v. The teacher graded the exams fairly.<br />(老师公平地给考试打分。) |
-| true       | `/truː/`         | adj. 真实的，正确的；adv. 真实地 | adj. The facts are true.<br />(这些事实是真实的。)<br />adv. true enough. (确实如此)<br />adv. Surprisingly, the story turned out to be true.<br />(令人惊讶的是，这个故事竟然是真实地。)<br />adv. He spoke true about his experiences`/ɪkˈspɪriənsɪz/` |
+| true       | `/truː/`         | adj. 真实的，正确的；<br />adv. 真实地 | adj. The facts are true.<br />(这些事实是真实的。)<br />adv. true enough. (确实如此)<br />adv. Surprisingly, the story turned out to be true.<br />(令人惊讶的是，这个故事竟然是真实地。)<br />adv. He spoke true about his experiences`/ɪkˈspɪriənsɪz/`. <br />(他真实地讲述了自己的经历。) |
 | quiz       | `/kwɪz/`         | n. 小测验，问答游戏；<br />v. 测验，提问 | n. There will be a quiz next class.<br />(下堂课将有一个测验。)<br />v. The teacher quizzed us on our homework.<br />(老师就我们的作业对我们进行了提问。) |
 | thrift     | `/θrɪft/`        | n. 节俭，节约                     | Her thrift was admired by all.<br />(她的节俭受到所有人的赞赏。) |
 | dean       | `/diːn/`         | n. 院长，主任                     | The dean spoke at the graduation ceremony.<br />(院长在毕业典礼上发言。) |
