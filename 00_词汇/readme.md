@@ -142,14 +142,10 @@ ChatGPT 4.0 translations
 | championship   | `/ˈtʃæmpiənˌʃɪp/`| n. 锦标赛                     | She aims to win the world championship.<br />(她的目标是赢得世界锦标赛。) |
 | session        | `/ˈsɛʃən/`        | n. 会议，会期                 | The session lasted two hours.<br />(会议持续了两个小时。) |
 | parliament     | `/ˈpɑrləmənt/`    | n. 议会                       | The parliament debated the new bill.<br />(议会讨论了新法案。) |
-| formality | `/fɔːrˈmælɪti/ | n. 正式手续；礼节 | Completing the form is just a formality.<br />(填写表格只是一种形式手续。) |
-| assembly | `/əˈsɛmbli/ | n. 集会；议会；装配 | The assembly passed a new law.<br />(议会通过了一项新法律。) |
-| plague | `/pleɪɡ/ | n. 瘟疫；灾害；v. 折磨，困扰 | n. The city was hit by a terrible plague.<br />(这个城市遭受了可怕的瘟疫。)<br />v. He was plagued by guilt.<br />(他被罪恶感折磨。) |
-| render | `/ˈrɛndər/ | v. 使成为；提供；演绎 | The court rendered a verdict of guilty.<br />(法院作出了有罪的裁决。) |
-|  |  |  |  |
-
-这次翻译尝试更准确地反映了每个单词的发音和含义，并提供了相应的示例。如果还需要进一步的调整或有其他单词需要翻译，请告诉我。
-
+| formality      | `/fɔːrˈmælɪti/ | n. 正式手续；礼节 | Completing the form is just a formality.<br />(填写表格只是一种形式手续。) |
+| assembly       | `/əˈsɛmbli/ | n. 集会；议会；装配 | The assembly passed a new law.<br />(议会通过了一项新法律。) |
+| plague         | `/pleɪɡ/ | n. 瘟疫；灾害；v. 折磨，困扰 | n. The city was hit by a terrible plague.<br />(这个城市遭受了可怕的瘟疫。)<br />v. He was plagued by guilt.<br />(他被罪恶感折磨。) |
+| render         | `/ˈrɛndər/ | v. 使成为；提供；演绎 | The court rendered a verdict of guilty.<br />(法院作出了有罪的裁决。) |
 
 
 
