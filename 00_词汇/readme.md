@@ -131,9 +131,9 @@ ChatGPT 4.0 translations
 | boarding school  | `/ˈbɔrdɪŋ ˌskuːl/`   | n. 寄宿学校                          | She attended a boarding school in Switzerland.<br />(她在瑞士上了一所寄宿学校。) |
 | board | `/bɔːrd/` | n. 木板，董事会；<br />v. 登上（飞机﹑火车等） | n. He nailed the notice to the board.<br />(他把通知钉在木板上。)<br />v. We will board the plane soon.<br />(我们很快就要登机了。) |
 | through          | `/θruː/`             | prep. 通过；<br />adv. 从头到尾；<br />adj. 直通的 | prep. We walked through the park.<br />(我们穿过了公园。)<br />adv. I read the report through.<br />(我从头到尾读了这份报告。)<br />adv. He worked through the night.<br />(他彻夜工作。)<br />adj. The train is a through service.<br />(这列火车是直通服务。) |
-| industrial       | `/ɪnˈdʌstriəl/` | adj. 工业的；产业的                  | The city is known for its industrial development.<br />(这个城市以其工业发展而闻名。) |
-| subscribe        | `/səbˈskraɪb/`       | v. 订阅；同意                        | I subscribe to several magazines.<br />(我订阅了几本杂志。) |
-| different        | `/ˈdɪfərənt/`        | adj. 不同的                          | This painting is different from the others.<br />(这幅画与其他的不同。) |
+| industrial       | `/ɪnˈdʌstriəl/`      | adj. 工业的；产业的      | The city is known for its industrial development.<br />(这个城市以其工业发展而闻名。) |
+| subscribe        | `/səbˈskraɪb/`       | v. 订阅；同意           | I subscribe to several magazines.<br />(我订阅了几本杂志。) |
+| different        | `/ˈdɪfərənt/`        | adj. 不同的             | This painting is different from the others.<br />(这幅画与其他的不同。) |
 
 注：上面的表格单词已写到 Goodnotes - 笔记日期：2024.04.02、06 - 04.06
 
@@ -157,19 +157,18 @@ ChatGPT 4.0 translations
 
 | 单词         | 美式发音            | 词类 + 汉语释义                        | 示例                                                         |
 |--------------|---------------------|---------------------------------------|--------------------------------------------------------------|
-| question     | `/ˈkwɛsʧən/`     | n. 问题；疑问；<br />v. 询问；质疑；   | n. He asked a difficult question.<br />(他问了一个难题。)<br />n. I'm afraid I can't answer that question. <br />(我恐怕无法回答那个问题。)<br />v. They questioned the witness in court.<br />(他们在法庭上质询证人。) |
-| hood         | `/hʊd/             | n. 头巾；车辆的引擎盖                  | She wore a hood to protect herself from the rain.<br />(她戴了一个头巾以免淋雨。) |
-| anthem       | `/ˈænθəm/         | n. 国歌；赞美歌                        | The national anthem was played at the ceremony.<br />(仪式上播放了国歌。) |
-| critic       | `/ˈkrɪtɪk/         | n. 评论家；批评者                      | He is a well-known critic of modern art.<br />(他是现代艺术的著名评论家。) |
-| critical     | `/ˈkrɪtɪkəl/       | adj. 批评的；关键的                    | His work plays a critical role in the project.<br />(他的工作在这个项目中发挥了关键作用。) |
-| criticism    | `/ˈkrɪtɪˌsɪzəm/    | n. 批评，评论                          | She accepted the criticism with good grace.<br />(她优雅地接受了批评。) |
-| Crit or Criti|                     | 未找到明确对应                         | 通常用作"critic"或"critical"的缩写形式。                          |
-| stab         | `/stæb/            | v. 刺，戳                             | He stabbed the meat with a fork.<br />(他用叉子刺肉。) |
-| soak         | `/soʊk/            | v. 浸泡                               | Let the beans soak overnight.<br />(让豆子浸泡一夜。) |
-| kukri        | `/ˈkʊkri/          | n. 廓尔喀刀（尼泊尔的一种弯刀）        | The kukri is a traditional Nepalese knife.<br />(廓尔喀刀是尼泊尔的传统刀具。) |
-| agonize      | `/ˈægəˌnaɪz/       | v. 折磨，使极度痛苦                    | He agonized over the decision for days.<br />(他为这个决定苦恼了几天。) |
-| agonizing    | `/ˈægəˌnaɪzɪŋ/     | adj. 令人极度痛苦的                    | It was an agonizing choice to make.<br />(这是一个令人极度痛苦的选择。) |
-| shrivel      | `/ˈʃrɪvəl/         | v. （使）枯萎，（使）皱缩              | The leaves shrivel up in the hot sun.<br />(树叶在炎热的阳光下枯萎。) |
+| question     | `/ˈkwestʃən/` | n. 问题；疑问；<br />v. 询问；质疑；   | n. He asked a difficult question.<br />(他问了一个难题。)<br />n. I'm afraid I can't answer that question. <br />(我恐怕无法回答那个问题。)<br />v. They questioned the witness in court.<br />(他们在法庭上质询证人。) |
+| hood         | `/hʊd/`            | n. 头巾，风帽；（汽车的）引擎盖 | She wore a hood to protect herself from the rain.<br />(她戴了一个头巾以免淋雨。)<br />Love is not a hood, but an eyewater.<br />(爱情不是头巾，而是明目水。)<br />Check under the hood and see what that noise is.<br />(打开引擎盖查查是什么声音。) |
+| anthem       | `/ˈænθəm/`        | n. 国歌；赞美歌                        | The national anthem was played at the ceremony.<br />(仪式上播放了国歌。) |
+| critic       | `/ˈkrɪtɪk/`       | n. 评论家；批评家(/者)           | File/Movie critic. 影评家。<br />He is a well-known critic of modern art.<br />(他是现代艺术的著名评论家。) |
+| critical     | `/ˈkrɪtɪkəl/`      | adj. 批评的；关键的                    | His work plays a critical role in the project.<br />(他的工作在这个项目中发挥了关键作用。) |
+| criticism    | `/ˈkrɪtɪsɪzəm/`   | n. 批评，评论                          | There has been **widespread criticism** of the decision.<br />(这一决定受到了普遍的批评。)<br /> You must learn to **accept criticism**. <br />(你必须学会接受批评。)<br />She accepted the criticism with good grace.<br />(她优雅地接受了批评。) |
+| stab         | `/stæb/`           | v. 刺，戳；<br />n. 刺伤                 | v. He was **stabbed to death** in a fight.<br />(他在一次打斗中被捅死了。)<br />v. He stabbed the meat with a fork.<br />(他用叉子刺肉。)<br />n. The victim had a stab wound in the chest.<br />(受害者胸部有刺伤。)<br />n. severe stab wounds. 严重的刺伤。<br />n.  a stab victim. 一个被刀捅的人。 |
+| soak         | `/soʊk/`           | v. 浸泡;<br />n. 浸泡                | v. Let the beans soak overnight.<br />(让豆子浸泡一夜。)<br />v. Let the clothes soak in warm water.<br />(让衣服在温水中浸泡。)<br />v. Soak in a warm bath to relax. <br />(泡一个热水澡，放松一下。)<br />n. Give the beans a good soak before cooking.<br />(在烹饪前让豆子充分浸泡。)<br />n. Give the towels a good soak, they're very dirty. <br />(把毛巾好好泡一泡，太脏了。) |
+| kukri        | `/ˈkʊkri/`         | n. （印度廓尔喀人用的）反曲刀 | The kukri is a traditional Nepalese knife.<br />(廓尔喀刀是尼泊尔的传统刀具。) |
+| agonize      | `/ˈægənaɪz/`      | v. 折磨，使极度痛苦                    | agonize over a problem<br />苦苦思索一个问题<br />He agonized over the decision for days.<br />(他为这个决定苦恼了几天。) |
+| agonizing    | `/ˈægəˌnaɪzɪŋ/`    | adj. 令人极度痛苦的                    | The pain was agonizing.疼痛难忍。<br />It was an agonizing choice to make.<br />(这是一个令人极度痛苦的选择。) |
+| shrivel      | `/ˈʃrɪvəl/`        | v. （使）枯萎，（使）皱缩              | The leaves shrivel up in the hot sun.<br />(树叶在炎热的阳光下枯萎。)<br />a shrivelled apple. 一个干瘪的苹果 |
 
 | 单词         | 美式发音            | 词类 + 汉语释义                        | 示例                                                         |
 |--------------|---------------------|---------------------------------------|--------------------------------------------------------------|
