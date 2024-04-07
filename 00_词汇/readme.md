@@ -129,6 +129,7 @@ ChatGPT 4.0 translations
 | concern | `/kənˈsɜrn/` | n. 关注，担忧；<br />v. 涉及 | n. Health is a major concern.<br />(健康是一个主要的关注点。)<br />n. our concern for human right. <br />(我们对人权的关注。) <br />n. the rise of concern about the environment. <br />(对环境越来越多的关注)<br />v. The issue concerns all of us.<br />(这个问题涉及我们所有人。) |
 | raise | `/reɪz/` | v. 提高；筹集；养育 | We need to raise our standards.<br />(我们需要提高我们的标准。)<br />He raised the flag.<br />(他升起了旗帜。)<br />The charity event helped to raise funds.<br />(慈善活动帮助筹集了资金。)<br />They raised three children.<br />(他们养育了三个孩子。) |
 | boarding school  | `/ˈbɔrdɪŋ ˌskuːl/`   | n. 寄宿学校                          | She attended a boarding school in Switzerland.<br />(她在瑞士上了一所寄宿学校。) |
+| board | `/bɔːrd/` | n. 木板，董事会；<br />v. 登上（飞机﹑火车等） | n. He nailed the notice to the board.<br />(他把通知钉在木板上。)<br />v. We will board the plane soon.<br />(我们很快就要登机了。) |
 | through          | `/θruː/`             | prep. 通过；<br />adv. 从头到尾；<br />adj. 直通的 | prep. We walked through the park.<br />(我们穿过了公园。)<br />adv. I read the report through.<br />(我从头到尾读了这份报告。)<br />adv. He worked through the night.<br />(他彻夜工作。)<br />adj. The train is a through service.<br />(这列火车是直通服务。) |
 | industrial       | `/ɪnˈdʌstriəl/` | adj. 工业的；产业的                  | The city is known for its industrial development.<br />(这个城市以其工业发展而闻名。) |
 | subscribe        | `/səbˈskraɪb/`       | v. 订阅；同意                        | I subscribe to several magazines.<br />(我订阅了几本杂志。) |
@@ -141,20 +142,22 @@ ChatGPT 4.0 translations
 | crawl          | `/krɔːl/`            | v. 爬行                               | The baby learned to crawl before walking.<br />(这个婴儿在学会走路之前学会了爬行。) |
 | rather         | `/ˈræðər/`           | det. & adv. 宁愿；相当               | I'd rather stay home than go out.<br />(我宁愿呆在家里也不出去。)<br />I was rather surprised to see him with his ex-wife. <br />(我看到他和前妻在一起，感到相当惊讶。) |
 | rather than    | `/ˈræðər ˈðæn/`      | conj. 宁愿；而不是                    | I would prefer to stay home rather than go out tonight.<br />(我宁愿今晚呆在家里也不愿出去。) |
-| diploma        | `/dɪˈploʊmə/         | n. 文凭，毕业证书                      | He received his diploma after four years of study.<br />(四年学习后，他获得了文凭。) |
-| diplomat       | `/ˈdɪpləˌmæt/        | n. 外交官                             | The diplomat negotiated the treaty.<br />(这位外交官谈判了这项条约。) |
-| diplomatic     | `/ˌdɪpləˈmætɪk/      | adj. 外交的；有策略的                  | He handled the situation in a diplomatic way.<br />(他以外交手腕处理了这个情况。) |
-| doll           | `/dɑːl/              | n. 娃娃，玩偶                          | The child hugged her doll tightly.<br />(孩子紧紧拥抱着她的玩偶。) |
-| creepy         | `/ˈkriːpi/           | adj. 令人毛骨悚然的                    | The old house looked really creepy at night.<br />(那座老房子在夜晚看起来真的很恐怖。) |
-| thingamajig    | `/ˈθɪŋəməˌdʒɪɡ/      | n. [口]某物，玩意儿                    | I need that thingamajig to fix this.<br />(我需要那个玩意儿来修这个。) |
-| sabotage       | `/ˈsæbəˌtɑːʒ/        | v. 蓄意破坏                            | They tried to sabotage the enemy's infrastructure.<br />(他们试图破坏敌人的基础设施。) |
-| daisy          | `/ˈdeɪzi/            | n. 雏菊                               | He picked a daisy for her.<br />(他为她摘了一朵雏菊。) |
-| magnitude      | `/ˈmæɡnɪˌtud/        | n. 大小，重要性；（地震的）级数       | The magnitude of the problem is bigger than we thought.<br />(问题的严重性比我们想象的要大。) |
-| incidence      | `/ˈɪnsɪdəns/         | n. 发生率                             | The incidence of the disease has increased.<br />(这种病的发生率已经上升。) |
+| diploma        | `/dɪˈploʊmə/`        | n. 文凭，毕业证书                      | college diploma <br> (大学文凭/毕业证书)<br>high school diploma <br> (高中文凭)<br>postgraduate diploma <br> (研究生文凭)<br>graduate diploma <br> (硕士文凭/研究生文凭)<br>He received his diploma after four years of study.<br />(四年学习后，他获得了文凭。) |
+| diplomat       | `/ˈdɪpləmæt/`       | n. 外交官                             | French diplomats. 法国外交官<br />The diplomat negotiated the treaty.<br />(这位外交官谈判了这项条约。) |
+| treaty |  |  |  |
+| diplomatic     | `/ˌdɪpləˈmætɪk/`     | adj. 外交的；有策略的                  | diplomatic activity. 外交活动。<br />diplomatic relations. 外交关系。<br />The two conuntries established diplomatic relations last year. <br />(去年两国建立了外交关系。)<br />He handled the situation in a diplomatic way.<br />(他以外交手腕处理了这个情况。) |
+| doll           | `/dɑːl/`            | n. (洋)娃娃，玩偶                       | a small wooden doll. 一个小木头玩偶。<br />rag doll. 布洋娃娃。<br />The child hugged her doll tightly.<br />(孩子紧紧拥抱着她的玩偶。) |
+| creepy         | `/ˈkriːpi/`         | adj. 令人毛骨悚然的                    | The old house looked really creepy at night.<br />(那座老房子在夜晚看起来真的很恐怖。)<br />There’s something creepy about the way he looks at me.<br />(他看着我的样子让人有点毛骨悚然。)<br />The whole place feels creepy.<br />(整个地方让人感到毛骨悚然。) |
+| thingamajig    | `/ˈθɪŋəməˌdʒɪɡ/`     | n. [口]某物，玩意儿                    | I need that thingamajig to fix this.<br />(我需要那个玩意儿来修这个。)<br />What do you call that thingamajig? <br />You know – the circle with the line through it.<br />你管那东西叫什么？<br />你知道的——就是一个圆圈﹐中间穿一条线。 |
+| sabotage       | `/ˈsæbətɑːʒ/`      | v. 蓄意破坏                            | They tried to sabotage the enemy's infrastructure.<br />(他们试图破坏敌人的基础设施。)<br />Every single plane had been sabotaged.<br />(每架飞机都遭到了破坏。) |
+| daisy          | `/ˈdeɪzi/`           | n. 雏菊                               | He picked a daisy for her.<br />(他为她摘了一朵雏菊。) |
+| magnitude      | `/ˈmæɡnɪtuːd/`      | n. 大小，重要性；（地震的）级数       | The magnitude of the problem is bigger than we thought.<br />(问题的严重性比我们想象的要大。)<br />We did not realize the magnitude of the problem. <br />(我们没有意识到这个问题的重要性。)<br />The magnitude of the earthquake was recorded as 7.2 on the Richter scale.<br/>(地震的大小被记录为里氏7.2级。)<br />earthquake magnitude. 地震震级/等级 |
+| incidence      | `/ˈɪnsɪdəns/`       | n. （尤指罪行﹑疾病等的）发生率               | incidence rate. 发生率/发病率。<br />The incidence of the disease has increased.<br />(这种病的发生率已经上升。)<br />Why did the incidence of heroin use continue to climb?<br />(为什么吸食海洛因的人数持续攀升？)<br />Smokers had the highest incidence of colds. <br />(吸烟者的感冒发病率最高。) |
+| heroin | `/ˈheroʊɪn/` | n. 海洛因 |  |
 
 | 单词         | 美式发音            | 词类 + 汉语释义                        | 示例                                                         |
 |--------------|---------------------|---------------------------------------|--------------------------------------------------------------|
-| question     | `/ˈkwɛsʧən/       | n. 问题；v. 质疑                      | n. He asked a difficult question.<br />(他问了一个难题。)<br />v. They questioned the witness in court.<br />(他们在法庭上质询证人。) |
+| question     | `/ˈkwɛsʧən/`     | n. 问题；疑问；<br />v. 询问；质疑；   | n. He asked a difficult question.<br />(他问了一个难题。)<br />n. I'm afraid I can't answer that question. <br />(我恐怕无法回答那个问题。)<br />v. They questioned the witness in court.<br />(他们在法庭上质询证人。) |
 | hood         | `/hʊd/             | n. 头巾；车辆的引擎盖                  | She wore a hood to protect herself from the rain.<br />(她戴了一个头巾以免淋雨。) |
 | anthem       | `/ˈænθəm/         | n. 国歌；赞美歌                        | The national anthem was played at the ceremony.<br />(仪式上播放了国歌。) |
 | critic       | `/ˈkrɪtɪk/         | n. 评论家；批评者                      | He is a well-known critic of modern art.<br />(他是现代艺术的著名评论家。) |
@@ -225,7 +228,7 @@ ChatGPT 4.0 translations
 | desire        | `/dɪˈzaɪər/       | n. 欲望；v. 渴望                         | n. He has a strong desire to succeed.<br />(他有很强的成功欲望。)<br />v. She desires to travel the world.<br />(她渴望周游世界。) |
 | haggard       | `/ˈhæɡərd/        | adj. 憔悴的，枯槁的                      | The stress left him looking haggard.<br />(压力使他看起来憔悴。) |
 | sneer         | `/snɪr/           | v. 嘲笑；n. 冷笑                         | v. They sneered at his suggestions.<br />(他们对他的建议嗤之以鼻。)<br />n. His sneer made me angry.<br />(他的冷笑让我生气。) |
-| board         | `/bɔːrd/`      | n. 木板，董事会；<br />v. 登上（飞机﹑火车等） | n. He nailed the notice to the board.<br />(他把通知钉在木板上。)<br />v. We will board the plane soon.<br />(我们很快就要登机了。) |
+|              |                 |                                  |                                                              |
 
 ### 单词解释：
 
