@@ -116,6 +116,82 @@ advantage `/ədˈvæntɪdʒ/` 和 advice `/əd'vaɪs/`，读音中第一个是�
 
 ## ▲ 待编辑生词
 
+### Added: 2024.04.08
+ChatGPT 4.0 translations
+
+~~注：下面表格单词已写到 Goodnotes~~
+
+这里是您请求的单词的翻译及相关信息：
+
+| 单词            | 美式发音          | 词类 + 汉语释义                        | 示例                                                         |
+|-----------------|-------------------|---------------------------------------|--------------------------------------------------------------|
+| tough           | `/tʌf/`           | adj. 坚韧的；艰苦的                    | He is known for his tough character.<br />(他以其坚韧的性格著称。) |
+| cater           | `/ˈkeɪtər/`       | v. 提供饮食服务；迎合                  | They cater for weddings and other large events.<br />(他们为婚礼和其他大型活动提供饮食服务。) |
+| catering        | `/ˈkeɪtərɪŋ/`     | n. 餐饮服务                            | The hotel's catering is known for its quality.<br />(这家酒店的餐饮服务以其质量著称。) |
+| graduation      | `/ˌɡrædʒuˈeɪʃən/` | n. 毕业                                | The graduation ceremony will take place in June.<br />(毕业典礼将于六月举行。) |
+| postgraduate    | `/ˌpoʊstˈɡrædʒuɪt/`| adj. 研究生的；n. 研究生              | He is studying for his postgraduate degree.<br />(他正在攻读他的研究生学位。) |
+| treaty          | `/ˈtriːti/`       | n. 条约                                | The two countries signed a peace treaty.<br />(这两个国家签署了一项和平条约。) |
+| parlance        | `/ˈpɑːrləns/`     | n. 说法                                | In legal parlance, this process is very complex.<br />(在法律术语中，这个过程非常复杂。) |
+| clutch          | `/klʌtʃ/`         | n. 离合器；v. 抓住                     | He clutched the rope tightly.<br />(他紧紧抓住绳子。) |
+| rag             | `/ræɡ/`           | n. 破布；报纸（俚语）                  | She used a rag to clean the window.<br />(她用一块破布清洁窗户。) |
+| hug             | `/hʌɡ/`           | v. 拥抱                               | They hugged each other tightly.<br />(他们紧紧地拥抱了对方。) |
+| infrastructure  | `/ˈɪnfrəˌstrʌktʃər/`| n. 基础设施                          | The storm caused severe damage to the city's infrastructure.<br />(暴风雨对城市的基础设施造成了严重破坏。) |
+
+
+根据您的规则，这里是更新后的单词翻译表格：
+
+| 单词            | 美式发音          | 词类 + 汉语释义                     | 示例                                                         |
+|-----------------|-------------------|------------------------------------|--------------------------------------------------------------|
+| coefficient | `/ˌkoʊɪˈfɪʃənt/` | n. 系数 | The coefficient of friction determines how easily one object slides over another.<br />(摩擦系数决定了一个物体在另一个物体上滑动的难易程度。) |
+| tough           | `/tʌf/`           | adj. 坚韧的，艰难的                 | He is tough enough to handle the challenges.<br />(他足够坚韧，能应对这些挑战。) |
+| cater           | `/ˈkeɪtər/       | v. 迎合，满足需求                   | The new restaurant caters to vegans.<br />(这家新餐馆迎合素食者的需求。) |
+| catering        | `/ˈkeɪtərɪŋ/     | n. 餐饮服务                         | She works in catering and plans events.<br />(她从事餐饮服务，并策划活动。) |
+| graduation      | `/ˌɡrædʒuˈeɪʃən/ | n. 毕业                             | The graduation ceremony is next month.<br />(毕业典礼是下个月。) |
+| postgraduate    | `/ˌpoʊstˈɡrædʒuɪt/| n. 研究生                           | He is a postgraduate studying economics.<br />(他是一名研究经济学的研究生。) |
+| treaty          | `/ˈtriːti/       | n. 条约                             | They signed a treaty to end the conflict.<br />(他们签署了一项条约以结束冲突。) |
+| parlance        | `/ˈpɑːrləns/     | n. 说法，用语                       | In legal parlance, that term has a specific meaning.<br />(在法律术语中，那个词有特定的含义。) |
+| clutch          | `/klʌtʃ/         | n. 离合器；v. 紧抓                   | n. The clutch in the car is broken.<br />(车的离合器坏了。)<br />v. She clutched the child’s hand tightly.<br />(她紧紧抓住孩子的手。) |
+| rag             | `/ræɡ/           | n. 破布                             | He used a rag to clean the spill.<br />(他用一块破布清理溢出的液体。) |
+| hug             | `/hʌɡ/           | v. 拥抱                             | They hugged each other in farewell.<br />(他们在告别时拥抱了对方。) |
+| infrastructure  | `/ˈɪnfrəˌstrʌktʃər/| n. 基础设施                        | The earthquake damaged the city's infrastructure.<br />(地震损坏了城市的基础设施。) |
+| plan            | `/plæn/`        | n. 计划；<br />v. 规划               | n. We have a plan for the project.<br />(我们有一个项目计划。)<br />v. We plan to visit France next year.<br />(我们计划明年访问法国。)<br />v. We plan to travel to Europe next year.<br />(我们计划明年去欧洲旅行。) |
+| plane           | `/pleɪn/`       | n. 飞机；平面                        | The plane will land in an hour.<br />(飞机将在一小时内着陆。)<br />The plane will depart at 6 PM.<br />(飞机将于下午6点起飞。)<br />In mathematics, a plane is a flat, two-dimensional surface.<br />(在数学中，平面是一个平坦的二维表面。) |
+| daffy          | `/ˈdæfi/`           | adj. 愚蠢的，疯狂的    | She made a daffy decision and regretted it later.<br/>他做了一个愚蠢的决定，之后后悔了。<br />His ideas are a bit daffy but interesting.<br />(他的想法有点傻，但很有趣。)<br />He's got some daffy ideas about how to solve the problem.<br/>他对如何解决问题有一些荒唐的想法。 |
+
+| 单词           | 美式发音                 | 词类 + 汉语释义                            | 示例                                                         |
+|----------------|--------------------------|-------------------------------------------|--------------------------------------------------------------|
+|              |                   |                     |  |
+| interstitial   | `/ˌɪntərˈstɪʃəl/        | adj. 间质的，间隙的                        | Interstitial spaces are found in tissues.<br />(组织中存在间质空间。) |
+| pneumonia      | `/njuːˈmoʊniə/          | n. 肺炎                                    | Pneumonia is a serious respiratory condition.<br />(肺炎是一种严重的呼吸系统疾病。) |
+| cerebral       | `/ˈsɛrəbrəl/            | adj. 大脑的                                | Cerebral functions refer to activities of the brain.<br />(大脑功能指的是大脑的活动。) |
+| ependymitis    | `/ˌɛpɛnˈdɪmɪtɪs/        | n. 室管膜炎                                | Ependymitis is inflammation of the ependymal cells of the brain.<br />(室管膜炎是大脑室管膜细胞的炎症。) |
+| vascular       | `/ˈvæskjələr/           | adj. 血管的                                | Vascular diseases affect the body's blood vessels.<br />(血管疾病影响身体的血管。) |
+| infiltration   | `/ˌɪnfɪlˈtreɪʃən/       | n. 渗透；浸润                              | The infiltration of water into the soil is essential for plant growth.<br />(水分对土壤的渗透对植物生长至关重要。) |
+| hemodia        | `/ˌhiːmoʊˈdaɪə/         | n. 血液透析                                | Hemodia is a process of purifying blood.<br />(血液透析是一种净化血液的过程。) |
+| lysis          | `/ˈlaɪsɪs/              | n. 溶解，分解                              | Lysis is the breaking down of cells.<br />(溶解是指细胞的分解过程。) |
+| peritoneal     | `/ˌpɛrɪˈtoʊniəl/        | adj. 腹膜的                                | Peritoneal dialysis involves the peritoneum in cleaning the blood.<br />(腹膜透析涉及使用腹膜清洁血液。) |
+| dialysis       | `/daɪˈæləsɪs/           | n. 透析                                    | Dialysis is a treatment for kidney failure.<br />(透析是一种治疗肾功能衰竭的方法。) |
+| uremia         | `/jʊˈriːmiə/            | n. 尿毒症                                  | Uremia is a condition resulting from kidney failure.<br />(尿毒症是肾功能衰竭的一种表现。) |
+
+| 单词          | 美式发音               | 词类 + 汉语释义                       | 示例                                                         |
+|---------------|------------------------|--------------------------------------|--------------------------------------------------------------|
+| babysitter    | `/ˈbeɪbɪˌsɪtər/      | n. 保姆                               | She hired a babysitter to watch her children.<br />(她雇了一个保姆来看孩子。) |
+| note          | `/noʊt/               | n. 笔记；便条；v. 注意；记录          | n. He took detailed notes during the lecture.<br />(他在讲座中做了详细的笔记。)<br />v. Please note the change in schedule.<br />(请注意时间表的变化。) |
+| interviewer   | `/ˌɪn.təˈvjuː.ər/    | n. 面试官                             | The interviewer asked many challenging questions.<br />(面试官提出了许多具有挑战性的问题。) |
+| portfolio     | `/pɔːrˈtfoʊlioʊ/     | n. 投资组合；作品集                   | He manages a diverse investment portfolio.<br />(他管理着一个多样化的投资组合。) |
+| immediate     | `/ɪˈmiːdiət/         | adj. 立即的；直接的                   | The accident required immediate attention.<br />(这次事故需要立即处理。) |
+| highest       | `/ˈhaɪɪst/            | adj. 最高的                           | She achieved the highest score in the class.<br />(她在班上取得了最高分。) |
+| asphyxia      | `/æsˈfɪksiə/          | n. 窒息                               | Asphyxia can be caused by a lack of oxygen.<br />(窒息可能是由缺氧引起的。) |
+| neonatorum    | `/ˌniːəˈneɪtərəm/     | n. (用于医学术语) 新生儿的            | Neonatal asphyxia is a serious condition.<br />(新生儿窒息是一种严重的状况。) |
+| occurrence    | `/əˈkɜːrəns/         | n. 发生；事件                         | The occurrence of such incidents has decreased.<br />(此类事件的发生已经减少。) |
+| radius        | `/ˈreɪdiəs/           | n. 半径                               | The circle has a radius of 5 centimeters.<br />(这个圆的半径是5厘米。) |
+| isometry      | `/aɪˈsɒmətri/         | n. 等距映射                           | Isometry is an important concept in geometry.<br />(等距映射是几何学中的一个重要概念。) |
+| diversity     | `/daɪˈvɜːrsəti/       | n. 多样性                             | The company is committed to promoting diversity.<br />(该公司致力于促进多样性。) |
+
+
+
+
+
 ### Added: 2024.04.06
 ChatGPT 4.0 translations
 
@@ -153,7 +229,7 @@ ChatGPT 4.0 translations
 | daisy          | `/ˈdeɪzi/`           | n. 雏菊                               | He picked a daisy for her.<br />(他为她摘了一朵雏菊。) |
 | magnitude      | `/ˈmæɡnɪtuːd/`      | n. 大小，重要性；（地震的）级数       | The magnitude of the problem is bigger than we thought.<br />(问题的严重性比我们想象的要大。)<br />We did not realize the magnitude of the problem. <br />(我们没有意识到这个问题的重要性。)<br />The magnitude of the earthquake was recorded as 7.2 on the Richter scale.<br/>(地震的大小被记录为里氏7.2级。)<br />earthquake magnitude. 地震震级/等级 |
 | incidence      | `/ˈɪnsɪdəns/`       | n. （尤指罪行﹑疾病等的）发生率               | incidence rate. 发生率/发病率。<br />The incidence of the disease has increased.<br />(这种病的发生率已经上升。)<br />Why did the incidence of heroin use continue to climb?<br />(为什么吸食海洛因的人数持续攀升？)<br />Smokers had the highest incidence of colds. <br />(吸烟者的感冒发病率最高。) |
-| heroin | `/ˈheroʊɪn/` | n. 海洛因 |  |
+| heroin | `/ˈheroʊɪn/` | n. 海洛因 | Heroin is a highly addictive drug.<br />(海洛因是一种高度成瘾的药物。) |
 
 | 单词         | 美式发音            | 词类 + 汉语释义                        | 示例                                                         |
 |--------------|---------------------|---------------------------------------|--------------------------------------------------------------|
