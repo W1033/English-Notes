@@ -246,6 +246,9 @@ ChatGPT 4.0 translations
 | agonizing    | `/ˈægəˌnaɪzɪŋ/`    | adj. 令人极度痛苦的                    | The pain was agonizing.疼痛难忍。<br />It was an agonizing choice to make.<br />(这是一个令人极度痛苦的选择。) |
 | shrivel      | `/ˈʃrɪvəl/`        | v. （使）枯萎，（使）皱缩              | The leaves shrivel up in the hot sun.<br />(树叶在炎热的阳光下枯萎。)<br />a shrivelled apple. 一个干瘪的苹果 |
 
+注：上面 2 个表格的单词已写到 Goodnotes - 笔记日期：2024.04.07, 2024.04.08
+
+
 | 单词         | 美式发音            | 词类 + 汉语释义                        | 示例                                                         |
 |--------------|---------------------|---------------------------------------|--------------------------------------------------------------|
 | blind        | `/blaɪnd/          | adj. 盲的；n. 百叶窗                  | adj. He is blind in one eye.<br />(他的一只眼睛看不见。)<br />n. She pulled down the blind to block the sunlight.<br />(她拉下百叶窗挡住阳光。) |
@@ -287,8 +290,6 @@ ChatGPT 4.0 translations
 | sally        | `/ˈsæli/           | n. 突然出击；v. 突出                    | The troops made a sally against the enemy.<br />(部队对敌人发动了突然攻击。) |
 | dictation    | `/dɪkˈteɪʃən/      | n. 听写；口述                           | The students had an English dictation test.<br />(学生们进行了一次英语听写测试。) |
 | ordinary     | `/ˈɔːrdəneri/      | adj. 普通的，平凡的                     | It was just an ordinary day.<br />(那只是平凡的一天。) |
-
-这里是您请求的单词的翻译及相关信息：
 
 | 单词          | 美式发音          | 词类 + 汉语释义                          | 示例                                                         |
 |---------------|--------------------|-----------------------------------------|--------------------------------------------------------------|
