@@ -116,12 +116,94 @@ advantage `/ədˈvæntɪdʒ/` 和 advice `/əd'vaɪs/`，读音中第一个是�
 
 ## ▲ 待编辑生词
 
-### Added: 2024.04.08
+
+### Added: 2024.04.09
 ChatGPT 4.0 translations
 
 ~~注：下面表格单词已写到 Goodnotes~~
 
-这里是您请求的单词的翻译及相关信息：
+| 单词        | 美式发音         | 词类 + 汉语释义          | 示例 |
+|-------------|------------------|-------------------------|------|
+| pillow      | `/ˈpɪloʊ/`       | n. 枕头                 | She bought a new pillow for the bed. |
+| friction    | `/ˈfrɪkʃən/`     | n. 摩擦                 | Friction between the two surfaces caused heat. |
+| fell        | `/fɛl/`          | v. 砍倒；过去式 of fall | He fell a tree to clear the path. |
+| commercial  | `/kəˈmɜːrʃəl/`   | adj. 商业的；n. 商业广告 | The commercial product was a success.<br />They aired a new commercial during the show. |
+| shipwreck   | `/ˈʃɪprɛk/`      | n. 船难                 | The old shipwreck was discovered off the coast. |
+| mendicant   | `/ˈmɛndɪkənt/`   | n. 乞丐                 | The mendicant asked for food on the street. |
+| limitation  | `/ˌlɪmɪˈteɪʃən/` | n. 限制                 | The contract has several limitations on usage. |
+| furnish     | `/ˈfɜːrnɪʃ/`     | v. 提供；装备           | They furnished the house with new furniture. |
+
+
+
+根据您的指示和翻译规则，这里是更新后的单词翻译表格，包含中文翻译的示例：
+
+| 单词         | 美式发音          | 词类 + 汉语释义         | 示例 |
+|--------------|-------------------|------------------------|------|
+| billow       | `/ˈbɪloʊ/`      | n. 巨浪；v. 涌动         | n. The boat struggled against the billows.<br />(船只在巨浪中挣扎。)<br />n. The billows of the sea were mesmerizing.<br />(海的波浪令人着迷。)<br />v. Smoke billowed from the chimney.<br />(烟雾从烟囱中涌出。)<br />v. The smoke billowed into the sky.<br />(烟雾腾向天空。) |
+| commercial   | `/kəˈmɜːrʃəl/`   | adj. 商业的；<br />n. 商业广告 | adj. The commercial interests were prioritized.<br />(商业利益被优先考虑。)<br />adj. The commercial sector is expanding rapidly.<br />(商业部门正在迅速扩张。)<br />n. The commercial break is too long.<br />(商业广告时间太长。) |
+| pillow       | `/ˈpɪloʊ/`       | n. 枕头                | She fluffed the pillow before going to bed.<br />(她在上床睡觉前拍打枕头。)<br />I'll be sleep as soon as my head hits the pillow. <br />(我头一碰到枕头就会睡着。) |
+| towel        | `/ˈtaʊəl/`       | n. 毛巾；<br />v. 用毛巾擦 | n. He grabbed a towel to dry off.<br />(他抓起一条毛巾擦干。)<br />n. Have you got a clean towel I could use? <br />(你有没有干净毛巾给我用？)<br />v. Towel your hair after the shower.<br />(洗澡后用毛巾擦头发。) |
+| infect       | `/ɪnˈfɛkt/`      | v. 感染                | He was infected with a rare virus.<br />(他被一种罕见的病毒感染。)<br />The virus can infect humans and animals.<br />(这种病毒能感染人类和动物。) |
+| virus | `/ˈvaɪrəs/` | n. 病毒 | The virus spreads through the air.<br />(病毒通过空气传播。) |
+| disinfect    | `/ˌdɪsɪnˈfɛkt/`  | v. 消毒                | They need to disinfect the wound to prevent infection.<br />(他们需要对伤口进行消毒以防感染。) |
+| erase        | `/ɪˈreɪs/`       | v. 擦除                | She erased the mistake from her notebook.<br />(她从笔记本上擦掉了错误。) |
+| allegory     | `/ˈæləɡɔːri/`   | n. 寓言                | The story was an allegory for the political situation.<br />(这个故事是对政治局势的寓言。) |
+| situate | `/ˈsɪtʃueɪt/` | v. 位于，坐落于 | The village is situated in a valley.<br />(这个村庄位于一个山谷中。) |
+| situation | `/ˌsɪtʃuˈeɪʃən/` | n. 情况，形势 | They are assessing the situation after the storm.<br />(暴风雨过后，他们正在评估情况。) |
+| cave         | `/keɪv/          | n. 洞穴；v. 屈服       | n. They explored the cave for archaeological research.<br />(他们为考古研究探索了这个洞穴。)<br />v. Under pressure, he finally caved.<br />(在压力下，他最终屈服了。) |
+| wonderland   | `/ˈwʌndərlænd/   | n. 奇境                | The theme park was like a winter wonderland.<br />(主题公园就像一个冬日仙境。) |
+| down         | `/daʊn/          | adv. 下；adj. 沮丧的   | adv. He walked down the stairs.<br />(他走下楼梯。)<br />adj. She felt down after losing the game.<br />(输掉比赛后，她感到沮丧。) |
+| international| `/ˌɪntərˈnæʃənl/ | adj. 国际的            | The company expanded its international presence.<br />(该公司扩大了其国际存在。) |
+| literal      | `/ˈlɪtərəl/      | adj. 字面的            | His interpretation of the poem was too literal.<br />(他对这首诗的解释太过字面。) |
+| friction     | `/ˈfrɪkʃən/      | n. 摩擦                | Friction between the two groups caused the conflict.<br />(两个团体之间的摩擦引发了冲突。) |
+| fell         | `/fɛl/`         | v. fall 的过去式；<br />adj. 凶猛的 | v. He fell from the bike.<br />(他从自行车上摔下来了。)<br />adj. The fell beast scared everyone in the village.<br />(凶猛的野兽吓坏了村里的每一个人。) |
+| fall | `/fɔːl/` | v. 落下；降临；失败 | Leaves fall from the trees in autumn.<br />(秋天树叶落下。)<br />Darkness falls quickly in the winter.<br />(冬天黑夜来临得很快。) |
+| shipwreck    | `/ˈʃɪprɛk/       | n. 船难                | The old shipwreck was found near the island.<br />(在岛附近发现了一艘古老的沉船。) |
+| bound        | `/baʊnd/         | adj. 必定的；v. 跳跃   | adj. He is bound to succeed.<br />(他必定会成功。)<br />v. The rabbit bounded across the field.<br />(兔子跳跃穿过田野。) |
+| johnny       | `/ˈdʒɑni/        | n. 男孩，家伙          | Johnny worked hard to achieve his goals.<br />(约翰尼努力工作以实现他的目标。) |
+| mendicant    | `/ˈmɛndɪkənt/    | n. 乞丐                | The mendicant asked for alms on the bridge.<br />(那个乞丐在桥上乞讨。) |
+| limitation   | `/ˌlɪmɪˈteɪʃən/  | n. 限制                | The contract imposes strict limitations on usage.<br />(合同对使用施加了严格的限制。) |
+| furnish      | `/ˈfɜrnɪʃ/       | v. 装备，提供          | They furnished the apartment with modern furniture.<br />(他们用现代家具装备了这套公寓。) |
+
+### 单词简单解释
+
+- "situate" 作为动词，常用于描述物体或地点的位置，意指“位于”或“坐落于”某个地方。
+- "situation" 是名词，指的是特定时刻或事件中的状态、环境或一系列事件，常用来描述“情况”或“形势”。
+- **fall (v.)**
+    - fall 描述从较高位置到较低位置的移动，意指 **`落下`** 。例如：秋天时，树叶会从树上落下。此外，fall 也用于形容某种状态或事件的到来，即 **`降临`** ，比如说：夜幕的降临。在更广义的用法中，fall 还可以表示在社会、经济或道德方面的 **`失败`** 或下降，例如：公司可能会因经济危机而失败。
+
+Here are the translations and explanations for the requested words, following the guidelines for concise and comprehensive understanding:
+
+| Word          | American Pronunciation | Part of Speech + Chinese Translation  | Example |
+|---------------|------------------------|--------------------------------------|---------|
+| pretty        | `/ˈprɪti/             | adj. 漂亮的；相当地                  | She has a pretty dress.<br />(她有一条漂亮的裙子。) |
+| classy        | `/ˈklæsi/             | adj. 高档的，有品位的                | That restaurant is very classy.<br />(那家餐厅非常高档。) |
+| tony          | `/ˈtoʊni/             | adj. (俚)豪华的，时髦的              | She lives in a tony neighborhood.<br />(她住在一个豪华的社区。) |
+| cute          | `/kjuːt/              | adj. 可爱的                          | The puppy is very cute.<br />(那只小狗非常可爱。) |
+| indestructible| `/ˌɪndɪˈstrʌktəbəl/   | adj. 坚不可摧的                      | The material is almost indestructible.<br />(这种材料几乎坚不可摧。) |
+| mast          | `/mæst/               | n. 桅杆                              | The ship has three masts.<br />(这艘船有三根桅杆。) |
+| overboard     | `/ˌoʊvərˈbɔːrd/       | adv. 船外，过头                      | He accidentally fell overboard.<br />(他不小心掉到船外。) |
+| light         | `/laɪt/               | n. 光；adj. 轻的；v. 点亮            | n. The light from the sun is bright.<br />(来自太阳的光很亮。)<br />adj. The box is light enough to carry.<br />(这个盒子很轻，可以搬运。)<br />v. Light the candle.<br />(点亮蜡烛。) |
+| grant         | `/ɡrænt/              | v. 授予，同意；n. 补助金             | v. They granted him permission.<br />(他们授予了他许可。)<br />n. She received a grant for her research.<br />(她获得了研究补助金。) |
+| alternative   | `/ɔlˈtɜrnətɪv/        | adj. 替代的；n. 替代品               | adj. We need an alternative plan.<br />(我们需要一个替代计划。)<br />n. This route is an alternative to the main road.<br />(这条路线是主路的一个替代选择。) |
+| bound         | `/baʊnd/              | n. 界限；adj. 必定的；v. 跳跃        | n. We reached the northern bound of the park.<br />(我们到达了公园的北界。)<br />adj. She is bound to succeed.<br />(她必定会成功。)<br />v. The rabbit bounded across the field.<br />(兔子跳跃着穿过田野。) |
+| johnny        | `/ˈdʒɑni/             | n. (口语)男人，小伙子                | Johnny did well in school today.<br />(约翰尼今天在学校表现很好。) |
+
+This list provides a balanced translation focusing on the most important meanings and common usages of each word. If there are any more words to translate or any details to adjust, please let me know.
+
+
+
+
+
+
+
+
+
+
+### Added: 2024.04.08
+ChatGPT 4.0 translations
+
+~~注：下面表格单词已写到 Goodnotes~~
 
 | 单词            | 美式发音          | 词类 + 汉语释义                        | 示例                                                         |
 |-----------------|-------------------|---------------------------------------|--------------------------------------------------------------|
@@ -160,7 +242,6 @@ ChatGPT 4.0 translations
 
 | 单词           | 美式发音                 | 词类 + 汉语释义                            | 示例                                                         |
 |----------------|--------------------------|-------------------------------------------|--------------------------------------------------------------|
-|              |                   |                     |  |
 | interstitial   | `/ˌɪntərˈstɪʃəl/        | adj. 间质的，间隙的                        | Interstitial spaces are found in tissues.<br />(组织中存在间质空间。) |
 | pneumonia      | `/njuːˈmoʊniə/          | n. 肺炎                                    | Pneumonia is a serious respiratory condition.<br />(肺炎是一种严重的呼吸系统疾病。) |
 | cerebral       | `/ˈsɛrəbrəl/            | adj. 大脑的                                | Cerebral functions refer to activities of the brain.<br />(大脑功能指的是大脑的活动。) |
