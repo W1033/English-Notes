@@ -116,6 +116,59 @@ advantage `/ədˈvæntɪdʒ/` 和 advice `/əd'vaɪs/`，读音中第一个是�
 
 ## ▲ 待编辑生词
 
+### Added: 2024.04.10
+ChatGPT 4.0 translations
+
+~~注：下面表格单词已写到 Goodnotes~~
+
+遵循之前讨论的翻译规则，这里是所请求单词的翻译：
+
+| 单词           | 美式发音             | 词类 + 汉语释义         | 示例 |
+|----------------|----------------------|------------------------|------|
+| discipline | `/ˈdɪsəplɪn/` | n. 纪律；学科；<br />v. 训练，惩罚 | n. Discipline is crucial in military training.<br />(纪律在军事训练中至关重要。)<br />n. Discipline is important for team success.<br />(纪律对团队成功很重要。)<br />n. He studies in the discipline of biology.<br />(他在生物学领域进行研究。)<br />v. The coach disciplined the player for misconduct.<br />(教练因为球员的不当行为而对其进行惩罚。) |
+| academic       | `/ˌækəˈdɛmɪk/      | adj. 学术的；<br />n. 学者 | adj. The research has academic significance.<br />(这项研究具有学术意义。)<br />n. She is a respected academic in her field.<br />(她是她领域内受尊敬的学者。) |
+| humanity       | `/hjuːˈmænɪti/      | n. 人类；人文学科      | n. We should work together for the sake of humanity.<br />(我们应该为了人类的利益共同努力。) |
+| compatibility  | `/ˌkɑːmpætəˈbɪlɪti/ | n. 兼容性             | n. The compatibility of the software with all systems is tested.<br />(软件与所有系统的兼容性已经过测试。) |
+| trend          | `/trɛnd/            | n. 趋势               | n. The trend in the data shows an increase in sales.<br />(数据趋势显示销售增加。) |
+| tile           | `/taɪl/             | n. 瓷砖；<br />v. 铺瓷砖 | n. The kitchen floor is covered with tiles.<br />(厨房地板铺有瓷砖。) |
+| chimney        | `/ˈtʃɪmni/          | n. 烟囱               | n. Smoke was billowing out of the chimney.<br />(烟雾从烟囱中冒出。) |
+| curtain        | `/ˈkɜːrtən/         | n. 窗帘               | n. She drew the curtains to block the sunlight.<br />(她拉上窗帘以遮挡阳光。) |
+| chop           | `/tʃɑːp/            | v. 砍；n. 排骨         | v. He chopped the wood for the fireplace.<br />(他砍木头用于壁炉。) |
+| procurement    | `/prəˈkjʊrmənt/     | n. 采购               | n. The procurement of materials is essential for production.<br />(材料的采购对生产至关重要。) |
+| sector         | `/ˈsɛktər/          | n. 部门；行业         | n. She works in the public sector.<br />(她在公共部门工作。) |
+| fluff          | `/flʌf/             | n. 絮状物；v. 使蓬松   | n. He removed the fluff from the sweater.<br />(他把毛衣上的绒絮去掉。) |
+| fry            | `/fraɪ/             | v. 炸；n. 炸物        | v. She decided to fry the chicken for dinner.<br />(她决定晚餐炸鸡。) |
+
+| 单词         | 美式发音               | 词类 + 汉语释义                 | 示例                                                         |
+|--------------|------------------------|------------------|--------------------------------------------------------------|
+| significance | `/sɪɡˈnɪfɪkəns/`       | n. 重要性，意义    | The discovery of the new planet has great significance for astronomers.<br />(对天文学家而言，新行星的发现具有重大意义。) |
+| constrict    | `/kənˈstrɪkt/         | v. 收缩，压缩       | The bandage was so tight that it constricted his arm.<br />(绷带绑得太紧，以至于压迫了他的手臂。) |
+| primer       | `/ˈpraɪmər/           | n. 入门书，基础读物  | The student used a primer to understand the basics of grammar.<br />(学生使用一本入门书来理解语法基础。) |
+| walk         | `/wɔːk/               | v. 走路；n. 散步    | v. She walks to work every day.<br />(她每天走路上班。)<br />n. They went for a walk in the park.<br />(他们在公园散步。) |
+| innocence    | `/ˈɪnəsəns/           | n. 无辜，纯洁       | The innocence of the child was evident in his eyes.<br />(孩子眼中流露出纯洁的天真。) |
+| erupt        | `/ɪˈrʌpt/             | v. 爆发            | The volcano erupted with great force.<br />(火山剧烈爆发。) |
+| giggle       | `/ˈɡɪɡəl/             | v. 咯咯笑           | The children giggled at the clown's antics.<br />(小孩们对小丑的滑稽动作咯咯笑。) |
+| channel      | `/ˈtʃænəl/            | n. 频道；渠道；<br />v. 引导，传输 | n. The show is on channel 6.<br />(这个节目在六频道播出。)<br />v. He channeled his efforts into the project.<br />(他将努力投入到这个项目中。) |
+| channeling   | `/ˈtʃænəlɪŋ/          | v. 引导，传输<br />（channel的ing形式） | He was channeling his energy into completing the project.<br />(他在把精力引导到完成项目上。) |
+| laboratory   | `/ˈlæbərəˌtɔːri/      | n. 实验室           | The scientist spent hours in the laboratory conducting experiments.<br />(科学家在实验室里花了数小时进行实验。) |
+| resonate     | `/ˈrɛzəˌneɪt/         | v. 共鸣，回响        | The music resonated through the hall, touching everyone's heart.<br />(音乐在大厅中回响，触动了每个人的心。) |
+| resonant     | `/ˈrɛzənənt/          | adj. 共鸣的，共振的   | The resonant voice of the speaker filled the room.<br />(演讲者的洪亮声音充满了整个房间。) |
+
+| 单词          | 美式发音            | 词类 + 汉语释义                   | 示例                                                         |
+|---------------|---------------------|----------------------------------|--------------------------------------------------------------|
+| creek         | `/kriːk/           | n. 小溪，小河                   | We picnicked by a quiet creek.<br />(我们在一个幽静的小溪旁野餐。) |
+| guardian      | `/ˈɡɑːrdiən/       | n. 监护人；保护者               | She became the guardian of her younger sister.<br />(她成为了她妹妹的监护人。) |
+| consideration | `/ˌkɒnsɪdəˈreɪʃən/ | n. 考虑，思考；体谅             | Take all factors into consideration before deciding.<br />(在决定之前要考虑所有因素。) |
+| conclude      | `/kənˈkluːd/       | v. 结束，总结                   | The meeting concluded with a vote.<br />(会议以投票结束。) |
+| stall         | `/stɔːl/           | n. 摊位；畜栏；<br />v. 使停止，延迟 | n. She bought fruits at the market stall.<br />(她在市场的摊位上买了水果。)<br />v. The car stalled in the middle of the road.<br />(车在路中间熄火了。) |
+| conduct       | `/ˈkɑːndʌkt/       | v. 进行，实施；<br />n. 行为，举止 | v. The scientist conducted an experiment.<br />(科学家进行了一个实验。)<br />n. His conduct at the party was impeccable.<br />(他在聚会上的行为无可挑剔。) |
+| beneficial    | `/ˌbenəˈfɪʃəl/     | adj. 有益的                     | Eating vegetables is beneficial to health.<br />(吃蔬菜对健康有益。) |
+| sue           | `/suː/             | v. 起诉，控告                   | She decided to sue the company for negligence.<br />(她决定因公司的疏忽而起诉它。) |
+| scheme        | `/skiːm/           | n. 计划，方案；<br />v. 密谋     | n. They devised a scheme to improve efficiency.<br />(他们设计了一个提高效率的计划。)<br />v. He schemed to take over the business.<br />(他密谋接管这个生意。) |
+| gentleman     | `/ˈdʒentəlmən/      | n. 绅士                         | He is known as a true gentleman in the community.<br />(他在社区被认为是一个真正的绅士。) |
+
+
+
 
 ### Added: 2024.04.09
 ChatGPT 4.0 translations
@@ -297,7 +350,7 @@ ChatGPT 4.0 translations
 | 单词           | 美式发音              | 词类 + 汉语释义                        | 示例                                                         |
 |----------------|-----------------------|---------------------------------------|--------------------------------------------------------------|
 | crawl          | `/krɔːl/`            | v. 爬行                               | The baby learned to crawl before walking.<br />(这个婴儿在学会走路之前学会了爬行。) |
-| rather         | `/ˈræðər/`           | det. & adv. 宁愿；相当               | I'd rather stay home than go out.<br />(我宁愿呆在家里也不出去。)<br />I was rather surprised to see him with his ex-wife. <br />(我看到他和前妻在一起，感到相当惊讶。) |
+| rather         | `/ˈræðər/`           | det. & adv. 宁愿；相当               | det. I'd rather stay home than go out.<br />(我宁愿呆在家里也不出去。)<br />adv. I was rather surprised to see him with his ex-wife. <br />(我看到他和前妻在一起，感到相当惊讶。)<br />adv. He is rather tall for his age.<br />(对他的年龄来说，他相当高。) |
 | rather than    | `/ˈræðər ˈðæn/`      | conj. 宁愿；而不是                    | I would prefer to stay home rather than go out tonight.<br />(我宁愿今晚呆在家里也不愿出去。) |
 | diploma        | `/dɪˈploʊmə/`        | n. 文凭，毕业证书                      | college diploma <br> (大学文凭/毕业证书)<br>high school diploma <br> (高中文凭)<br>postgraduate diploma <br> (研究生文凭)<br>graduate diploma <br> (硕士文凭/研究生文凭)<br>He received his diploma after four years of study.<br />(四年学习后，他获得了文凭。) |
 | diplomat       | `/ˈdɪpləmæt/`       | n. 外交官                             | French diplomats. 法国外交官<br />The diplomat negotiated the treaty.<br />(这位外交官谈判了这项条约。) |
