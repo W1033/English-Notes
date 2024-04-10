@@ -103,12 +103,6 @@ advantage `/ədˈvæntɪdʒ/` 和 advice `/əd'vaɪs/`，读音中第一个是�
 
 
 
-
-
-
-
-
-
 ## ▲ 待查生词
 - 
 
@@ -144,7 +138,9 @@ ChatGPT 4.0 translations
 | significance | `/sɪɡˈnɪfɪkəns/`       | n. 重要性，意义    | The discovery of the new planet has great significance for astronomers.<br />(对天文学家而言，新行星的发现具有重大意义。) |
 | constrict    | `/kənˈstrɪkt/         | v. 收缩，压缩       | The bandage was so tight that it constricted his arm.<br />(绷带绑得太紧，以至于压迫了他的手臂。) |
 | primer       | `/ˈpraɪmər/           | n. 入门书，基础读物  | The student used a primer to understand the basics of grammar.<br />(学生使用一本入门书来理解语法基础。) |
-| walk         | `/wɔːk/               | v. 走路；n. 散步    | v. She walks to work every day.<br />(她每天走路上班。)<br />n. They went for a walk in the park.<br />(他们在公园散步。) |
+| prime | `/praɪm/ | adj. 主要的，首要的；<br />n. 最佳时期 | adj. The prime years of his life were spent in solitude.<br />(他一生的黄金时期是孤独度过的。)<br />n. The car is in its prime condition.<br />(这辆车处于最佳状态。) |
+| walk | `/wɒːk/` | v. 走路；散步；<br />n. 步行；散步 | v. She likes to walk in the park.<br />(她喜欢在公园散步。)<br />v. She walks to work every day.<br />(她每天走路上班。)<br />n. Take a walk can be relaxing.<br />(散步可以很放松。)<br />n. They went for a walk in the park.<br />(他们在公园散步。) |
+| work         | `/wɜːrk/`        | v. 工作；运作；<br />n. 工作；作品      | v. She works in a hospital.<br />(她在医院工作。)<br />v. She works as an engineer.<br />(她作为一名工程师工作。)<br />v. The device works perfectly after the repair.<br />(修理后，设备运作完美。)<br />n. The painting is a famous artist's work.<br />(这幅画是一位著名艺术家的作品。)<br />n. His work in architecture is well-known.<br />(他在建筑领域的工作很有名气。)<br />n. He is looking for work in the finance sector.<br />(他在金融领域寻找工作。)<br/>n. The museum exhibits works of famous artists.<br />(博物馆展出著名艺术家的作品。) |
 | innocence    | `/ˈɪnəsəns/           | n. 无辜，纯洁       | The innocence of the child was evident in his eyes.<br />(孩子眼中流露出纯洁的天真。) |
 | erupt        | `/ɪˈrʌpt/             | v. 爆发            | The volcano erupted with great force.<br />(火山剧烈爆发。) |
 | giggle       | `/ˈɡɪɡəl/             | v. 咯咯笑           | The children giggled at the clown's antics.<br />(小孩们对小丑的滑稽动作咯咯笑。) |
@@ -153,6 +149,16 @@ ChatGPT 4.0 translations
 | laboratory   | `/ˈlæbərəˌtɔːri/      | n. 实验室           | The scientist spent hours in the laboratory conducting experiments.<br />(科学家在实验室里花了数小时进行实验。) |
 | resonate     | `/ˈrɛzəˌneɪt/         | v. 共鸣，回响        | The music resonated through the hall, touching everyone's heart.<br />(音乐在大厅中回响，触动了每个人的心。) |
 | resonant     | `/ˈrɛzənənt/          | adj. 共鸣的，共振的   | The resonant voice of the speaker filled the room.<br />(演讲者的洪亮声音充满了整个房间。) |
+
+### 单词解释：
+
+- **walk (v. & n.)**
+    - 作为动词，walk 表示用脚步移动，通常意味着以较慢的速度在地面上 **`走路`** 或 **`散步`**。例如，在公园或街道上缓慢行走。
+    - 作为名词，walk 指行走的行为本身，或者特定的行走活动，如 **`步行`** 或 **`散步`**。例如，散步在公园可以是一种放松的活动。
+
+- **work (n. & v.)**
+    - 作为动词，**work** 指的是从事职业或任务的行为，意味着 **`工作`** 或 **`运作`**。例如，在公司或工厂进行日常活动可以说是在工作，或者当机器在正常运转时，也可以说它在工作。
+    - 作为名词，**work** 通常指人的职业活动、任务或者劳动成果，意指 **`工作`** 或 **`作品`**。例如，人们通常将他们的职业称为工作，艺术家创作的画作也被称为其作品。
 
 | 单词          | 美式发音            | 词类 + 汉语释义                   | 示例                                                         |
 |---------------|---------------------|----------------------------------|--------------------------------------------------------------|
@@ -167,10 +173,26 @@ ChatGPT 4.0 translations
 | scheme        | `/skiːm/           | n. 计划，方案；<br />v. 密谋     | n. They devised a scheme to improve efficiency.<br />(他们设计了一个提高效率的计划。)<br />v. He schemed to take over the business.<br />(他密谋接管这个生意。) |
 | gentleman     | `/ˈdʒentəlmən/      | n. 绅士                         | He is known as a true gentleman in the community.<br />(他在社区被认为是一个真正的绅士。) |
 
+| 单词       | 美式发音                 | 词类 + 汉语释义                        | 示例                                                         |
+| ---------- | ------------------------ | -------------------------------------- | ------------------------------------------------------------ |
+|            |                 |                                     |                                                              |
+| limp       | `/lɪmp/                 | v. 跛行；<br />adj. 无力的             | v. He limped after the accident.<br />(事故后他走路一瘸一拐。)<br />adj. The flowers in the vase are limp.<br />(花瓶里的花都软了。) |
+| digest     | `/ˈdaɪdʒɛst/            | v. 消化；<br />n. 摘要                 | v. It takes time to digest a heavy meal.<br />(消化一顿大餐需要时间。) |
+| roll       | `/roʊl/                 | v. 滚动；<br />n. 卷，名册             | v. The ball rolled down the hill.<br />(球从山上滚了下来。)<br />n. He called names from the roll.<br />(他从名册上叫名字。) |
+| generally  | `/ˈdʒɛnərəli/           | adv. 通常，一般地                      | He is generally known for his kindness.<br />(他通常以他的善良而闻名。) |
+| major      | `/ˈmeɪdʒər/             | adj. 主要的，重大的；<br />n. 主修     | adj. The major problem has been solved.<br />(主要的问题已经解决。)<br />n. His major is computer science.<br />(他的主修是计算机科学。) |
+| tire       | `/ˈtaɪər/               | v. 使疲劳；<br />n. 轮胎               | v. Driving for long hours tires me.<br />(长时间驾驶让我感到疲劳。)<br />n. The car needs a new set of tires.<br />(这辆车需要一套新轮胎。) |
+| turbo      | `/ˈtɜːrboʊ/             | n. 涡轮增压器                          | The sports car has a turbo engine.<br />(这辆跑车有一个涡轮增压引擎。) |
+| oolong     | `/ˈoʊˌlɒŋ/              | n. 乌龙茶                              | Oolong tea has a unique flavor.<br />(乌龙茶有一种独特的风味。) |
+| either     | `/ˈiːðər/               | conj. 任一的；<br />adj. 两者之一的    | You can choose either option.<br />(你可以选择其中任一选项。) |
+| conjecture | `/kənˈdʒɛktʃər/         | n. 推测，猜想                          | His conjecture about the outcome was incorrect.<br />(他对结果的猜测是不正确的。) |
+| originally | `/əˈrɪdʒənəli/          | adv. 最初，原先地                      | The house was originally a barn.<br />(这座房子最初是个谷仓。) |
+| quantum    | `/ˈkwɑːntəm/            | n. 量子；<br />adj. 量子的             | n. Quantum physics is a complex field.<br />(量子物理是一个  |
 
 
 
 ### Added: 2024.04.09
+
 ChatGPT 4.0 translations
 
 ~~注：下面表格单词已写到 Goodnotes~~
@@ -180,7 +202,7 @@ ChatGPT 4.0 translations
 | pillow      | `/ˈpɪloʊ/`       | n. 枕头                 | She bought a new pillow for the bed. |
 | friction    | `/ˈfrɪkʃən/`     | n. 摩擦                 | Friction between the two surfaces caused heat. |
 | fell        | `/fɛl/`          | v. 砍倒；过去式 of fall | He fell a tree to clear the path. |
-| commercial  | `/kəˈmɜːrʃəl/`   | adj. 商业的；n. 商业广告 | The commercial product was a success.<br />They aired a new commercial during the show. |
+| commercial  | `/kəˈmɜːrʃəl/`   | adj. 商业的；n. 商业广告 | adj. The commercial product was a success.<br /> n. They aired a new commercial during the show. |
 | shipwreck   | `/ˈʃɪprɛk/`      | n. 船难                 | The old shipwreck was discovered off the coast. |
 | mendicant   | `/ˈmɛndɪkənt/`   | n. 乞丐                 | The mendicant asked for food on the street. |
 | limitation  | `/ˌlɪmɪˈteɪʃən/` | n. 限制                 | The contract has several limitations on usage. |
