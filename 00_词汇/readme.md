@@ -282,17 +282,16 @@ ChatGPT 4.0 translations
 
 | 单词            | 美式发音          | 词类 + 汉语释义                        | 示例                                                         |
 |-----------------|-------------------|---------------------------------------|--------------------------------------------------------------|
-| tough           | `/tʌf/`           | adj. 坚韧的；艰苦的                    | He is known for his tough character.<br />(他以其坚韧的性格著称。) |
-| cater           | `/ˈkeɪtər/`       | v. 提供饮食服务；迎合                  | They cater for weddings and other large events.<br />(他们为婚礼和其他大型活动提供饮食服务。) |
+| tough           | `/tʌf/`           | adj. 坚韧的；强硬的；困难的；            | He is known for his tough character.<br />(他以其坚韧的性格著称。)<br />He is tough enough to handle the challenges.<br />(他足够坚韧，能应对这些挑战。)<br />My mother was very tough on my sister.<br />(我母亲对我姐姐十分严厉。)<br />The EU is **taking a tough line** with the UK over this issue.<br />(在这一问题上﹐欧盟对英国的态度很强硬。)<br/>It was a tough race. <br/>(比赛打得很艰难。)<br/>She’s had a tough life. <br/>(她的生活十分艰辛。)<br/>The company admitted that it had been a tough year. <br/>(公司承认那是艰难的一年。)<br/>Tough decisions will have to be made. <br/>(必须作出艰难的决定。) |
+| cater           | `/ˈkeɪtər/`       | v. 提供饮食服务；迎合                  | They cater for weddings and other large events.<br />(他们为婚礼和其他大型活动提供饮食服务。)<br />The new restaurant caters to vegans.<br />(这家新餐馆迎合素食者的需求。) |
 | catering        | `/ˈkeɪtərɪŋ/`     | n. 餐饮服务                            | The hotel's catering is known for its quality.<br />(这家酒店的餐饮服务以其质量著称。) |
-| graduation      | `/ˌɡrædʒuˈeɪʃən/` | n. 毕业                                | The graduation ceremony will take place in June.<br />(毕业典礼将于六月举行。) |
-| postgraduate    | `/ˌpoʊstˈɡrædʒuɪt/`| adj. 研究生的；n. 研究生              | He is studying for his postgraduate degree.<br />(他正在攻读他的研究生学位。) |
-| treaty          | `/ˈtriːti/`       | n. 条约                                | The two countries signed a peace treaty.<br />(这两个国家签署了一项和平条约。) |
-| parlance        | `/ˈpɑːrləns/`     | n. 说法                                | In legal parlance, this process is very complex.<br />(在法律术语中，这个过程非常复杂。) |
-| clutch          | `/klʌtʃ/`         | n. 离合器；v. 抓住                     | He clutched the rope tightly.<br />(他紧紧抓住绳子。) |
-| rag             | `/ræɡ/`           | n. 破布；报纸（俚语）                  | She used a rag to clean the window.<br />(她用一块破布清洁窗户。) |
-| hug             | `/hʌɡ/`           | v. 拥抱                               | They hugged each other tightly.<br />(他们紧紧地拥抱了对方。) |
-| infrastructure  | `/ˈɪnfrəˌstrʌktʃər/`| n. 基础设施                          | The storm caused severe damage to the city's infrastructure.<br />(暴风雨对城市的基础设施造成了严重破坏。) |
+| graduation      | `/ˌɡrædʒuˈeɪʃən/` | n. 毕业                                | The graduation ceremony will take place in June.<br />(毕业典礼将于六月举行。)<br />The graduation ceremony is next month.<br />(毕业典礼是下个月。) |
+| postgraduate    | `/ˌpoʊstˈɡrædʒuət/` | adj. 研究生的；<br />n. 研究生        | adj. He is studying for his postgraduate degree.<br />(他正在攻读他的研究生学位。)<br />n. He is a postgraduate studying economics.<br />(他是一名研究经济学的研究生。) |
+| treaty          | `/ˈtriːti/`       | n. 条约                                | The two countries signed a peace treaty.<br />(这两个国家签署了一项和平条约。)<br />They signed a treaty to end the conflict.<br />(他们签署了一项条约以结束冲突。) |
+| clutch          | `/klʌtʃ/`         | n. 离合器；<br />v. 抓住；紧握            | n. The clutch in the car is broken.<br />(车的离合器坏了。)<br />v. She clutched the child’s hand tightly.<br />(她紧紧抓住孩子的手。)<br />v. He clutched the rope tightly.<br />(他紧紧抓住绳子。) |
+| rag             | `/ræɡ/`           | n. 抹布           | She used a rag to clean the window.<br />(她用一块抹布/破布清洁窗户。)<br />He used a rag to clean the spill.<br />(他用一块破布清理溢出的液体。) |
+| hug             | `/hʌɡ/`           | v. 拥抱                               | They hugged each other tightly.<br />(他们紧紧地拥抱了对方。)<br />They hugged each other in farewell.<br />(他们在告别时拥抱了对方。) |
+| infrastructure  | `/ˈɪnfrəˌstrʌktʃər/`| n. 基础设施                          | The storm caused severe damage to the city's infrastructure.<br />(暴风雨对城市的基础设施造成了严重破坏。)<br />The earthquake damaged the city's infrastructure.<br />(地震损坏了城市的基础设施。) |
 
 
 根据您的规则，这里是更新后的单词翻译表格：
@@ -300,17 +299,7 @@ ChatGPT 4.0 translations
 | 单词            | 美式发音          | 词类 + 汉语释义                     | 示例                                                         |
 |-----------------|-------------------|------------------------------------|--------------------------------------------------------------|
 | coefficient | `/ˌkoʊɪˈfɪʃənt/` | n. 系数 | The coefficient of friction determines how easily one object slides over another.<br />(摩擦系数决定了一个物体在另一个物体上滑动的难易程度。) |
-| tough           | `/tʌf/`           | adj. 坚韧的，艰难的                 | He is tough enough to handle the challenges.<br />(他足够坚韧，能应对这些挑战。) |
-| cater           | `/ˈkeɪtər/       | v. 迎合，满足需求                   | The new restaurant caters to vegans.<br />(这家新餐馆迎合素食者的需求。) |
-| catering        | `/ˈkeɪtərɪŋ/     | n. 餐饮服务                         | She works in catering and plans events.<br />(她从事餐饮服务，并策划活动。) |
-| graduation      | `/ˌɡrædʒuˈeɪʃən/ | n. 毕业                             | The graduation ceremony is next month.<br />(毕业典礼是下个月。) |
-| postgraduate    | `/ˌpoʊstˈɡrædʒuɪt/| n. 研究生                           | He is a postgraduate studying economics.<br />(他是一名研究经济学的研究生。) |
-| treaty          | `/ˈtriːti/       | n. 条约                             | They signed a treaty to end the conflict.<br />(他们签署了一项条约以结束冲突。) |
-| parlance        | `/ˈpɑːrləns/     | n. 说法，用语                       | In legal parlance, that term has a specific meaning.<br />(在法律术语中，那个词有特定的含义。) |
-| clutch          | `/klʌtʃ/         | n. 离合器；v. 紧抓                   | n. The clutch in the car is broken.<br />(车的离合器坏了。)<br />v. She clutched the child’s hand tightly.<br />(她紧紧抓住孩子的手。) |
-| rag             | `/ræɡ/           | n. 破布                             | He used a rag to clean the spill.<br />(他用一块破布清理溢出的液体。) |
-| hug             | `/hʌɡ/           | v. 拥抱                             | They hugged each other in farewell.<br />(他们在告别时拥抱了对方。) |
-| infrastructure  | `/ˈɪnfrəˌstrʌktʃər/| n. 基础设施                        | The earthquake damaged the city's infrastructure.<br />(地震损坏了城市的基础设施。) |
+| parlance        | `/ˈpɑːrləns/`    | n. 说法；(习惯)用语            | In legal parlance, that term has a specific meaning.<br />(在法律术语中，那个词有特定的含义。)<br />In medical parlance, the condition is known as hypotension.<br />(在医学术语中，这种情况被称为低血压。) |
 | plan            | `/plæn/`        | n. 计划；<br />v. 规划               | n. We have a plan for the project.<br />(我们有一个项目计划。)<br />v. We plan to visit France next year.<br />(我们计划明年访问法国。)<br />v. We plan to travel to Europe next year.<br />(我们计划明年去欧洲旅行。) |
 | plane           | `/pleɪn/`       | n. 飞机；平面                        | The plane will land in an hour.<br />(飞机将在一小时内着陆。)<br />The plane will depart at 6 PM.<br />(飞机将于下午6点起飞。)<br />In mathematics, a plane is a flat, two-dimensional surface.<br />(在数学中，平面是一个平坦的二维表面。) |
 | daffy          | `/ˈdæfi/`           | adj. 愚蠢的，疯狂的    | She made a daffy decision and regretted it later.<br/>他做了一个愚蠢的决定，之后后悔了。<br />His ideas are a bit daffy but interesting.<br />(他的想法有点傻，但很有趣。)<br />He's got some daffy ideas about how to solve the problem.<br/>他对如何解决问题有一些荒唐的想法。 |
