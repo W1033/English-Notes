@@ -9,27 +9,6 @@
 
 
 
-
-5. Please have your money ready.请准备好钱
-6. devote /dɪˈvəʊt/
-7. **devote yourself to sb/sth** 献身；致力；专心
-8. **devote sth to sth** 把…用于
-9. arithmetic /əˈrɪθmətɪk/ 算术
-10. disheartened /dɪsˈhɑːtnd/ adj.灰心的;失望的;气馁的
-11. always and forever 永远
-12. 为什么用to be explaining而不用 to explain：to be explaining可以表示一个持续的状态（文心一言回答）
-
-
-
-
-
-
-
-
-
-
-
-
 ## ▲ 【罗肖尼】如何永远学会一个单词？
 
 *Added: 2024.03.09*

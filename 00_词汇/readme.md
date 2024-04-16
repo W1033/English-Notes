@@ -2,16 +2,6 @@
 
 
 
-WIFI: 张家伟
-
-用户名：08zhangjiawei
-
-密码：重置
-
-电话变更为：13718185330
-
-
-
 
 
 ## ▲ 单词发音疑惑
@@ -631,7 +621,7 @@ ChatGPT 4.0 translations
 | dishearten | `/dɪsˈhɑːrtən/` | v. 使沮丧，使气馁 | The series of failures disheartened him.<br />(一连串的失败使他感到沮丧。)<br />Don't let this defeat dishearten you.<br />(不要因这次失败而气馁。) |
 | disheartened | `/dɪsˈhɑːrtənd/`| adj. 沮丧的；气馁的     | After failing the exam, he felt disheartened and doubted his abilities.<br />(在考试失败后，他感到很沮丧，对自己的能力产生了怀疑。)<br />She felt disheartened after the failure.<br>(失败后她感到气馁。)<br />Do Not Let Me Disheartened. 不要让我失望。 |
 | arithmetic   | `/əˈrɪθmətɪk/`  | n. 算术                | Learning the basics of arithmetic is essential in school.<br>(学习算术基础是学校教育的必要部分。) |
-| devote       | `/dɪˈvoʊt/`     | v. 奉献；致力于         | He devoted his life to helping others.<br>(他把一生奉献给帮助他人。)<br />He devoted his energies to writing films. <br />(他致力于电影剧本的创作。)<br /><br />朗文 6：在日常英语中，人们一般说 `put time/energy etc into something`，而不说 ~~*devote time/energy etc to something*~~· <br />e.g.: He **put a lot of time into** the project.<br />(他在这个项目上投入了大量时间)。 |
+| devote       | `/dɪˈvoʊt/`     | v. 奉献；致力于         | He devoted his life to helping others.<br>(他把一生奉献给帮助他人。)<br />He devoted his energies to writing films. <br />(他致力于电影剧本的创作。)<br /><br />朗文 6：在日常英语中，人们一般说 `put time/energy etc into something`，而不说 ~~*devote time/energy etc to something*~~· <br />e.g.: He **put a lot of time into** the project.<br />(他在这个项目上投入了大量时间)。<br /><br />**devote yourself to sb/sth** 献身；致力；专心。<br />**devote sth to sth** 把…用于 |
 | jungle       | `/ˈdʒʌŋɡəl/`    | n. 丛林                | They went on an expedition through the dense jungle.<br>(他们进行了一次穿越茂密丛林的探险。) |
 | adventure    | `/ədˈvɛntʃər/`  | n. 冒险                | She wrote a book about her adventures in Africa.<br>(她写了一本关于她在非洲的冒险的书。) |
 | ponder       | `/ˈpɑːndər/`    | v. 沉思；考虑       | He pondered the question before giving his answer.<br>(他在给出答案之前仔细思考了这个问题。) |
