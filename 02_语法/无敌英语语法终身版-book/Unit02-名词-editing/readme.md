@@ -746,6 +746,7 @@ chatGPT:
 > This is Mr. Smith, **dean**`/diːn/` of our department. 这是史密斯先生，我们的系主任.
 
 ### 4.6 作定语
+
 > They bought a new **colour** TV for the Senior Citizens Home. 他们给养老院买了一台新彩电.
 >
 > **Orange** juice is rich in vitamin C. 橘汁富含维生素 C.

@@ -4,24 +4,9 @@
 
 ## New Words
 
-==待编辑：书写为表格形式==
 
-- plural `/'plʊr(ə)l/` --n. 复数. --adj. 复数的
-- noun `/naʊn/` --n.名词
-- verb `/vɝb/` --n.动词
-- adjective `/'ædʒɪktɪv/` --adj. 形容词
-- adverb `/'ædvɝb/` --n. 副词
-- article `/'ɑːtɪkl/` --n. 文章; 物品; 条款; 冠词
-- numeral `/'numərəl/` --n. 数字; 数词. --adj. 数字的
-- interjection `/ˌɪntɚ'dʒɛkʃən/` --n.叹词, 感叹词
-- pronoun `/'pronaʊn/` --n.<语>代词
-- preposition `/ˌprepəˈzɪʃən/` --n.介词; 前置词
-- conjunction `/kən'dʒʌŋkʃən/` --n.连词(连接词); 结合; 联合
-- participle `/'pɑrtə'sɪpl/` --n.<语>分词
-- partial `/'pɑːʃ(ə)l/` --adj.局部的, 部分的, [口]偏爱的
-- objective `/əb'dʒɛktɪv/` --n.目的; 目标; 意图.
-- indication `/ˌɪndɪˈkeɪʃən/` --n.指示; 表示; 迹象.
-- central `/ˈsentrəl/` --adj.中央的; 中心的; 主要的。
+
+
 
 
 
