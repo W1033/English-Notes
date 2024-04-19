@@ -262,11 +262,9 @@
 | **强调点**       | 强调集体中的个体。                                           | 强调由个体组成的集体。                                       |
 | **示例**         | I put a bracelet on each wrist. <br>（我在每个手腕上都戴了一只手镯。）<br />只有两个手腕，所以用 'each' | We enjoyed every second of the movie. <br>（我们享受了电影的每一秒。）<br />强调整部电影的每一秒 |
 | **副词搭配**     | 不能与 'almost', 'practically', 'nearly' 等副词搭配。        | 可以与 'almost', 'practically', 'nearly' 等副词搭配。<br>例：Almost every car in the car park was new. <br>（停车场里几乎每辆车都是新的。） |
-| **否定形式**     | 通常不与 'not' 搭配。而应使用 'not every'。<br>例：Not each student knew the answer. <br>（不是每个学生都知道答案。）错误用法。 | 使用 'not every'。<br>例：Not every child enjoyed the party. <br>（并不是每个孩子都喜欢这个派对。） |
-| **介词搭配**     | 'each of + 人称代词' 或 'each of + 定冠词 + 名词复数'。<br>例：Each of the students was holding a book. <br>（学生们每个人都拿着一本书。） | 'every one of + 人称代词' 或 'every one of + 定冠词 + 名词复数'。<br>例：Every one of the tourists has a bag. <br>（游客们每个人都有一个包。） |
-| **谓语动词形式** | 谓语动词使用第三人称单数形式。<br>例：Each of us has a bicycle. <br>（我们每个人都有一辆自行车。） | 谓语动词使用第三人称单数形式。<br>例：Every one of us is insured. <br>（我们每个人都有保险。） |
-
-这个详细的表格整合了之前两个表格的信息，提供了更为全面和详尽的解释及示例，有助于深入理解和区分 “each” 与 “every” 的用法。
+| **否定形式**     | 通常不与 'not' 搭配。而应使用 'not every'。<br>例：~~Not each student knew the answer.~~ <br>（不是每个学生都知道答案。）错误用法。 | 使用 'not every'。<br>例：Not every child enjoyed the party. <br>（并不是每个孩子都喜欢这个派对。） |
+| **介词搭配**     | 'each of + 人称代词' 或 'each of + 定冠词 + 名词复数'。<br>例：Each of the **students** <u>was</u> holding a book. <br>（学生们每个人都拿着一本书。） | 'every one of + 人称代词' 或 'every one of + 定冠词 + 名词复数'。<br>例：Every one of the **tourists** <u>has</u> a bag. <br>（游客们每个人都有一个包。） |
+| **谓语动词形式** | 谓语动词使用第三人称单数形式。<br>例：Each of us <u>has</u> a bicycle. <br>（我们每个人都有一辆自行车。） | 谓语动词使用第三人称单数形式。<br>例：Every one of us <u>is</u> insured. <br>（我们每个人都有保险。） |
 
 > 笔记来源：https://mp.weixin.qq.com/s/n_gJ3LJbkL_pVgbN4rR4cg
 >
@@ -310,7 +308,7 @@
 >
 > (3) Each of us **has** a bicycle.
 >
-> (4) Every one of us **is** insured.
+> (4) Every one of us **is** insured. (我们每个人都有保险。)
 >
 > 这两个搭配在使用的时候要特别留意。
 

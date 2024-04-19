@@ -732,6 +732,7 @@ would do 只说明过去如何，而 **used to 不但说明过去，也表明了
 > ◆ = My car **needs to be repaired**. (我的汽车需要修理了。)
 
 ##### 3.8.3 dare 作情态动词，可以用在 I dare say; I dare swear. 等少数几个肯定句中。有时可以用在条件状语从句中。
+
 > ◆ **I dare say** you are right. (我认为你是对的。)
 
 > ◆ if you **dare do** it again, I will give you a good lesson.  (如果你敢再做一次，我要好好教训你一下。)
@@ -1115,6 +1116,7 @@ shall 可以用来征求意见，如:
 这里不是说他应该迟到所以令人吃惊，而是用 should 表达 "竟然" 体现惊讶、愤怒或者失望等含义。
 
 ##### (4) should 构成虚拟语气
+
 这种情况一般会出现在条件状语从句中：
 
 > If it should rain tomorrow, I wouldn't go. 如果明天万一下雨，我就不去了.

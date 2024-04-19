@@ -118,7 +118,19 @@ advantage `/ədˈvæntɪdʒ/` 和 advice `/əd'vaɪs/`，读音中第一个是�
 
 
 ## ▲ 待查生词
-- 
+
+The bright **dipper** stars above are named Dubhe, Merak, Phecda, Megrez, Alioth, Mizar, and Alkaid. 
+
+上面明亮的北斗七星名字依次是：天枢，天璇，天玑，天权，玉衡，开阳，摇光。
+
+- dipper
+- Dubhe
+- Merak
+- Phecda
+- Megrez
+- Alioth
+- Mizar
+- Alkaid
 
 
 

@@ -381,7 +381,9 @@ Mum always told me <span style="border-bottom: 1px solid #ffa907;"> that life wa
     - He died `in an accident`(介词短语).
     - He left `because he did not want to see Mary again`(状语从句).
     
+
 ##### 8. 不完全不及物动词(系动词):
+
 + 这类动词(简写 `i.vi.` 即`连系动词`)意思不完全, 因而无法单独存在,
   之后要接`名词`、`形容词`或`名词对等语`(如代词、动名词、不定式、名词性从句、
   名词短语等), 以补充其意思的不足. 

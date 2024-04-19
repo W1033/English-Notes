@@ -60,8 +60,10 @@
 >
 
 ### 2024.04.19
-> #### 
+
+> #### When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.
 >
+> 遇到阻碍时，你应该调整方向以达到目标，而不是改变你抵达目的地的决心。 
 
 ### 2024.04.18
 > #### If you want to be respected by others, the great thing is to respect yourself. Only by that, only by self-respect will you compel others to respect you. 
@@ -85,56 +87,142 @@
 > 一个善良的举动像根一样向四面八方伸展，它们会破土而出，长成新的树。
 
 ### 2024.04.14
-> #### 
+> #### In its endless line eternity men obtains, and year after year just the same the moon remains. 
 >
+> 人生代代无穷已，江月年年只相似。 
+>
+> Google Translate:  人类在无尽的线条中获得了永恒，而月亮年复一年地保持着同样的状态。
 
 ### 2024.04.13
-> #### 
+> #### Let life be beautiful like summer flowers and death like autumn leaves. 
 >
+> 生如夏花之绚烂，死如秋叶之静美。 
+>
+> GT:  让生如夏花般绚烂，让死如秋叶般美丽。
 
 ### 2024.04.12
-> #### 
+
+> #### Education is not the filling of a pail, but the lighting of a fire. 
 >
+> GT:  教育不是装满一桶水，而是点燃一把火。
 
 ### 2024.04.11
-> #### 
+> #### Those who don't believe in magic will never find it.
 >
+> GT:  那些不相信魔法的人永远找不到它。
 
 ### 2024.04.10
-> #### 
+
+> #### We are made wise not by the recollection of our past, but by the responsibility for our future.
 >
+> GT:  我们变得明智不是因为回忆过去，而是因为对未来的责任。
+
+在句子 "We are made wise not by the recollection of our past" 中：
+
+**"We are made wise"** 是一个完整的被动语态句子。在这里：
+
+- **"We"** 是主语。
+- **"are made"** 是谓语，表示被动语态。
+- **"wise"** 是表语，用于描述主语 "We" 的状态，而非宾语补足语。在被动语态中，"wise" 描述了主语 "We" 由于某种行为或过程而变成的状态。
+
+**"not by the recollection of our past"** 是一个介词短语，用作状语，表示否定。这个短语修饰整个谓语 "are made wise"，说明使我们变得明智的原因不是我们对过去的回忆。
+
+在这种结构中，"not by the recollection of our past" 并不是修饰一个具体的宾语，因为句子是被动语态，没有直接的宾语^(1)^。这个介词短语作为状语，用来说明或限定动词 "are made" 的方式或原因。
+
+- > (1) 在英语中，被动语态通常由“be + 过去分词”构成，其中“be”动词变化形式（如 am, is, are, was, were 等）表示时态，而过去分词表示被动动作。在被动语态结构中，动作的接受者（原来主动语态中的宾语）变为句子的主语。
+    >
+    > 对于句子 **"We are made wise not by the recollection of our past."**：
+    > - **"We"** 是主语，表示动作的接受者。
+    > - **"are made"** 是被动语态的谓语，其中 "are" 是助动词，"made" 是动词 "make" 的过去分词。
+    > - **"wise"** 在这里不是宾语，而是补语（complement），用于描述主语 "We" 由于动作 "are made" 的结果而具备的特征或状态。
+    >
+    > 在被动语态中，补语通常用来补充说明主语的状态或性质，而不直接承担动作。因此，"wise" 是一个形容词，作为补语来描述 "We" 的状态。在这种情况下，"wise" 并不是宾语，因为它不是动作 "made" 的直接接受者，而是用来描述由于这个动作造成的状态。
+    >
+    > 由此可见，"wise" 实际上起着类似于宾语补足语的作用，它是补充谓语 "are made" 来描述主语 "We" 的结果状态。希望这次的解释能更清楚地说明这一点。
+
+- > **状语: 修饰 `(谓语)动词`、`形容词`、`副词` 以及 `全句` 的句子成分. **
+    >
+    > 您的理解是对的，“by the responsibility for our future” 是一个状语结构，而不是状语从句。让我为您详细解释一下状语的概念及其不同类型。
+    >
+    > #### 状语（Adverbial）
+    >
+    > 状语是用来修饰动词、形容词、其他副词或整个句子，提供额外信息的词、短语或从句。状语可以说明动作发生的时间、地点、原因、目的、条件、方式或程度等。
+    >
+    > #### 状语的类型
+    >
+    > 状语可以是单个副词、介词短语、副词短语、或从句。这里有一些例子：
+    >
+    > 1. **副词**：Quickly, slowly, very, quite 等。
+    >    - 例句：He runs quickly.（他跑得快。）
+    >
+    > 2. **介词短语**（作为状语使用）：On the table, in the morning, by the responsibility 等。
+    >    - 例句：We will meet in the morning.（我们将在早晨见面。）
+    >
+    > 3. **副词短语**：Very quickly, too slowly 等。
+    >    - 例句：She speaks too softly.（她说话太轻。）
+    >
+    > 4. **状语从句**：When I arrived, because he was late, if you need help 等。
+    >    - 例句：I will call you when I arrive.（我到的时候会打电话给你。）
+    >
+    > #### “by the responsibility for our future” 的分析
+    >
+    > 在这个例子中，“by the responsibility for our future” 是一个介词短语，用作状语来修饰谓语动词或整个句子，提供关于“变得明智”的方式或原因的信息。这里的“by”介词表示手段或方式，而“the responsibility for our future” 说明了行为的具体内容。
+    >
+    > #### 结论
+    >
+    > 状语非常关键，因为它们提供了行动或状态的背景信息，帮助我们更全面地理解句子的意义。而状语从句则是包含主语和谓语的从句，用来作为状语提供相应的信息，与单个词或短语状语相区别。
+    >
+
+因此，正确的解释应该是，"wise" 是表语，用来描述主语的状态，而 "not by the recollection of our past" 是修饰整个被动语态结构的状语。希望这次解释更清楚。
+
+
 
 ### 2024.04.09
 > #### 
 >
+> GT:  
 
 ### 2024.04.08
-> #### 
+
+> ####
 >
+> GT:   
 
 ### 2024.04.06
-> #### 
+
+> ####
 >
+> GT:   
 
 ### 2024.04.05
-> #### 
+
+> ####
 >
+> GT:   
 
 ### 2024.04.04
-> #### 
+
+> ####
 >
+> GT:  
 
 ### 2024.04.03
-> #### 
+
+> ####
 >
+> GT:   
 
 ### 2024.04.02
-> #### 
+
+> ####
 >
+> GT:   
 
 ### 2024.04.01
-> #### 
+
+> ####
 >
+> GT:   
 
 
 
