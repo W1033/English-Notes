@@ -221,8 +221,8 @@ ChatGPT 4.0 translations
 | dunce         | `/dʌns/         | n. 笨蛋，学习迟钝的人      | He was unfairly labeled a dunce at school.<br>(他在学校被不公地贴上了笨蛋的标签。) |
 | low           | `/loʊ/          | adj. 低的；adv. 低地      | adj. The sun was low in the sky.<br>(太阳在天空中很低。)<br>adv. He bent low to tie his shoes.<br>(他弯腰很低来系鞋带。) |
 | lowest        | `/ˈloʊɪst/      | adj. 最低的              | She got the lowest price for the car.<br>(她买车得到了最低的价格。) |
-| as long as    | N/A              | conj. 只要               | As long as you're happy, that's what matters.<br>(只要你快乐，这就是最重要的。) |
-| too...to      | N/A              | 结构 无法...由于太...      | He was too tired to continue.<br>(他太累了，无法继续。) |
+| as long as    | N/A             | conj. 只要               | As long as you're happy, that's what matters.<br>(只要你快乐，这就是最重要的。) |
+| too...to      | N/A             | 太...而不能...           | He was too tired to continue.<br>(他太累了，无法继续。) |
 | notion        | `/ˈnoʊʃən/      | n. 概念，想法             | The notion of freedom is appealing to everyone.<br>(自由的概念对每个人都具有吸引力。) |
 | immediate     | `/ɪˈmiːdiət/    | adj. 立即的，直接的        | The problem requires immediate attention.<br>(问题需要立即关注。) |
 | mate          | `/meɪt/         | n. 伙伴，配偶；v. 配对     | n. He met his mate in college.<br>(他在大学遇到了他的伴侣。)<br>v. Birds mate in the spring.<br>(鸟儿在春天交配。) |
@@ -239,36 +239,31 @@ ChatGPT 4.0 translations
 | deal          | `/diːl/         | n. 交易；v. 处理           | n. They made a deal to sell the company.<br>(他们达成了出售公司的交易。)<br>v. She deals with clients daily.<br>(她每天都处理客户事务。) |
 | gossip        | `/ˈɡɑːsɪp/      | n. 八卦，闲聊；v. 闲聊，传播流言 | n. She loves to share the latest gossip.<br>(她喜欢分享最新的八卦。)<br>v. They gossiped about their neighbors.<br>(他们闲聊关于他们邻居的事情。) |
 
-根据您的翻译规则，这里是新一批单词的翻译表格：
-
-| 单词          | 美式发音          | 词类 + 汉语释义                                       | 示例 |
-|---------------|-------------------|-------------------------------------------------------|------|
-| lock          | `/lɑk/`           | n. 锁；v. 锁定                                        | n. He turned the key in the lock.<br>(他在锁中转动钥匙。)<br>v. Lock the door when you leave.<br>(你离开时锁门。) |
-| pin           | `/pɪn/`           | n. 大头针；别针；v. 固定                               | n. She used a pin to attach the note.<br>(她用一枚别针固定便条。)<br>v. Pin the badge on your shirt.<br>(把徽章别在你的衬衫上。) |
-| ethnic        | `/ˈɛθnɪk/`        | adj. 种族的，民族的                                   | The city has a diverse ethnic population.<br>(这个城市有多样的种族人口。) |
-| handout       | `/ˈhændˌaʊt/`    | n. 讲义，散发材料                                     | She distributed handouts at the beginning of the lecture.<br>(她在讲座开始时分发了讲义。) |
-| earn          | `/ɜrn/`           | v. 赚得，挣得                                         | He earns a good salary.<br>(他挣得工资不错。) |
-| earner        | `/ˈɜrnər/`        | n. 收入者，赚钱者                                     | He is the main earner in the family.<br>(他是家里的主要经济支柱。) |
-| bleak         | `/blik/`          | adj. 阴冷的；凄凉的                                   | The outlook for the economy is bleak.<br>(经济前景看起来很凄凉。) |
-| backdoor      | `/ˈbækˌdɔr/`      | n. 后门；adj. 秘密的，非公开的                        | n. He entered through the backdoor.<br>(他从后门进入。)<br>adj. They used a backdoor approach.<br>(他们采用了一种秘密的方法。) |
-| notable       | `/ˈnoʊtəbl/`      | adj. 显著的，著名的                                   | She is notable for her contributions to science.<br>(她因其对科学的贡献而著名。) |
-| scent         | `/sɛnt/`          | n. 气味；v. 嗅出                                       | n. The scent of flowers filled the air.<br>(花香弥漫在空气中。)<br>v. Dogs can scent hidden drugs.<br>(狗能嗅出隐藏的毒品。) |
-| single        | `/ˈsɪŋɡl/`        | adj. 单一的；未婚的；n. 单曲                           | adj. She is a single mother.<br>(她是个单亲妈妈。)<br>n. His new single is topping the charts.<br>(他的新单曲正在排行榜上名列前茅。) |
-| afloat        | `/əˈfloʊt/`       | adj. & adv. 漂浮的                                    | They kept the boat afloat despite the storm.<br>(尽管暴风雨，他们让船保持漂浮。) |
-| too...to      | N/A               | 结构 无法...由于太...                                  | He is too tired to continue.<br>(他太累了，无法继续。) |
-| insane        | `/ɪnˈseɪn/`       | adj. 疯狂的                                           | His plan sounds insane.<br>(他的计划听起来疯狂。) |
-| insanely      | `/ɪn
-
-ˈseɪnli/`     | adv. 疯狂地                                           | He was insanely jealous.<br>(他疯狂地嫉妒。) |
-| insanity      | `/ɪnˈsænɪti/`     | n. 疯狂，精神错乱                                     | They questioned his sanity due to his apparent insanity.<br>(由于他明显的疯狂，他们质疑他的理智。) |
-| laugh         | `/læf/`           | v. 笑；n. 笑声                                        | v. They laughed at the joke.<br>(他们听了笑话后笑了。)<br>n. His laugh is very loud.<br>(他的笑声很响亮。) |
-| love          | `/lʌv/`           | n. 爱；v. 爱慕                                       | n. Love can change everything.<br>(爱可以改变一切。)<br>v. She loves her family deeply.<br>(她深爱着她的家人。) |
-| ambitious     | `/æmˈbɪʃəs/`      | adj. 有野心的，雄心壮志的                             | He is ambitious and aims to become CEO.<br>(他很有野心，目标是成为首席执行官。) |
-| chunky        | `/ˈtʃʌŋki/`       | adj. 厚重的，矮胖的                                   | He wore a chunky sweater to stay warm.<br>(他穿了一件厚重的毛衣保暖。) |
-| communal      | `/ˈkɒmjənəl/`     | adj. 公共的，共享的                                   | They share a communal kitchen in the dormitory.<br>(他们在宿舍里共用一间厨房。) |
-| reciprocal    | `/rɪˈsɪprəkəl/`   | adj. 互惠的，相互的                                   | Their respect for each other is reciprocal.<br>(他们对彼此的尊重是相互的。) |
-| rolled out    | `/roʊld aʊt/`     | v. 推出，展开                                        | They rolled out the new software across the company.<br>(他们在整个公司推出了新软件。) |
-| up their game | N/A               | 短语 提高标准，加强努力                               | They really need to up their game to win the championship.<br>(他们真的需要提高标准才能赢得冠军。) |
+| 单词          | 美式发音          | 词类 + 汉语释义              | 示例 |
+|---------------|-------------------|--------------------------|------|
+| lock          | `/lɑk/           | n. 锁；v. 锁定              | n. He turned the key in the lock.<br>(他在锁中转动钥匙。)<br>v. Lock the door when you leave.<br>(你离开时锁门。) |
+| pin           | `/pɪn/           | n. 大头针；别针；v. 固定      | n. She used a pin to attach the note.<br>(她用一枚别针固定便条。)<br>v. Pin the badge on your shirt.<br>(把徽章别在你的衬衫上。) |
+| ethnic        | `/ˈɛθnɪk/        | adj. 种族的，民族的          | The city has a diverse ethnic population.<br>(这个城市有多样的种族人口。) |
+| handout       | `/ˈhændˌaʊt/    | n. 讲义，散发材料             | She distributed handouts at the beginning of the lecture.<br>(她在讲座开始时分发了讲义。) |
+| earn          | `/ɜrn/           | v. 赚得，挣得               | He earns a good salary.<br>(他挣得工资不错。) |
+| earner        | `/ˈɜrnər/        | n. 收入者，赚钱者            | He is the main earner in the family.<br>(他是家里的主要经济支柱。) |
+| bleak         | `/blik/          | adj. 阴冷的；凄凉的          | The outlook for the economy is bleak.<br>(经济前景看起来很凄凉。) |
+| backdoor      | `/ˈbækˌdɔr/      | n. 后门；adj. 秘密的，非公开的 | n. He entered through the backdoor.<br>(他从后门进入。)<br>adj. They used a backdoor approach.<br>(他们采用了一种秘密的方法。) |
+| notable       | `/ˈnoʊtəbl/      | adj. 显著的，著名的          | She is notable for her contributions to science.<br>(她因其对科学的贡献而著名。) |
+| scent         | `/sɛnt/          | n. 气味；v. 嗅出             | n. The scent of flowers filled the air.<br>(花香弥漫在空气中。)<br>v. Dogs can scent hidden drugs.<br>(狗能嗅出隐藏的毒品。) |
+| single        | `/ˈsɪŋɡl/        | adj. 单一的；未婚的；n. 单曲  | adj. She is a single mother.<br>(她是个单亲妈妈。)<br>n. His new single is topping the charts.<br>(他的新单曲正在排行榜上名列前茅。) |
+| afloat        | `/əˈfloʊt/       | adj. & adv. 漂浮的          | They kept the boat afloat despite the storm.<br>(尽管暴风雨，他们让船保持漂浮。) |
+| insane        | `/ɪnˈseɪn/       | adj. 疯狂的                 | His plan sounds insane.<br>(他的计划听起来疯狂。) |
+| insanely      | `/ɪnˈseɪnli/     | adv. 疯狂地                 | He was insanely jealous.<br>(他疯狂地嫉妒。) |
+| insanity      | `/ɪnˈsænɪti/     | n. 疯狂，精神错乱            | They questioned his sanity due to his apparent insanity.<br>(由于他明显的疯狂，他们质疑他的理智。) |
+| laugh         | `/læf/           | v. 笑；n. 笑声              | v. They laughed at the joke.<br>(他们听了笑话后笑了。)<br>n. His laugh is very loud.<br>(他的笑声很响亮。) |
+| love          | `/lʌv/           | n. 爱；v. 爱慕              | n. Love can change everything.<br>(爱可以改变一切。)<br>v. She loves her family deeply.<br>(她深爱着她的家人。) |
+| ambitious     | `/æmˈbɪʃəs/      | adj. 有野心的，雄心壮志的     | He is ambitious and aims to become CEO.<br>(他很有野心，目标是成为首席执行官。) |
+| chunky        | `/ˈtʃʌŋki/       | adj. 厚重的，矮胖的          | He wore a chunky sweater to stay warm.<br>(他穿了一件厚重的毛衣保暖。) |
+| communal      | `/ˈkɒmjənəl/     | adj. 公共的，共享的          | They share a communal kitchen in the dormitory.<br>(他们在宿舍里共用一间厨房。) |
+| reciprocal    | `/rɪˈsɪprəkəl/   | adj. 互惠的，相互的          | Their respect for each other is reciprocal.<br>(他们对彼此的尊重是相互的。) |
+| rolled out    | `/roʊld aʊt/     | v. 推出，展开               | They rolled out the new software across the company.<br>(他们在整个公司推出了新软件。) |
+| up their game | N/A              | 短语 提高标准，加强努力       | They really need to up their game to win the championship.<br>(他们真的需要提高标准才能赢得冠军。) |
 
 
 

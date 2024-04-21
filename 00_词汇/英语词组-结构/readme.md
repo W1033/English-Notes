@@ -3,7 +3,6 @@
 
 ## ▲ 结构
 
-
 ### too...to... 句型 （太...而不能...）
 
 > 笔记来源：https://www.en998.com/gs/writing/020191022.html
@@ -70,7 +69,7 @@
 
 ## ▲ 词组
 
-### "更不用说"、"更别提" 英文怎么说
+###   "更不用说"、"更别提" 英文怎么说
 
 > 笔记来源：https://www.en998.com/gs/writing/020191025.html
 
@@ -119,3 +118,4 @@ much less, still less 与 let alone 的用法类似。
 ==**not to mention**== 这个短语也可以表达 **"更不用说"** 的意思。而且其主句常使用肯定句，意思与 let alone 稍有不同。如：
 
 >  He has a few houses in the central city, **not to mention** his huge deposit. 他在中心城市有几栋房子，更不用说他的巨额存款了。
+
