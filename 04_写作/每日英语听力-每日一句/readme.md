@@ -21,7 +21,6 @@
 
 ### 2024.04.29
 > #### 
->
 
 ### 2024.04.28
 > #### 
@@ -52,31 +51,42 @@
 >
 
 ### 2024.04.21
-> #### 
+> ####  A lonely fisherman <u>afloat</u>, is fishing snow in lonely boat.
 >
+> 孤舟蓑笠翁，独钓寒江雪。 
+>
+> GT: 一个孤独的渔夫在海上，在孤独的船上钓鱼。
 
 ### 2024.04.20
-> #### 
+
+> #### From hill to hill no bird in flight; from path to path no man in sight.
 >
+> 千山鸟飞绝，万径人踪灭。
+>
+> 谷歌翻译：从一座山到另一座山，没有鸟儿飞翔；从一条小路到另一条小路，都看不到一个人。
+>
+> 语境：这句话是一句翻译自中国古代诗词的英文诗句，原文是王之涣的《登鹳雀楼》中的名句“白日依山尽，黄河入海流。欲穷千里目，更上一层楼。”英文翻译试图保留原诗的意境，而不是逐字翻译。 在这句话中，“From hill to hill no bird in flight; from path to path no man in sight”描绘的是一幅荒凉、宁静的景象。"From hill to hill" 意为“从山到山”，"no bird in flight" 意为“没有鸟在飞翔”，"from path to path" 意为“从路到路”，"no man in sight" 意为“看不见人”。整体意思是，无论你望向哪座山，或是哪条小径，都看不到生命的迹象，既没有飞翔的鸟，也没有行人的踪影。这句诗在英文中常被用来形容空旷、人迹罕至的自然景象，或者表达孤独和寂寞的感觉。
 
 ### 2024.04.19
 
-> #### When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.
+> #### When <u>obstacles</u> arise, you change your direction to reach your goal; you do not change your decision to get there.
 >
 > 遇到阻碍时，你应该调整方向以达到目标，而不是改变你抵达目的地的决心。 
 
 ### 2024.04.18
-> #### If you want to be respected by others, the great thing is to respect yourself. Only by that, only by self-respect will you compel others to respect you. 
-(如果你想得到别人的尊重，最重要的是尊重自己。只有这样，只有自我尊重，才会使别人尊重你。)
+
+> #### If you want to be respected by others, the great thing is to respect yourself. Only by that, only by self-respect will you <u>compel</u> others to respect you.
+>
+> (如果你想得到别人的尊重，最重要的是尊重自己。只有这样，只有自我尊重，才会使别人尊重你。)
 
 ### 2024.04.17
-> #### Life is short. Kiss slowly, laugh insanely, love truly and forgive quickly.
+> #### Life is short. Kiss slowly, laugh <u>insanely</u>, love truly and forgive quickly.
 >
 > (既然生命如此短暂，那么慢慢地亲吻，尽情地欢笑，真心去爱，快快地原谅吧。)
 
 ### 2024.04.16
 
-> #### The best physicians are Dr. Diet, Dr. Quiet, and Dr. **Merryman**. 
+> #### The best physicians are Dr. Diet, Dr. Quiet, and Dr. **Merryman**.
 >
 > 节食博士、静心博士、快乐博士，三人都是最好的医生。
 
