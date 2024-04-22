@@ -47,8 +47,12 @@
 >
 
 ### 2024.04.22
-> #### 
+> #### Don't judge each day by the harvest you <u>reap</u> but by the seeds that you plant.
 >
+> 不要以你收获的收成来判断每一天，而要以你播下的种子来判断。
+>
+> 
+> 这句话的含义是鼓励人们不要仅仅根据每天获得的即时结果（即"harvest you reap"，意为你收获的果实）来评价这一天的价值，而是要看你在这一天中播下了多少努力和希望的种子（即"seeds that you plant"）。这是一种强调长期投入和持续努力的哲学，暗示即使短期内没有看到明显收获，但持续播种终将有所回报。这句话出自美国作家罗伯特·路易斯·斯蒂文森的作品，常被用来激励人们在追求目标时保持耐心和决心。
 
 ### 2024.04.21
 > ####  A lonely fisherman <u>afloat</u>, is fishing snow in lonely boat.
