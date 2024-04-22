@@ -11,6 +11,9 @@
 | The colour-sorted bottles are put into <u>furnaces</u> which melt the glass in preparation for <u>molding</u>. | 将分类好颜色的瓶子放入炉子中，熔化玻璃以准备成型。           |                                           |
 | Aren't we here in this world just to experience it?  - *ChatGPT 4.0*<br /> You came to this world just to experience it, right?  - *Google Translate* | 来到这个世界就是为了体验的不是吗？                           | Added: 2024.04.18                         |
 | If you can do what you do best and be happy, you're further along in life than most people. | 如果你能做你擅长的事同时又快乐，你在生命中已走得比大多数人还远。 - Leonardo DiCaprio (李奥纳多·狄卡皮欧) | Added: 2024.04.22                         |
+| MORAL: If you harm others, you will also be harmed.          | 格言: 伤害别人，也会自食其果。                               |                                           |
+|                                                              |                                                              |                                           |
+|                                                              |                                                              |                                           |
 
 
 

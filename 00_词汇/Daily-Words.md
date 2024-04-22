@@ -5,11 +5,10 @@
 
 #### 1. en‧fold /ɪnˈfəʊld $ -ˈfoʊld/
 ##### `verb` [transitive]  
-formal to cover or surround someone or something completely←搂抱〔某人〕; 围住，包住〔某物〕: :
- The wizard screamed as the darkness enfolded him.
+formal to cover or surround someone or something completely←搂抱〔某人〕; 围住，包住〔某物〕: : The wizard screamed as the darkness enfolded him.
 →黑暗罩住了巫师，他尖叫起来。
- He reached out to enfold her in his arms.
-→他张开双臂去抱她。
+
+He reached out to enfold her in his arms.→他张开双臂去抱她。
 
 
 ### 2021.08.01
@@ -32,7 +31,7 @@ formal to cover or surround someone or something completely←搂抱〔某人〕
 - 
 
 ### 2021.07.26
-- MORAL: If you harm others, you will also be harmed. 格言: 伤害别人，也回自食其果。
+
 #### 1. moral `/ˈmɒrəl $ ˈmɔː-/`
 ##### 1.1 ●●○ `W2` **adjective** 
 ###### (1) `[only before noun]` (relating to the principles of what is right and wrong behaviour, and with the difference between good and evil. 关于什么是对与错的行为的原则，以及善与恶的区别) 道德（上）的； -> **morally, ethical**:

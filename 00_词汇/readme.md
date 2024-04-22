@@ -238,7 +238,28 @@ ChatGPT 4.0 translations
 | tip               | `/tɪp/`            | n. 尖端；小费；建议<br>v. 倾斜；给小费 | n. Be careful of the sharp tip of the knife.<br>(小心刀尖。)<br>n. He left a generous tip for the waiter.<br>(他给服务员留了丰厚的小费。)<br>n. Can you give me a tip on how to use this software?<br>(你能给我一些关于如何使用这个软件的建议吗？)<br>v. The boat tipped as we got on.<br>(我们上船时，船身倾斜了。)<br>v. She tipped the taxi driver.<br>(她给出租车司机小费。) |
 | invocation        | `/ˌɪnvəˈkeɪʃən/    | n. 祈祷                      | The ceremony opened with an invocation for peace.<br>(仪式以祈求和平的祷告开始。) |
 
-
+| 单词         | 美式发音              | 词类 + 汉语释义                | 示例 |
+|--------------|-------------------- |------------------------------|------|
+| specify      | `/ˈspɛsɪˌfaɪ/      | v. 指定；具体说明               | Please specify the changes you want in the document.<br>(请指定您希望在文档中进行的具体修改。) |
+| reconcile    | `/ˈrɛkənˌsaɪl/     | v. 和解；调和                  | They tried to reconcile their differences.<br>(他们试图调和他们之间的分歧。) |
+| divergent    | `/dɪˈvɜrdʒənt/     | adj. 发散的；不同的             | Their opinions are divergent.<br>(他们的意见不同。) |
+| discourage   | `/dɪˈskɜrɪdʒ/      | v. 使气馁；阻止                 | Don't let failure discourage you.<br>(不要让失败使你气馁。) |
+| squelch      | `/skwɛltʃ/         | v. 压制；镇压                  | The police squelched the disturbance quickly.<br>(警方迅速镇压了骚乱。) |
+| terminal     | `/ˈtɜrmɪnəl/       | adj. 末端的；终点的<br>n. 终端   | adj. Terminal illness is heartbreaking.<br>(终末期疾病令人心碎。)<br>n. She waited at the bus terminal.<br>(她在公交车终站等候。) |
+| ostensible   | `/ɑˈstɛnsəbəl/     | adj. 表面上的；假装的           | His ostensible reason was to help, but he had ulterior motives.<br>(他表面上的理由是帮忙，但他有不可告人的动机。) |
+| recursive    | `/rɪˈkɜrsɪv/       | adj. 递归的                    | Recursive functions are common in computer programming.<br>(在计算机编程中，递归函数很常见。) |
+| twin         | `/twɪn/            | n. 双胞胎之一<br>v. 成对，成双   | n. She has a twin brother.<br>(她有一个双胞胎兄弟。)<br>v. The two events twinned to create a major crisis.<br>(这两个事件合并导致了一场重大危机。) |
+| irritate     | `/ˈɪrɪˌteɪt/       | v. 激怒；刺激                  | Loud noise can irritate anyone.<br>(嘈杂的声音可以激怒任何人。) |
+| comeback     | `/ˈkʌmˌbæk/        | n. 复出；恢复                  | Her comeback in the tennis world was spectacular.<br>(她在网球界的复出非常壮观。) |
+| withstand    | `/wɪθˈstænd/       | v. 抵抗；承受                  | The structure was designed to withstand earthquakes.<br>(这个结构被设计用来抵抗地震。) |
+| windblown    | `/ˈwɪndˌbloʊn/     | adj. 风吹的                   | The windblown sand covered the paths.<br>(风吹过的沙子覆盖了小径。) |
+| dune         | `/duːn/            | n. 沙丘                       | The desert landscape is dominated by large dunes.<br>(沙漠景观以大型沙丘为主。) |
+| dense        | `/dɛns/            | adj. 密集的；浓厚的             | The forest is too dense to walk through.<br>(森林太密集，无法穿行。) |
+| count on     | `/kaʊnt ˈɑn/       | v. 依靠；指望                  | You can always count on me for support.<br>(你总是可以依靠我支持。) |
+| gear         | `/ɡɪr/             | n. 齿轮；装备<br>v. 配备，调整（以适应） | n. He shifted the car into high gear.<br>(他将车换成高速档。)<br>v. They geared up for the big game.<br>(他们为大赛做好了准备。) |
+| apparel      | `/əˈpɛrəl/         | n. 服装                        | The store offers a wide range of women's apparel.<br>(这家店提供各种女性服装。) |
+| footwear     | `/ˈfʊtˌwɛr/        | n. 鞋类                        | Good footwear is crucial for hiking.<br>(适合的鞋类对于徒步旅行至关重要。) |
+| moral        | `/ˈmɔrəl/          | adj. 道德的；n. 寓意            | adj. He faced a moral dilemma.<br>(他面临道德困境。)<br>n. The moral of the story is to be honest.<br>(这个故事的寓意是要诚实。) |
 
 
 
