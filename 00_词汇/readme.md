@@ -134,9 +134,78 @@ The bright **dipper** stars above are named Dubhe, Merak, Phecda, Megrez, Alioth
 
 
 
+
+
+
+
+
+
 ## ▲ 待编辑生词
 
+
+
+### Added: 2024.04.23
+
+ChatGPT 4.0 translations
+
+~~注：下面表格单词已写到 Goodnotes~~
+
+| 单词         | 美式发音           | 词类 + 汉语释义         | 示例                                                         |
+| ------------ | ------------------ | ----------------------- | ------------------------------------------------------------ |
+| problematic  | `/ˌprɑːbləˈmætɪk/` | adj. 有问题的  | The project's finances are highly problematic.<br>(该项目的财务状况非常成问题。) |
+| anecdotal    | `/ˌænɪkˈdoʊtl/`    | adj. 轶事的；传闻的        | His findings are based on anecdotal evidence rather than serious research.<br />(他的发现依据的是传闻轶事﹐而不是认真的调查研究。) |
+| achieve      | `/əˈtʃiːv/`        | v. 实现；达到             | She achieved great success in her career.<br>(她在职业生涯中取得了巨大成功。) |
+| downside     | `/ˈdaʊnˌsaɪd/`     | n. 缺点；不利方面          | The downside of the plan is its high cost.<br>(该计划的缺点是成本高。) |
+| authority    | `/əˈθɔːrəti/`      | n. 权威；权力             | She is an authority on medieval history.<br>(她是中世纪历史的权威。) |
+| irrelevant   | `/ɪˈrɛləvənt/`     | adj. 不相关的 | Your argument is interesting but irrelevant to the discussion.<br>(你的论点有趣但与讨论无关。)<br />We’re focussing too much on irrelevant details.<br />(我们过于关注不相干的细节。) |
+| conventional | `/kənˈvɛnʃənl/`    | adj. 传统的；常规的        | conventional wisdom (传统智慧)<br /> conventional weapons  (常规武器)<br /> conventional methods (传统方法)<br />Conventional memory (常规内存 / 常规存储器)<br />His views on dating are quite conventional.<br>(他对约会的看法相当传统。) |
+| speculation  | `/ˌspɛkjʊˈleɪʃən/` | n. 推测；投机             | There's a lot of speculation about the new product's features.<br>(有很多关于新产品功能的推测。) |
+| prediction   | `/prɪˈdɪkʃən/     | n. 预测；预言             | His prediction that the team would lose proved accurate.<br>(他预测球队会输，结果证明是准确的。) |
+| lecture      | `/ˈlɛkʧər/        | n. 讲座；演讲             | He attended a lecture on modern art.<br>(他参加了一个关于现代艺术的讲座。) |
+| cite         | `/saɪt/           | v. 引用；举例             | She cited three experts in her article.<br>(她在文章中引用了三位专家的观点。) |
+| cutoff       | `/ˈkʌtˌɔf/        | n. 截止；限制             | The cutoff date for applications is next Friday.<br>(申请的截止日期是下周五。) |
+| disclose     | `/dɪˈskloʊz/      | v. 揭露；公开             | The company refused to disclose its sales figures.<br>(公司拒绝公开其销售数字。) |
+| anticipate   | `/ænˈtɪsɪˌpeɪt/   | v. 预期；预料             | They anticipate that the new product will be a success.<br>(他们预料新产品会成功。) |
+| proactive    | `/proʊˈæktɪv/     | adj. 积极主动的；预先行动的 | A proactive approach may prevent problems.<br>(积极主动的方法可能会预防问题。) |
+| downfall     | `/ˈdaʊnˌfɔl/      | n. 衰败；垮台             | Greed led to his downfall.<br>(贪婪导致了他的垮台。) |
+| distraction  | `/dɪˈstrækʃən/    | n. 分心；消遣             | Smartphones can be a major distraction in classrooms.<br>(智能手机可能是课堂上的一个主要干扰。) |
+| fraud        | `/frɔd/           | n. 欺诈；骗子             | He was found guilty of committing fraud.<br>(他被判犯有欺诈罪。) |
+
+| 单词           | 美式发音              | 词类 + 汉语释义      | 示例 |
+|---------------|----------------------|--------------------|------|
+| convince      | `/kənˈvɪns/         | v. 说服             | He convinced her to stay.<br>(他说服她留下来。) |
+| bagel         | `/ˈbeɪɡəl/          | n. 贝果             | I had a bagel for breakfast.<br>(我早餐吃了一个贝果。) |
+| blow          | `/bloʊ/             | v. 吹               | The wind blows strongly today.<br>(今天风吹得很猛。) |
+| blown away    | `/bloʊn əˈweɪ/      | v. 极其惊讶          | I was blown away by the movie's ending.<br>(那部电影的结局让我大吃一惊。) |
+| dynasty       | `/ˈdaɪnəsti/        | n. 朝代             | The Ming dynasty was a period of cultural growth.<br>(明朝是文化发展的时期。) |
+| fascinate     | `/ˈfæsəˌneɪt/       | v. 迷住             | The magician's tricks fascinated the children.<br>(魔术师的把戏迷住了孩子们。) |
+| degree        | `/dɪˈɡri/           | n. 程度；学位        | He has a degree in biology.<br>(他拥有生物学学位。) |
+| lean          | `/lin/              | adj. 瘦的；v. 倾斜   | adj. He is very lean and fit.<br>(他非常瘦且健康。)<br>v. The tower leans to the left.<br>(塔向左倾斜。) |
+| humble        | `/ˈhʌmbəl/          | adj. 谦逊的         | She has a humble attitude despite her success.<br>(尽管成功，她仍保持谦逊的态度。) |
+| depart        | `/dɪˈpɑrt/          | v. 离开             | The train departs at noon.<br>(火车中午发车。) |
+| departure     | `/dɪˈpɑrtʃər/       | n. 离开             | His departure was delayed due to the storm.<br>(由于暴风雨，他的离开被延迟了。) |
+| cope          | `/koʊp/             | v. 应对             | She copes well with stress.<br>(她很好地应对压力。) |
+| communicate   | `/kəˈmjunɪˌkeɪt/    | v. 交流             | Effective communication is key to success.<br>(有效的沟通是成功的关键。) |
+| kind          | `/kaɪnd/            | adj. 善良的         | She is a kind person.<br>(她是一个善良的人。) |
+| significant   | `/sɪɡˈnɪfɪkənt/     | adj. 重要的         | The study shows significant results.<br>(研究显示了重要结果。) |
+| interminable  | `/ɪnˈtɜrmɪnəbəl/    | adj. 无尽的；冗长的   | The meeting seemed interminable.<br>(会议似乎没完没了。) |
+| recruit       | `/rɪˈkrut/          | v. 招聘；n. 新兵     | v. They are recruiting new staff.<br>(他们正在招聘新员工。)<br>n. The recruits trained for six weeks.<br>(新兵接受了六周的训练。) |
+| recruitment   | `/rɪˈkrutmənt/      | n. 招聘             | Recruitment is essential for company growth.<br>(招聘对公司增长至关重要。) |
+| objection     | `/əbˈdʒɛkʃən/       | n. 反对             | He raised an objection to the plan.<br>(他对计划提出了反对。) |
+| stalk         | `/stɔk/             | v. 悄悄跟踪          | He was arrested for stalking a celebrity.<br>(他因跟踪一名名人而被逮捕。) |
+| proton        | `/ˈproʊtɑn/         | n. 质子             | Protons are part of an atom's nucleus.<br>(质子是原子核的一部分。) |
+| pack          | `/pæk/              | n. 包；一群；v. 打包  | n. A pack of wolves was seen in the forest.<br>(森林中看到了一群狼。)<br>v. She packed her suitcase for the trip.<br>(她为旅行打包了行李。) |
+| handy         | `/ˈhændi/           | adj. 方便的；手边的   | Keep your phone handy in case I call.<br>(保持手机在手边以防我打电话。) |
+| dandy         | `/ˈdændi/           | adj. 极好的；n. 纨绔子弟   | adj. That's a dandy idea!<br>(那是个绝妙的主意！)<br>n. He dressed like an old-fashioned dandy.<br>(他穿得像个老派纨绔子弟。) |
+| voila         | `/vwɑːˈlɑː/         | int. 瞧！（表示呈现某物时用）| Voila! The cake is ready.<br>(瞧！蛋糕做好了。) |
+
+
+
+
+
+
 ### Added: 2024.04.22
+
 ChatGPT 4.0 translations
 
 ~~注：下面表格单词已写到 Goodnotes~~
@@ -2670,7 +2739,7 @@ ChatGPT 4.0 translations
 | swish        | `/swɪʃ/`                | v. 挥动；n. 嗖嗖声      | v. The cat's tail swished back and forth. <br />(猫的尾巴来回挥动。) |
 | cluster      | `/ˈklʌstər/`            | n. 簇；群；v. 聚集      | n. A cluster of stars could be seen in the sky. (天空中可以看到一簇星星。) |
 | compulsory   | `/kəmˈpʌlsəri/`         | adj. 强制的            | Attendance at the meeting is compulsory. (参加会议是强制性的。) |
-| moron        | `/ˈmɔrɑn/`              | n. 笨蛋（贬义）         | He acted like a complete moron. (他表现得像个彻底的笨蛋。) |
+| moron        | ` /ˈmɔːrɑːn/ ` | n. 笨蛋（贬义）         | He acted like a complete moron. (他表现得像个彻底的笨蛋。) |
 | solitude     | `/ˈsɑːlɪtuːd/`          | n. 独处                | She enjoyed the solitude of the mountains. (她享受山中的独处。)<br /> live in solitude 孤单(孤独)地生活 |
 | socialize    | `/ˈsoʊʃəˌlaɪz/`         | v. 社交                | It's important to socialize with your colleagues. (与同事社交很重要。)<br />You don't socialize enough. 你交际不广 |
 | negotiate    | `/nɪˈgoʊʃieɪt/`         | v. 谈判                | They are negotiating a new contract. (他们正在谈判一份新合同。)<br />The two countries are negotiating a trade agreement. <br />这两个国家正在谈判一项贸易协议。 |
