@@ -199,6 +199,27 @@ ChatGPT 4.0 translations
 | dandy         | `/ˈdændi/           | adj. 极好的；n. 纨绔子弟   | adj. That's a dandy idea!<br>(那是个绝妙的主意！)<br>n. He dressed like an old-fashioned dandy.<br>(他穿得像个老派纨绔子弟。) |
 | voila         | `/vwɑːˈlɑː/         | int. 瞧！（表示呈现某物时用）| Voila! The cake is ready.<br>(瞧！蛋糕做好了。) |
 
+| 单词           | 美式发音                | 词类 + 汉语释义         |   示例    |
+|---------------|------------------------|-----------------------|  ------  |
+| captive       | `/ˈkæptɪv/            | adj. 被俘的；n. 俘虏    | adj. The captive animals were released back into the wild.<br>(被俘的动物被释放回野外。)<br>n. The captives were freed after negotiations.<br>(经过谈判，俘虏被释放。) |
+| definite      | `/ˈdefənət/`           | adj. 明确的；肯定的      | That's a definite improvement.<br>(那是一个明确的进步。)<br /> It’s impossible for me to give you a definite answer. <br />(我不可能给你明确的答复。) <br />We need to record sufficient`/sə'fɪʃ(ə)nt/` data to enable definite conclusions to be reached. <br />(我们需要记录足够的数据﹐才能得出明确的结论。)<br />Fix a definite date for the delivery of your computer. <br />(请为你的电脑定个确切的交货日期。) |
+| marathon      | `/ˈmærəˌθɑn/          | n. 马拉松              | He trained for months to run the marathon.<br>(他训练了几个月来跑马拉松。) |
+| amusement     | `/əˈmjuzmənt/         | n. 娱乐；乐趣           | The park offers many forms of amusement for children.<br>(公园为孩子们提供了多种娱乐形式。) |
+| deposit       | `/dɪˈpɑzɪt/           | n. 存款；沉积物；v. 存放  | n. He put a deposit on the new car.<br>(他为新车支付了定金。)<br>v. She deposited her paycheck in the bank.<br>(她把工资存入银行。) |
+| answer        | `/ˈænsər/             | n. 答案；v. 回答        | n. I don't know the answer to your question.<br>(我不知道你问题的答案。)<br>v. Please answer the door.<br>(请回答门铃。) |
+| veil          | `/veɪl/               | n. 面纱；遮盖物         | She wore a beautiful veil on her wedding day.<br>(她在婚礼那天戴了一条漂亮的面纱。) |
+| acoustic      | `/əˈkuːstɪk/          | adj. 声学的            | The concert hall has excellent acoustic properties.<br>(音乐厅具有极佳的声学特性。) |
+| bold          | `/boʊld/              | adj. 大胆的            | It was a bold move to change careers at 40.<br>(40岁改行是一个大胆的举动。) |
+| natural       | `/ˈnætʃərəl/          | adj. 自然的            | He has a natural talent for music.<br>(他有天赋的音乐才能。) |
+| longing       | `/ˈlɔːŋɪŋ/            | n. 渴望                | She felt a deep longing to return home.<br>(她深深地渴望回家。) |
+| douche        | `/duʃ/                | n. 灌肠；洗涤           | She bought a douche kit at the pharmacy.<br>(她在药店买了一个灌肠套件。) |
+| miserable     | `/ˈmɪzərəbəl/         | adj. 痛苦的；悲惨的      | He felt miserable after losing his job.<br>(失业后他感到很痛苦。) |
+| settled       | `/ˈsɛtld/             | adj. 稳定的；已解决的    | They are happy to have finally settled into their new home.<br>(他们很高兴终于安顿在新家。) |
+| way off       | `/weɪ ˈɔf/            | adj. 远离的            | His estimate was way off the mark.<br>(他的估计完全偏离了标准。) |
+| beneath       | `/bɪˈniθ/             | prep. 在...之下        | The treasure was buried beneath the old oak tree.<br>(宝藏被埋在老橡树下。) |
+| trance        | `/træns/              | n. 恍惚；出神           | She was in a trance after hearing the shocking news.<br>(听到这个震惊的消息后，她处于恍惚状态。) |
+| blip          | `/blɪp/               | n. 短暂现象            | The computer problem was just a minor blip.<br>(计算机问题只是一个小故障。) |
+| suburb        | `/ˈsʌbɜrb/            | n. 郊区               | They live in a quiet suburb outside the city.<br>(他们住在城外一个安静的郊区。) |
 
 
 
@@ -1826,7 +1847,7 @@ ChatGPT 4.0 translations
 | congress | `/ˈkɑːŋɡrɛs/` | n. 国会；大会 | The bill was passed by Congress. <br>(这项法案由国会通过。)<br />An international medical congress was held in the city. <br>(一次国际医学大会在该城市举行。) |
 | oversight | `/ˈoʊvərsaɪt/` | n. 监督；疏忽 | The project failed due to lack of proper oversight. <br />(由于缺乏适当的监督，该项目失败了。) |
 | antagonym | `/ænˈtæɡənɪm/` | n. 自反词（具有相反两种含义的词） | "Sanction" is an example of an antagonym. <br>(“Sanction” 是一个自反词的例子。) |
-| indefinite | `/ɪnˈdɛfɪnət/` | adj. 无限期的；不确定的 | The meeting has been postponed for an indefinite period. <br />(会议已被推迟至不确定的时间。) |
+| indefinite | `/ɪnˈdefənət/` | adj. 无限期的；不确定的 | The meeting has been postponed for an indefinite period. <br />(会议已被推迟至不确定的时间。) |
 
 列表解释：
 - **litter (n. & v.)**：

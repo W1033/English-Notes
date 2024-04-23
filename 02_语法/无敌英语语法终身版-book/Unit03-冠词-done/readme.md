@@ -6,20 +6,12 @@
 
 ## New Words
 
-**indefinite ` /ɪnˈdefənət/`** --adj. 无限期的；不明确的。
-+ The picture has been loaned `/ləʊn/` for an indefinite period to he National Gallery. 那幅画长期出借给国家美术馆。
-+ indefinite article. 不定冠词
-+ It means a number bigger than one, but it's indefinite. 它的意思是比一更大的数字，但它是不确定的。
+*Edited: 2024.04.23*
 
-**definite `/ˈdefənət/` --adjective**
-
-- (1) 清楚的，明确的
-	+ It’s impossible for me to give you a definite answer. 我不可能给你明确的答复。
-	+ We need to record sufficient`/sə'fɪʃ(ə)nt/` data to enable definite conclusions to be reached. 我们需要记录足够的数据﹐才能得出明确的结论。
-- (2) 确切的﹐确定的
-	+ Fix a definite date for the delivery of your computer. 请为你的电脑定个确切的交货日期。
-
-
+| 单词       | 美式发音       | 词类 + 汉语释义         | 示例                                                         |
+| ---------- | -------------- | ----------------------- | ------------------------------------------------------------ |
+| indefinite | `/ɪnˈdefənət/` | adj. 无限期的；不确定的 | The meeting has been postponed for an indefinite period. <br />(会议已被推迟至不确定的时间。)<br />The picture has been loaned `/ləʊn/` for an indefinite period to he National Gallery. <br />那幅画长期出借给国家美术馆。)<br />indefinite article. (不定冠词)<br />It means a number bigger than one, but it's indefinite. <br />(它的意思是比一更大的数字，但它是不确定的。) |
+| definite   | `/ˈdefənət/`   | adj. 明确的；肯定的     | That's a definite improvement.<br>(那是一个明确的进步。)<br /> It’s impossible for me to give you a definite answer. <br />(我不可能给你明确的答复。) <br />We need to record sufficient`/sə'fɪʃ(ə)nt/` data to enable definite conclusions to be reached. <br />(我们需要记录足够的数据﹐才能得出明确的结论。)<br />Fix a definite date for the delivery of your computer. <br />(请为你的电脑定个确切的交货日期。) |
 
 
 
