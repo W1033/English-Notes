@@ -151,25 +151,71 @@ ChatGPT 4.0 translations
 
 | 单词                | 美式发音                 | 词类 + 汉语释义       |   示例    |
 |--------------------|-------------------------|---------------------|  ------  |
-| learn              | `/lɜrn/`                | v. 学习；了解         | He learns very quickly.<br>(他学得很快。) |
-| learner            | `/ˈlɜrnər/`             | n. 学习者            | She is a quick learner.<br>(她是一个学得快的学习者。) |
-| criticism          | `/ˈkrɪtɪˌsɪzəm/`        | n. 批评；评论         | His criticism was constructive.<br>(他的批评是建设性的。) |
-| tactful            | `/ˈtæktfəl/`            | adj. 机智的；圆滑的    | She gave a tactful answer.<br>(她给出了一个圆滑的回答。) |
-| precise            | `/prɪˈsaɪs/`            | adj. 精确的           | The scientist was precise in her measurements.<br>(这位科学家在测量上非常精确。) |
-| preliminary        | `/prɪˈlɪmɪˌneri/`       | adj. 初步的           | The preliminary results are promising.<br>(初步结果很有希望。) |
-| certificate        | `/sərˈtɪfɪkɪt/`         | n. 证书               | He received a certificate for completing the course.<br>(他因完成课程而获得证书。) |
-| proficiency        | `/prəˈfɪʃənsi/`         | n. 精通；熟练          | She has a high level of proficiency in English.<br>(她的英语非常熟练。) |
-| scholastic         | `/skəˈlæstɪk/`          | adj. 学术的           | His research has a scholastic depth.<br>(他的研究具有学术深度。) |
-| admission          | `/ədˈmɪʃən/`            | n. 入场权；录取        | Admission to the museum is free on Sundays.<br>(周日参观博物馆免费。) |
-| record             | `/ˈrɛkərd/`             | n. 记录；v. 记录      | n. He holds the world record.<br>(他保持着世界纪录。)<br>v. The camera recorded the event.<br>(摄像机记录了这一事件。) |
-| delineate          | `/dɪˈlɪniˌeɪt/`         | v. 描述；勾画         | The boundaries were clearly delineated.<br>(边界被清楚地勾画出来。) |
-| readily            | `/ˈrɛdɪli/`             | adv. 容易地；乐意地    | She readily agreed to help.<br>(她欣然同意帮忙。) |
-| transcend          | `/trænˈsɛnd/`           | v. 超越              | She transcended her own limitations.<br>(她超越了自己的局限。) |
-| characterization   | `/ˌkærɪktərɪˈzeɪʃən/`   | n. 描述；特性         | His characterization of the villain was spot-on.<br>(他对反派角色的描述非常到位。) |
-| synoptic           | `/sɪˈnɑptɪk/`           | adj. 概要的          | A synoptic overview of the book is available online.<br>(书的概要概览可在网上找到。) |
-| resistant          | `/rɪˈzɪstənt/`          | adj. 抵抗的          | This material is resistant to heat.<br>(这种材料耐热。) |
-| perfection         | `/pərˈfɛkʃən/`          | n. 完美              | She always strives for perfection.<br>(她总是追求完美。) |
-| pathway            | `/ˈpæθˌweɪ/`            | n. 路径；途径         | This pathway leads to the garden.<br>(这条小径通向花园。) |
+| learn              | `/lɜrn/                | v. 学习；了解         | He learns very quickly.<br>(他学得很快。) |
+| learner            | `/ˈlɜrnər/             | n. 学习者            | She is a quick learner.<br>(她是一个学得快的学习者。) |
+| criticism          | `/ˈkrɪtɪˌsɪzəm/        | n. 批评；评论         | His criticism was constructive.<br>(他的批评是建设性的。) |
+| tactful            | `/ˈtæktfəl/            | adj. 机智的；圆滑的    | She gave a tactful answer.<br>(她给出了一个圆滑的回答。) |
+| precise            | `/prɪˈsaɪs/            | adj. 精确的           | The scientist was precise in her measurements.<br>(这位科学家在测量上非常精确。) |
+| preliminary        | `/prɪˈlɪmɪˌneri/       | adj. 初步的           | The preliminary results are promising.<br>(初步结果很有希望。) |
+| certificate        | `/sərˈtɪfɪkɪt/         | n. 证书               | He received a certificate for completing the course.<br>(他因完成课程而获得证书。) |
+| proficiency        | `/prəˈfɪʃənsi/         | n. 精通；熟练          | She has a high level of proficiency in English.<br>(她的英语非常熟练。) |
+| scholastic         | `/skəˈlæstɪk/          | adj. 学术的           | His research has a scholastic depth.<br>(他的研究具有学术深度。) |
+| admission          | `/ədˈmɪʃən/            | n. 入场权；录取        | Admission to the museum is free on Sundays.<br>(周日参观博物馆免费。) |
+| record             | `/ˈrɛkərd/             | n. 记录；v. 记录      | n. He holds the world record.<br>(他保持着世界纪录。)<br>v. The camera recorded the event.<br>(摄像机记录了这一事件。) |
+| delineate          | `/dɪˈlɪniˌeɪt/         | v. 描述；勾画         | The boundaries were clearly delineated.<br>(边界被清楚地勾画出来。) |
+| readily            | `/ˈrɛdɪli/             | adv. 容易地；乐意地    | She readily agreed to help.<br>(她欣然同意帮忙。) |
+| transcend          | `/trænˈsɛnd/           | v. 超越              | She transcended her own limitations.<br>(她超越了自己的局限。) |
+| characterization   | `/ˌkærɪktərɪˈzeɪʃən/   | n. 描述；特性         | His characterization of the villain was spot-on.<br>(他对反派角色的描述非常到位。) |
+| synoptic           | `/sɪˈnɑptɪk/           | adj. 概要的          | A synoptic overview of the book is available online.<br>(书的概要概览可在网上找到。) |
+| resistant          | `/rɪˈzɪstənt/          | adj. 抵抗的          | This material is resistant to heat.<br>(这种材料耐热。) |
+| perfection         | `/pərˈfɛkʃən/          | n. 完美              | She always strives for perfection.<br>(她总是追求完美。) |
+| pathway            | `/ˈpæθˌweɪ/            | n. 路径；途径         | This pathway leads to the garden.<br>(这条小径通向花园。) |
+| ※ | ※ | ※ | ※ |
+| democracy          | `/dɪˈmɑːkrəsi/          | n. 民主政治           | Democracy allows citizens to participate in government decisions.<br>(民主允许公民参与政府决策。) |
+| presumptuous       | `/prɪˈzʌmptʃuəs/        | adj. 放肆的；专横的    | It was presumptuous of him to assume he could just take the car.<br>(他以为可以随便拿车是很放肆的。) |
+| maple              | `/ˈmeɪpl/               | n. 枫树；枫木         | Maple syrup is made from the sap of maple trees.<br>(枫糖浆是由枫树的树液制成的。) |
+| inhuman            | `/ɪnˈhjuːmən/           | adj. 不人道的         | The conditions in the camp were inhuman.<br>(营地的条件是不人道的。) |
+| relentless         | `/rɪˈlɛntləs/           | adj. 无情的；持续的    | His relentless pursuit of perfection is admirable.<br>(他对完美的不懈追求值得钦佩。) |
+| impetuous          | `/ɪmˈpɛtʃuəs/           | adj. 鲁莽的           | His impetuous behavior often got him into trouble.<br>(他的鲁莽行为经常给他带来麻烦。) |
+| aghast             | `/əˈɡæst/               | adj. 惊骇的           | She was aghast at the news.<br>(她听到那消息时惊呆了。) |
+| alibi              | `/ˈælɪˌbaɪ/             | n. 不在场证明；托辞     | He had an alibi for the night of the crime.<br>(他在犯罪当晚有不在场证明。) |
+| accuse             | `/əˈkjuːz/              | v. 指控；控告          | She accused him of lying.<br>(她指控他撒谎。) |
+| slandering         | `/ˈslændərɪŋ/           | v. 诽谤               | Slandering others can result in legal action.<br>(诽谤他人可能会导致法律行动。) |
+| threatening        | `/ˈθrɛtənɪŋ/            | adj. 威胁的           | His tone was threatening.<br>(他的语气很威胁。) |
+| conspiracy         | `/kənˈspɪrəsi/          | n. 阴谋               | They uncovered a conspiracy to overthrow the government.<br>(他们揭露了一个推翻政府的阴谋。) |
+| hick               | `/hɪk/                  | n. 乡下人             | He was unfairly treated as a hick in the city.<br>(在城市中，他被不公正地当作乡下人对待。) |
+| bonus              | `/ˈboʊnəs/              | n. 奖金；额外津贴       | She received a bonus for her excellent performance.<br>(她因出色表现获得了奖金。) |
+| track              | `/træk/                 | n. 跑道；轨道；v. 追踪  | n. The runners lined up on the track.<br>(跑者们在跑道上排队。)<br>v. They tracked the movements of the whales.<br>(他们追踪了鲸鱼的移动。) |
+| rot                | `/rɑːt/                 | v. 腐烂；n. 腐烂       | v. The vegetables will rot if left unrefrigerated.<br>(如果不冷藏，蔬菜会腐烂。)<br>n. There was a smell of rot from the old house.<br>(从那座旧房子中散发出腐烂的味道。) |
+| lame               | `/leɪm/                 | adj. 跛的；无说服力的   | He gave a lame excuse for being late.<br>(他为迟到给出了一个没有说服力的借口。) |
+| ※ | ※ | ※ | ※ |
+| duplicate        | `/ˈduːplɪkeɪt/`                         | v. 复制；<br />adj. 完全相同的；<br />n. 副本 | v. She duplicated the document.<br>(她复制了这份文件。)<br>adj. They submitted duplicate applications.<br>(他们提交了完全相同的申请。)<br>n. Keep a duplicate for your records.<br>(保留一份副本用于记录。) |
+| project           | n. `/ˈprɑːdʒekt/`<br />v. `/prəˈdʒekt/` | n. 项目；计划<br>v. 规划；投射   | n. She is working on a new science project.<br>(她正在进行一个新的科学项目。)<br>v. They plan to project the new film next week.<br>(他们计划下周放映新电影。) |
+| projection        | `/prəˈdʒɛkʃən/          | n. 投影；预测           | The projection of future sales was optimistic.<br>(对未来销售的预测是乐观的。) |
+| enthusiastic      | `/ɪnˌθuziˈæstɪk/       | adj. 热情的            | He is enthusiastic about the upcoming trip.<br>(他对即将到来的旅行感到热情。) |
+| problem           | `/ˈprɑːbləm/           | n. 问题                | We need to find a solution to this problem.<br>(我们需要找到解决这个问题的办法。) |
+| chatty            | `/ˈʧæti/               | adj. 健谈的            | She is very chatty and makes friends easily.<br>(她很健谈，很容易交到朋友。) |
+| clatter           | `/ˈklætər/             | n. 噼里啪啦声；v. 发出噼里啪啦声                                  | n. The clatter of dishes could be heard in the kitchen.<br>(厨房里可以听到碗碟的噼里啪啦声。)<br>v. The keys clattered on the desk.<br>(钥匙在桌子上发出噼里啪啦声。) |
+| muse              | `/mjuːz/               | v. 沉思；n. 灵感之源    | v. He mused on his options for the future.<br>(他沉思着自己未来的选择。)<br>n. She was his muse for many years.<br>(她多年来一直是他的灵感之源。) |
+| nest              | `/nɛst/                | n. 巢；v. 筑巢         | n. The bird built a nest in the tree.<br>(鸟儿在树上筑巢。)<br>v. The cups nest inside each other for easy storage.<br>(这些杯子可以叠在一起，便于存放。) |
+| slot              | `/slɑːt/               | n. 缝隙；v. 插入       | n. He put a coin in the slot of the machine.<br>(他将硬币放入机器的缝隙中。)<br>v. She slotted the letter into the mailbox.<br>(她把信插入邮箱。) |
+| **boost**         | `/buːst/`               | v. 提升；促进<br>n. 推动 | v. His speech boosted morale.<br>(他的演讲提高了士气。)<br>n. The campaign gave a significant boost to her popularity.<br>(这场活动显著提升了她的人气。) |
+| warehouse         | `/ˈwɛrˌhaʊs/          | n. 仓库                 | Goods are stored in a large warehouse.<br>(商品存放在一个大仓库里。) |
+| roast             |`/roʊst/               | v. 烘烤；n. 烤肉         | v. She roasted the turkey for dinner.<br>(她为晚餐烤了火鸡。)<br>n. We had roast beef at the banquet.<br>(我们在宴会上吃了烤牛肉。) |
+| construction      | `/kənˈstrʌkʃən/       | n. 建设；建筑             | The construction of the new bridge will start soon.<br>(新桥的建设很快就会开始。) |
+| anarchy           | `/ˈænərki/            | n. 无政府状态             | The country was in anarchy after the government collapsed.<br>(政府垮台后，该国陷入了无政府状态。) |
+| permanent         | `/ˈpɜrmənənt/         | adj. 永久的              | She is looking for a permanent place to live.<br>(她正在寻找一个永久的居住地。) |
+| rope              | `/roʊp/               | n. 绳；v. 捆绑            | n. He bought a rope to tie the luggage.<br>(他买了一根绳子来捆绑行李。)<br>v. Rope off the area for safety.<br>(为了安全，用绳子围起这个区域。) |
+| delusion          | `/dɪˈluʒən/           | n. 错觉；幻想             | He is under the delusion that he is invincible.<br>(他幻想自己不可战胜。) |
+| delusional        | `/dɪˈluʒənl/          | adj. 妄想的              | He became delusional after the trauma.<br>(他在经历创伤后变得妄想。) |
+| flash             | `/flæʃ/               | v. 闪光；n. 闪光          | v. Lightning flashed in the sky.<br>(天空中闪现雷电。)<br>n. The camera has a built-in flash.<br>(相机内置了闪光灯。) |
+| base              | `/beɪs/               | n. 基地；基础；adj. 卑鄙的  | n. They operate from a military base.<br>(他们在一个军事基地操作。)<br>adj. That was a base lie.<br>(那是一个卑鄙的谎言。) |
+
+#### 单词解释
+
+- **boost (v. & n.)**
+    - 作为动词，boost 描述了提升或增强的行为，意指 **`提升`** 或 **`促进`** 。例如：一次成功的广告活动可以显著提升产品的知名度。此外，boost 也可用来形容加快某一进程或活动的发展，如：新技术的引入促进 了工作效率的提高。
+    - 作为名词，boost 表示对某事的推动或增强，通常用于描述对情绪、过程或事业的正面影响，意为 **`推动`** 。比如：他的鼓励给了我巨大的推动，帮助我克服困难。
 
 
 
@@ -426,7 +472,6 @@ ChatGPT 4.0 translations
 | gradient        | `/ˈɡreɪdiənt/      | n. 坡度，梯度        | The road has a steep gradient.<br>(这条路坡度很陡。) |
 | personality     | `/ˌpɜːrsəˈnælɪti/  | n. 个性，性格        | She has a very charming personality.<br>(她有一个非常迷人的个性。) |
 | dainty          | `/ˈdeɪnti/         | adj. 精致的，优雅的   | She wore a dainty lace dress.<br>(她穿了一件精致的蕾丝裙。) |
-| project         | `/ˈprɑːdʒɛkt/      | n. 项目；v. 投射，放映 | n. The new building project will start soon.<br>(新建筑项目即将开始。)<br>v. The company will project its sales for next year.<br>(公司将预测明年的销售额。) |
 | disheartened    | `/dɪsˈhɑːrtənd/    | adj. 气馁的，失去勇气的 | She felt disheartened after the meeting.<br>(会后她感到很气馁。) |
 | simplicity      | `/sɪmˈplɪsɪti/     | n. 简单，简易         | There is beauty in simplicity.<br>(简单中有美。) |
 | expectation     | `/ˌɛkspɛkˈteɪʃn/   | n. 期望，预期         | Her expectations for the trip were high.<br>(她对这次旅行的期望很高。) |
@@ -1837,7 +1882,7 @@ ChatGPT 4.0 translations
 | ---------- | --------------- | ----------------------------------------------------- | ------------------------------------------------------------ |
 | conviction | `/kənˈvɪkʃən/`  | n. 定罪；信念                                         | He was released after his conviction was overturned. (在他的定罪被推翻后，他被释放了。)<br />She spoke with conviction about her beliefs. (她坚定地表达了她的信仰。) |
 | firm       | `/fɜːrm/`       | adj. 坚固的；坚定的 <br />n. 公司                     | adj. The mattress is quite firm. (这个床垫相当坚固。)<br />n. She works for a law firm. (她在一家律师事务所工作。) |
-| instant    | `/ˈɪnstənt/`    | n. 瞬间；片刻; <br />adj. 即时的                      | n. He decided to leave at that instant. (他决定就在那个瞬间离开。)<br />n. The decision was made in an instant. (决定是在一瞬间做出的。)<br />adj. He needed an instant response. (他需要一个即时的回应。)<br />adj. instant coffee. 速溶咖啡。 instant soup. 方便汤。 |
+| instant    | `/ˈɪnstənt/`    | adj. 即时的，立即的；<br />n. 瞬间；片刻              | adj. He needed an instant response. (他需要一个即时的回应。)<br />adj. an instant success. 马到成功。 <br />adj. instant coffee. 速溶咖啡。 <br />adj. instant soup. 方便汤。<br />n. He decided to leave at that instant. (他决定就在那个瞬间离开。)<br />n. The decision was made in an instant. (决定是在一瞬间做出的。) |
 | duplicate  | `/ˈduːplɪkeɪt/` | adj. 完全相同的；复制的 <br />n. 复制品 <br />v. 复制 | adj. He had a duplicate key made. (他制作了一把完全相同的钥匙。)<br />n. She kept a duplicate of the document for safety. (为了安全，她保留了该文件的复制品。)<br />v. They duplicated the original painting. (他们复制了原画。) |
 | comrade    | `/ˈkɑːmræd/`    | n. 同志；伙伴                                         | He greeted his comrades in arms. (他向他的战友们问好。)      |
 
