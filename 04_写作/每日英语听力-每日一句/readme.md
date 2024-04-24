@@ -39,8 +39,23 @@
 >
 
 ### 2024.04.24
-> #### 
+
+> #### Respect your efforts, respect yourself.  Self-respect leads to self-discipline. When you have both firmly under your belt, that's real power.
 >
+> 尊重你的努力，尊重你自己。自尊导致(/带来)自律。当你牢牢掌握这两者时，那就是真正的力量。
+>
+> | 单词       | 美式发音      | 词类 + 汉语释义                   | 示例 |
+> | ---------- | ------------- | --------------------------------- | ---- |
+> | discipline | `/ˈdɪsəplɪn/` | n. 纪律；学科<br />vt. 训练；惩罚 |      |
+> | belt       | `/belt/`      |                                   |      |
+
+#### ChatGPT 4.0:
+
+短语 "**have something firmly under your belt**" 是一个常用的英语习语，它的字面意思是你把某物系在腰带下，比喻意味着你已经完全掌握或安全地获得了某样东西。在很多情况下，这个短语用来表示某人已经确实地学会或获得了某种技能、经验或成就。
+短语 "firmly under your belt (牢固地在你的腰带下)" 用来形容你已经充分、可靠地掌握或完成了某件事情。这里：
+
+- "firmly" 指的是稳固地、不动摇地。
+- "under your belt" 是指某事已经成为你经验的一部分，你已经学会了它并且可以自如地使用这一知识或技能。
 
 ### 2024.04.23
 > #### A little knowledge is not a dangerous thing to one who does not mistake it for a great deal.
@@ -64,6 +79,7 @@
 这句话中的英语单词"little"在这个上下文中是一个形容词，意思是"少量的"或"不多的"。"knowledge"意为"知识"，"not a dangerous thing"意为"不是一件危险的事情"，"to one who does not mistake it for a great deal"是一个定语从句，意为"对于那些不会将其误认为是大量知识的人"。
 
 #### ChatGPT 4.0:
+
 这句话 "A little knowledge is not a dangerous thing to one who does not mistake it for a great deal." 传达了一个关于知识和自我认知的深刻见解。它表达了对常言“一知半解是危险的”（A little knowledge is a dangerous thing）的一种反思和修正。下面是对这句话的详细解析：
 
 ##### 结构分析
@@ -105,11 +121,11 @@
 在定语从句 "to one who does not mistake it for a great deal" 里，"a great deal" 表达的是知识的“大量”或“深入”的意思。这里它用来指出，个人不应将自己的有限知识误认为是深厚的知识。此用法强调了知识量的错误评估，而不是物理数量或尺度。
 
 ### 2024.04.22
+
 > #### Don't judge each day by the harvest you <u>reap</u> but by the seeds that you plant.
 >
 > GT: 不要以你收获的收成来判断每一天，而要以你播下的种子来判断。
 >
-> 
 > 语境：这句话的含义是鼓励人们不要仅仅根据每天获得的即时结果（即"harvest you reap"，意为你收获的果实）来评价这一天的价值，而是要看你在这一天中播下了多少努力和希望的种子（即"seeds that you plant"）。这是一种强调长期投入和持续努力的哲学，暗示即使短期内没有看到明显收获，但持续播种终将有所回报。这句话出自美国作家罗伯特·路易斯·斯蒂文森的作品，常被用来激励人们在追求目标时保持耐心和决心。
 
 ### 2024.04.21
