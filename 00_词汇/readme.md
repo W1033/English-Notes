@@ -907,44 +907,44 @@ ChatGPT 4.0 translations
 
 ~~注：下面表格单词已写到 Goodnotes~~
 
-| 单词        | 美式发音          | 词类 + 汉语释义                      | 示例                                                         |
-| ----------- | ----------------- | ------------------------------------ | ------------------------------------------------------------ |
-| desiccate   | `/ˈdɛsɪkeɪt/`     | v. 使脱水，使干燥                    | The machine desiccates the fruit for storage.<br />(这台机器使水果脱水以便储存。) |
-| desiccative | `/ˈdɛsɪˌkeɪtɪv/`  | adj. 使干燥的                        | The desiccative agent is used in packaging to prevent moisture.<br />(这种干燥剂用于包装以防潮湿。) |
-| desiccator  | `/ˈdɛsɪkeɪtər/`   | n. 干燥剂，干燥器                    | The chemical samples were stored in a desiccator.<br />(化学样品被储存在干燥器中。) |
-| cult        | `/kʌlt/`          | n. 邪教；狂热崇拜                    | The book examines the psychology behind cult movements.<br />(这本书检视了邪教运动背后的心理学。) |
-| decimate    | `/ˈdɛsɪˌmeɪt/`    | v. 大量毁灭；严重削弱                | The population was decimated by the plague.<br />(瘟疫大量毁灭了人口。) |
-| pussy       | `/ˈpʊsi/`         | n. 猫咪；[俚]女性生殖器              | She has a cute little pussy cat.<br />(她有一只可爱的小猫。) |
-| delusion    | `/dɪˈluʒən/`      | n. 错觉；妄想                        | He is under the delusion that he is invincible.<br />(他妄想自己是不可战胜的。) |
-| delusional  | `/dɪˈluʒənəl/`    | adj. 妄想的，幻觉的                  | The patient has delusional thoughts about his power.<br />(这位患者对自己的力量有妄想。) |
-| sort        | `/sɔːrt/`         | n. 种类；v. 分类                     | n. We have all sorts of books here.<br />(我们这里有各种各样的书。)<br />v. Sort the papers by date.<br />(按日期对文件进行分类。) |
-| respite     | `/ˈrɛspɪt/`       | n. 暂缓；喘息                        | The vacation was a welcome respite from work.<br />(假期是从工作中得来的喘息。) |
+| 单词         | 美式发音          | 词类 + 汉语释义            | 示例                                                         |
+| ----------- | -----------------| ------------------------ | ------------------------------------------------------------ |
+| desiccate   | `/ˈdɛsɪkeɪt/     | v. 使脱水，使干燥          | The machine desiccates the fruit for storage.<br />(这台机器使水果脱水以便储存。) |
+| desiccative | `/ˈdɛsɪˌkeɪtɪv/  | adj. 使干燥的             | The desiccative agent is used in packaging to prevent moisture.<br />(这种干燥剂用于包装以防潮湿。) |
+| desiccator  | `/ˈdɛsɪkeɪtər/   | n. 干燥剂，干燥器          | The chemical samples were stored in a desiccator.<br />(化学样品被储存在干燥器中。) |
+| cult        | `/kʌlt/          | n. 邪教；狂热崇拜          | The book examines the psychology behind cult movements.<br />(这本书检视了邪教运动背后的心理学。) |
+| decimate    | `/ˈdɛsɪˌmeɪt/    | v. 大量毁灭；严重削弱       | The population was decimated by the plague.<br />(瘟疫大量毁灭了人口。) |
+| pussy       | `/ˈpʊsi/         | n. 猫咪；[俚]女性生殖器     | She has a cute little pussy cat.<br />(她有一只可爱的小猫。) |
+| delusion    | `/dɪˈluʒən/      | n. 错觉；妄想              | He is under the delusion that he is invincible.<br />(他妄想自己是不可战胜的。) |
+| delusional  | `/dɪˈluʒənəl/    | adj. 妄想的，幻觉的         | The patient has delusional thoughts about his power.<br />(这位患者对自己的力量有妄想。) |
+| sort        | `/sɔːrt/         | n. 种类；v. 分类           | n. We have all sorts of books here.<br />(我们这里有各种各样的书。)<br />v. Sort the papers by date.<br />(按日期对文件进行分类。) |
+| respite     | `/ˈrɛspɪt/       | n. 暂缓；喘息              | The vacation was a welcome respite from work.<br />(假期是从工作中得来的喘息。) |
 | ※ | ※ | ※ | ※ |
-| catalogue   | `/ˈkætəˌlɔɡ/`     | n. 目录；v. 编目录                   | n. She found the book in the library catalogue.<br />(她在图书馆目录中找到了这本书。)<br />v. We need to catalogue the new arrivals.<br />(我们需要为新到的书编目录。) |
-| pasture     | `/ˈpæstʃər/`      | n. 牧场；v. 放牧                     | n. The cows are grazing in the pasture.<br />(奶牛正在牧场上吃草。)<br />v. They pasture their sheep on the hillside.<br />(他们在山坡上放牧羊。) |
-| cow         | `/kaʊ/`           | n. 奶牛                              | The cow is grazing in the field.<br />(奶牛正在田野上吃草。) |
-| convergence | `/kənˈvɜrdʒəns/`  | n. 汇聚；收敛                        | The convergence of the rivers creates a powerful current.<br />(河流的汇聚形成了强大的水流。) |
-| convergent  | `/kənˈvɜrdʒənt/`  | adj. 收敛的                          | Convergent lines meet at a point.<br />(收敛线在一点相交。)  |
-| word        | `/wɜrd/`          | n. 单词；话语                        | Choose your words carefully.<br />(仔细选择你的措辞。)       |
-| world       | `/wɜrld/`         | n. 世界                              | He has traveled around the world.<br />(他已经环游了世界。)  |
-| dose        | `/doʊs/`          | n. 剂量；v. 给...服药                | n. The doctor prescribed a dose of medicine.<br />(医生开了一剂药。)<br />v. She dosed the child with cough syrup.<br />(她给这个孩子服用了咳嗽糖浆。) |
-| light       | `/laɪt/`          | n. 光；adj. 轻的；v. 点亮            | n. The light from the sun is very bright.<br />(太阳的光非常明亮。)<br />adj. She prefers light meals.<br />(她喜欢吃清淡的饭菜。)<br />v. Light the candle.<br />(点燃蜡烛。) |
-| impression  | `/ɪmˈprɛʃən/`     | n. 印象；感觉                        | His first impression of the city was positive.<br />(他对这座城市的第一印象是积极的。) |
-| serial      | `/ˈsɪriəl/`       | adj. 连续的；n. 连续剧               | adj. She writes for a serial publication.<br />(她为一份连续出版物写作。)<br />n. The new serial is popular on television.<br />(新的电视连续剧很受欢迎。) |
-| tributary   | `/ˈtrɪbjʊtɛri/`   | n. 支流                              | The river has several tributaries.<br />(这条河有几条支流。) |
-| ※           | ※                 | ※                                    | ※                                                            |
-| semester    | `/səˈmɛstər/`     | n. 学期                              | The course lasts for one semester.<br />(这门课程持续一个学期。) |
-| Ergenbright | `/ˈɜːrɡənˌbraɪt/` | n. 专有名词（人名）                  | Ergenbright is likely a surname and does not have a translation. |
-| counsel     | `/ˈkaʊnsəl/`      | n. 咨询，建议；v. 提供专业咨询或建议 | n. She sought counsel from her lawyer.<br />(她向律师征询了意见。)<br />v. He counseled the student on career choices.<br />(他就职业选择向学生提供了咨询。) |
-| counsellor  | `/ˈkaʊnsələr/`    | n. 顾问，辅导员                      | The school counsellor helps students with their problems.<br />(学校辅导员帮助学生解决问题。) |
-| counselor   | `/ˈkaʊnsələr/`    | n. 顾问，辅导员（美式拼写）          | The counselor offered guidance on college applications.<br />(辅导员提供了关于大学申请的指导。) |
-| nightmare   | `/ˈnaɪtˌmɛr/`     | n. 噩梦                              | She woke up from a terrible nightmare.<br />(她从一场可怕的噩梦中醒来。) |
-| Satanic     | `/səˈtænɪk/`      | adj. 魔鬼的，撒旦的                  | The movie features a Satanic cult.<br />(这部电影展示了一个魔鬼的邪教。) |
-| worship     | `/ˈwɜrʃɪp/`       | v. 崇拜；n. 崇拜，敬仰               | v. People worship in temples, churches, and mosques.<br />(人们在寺庙、教堂和清真寺崇拜。)<br />n. His worship of money led him astray.<br />(他对金钱的崇拜使他误入歧途。) |
-| rev         | `/rɛv/`           | v. 加速，提高转速                    | He revved the engine before starting the race.<br />(他在赛前加速了引擎。) |
-| casual      | `/ˈkæʒuəl/`       | adj. 随意的，非正式的                | He dresses in a casual style.<br />(他的着装风格很随意。)    |
-| postpone    | `/poʊstˈpoʊn/`    | v. 推迟                              | The meeting was postponed until next week.<br />(会议被推迟到下周。) |
-| sadistic    | `/səˈdɪstɪk/`     | adj. 虐待狂的                        | He showed a sadistic pleasure in teasing others.<br />(他在折磨别人时表现出虐待狂的乐趣。) |
+| catalogue   | `/ˈkætəˌlɔɡ/     | n. 目录；v. 编目录         | n. She found the book in the library catalogue.<br />(她在图书馆目录中找到了这本书。)<br />v. We need to catalogue the new arrivals.<br />(我们需要为新到的书编目录。) |
+| pasture     | `/ˈpæstʃər/      | n. 牧场；v. 放牧           | n. The cows are grazing in the pasture.<br />(奶牛正在牧场上吃草。)<br />v. They pasture their sheep on the hillside.<br />(他们在山坡上放牧羊。) |
+| cow         | `/kaʊ/           | n. 奶牛                   | The cow is grazing in the field.<br />(奶牛正在田野上吃草。) |
+| convergence | `/kənˈvɜrdʒəns/  | n. 汇聚；收敛              | The convergence of the rivers creates a powerful current.<br />(河流的汇聚形成了强大的水流。) |
+| convergent  | `/kənˈvɜrdʒənt/  | adj. 收敛的               | Convergent lines meet at a point.<br />(收敛线在一点相交。)  |
+| word        | `/wɜrd/          | n. 单词；话语              | Choose your words carefully.<br />(仔细选择你的措辞。)       |
+| world       | `/wɜrld/         | n. 世界                   | He has traveled around the world.<br />(他已经环游了世界。)  |
+| dose        | `/doʊs/          | n. 剂量；v. 给...服药      | n. The doctor prescribed a dose of medicine.<br />(医生开了一剂药。)<br />v. She dosed the child with cough syrup.<br />(她给这个孩子服用了咳嗽糖浆。) |
+| light       | `/laɪt/          | n. 光；adj. 轻的；v. 点亮   | n. The light from the sun is very bright.<br />(太阳的光非常明亮。)<br />adj. She prefers light meals.<br />(她喜欢吃清淡的饭菜。)<br />v. Light the candle.<br />(点燃蜡烛。) |
+| impression  | `/ɪmˈprɛʃən/     | n. 印象；感觉              | His first impression of the city was positive.<br />(他对这座城市的第一印象是积极的。) |
+| serial      | `/ˈsɪriəl/       | adj. 连续的；n. 连续剧      | adj. She writes for a serial publication.<br />(她为一份连续出版物写作。)<br />n. The new serial is popular on television.<br />(新的电视连续剧很受欢迎。) |
+| tributary   | `/ˈtrɪbjʊtɛri/   | n. 支流                   | The river has several tributaries.<br />(这条河有几条支流。) |
+| ※ | ※ | ※ | ※ |
+| semester    | `/səˈmɛstər/     | n. 学期                   | The course lasts for one semester.<br />(这门课程持续一个学期。) |
+| Ergenbright | `/ˈɜːrɡənˌbraɪt/ | n. 专有名词（人名）         | Ergenbright is likely a surname and does not have a translation. |
+| counsel     | `/ˈkaʊnsəl/      | n. 咨询，建议；v. 提供专业咨询或建议 | n. She sought counsel from her lawyer.<br />(她向律师征询了意见。)<br />v. He counseled the student on career choices.<br />(他就职业选择向学生提供了咨询。) |
+| counsellor  | `/ˈkaʊnsələr/    | n. 顾问，辅导员            | The school counsellor helps students with their problems.<br />(学校辅导员帮助学生解决问题。) |
+| counselor   | `/ˈkaʊnsələr/    | n. 顾问，辅导员（美式拼写）  | The counselor offered guidance on college applications.<br />(辅导员提供了关于大学申请的指导。) |
+| nightmare   | `/ˈnaɪtˌmɛr/     | n. 噩梦                   | She woke up from a terrible nightmare.<br />(她从一场可怕的噩梦中醒来。) |
+| Satanic     | `/səˈtænɪk/      | adj. 魔鬼的，撒旦的         | The movie features a Satanic cult.<br />(这部电影展示了一个魔鬼的邪教。) |
+| worship     | `/ˈwɜrʃɪp/       | v. 崇拜；n. 崇拜，敬仰      | v. People worship in temples, churches, and mosques.<br />(人们在寺庙、教堂和清真寺崇拜。)<br />n. His worship of money led him astray.<br />(他对金钱的崇拜使他误入歧途。) |
+| rev         | `/rɛv/           | v. 加速，提高转速          | He revved the engine before starting the race.<br />(他在赛前加速了引擎。) |
+| casual      | `/ˈkæʒuəl/       | adj. 随意的，非正式的      | He dresses in a casual style.<br />(他的着装风格很随意。)    |
+| postpone    | `/poʊstˈpoʊn/    | v. 推迟                  | The meeting was postponed until next week.<br />(会议被推迟到下周。) |
+| sadistic    | `/səˈdɪstɪk/     | adj. 虐待狂的             | He showed a sadistic pleasure in teasing others.<br />(他在折磨别人时表现出虐待狂的乐趣。) |
 
 ### 单词解释：
 
@@ -985,45 +985,43 @@ ChatGPT 4.0 translations
 
 ~~注：下面表格单词已写到 Goodnotes~~
 
-| Word         | American Pronunciation | Part of Speech + Chinese Definition | Example Sentence                                          |
-|--------------|------------------------|-------------------------------------|----------------------------------------------------------|
-| literature   | `/ˈlɪtərətʃər/       | n. 文学                         | She has an extensive collection of world literature. (她拥有丰富的世界文学藏书。) |
-| literary     | `/ˈlɪtəˌrɛri/        | adj. 文学的                     | He made a significant literary achievement. (他取得了重要的文学成就。) |
+| Word     | American Pronunciation | Part of Speech + Chinese Definition | Example Sentence                                          |
+|--------------|--------------------|-------------------------------------|----------------------------------------------------------|
+| literature   | `/ˈlɪtərətʃər/     | n. 文学                | She has an extensive collection of world literature. (她拥有丰富的世界文学藏书。) |
+| literary     | `/ˈlɪtəˌrɛri/      | adj. 文学的            | He made a significant literary achievement. (他取得了重要的文学成就。) |
 | quote        | `/kwoʊt/`            | v. 引用；报价<br />n. 引用；报价   | v. He quoted a famous poet in his speech. (他在演讲中引用了一位著名诗人的话。)<br />v. He quoted a short passage form the Bible. <br />(他引用了《圣经》里的一小段。)<br />n. Can you give me a quote for the repair work?<br />(你能给我一个修理工作的报价吗？) |
-|  |  |  |  |
-| bam          | `/bæm/               | interj. （突然发生的声音或行动的表示）| The door went bam and everyone looked up. (门“砰”的一声，所有人都抬头看。) |
-| pariah       | `/pəˈraɪə/           | n. 被排斥或鄙视的人               | He became a social pariah after the scandal. (丑闻之后他成了社会弃儿。) |
-| booby        | `/ˈbuːbi/            | n. 傻瓜；笨蛋                    | Don't be such a booby! (别做傻瓜！) |
-| shout-out    | `/ˈʃaʊtˌaʊt/         | n. 大声喊出；公开感谢或认可        | I want to give a shout-out to my team for their hard work. (我想大声感谢我的团队为他们的辛勤工作。) |
-| rapture      | `/ˈræptʃər/          | n. 狂喜                         | She listened to the music with a look of rapture. (她听音乐时面露狂喜。) |
-| effortless   | `/ˈɛfərtləs/         | adj. 不费力的                   | He made an effortless jump and won the game. (他轻松跳跃赢得了比赛。) |
-| boast        | `/boʊst/             | v. 吹嘘；n. 自夸                 | v. He boasts about his achievements. (他夸耀自己的成就。) |
-| concise      | `/kənˈsaɪs/          | adj. 简洁的                     | His explanation was clear and concise. (他的解释清晰而简洁。) |
-| propaganda   | `/ˌprɑːpəˈɡændə/     | n. 宣传                         | The government's campaign was full of propaganda. (政府的运动充满了宣传。) |
-| exclusive    | `/ɪkˈskluːsɪv/       | adj. 独有的，专有的               | They obtained an exclusive interview with the celebrity. (他们获得了对那位名人的独家采访。) |
 | ※ | ※ | ※ | ※ |
-| endanger     | `/ɛnˈdeɪndʒər/       | v. 使处于危险                   | His reckless driving could endanger lives.<br />(他鲁莽的驾驶可能会危及生命。) |
-| wonder       | `/ˈwʌndər/           | v. 想知道；对...感到惊奇；n. 奇迹 | v. I wonder why she left the party early.<br />(我想知道她为什么早早地离开了聚会。)<br />n. The Great Wall is one of the wonders of the world.<br />(长城是世界奇迹之一。) |
-| mouth        | `/maʊθ/              | n. 嘴；口                      | She put the spoon in her mouth.<br />(她把勺子放进嘴里。) |
-| tremendous   | `/trɪˈmɛndəs/        | adj. 巨大的；极好的             | They won the game by a tremendous margin.<br />(他们以巨大的优势赢得了比赛。) |
-| toward       | `/təˈwɔrd/           | prep. 朝向；对于                | He walked toward the door.<br />(他朝门走去。) |
-| itinerary    | `/aɪˈtɪnəˌrɛri/      | n. 旅行计划；行程单              | She checked her itinerary to confirm the flight times.<br />(她查看了她的行程单以确认航班时间。) |
-
-| Word           | American Pronunciation | Part of Speech + Chinese Definition      | Example Sentence                                       |
-|----------------|------------------------|------------------------------------------|-------------------------------------------------------|
-| indivisible    | `/ˌɪndɪˈvɪzəbl/      | adj. 不可分割的                          | The concept of freedom is indivisible from human rights. (自由的概念与人权不可分割。) |
-| onto           | `/ˈɒntu/             | prep. 到...之上                          | She climbed onto the roof. (她爬到屋顶上。)             |
-| impression     | `/ɪmˈprɛʃən/         | n. 印象                                  | His speech made a strong impression on the audience. (他的演讲给观众留下了深刻的印象。) |
-| repent         | `/rɪˈpɛnt/           | v. 悔改，后悔                            | He repented for his past mistakes. (他为过去的错误感到后悔。) |
-| slack          | `/slæk/              | adj. 松弛的；v. 松懈，减弱              | adj. The rope is too slack. (绳子太松了。)<br>v. Don't slack on your duties. (不要在职责上松懈。) |
-| fortunate      | `/ˈfɔːrtʃənət/       | adj. 幸运的                              | She was fortunate to find her lost ring. (她很幸运找到了她丢失的戒指。) |
-| total          | `/ˈtoʊtl/            | n. 总计；adj. 总的，全部的              | n. The total comes to $100. (总计为100美元。)<br>adj. The total amount is overwhelming. (总金额是压倒性的。) |
-| labyrinth      | `/ˈlæbərɪnθ/        | n. 迷宫                                  | The ancient palace was a labyrinth of corridors. (古宫殿是一个迷宫般的走廊。) |
-| labyrinthine   | `/ˌlæbəˈrɪnθɪn/     | adj. 迷宫般的                            | The legal procedures were labyrinthine and complex. (法律程序错综复杂。) |
-| corpse         | `/kɔːrps/            | n. 尸体                                  | The corpse was found in the woods. (尸体在树林中被发现。) |
-| literally      | `/ˈlɪtərəli/         | adv. 字面上的，确实地                    | He was literally the only person there. (他确实是那里唯一的人。) |
-| literal        | `/ˈlɪtərəl/          | adj. 字面的，确切的                      | The literal meaning of the word is clear. (这个词的字面意思很清楚。) |
-
+| bam          | `/bæm/             | interj. （突然发生的声音或行动的表示）| The door went bam and everyone looked up. (门“砰”的一声，所有人都抬头看。) |
+| pariah       | `/pəˈraɪə/         | n. 被排斥或鄙视的人      | He became a social pariah after the scandal. (丑闻之后他成了社会弃儿。) |
+| booby        | `/ˈbuːbi/          | n. 傻瓜；笨蛋           | Don't be such a booby! (别做傻瓜！) |
+| shout-out    | `/ˈʃaʊtˌaʊt/       | n. 大声喊出；公开感谢或认可 | I want to give a shout-out to my team for their hard work. (我想大声感谢我的团队为他们的辛勤工作。) |
+| rapture      | `/ˈræptʃər/        | n. 狂喜                 | She listened to the music with a look of rapture. (她听音乐时面露狂喜。) |
+| effortless   | `/ˈɛfərtləs/       | adj. 不费力的            | He made an effortless jump and won the game. (他轻松跳跃赢得了比赛。) |
+| boast        | `/boʊst/           | v. 吹嘘；n. 自夸         | v. He boasts about his achievements. (他夸耀自己的成就。) |
+| concise      | `/kənˈsaɪs/        | adj. 简洁的             | His explanation was clear and concise. (他的解释清晰而简洁。) |
+| propaganda   | `/ˌprɑːpəˈɡændə/   | n. 宣传                 | The government's campaign was full of propaganda. (政府的运动充满了宣传。) |
+| exclusive    | `/ɪkˈskluːsɪv/     | adj. 独有的，专有的       | They obtained an exclusive interview with the celebrity. (他们获得了对那位名人的独家采访。) |
+| ※ | ※ | ※ | ※ |
+| endanger     | `/ɛnˈdeɪndʒər/     | v. 使处于危险            | His reckless driving could endanger lives.<br />(他鲁莽的驾驶可能会危及生命。) |
+| wonder       | `/ˈwʌndər/         | v. 想知道；对...感到惊奇；n. 奇迹 | v. I wonder why she left the party early.<br />(我想知道她为什么早早地离开了聚会。)<br />n. The Great Wall is one of the wonders of the world.<br />(长城是世界奇迹之一。) |
+| mouth        | `/maʊθ/            | n. 嘴；口                | She put the spoon in her mouth.<br />(她把勺子放进嘴里。) |
+| tremendous   | `/trɪˈmɛndəs/      | adj. 巨大的；极好的       | They won the game by a tremendous margin.<br />(他们以巨大的优势赢得了比赛。) |
+| toward       | `/təˈwɔrd/         | prep. 朝向；对于         | He walked toward the door.<br />(他朝门走去。) |
+| itinerary    | `/aɪˈtɪnəˌrɛri/    | n. 旅行计划；行程单       | She checked her itinerary to confirm the flight times.<br />(她查看了她的行程单以确认航班时间。) |
+| ※ | ※ | ※ | ※ |
+| indivisible  | `/ˌɪndɪˈvɪzəbl/    | adj. 不可分割的          | The concept of freedom is indivisible from human rights. (自由的概念与人权不可分割。) |
+| onto         | `/ˈɒntu/           | prep. 到...之上         | She climbed onto the roof. (她爬到屋顶上。)             |
+| impression   | `/ɪmˈprɛʃən/       | n. 印象                 | His speech made a strong impression on the audience. (他的演讲给观众留下了深刻的印象。) |
+| repent       | `/rɪˈpɛnt/         | v. 悔改，后悔            | He repented for his past mistakes. (他为过去的错误感到后悔。) |
+| slack        | `/slæk/            | adj. 松弛的；v. 松懈，减弱 | adj. The rope is too slack. (绳子太松了。)<br>v. Don't slack on your duties. (不要在职责上松懈。) |
+| fortunate    | `/ˈfɔːrtʃənət/     | adj. 幸运的              | She was fortunate to find her lost ring. (她很幸运找到了她丢失的戒指。) |
+| total        | `/ˈtoʊtl/          | n. 总计；adj. 总的，全部的 | n. The total comes to $100. (总计为100美元。)<br>adj. The total amount is overwhelming. (总金额是压倒性的。) |
+| labyrinth    | `/ˈlæbərɪnθ/       | n. 迷宫                  | The ancient palace was a labyrinth of corridors. (古宫殿是一个迷宫般的走廊。) |
+| labyrinthine | `/ˌlæbəˈrɪnθɪn/    | adj. 迷宫般的             | The legal procedures were labyrinthine and complex. (法律程序错综复杂。) |
+| corpse       | `/kɔːrps/          | n. 尸体                  | The corpse was found in the woods. (尸体在树林中被发现。) |
+| literally    | `/ˈlɪtərəli/       | adv. 字面上的，确实地      | He was literally the only person there. (他确实是那里唯一的人。) |
+| literal      | `/ˈlɪtərəl/        | adj. 字面的，确切的        | The literal meaning of the word is clear. (这个词的字面意思很清楚。) |
+  
 
 
 
@@ -1033,40 +1031,38 @@ ChatGPT 4.0 translations
 
 ~~注：下面表格单词已写到 Goodnotes~~
 
- 根据您的要求，这里是所请求单词的翻译表格，包括词性、汉语释义和示例：
-
-| 单词       | 美式发音          | 词类 + 汉语释义         | 示例                                                         |
-| ---------- | ----------------- | ----------------------- | ------------------------------------------------------------ |
-| minimum    | `/ˈmɪnɪməm/      | n. 最小量；最低限度     | The job requires a minimum of five years of experience.<br />(这份工作要求至少五年经验。) |
+| 单词        | 美式发音          | 词类 + 汉语释义       | 示例                                                         |
+| ---------- | ---------------- | ------------------- | ------------------------------------------------------------ |
+| minimum    | `/ˈmɪnɪməm/      | n. 最小量；最低限度    | The job requires a minimum of five years of experience.<br />(这份工作要求至少五年经验。) |
 | cement     | `/sɪˈmɛnt/       | n. 水泥；<br />v. 巩固，加强 | n. The sidewalk was laid with fresh cement.<br />(人行道铺上了新水泥。)<br />v. The crisis cemented their relationship.<br />(危机巩固了他们的关系。) |
-| sprig      | `/sprɪɡ/         | n. 嫩枝，小枝      | She added a sprig of parsley to the dish.<br />(她在菜里加了一小枝欧芹。) |
-| perch      | `/pɜːrtʃ/        | n. 栖木；v. 栖息   | n. The bird flew to its perch.<br />(鸟飞到了它的栖木上。)<br />v. She perched on the edge of the desk.<br />(她坐在桌子边缘。) |
-| estimate   | `/ˈɛstɪmeɪt/     | n. 估计；v. 估计   | n. The estimate for the project was too low.<br />(项目的预算估计太低。)<br />v. They estimated the crowd to be around 10,000.<br />(他们估计人群大约有10,000人。) |
+| sprig      | `/sprɪɡ/         | n. 嫩枝，小枝         | She added a sprig of parsley to the dish.<br />(她在菜里加了一小枝欧芹。) |
+| perch      | `/pɜːrtʃ/        | n. 栖木；v. 栖息      | n. The bird flew to its perch.<br />(鸟飞到了它的栖木上。)<br />v. She perched on the edge of the desk.<br />(她坐在桌子边缘。) |
+| estimate   | `/ˈɛstɪmeɪt/     | n. 估计；v. 估计      | n. The estimate for the project was too low.<br />(项目的预算估计太低。)<br />v. They estimated the crowd to be around 10,000.<br />(他们估计人群大约有10,000人。) |
 | glamorous  | `/ˈɡlæmərəs/     | adj. 迷人的，富有魅力的 | The actress wore a glamorous dress to the premiere.<br />(这位女演员身着迷人的礼服出席首映式。) |
 | chaff      | `/tʃæf/          | n. 谷壳；废物；开玩笑   | He always dismissed the criticism as mere chaff.<br />(他总是将批评视为无足轻重的废话。) |
-| impression | `/ɪmˈprɛʃən/     | n. 印象              | Her first impression of the city was positive.<br />(她对这座城市的第一印象是正面的。) |
-| ridge      | `/rɪdʒ/          | n. 脊；山脊           | The mountain ridge was covered with snow.<br />(山脊覆盖着雪。) |
-| relief     | `/rɪˈliːf/       | n. 缓解；解脱         | The medicine provided quick relief from pain.<br />(这药物迅速缓解了疼痛。) |
-| occupation | `/ˌɑːkjʊˈpeɪʃən/ | n. 职业；占领         | His occupation is a school teacher.<br />(他的职业是学校教师。) |
-| holocaust  | `/ˈhɑːləkɔːst/   | n. 大屠杀；浩劫       | The Holocaust was a tragic period in history.<br />(大屠杀是历史上的悲剧时期。) |
-| semitism   | `/ˈsɛmɪtɪzəm/    | n. 犹太人的特性或习惯  | The book discusses the history of Semitism in the region.<br />(这本书讨论了该地区犹太人的特性或习惯的历史。) |
-| summon       | `/ˈsʌmən/      | v. 召唤；召集         | He was summoned to court to testify.<br />(他被召唤到法庭作证。) |
-| offscreen    | `/ˌɔːfˈskriːn/ | adj. 屏幕外的         | The actor's offscreen personality is very different from his movie roles.<br />(这位演员的屏幕外个性与他的电影角色非常不同。) |
-| protective   | `/prəˈtɛktɪv/  | adj. 保护性的         | She wore protective gear while riding the motorcycle.<br />(她骑摩托车时穿着防护装备。) |
-|  |  |  |  |
-| release           | `/rɪˈlis/`      | v. 释放；发布<br>n. 发行；释放         | v. They plan to release the new software tomorrow.<br>(他们计划明天发布新软件。)<br>n. The release of the movie is scheduled for next month.<br>(这部电影的上映定于下个月。) |
-| extensive    | `/ɪkˈstɛnsɪv/`  | adj. 广泛的；大量的     | His research has extensive coverage of the subject.<br>(他的研究广泛涵盖了这个主题。) |
-| species      | `/ˈspiːʃiːz/`   | n. 物种               | This species is endangered and protected by law.<br>(这个物种濒临灭绝并受到法律保护。) |
-| primeval     | `/praɪˈmiːvəl/` | adj. 原始的；远古的     | The primeval forest is untouched by modern development.<br>(这片原始森林未被现代开发触及。) |
-| necktie      | `/ˈnektaɪ/` | n. 领带               | He chose a silk necktie for the meeting.<br>(他为会议选择了一条丝质领带。) |
-| always and forever | N/A       | phrase 永远          | Their promise was to be together always and forever.<br>(他们的承诺是永远在一起。) |
-| dishearten | `/dɪsˈhɑːrtən/` | v. 使沮丧，使气馁 | The series of failures disheartened him.<br />(一连串的失败使他感到沮丧。)<br />Don't let this defeat dishearten you.<br />(不要因这次失败而气馁。) |
-| disheartened | `/dɪsˈhɑːrtənd/`| adj. 沮丧的；气馁的     | After failing the exam, he felt disheartened and doubted his abilities.<br />(在考试失败后，他感到很沮丧，对自己的能力产生了怀疑。)<br />She felt disheartened after the failure.<br>(失败后她感到气馁。)<br />Do Not Let Me Disheartened. 不要让我失望。 |
-| arithmetic   | `/əˈrɪθmətɪk/`  | n. 算术                | Learning the basics of arithmetic is essential in school.<br>(学习算术基础是学校教育的必要部分。) |
-| devote       | `/dɪˈvoʊt/`     | v. 奉献；致力于         | He devoted his life to helping others.<br>(他把一生奉献给帮助他人。)<br />He devoted his energies to writing films. <br />(他致力于电影剧本的创作。)<br /><br />朗文 6：在日常英语中，人们一般说 `put time/energy etc into something`，而不说 ~~*devote time/energy etc to something*~~· <br />e.g.: He **put a lot of time into** the project.<br />(他在这个项目上投入了大量时间)。<br /><br />**devote yourself to sb/sth** 献身；致力；专心。<br />**devote sth to sth** 把…用于 |
-| jungle       | `/ˈdʒʌŋɡəl/`    | n. 丛林                | They went on an expedition through the dense jungle.<br>(他们进行了一次穿越茂密丛林的探险。) |
-| adventure    | `/ədˈvɛntʃər/`  | n. 冒险                | She wrote a book about her adventures in Africa.<br>(她写了一本关于她在非洲的冒险的书。) |
-| ponder       | `/ˈpɑːndər/`    | v. 沉思；考虑       | He pondered the question before giving his answer.<br>(他在给出答案之前仔细思考了这个问题。) |
+| impression | `/ɪmˈprɛʃən/     | n. 印象               | Her first impression of the city was positive.<br />(她对这座城市的第一印象是正面的。) |
+| ridge      | `/rɪdʒ/          | n. 脊；山脊            | The mountain ridge was covered with snow.<br />(山脊覆盖着雪。) |
+| relief     | `/rɪˈliːf/       | n. 缓解；解脱          | The medicine provided quick relief from pain.<br />(这药物迅速缓解了疼痛。) |
+| occupation | `/ˌɑːkjʊˈpeɪʃən/ | n. 职业；占领          | His occupation is a school teacher.<br />(他的职业是学校教师。) |
+| holocaust  | `/ˈhɑːləkɔːst/   | n. 大屠杀；浩劫        | The Holocaust was a tragic period in history.<br />(大屠杀是历史上的悲剧时期。) |
+| semitism   | `/ˈsɛmɪtɪzəm/    | n. 犹太人的特性或习惯   | The book discusses the history of Semitism in the region.<br />(这本书讨论了该地区犹太人的特性或习惯的历史。) |
+| summon     | `/ˈsʌmən/        | v. 召唤；召集         | He was summoned to court to testify.<br />(他被召唤到法庭作证。) |
+| offscreen  | `/ˌɔːfˈskriːn/   | adj. 屏幕外的         | The actor's offscreen personality is very different from his movie roles.<br />(这位演员的屏幕外个性与他的电影角色非常不同。) |
+| protective | `/prəˈtɛktɪv/    | adj. 保护性的         | She wore protective gear while riding the motorcycle.<br />(她骑摩托车时穿着防护装备。) |
+| ※ | ※ | ※ | ※ |
+| release    | `/rɪˈlis/`       | v. 释放；发布<br>n. 发行；释放  | v. They plan to release the new software tomorrow.<br>(他们计划明天发布新软件。)<br>n. The release of the movie is scheduled for next month.<br>(这部电影的上映定于下个月。) |
+| extensive  | `/ɪkˈstɛnsɪv/`   | adj. 广泛的；大量的     | His research has extensive coverage of the subject.<br>(他的研究广泛涵盖了这个主题。) |
+| species    | `/ˈspiːʃiːz/`    | n. 物种               | This species is endangered and protected by law.<br>(这个物种濒临灭绝并受到法律保护。) |
+| primeval   | `/praɪˈmiːvəl/`  | adj. 原始的；远古的     | The primeval forest is untouched by modern development.<br>(这片原始森林未被现代开发触及。) |
+| necktie    | `/ˈnektaɪ/`      | n. 领带               | He chose a silk necktie for the meeting.<br>(他为会议选择了一条丝质领带。) |
+| always and forever | N/A      | phrase 永远           | Their promise was to be together always and forever.<br>(他们的承诺是永远在一起。) |
+| dishearten | `/dɪsˈhɑːrtən/`  | v. 使沮丧，使气馁       | The series of failures disheartened him.<br />(一连串的失败使他感到沮丧。)<br />Don't let this defeat dishearten you.<br />(不要因这次失败而气馁。) |
+| disheartened | `/dɪsˈhɑːrtənd/`| adj. 沮丧的；气馁的    | After failing the exam, he felt disheartened and doubted his abilities.<br />(在考试失败后，他感到很沮丧，对自己的能力产生了怀疑。)<br />She felt disheartened after the failure.<br>(失败后她感到气馁。)<br />Do Not Let Me Disheartened. 不要让我失望。 |
+| arithmetic | `/əˈrɪθmətɪk/`   | n. 算术                | Learning the basics of arithmetic is essential in school.<br>(学习算术基础是学校教育的必要部分。) |
+| devote     | `/dɪˈvoʊt/`      | v. 奉献；致力于         | He devoted his life to helping others.<br>(他把一生奉献给帮助他人。)<br />He devoted his energies to writing films. <br />(他致力于电影剧本的创作。)<br /><br />朗文 6：在日常英语中，人们一般说 `put time/energy etc into something`，而不说 ~~*devote time/energy etc to something*~~· <br />e.g.: He **put a lot of time into** the project.<br />(他在这个项目上投入了大量时间)。<br /><br />**devote yourself to sb/sth** 献身；致力；专心。<br />**devote sth to sth** 把…用于 |
+| jungle     | `/ˈdʒʌŋɡəl/`     | n. 丛林                | They went on an expedition through the dense jungle.<br>(他们进行了一次穿越茂密丛林的探险。) |
+| adventure  | `/ədˈvɛntʃər/`   | n. 冒险                | She wrote a book about her adventures in Africa.<br>(她写了一本关于她在非洲的冒险的书。) |
+| ponder     | `/ˈpɑːndər/`     | v. 沉思；考虑       | He pondered the question before giving his answer.<br>(他在给出答案之前仔细思考了这个问题。) |
 
 
 
