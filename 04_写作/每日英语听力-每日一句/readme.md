@@ -40,14 +40,10 @@
 
 ### 2024.04.24
 
-> #### Respect your efforts, respect yourself.  Self-respect leads to self-discipline. When you have both firmly under your belt, that's real power.
+> #### Respect your efforts, respect yourself.  Self-respect leads to self-<u>discipline</u>. When you have both firmly under your <u>belt</u>, that's real power.
 >
 > 尊重你的努力，尊重你自己。自尊导致(/带来)自律。当你牢牢掌握这两者时，那就是真正的力量。
 >
-> | 单词       | 美式发音      | 词类 + 汉语释义                   | 示例 |
-> | ---------- | ------------- | --------------------------------- | ---- |
-> | discipline | `/ˈdɪsəplɪn/` | n. 纪律；学科<br />vt. 训练；惩罚 |      |
-> | belt       | `/belt/`      |                                   |      |
 
 #### ChatGPT 4.0:
 

@@ -143,6 +143,71 @@ The bright **dipper** stars above are named Dubhe, Merak, Phecda, Megrez, Alioth
 ## ▲ 待编辑生词
 
 
+
+### Added: 2024.04.25
+
+ChatGPT 4.0 translations
+
+~~注：下面表格单词已写到 Goodnotes~~
+
+| 单词            | 美式发音          | 词类 + 汉语释义        |   示例    |
+|----------------|----------------- |--------------------- |  ------  |
+| based          | `/beɪst/        | adj. 基于             |  The theory is based on solid research.<br>(这个理论基于扎实的研究。) |
+| chequebook     | `/ˈtʃɛkˌbʊk/    | n. 支票簿             | He pulled out his chequebook to pay the bill.<br>(他拿出支票簿来支付账单。) |
+| checkbook      | `/ˈtʃɛkˌbʊk/    | n. 支票簿             | She keeps her checkbook balanced.<br>(她保持她的支票簿平衡。) |
+| brainstorm     | `/ˈbreɪnˌstɔrm/ | n. 头脑风暴<br>v. 进行头脑风暴  | n. We had a brainstorm session at work today.<br>(我们今天在工作中进行了一次头脑风暴。)<br>v. Let's brainstorm to find a solution.<br>(让我们头脑风暴找到一个解决方案。) |
+| brainstorming  | `/ˈbreɪnˌstɔrmɪŋ/ | n. 头脑风暴         | Brainstorming helped us generate new ideas.<br>(头脑风暴帮助我们产生了新想法。) |
+| lurk           | `/lɜrk/         | v. 潜伏              | He likes to lurk in the shadows.<br>(他喜欢潜伏在阴影中。) |
+| mope           | `/moʊp/         | v. 闷闷不乐           | She moped around the house all day.<br>(她整天在房子里闷闷不乐。) |
+| hesitate       | `/ˈhɛzɪˌteɪt/   | v. 犹豫              | Don't hesitate to call me.<br>(有事不要犹豫，给我打电话。) |
+| attorney       | `/əˈtɜrnɪ/      | n. 律师              | She consulted her attorney before signing the contract.<br>(她在签合同前咨询了律师。) |
+| fasten         | `/ˈfæsən/       | v. 系紧              | Please fasten your seat belt.<br>(请系好你的安全带。) |
+| seat           | `/siːt/         | n. 座位              | He took his seat at the table.<br>(他在桌子旁坐下。) |
+| belt          | `/bɛlt/`          | n. 皮带<br>v. 系紧；猛击            | n. He tightened his belt.<br>(他收紧了腰带。)<br>v. He belted the package securely onto the roof of the car.<br>(他将包裹牢牢地绑在车顶上。) |
+| sign          | `/saɪn/`          | n. 标志；符号<br>v. 签名；签约      | n. The road sign shows the direction.<br>(道路标志显示方向。)<br>v. He signed the contract yesterday.<br>(他昨天签订了合同。) |
+| jacket         | `/ˈdʒækɪt/      | n. 夹克              | He put on his jacket because it was cold.<br>(他穿上夹克因为天气冷。) |
+| parenting      | `/ˈpɛrəntɪŋ/    | n. 父母的养育方式      | Good parenting is crucial for a child's development.<br>(良好的养育方式对孩子的发展至关重要。) |
+| mischievous    | `/ˈmɪstʃɪvəs/   |adj. 淘气的            | The mischievous boy was always playing pranks.<br>(这个淘气的男孩总是恶作剧。) |
+| hitch          | `/hɪtʃ/         | v. 搭便车<br>n. 故障  | v. He hitched a ride to work.<br>(他搭便车去上班。)<br>n. There was a hitch in the plan.<br>(计划中出现了一个故障。) |
+| utopian        | `/juːˈtoʊpiən/  | adj. 乌托邦的         | His ideas are utopian and not practical.<br>(他的想法是乌托邦式的，不切实际。) |
+| forward       | `/ˈfɔːrwərd/`     | adv. 向前<br>adj. 前面的<br>v. 转发 | adv. Move forward.<br>(向前移动。)<br>adj. The forward deck of the ship.<br>(船的前甲板。)<br>v. Forward the email to me.<br>(把这封邮件转发给我。) |
+| government     | `/ˈɡʌvərmənt/   | n. 政府              | The government issued a new law.<br>(政府颁布了一项新法律。) |
+
+#### 单词解释
+- **belt (n. & v.)** 
+    + 对于“belt”作为动词：**`系紧`** 则描述了一个不同的动作，这在指示某人如何使用安全带或在搬运物品时固定物品等方面也很常用。**`猛击`** 是一个更具象的动作，通常用于描述物理动作，如打击球类等，这在日常对话或文学描述中比较常见。
+
+
+| 单词            | 美式发音            | 词类 + 汉语释义               | 示例                                                       |
+|----------------|--------------------|-----------------------------|------------------------------------------------------------|
+| seat           | `/siːt/`          | n. 座位;<br />vt. 使就座 | n. the front/back/rear seat. (汽车的)前排/后排座位<br>n. the driver's seat. 驾驶座<br>n. the passenger seat. 副驾驶座，前排乘客座位<br>n. The seat is comfortable.<br>(这个座位很舒服。)<br>v. She seated her guests at the table.<br>(她让她的客人们在桌子旁坐下。) |
+| mile           | `/maɪl/           | n. 英里                      | He walked a mile to school.<br>(他走了一英里去上学。)        |
+| motivation     | `/ˌmoʊtɪˈveɪʃən/  | n. 动机; 激励                | His motivation to succeed is strong.<br>(他成功的动机很强。)  |
+| vary           | `/ˈvɛri/          | v. 变化; 不同                | The routines vary each day.<br>(日常活动每天都有所不同。)   |
+| very           | `/ˈvɛri/          | adv. 非常; 正是              | She is very happy.<br>(她非常高兴。)                         |
+| occasional     | `/əˈkeɪʒənl/      | adj. 偶尔的                  | I make occasional visits to the museum.<br>(我偶尔去参观博物馆。) |
+| involve        | `/ɪnˈvɑlv/        | v. 涉及; 包括                | The job involves traveling.<br>(这份工作涉及旅行。)          |
+| certain        | `/ˈsɜrtn/         | adj. 确定的; 某个            | I am certain of the facts.<br>(我对事实很确定。)             |
+| integration    | `/ˌɪntɪˈɡreɪʃən/  | n. 整合; 融合                | The integration of data was seamless.<br>(数据的整合非常流畅。) |
+| catch up on    | `/kætʃ ʌp ɑn/     | phr. 赶上; 补做              | I need to catch up on sleep.<br>(我需要补觉。)               |
+| block          | `/blɑk/           | n. 块; 街区; v. 阻塞; 阻碍    | n. Walk two blocks down the street.<br>(沿街走两个街区。)<br>v. The road was blocked.<br>(道路被阻塞了。) |
+| blocker        | `/ˈblɑkər/        | n. 阻挡物; 阻断器             | He is a blocker in football.<br>(他是足球中的阻挡者。)       |
+| accessible     | `/əkˈsɛsəbl/      | adj. 可接近的; 可获取的        | The building is accessible to wheelchairs.<br>(该建筑对轮椅用户可达。) |
+| accessibility  | `/əkˌsɛsəˈbɪlɪti/ | n. 可达性; 易接近性           | Accessibility is important in design.<br>(在设计中，可达性很重要。) |
+| infuse         | `/ɪnˈfjuz/        | v. 注入; 灌输                | He infused new energy into the team.<br>(他为团队注入了新的活力。) |
+| massive        | `/ˈmæsɪv/         | adj. 巨大的; 大量的           | The project requires massive resources.<br>(这个项目需要大量资源。) |
+| mass           | `/mæs/            | n. 质量; 大量; adj. 大规模的   | n. The mass of the building is impressive.<br>(这座建筑的质量令人印象深刻。)<br>adj. It was a mass event.<br>(这是一次大规模事件。) |
+| hass           | `/hæs/            | n. 哈斯（一种鳄梨的品种）       | Hass avocados are popular.<br>(哈斯鳄梨很受欢迎。)          |
+| violence       | `/ˈvaɪələns/      | n. 暴力; 强烈                 | There is too much violence in movies.<br>(电影中的暴力太多。) |
+| constrictor    | `/kənˈstrɪktər/   | n. 压缩肌; (蟒蛇等)大蟒蛇      | The boa constrictor is a large snake.<br>(蟒蛇是一种大蛇。) |
+
+
+
+
+
+
+
+
 ### Added: 2024.04.24
 
 ChatGPT 4.0 translations
@@ -1021,7 +1086,7 @@ ChatGPT 4.0 translations
 | corpse       | `/kɔːrps/          | n. 尸体                  | The corpse was found in the woods. (尸体在树林中被发现。) |
 | literally    | `/ˈlɪtərəli/       | adv. 字面上的，确实地      | He was literally the only person there. (他确实是那里唯一的人。) |
 | literal      | `/ˈlɪtərəl/        | adj. 字面的，确切的        | The literal meaning of the word is clear. (这个词的字面意思很清楚。) |
-  
+
 
 
 
