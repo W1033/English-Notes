@@ -24,11 +24,11 @@
 
 ### 2024.04.28
 > #### 
->
 
 ### 2024.04.27
-> #### 
+> #### The world is a book, and those who do not travel read only a page. 
 >
+> GT: 世界是一本书，不旅行的人只读了其中的一页。
 
 ### 2024.04.26
 > #### 
