@@ -143,6 +143,56 @@ The bright **dipper** stars above are named Dubhe, Merak, Phecda, Megrez, Alioth
 ## ▲ 待编辑生词
 
 
+### Added: 2024.04.28
+
+ChatGPT 4.0 translations
+
+~~注：下面表格单词已写到 Goodnotes~~
+
+
+| 单词         | 美式发音         | 词类 + 汉语释义             | 示例                                                           |
+|-------------|-----------------|---------------------------|----------------------------------------------------------------|
+| recruit     | `/rɪˈkruːt/      | v. 招募；n. 新兵           | v. They aim to recruit 500 new employees this year.<br>(他们今年计划招募500名新员工。)<br>n. The new recruits are undergoing training.<br>(新兵正在接受训练。) |
+| verbal      | `/ˈvɜːrbəl/      | adj. 口头的；言语的         | He issued a verbal apology.<br>(他进行了口头道歉。)            |
+| northern    | `/ˈnɔːrðərn/     | adj. 北方的                | They live in the northern part of the city.<br>(他们住在城市的北部。) |
+| vehicle     | `/ˈviːɪkəl/      | n. 车辆                   | Please park the vehicle in the designated area.<br>(请将车辆停在指定区域。) |
+| loaf        | `/loʊf/          | n. 一条面包；v. 游荡        | n. She bought a loaf of bread.<br>(她买了一条面包。)<br>v. He spent the afternoon loafing around the park.<br>(他花了一个下午在公园里游荡。) |
+| democracy   | `/dɪˈmɒkrəsi/    | n. 民主                   | Democracy allows for free elections.<br>(民主允许自由选举。)   |
+| forge       | `/fɔːrdʒ/        | v. 锻造；伪造              | v. He forged a new ring in the workshop.<br>(他在车间锻造了一个新戒指。)<br>v. The document was forged.<br>(该文件被伪造了。) |
+| adore       | `/əˈdɔːr/        | v. 崇拜；非常喜爱           | She adores her new puppy.<br>(她非常喜爱她的新小狗。)         |
+| adorable    | `/əˈdɔːrəbl/     | adj. 可爱的；令人崇拜的      | That baby is absolutely adorable.<br>(那个婴儿绝对可爱。)     |
+| spare       | `/spɛər/         | v. 抽出（时间等）；adj. 多余的 | v. Can you spare a minute?<br>(你能抽出一分钟吗？)<br>adj. We have a spare room.<br>(我们有一个备用房间。) |
+| sparing     | `/ˈspɛərɪŋ/      | adj. 节约的                | He is very sparing with his compliments.<br>(他很少表扬人。)  |
+| priceless   | `/ˈpraɪsləs/     | adj. 无价的                | A smile from my child is priceless.<br>(我孩子的一个微笑是无价的。) |
+| pretty      | `/ˈprɪti/        | adj. 漂亮的；adv. 相当      | adj. She wore a pretty dress.<br>(她穿了一件漂亮的裙子。)<br>adv. It's pretty cold outside.<br>(外面相当冷。) |
+| hub         | `/hʌb/           | n. 中心；轴心               | The city is a major hub for international trade.<br>(这个城市是国际贸易的重要中心。) |
+| geographic  | `/ˌdʒiːoʊˈɡræfɪk/ | adj. 地理的               | The geographic features of the area include mountains and rivers.<br>(该地区的地理特征包括山脉和河流。) |
+| area        | `/ˈɛəriə/        | n. 地区；面积               | This area is known for its beautiful parks.<br>(这个地区以其美丽的公园而闻名。) |
+| concise     | `/kənˈsaɪs/      | adj. 简洁的                | She gave a concise summary of the book.<br>(她简洁地总结了这本书的内容。) |
+
+
+| 单词      | 美式发音          | 词性+汉语释义                |    示例     |
+|----------|------------------| ---------------------------|   ------   |
+| recruit  | `/rɪˈkruːt	  | v. 招募；吸收<br>n. 新兵；新成员 | v. The company is looking to recruit more staff this year. <br>公司今年计划招募更多员工。<br>n. He is a new recruit in the marketing department. <br>他是市场部的一名新成员。|
+| verbal   | `/ˈvɜːrbəl     | adj. 口头的；言辞的           | She gave a verbal agreement. 她给出了口头同意。 |
+| northern | `/ˈnɔːrðərn    | adj. 北方的；北部的           | She comes from a northern state. 她来自一个北方州。 |
+| vehicle  | `/ˈviːɪkl      | n. 交通工具；车辆             | The car is a common type of vehicle. 汽车是常见的一种交通工具。 |
+| loaf     | `/loʊf         | n. 一条面包<br>v. 闲逛        | I bought a loaf of bread. 我买了一条面包。<br>v. He was loafing around the streets. 他在街上闲逛。 |
+| democracy| `/dɪˈmɑːkrəsi  | n. 民主，民主制度             | The country is a beacon of democracy. 这个国家是民主的灯塔。 |
+| forge    | `/fɔːrdʒ       | v. 伪造；锻造                | The documents were forged. 这些文件被伪造了。 |
+| adore    | `/əˈdɔːr       | v. 崇拜；爱慕                | She adores her children. 她崇拜她的孩子们。 |
+| adorable | `/əˈdɔːrəbl    | adj. 可爱的；值得崇拜的        | That kitten is absolutely adorable. 那只小猫绝对可爱。 |
+| spare    | `/spɛr         | adj. 多余的；备用的<br>v. 节约；饶恕 | adj. Do you have a spare charger? 你有备用充电器吗？<br>v. He spared no effort to help us. 他不遗余力地帮助我们。 |
+| priceless| `/ˈpraɪsləs    | adj. 无价的；极贵重的         | The painting is priceless. 这幅画是无价之宝。 |
+| pretty   | `/ˈprɪti       | adj. 漂亮的；可爱的           | She has a pretty dress. 她有一条漂亮的裙子。 |
+| hub      | `/hʌb          | n. 中心；轴心                | he city is a hub of commerce. 这个城市是商业中心。 |
+| geographic| `/ˌdʒiːəˈɡræfɪk | adj. 地理的                | The geographic location is strategic. 地理位置是战略性的。 |
+| concise  | `/kənˈsaɪs     | adj. 简洁的                  | She gave a concise explanation. 她给出了一个简洁的解释。 |
+
+
+
+
+
 
 ### Added: 2024.04.25
 
@@ -200,10 +250,6 @@ ChatGPT 4.0 translations
 | hass           | `/hæs/            | n. 哈斯（一种鳄梨的品种）       | Hass avocados are popular.<br>(哈斯鳄梨很受欢迎。)          |
 | violence       | `/ˈvaɪələns/      | n. 暴力; 强烈                 | There is too much violence in movies.<br>(电影中的暴力太多。) |
 | constrictor    | `/kənˈstrɪktər/   | n. 压缩肌; (蟒蛇等)大蟒蛇      | The boa constrictor is a large snake.<br>(蟒蛇是一种大蛇。) |
-
-
-
-
 
 
 
