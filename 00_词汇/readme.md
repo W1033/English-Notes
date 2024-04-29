@@ -143,6 +143,105 @@ The bright **dipper** stars above are named Dubhe, Merak, Phecda, Megrez, Alioth
 ## ▲ 待编辑生词
 
 
+### Added: 2024.04.29
+
+ChatGPT 4.0 translations
+
+~~注：下面表格单词已写到 Goodnotes~~
+
+下面是这些单词的翻译和示例：
+
+| 单词         | 美式发音          | 词类 + 汉语释义              | 示例                                                         |
+| ----------  | ---------------- | -------------------------| ------------------------------------------------------------ |
+| sentimental | `/ˌsɛntɪˈmɛntəl/ | adj. 多愁善感的             | She kept the old letters for sentimental reasons. <br>(她因情感原因保留了那些旧信。) |
+| sole        | `/soʊl/          | adj. 唯一的<br>n. 鞋底；鲽鱼 | adj. She is the sole owner of the house. <br>(她是房子的唯一主人。)<br>n. He replaced the sole of his shoe. <br>(他更换了鞋底。) |
+| solely      | `/ˈsoʊlli/       | adv. 仅仅；唯一地           | She was solely responsible for the decision. <br>(她是这个决定的唯一负责人。) |
+| cult        | `/kʌlt/          | n. 邪教；狂热崇拜           | He wrote a book about the dangers of cults. <br>(他写了一本关于邪教危险的书。) |
+| supervision | `/ˌsuːpərˈvɪʒən/ | n. 监督；管理               | The children were under the supervision of a teacher. <br>(孩子们在一位老师的监督下。) |
+| oval        | `/ˈoʊvəl/        | n. 椭圆形<br>adj. 椭圆形的   | n. The table was an oval shape. <br>(桌子是椭圆形的。)<br>adj. She drew an oval figure. <br>(她画了一个椭圆形图形。) |
+| obsession   | `/əbˈsɛʃən/`      | n. 痴迷；困扰              | His obsession with the game was troubling. <br>(他对这个游戏的痴迷令人困扰。) |
+
+| 单词           | 美式发音         | 词类 + 汉语释义                | 示例                                                         |
+| ------------- | ---------------- | --------------------------- | ------------------------------------------------------------ |
+| memo          | `/ˈmɛmoʊ/       | n. 备忘录                    | Please read the memo before the meeting. <br>(请在会议前阅读备忘录。) |
+| trophy        | `/ˈtroʊfi/      | n. 奖杯                      | He won a trophy in the tennis tournament. <br>(他在网球赛中赢得了奖杯。) |
+| concession    | `/kənˈsɛʃən/     | n. 让步；特许权               | The company made several concessions during negotiations. <br>(公司在谈判中作出了几项让步。) |
+| dictate       | `/dɪkˈteɪt/      | v. 口述；命令                 | He dictated the letter to his secretary. <br>(他向他的秘书口述信件。) |
+| ethnicity     | `/ɛθˈnɪsəti/     | n. 种族特征                  | The survey collects data on ethnicity and age. <br>(该调查收集了关于种族特征和年龄的数据。) |
+| oval          | `/ˈoʊvəl/       | adj. 椭圆形的<br>n. 椭圆形    | adj. She drew an oval shape. <br>(她画了一个椭圆形。)<br>n. The table was an oval. <br>(桌子是椭圆形的。) |
+| advertise     | `/ˈædvɚtaɪz/   | v. 宣传；广告                | They decided to advertise the new product on TV. <br>(他们决定在电视上广告新产品。) |
+| preservation  | `/ˌprɛzɚˈveɪʃən/ | n. 保存；保护              | The museum is dedicated to the preservation of ancient artifacts. <br>(这家博物馆致力于古代文物的保存。) |
+| geography     | `/dʒiˈɒɡrəfi/  | n. 地理学                   | She has an interest in the geography of the Middle East. <br>(她对中东地区的地理学感兴趣。) |
+| perch         | `/pɜrtʃ/         | n. 栖木；高处的座位<br>v. 栖息 | n. The bird returned to its perch. <br>(鸟儿回到了它的栖木上。)<br>v. She perched on the edge of the sofa. <br>(她坐在沙发的边缘。) |
+| nanny         | `/ˈnæ.ni/        | n. 保姆                     | She hired a nanny to take care of her children. <br>(她雇了一个保姆来照顾她的孩子。) |
+| preference    | `/ˈprefərəns/`   | n. 偏好；优先权              | His preference is always for classic movies. <br>(他总是偏爱经典电影。) |：
+
+| 单词           | 美式发音            | 词类 + 汉语释义             | 示例                                                         |
+| ------------- | ------------------ | ------------------------- | ------------------------------------------------------------ |
+| sibling       | `/ˈsɪblɪŋ/        | n. 兄弟姐妹                | She has four siblings. <br>(她有四个兄弟姐妹。) |
+| prescription  | `/prɪˈskrɪpʃən/   | n. 处方；药方               | The doctor gave him a prescription for antibiotics. <br>(医生给他开了抗生素的处方。) |
+| promising     | `/ˈprɑːmɪsɪŋ/   | adj. 有前途的；有希望的      | He is a promising young artist. <br>(他是一个有前途的年轻艺术家。) |
+| stunning      | `/ˈstʌnɪŋ/        | adj. 极好的；令人惊叹的      | She looked stunning in that dress. <br>(她穿那件衣服看起来非常惊艳。) |
+| earl          | `/ɜːrl/           | n. 伯爵                    | The earl owns a large estate in the countryside. <br>(这位伯爵在乡下拥有一大片庄园。) |
+| patty         | `/ˈpæti/         | n. 肉饼                    | She cooked a beef patty for dinner. <br>(她晚餐煮了一个牛肉饼。) |
+| embed         | `/ɪmˈbɛd/         | v. 嵌入；植入               | The journalist embedded with the troops for three months. <br>(这名记者与部队一起生活了三个月。) |
+| quilt         | `/kwɪlt/          | n. 被子                    | She made a colorful quilt for her granddaughter. <br>(她为她的孙女做了一床彩色的被子。) |
+| revival       | `/rɪˈvaɪvəl/      | n. 复兴；复活               | There is a revival of interest in folk music. <br>(对民谣音乐的兴趣正在复兴。) |
+| con           | `/kɑːn/           | n. 骗局；诈骗<br>v. 欺骗     | n. He fell victim to a con artist. <br>(他成了一个骗子的受害者。)<br>v. She conned him into buying a fake watch. <br>(她骗他买了一块假表。) |
+| jam           | `/dʒæm/           | n. 果酱；交通拥堵<br>v. 塞满；挤进  | n. She spread jam on her toast. <br>(她在吐司上涂了果酱。)<br>n. The road was jammed with traffic. <br>(道路上交通拥堵。)<br>v. He jammed his clothes into the suitcase. <br>(他把衣服塞进了行李箱。) |
+| privacy       | `/ˈpraɪvəsi/    | n. 隐私                    | Please respect my privacy. <br>(请尊重我的隐私。) |
+
+
+**注：美式发音列中出现的点（.）通常表示音节之间的分隔，有时用来帮助标示音节的读音，尤其是在学习材料中。**
+
+| 单词           | 美式发音            | 词类 + 汉语释义               | 示例                          |
+| ------------- | ------------------ | --------------------------- | ---------------------------- |
+| germ          | `/dʒɜrm/          | n. 细菌；微生物               | Wash your hands to get rid of germs. <br>(洗手去除细菌。) |
+| bacteria      | `/bækˈtɪr.i.ə/    | n. 细菌                      | Bacteria can cause disease. <br>(细菌可以引起疾病。) |
+| probe         | `/proʊb/          | n. 探针；调查<br>v. 调查；探测  | n. The doctor used a probe to examine the wound. <br>(医生使用探针检查伤口。)<br>v. They probed into the causes of the accident. <br>(他们调查事故的原因。) |
+| chin          | `/tʃɪn/           | n. 下巴                      | He stroked his chin thoughtfully. <br>(他若有所思地抚摸着下巴。) |
+| bold          | `/boʊld/          | adj. 大胆的；醒目的            | She made a bold decision to quit her job. <br>(她大胆地决定辞职。) |
+| identical     | `/aɪˈdɛn.tɪ.kəl/  | adj. 完全相同的               | The two cars were nearly identical. <br>(这两辆车几乎完全相同。) |
+| replacement   | `/rɪˈpleɪs.mənt/  | n. 替换；替代品               | He is a replacement for the injured player. <br>(他是受伤球员的替补。) |
+| recess        | `/ˈri.sɛs/        | n. 休息时间；课间休息          | The children play outside during recess. <br>(孩子们在课间休息时在外面玩。) |
+| sew           | `/soʊ/            | v. 缝；缝合                   | She learned to sew from her grandmother. <br>(她从她祖母那里学会了缝纫。) |
+| kindness      | `/ˈkaɪnd.nəs/     | n. 善良；仁慈                 | He showed great kindness to the homeless. <br>(他对无家可归的人表现出极大的仁慈。) |
+| addiction     | `/əˈdɪk.ʃən/      | n. 上瘾；瘾                   | He has an addiction to video games. <br>(他对视频游戏上瘾。) |
+| morse         | `/mɔrs/           | n. 摩尔斯电码                 | He learned Morse code as a hobby. <br>(他把摩尔斯电码作为爱好学习。) |
+
+| 单词           | 美式发音            | 词类 + 汉语释义              | 示例                          |
+| ------------- | ------------------ | -------------------------- | ----------------------------- |
+| hamster       | `/ˈhæm.stər/      | n. 仓鼠                     | She bought a hamster for her daughter. <br>(她为女儿买了一只仓鼠。) |
+| rime          | `/raɪm/           | n. 霜；白霜                 | The trees were covered with rime in the morning. <br>(早晨树木被白霜覆盖。) |
+| squirrel      | `/ˈskwɪr.əl/      | n. 松鼠                     | A squirrel is climbing the tree. <br>(一只松鼠正在爬树。) |
+| under         | `/ˈʌn.dər/        | prep. 在...下面             | The cat hid under the table. <br>(猫藏在桌子下面。) |
+| weld          | `/wɛld/           | v. 焊接；焊合               | He learned how to weld in his high school shop class. <br>(他在高中技术课上学习了如何焊接。) |
+| rote          | `/roʊt/           | n. 死记硬背                 | Learning by rote is not effective for understanding concepts. <br>(死记硬背并不利于理解概念。) |
+| bat           | `/bæt/            | n. 蝙蝠；球棒               | n. The bat flew out at dusk. <br>(蝙蝠在黄昏时飞出。)<br>n. He hit the ball with a bat. <br>(他用球棒击球。) |
+| minimal       | `/ˈmɪn.ɪ.məl/     | adj. 最小的；最少的          | The documentary was made with minimal resources. <br>(这部纪录片是用最少的资源制作的。) |
+| stranger      | `/ˈstreɪn.dʒər/   | n. 陌生人                   | Don't talk to strangers. <br>(不要和陌生人说话。) |
+| faggot        | `/ˈfæɡ.ət/        | n. 贬义词，同性恋者（侮辱性用语，避免使用） | **[避免使用此词]**                       |
+| sushi         | `/ˈsuː.ʃi/        | n. 寿司                     | We ate sushi at the new Japanese restaurant. <br>(我们在新开的日本餐厅吃了寿司。) |
+| quality       | `/ˈkwɒl.ɪ.ti/     | n. 质量；品质               | The quality of this product is outstanding. <br>(这个产品的质量非常优秀。) |
+| dumb          | `/dʌm/            | adj. 哑的；愚蠢的           | adj. He pretended to be dumb to avoid answering questions. <br>(他假装哑巴以避免回答问题。) |
+| dumbest       | `/ˈdʌm.ɪst/       | adj. 最愚蠢的               | That was the dumbest mistake I've ever made. <br>(那是我犯过的最愚蠢的错误。) |
+| row           | `/roʊ/            | n. 行；争吵<br>v. 划船       | n. They had a row over finances. <br>(他们因财务问题发生争吵。)<br>v. He rows every morning. <br>(他每天早上划船。) |
+| glance        | `/ɡlæns/          | v. 一瞥；扫视               | She took a quick glance at her watch. <br>(她快速看了一眼她的手表。) |
+| redeem        | `/rɪˈdiːm/        | v. 赎回；补偿               | He redeemed his coupon at the store. <br>(他在商店兑换了优惠券。) |
+| membership    | `/ˈmɛm.bər.ʃɪp/   | n. 会员资格                 | She has a membership at the local gym. <br>(她是当地健身房的会员。) |
+| recipient     | `/rɪˈsɪp.i.ənt/   | n. 接受者                   | He was the recipient of a prestigious award. <br>(他是一个著名奖项的获得者。) |
+| recharge      | `/riːˈtʃɑːrdʒ/    | v. 充电；恢复精力            | I need to recharge my phone. <br>(我需要给我的手机充电。) |
+| pickup        | `/ˈpɪk.ʌp/        | n. 拾起；皮卡车             | He drives a pickup truck. <br>(他开一辆皮卡车。) |
+| linger        | `/ˈlɪŋ.gər/       | v. 徘徊；逗留               | She lingered in the park after sunset. <br>(日落后她在公园里逗留。) |
+| thought       | `/θɔːt/           | n. 思想；想法               | She expressed her thoughts clearly. <br>(她清楚地表达了她的想法。) |
+| pro           | `/proʊ/           | n. 专业人士；赞成            | He is a pro at video games. <br>(他是视频游戏的专家。) |
+
+
+
+
+
+
+
 ### Added: 2024.04.28
 
 ChatGPT 4.0 translations
@@ -778,7 +877,7 @@ ChatGPT 4.0 translations
 
 | 单词         | 美式发音          | 词类 + 汉语释义         | 示例 |
 |--------------|-------------------|------------------------|------|
-| billow       | `/ˈbɪloʊ/`      | n. 巨浪；v. 涌动         | n. The boat struggled against the billows.<br />(船只在巨浪中挣扎。)<br />n. The billows of the sea were mesmerizing.<br />(海的波浪令人着迷。)<br />v. Smoke billowed from the chimney.<br />(烟雾从烟囱中涌出。)<br />v. The smoke billowed into the sky.<br />(烟雾腾向天空。) |
+| billow       | `/ˈbɪloʊ/`      | v. 翻腾；膨胀<br/>n. 巨浪 | v. Smoke billowed from the chimney.<br />(烟雾从烟囱中涌出。)<br />v. The smoke billowed into the sky.<br />(烟雾腾向天空。)<br />n. The boat struggled against the billows.<br />(船只在巨浪中挣扎。)<br />n. The billows of the sea were mesmerizing.<br />(海的波浪令人着迷。)<br />n. The ship sailed through the billows. <br/>(船驶过巨浪。) |
 | commercial   | `/kəˈmɜːrʃəl/`   | adj. 商业的；<br />n. 商业广告 | adj. The commercial interests were prioritized.<br />(商业利益被优先考虑。)<br />adj. The commercial sector is expanding rapidly.<br />(商业部门正在迅速扩张。)<br />n. The commercial break is too long.<br />(商业广告时间太长。) |
 | pillow       | `/ˈpɪloʊ/`       | n. 枕头                | She fluffed the pillow before going to bed.<br />(她在上床睡觉前拍打枕头。)<br />I'll be sleep as soon as my head hits the pillow. <br />(我头一碰到枕头就会睡着。) |
 | towel        | `/ˈtaʊəl/`       | n. 毛巾；<br />v. 用毛巾擦 | n. He grabbed a towel to dry off.<br />(他抓起一条毛巾擦干。)<br />n. Have you got a clean towel I could use? <br />(你有没有干净毛巾给我用？)<br />v. Towel your hair after the shower.<br />(洗澡后用毛巾擦头发。) |
@@ -1365,7 +1464,6 @@ ChatGPT 4.0 translations
 | catch      | `/kætʃ/`         | v. 捕捉，抓住；<br>n. 捕获物 | v. He tried to catch the ball.<br />(他试图抓住球。)<br />v. He caught the ball effortlessly.<br />(他毫不费力地接住了球。)<br />n. The fisherman boasted about his catch.<br />(渔夫夸耀他的捕获。)<br />n. That was a good catch!<br />(那是个好捕获！) |
 | fitness    | `/ˈfɪtnəs/`      | n. 健康，适合                  | His fitness improved with exercise.<br />(他的健康状况随着锻炼有所改善。) |
 | convenient | `/kənˈviːniənt/` | adj. 方便的，便利的                | The hotel is convenient to the airport.<br />(这家酒店去机场很方便。)<br />Is three o'clock convenient for you?<br />(三点钟你方便吗？) |
-
 
 
 
