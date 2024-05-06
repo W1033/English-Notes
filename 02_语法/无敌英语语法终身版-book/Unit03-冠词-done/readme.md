@@ -140,7 +140,7 @@ A reader lives a thousand lives before he dies. The man who never reads lives on
 
 **(3)** 这里要强调的是，所谓以元音开头或是以辅音开头， 指的是发出的音是元音还是辅音，而不是指元音字母或辅音字母。
 
-> a university `/ˌjuːnəˈvɜːsəti/`  一所大学  --  git a第一个音是辅音 j*
+> a university `/ˌjuːnəˈvɜːsəti/`  一所大学  --  git a第一个音是辅音 j*
 >
 > a European`/jʊərə'piːən/` country  一个欧洲国家  --  *第一个音是辅音 j*
 >
@@ -326,8 +326,8 @@ A reader lives a thousand lives before he dies. The man who never reads lives on
 >
 > There was **rain** last night. （昨天晚上下过雨。）
 
+### (3) 名词前已有 指示代词、物主代词、不定代词、以及 名词所有格 时不再用冠词。
 
-### (3) 名词前已有 指示代词、物主代词、不定代词、以及 名词所有格 时不再用冠词。 
 注：代词见 Unit4
 
 > **This book** is very interesting.（这本书很有意思。）

@@ -153,8 +153,8 @@ ChatGPT 4.0 translations
 
 | 单词         | 美式发音          | 词类 + 汉语释义              | 示例                                                         |
 | ----------  | ---------------- | -------------------------| ------------------------------------------------------------ |
-| sentimental | `/ˌsɛntɪˈmɛntəl/ | adj. 多愁善感的             | She kept the old letters for sentimental reasons. <br>(她因情感原因保留了那些旧信。) |
-| sole        | `/soʊl/          | adj. 唯一的<br>n. 鞋底；鲽鱼 | adj. She is the sole owner of the house. <br>(她是房子的唯一主人。)<br>n. He replaced the sole of his shoe. <br>(他更换了鞋底。) |
+| sentimental | `/ˌsen.təˈmen.təl/` | adj. 多愁善感的；感伤的      | She kept the old letters for sentimental reasons. <br>(她因多愁善感的原因保留了那些旧信。)<br>He becomes sentimental whenever he hears that song. <br>(每当他听到那首歌时，他都会变得感伤。) |
+| sole        | `/soʊl/`        | adj. 唯一的<br>n. 鞋底 | adj. She is the sole owner of the house. <br>(她是房子的唯一主人。)<br>adj. the sole American in the room. <br>(房间里唯一的美国人。)<br />n. He replaced the sole of his shoe. <br>(他更换了鞋底。) |
 | solely      | `/ˈsoʊlli/       | adv. 仅仅；唯一地           | She was solely responsible for the decision. <br>(她是这个决定的唯一负责人。) |
 | cult        | `/kʌlt/          | n. 邪教；狂热崇拜           | He wrote a book about the dangers of cults. <br>(他写了一本关于邪教危险的书。) |
 | supervision | `/ˌsuːpərˈvɪʒən/ | n. 监督；管理               | The children were under the supervision of a teacher. <br>(孩子们在一位老师的监督下。) |
