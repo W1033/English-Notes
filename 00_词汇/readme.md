@@ -143,6 +143,31 @@ The bright **dipper** stars above are named Dubhe, Merak, Phecda, Megrez, Alioth
 ## ▲ 待编辑生词
 
 
+### Added: 2024.05.08
+
+ChatGPT 4.0 translations
+
+~~注：下面表格单词已写到 Goodnotes~~
+
+| 单词                | 美式发音               | 词类 + 汉语释义              | 示例                                                         |
+| ------------------ | --------------------  | -------------------------- | ------------------------------------------------------------ |
+| con                | `/kɑn/                | n. 骗局；诈骗<br>v. 欺骗     | n. He lost money in a con game. <br>(他在一场骗局中损失了钱。)<br>v. She conned him into buying a worthless car. <br>(她骗他买了一辆毫无价值的车。) |
+| tertiary           | `/ˈtɜrʃiˌɛri/         | adj. 第三级的；高等教育的     | He is studying at a tertiary institution. <br>(他在一所高等教育机构学习。) |
+| accommodation      | `/əˌkɑməˈdeɪʃən/      | n. 住宿；适应               | They booked accommodation near the beach. <br>(他们在海滩附近预订了住宿。) |
+| domestic           | `/dəˈmɛstɪk/          | adj. 国内的；家庭的          | She prefers domestic travel over international. <br>(她更喜欢国内旅行而非国际旅行。) |
+| consolation        | `/ˌkɑnsəˈleɪʃən/      | n. 安慰；慰问               | He found little consolation in their words. <br>(他几乎没有从他们的话语中找到安慰。) |
+| tranquillization   | `/træŋˈkwɪləˌzeɪʃən/  | n. 安定；镇静               | The tranquillization of the patients was necessary. <br>(对病人进行镇静是必要的。) |
+| sacred             | `/ˈseɪkrɪd/           | adj. 神圣的                | The temple is a sacred place for many people. <br>(这座寺庙对许多人来说是一个神圣的地方。) |
+| alignment          | `/əˈlaɪnmənt/         | n. 排列；对齐               | The alignment of the stars was perfect for astrology. <br>(星星的排列非常适合占星术。) |
+| curtain            | `/ˈkɜrtən/            | n. 窗帘                    | She drew the curtains to block the sunlight. <br>(她拉上窗帘以遮挡阳光。) |
+| fluff              | `/flʌf/               | n. 绒毛；无价值的东西        | He brushed the fluff off his jacket. <br>(他把夹克上的绒毛刷掉。) |
+| fluffy             | `/ˈflʌfi/             | adj. 松软的；绒毛状的        | The kitten's fur was so fluffy. <br>(小猫的毛非常松软。) |
+| scent              | `/sɛnt/               | n. 香味；气味               | The scent of fresh flowers filled the room. <br>(新鲜花卉的香味充满了房间。) |
+
+
+
+
+
 ### Added: 2024.04.29
 
 ChatGPT 4.0 translations
