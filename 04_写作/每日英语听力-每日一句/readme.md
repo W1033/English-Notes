@@ -110,9 +110,53 @@
 
 ### 2024.05.08
 > #### It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.
+>
+> ##### 1. 汉语翻译
+>
+> - Google Translate: **在掌握数据之前就进行理论分析是一个致命的错误。人们不知不觉地开始扭曲事实以适应理论，而不是理论来适应事实。**
+>
+> - GPT 4.0: 在没有数据之前就进行理论化是一个重大的错误。人们不自觉地开始歪曲事实以适应理论，而不是调整理论以适应事实。
+> - 欧路：在没有得到事实之前妄下猜测是个很可怕的错误。你会不自觉地扭曲事实去套自己的猜测，而不是根据事实来推导结论。
+>
+> ##### 2. 英语句子的语法分析
+>
+> **第一句：**
+>
+> - **It is a capital mistake to theorize before one has data.**
+>   - **主语**："It" 是形式主语。
+>   - **系动词**："is" 连接主语和表语。
+>   - **表语**："a capital mistake" 指出形式主语 "It" 的具体内容。
+>   - **不定式短语**："to theorize before one has data" 作为真正的主语，解释了 "It" 的具体内容。
+>     - **不定式**："to theorize" 表示动作。
+>     - **时间状语从句**："before one has data" 说明理论化发生的时间条件。
+>       - **从句主语**："one"
+>       - **从句谓语**："has"
+>       - **从句宾语**："data"
+>
+> **第二句：**
+> - **Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.**
+>   - **副词**："Insensibly" 修饰整个句子，说明动作发生的方式。
+>   - **主语**："one"
+>   - **谓语**："begins"
+>   - **动词短语**："to twist facts to suit theories" 是不定式短语，作为谓语 "begins" 的宾语。
+>     - **不定式**："to twist"
+>     - **宾语**："facts"
+>     - **目的状语**："to suit theories" 说明 "twist" 的目的。
+>   - **介词短语**："instead of theories to suit facts" 提供对比信息，显示正确的行为方式。
+>     - **"instead of"** 引导的是对前述行为的对比。
+>     - **不定式**："to suit" 用于说明事实应如何被处理以适应理论。
+>
+> ##### 3. 整体意义
+> 这段话强调了在拥有足够数据之前就开始建立理论是一个严重的错误。因为这样做，人们往往会无意中歪曲事实以迎合自己的理论，而不是根据事实来调整理论。这种行为导致理论和实践的脱节，不能准确反映或解释现实世界的真实情况。
+>
+> 如果您对解析有任何疑问或需要更多帮助，请随时告诉我！
 
 ### 2024.05.07
-> #### 
+> #### Nobody has ever measured, not even poets, how much the heart can hold. 
+>
+> GT: **没有人测量过一颗心能容纳多少东西，即使是诗人也没有。**
+>
+> Eudic: 没有人，甚至连诗人都没有衡量过心灵能容纳多少。 
 
 ### 2024.05.06
 > #### We are all islands shouting lies to each other across seas of misunderstanding.
@@ -124,20 +168,43 @@
 > GPT 4.0: 我们都是孤岛，彼此通过误解的海洋大声喊叫谎言。
 
 ### 2024.05.05
-> ####
+> #### Summer was a thousand colors in a parched landscape. 
+>
+> GT: 夏天在干燥的风景中呈现出千种色彩。
+>
+> Eudic: 夏天是干燥的风景里上千种的色彩。 
 
 ### 2024.05.04
-> #### 
+> #### Young people have changed the course of history time and time again.
+>
+> GT: **年轻人一次又一次改变了历史的进程。**
+>
+> Eudic: 古往今来，年轻人一次又一次地改变着历史的进程。 
 
 ### 2024.05.03
-> #### 
+
+> #### You will do foolish things, but do them with enthusiasm.
+>
+> GT: **你会做一些愚蠢的事情，但要充满热情地去做。**
+>
+> Eudic: 你会做一些蠢事，但带着热忱去做吧。
 
 ### 2024.05.02
-> #### 
+
+> #### Today's mighty oak is just yesterday's nut, that held its ground.
+>
+> Eudic: 今日茂盛的橡树在昨日只是一颗橡子，但昨日是今日不可或缺的基础。 
+>
+> GT: ~~今天的强大橡树只是昨天的坚果，仍然坚守阵地。~~
+>
+> ChatGPT 4.0：
 
 ### 2024.05.01
-> ####
-
+> #### All labor that uplifts humanity has dignity and importance and should be undertaken with painstaking excellence. 
+>
+> GT: 所有提升人性的劳动都具有尊严和重要性，并且应该以艰苦卓绝的方式进行。
+>
+> Eudic: 所有能够提升人类的劳动都具有尊严和重要性，应该精益求精地去完成。 
 
 
 
@@ -146,12 +213,93 @@
 ## ▲ 2024 April
 
 ### 2024.04.30
-> #### 
+
+#### What we have once enjoyed deeply we can never lose. All that we love deeply becomes a part of us.
+
+ChatGPT 4.0: **我们曾经深切享受过的，我们永远不会失去。我们深爱的一切都会成为我们的一部分。 **
+
+GT: 我们曾经深深享受过的东西，我们永远不会失去。我们深爱的一切都会成为我们的一部分。
+
+这段话来自海伦·凯勒 (Helen Keller) 的名言。她是一位盲聋作家和活动家，以其对生活的坚强和积极态度而著名。这段话表达了一种对情感经历和爱的深刻理解：我们对生活中的经历和人们的深切情感不仅仅是暂时的，它们深深地融入了我们的生命，成为我们的一部分，即使时间流逝，这些深刻的感受和记忆也不会消失。这反映了海伦·凯勒对生活坚韧不拔的态度和对人类情感深度的洞察。
+
+> #### 句子的语法分析:
 >
+> ##### (1) What we have once enjoyed deeply we can never lose."
+>
+> 在句子 "What we have once enjoyed deeply we can never lose." 中，整体结构实际上是一个复合句。
+>
+> - **What we have once enjoyed deeply** 是一个名词性从句（即：主语从句)，并且它充当了整个句子的主语。
+>     - 注：名词性从句根据从句在句子中所作成分的不同, 大致分为 4 类: `主语从句`, `宾语从句`, `表语从句`, `同位语从句`.
+> - **we can never lose** 是包含主语和谓语的完整句子，在这个复合句中充当谓语成份，描述了主语从句的状态或结果。
+>
+> 在英语中，名词性从句可以在句子中担任主语、宾语、或表语等角色。在这个特定的例子中，名词性从句 **"What we have once enjoyed deeply"** 充当了整个句子的主语。这意味着，这个从句作为一个整体概念或事物（即我们曾经深切享受过的东西），是接下来谓语 **"we can never lose"**（我们永远不会失去）所述的主体或对象。
+>
+> ###### 主语从句 (What we have once enjoyed deeply) 解析：
+>
+> 在这个从句中，**"What"** 作为从句的宾语，并且也是整个从句的连接词。这个从句的结构应该是这样的：
+>
+> - **"What"** — 在这里既是引导词也是从句的宾语（指代我们曾经享受过的东西）
+> - **"we"** — 是从句的主语，指的是“我们”。
+> - **"have enjoyed"** — 是从句的谓语，包括助动词 "have" 和主动词 "enjoyed" 的过去分词形式。两个副词  "once" 和 "deeply"，修饰动词短语，标示动作发生的频率（once）和程度（deeply）。
+>
+> 所以，这个从句可以解释为我们（"we"）曾经（"once"） 深切地（"deeply"）享受过（"have enjoyed"）的东西（"What"）。
+>
+> ###### 主句 (we can never lose)
+>
+> - **"we"** 是主句的主语。
+> - **"can never lose"** 是主句的谓语，其中包括：
+>     - **"can"**：情态动词，表达能力。
+>     - **"never"**：副词，用来否定。
+>     - **"lose"**：基本形式的动词，表示“失去”。
+>
+> 换句话说，整个句子 **"What we have once enjoyed deeply we can never lose."** 中，名词性从句作为主语，而 **"we can never lose"** 作为对这个主语的陈述或描述，表明我们不会失去我们曾经深切享受过的东西。这种结构强调了我们对某些体验的永久价值和影响。
+>
+> ##### (2) All that we love deeply becomes a part of us.
+>
+> - **主语**："All that we love deeply"
+>     - **从句**："that we love deeply" 是一个定语从句，修饰 "All"，这里 "that" 作为从句的宾语。
+>         - **主语**："we"
+>         - **谓语**："love"
+>         - **副词**："deeply"，修饰动词 "love"，描述行为的程度。
+> - **谓语**："becomes"
+> - **宾语**："a part of us"
+>
+>
+> ------
+>
+> ------
+>
+> 这类结构在英语中非常常见，尤其是在更正式或文学性的表达中。这种结构使得句子能够在语法上表达复杂的逻辑和情感层次。下面是两个类似语法结构的示例：
+>
+> #### 示例 1
+>
+> **"Whatever challenges we face, we must overcome."**
+>
+> - **主语从句**："Whatever challenges we face"，这是一个名词性从句，作为整个句子的主语。
+> - **谓语**："we must overcome"，这是一个完整的句子，作为复合句的谓语，描述主语从句的动作或结果。
+>
+> **"Whatever challenges"** 在这个名词性从句 **"Whatever challenges we face"** 中作为主语。这里的 **"Whatever"** 用作关系代词，指代任何类型的挑战。
+>
+> #### 示例 2
+>
+> **"Whoever enters this room must sign the register."**
+>
+> - **主语从句**："Whoever enters this room"，这同样是一个名词性从句，作为整个句子的主语。
+> - **谓语**："must sign the register"，这是一个完整的句子，在这里作为谓语，指明对主语从句中的人的要求。
+>
+> **"Whoever"** 在这个名词性从句 **"Whoever enters this room"** 中作为主语。这里的 **"Whoever"** 也是一个关系代词，指代任何进入这个房间的人。
+>
+> 在这两个句子中，**"Whatever"** 和 **"Whoever"** 不仅引导名词性从句，同时在各自的从句中承担主语的角色。这些从句描述了一个条件或情况，而主句提供了相对应的指令或结果。这种结构的使用非常适合表达条件性的语句或规则。
+>
+> 这两个示例都使用了名词性从句作为主语，而另一个完整的句子作为谓语来描述或要求主语从句中的行为或状态。这种结构使得句子不仅语法上丰富，而且能够精确和深入地表达复杂的意思或指令。
+
+
+
+
 
 ### 2024.04.29
+
 > #### 
->
 
 ### 2024.04.28
 > #### 

@@ -142,6 +142,62 @@ The bright **dipper** stars above are named Dubhe, Merak, Phecda, Megrez, Alioth
 
 ## ▲ 待编辑生词
 
+### Added: 2024.05.09
+
+ChatGPT 4.0 translations
+
+~~注：下面表格单词已写到 Goodnotes~~
+
+Here are the translations and examples for the list of words you provided:
+
+| 单词            | 美式发音            | 词类 + 汉语释义              | 示例                                                         |
+| -------------- | ------------------ | -------------------------- | ------------------------------------------------------------ |
+| word           | `/wɜrd/           | n. 单词                     | Choose your words carefully. <br>(仔细选择你的用词。)        |
+| hint           | `/hɪnt/           | n. 暗示；提示<br>v. 暗示      | n. He gave me a hint about his plans. <br>(他给了我一些关于他计划的暗示。)<br>v. She hinted that she might leave. <br>(她暗示她可能会离开。) |
+| lush           | `/lʌʃ/            | adj. 茂盛的                 | The garden was lush and green. <br>(花园郁郁葱葱。)           |
+| greenery       | `/ˈɡriːnəri/      | n. 绿色植物                 | The room was decorated with fresh greenery. <br>(房间里装饰着新鲜的绿色植物。) |
+| quest          | `/kwɛst/          | n. 寻找；探索                | They are on a quest to find the lost city. <br>(他们正在寻找失落的城市。) |
+| dough          | `/doʊ/            | n. 生面团                   | She rolled the dough into a flat circle. <br>(她将面团擀成一个平圆形。) |
+| premier        | `/prəˈmɪər/       | n. 总理；首相<br>adj. 首位的；最重要的 | n. The premier will address the nation tonight. <br>(总理将于今晚向国家发表讲话。)<br>adj. It's the premier event of the year. <br>(这是一年中最重要的事件。) |
+| surveillance   | `/sərˈveɪləns/    | n. 监视                     | The police have the house under surveillance. <br>(警察对这所房子进行了监视。) |
+| capital        | `/ˈkæpɪtl/        | n. 首都；资本<br>adj. 主要的；资本的   | n. Paris is the capital of France. <br>(巴黎是法国的首都。)<br>adj. It was a capital mistake. <br>(这是一个重大的错误。) |
+| theorize       | `/ˈθɪəraɪz/       | v. 建立理论；推理             | He likes to theorize about economic issues. <br>(他喜欢对经济问题进行理论推理。) |
+| pot            | `/pɑt/            | n. 罐；壶                    | She put the coffee pot on to brew. <br>(她把咖啡壶放上去煮。) |
+| pod            | `/pɑd/            | n. 豆荚；舱室                | The seeds are in the pod. <br>(种子在豆荚里。)               |
+| tank           | `/tæŋk/           | n. 水箱；坦克                | The fish tank needs cleaning. <br>(鱼缸需要清洗。)           |
+
+| 单词         | 美式发音           | 词类 + 汉语释义                  | 示例                                                         |
+| ----------- | ----------------- | -------------------------------| ------------------------------------------------------------ |
+| blast       | `/blæst/         | n. 爆炸；一阵<br>v. 爆破         | n. The blast was heard miles away. <br>(爆炸声在几英里外都能听到。)<br>v. They blasted the rocks to clear the path. <br>(他们爆破岩石以清理道路。) |
+| burrow      | `/ˈbɜr.oʊ/       | n. 地洞<br>v. 挖地洞            | n. The rabbit disappeared into its burrow. <br>(兔子消失在它的地洞中。)<br>v. The animal burrowed into the ground. <br>(那只动物挖洞进入地面。) |
+| forum       | `/ˈfɔr.əm/       | n. 论坛；公开讨论的场所           | The issue was discussed extensively in the online forum. <br>(这个问题在在线论坛上被广泛讨论。) |
+| contract    | `/ˈkɑn.trækt/    | n. 合同<br>v. 收缩；感染         | n. She signed a contract for her new job. <br>(她为她的新工作签署了合同。)<br>v. Muscles contract when they are cold. <br>(肌肉在寒冷时会收缩。) |
+| frustrate   | `/ˈfrʌs.treɪt/   | v. 使沮丧；挫败                  | His attempts to solve the problem were frustrated by the lack of information. <br>(他试图解决问题但因信息不足而受挫。) |
+| practice    | `/ˈpræk.tɪs/     | n. 练习；实践<br>v. 实践；练习    | n. Practice makes perfect. <br>(熟能生巧。)<br>v. She practices the violin every day. <br>(她每天练习小提琴。) |
+| juicy       | `/ˈdʒuː.si/      | adj. 多汁的；引人兴趣的           | The steak was very juicy and flavorful. <br>(这块牛排非常多汁且味道丰富。) |
+| vein        | `/veɪn/          | n. 静脉；风格                    | She tapped the vein to draw some blood. <br>(她敲打静脉以抽取一些血液。) |
+| haunt       | `/hɔnt/          | v. 常去的地方；萦绕在心头<br>n. 常去的地方 | v. That melody haunts me. <br>(那旋律萦绕在我心头。)<br>n. The café is their favorite haunt. <br>(那家咖啡馆是他们最喜欢的常去地。) |
+| alleged     | `/əˈlɛdʒd/       | adj. 所谓的；声称的              | The alleged criminal was arrested yesterday. <br>(所谓的罪犯昨天被逮捕了。) |
+| hire        | `/ˈhaɪər/        | v. 雇佣<br>n. 雇佣              | v. They decided to hire a new employee. <br>(他们决定雇佣一名新员工。)<br>n. She got a hire to clean the house. <br>(她雇人来清洁房子。) |
+
+| 单词           | 美式发音            | 词类 + 汉语释义               | 示例                                                         |
+| ------------- | ------------------ | --------------------------- | ------------------------------------------------------------ |
+| hired         | `/ˈhaɪərd/        | adj. 被雇佣的                 | He was hired as a consultant. <br>(他被雇佣为顾问。)         |
+| priest        | `/priːst/         | n. 牧师；神父                 | The priest led the service. <br>(牧师主持了礼拜。)           |
+| exorcise      | `/ˈɛksɔrsaɪz/     | v. 驱邪                      | The priest attempted to exorcise the haunted house. <br>(牧师试图驱除这座闹鬼的房子里的邪灵。) |
+| plea          | `/pliː/           | n. 恳求；辩解                 | He made a plea for mercy. <br>(他恳求宽恕。)                 |
+| bargain       | `/ˈbɑrɡən/        | n. 交易；便宜货<br>v. 讨价还价  | n. That coat was a real bargain. <br>(那件外套真是便宜货。)<br>v. She bargained with the vendor for a lower price. <br>(她和卖方讨价还价，希望降低价格。) |
+| invade        | `/ɪnˈveɪd/        | v. 侵入；侵略                 | The army invaded at dawn. <br>(军队在黎明时分侵入。)        |
+| theatrical    | `/θiˈætrɪkəl/     | adj. 戏剧的；夸张的            | His theatrical gestures made everyone laugh. <br>(他的夸张手势让每个人都笑了。) |
+| predicament   | `/prɪˈdɪkəmənt/   | n. 困境                      | She found herself in a difficult predicament. <br>(她发现自己处于一个困境中。) |
+| dread         | `/drɛd/           | v. 惧怕；担心<br>n. 恐惧       | v. She dreads speaking in public. <br>(她害怕在公众面前讲话。)<br>n. The thought of getting lost filled him with dread. <br>(迷路的想法让他充满了恐惧。) |
+| deadlier      | `/ˈdɛdliər/       | adj. 更致命的                 | The second wave of the virus was deadlier. <br>(病毒的第二波更加致命。) |
+| ascertain     | `/ˌæsɚˈteɪn/      | v. 查明；确定                 | He tried to ascertain the truth. <br>(他试图查明真相。)     |
+| jeopardize    | `/ˈdʒɛpərdaɪz/    | v. 危害；使陷入危险            | Taking such a risk could jeopardize the whole project. <br>(承担这样的风险可能会危及整个项目。) |
+
+
+
+
 
 ### Added: 2024.05.08
 

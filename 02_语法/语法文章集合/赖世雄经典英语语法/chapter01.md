@@ -106,61 +106,46 @@ Mum always told me <span style="border-bottom: 1px solid #ffa907;"> that life wa
 
 - Added: 什么是`从句`? 答: 见`./英语中的从句.md`  
 - (4.1) 从事翻译时, 我们会碰到类似这样的句子:
-    + [他不读书]令我生气. 这个句子的主语虽然是 "他不读书", 但若译为 `He doesn't study`
-      则大错特错.
-
+    + [他不读书]令我生气. 这个句子的主语虽然是 "他不读书", 但若译为 `He doesn't study` 则大错特错.
+      
       [He doesn't study] makes me angry. (X)
-
-      因为 `He doesn't study` 是句子. `所谓句子, 就是一开头就是主语的结构`
-      (此处的 He 就是主语.)
-
-      **句子决不能当主语, 一定要变成名词性从句方可作主语.**
+      
+      因为 `He doesn't study` 是句子. `所谓句子, 就是一开头就是主语的结构` (此处的 He 就是主语.)
+      
+      **==句子决不能当主语, 一定要变成名词性从句方可作主语.==**
 
       故本句正确的译法应为: [`That he doesn't study`] makes me angry. ($\checkmark$)
 - (4.2) 名词性从句的种类:
-    + 名词性从句根据从句在句子中所作成分的不同, 大致分为 4 类: `主语从句`, `宾语从句`,
-      `表语从句`, `同位语从句`.
+    + 名词性从句根据从句在句子中所作成分的不同, 大致分为 4 类: `主语从句`, `宾语从句`, `表语从句`, `同位语从句`.
     + 名词性从句根据引导词的不同可分为 3 种:
         - (1) `that` 从句 
             +  任何一个主语起首的句子前面冠以 `that`, 即成 `that` 从句.
-                - He doesn't believe my words. --> that he doesn't believe
-                  my words.(名词性从句) 
-                - There is a lot of work to do. --> that there is a lot of
-                  work to do. 
+                - He doesn't believe my words. --> that he doesn't believe my words.(名词性从句) 
+                - There is a lot of work to do. --> that there is a lot of work to do. 
         - (2) `whether` 从句
-            + 本从句由可用 `yes`/`no` 回答的问句变化而来, 这种可用 `yes`/`no`
-              回答的问句称为一般疑问句.
+            + 本从句由可用 `yes`/`no` 回答的问句变化而来, 这种可用 `yes`/`no` 回答的问句称为一般疑问句.
                 - a). 问句有 `be` 动词时: 主语与 `be` 动词还原, 前面冠以 `whether`.
                     + Is he happy? --> whether he is happy.
-                - b). 问句有一般助动词 (`can`, `will`, `may`, `should`,
-                  `ought to`, `must`, `have`) 时: 主语与助动词还原,
-                  前面冠以 whether.
+                - b). 问句有一般助动词 (`can`, `will`, `may`, `should`, `ought to`, `must`, `have`) 时: 主语与助动词还原, 前面冠以 whether.
                     + Can he do it? --> whether he can do it.
-                    + Has he done it? --> whether he has done it.
-                      (他是否已做好此事.)
-                - c). 问句有 `do`、`does`、`did` 等助动词时: 主语与助动词还原,
-                  再将 do、does、did 去掉, 后面的动词依人称和失态变化.
+                    + Has he done it? --> whether he has done it. (他是否已做好此事.)
+                - c). 问句有 `do`、`does`、`did` 等助动词时: 主语与助动词还原, 再将 do、does、did 去掉, 后面的动词依人称和失态变化.
                     + Did he come? --> whether he came.
                     + Does he like it? --> whether he likes it.  
         - (3) `疑问词`所引导的从句 
-            + 本从句是由疑问词 (`when`、`what`、`how`、`where`、`why`)
-              等引导的问句变化而成, 这种由疑问词引导的问句称为**`特殊疑问句`**.
+            + 本从句是由疑问词 (`when`、`what`、`how`、`where`、`why`) 等引导的问句变化而成, 这种由疑问词引导的问句称为**`特殊疑问句`**.
                 - a). 问句有 `be` 动词时: 主语与 `be` 动词还原, 前面保留疑问词.
-                    + What is he doing? --> what he is doing. (名词性从句)
+                    + What is he doing? --> what he is doing. （他在做什么。）(名词性从句)
                 - b). 问句有一般助动词时: 主语与助动词还原, 前面保留疑问词.
-                    + Where can he find it? --> where he can find it. 
-                     (名词性从句)            
-                - c). 问句有 `do`、`does`、`did` 等助动词时: 主语与助动词还原,
-                  前面保留疑问词, 再将 `do`、`does`、`did`去掉, 动词依人称和时态变化.
+                    + Where can he find it? --> where he can find it.  （在他能找到的地方。）(名词性从句)            
+                - c). 问句有 `do`、`does`、`did` 等助动词时: 主语与助动词还原, 前面保留疑问词, 再将 `do`、`does`、`did`去掉, 动词依人称和时态变化.
                     + What did he write? 他写什么 --> what he wrote.
                     + How does he do it? --> how he does it.
-                    + 注: `who`、`what`、`which`(哪一个) 为疑问代词, 若在问句中作主语,
-                      变成名词性从句时结构不变.
+                    + 注: `who`、`what`、`which`(哪一个) 为疑问代词, 若在问句中作主语, 变成名词性从句时结构不变.
                         - Who came here? --> who came here.(名词性从句)
                         - What happened last night? --> what happened 
                           last night. (名词性从句)
-                        - Which was bought? 哪个被买走？ --> which was bought.
-                          (名词性从句)   
+                        - Which was bought? 哪个被买走？ --> which was bought. (名词性从句)   
 - (4.3) 名词性从句的功能:
     + 名词性从句有句子或问句变化而成, 和动名词短语/不定式短语一样,名词性从句也要被视为名词.
     + Added: 在简单句中, 名词(noun)在句子中可以作什么成分?
@@ -172,86 +157,59 @@ Mum always told me <span style="border-bottom: 1px solid #ffa907;"> that life wa
             - I [am] a [student]. 名词 student 作为系统词 am 后的表语.
         + 4) 同位语: 位于同一位置的名词结构. (同位关系, 同一个事物.)
             - Beijing, the capital of china, is my hometown.
-        + 根据上面的 1), 2), 3), 4)可以得知: 名词性从句细分为 4 类, 即:
-          `主语从句`, `宾语从句`, `表语从句`, `同位语从句`.
+        + 根据上面的 1), 2), 3), 4)可以得知: 名词性从句细分为 4 类, 即: `主语从句`, `宾语从句`, `表语从句`, `同位语从句`.
     + (1). 名词性从句`作主语`.
-        - <em>That honest is the best policy</em>(subject) is a proverb (which)
-          we should always keep in mind. 
-          "誠實為上策" 是一句我們應該時刻謹記在心得箴言.
+        - <em>That honest is the best policy</em>(subject) is a proverb (which) we should always keep in mind.  "誠實為上策" 是一句我們應該時刻謹記在心得箴言.
         - <em>Where he lives</em>(s) is still in doubt. 他住哪里仍不确定.
         - <em>Whether he can do it</em>(s) remains to be seen. 他能勝任與否還有待觀察.
-        - **Note**: 动名词或不定式短语, 名词性从句作主语时容易造成主语太长的现象,
-          因此亦可用形式主语 `it` 代替, 置于句首, 而被代替的名词性从句则置于句尾.
+        - **Note**: 动名词或不定式短语, 名词性从句作主语时容易造成主语太长的现象, 因此亦可用形式主语 `it` 代替, 置于句首, 而被代替的名词性从句则置于句尾.
           故上面 3 句可改写为:
-            + **It** is a proverb we should always keep in mind 
-              <em>that honest is the best policy</em>.
+            + **It** is a proverb we should always keep in mind <em>that honest is the best policy</em>.
             + **It** is still in doubt <em>where he lives</em>.
             + **It** remains to be seen <em>whether he can do it</em>.  
-    + (2). 名词性从句`作及物动词的宾语`. (*及物动词在英文中称作 `transitive verb`,*
-      *简写为 `vt`; 宾语则称作 `object`, 简写为 `o`*.)
-        - I `know`(vt) `that he will go abroad in the near future`(o).
-          我知道他最近即将出国.
-        - I `wonder`(vt) `whether has finished the work.`(o)
-          我想知道他是否已做完这份工作.
+    + (2). 名词性从句`作及物动词的宾语`. (*及物动词在英文中称作 `transitive verb`,* *简写为 `vt`; 宾语则称作 `object`, 简写为 `o`*.)
+        - I `know`(vt) `that he will go abroad in the near future`(o). 我知道他最近即将出国.
+        - I `wonder`(vt) `whether has finished the work.`(o) 我想知道他是否已做完这份工作.
     + (3). 名词性从句`作介词(prep)的宾语`. (*介词 preposition, 简写为 prep*).
-        - a). 仅能用 `whether` 从句或疑问词 (`when`, `what`, `how`, `where`, `why`
-          ) 引导的名词性从句作宾语. `that 从句不可作介词的宾语`.
+        - a). 仅能用 `whether` 从句或疑问词 (`when`, `what`, `how`, `where`, `why`) 引导的名词性从句作宾语. `that 从句不可作介词的宾语`.
+          
             + I am worried `about`(prep) `whether he can do it`(o).
             + I am curious `about`(prep) `how he'll cope with the problem`(o).
         - b). 如果遇到介词, 且非要用 `that` 从句时, 补救方法:
-            + 1). 介词 + `the fact` + `that 从句`: 如此, 就可用 `the fact`
-              作介词的宾语, 而 `that` 从句就成了 `the fact` 的同位语.
-                - I am sure `of`(prep) `the fact`(o)
-                  `that the team has won the game`(同位语).  
-                  我确定这一对赢了这场比赛.
-                - I am worried `about`(prep) `the fact`(o)
-                  `that he doesn't study`(同位语).  
-                  我担心他不读书.
+            + 1). 介词 + `the fact` + `that 从句`: 如此, 就可用 `the fact`作介词的宾语, 而 `that` 从句就成了 `the fact` 的同位语.
+                - I am sure `of`(prep) `the fact`(o) `that the team has won the game`(同位语).   我确定这一对赢了这场比赛.
+                - I am worried `about`(prep) `the fact`(o) `that he doesn't study`(同位语).   我担心他不读书.
             + 2). 保留介词, 不加 `the fact`, 但介词之后的 `that` 从句要做下列变化:
                 - 第 1 步: 除去 `that`;
                 - 第 2 步: `that` 后的`主语变成所有格`;
                 - 第 3 步: 动词变成动名词.
-                    + I am worried `about`(prep) that he plays around all day. 
-                      --> I am worried `about`(prep) `his` `playing` around
-                      all day
+                    + I am worried `about`(prep) that he plays around all day.  --> I am worried `about`(prep) `his` `playing` around all day
                 - Note: 
                     + (1) `that` 从句若有助动词 `do`, `does`, `did`时, 予以去掉即可.
-                        - I am worried `about`(prep) that he doesn't study. 
-                          --> I am worried `about`(prep) `his` `not` `studying`.
+                        - I am worried `about`(prep) that he doesn't study.  --> I am worried `about`(prep) `his` `not` `studying`.
                     + (2) `that` 从句若有助动词 `will` 或 `would`时, 予以去掉即可.
-                        - I am sure of that the team will win the game. 
-                          --> I am sure `of`(prep) `the team's` `winning`
-                          the game.  我确信这一队会赢得这场比赛.
+                        - I am sure of that the team will win the game.  --> I am sure `of`(prep) `the team's` `winning` the game.  我确信这一队会赢得这场比赛.
                     + (3) 从句若有以下助动词时, 做下列变化:
                         - `may` --> `be likely to`. 
                         - `can` --> `be able to` 再将 `be `动词变成动名词 `being`.
-                            + I am happy `about`(prep) that he is likely to come.
-                              --> I am happy `about` `his` `being` likely to come.
-                              我很高兴他可能会来.
-                            + 例如: I am sure `of` that he is able to do it.
-                              --> I am sure `of` `his` `being` able to do it. 
-                              我确定他能做这件事.
-            - 3). `be` + `adj.` + `that 从句`: 也就是去掉介词, 将 `that`
-              从句放在形容词后面, 作其宾语.
+                            + I am happy `about`(prep) that he is likely to come. --> I am happy `about` `his` `being` likely to come. 我很高兴他可能会来.
+                            + 例如: I am sure `of` that he is able to do it. --> I am sure `of` `his` `being` able to do it.  我确定他能做这件事.
+            - 3). `be` + `adj.` + `that 从句`: 也就是去掉介词, 将 `that` 从句放在形容词后面, 作其宾语.
                 + I am `worried`(adj.) `that he plays around all day`(宾语从句).
                 + I am `sure`(adj.) `that the team has won the game`(宾语从句).
             - Note:
                 + a): 以上 3 种用法中以 1), 3) 最为普遍, 但 2) 则是常考的一种句型.
                 + b): 有时介词之后亦可直接接 that 从句, 而不需要 the fact, 形成惯用语.
                     - `in that`(因为) = `because`
-                        + He is talented `in that` he can speak five different
-                          languages. 他很有才华, 因为他才能说 5 种语言.
+                        + He is talented `in that` he can speak five different languages. 他很有才华, 因为他才能说 5 种语言.
                     - `except that` 只可惜； 除了...
-                        + He is nice `except that` sometimes he lies.
-                          他人很不错, 只可惜有时会说谎.
+                        + He is nice `except that` sometimes he lies. 他人很不错, 只可惜有时会说谎.
                     - `notwithstanding that`(尽管) = `despite the fact that`
                       = `in spite of the fact that`
-                        + `Notwithstanding that` he is nice, I don't like him.
-                          = `Despite the fact that`(prep) he is nice,
-                            I don't like him.
-                          = `In spite of the fact that` he is nice,
-                            I don't like hime.
+                        + `Notwithstanding that` he is nice, I don't like him. = `Despite the fact that`(prep) he is nice,  I don't like him. = `In spite of the fact that` he is nice,  I don't like hime.
+
 ##### 5. `名词短语`作主语
+
 - 名词短语是由 "`疑问词` + `不定式短语`" 形成.
     + (1) 疑问副词
         - `where to live`         住哪里
@@ -264,40 +222,31 @@ Mum always told me <span style="border-bottom: 1px solid #ffa907;"> that life wa
         - `which to buy`          买哪一个
         - `whom to talk to`       与谁谈
     + Note:
-        - 疑问副词形成的名词短语中, 疑问副词因为是副词的性质,
-          故不作不定式短语中及物动词的宾语. 但疑问代词形成的名词短语中,
-          疑问代词因具名词的性质, 故一定要作不定式短语中动词或介词的宾语.
-          故 `what`, `whom`, `which` 在上列名词短语中, 分别做 `do`, `see`,
-          `buy`, `to`(介词) 的宾语.
+        - 疑问副词形成的名词短语中, 疑问副词因为是副词的性质,故不作不定式短语中及物动词的宾语. 但疑问代词形成的名词短语中, 疑问代词因具名词的性质, 故一定要作不定式短语中动词或介词的宾语. 故 `what`, `whom`, `which` 在上列名词短语中, 分别做 `do`, `see`, `buy`, `to`(介词) 的宾语.
         - 名词短语因具名词性质, 故亦可作主语, 系由名词性从句化简而来.
-            + `Where to meet him` is not decided yet.
-              = `Where we should meet him` is not decided yet.
-              在哪里见他还未决定.
-            + `How to handle the problem` depends on how much money we
-              can collect.
-              = `How we can handle the problem` depends on how much money
-              we can collect.
-              我们如何处理这问题要视我们能募集到多少钱而定.
+            + `Where to meet him` is not decided yet. = `Where we should meet him` is not decided yet. 在哪里见他还未决定.
+            + `How to handle the problem` depends on how much money we can collect. = `How we can handle the problem` depends on how much money
+              we can collect. 我们如何处理这问题要视我们能募集到多少钱而定.
 
 ##### 6. `表距离的地方副词短语`作主语
 
-- `from` + `地方名词` + `to` + `地方名词`: 此为表距离的地方副词短语, 亦可作主语,
-  与`单数的 be 动词`连用.
-    + `From Shanghai to Beijing` is about 1000 kilometers.
-      从上海到北京大约 1000 公里.
-    + 上面例句, 主语亦可用 it 代替, 而形成下列结构:
-      `It` is about 1000 kilometers `from Shanghai to Beijing`.
-
+- `from` + `地方名词` + `to` + `地方名词`: 此为表距离的地方副词短语, 亦可作主语, 与`单数的 be 动词`连用.
+    + `From Shanghai to Beijing` is about 1000 kilometers. 从上海到北京大约 1000 公里.
+    + 上面例句, 主语亦可用 it 代替, 而形成下列结构: `It` is about 1000 kilometers `from Shanghai to Beijing`.
 
 ### 第 2 节 -- 动词的种类及其用法
-##### 1. 动词(Verb) 基本上分为 5 大类：动词(Verb) 基本上分为 5 大类: 
+
+##### 1. 动词(Verb) 基本上分为 5 大类：动词(Verb) 基本上分为 5 大类:
+
 + (1) 完全不及物动词:    (complete intransitive    [简写: c.vi.])
 + (2) 不完全不及物动词:  (incomplete intransitive  [简写: i.vi.])
 + (3) 完全及物动词:      (complete transitive      [简写: c.vt.])
 + (4) 不完全及物动词:    (incomplete transitive    [简写: i.vt.])
 + (5) 授予动词          (dative verb,             [简写: d.v.])
   
+
 ##### 2. 如何判断完全不及物动词
+
 + 我______他.（主动）
 + 他被我______.（被动）
 + 在上列的空格中, 我们可以任意放人一个英文动词, 翻成中文后, 意思若无毛病, 就是及物动词, 否则就是不及物动词.
@@ -328,12 +277,14 @@ Mum always told me <span style="border-bottom: 1px solid #ffa907;"> that life wa
         + sing 唱歌
 
 ##### 3. 兼作及物与不及物动词之常用动词
+
 + sing      vt. 唱(一首歌)      vi. 唱歌
 + run       vt. 经营(工厂)      vi. 跑步
 + study     vt. 研究(问题)      vi. 读书
 + kill      vt. 杀(某人)        vi. 杀戮
 
 ##### 4. 不及物动词可做及物动词, 用同系名词作其宾语: 有些不及物动词可变成及物动词, 以同系名词作其宾语.
+
 + `dream` --vi.做梦  --vt.做(梦)
     - dream a terrible dream (做一个可怕的梦)  
 + `live`  --vi.生活  --vt.过(生活)
@@ -348,12 +299,15 @@ Mum always told me <span style="border-bottom: 1px solid #ffa907;"> that life wa
     - sleep a sound sleep (睡了安稳的一觉)
 
 ##### 5. 完全及物动词(c.vt.) 与 完全不及物动词(c.vi.)
+
 + a. 完全及物动词: 即加了宾语后, 意思才很完全的动词.
     - He [killed (vt)] her. 他杀了她
 + b. 完全不及物动词: 即不需要加宾语, 意思就很完全的动词
     - He [laughed (vi)]. 他笑了.
       
+
 ##### 6. 完全及物动词(c.vt.)出现的形态
+
 + (a.) `主语` + `及物动词` + `宾语`
     - He wrote(vt) a book.
 + (b.) `主语` + `be 动词` + `及物动词的现在分词` + `宾语`
