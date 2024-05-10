@@ -142,29 +142,70 @@ The bright **dipper** stars above are named Dubhe, Merak, Phecda, Megrez, Alioth
 
 ## ▲ 待编辑生词
 
+
+### Added: 2024.05.10
+
+ChatGPT 4.0 translations
+
+~~注：下面表格单词已写到 Goodnotes~~
+
+| 单词            | 美式发音            | 词类 + 汉语释义            | 示例                                                         |
+| -------------- | ------------------ | ------------------------ | ------------------------------------------------------------ |
+| pine           | `/paɪn/           | n. 松树<br>v. 消瘦，憔悴    | n. The pine tree stood tall and majestic. <br>(松树高大而雄伟地矗立着。)<br>v. He pined for his homeland. <br>(他对故乡感到思念和憔悴。) |
+| guest          | `/ɡɛst/           | n. 客人                   | We have a guest staying with us this weekend. <br>(这个周末我们有客人来住。) |
+| shimmer        | `/ˈʃɪmər/         | v. 微光闪烁                | The lake shimmered in the moonlight. <br>(湖面在月光下闪着微光。) |
+| east           | `/ist/            | n. 东方；东部              | The sun rises in the east. <br>(太阳从东方升起。)             |
+| basement       | `/ˈbeɪsmənt/      | n. 地下室                  | They converted the basement into a game room. <br>(他们将地下室改造成了游戏室。) |
+| condescend     | `/ˌkɒndɪˈsɛnd/    | v. 屈尊；表现出优越感        | She condescended to speak to the lowly servant. <br>(她屈尊与卑微的仆人说话。) |
+| shout          | `/ʃaʊt/           | v. 大喊；呼喊              | He shouted for help from the window. <br>(他从窗户大喊求救。) |
+| insanity       | `/ɪnˈsænɪti/      | n. 疯狂；精神错乱           | His actions bordered on insanity. <br>(他的行为近乎疯狂。)   |
+| basically      | `/ˈbeɪsɪkli/      | adv. 基本上                | Basically, we agree on most topics. <br>(基本上，我们在大多数话题上都持有相同观点。) |
+| throw          | `/θroʊ/           | v. 投掷；扔                | He threw the ball to the dog. <br>(他向狗扔球。)              |
+| suck           | `/sʌk/            | v. 吸                     | The vacuum cleaner sucks up the dirt. <br>(吸尘器吸起了灰尘。) |
+| coat           | `/koʊt/           | n. 外套；涂层<br>v. 涂上    | n. She wore her new coat today. <br>(她今天穿了新外套。)<br>v. The cake was coated in chocolate. <br>(蛋糕被涂上了巧克力。) |
+| break          | `/breɪk/          | v. 打破；中断<br>n. 休息；间断 | v. Be careful not to break the glass. <br>(小心不要打破玻璃。)<br>n. Let's take a break and have some coffee. <br>(让我们休息一下，喝点咖啡。) |
+
+| 单词         | 美式发音            | 词类 + 汉语释义               | 示例                                |
+| ----------- | ------------------ | --------------------------  | ------------------------------------------------------------ |
+| lead        | `/lɛd/            | v. 领导；引导<br>n. 铅        | v. She will lead the project team. <br>(她将领导这个项目组。)<br>n. Lead is a toxic metal. <br>(铅是一种有毒金属。) |
+| forth       | `/fɔrθ/           | adv. 向前；向外               | He set forth on his journey at dawn. <br>(他在黎明时分开始了他的旅程。) |
+| dwarf       | `/dwɔrf/          | n. 矮人；侏儒<br>v. 使显得矮小 | n. Dwarfs appear often in fairy tales. <br>(矮人在童话故事中经常出现。)<br>v. The tall buildings dwarf the surrounding houses. <br>(高大的建筑使周围的房屋显得很小。) |
+| coffin      | `/ˈkɔfɪn/         | n. 棺材                      | The coffin was made of beautiful oak wood. <br>(这具棺材是用美丽的橡木制成的。) |
+| gulp        | `/ɡʌlp/           | v. 狼吞虎咽；大口地吸（气）     | He took a big gulp of water. <br>(他大口地喝了水。)          |
+| gather      | `/ˈɡæðər/         | v. 聚集；收集                 | People gathered in the square for the concert. <br>(人们在广场上聚集观看音乐会。) |
+| rode        | `/roʊd/           | v. 骑（ride的过去式）         | She rode her bicycle to school. <br>(她骑自行车去学校。)     |
+| bang        | `/bæŋ/            | n. 猛击；爆炸声<br>v. 砰地关上；砰地敲击 | n. We heard a loud bang outside. <br>(我们在外面听到了一声巨响。)<br>v. He banged the door shut. <br>(他砰地关上了门。) |
+| gasp        | `/ɡæsp/           | v. 喘气；倒抽一口气            | She gasped in surprise when she saw the gift. <br>(她看到礼物时惊讶地倒抽一口气。) |
+| hooray      | `/hʊˈreɪ/         | interj. 万岁；好哇            | They all shouted "Hooray!" when they heard the news. <br>(他们听到消息时都喊道“万岁！”) |
+| blush       | `/blʌʃ/           | v. 脸红                      | She blushed when he complimented her. <br>(当他赞美她时，她脸红了。) |
+| bride       | `/braɪd/          | n. 新娘                      | The bride looked beautiful in her white gown. <br>(新娘穿着白色礼服看起来很美。) |
+
+
+
+
+
+
 ### Added: 2024.05.09
 
 ChatGPT 4.0 translations
 
 ~~注：下面表格单词已写到 Goodnotes~~
 
-Here are the translations and examples for the list of words you provided:
-
 | 单词            | 美式发音            | 词类 + 汉语释义              | 示例                                                         |
 | -------------- | ------------------ | -------------------------- | ------------------------------------------------------------ |
-| word           | `/wɜrd/           | n. 单词                     | Choose your words carefully. <br>(仔细选择你的用词。)        |
-| hint           | `/hɪnt/           | n. 暗示；提示<br>v. 暗示      | n. He gave me a hint about his plans. <br>(他给了我一些关于他计划的暗示。)<br>v. She hinted that she might leave. <br>(她暗示她可能会离开。) |
-| lush           | `/lʌʃ/            | adj. 茂盛的                 | The garden was lush and green. <br>(花园郁郁葱葱。)           |
-| greenery       | `/ˈɡriːnəri/      | n. 绿色植物                 | The room was decorated with fresh greenery. <br>(房间里装饰着新鲜的绿色植物。) |
-| quest          | `/kwɛst/          | n. 寻找；探索                | They are on a quest to find the lost city. <br>(他们正在寻找失落的城市。) |
-| dough          | `/doʊ/            | n. 生面团                   | She rolled the dough into a flat circle. <br>(她将面团擀成一个平圆形。) |
-| premier        | `/prəˈmɪər/       | n. 总理；首相<br>adj. 首位的；最重要的 | n. The premier will address the nation tonight. <br>(总理将于今晚向国家发表讲话。)<br>adj. It's the premier event of the year. <br>(这是一年中最重要的事件。) |
-| surveillance   | `/sərˈveɪləns/    | n. 监视                     | The police have the house under surveillance. <br>(警察对这所房子进行了监视。) |
-| capital        | `/ˈkæpɪtl/        | n. 首都；资本<br>adj. 主要的；资本的   | n. Paris is the capital of France. <br>(巴黎是法国的首都。)<br>adj. It was a capital mistake. <br>(这是一个重大的错误。) |
-| theorize       | `/ˈθɪəraɪz/       | v. 建立理论；推理             | He likes to theorize about economic issues. <br>(他喜欢对经济问题进行理论推理。) |
-| pot            | `/pɑt/            | n. 罐；壶                    | She put the coffee pot on to brew. <br>(她把咖啡壶放上去煮。) |
-| pod            | `/pɑd/            | n. 豆荚；舱室                | The seeds are in the pod. <br>(种子在豆荚里。)               |
-| tank           | `/tæŋk/           | n. 水箱；坦克                | The fish tank needs cleaning. <br>(鱼缸需要清洗。)           |
+| word           | `/wɜrd/`           | n. 单词                     | Choose your words carefully. <br>(仔细选择你的用词。)        |
+| hint           | `/hɪnt/`           | n. 暗示；提示<br>v. 暗示      | n. He gave me a hint about his plans. <br>(他给了我一些关于他计划的暗示。)<br>v. She hinted that she might leave. <br>(她暗示她可能会离开。) |
+| lush           | `/lʌʃ/`            | adj. 茂盛的                 | The garden was lush and green. <br>(花园郁郁葱葱。)           |
+| greenery       | `/ˈɡriːnəri/`      | n. 绿色植物                 | The room was decorated with fresh greenery. <br>(房间里装饰着新鲜的绿色植物。)<br />The rich greenery of grass and trees.<br />(草木茂盛的绿色植物) |
+| quest          | `/kwɛst/`          | n. 寻找；探索                | They are on a quest to find the lost city. <br>(他们正在寻找失落的城市。) |
+| dough          | `/doʊ/`            | n. 生面团                   | She rolled the dough into a flat circle. <br>(她将面团擀成一个平圆形。) |
+| premier        | `/prɪˈmɪr/`        | n. 总理；首相<br>adj. 首要的；最好的 | n. The premier will address the nation tonight. <br>(总理将于今晚向国家发表讲话。)<br>adj. It's the premier event of the year. <br>(这是一年中最重要的事件。) |
+| surveillance   | `/sərˈveɪləns/`   | n. 监视                     | The police have the house under surveillance. <br>(警察对这所房子进行了监视。) |
+| capital        | `/ˈkæpɪtl/`       | n. 首都；资本；大写<br>adj. 大写的；主要的 | n. Paris is the capital of France. <br>(巴黎是法国的首都。)<br>adj. It was a capital mistake. <br>(这是一个重大的错误。) |
+| theorize       | `/ˈθɪəraɪz/`      | v. 推理；建立理论      | He likes to theorize about economic issues. <br>(他喜欢对经济问题进行理论推理。) |
+| pot            | `/pɑt/`           | n. 罐；壶                    | She put the coffee pot on to brew. <br>(她把咖啡壶放上去煮。) |
+| pod            | `/pɑːd/`        | n. 豆荚                | The seeds are in the pod. <br>(种子在豆荚里。)<br />a pea pod. 豌豆荚 |
+| tank           | `/tæŋk/`         | n. 水箱；坦克                | The fish tank needs cleaning. <br>(鱼缸需要清洗。)           |
 
 | 单词         | 美式发音           | 词类 + 汉语释义                  | 示例                                                         |
 | ----------- | ----------------- | -------------------------------| ------------------------------------------------------------ |
