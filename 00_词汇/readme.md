@@ -191,21 +191,21 @@ ChatGPT 4.0 translations
 
 ~~注：下面表格单词已写到 Goodnotes~~
 
-| 单词            | 美式发音            | 词类 + 汉语释义              | 示例                                                         |
-| -------------- | ------------------ | -------------------------- | ------------------------------------------------------------ |
-| word           | `/wɜrd/`           | n. 单词                     | Choose your words carefully. <br>(仔细选择你的用词。)        |
-| hint           | `/hɪnt/`           | n. 暗示；提示<br>v. 暗示      | n. He gave me a hint about his plans. <br>(他给了我一些关于他计划的暗示。)<br>v. She hinted that she might leave. <br>(她暗示她可能会离开。) |
-| lush           | `/lʌʃ/`            | adj. 茂盛的                 | The garden was lush and green. <br>(花园郁郁葱葱。)           |
-| greenery       | `/ˈɡriːnəri/`      | n. 绿色植物                 | The room was decorated with fresh greenery. <br>(房间里装饰着新鲜的绿色植物。)<br />The rich greenery of grass and trees.<br />(草木茂盛的绿色植物) |
-| quest          | `/kwɛst/`          | n. 寻找；探索                | They are on a quest to find the lost city. <br>(他们正在寻找失落的城市。) |
-| dough          | `/doʊ/`            | n. 生面团                   | She rolled the dough into a flat circle. <br>(她将面团擀成一个平圆形。) |
+| 单词            | 美式发音            | 词类 + 汉语释义          | 示例                                                         |
+| -------------- | ------------------ | --------------------- | ------------------------------------------------------------ |
+| word           | `/wɜrd/`           | n. 单词                | Choose your words carefully. <br>(仔细选择你的用词。)        |
+| hint           | `/hɪnt/`           | n. 暗示；提示<br>v. 暗示 | n. He gave me a hint about his plans. <br>(他给了我一些关于他计划的暗示。)<br>v. She hinted that she might leave. <br>(她暗示她可能会离开。) |
+| lush           | `/lʌʃ/`            | adj. 茂盛的             | The garden was lush and green. <br>(花园郁郁葱葱。)           |
+| greenery       | `/ˈɡriːnəri/`      | n. 绿色植物             | The room was decorated with fresh greenery. <br>(房间里装饰着新鲜的绿色植物。)<br />The rich greenery of grass and trees.<br />(草木茂盛的绿色植物) |
+| quest          | `/kwɛst/`          | n. 寻找；探索            | They are on a quest to find the lost city. <br>(他们正在寻找失落的城市。) |
+| dough          | `/doʊ/`            | n. 生面团               | She rolled the dough into a flat circle. <br>(她将面团擀成一个平圆形。) |
 | premier        | `/prɪˈmɪr/`        | n. 总理；首相<br>adj. 首要的；最好的 | n. The premier will address the nation tonight. <br>(总理将于今晚向国家发表讲话。)<br>adj. It's the premier event of the year. <br>(这是一年中最重要的事件。) |
-| surveillance   | `/sərˈveɪləns/`   | n. 监视                     | The police have the house under surveillance. <br>(警察对这所房子进行了监视。) |
-| capital        | `/ˈkæpɪtl/`       | n. 首都；资本；大写<br>adj. 大写的；主要的 | n. Paris is the capital of France. <br>(巴黎是法国的首都。)<br>adj. It was a capital mistake. <br>(这是一个重大的错误。) |
-| theorize       | `/ˈθɪəraɪz/`      | v. 推理；建立理论      | He likes to theorize about economic issues. <br>(他喜欢对经济问题进行理论推理。) |
-| pot            | `/pɑt/`           | n. 罐；壶                    | She put the coffee pot on to brew. <br>(她把咖啡壶放上去煮。) |
-| pod            | `/pɑːd/`        | n. 豆荚                | The seeds are in the pod. <br>(种子在豆荚里。)<br />a pea pod. 豌豆荚 |
-| tank           | `/tæŋk/`         | n. 水箱；坦克                | The fish tank needs cleaning. <br>(鱼缸需要清洗。)           |
+| surveillance   | `/sərˈveɪləns/`    | n. 监视                | The police have the house under surveillance. <br>(警察对这所房子进行了监视。) |
+| capital        | `/ˈkæpɪtl/`        | n. 首都；资本；大写<br>adj. 大写的；主要的 | n. Paris is the capital of France. <br>(巴黎是法国的首都。)<br>adj. It was a capital mistake. <br>(这是一个重大的错误。) |
+| theorize       | `/ˈθɪəraɪz/`       | v. 推理；建立理论        | He likes to theorize about economic issues. <br>(他喜欢对经济问题进行理论推理。) |
+| pot            | `/pɑt/`            | n. 罐；壶              | She put the coffee pot on to brew. <br>(她把咖啡壶放上去煮。) |
+| pod            | `/pɑːd/`           | n. 豆荚                | The seeds are in the pod. <br>(种子在豆荚里。)<br />a pea pod. 豌豆荚 |
+| tank           | `/tæŋk/`           | n. 水箱；坦克           | The fish tank needs cleaning. <br>(鱼缸需要清洗。)           |
 
 | 单词         | 美式发音           | 词类 + 汉语释义                  | 示例                                                         |
 | ----------- | ----------------- | -------------------------------| ------------------------------------------------------------ |
@@ -290,10 +290,10 @@ ChatGPT 4.0 translations
 | concession    | `/kənˈsɛʃən/     | n. 让步；特许权               | The company made several concessions during negotiations. <br>(公司在谈判中作出了几项让步。) |
 | dictate       | `/dɪkˈteɪt/      | v. 口述；命令                 | He dictated the letter to his secretary. <br>(他向他的秘书口述信件。) |
 | ethnicity     | `/ɛθˈnɪsəti/     | n. 种族特征                  | The survey collects data on ethnicity and age. <br>(该调查收集了关于种族特征和年龄的数据。) |
-| oval          | `/ˈoʊvəl/       | adj. 椭圆形的<br>n. 椭圆形    | adj. She drew an oval shape. <br>(她画了一个椭圆形。)<br>n. The table was an oval. <br>(桌子是椭圆形的。) |
-| advertise     | `/ˈædvɚtaɪz/   | v. 宣传；广告                | They decided to advertise the new product on TV. <br>(他们决定在电视上广告新产品。) |
-| preservation  | `/ˌprɛzɚˈveɪʃən/ | n. 保存；保护              | The museum is dedicated to the preservation of ancient artifacts. <br>(这家博物馆致力于古代文物的保存。) |
-| geography     | `/dʒiˈɒɡrəfi/  | n. 地理学                   | She has an interest in the geography of the Middle East. <br>(她对中东地区的地理学感兴趣。) |
+| oval          | `/ˈoʊvəl/        | adj. 椭圆形的<br>n. 椭圆形    | adj. She drew an oval shape. <br>(她画了一个椭圆形。)<br>n. The table was an oval. <br>(桌子是椭圆形的。) |
+| advertise     | `/ˈædvɚtaɪz/     | v. 宣传；广告                | They decided to advertise the new product on TV. <br>(他们决定在电视上广告新产品。) |
+| preservation  | `/ˌprɛzɚˈveɪʃən/ | n. 保存；保护               | The museum is dedicated to the preservation of ancient artifacts. <br>(这家博物馆致力于古代文物的保存。) |
+| geography     | `/dʒiˈɒɡrəfi/    | n. 地理学                   | She has an interest in the geography of the Middle East. <br>(她对中东地区的地理学感兴趣。) |
 | perch         | `/pɜrtʃ/         | n. 栖木；高处的座位<br>v. 栖息 | n. The bird returned to its perch. <br>(鸟儿回到了它的栖木上。)<br>v. She perched on the edge of the sofa. <br>(她坐在沙发的边缘。) |
 | nanny         | `/ˈnæ.ni/        | n. 保姆                     | She hired a nanny to take care of her children. <br>(她雇了一个保姆来照顾她的孩子。) |
 | preference    | `/ˈprefərəns/`   | n. 偏好；优先权              | His preference is always for classic movies. <br>(他总是偏爱经典电影。) |：
