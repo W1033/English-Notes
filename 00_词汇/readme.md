@@ -139,7 +139,6 @@ The bright **dipper** stars above are named Dubhe, Merak, Phecda, Megrez, Alioth
 
 
 
-
 ## ▲ 待编辑生词
 
 
@@ -149,12 +148,17 @@ ChatGPT 4.0 translations
 
 ~~注：下面表格单词已写到 Goodnotes~~
 
+n. 松树；v. 消瘦，憔悴
+n. 松树；v. 悲伤
+
+
+
 | 单词            | 美式发音            | 词类 + 汉语释义            | 示例                                                         |
 | -------------- | ------------------ | ------------------------ | ------------------------------------------------------------ |
-| pine           | `/paɪn/           | n. 松树<br>v. 消瘦，憔悴    | n. The pine tree stood tall and majestic. <br>(松树高大而雄伟地矗立着。)<br>v. He pined for his homeland. <br>(他对故乡感到思念和憔悴。) |
-| guest          | `/ɡɛst/           | n. 客人                   | We have a guest staying with us this weekend. <br>(这个周末我们有客人来住。) |
-| shimmer        | `/ˈʃɪmər/         | v. 微光闪烁                | The lake shimmered in the moonlight. <br>(湖面在月光下闪着微光。) |
-| east           | `/ist/            | n. 东方；东部              | The sun rises in the east. <br>(太阳从东方升起。)             |
+| pine       | `/paɪn/`       | n. 松树<br>v. 悲伤，难过       | n. The forest was filled with tall pine trees. <br>(森林里满是高大的松树。)<br>v. After her departure, he pined away in sadness. <br>(她离开后，他因深深的悲伤而日渐消瘦。) |
+| guest          | `/ɡɛst/`           | n. 客人                 | We have a guest staying with us this weekend. <br>(这个周末我们有客人来住。) |
+| shimmer        | `/ˈʃɪmər/`         | v. 闪烁；发微光            | The lake shimmered in the moonlight. <br>(湖面在月光下闪着微光。) |
+| east           | `/iːst/`           | n. 东方；东部              | The sun rises in the east. <br>(太阳从东方升起。)             |
 | basement       | `/ˈbeɪsmənt/      | n. 地下室                  | They converted the basement into a game room. <br>(他们将地下室改造成了游戏室。) |
 | condescend     | `/ˌkɒndɪˈsɛnd/    | v. 屈尊；表现出优越感        | She condescended to speak to the lowly servant. <br>(她屈尊与卑微的仆人说话。) |
 | shout          | `/ʃaʊt/           | v. 大喊；呼喊              | He shouted for help from the window. <br>(他从窗户大喊求救。) |
