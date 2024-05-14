@@ -142,16 +142,52 @@ The bright **dipper** stars above are named Dubhe, Merak, Phecda, Megrez, Alioth
 ## ▲ 待编辑生词
 
 
-### Added: 2024.05.10
-
+### Added: 2024.05.14
 ChatGPT 4.0 translations
 
 ~~注：下面表格单词已写到 Goodnotes~~
 
-n. 松树；v. 消瘦，憔悴
-n. 松树；v. 悲伤
+| 单词            | 美式发音             | 词类 + 汉语释义            | 示例                                                         |
+| -------------- | --------------------| ------------------------ | ------------------------------------------------------------ |
+| navy           | `/ˈneɪ.vi/`        | n. 海军；深蓝色             | The navy is essential for the country's defense. <br>(海军对国家的防御至关重要。)<br>He prefers navy blue for his suits. <br>(他偏爱深蓝色的西装。) |
+| envy           | `/ˈɛn.vi/`         | n. 嫉妒<br />v. 嫉妒       | n. She felt a strong sense of envy when she saw her friend's new car. <br>(她看到朋友的新车时感到强烈的嫉妒。)<br />v. He envied his brother's success. <br/>(他嫉妒他兄弟的成功。) |
+| ludicrous      | `/ˈluː.dɪ.krəs/    | adj. 荒谬的；可笑的         | His idea was so ludicrous that everyone laughed. <br>(他的想法如此荒谬以至于每个人都笑了。) |
+| trillion       | `/ˈtrɪl.jən/       | n. 万亿                   | The national debt is over several trillion dollars. <br>(国家债务超过了几万亿美元。) |
+| dome           | `/doʊm/            | n. 圆顶                   | The building was topped with a magnificent dome. <br>(这座建筑的顶部是一个宏伟的圆顶。) |
+| bestow         | `/bɪˈstoʊ/         | v. 赠予；授予              | The king bestowed titles on his most loyal subjects. <br>(国王赐予他最忠诚的臣民头衔。) |
+| wreck          | `/rɛk/             | n. 失事船只；残骸<br>v. 破坏 | n. Divers explored the sunken wreck. <br>(潜水员探索了沉船的残骸。)<br>v. The storm wrecked the village. <br>(风暴摧毁了这个村庄。) |
+| earther        | `/ˈɜrθər/          | n. 地球人 (非正式，常用于科幻)| As an earther, he found the alien planet fascinating. <br>(作为地球人，他发现这个外星球很迷人。) |
+| irradiation    | `/ɪˌreɪ.diˈeɪ.ʃən/ | n. 辐射；照射             | The food underwent irradiation to kill bacteria. <br>(食物经过辐射处理以杀死细菌。) |
+| irradiate      | `/ɪˈreɪ.dieɪt/     | v. 照射；辐射             | They use ultraviolet light to irradiate the surgical instruments. <br>(他们使用紫外线照射手术工具。) |
+| unit           | `/ˈjuː.nɪt/        | n. 单位；部件；单元        | Each unit of the textbook covers a different topic. <br>(教科书的每个单元涵盖一个不同的主题。) |
+| immune         | `/ɪˈmjuːn/         | adj. 免疫的；不受影响的     | He is immune to the disease after vaccination. <br>(接种疫苗后，他对这种疾病免疫。) |
+| cretin         | `/ˈkriː.tɪn/       | n. 白痴；愚人 (贬义，不建议使用) |               |
+| consider       | `/kənˈsɪd.ər/      | v. 考虑；认为             | Consider all the facts before making a decision. <br>(在做决定之前考虑所有的事实。) |
+| gay            | `/ɡeɪ/`             | adj. 同性恋的；快乐的<br>n. 同性恋(者) | adj. She is openly gay. <br>(她公开表示自己是同性恋。)<br>adj. The festival was gay and colorful. <br>(节日气氛愉快且色彩斑斓。)<br>n. Gays and lesbians fought for their rights. <br>(同性恋者和女同性恋者为他们的权利而斗争。) |
+
+| 单词           | 美式发音             | 词类 + 汉语释义          | 示例                                                         |
+| ------------- | ------------------- | ---------------------- | ------------------------------------------------------------ |
+| bay           | `/beɪ/             | n. 海湾；湾              | The city is located near a large bay. <br>(这座城市位于一个大海湾附近。) |
+| recreation    | `/ˌriː.krɪˈeɪ.ʃən/ | n. 娱乐；消遣            | Outdoor recreation is an excellent way to relax. <br>(户外娱乐是放松的绝佳方式。) |
+| reserve       | `/rɪˈzɜrv/         | n. 储备；保护区<br>v. 保留；预订  | n. The nature reserve is home to many wild animals. <br>(自然保护区是许多野生动物的家园。)<br>v. We reserved a table for dinner. <br>(我们预订了一张晚餐桌。) |
+| mediocrity    | `/ˌmiː.diˈɒk.rə.ti/| n. 平庸；平凡            | He was not satisfied with mediocrity and strove for excellence. <br>(他不满足于平庸，力求卓越。) |
+| conservative  | `/kənˈsɜrv.ə.tɪv/  | adj. 保守的；守旧的       | His views are quite conservative. <br>(他的观点相当保守。)   |
+| historic      | `/hɪˈstɔr.ɪk/      | adj. 历史上著名的；有历史意义的  | The historic building was preserved by the local community. <br>(这座历史建筑由当地社区保存。) |
+| historical    | `/hɪˈstɔr.ɪ.kəl/   | adj. 历史的              | He has a great interest in historical events. <br>(他对历史事件很感兴趣。) |
+| herb          | `/hɜrb/            | n. 草本植物；香草         | She grows herbs in her garden for cooking. <br>(她在花园里种植香草用于烹饪。) |
+| impatient     | `/ɪmˈpeɪ.ʃənt/     | adj. 不耐烦的            | She became impatient with the long delay. <br>(她对长时间的延误变得不耐烦。) |
+| fancy         | `/ˈfæn.si/         | adj. 奢华的；精美的<br>n. 想象；喜好<br>v. 想象；喜欢  | adj. She wore a fancy dress to the party. <br>(她穿了一件奢华的裙子去派对。)<br>n. That car is his latest fancy. <br>(那辆车是他最近的新欢。)<br>v. I fancy going out for dinner tonight. <br>(我想今晚出去吃晚餐。) |
+| casual        | `/ˈkæʒ.u.əl/       | adj. 随便的；非正式的     | He wore casual clothes to the informal meeting. <br>(他穿着休闲服参加非正式会议。) |
+| world         | `/wɜːrld/`           | n. 世界；领域<br>adj. 世界级的 | n. The news shocked the entire world. <br>(这条新闻震惊了整个世界。)<br>n. She is famous in the world of fashion. <br>(她在时尚界很有名。)<br>**the world of politics/business/work etc** <br />n. She knew little about the world of politics.她对政治领域知之甚少。<br />adj. They compete at a world level. <br>(他们在世界级别上竞争。) |
 
 
+
+
+
+### Added: 2024.05.10
+ChatGPT 4.0 translations
+
+~~注：下面表格单词已写到 Goodnotes~~
 
 | 单词            | 美式发音            | 词类 + 汉语释义            | 示例                                                         |
 | -------------- | ------------------ | ------------------------ | ------------------------------------------------------------ |
@@ -186,11 +222,7 @@ n. 松树；v. 悲伤
 
 
 
-
-
-
 ### Added: 2024.05.09
-
 ChatGPT 4.0 translations
 
 ~~注：下面表格单词已写到 Goodnotes~~
