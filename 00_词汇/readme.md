@@ -142,6 +142,98 @@ The bright **dipper** stars above are named Dubhe, Merak, Phecda, Megrez, Alioth
 ## ▲ 待编辑生词
 
 
+### Added: 2024.05.16
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes~~
+
+| 单词               | 美式发音                  | 词性 + 汉语释义           | 示例                                                         |
+|------------------|-----------------------|---------------------|--------------------------------------------------------------|
+| taunt            | `/tɔnt/               | v. 嘲弄；奚落<br>n. 嘲弄；奚落 | v. They taunted him about his mistake. <br>(他们嘲笑他的错误。)<br>n. His taunt hurt her feelings. <br>(他的嘲弄伤了她的感情。) |
+| coma             | `/ˈkoʊmə/             | n. 昏迷               | He has been in a coma for two weeks. <br>(他已经昏迷两周了。) |
+| giddy            | `/ˈɡɪdi/              | adj. 头晕的；轻浮的        | She felt giddy after spinning around. <br>(转圈后她感到头晕。) |
+| relieve          | `/rɪˈliv/             | v. 缓解；解除            | The medicine will relieve your pain. <br>(这种药会缓解你的疼痛。) |
+| apology          | `/əˈpɑlədʒi/          | n. 道歉               | He made a public apology for his remarks. <br>(他公开为自己的言论道歉。) |
+| bumpy            | `/ˈbʌmpi/             | adj. 颠簸的；不平的        | The road is bumpy and full of potholes. <br>(这条路颠簸不平，满是坑洼。) |
+| pave             | `/peɪv/               | v. 铺路；为...铺平道路      | They paved the driveway with concrete. <br>(他们用混凝土铺了车道。) |
+| kinda            | `/ˈkaɪndə/            | adv. 有点儿（口语）        | I'm kinda tired today. <br>(我今天有点累。) |
+| tumble           | `/ˈtʌmbəl/            | v. 跌倒；翻滚<br>n. 跌倒   | v. She tumbled down the stairs. <br>(她从楼梯上摔了下来。)<br>n. His tumble caused a lot of bruises. <br>(他的摔倒导致了许多淤青。) |
+| tumbler          | `/ˈtʌmblər/           | n. 不倒翁；平底玻璃杯        | He poured juice into the tumbler. <br>(他把果汁倒进了平底玻璃杯。) |
+| intercontinental | `/ˌɪntərˌkɑntɪˈnɛntl/ | adj. 跨洲的            | They took an intercontinental flight. <br>(他们乘坐了一次跨洲飞行。) |
+| silo             | `/ˈsaɪloʊ/            | n. 筒仓               | The farm has several silos for storing grain. <br>(农场有几个储粮的筒仓。) |
+| dude             | `/dud/                | n. 小伙子；家伙           | He's a cool dude. <br>(他是个很酷的小伙子。)                 |
+| compilation      | `/ˌkɑmpɪˈleɪʃən/      | n. 编辑；汇编            | This book is a compilation of essays. <br>(这本书是文章的汇编。) |
+| ape              | `/eɪp/                | n. 猿<br>v. 模仿       | n. The zoo has a new ape exhibit. <br>(动物园有一个新的猿类展览。)<br>v. He likes to ape his older brother. <br>(他喜欢模仿他的哥哥。) |
+| signature        | `/ˈsɪɡnətʃər/         | n. 签名；特征            | Please put your signature here. <br>(请在这里签名。)         |
+| rare             | `/rɛr/                | adj. 稀有的；半熟的        | This is a rare gemstone. <br>(这是一颗稀有的宝石。)           |
+| savory           | `/ˈseɪvəri/           | adj. 美味的；可口的        | The savory dish was delicious. <br>(这道美味的菜肴很可口。)  |
+| crepe            | `/kreɪp/              | n. 可丽饼；绉纱           | She made a delicious crepe for breakfast. <br>(她为早餐做了美味的可丽饼。) |
+| sesame           | `/ˈsɛsəmi/            | n. 芝麻               | She sprinkled sesame seeds on the salad. <br>(她在沙拉上撒了些芝麻。) |
+| seed             | `/sid/                | n. 种子<br>v. 播种      | n. Plant the seeds in the spring. <br>(在春天播种。)<br>v. They will seed the field next week. <br>(他们将在下周播种。) |
+| expat            | `/ˈɛkspæt/            | n. 移居国外者            | She is an expat living in France. <br>(她是一个生活在法国的移民。) |
+| awake            | `/əˈweɪk/             | adj. 醒着的<br>v. 唤醒   | adj. He was awake all night. <br>(他整夜都醒着。)<br>v. The loud noise awoke him. <br>(巨大的噪音把他吵醒了。) |
+| knew             | `/nu/                 | v. 知道（动词 know 的过去式） | She knew the answer immediately. <br>(她立即知道了答案。)    |
+
+| 单词              | 美式发音               | 词性 + 汉语释义          | 示例                                                         |
+|------------------|-----------------------|------------------------|--------------------------------------------------------------|
+| rancid           | `/ˈrænsɪd/            | adj. 腐臭的             | The butter has turned rancid. <br>(黄油变臭了。)              |
+| season           | `/ˈsizən/             | n. 季节<br>v. 调味       | n. Winter is my favorite season. <br>(冬天是我最喜欢的季节。)<br>v. Season the soup with salt and pepper. <br>(用盐和胡椒调味汤。) |
+| wok              | `/wɑk/                | n. 炒锅                 | She cooked the vegetables in a wok. <br>(她用炒锅炒蔬菜。)     |
+| chill            | `/tʃɪl/               | v. 冷却<br>n. 寒冷       | v. Chill the wine before serving. <br>(上酒前先冷却一下。)<br>n. There was a chill in the air. <br>(空气中有一丝寒意。) |
+| fraudulent       | `/ˈfrɔdʒələnt/        | adj. 欺诈的             | He was charged with fraudulent activity. <br>(他被指控欺诈行为。) |
+| masquerade       | `/ˌmæskəˈreɪd/        | n. 化装舞会；伪装<br>v. 伪装 | n. They attended a masquerade ball. <br>(他们参加了化装舞会。)<br>v. He masqueraded as a policeman. <br>(他伪装成警察。) |
+| deceptive        | `/dɪˈsɛptɪv/          | adj. 欺骗性的           | His appearance is deceptive. <br>(他的外表具有欺骗性。)       |
+| mimic            | `/ˈmɪmɪk/             | v. 模仿<br>n. 模仿者     | v. She can mimic her teacher's voice perfectly. <br>(她能完美模仿老师的声音。)<br>n. He is a talented mimic. <br>(他是个有才华的模仿者。) |
+| notorious        | `/noʊˈtɔriəs/         | adj. 臭名昭著的         | The city is notorious for its traffic jams. <br>(这座城市因交通堵塞而臭名昭著。) |
+| naked            | `/ˈneɪkɪd/            | adj. 裸体的；裸露的       | He was naked from the waist up. <br>(他上半身赤裸。)           |
+| wash             | `/wɑʃ/                | v. 洗<br>n. 洗涤         | v. She washed the dishes. <br>(她洗了碗。)<br>n. Give your hands a good wash. <br>(好好洗一下你的手。) |
+| divinity         | `/dɪˈvɪnɪti/          | n. 神性；神学           | They discussed the divinity of Christ. <br>(他们讨论了基督的神性。) |
+| future           | `/ˈfjutʃər/           | n. 未来<br>adj. 未来的   | n. We need to plan for the future. <br>(我们需要为未来做计划。)<br>adj. Future generations will benefit. <br>(未来的几代人会受益。) |
+| beer             | `/bɪr/                | n. 啤酒                 | He ordered a beer at the bar. <br>(他在酒吧点了一杯啤酒。)     |
+| forgone          | `/fɔrˈɡoʊn/           | adj. 过去的             | It is a forgone conclusion. <br>(这是一个过去的结论。)       |
+| alternative      | `/ɔlˈtɜrnətɪv/        | n. 替代方案<br>adj. 替代的 | n. We need to find an alternative to plastic. <br>(我们需要找到塑料的替代品。)<br>adj. They offered an alternative solution. <br>(他们提供了一个替代方案。) |
+| spoiler          | `/ˈspɔɪlər/           | n. 剧透；扰流板          | Be careful not to give away any spoilers. <br>(小心不要透露任何剧透。) |
+| fought           | `/fɔt/                | v. 斗争；战斗（动词 fight 的过去式和过去分词）| They fought bravely in the war. <br>(他们在战争中勇敢地战斗。) |
+| spiral           | `/ˈspaɪrəl/           | adj. 螺旋的<br>n. 螺旋   | adj. The spiral staircase is beautiful. <br>(这个螺旋楼梯很漂亮。)<br>n. The prices have continued to spiral upwards. <br>(价格持续螺旋式上涨。) |
+| criterion        | `/kraɪˈtɪriən/        | n. 标准；准则           | The criterion for selection is clear. <br>(选择的标准很明确。) |
+| participation    | `/pɑrˌtɪsɪˈpeɪʃən/    | n. 参与                 | Participation in the event is mandatory. <br>(参与这项活动是强制性的。) |
+| participate      | `/pɑrˈtɪsɪˌpeɪt/      | v. 参与                 | Everyone is encouraged to participate. <br>(鼓励所有人参与。) |
+| boss             | `/bɔs/                | n. 老板；上司<br>v. 指挥  | n. My boss is very supportive. <br>(我的老板非常支持我。)<br>v. She likes to boss everyone around. <br>(她喜欢指挥所有人。) |
+| dictation        | `/dɪkˈteɪʃən/         | n. 听写                 | We have a dictation test tomorrow. <br>(我们明天有听写考试。) |
+
+| 单词             | 美式发音             | 词性 + 汉语释义                  | 示例                                                         |
+|-----------------|---------------------|-----------------------------|--------------------------------------------------------------|
+| bee             | `/bi/               | n. 蜜蜂；勤劳的人                  | The bee is busy collecting nectar. <br>(蜜蜂忙着采集花蜜。)    |
+| fee             | `/fi/               | n. 费用                       | The entry fee is $10. <br>(入场费是10美元。)                  |
+| pea             | `/pi/               | n. 豌豆                       | She added peas to the salad. <br>(她在沙拉里加了豌豆。)        |
+| reservation     | `/ˌrɛzərˈveɪʃən/    | n. 预订；保留；保护区                | I made a reservation at the restaurant. <br>(我在餐馆预订了座位。) |
+| nausea          | `/ˈnɔʃə/            | n. 恶心                       | The smell of the fish gave me nausea. <br>(鱼的气味让我感到恶心。) |
+| clumsy          | `/ˈklʌmzi/          | adj. 笨拙的                    | He is so clumsy that he often drops things. <br>(他很笨拙，经常掉东西。) |
+| collar          | `/ˈkɑlər/           | n. 衣领；项圈                    | He adjusted his collar before the meeting. <br>(会议前他整理了衣领。) |
+| immune          | `/ɪˈmjun/           | adj. 免疫的；不受影响的              | He is immune to the disease. <br>(他对这种疾病有免疫力。)      |
+| scheme          | `/skim/             | n. 计划；方案<br>v. 策划           | n. They devised a new scheme for recycling. <br>(他们设计了一个新的回收计划。)<br>v. He was caught scheming against his boss. <br>(他被抓到在密谋对付老板。) |
+| mediocre        | `/ˌmidiˈoʊkər/      | adj. 平庸的                    | The performance was mediocre at best. <br>(这场表演最多算是平庸。) |
+| fudge           | `/fʌdʒ/             | n. 软糖<br>v. 捏造              | n. She made delicious chocolate fudge. <br>(她做了美味的巧克力软糖。)<br>v. He tried to fudge the results. <br>(他试图捏造结果。) |
+| optimal         | `/ˈɑptɪməl/         | adj. 最佳的                    | We need to find the optimal solution. <br>(我们需要找到最佳解决方案。) |
+| ain't           | `/eɪnt/             | 缩略语. 不是（am not, is not, are not, has not, have not 的非正式用法） | He ain't coming to the party. <br>(他不来参加派对。)           |
+| loony           | `/ˈluni/            | adj. 疯狂的；古怪的<br>n. 疯子       | adj. That’s a loony idea. <br>(那是个疯狂的想法。)<br>n. He acted like a loony. <br>(他表现得像个疯子。) |
+| bin             | `/bɪn/              | n. 垃圾桶；大储藏箱                 | Put the trash in the bin. <br>(把垃圾放进垃圾桶。)            |
+| nap             | `/næp/              | n. 小睡<br>v. 小睡              | n. He took a short nap after lunch. <br>(午饭后他小睡了一会儿。)<br>v. She napped on the couch. <br>(她在沙发上打盹。) |
+| spook           | `/spuk/             | n. 幽灵；间谍<br>v. 惊吓           | n. He dressed as a spook for Halloween. <br>(他装扮成幽灵参加万圣节。)<br>v. The noise spooked the horses. <br>(噪音惊吓了马。) |
+| skunk           | `/skʌŋk/            | n. 臭鼬                       | The skunk sprayed a foul odor. <br>(臭鼬喷出了难闻的气味。)   |
+| mock            | `/mɑk/              | v. 嘲笑；模仿<br>adj. 假的         | v. He mocked her accent. <br>(他嘲笑她的口音。)<br>adj. They had a mock trial for practice. <br>(他们进行了一个模拟审判以作练习。) |
+| arm             | `/ɑrm/              | n. 手臂；武器<br>v. 武装           | n. She broke her arm. <br>(她的手臂骨折了。)<br>v. The soldiers were armed with rifles. <br>(士兵们配备了步枪。) |
+| vigilante       | `/ˌvɪdʒɪˈlænti/     | n. 义务警员；自卫团成员               | The vigilante took the law into his own hands. <br>(义务警员把法律掌握在自己手中。) |
+| wagon           | `/ˈwæɡən/           | n. 四轮马车；货车                  | They loaded the wagon with supplies. <br>(他们把补给装上了货车。) |
+| dictation       | `/dɪkˈteɪʃən/       | n. 听写                       | We have a dictation test tomorrow. <br>(我们明天有听写考试。) |
+
+
+
+
+
+
+
 ### Added: 2024.05.14
 
 Translator: ChatGPT 4 + 4o
@@ -166,20 +258,23 @@ Translator: ChatGPT 4 + 4o
 | consider      | `/kənˈsɪdər/`      | v. 考虑；认为             | Consider all the facts before making a decision. <br>(在做决定之前考虑所有的事实。)<br />I considered asking for my money back. <br />(我考虑过把我的钱要回来。) |
 | gay           | `/ɡeɪ/`            | adj. 同性恋的；快乐的<br>n. 同性恋(者) | adj. She is openly gay. <br>(她公开表示自己是同性恋。)<br>adj. The festival was gay and colorful. <br>(节日气氛愉快且色彩斑斓。)<br>n. Gays and lesbians fought for their rights. <br>(同性恋者和女同性恋者为他们的权利而斗争。) |
 
-| 单词           | 美式发音             | 词类 + 汉语释义          | 示例                                                         |
-| ------------- | ------------------- | ---------------------- | ------------------------------------------------------------ |
-| bay          | `/beɪ/`              | n. 海湾；月桂<br>v. 吠叫                        | n. The boat sailed into the bay. <br>(船驶入海湾。)<br>v. The dog bayed at the moon. <br>(狗对着月亮吠叫。) |
-| recreation   | `/ˌrɛkriˈeɪʃən/`     | n. 娱乐；消遣                                   | The park is a place for recreation. <br>(公园是娱乐的地方。) |
-| reserve      | `/rɪˈzɜrv/`          | v. 预订；保留<br>n. 储备；保护区                | v. I reserved a table for dinner. <br>(我预订了一张晚餐的桌子。)<br>n. This area is a wildlife reserve. <br>(这个地区是野生动物保护区。) |
-| mediocrity   | `/ˌmiːdiˈɑkrəti/`    | n. 平庸；普通                                   | She fears mediocrity in her work. <br>(她害怕工作中平庸。)   |
-| conservative | `/kənˈsɜrvətɪv/`     | adj. 保守的<br>n. 保守派                        | adj. He has conservative views. <br>(他有保守的观点。)<br>n. She is a conservative in politics. <br>(她在政治上是个保守派。) |
-| historic     | `/hɪˈstɔrɪk/`        | adj. 历史上重要的                               | The city is known for its historic landmarks. <br>(这座城市因其历史遗迹而闻名。) |
-| historical   | `/hɪˈstɔrɪkl/        | adj. 历史的；有关历史的                         | He loves reading historical novels. <br>(他喜欢读历史小说。) |
-| herb         | `/ɜːrb/` | `/hɜːrb/` | n. 香草；草药                                   | Basil is a common herb used in cooking. <br>(罗勒是烹饪中常用的香草。) |
-| impatient    | `/ɪmˈpeɪʃənt/`       | adj. 不耐烦的                                   | She was impatient to start the project. <br>(她急于开始这个项目。) |
-| fancy        | `/ˈfænsi/`           | adj. 华丽的；昂贵的<br>v. 喜欢；想象<br>n. 幻想 | adj. She wore a fancy dress to the party. <br>(她穿了一件华丽的裙子去参加派对。)<br>v. He fancies a cup of tea. <br>(他想喝杯茶。)<br>n. It was just a fancy, not reality. <br>(这只是幻想，不是现实。) |
-| casual       | `/ˈkæʒuəl/`          | adj. 随意的；临时的<br>n. 临时工                | adj. It's a casual meeting, nothing formal. <br>(这是一个随意的会议，没有什么正式的。)<br>n. They hired casuals for the holiday season. <br>(他们在假期雇用了临时工。) |
-| world         | `/wɜːrld/`           | n. 世界；领域<br>adj. 世界级的 | n. The news shocked the entire world. <br>(这条新闻震惊了整个世界。)<br>n. She is famous in the world of fashion. <br>(她在时尚界很有名。)<br>**the world of politics/business/work etc** <br />n. She knew little about the world of politics.她对政治领域知之甚少。<br />adj. They compete at a world level. <br>(他们在世界级别上竞争。) |
+| 单词         | 美式发音          | 词类 + 汉语释义                                 | 示例                                                         |
+| ------------ | ----------------- | ----------------------------------------------- | ------------------------------------------------------------ |
+| bay          | `/beɪ/`           | n. 海湾；<br>v. 吠叫                            | n. The boat sailed into the bay. <br>(船驶入海湾。)<br>n. a house with a view across the bay. <br />(能看到海湾全景的一幢房子。)<br />v. The dog bayed at the moon. <br>(狗对着月亮吠叫。) |
+| recreation   | `/ˌrɛkriˈeɪʃən/`  | n. 娱乐；消遣                                   | The park is a place for recreation. <br>(公园是娱乐的地方。) |
+| reserve      | `/rɪˈzɜːrv/`      | v. 预订；保留<br>n. 储备；保护区                | v. I reserved a table for dinner. <br>(我预订了一张晚餐的桌子。)<br>n. This area is a wildlife reserve. <br>(这个地区是野生动物保护区。) |
+| mediocrity   | `/ˌmiːdiˈɑkrəti/` | n. 平庸；普通                                   | She fears mediocrity in her work. <br>(她害怕工作中平庸。)   |
+| mediocre     |                   |                                                 |                                                              |
+| conservative | `/kənˈsɜːrvətɪv/` | adj. 保守的<br>n. 保守派                        | adj. He has conservative views. <br>(他有保守的观点。)<br>n. She is a conservative in politics. <br>(她在政治上是个保守派。) |
+| conservation |                   |                                                 |                                                              |
+| conservator  |                   |                                                 |                                                              |
+| historic     | `/hɪˈstɔrɪk/`     | adj. 历史上重要的                               | The city is known for its historic landmarks. <br>(这座城市因其历史遗迹而闻名。) |
+| historical   | `/hɪˈstɔːrɪkəl/`  | adj. 历史的；有关历史的                         | He loves reading historical novels. <br>(他喜欢读历史小说。) |
+| herb         | `/ɜːrb/`          | `/hɜːrb/`                                       | n. 香草；草药                                                |
+| impatient    | `/ɪmˈpeɪʃənt/`    | adj. 不耐烦的                                   | She was impatient to start the project. <br>(她急于开始这个项目。) |
+| fancy        | `/ˈfænsi/`        | adj. 华丽的；昂贵的<br>v. 喜欢；想象<br>n. 幻想 | adj. She wore a fancy dress to the party. <br>(她穿了一件华丽的裙子去参加派对。)<br>v. He fancies a cup of tea. <br>(他想喝杯茶。)<br>n. It was just a fancy, not reality. <br>(这只是幻想，不是现实。) |
+| casual       | `/ˈkæʒuəl/`       | adj. 随意的；临时的<br>n. 临时工                | adj. It's a casual meeting, nothing formal. <br>(这是一个随意的会议，没有什么正式的。)<br>n. They hired casuals for the holiday season. <br>(他们在假期雇用了临时工。) |
+| world        | `/wɜːrld/`        | n. 世界；领域<br>adj. 世界级的                  | n. The news shocked the entire world. <br>(这条新闻震惊了整个世界。)<br>n. She is famous in the world of fashion. <br>(她在时尚界很有名。)<br>**the world of politics/business/work etc** <br />n. She knew little about the world of politics.她对政治领域知之甚少。<br />adj. They compete at a world level. <br>(他们在世界级别上竞争。) |
 
 
 
