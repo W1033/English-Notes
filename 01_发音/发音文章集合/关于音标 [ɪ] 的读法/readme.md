@@ -1,4 +1,4 @@
-# it 中，i 的发音像 /eɪ/，为什么音标是 /ɪ/？
+# 关于音标 [ɪ] 的读法
 
 > 文章来源: [西韩地](https://www.zhihu.com/question/338596387/answer/1050873748)
 
@@ -8,25 +8,21 @@
 - `[1]`: Course in Phonetics 7th Edition ( Ladefoged 2011 )  https://book.douban.com/subject/4746281//
 
 ### 1. 讲 RP 的英语发音人
+A plot of the first two formants of the vowels of BCC English. (BBC 英语元音的前两个共振峰图)
 
- A plot of the first two formants of the vowels of BCC English. (BBC 英语元音的前两个共振峰图)
-
-<img src="关于音标 [ɪ] 的读法.assets/image-20221007150053540.png" alt="image-20221007150053540" style="zoom:40%; border:1px solid #cacaca; border-radius: 10px;" />
+<img src="/readme/image-20221007150053540.png" alt="image-20221007150053540" style="zoom:40%; border:1px solid #cacaca; border-radius: 10px;" />
 
 ### 2. 美国北部波士顿等城市的发音人：
-
 (由于美国北部新英格兰地区的口音长久以来和英国本土更相似，可以发现他们的[eɪ]和[ɪ]舌位区分明显，目前英国本土和他们已经有差别了)
 
 A plot of the first two formants of the vowels of (U.S.) northern cities English. (（美国）北部城市英语元音的前两个共振峰图。)
 
-<img src="关于音标 [ɪ] 的读法.assets/image-20221007150026573.png" alt="image-20221007150026573" style="zoom:40%; border:1px solid #cacaca; border-radius: 10px;" />
+<img src="/readme/image-20221007150026573.png" alt="image-20221007150026573" style="zoom:40%; border:1px solid #cacaca; border-radius: 10px;" />
 
 ### 3. 美国加州发音人：
+A plot of the first two formants of the vowels of a group of Californian English speakers. (一组加利福尼亚英语使用者的元音前两个共振峰的图。)
 
- A plot of the first two formants of the vowels of a group of Californian English speakers. (一组加利福尼亚英语使用者的元音前两个共振峰的图。)
-
-<img src="关于音标 [ɪ] 的读法.assets/image-20221007150001227.png" alt="image-20221007150001227" style="zoom:40%; border:1px solid #cacaca; border-radius: 10px;" />
-
+<img src="/readme/image-20221007150001227.png" alt="image-20221007150001227" style="zoom:40%; border:1px solid #cacaca; border-radius: 10px;" />
 
 
 ## **it，six的元音[ɪ]**

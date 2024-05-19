@@ -9,46 +9,21 @@
 
 
 ## New Words
-- **instructor `[ɪnˈstrʌktə]`/`[ɪnˈstrʌktər]` --n.讲师; 教练; 教员; 辅导员.**
-    + a driving instructor. 驾驶教练.
-    + ski instructors. 滑雪教练.
-- **paragraph `[ˈpærəɡrɑːf]`/`[ˈpærəɡræf]` --n.段,段落**
-    + paragraph practice 段落练习
-    + the opening paragraphs of the novel. 小说开篇的几个段落.
-- **session `/ˈseʃən/` --n.一场,一节,一段时间; 会议; 会话; 学期,学年.**
-    + question-and-answer sessions. 问答时间
-    + The training session lasted for two hours. 训练持续了两个小时.
-    + The course is made up of 12 two-hour sessions.
-      这门课总共上了 12 次, 每次两小时.
-    + We have both elementary and advanced training sessions.
-      我们由初级和高级培训课程.
-    + session layer. 会话层
-    + The court is now **in session**(= meeting). 法庭现在正在开庭.
-- **cover `['kʌvə(r)`/`['kʌvər]` --n.盖子; 遮盖物; 罩子; 封面;**
-  **--vt.覆盖; 涉及; 包含... --vi.略**
-    + Snow covered(vt) the ground. 雪覆盖地面.
-    + His shoes were covered(vt) with [in] dust. 他的鞋子盖满灰尘.
-    + She covered(vt) her face with her hands. 她双手掩面.
-    + Much of the country is covered(vt) by forest.
-      森林覆蓋著這個國家的大片土地.
-    + a plastic cover(n). 塑料蓋.
-    + A dust cover(n) hung over the painting. 這幅畫上掛著防塵罩.
-    + His photo's on the cover of 'Newsweek' again.
-      他的照片又登上《新闻周刊》的封面了.
-    + I read the magazine **from cover to cover**(= all of it).
-      我把这本杂志从头到尾看了一遍.
-    + The covers had slipped off in the night. 夜里被子从床上滑了下来.
-- **consonant ['kɒns(ə)nənt] --n.辅音; 子音. --adj.一致的; 符合的.**
-    + a consonant letter. 子音字母.
-    + Almost every language has an O vowel, a K consonant, and an
-      A vowel. 几乎每一种语言都有一个 O 元音, 一个 K 辅音和一个 A 元音.
-- **vowel ['vaʊəl] --n.元音; 母音. --adj.元音的**
-    + Each language has a different vowel system. 每种语言都有不同的元音系统.
+| 单词  | 美式发音  | 词类 + 汉语释义          | 示例                                                         |
+| ----- | --------- | ------------------------ | ------------------------------------------------------------ |
+| instructor |  |  |  |
+| paragraph |  |  |  |
+| session |  |  |  |
+| cover |  |  |  |
+| consonant     | `/ˈkɑːnsənənt/`     | n. 辅音； adj. 辅音的<br />→ Almost every language has an O vowel, a K consonant, and an A vowel. | | 
+| vowel |  |  |  |
+| cover |  |  |  |
+
+
 
 
 ## Content
-**Hint:** 当前发音教程没有按照我们熟悉的 48 个英语国际音标的元音/辅音分类来讲解,
-关于音标的详细知识请先看当前仓库: `../01_英语音标.md`
+**Hint:** 当前发音教程没有按照我们熟悉的 48 个英语国际音标的元音/辅音分类来讲解, 关于音标的详细知识请先看当前仓库: `../01_英语音标.md`
 
 ## 1. DJ 和 KK 音标
 

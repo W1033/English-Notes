@@ -1,6 +1,6 @@
 # 词汇
 
-
+ 
 
 ## ▲ 单词发音疑惑
 
@@ -20,6 +20,42 @@ advantage `/ədˈvæntɪdʒ/` 和 advice `/əd'vaɪs/`，读音中第一个是�
 
 我实在没搞明白！
 
+
+
+## ▲ 7 个你应该念错的单词
+
+*Added: 2024.05.17* 
+
+*From: https://www.youtube.com/watch?v=FqLCNY5F_Tg&t=209s&ab_channel=%E5%93%A5%E5%80%AB%E5%B8%83Columbus*
+
+*表格翻译来自 ChatGPT 4o*
+
+| English Word  | Chinese Translation | Correct Pronunciation | Common Pronunciation |
+|---------------|----------------------|-----------------------|----------------------|
+| fifth         | 第五的               | `/fɪfθ/`                | `/fɪθ/`                |
+| clothes       | 衣服                 | `/kloʊðz/`              | `/kloʊz/`              |
+| prerogative   | 特权                 | `/prɪˈrɑɡ.ə.tɪv/`       | `/pəˈrɑɡ.ə.tɪv/`       |
+| triathlon     | 三项铁人             | `/traɪˈæθ.lən/`         | `/traɪˈæθ.ə.lɑn/`      |
+| mischievous   | 调皮的               | `/ˈmɪs.tʃə.vəs/`        | `/ˈmɪsˈtʃɪ.vi.əs/`     |
+| zoology       | 动物学               | `/zoʊˈɑ.lə.dʒi/`        | `/zuˈɑ.lə.dʒi/`        |
+| nuclear       | 核子                 | `/ˈnu.kli.ər/`          | `/ˈnu.kjə.lər/` (nucular) |
+
+
+## ▲ 英文标点符号
+
+*Added: 204.05.19* 
+
+下面的笔记需要使用 ChatGPT 4o 编辑，并补充其他常见的标点符号
+
+- **`<` (less than)**
+- **`>` (greater than)**
+- **`:` (colon)**
+- **`"` (double quote)**
+- **`/` (forward slash)**
+- **`\` (backslash)**
+- **`|` (vertical bar or pipe)**
+- **`?` (question mark)**
+- **`*` (asterisk)**
 
 
 
@@ -112,6 +148,44 @@ The bright **dipper** stars above are named Dubhe, Merak, Phecda, Megrez, Alioth
 
 ## ▲ 待编辑生词
 
+
+### Added: 2024.05.19
+
+Translator: ChatGPT 4o
+
+==校对：尚未与欧路词典、有道词典校对。==
+
+~~注：下面表格单词已写到 Goodnotes~~
+
+| 单词           | 美式发音             | 词性 + 汉语释义              | 示例                                                         |
+|---------------|---------------------|----------------------------|--------------------------------------------------------------|
+| vulnerable    | `/ˈvʌlnərəbəl/`     | adj. 脆弱的；易受伤的         | Children are particularly vulnerable to illness. <br>(孩子们特别容易生病。) |
+| foresee       | `/fɔrˈsi/`          | v. 预见；预知                | He could not foresee the consequences of his actions. <br>(他无法预见自己的行为后果。) |
+| pillar        | `/ˈpɪlər/`          | n. 柱子；支柱                | Education is a pillar of our society. <br>(教育是我们社会的支柱。) |
+| strategic     | `/strəˈtidʒɪk/`     | adj. 战略的；关键的          | They made a strategic decision to expand the business. <br>(他们做出了扩大业务的战略决策。) |
+| alliance      | `/əˈlaɪəns/`        | n. 联盟；同盟                | The two countries formed a military alliance. <br>(两国结成军事联盟。) |
+| flourish      | `/ˈflɜrɪʃ/`         | v. 繁荣；兴旺                | The company continued to flourish under his leadership. <br>(公司在他的领导下继续繁荣。) |
+| humiliate     | `/hjuˈmɪliˌeɪt/`    | v. 羞辱；使丢脸              | They tried to humiliate him in front of his friends. <br>(他们试图在他朋友面前羞辱他。) |
+| acute         | `/əˈkjut/`          | adj. 急性的；严重的；敏锐的    | He was admitted to the hospital with acute appendicitis. <br>(他因急性阑尾炎住院。)<br>She has an acute sense of smell. <br>(她的嗅觉很敏锐。) |
+| formidable    | `/ˈfɔrmɪdəbəl/`     | adj. 强大的；令人敬畏的       | The team faces a formidable opponent in the next match. <br>(球队将在下一场比赛中面对一个强大的对手。) |
+| empress       | `/ˈɛmprəs/`         | n. 女皇；皇后                | The empress ruled with wisdom and fairness. <br>(女皇以智慧和公平统治。) |
+| prospect      | `/ˈprɑspɛkt/`       | n. 前景；展望<br>v. 勘探     | n. The job offers a bright prospect for the future. <br>(这份工作为未来提供了光明的前景。)<br>v. They are prospecting for gold in the area. <br>(他们正在该地区勘探黄金。) |
+| hasty         | `/ˈheɪsti/`         | adj. 匆忙的；草率的          | Let's not make any hasty decisions. <br>(我们不要做任何草率的决定。) |
+| tame          | `/teɪm/`            | adj. 驯服的；温顺的<br>v. 驯服                 | adj. The lion at the zoo is quite tame. <br>(动物园里的狮子很温顺。)<br>v. They managed to tame the wild horse. <br>(他们成功驯服了野马。) |
+| maze          | `/meɪz/`            | n. 迷宫；错综复杂            | The garden is designed as a maze. <br>(花园被设计成一个迷宫。) |
+| mock          | `/mɑk/`             | v. 嘲笑；模仿<br>adj. 假的   | v. He mocked her accent. <br>(他嘲笑她的口音。)<br>adj. They had a mock trial for practice. <br>(他们进行了一个模拟审判以作练习。) |
+| wing          | `/wɪŋ/`             | n. 翅膀；翼<br>v. 飞行       | n. The bird injured its wing. <br>(鸟受伤了它的翅膀。)<br>v. The plane winged its way across the sky. <br>(飞机在天空中飞行。) |
+| sociopath     | `/ˈsoʊsiəˌpæθ/`     | n. 反社会者                 | The character in the movie is a dangerous sociopath. <br>(电影中的角色是一个危险的反社会者。) |
+| yearn         | `/jɜrn/`            | v. 渴望；向往               | He yearned for the days of his youth. <br>(他渴望年轻时的日子。) |
+| juicy         | `/ˈdʒusi/`          | adj. 多汁的；生动有趣的      | The steak was tender and juicy. <br>(牛排鲜嫩多汁。) |
+| foreign       | `/ˈfɔrən/`          | adj. 外国的；外来的          | She is fluent in several foreign languages. <br>(她能流利地说几种外语。) |
+| foreigner     | `/ˈfɔrənər/`        | n. 外国人                  | As a foreigner, he found the customs quite different. <br>(作为外国人，他发现这些习俗很不一样。) |
+| equator       | `/ɪˈkweɪtər/`       | n. 赤道                    | The country lies on the equator. <br>(这个国家位于赤道上。) |
+| brown         | `/braʊn/`           | adj. 棕色的<br>n. 棕色      | adj. She has brown eyes. <br>(她有一双棕色的眼睛。)<br>n. The color of the table is brown. <br>(这张桌子是棕色的。) |
+| skew          | `/skju/`            | v. 歪曲；偏斜<br>adj. 歪斜的 | v. The results were skewed by the small sample size. <br>(结果因样本量小而有偏差。)<br>adj. The picture on the wall is skew. <br>(墙上的画是歪的。) |
+
+
+
 ### Added: 2024.05.17
 
 Translator: ChatGPT 4o
@@ -136,12 +210,6 @@ Translator: ChatGPT 4o
 | bald          | `/bɔld/`       | adj. 秃头的；光秃的                  | He started going bald in his thirties. <br>(他在三十多岁时开始秃头。) |
 | slay          | `/sleɪ/`       | v. 杀死；屠杀                      | The knight vowed to slay the dragon. <br>(骑士发誓要杀死那条龙。) |
 | hardwire      | `/ˈhɑrdˌwaɪər/` | v. 硬接线；本能的                    | The house is hardwired for internet. <br>(这房子是为互联网布了硬线。) |
-
-请确认以上翻译是否符合你的要求，如果需要进一步调整，请告诉我。
-
-
-
-
 
 
 
