@@ -12,33 +12,33 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes~~
 
-| 单词           | 美式发音             | 词性 + 汉语释义              | 示例                                                         |
-|---------------|---------------------|----------------------------|--------------------------------------------------------------|
-| vulnerable    | `/ˈvʌlnərəbəl/`     | adj. 脆弱的；易受伤的         | Children are particularly vulnerable to illness. <br>(孩子们特别容易生病。) |
-| foresee       | `/fɔːrˈsiː/`        | v. 预见；预知                | He could not foresee the consequences of his actions. <br>(他无法预见自己的行为后果。) |
-| pillar        | `/ˈpɪlər/`          | n. 柱子；支柱                | Education is a pillar of our society. <br>(教育是我们社会的支柱。) |
-| pillow | `/ˈpɪloʊ/` | n. 枕头 | She bought a new pillow for the bed. |
-| strategic     | `/strəˈtiːdʒɪk/`   | adj. 战略的；关键的          | They made a strategic decision to expand the business. <br>(他们做出了扩大业务的战略决策。) |
-| alliance      | `/əˈlaɪəns/`        | n. 联盟；同盟                | The two countries formed a military alliance. <br>(两国结成军事联盟。) |
-| flourish      | `/ˈflɜːrɪʃ/`        | v. 繁荣；兴旺                | The company continued to flourish under his leadership. <br>(公司在他的领导下继续繁荣。) |
-| humiliate     | `/hjuːˈmɪlieɪt/ ` | v. 羞辱；使丢脸              | They tried to humiliate him in front of his friends. <br>(他们试图在他朋友面前羞辱他。) |
-| acute         | `/əˈkjut/`          | adj. 急性的；敏锐的  | He was admitted to the hospital with acute appendicitis. <br>(他因急性阑尾炎住院。)<br>She has an acute sense of smell. <br>(她的嗅觉很敏锐。) |
-| formidable    | `/ˈfɔrmɪdəbəl/`     | adj. 强大的；令人敬畏的       | The team faces a formidable opponent in the next match. <br>(球队将在下一场比赛中面对一个强大的对手。) |
-| empress       | `/ˈɛmprəs/`         | n. 女皇；皇后                | The empress ruled with wisdom and fairness. <br>(女皇以智慧和公平统治。) |
-| prospect      | `/ˈprɑːspɛkt/`  | n. 前景；展望<br>v. 勘探     | n. The job offers a bright prospect for the future. <br>(这份工作为未来提供了光明的前景。)<br>v. They are prospecting for gold in the area. <br>(他们正在该地区勘探黄金。) |
-| hasty         | `/ˈheɪsti/`         | adj. 匆忙的；草率的          | Let's not make any hasty decisions. <br>(我们不要做任何草率的决定。) |
-| tame          | `/teɪm/`            | adj. 驯服的；温顺的<br>v. 驯服  | adj. The lion at the zoo is quite tame. <br>(动物园里的狮子很温顺。)<br>v. They managed to tame the wild horse. <br>(他们成功驯服了野马。) |
-| maze          | `/meɪz/`            | n. 迷宫；错综复杂            | The garden is designed as a maze. <br>(花园被设计成一个迷宫。) |
-| mock          | `/mɑːk/`           | v. 嘲笑；模仿<br>adj. 假的   | v. He mocked her accent. <br>(他嘲笑她的口音。)<br>adj. They had a mock trial for practice. <br>(他们进行了一个模拟审判以作练习。) |
-| wing          | `/wɪŋ/`             | n. 翅膀；翼<br>v. 飞行       | n. The bird injured its wing. <br>(鸟受伤了它的翅膀。)<br>v. The plane winged its way across the sky. <br>(飞机在天空中飞行。) |
-| sociopath     | `/ˈsoʊsiəˌpæθ/`     | n. 反社会者                 | The character in the movie is a dangerous sociopath. <br>(电影中的角色是一个危险的反社会者。) |
-| yearn         | `/jɜːrn/`           | v. 渴望；向往               | He yearned for the days of his youth. <br>(他渴望年轻时的日子。) |
-| juicy         | `/ˈdʒuːsi/`         | adj. 多汁的；生动有趣的      | The steak was tender and juicy. <br>(牛排鲜嫩多汁。) |
-| foreign       | `/ˈfɔːrən/`         | adj. 外国的；外来的          | She is fluent in several foreign languages. <br>(她能流利地说几种外语。) |
-| foreigner     | `/ˈfɔrənər/`        | n. 外国人                  | As a foreigner, he found the customs quite different. <br>(作为外国人，他发现这些习俗很不一样。) |
-| equator       | `/ɪˈkweɪtər/`       | n. 赤道                    | The country lies on the equator. <br>(这个国家位于赤道上。) |
-| brown         | `/braʊn/`           | adj. 棕色的<br>n. 棕色      | adj. She has brown eyes. <br>(她有一双棕色的眼睛。)<br>n. The color of the table is brown. <br>(这张桌子是棕色的。) |
-| skew          | `/skjuː/`           | v. 歪曲；偏斜<br>adj. 歪斜的 | v. The results were skewed by the small sample size. <br>(结果因样本量小而有偏差。)<br>adj. The picture on the wall is skew. <br>(墙上的画是歪的。) |
+| 单词        | 美式发音           | 词性 + 汉语释义          | 示例                                                         |
+|------------|-------------------|--------------------|--------------------------------------------------------------|
+| vulnerable | `/ˈvʌlnərəbəl/`   | adj. 脆弱的；易受伤的      | Children are particularly vulnerable to illness. <br>(孩子们特别容易生病。) |
+| foresee    | `/fɔːrˈsiː/`      | v. 预见；预知           | He could not foresee the consequences of his actions. <br>(他无法预见自己的行为后果。) |
+| pillar     | `/ˈpɪlər/`        | n. 柱子；支柱           | Education is a pillar of our society. <br>(教育是我们社会的支柱。) |
+| pillow     | `/ˈpɪloʊ/`        | n. 枕头              | She bought a new pillow for the bed. |
+| strategic  | `/strəˈtiːdʒɪk/`  | adj. 战略的；关键的       | They made a strategic decision to expand the business. <br>(他们做出了扩大业务的战略决策。) |
+| alliance   | `/əˈlaɪəns/`      | n. 联盟；同盟           | The two countries formed a military alliance. <br>(两国结成军事联盟。) |
+| flourish   | `/ˈflɜːrɪʃ/`      | v. 繁荣；兴旺           | The company continued to flourish under his leadership. <br>(公司在他的领导下继续繁荣。) |
+| humiliate  | `/hjuːˈmɪlieɪt/ ` | v. 羞辱；使丢脸          | They tried to humiliate him in front of his friends. <br>(他们试图在他朋友面前羞辱他。) |
+| acute      | `/əˈkjut/`        | adj. 急性的；敏锐的       | He was admitted to the hospital with acute appendicitis. <br>(他因急性阑尾炎住院。)<br>She has an acute sense of smell. <br>(她的嗅觉很敏锐。) |
+| formidable | `/ˈfɔrmɪdəbəl/`   | adj. 强大的；令人敬畏的     | The team faces a formidable opponent in the next match. <br>(球队将在下一场比赛中面对一个强大的对手。) |
+| empress    | `/ˈɛmprəs/`       | n. 女皇；皇后           | The empress ruled with wisdom and fairness. <br>(女皇以智慧和公平统治。) |
+| prospect   | `/ˈprɑːspɛkt/`    | n. 前景；展望<br>v. 勘探  | n. The job offers a bright prospect for the future. <br>(这份工作为未来提供了光明的前景。)<br>v. They are prospecting for gold in the area. <br>(他们正在该地区勘探黄金。) |
+| hasty      | `/ˈheɪsti/`       | adj. 匆忙的；草率的       | Let's not make any hasty decisions. <br>(我们不要做任何草率的决定。) |
+| tame       | `/teɪm/`          | adj. 驯服的；温顺的<br>v. 驯服 | adj. The lion at the zoo is quite tame. <br>(动物园里的狮子很温顺。)<br>v. They managed to tame the wild horse. <br>(他们成功驯服了野马。) |
+| maze       | `/meɪz/`          | n. 迷宫；错综复杂         | The garden is designed as a maze. <br>(花园被设计成一个迷宫。) |
+| mock       | `/mɑːk/`          | v. 嘲笑；模仿<br>adj. 假的 | v. He mocked her accent. <br>(他嘲笑她的口音。)<br>adj. They had a mock trial for practice. <br>(他们进行了一个模拟审判以作练习。) |
+| wing       | `/wɪŋ/`           | n. 翅膀；翼<br>v. 飞行   | n. The bird injured its wing. <br>(鸟受伤了它的翅膀。)<br>v. The plane winged its way across the sky. <br>(飞机在天空中飞行。) |
+| sociopath  | `/ˈsoʊsiəˌpæθ/`   | n. 反社会者            | The character in the movie is a dangerous sociopath. <br>(电影中的角色是一个危险的反社会者。) |
+| yearn      | `/jɜːrn/`         | v. 渴望；向往           | He yearned for the days of his youth. <br>(他渴望年轻时的日子。) |
+| juicy      | `/ˈdʒuːsi/`       | adj. 多汁的；生动有趣的     | The steak was tender and juicy. <br>(牛排鲜嫩多汁。) |
+| foreign    | `/ˈfɔːrən/`       | adj. 外国的；外来的       | She is fluent in several foreign languages. <br>(她能流利地说几种外语。) |
+| foreigner  | `/ˈfɔrənər/`      | n. 外国人             | As a foreigner, he found the customs quite different. <br>(作为外国人，他发现这些习俗很不一样。) |
+| equator    | `/ɪˈkweɪtər/`     | n. 赤道              | The country lies on the equator. <br>(这个国家位于赤道上。) |
+| brown      | `/braʊn/`         | adj. 棕色的<br>n. 棕色  | adj. She has brown eyes. <br>(她有一双棕色的眼睛。)<br>n. The color of the table is brown. <br>(这张桌子是棕色的。) |
+| skew       | `/skjuː/`         | v. 歪曲；偏斜<br>adj. 歪斜的 | v. The results were skewed by the small sample size. <br>(结果因样本量小而有偏差。)<br>adj. The picture on the wall is skew. <br>(墙上的画是歪的。) |
 
 
 
