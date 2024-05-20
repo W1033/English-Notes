@@ -4,6 +4,41 @@
 
 ## ▲ 待编辑生词
 
+
+### Added: 2024.05.20
+
+Translator: ChatGPT 4o
+
+==校对：尚未校对==
+
+~~注：下面表格单词已写到 Goodnotes~~
+
+### 单词翻译表格
+
+| 单词             | 美式发音            | 词性 + 汉语释义              | 示例                                                         |
+|----------------|---------------------|----------------------------|--------------------------------------------------------------|
+| opponent       | `/əˈpoʊnənt/`       | n. 对手；反对者              | He defeated his opponent in the match. <br>(他在比赛中击败了对手。) |
+| pledge         | `/plɛdʒ/`           | n. 誓言；保证<br>v. 保证；发誓   | n. He made a pledge to support the cause. <br>(他誓言支持这个事业。)<br>v. They pledged to donate money. <br>(他们承诺捐款。) |
+| propaganda     | `/ˌprɑpəˈɡændə/`    | n. 宣传                     | The regime used propaganda to control the population. <br>(政权利用宣传控制民众。) |
+| propagate      | `/ˈprɑpəˌɡeɪt/`     | v. 传播；繁殖                | The plants propagate quickly in this climate. <br>(这些植物在这种气候下繁殖迅速。) |
+| messiah        | `/məˈsaɪə/`         | n. 救世主；救星              | Many saw him as a political messiah. <br>(许多人视他为政治救星。) |
+| sway           | `/sweɪ/`            | v. 摇摆；影响<br>n. 摇摆      | v. The trees swayed in the wind. <br>(树在风中摇摆。)<br>n. The sway of the boat made her feel sick. <br>(船的摇晃让她感到不适。) |
+| mock           | `/mɑk/`             | v. 嘲笑；模仿<br>adj. 假的    | v. He mocked her accent. <br>(他嘲笑她的口音。)<br>adj. They had a mock trial for practice. <br>(他们进行了一个模拟审判以作练习。) |
+| reverend       | `/ˈrɛvərənd/`       | n. 牧师                     | The reverend gave an inspiring sermon. <br>(牧师发表了鼓舞人心的布道。) |
+| lethal         | `/ˈliθəl/`          | adj. 致命的                 | The bite of this snake can be lethal. <br>(这种蛇的咬伤可能是致命的。) |
+| erg            | `/ɜrɡ/`             | n. 尔格（能量单位）            | One erg is a very small unit of energy. <br>(一尔格是一个非常小的能量单位。) |
+| paracompass    | `/ˈpærəkəmˌpæs/`    | n. 导航仪                   | The pilot checked the paracompass before takeoff. <br>(飞行员在起飞前检查了导航仪。) |
+| possess        | `/pəˈzɛs/`          | v. 拥有；控制                | He possesses great strength. <br>(他拥有巨大的力量。) |
+| plant          | `/plænt/`           | n. 植物；工厂<br>v. 种植      | n. This plant needs a lot of sunlight. <br>(这种植物需要很多阳光。)<br>v. She plans to plant a tree in the garden. <br>(她打算在花园里种一棵树。) |
+| nucleus        | `/ˈnukliəs/`        | n. 核；核心                  | The nucleus of an atom is very small. <br>(原子的核非常小。) |
+| submarine      | `/ˈsʌbməˌrin/`      | n. 潜水艇<br>adj. 海底的      | n. The submarine can stay underwater for months. <br>(潜水艇可以在水下待数月。)<br>adj. They discovered a submarine trench. <br>(他们发现了一条海底沟。) |
+| circular       | `/ˈsɜrkjələr/`      | adj. 圆形的；循环的           | The table has a circular shape. <br>(这张桌子是圆形的。) |
+| approximate    | `/əˈprɑksɪˌmeɪt/`   | v. 接近；估计<br>adj. 大约的   | v. The cost will approximate $100. <br>(费用将接近100美元。)<br>adj. The approximate time of arrival is 3 PM. <br>(大约的到达时间是下午3点。) |
+| approximately  | `/əˈprɑksɪmətli/`   | adv. 大约                    | The journey took approximately two hours. <br>(旅程大约花了两个小时。) |
+
+
+
+
 ### Added: 2024.05.19
 
 Translator: ChatGPT 4o
@@ -47,26 +82,27 @@ Translator: ChatGPT 4o
 
 Translator: ChatGPT 4o
 
-==校对：尚未与欧路词典、有道词典校对。==
+校对：已校对。
 
 ~~注：下面表格单词已写到 Goodnotes~~
 
 ### 单词翻译表格
 
-| 单词          | 美式发音         | 词性 + 汉语释义                     | 示例                                                         |
-|---------------|----------------|-------------------------------|--------------------------------------------------------------|
-| top           | `/tɑp/`        | n. 顶部；上端<br>v. 超越<br>adj. 最高的 | n. The top of the mountain is covered with snow. <br>(山顶被雪覆盖。)<br>v. She topped her previous score. <br>(她超过了她之前的分数。)<br>adj. He is the top student in the class. <br>(他是班上最优秀的学生。) |
-| goddamn       | `/ˈɡɑdˌdæm/`   | adj. 该死的（粗俗用语）                | This goddamn car won’t start! <br>(这该死的车发动不起来！)    |
-| wonky         | `/ˈwɑŋki/`     | adj. 摇晃的；不稳定的                 | The chair is wonky and needs fixing. <br>(椅子摇摇晃晃，需要修理。) |
-| capital       | `/ˈkæpɪtl/`    | n. 首都；资本<br>adj. 大写的；重要的      | n. Beijing is the capital of China. <br>(北京是中国的首都。)<br>adj. Write your name in capital letters. <br>(用大写字母写你的名字。) |
-| tame          | `/teɪm/`       | adj. 驯服的；温顺的<br>v. 驯服         | adj. The lion at the zoo is quite tame. <br>(动物园里的狮子很温顺。)<br>v. They managed to tame the wild horse. <br>(他们成功驯服了野马。) |
-| dig           | `/dɪɡ/`        | v. 挖掘<br>n. 挖掘                | v. He likes to dig in the garden. <br>(他喜欢在花园里挖掘。)<br>n. The dig uncovered ancient artifacts. <br>(这次挖掘发现了古代文物。) |
-| chop          | `/tʃɑp/`       | v. 切；砍<br>n. 排骨               | v. She chopped the vegetables for the salad. <br>(她把蔬菜切成沙拉用。)<br>n. He cooked lamb chops for dinner. <br>(他做了羊排作为晚餐。) |
-| plural        | `/ˈplʊrəl/`    | adj. 复数的<br>n. 复数             | adj. The word "children" is plural. <br>(“children”是复数。)<br>n. In English, many plurals are formed by adding "s" or "es". <br>(在英语中，许多复数是通过添加“s”或“es”形成的。) |
-| somehow       | `/ˈsʌmˌhaʊ/`   | adv. 以某种方式；不知怎么地              | Somehow, he managed to escape. <br>(他以某种方式设法逃脱了。) |
-| bald          | `/bɔld/`       | adj. 秃头的；光秃的                  | He started going bald in his thirties. <br>(他在三十多岁时开始秃头。) |
-| slay          | `/sleɪ/`       | v. 杀死；屠杀                      | The knight vowed to slay the dragon. <br>(骑士发誓要杀死那条龙。) |
-| hardwire      | `/ˈhɑrdˌwaɪər/` | v. 硬接线；本能的                    | The house is hardwired for internet. <br>(这房子是为互联网布了硬线。) |
+| 单词        | 美式发音        | 词性 + 汉语释义            | 示例                                                         |
+|-----------|-----------------|----------------------|--------------------------------------------------------------|
+| top       | `/tɑp/`         | n. 顶部；上端<br>v. 超越<br>adj. 最高的 | n. The top of the mountain is covered with snow. <br>(山顶被雪覆盖。)<br>v. She topped her previous score. <br>(她超过了她之前的分数。)<br>adj. He is the top student in the class. <br>(他是班上最优秀的学生。) |
+| goddamn   | `/ˈɡɑːdˌdæm/`   | adj. 该死的（粗俗用语）   | This goddamn car won’t start! <br>(这该死的车发动不起来！)    |
+| wonky     | `/ˈwɑŋki/`      | adj. 摇晃的；不稳定的     | The chair is wonky and needs fixing. <br>(椅子摇摇晃晃，需要修理。) |
+| capital   | `/ˈkæpɪtl/`     | n. 首都；资本；大写字母<br>adj. 大写的；重要的 | n. Beijing is the capital of China. <br>(北京是中国的首都。)<br>n. Paris is the capital of France. <br/>(巴黎是法国的首都。)<br/>adj. It was a capital mistake. <br/>(这是一个重大的错误。)<br />adj. Write your name in capital letters. <br>(用大写字母写你的名字。) |
+| dig       | `/dɪɡ/`         | v. 挖掘<br>n. 挖掘       | v. He likes to dig in the garden. <br>(他喜欢在花园里挖掘。)<br>n. The dig uncovered ancient artifacts. <br>(这次挖掘发现了古代文物。) |
+| digital   | `/ˈdɪdʒɪtl/`    | adj. 数字的；数码的       | a digital signal. 数字信号。<br />Digital Signature. 数字签名/签章<br />She bought a new digital camera. <br>(她买了一台新数码相机。) |
+| digit     | `/ˈdɪdʒɪt/`     | n. 数字；数位；手指       | The number 547 has three digits. <br>(数字547有三位数。)<br>She accidentally cut her digit while cooking. <br>(她在做饭时不小心割伤了手指。) |
+| chop      | `/tʃɑːp/`       | v. 切；砍<br>n. 排骨     | v. She chopped the vegetables for the salad. <br>(她把蔬菜切成沙拉用。)<br>n. He cooked lamb chops for dinner. <br>(他做了羊排作为晚餐。) |
+| plural    | `/ˈplʊrəl/`     | n. 复数<br>adj. 复数的   | n. In English, many plurals are formed by adding "s" or "es". <br>(在英语中，许多复数形式是通过添加“s”或“es”形成的。)<br>adj. The word "children" is plural. <br>(“children”是复数的。) |
+| somehow   | `/ˈsʌmhaʊ/`     | adv. 以某种方式；不知怎么地 | Somehow, he managed to escape. <br>(他以某种方式设法逃脱了。) |
+| bald      | `/bɒːld/`       | adj. 秃头的；光秃的        | He started going bald in his thirties. <br>(他在三十多岁时开始秃头。) |
+| slay      | `/sleɪ/`        | v. 杀死；杀害             | The knight vowed to slay the dragon. <br>(骑士发誓要杀死那条龙。)<br>The criminal was sentenced for slaying innocent people. <br>(罪犯因杀害无辜者而被判刑。) |
+| hardwire  | `/ˈhɑrdˌwaɪər/` | v. 硬接线；固有           | The house is hardwired for internet. <br>(这房子布了硬线以便接入互联网。)<br>Humans are hardwired to seek social connections. <br>(人类天生有寻求社交联系的倾向。) |
 
 
 
@@ -249,6 +285,7 @@ Translator: ChatGPT 4 + 4o
 
 
 ### Added: 2024.05.09
+
 Translator: ChatGPT 4 + 4o
 
 ~~注：下面表格单词已写到 Goodnotes~~
@@ -263,7 +300,6 @@ Translator: ChatGPT 4 + 4o
 | dough          | `/doʊ/`            | n. 生面团               | She rolled the dough into a flat circle. <br>(她将面团擀成一个平圆形。) |
 | premier        | `/prɪˈmɪr/`        | n. 总理；首相<br>adj. 首要的；最好的 | n. The premier will address the nation tonight. <br>(总理将于今晚向国家发表讲话。)<br>adj. It's the premier event of the year. <br>(这是一年中最重要的事件。) |
 | surveillance   | `/sərˈveɪləns/`    | n. 监视                | The police have the house under surveillance. <br>(警察对这所房子进行了监视。) |
-| capital        | `/ˈkæpɪtl/`        | n. 首都；资本；大写<br>adj. 大写的；主要的 | n. Paris is the capital of France. <br>(巴黎是法国的首都。)<br>adj. It was a capital mistake. <br>(这是一个重大的错误。) |
 | theorize       | `/ˈθɪəraɪz/`       | v. 推理；建立理论        | He likes to theorize about economic issues. <br>(他喜欢对经济问题进行理论推理。) |
 | pot            | `/pɑt/`            | n. 罐；壶              | She put the coffee pot on to brew. <br>(她把咖啡壶放上去煮。) |
 | pod            | `/pɑːd/`           | n. 豆荚                | The seeds are in the pod. <br>(种子在豆荚里。)<br />a pea pod. 豌豆荚 |
@@ -837,7 +873,6 @@ ChatGPT 4.0 translations
 | ----------- | ---------------- | -------------------------- | ------------------------------------------------------------ |
 | post        | `/poʊst/`        | n. 邮件；柱子<br>v. 发布，张贴 | n. She checked the mail at the post office.<br>(她在邮局检查邮件。)<br>v. He posted the notice on the bulletin board.<br>(他在公告板上张贴了通知。) |
 | compilation | `/ˌkɒmpɪˈleɪʃn/ | n. 编辑，汇编                | He published a compilation of his poetry.<br>(他出版了一本自己诗歌的汇编。) |
-| digital     | `/ˈdɪdʒɪtl/     | adj. 数字的，数码的           | She prefers digital books over paper ones.<br>(她更喜欢电子书而不是纸质书。) |
 | note        | `/noʊt/         | n. 笔记；便条<br>v. 注意，记录 | n. She left a note on the fridge.<br>(她在冰箱上留了个便条。)<br>v. Please note the changes in the schedule.<br>(请注意时间表的变动。) |
 | herring     | `/ˈhɛrɪŋ/       | n. 鲱鱼                     | He bought some herring at the fish market.<br>(他在鱼市买了一些鲱鱼。) |
 | presume     | `/prɪˈzum/      | v. 假设，推测                | I presume that the meeting will end late.<br>(我推测会议会很晚结束。) |
