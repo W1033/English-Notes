@@ -62,6 +62,55 @@ advantage `/ədˈvæntɪdʒ/` 和 advice `/əd'vaɪs/`，读音中第一个是�
 
 
 
+## ▲ 复合介词
+
+### 复合介词（Compound Prepositions）
+复合介词是由两个或更多的词组合而成的介词。它们用来表示时间、位置、方向等关系，比单个介词表达得更具体或复杂。例如，“up on”就是一个常见的复合介词。
+
+### “Up on” 作为复合介词
+**“Up on”** 在英语中用来表达某物的位置相对较高或者位于某个特定的高处区域。它可以用来描述具体的物理位置关系，强调某物不仅仅是在另一物体的上方，而且在其上面的高处或顶部区域。这种表达常见于描述物体相对于观察者的位置或者相对于另一物体的上层位置。
+
+### 用法示例
+- **“The cat is up on the roof.”** （猫在屋顶上。）
+    + 这里，“up on”表达猫不仅在屋顶这个位置，还强调了屋顶的高度或上层位置。
+
+- **“Put the books up on the top shelf.”** （把书放到顶层的架子上。）
+    + “up on”在这里用来指示书籍放置的具体位置，即顶层架子。
+
+复合介词能够提供比单一介词更丰富的空间和方向信息，它们在日常英语对话和书面表达中非常有用，尤其是在需要精确描述位置关系时。
+
+复合介词在英语中广泛用于描述事物之间的复杂关系，尤其是位置、时间和逻辑关系。下面是一些常见的复合介词的表格，包括它们的用途和例句：
+
+| 复合介词          | 用途描述                   | 示例句子                             |
+|----------------|--------------------------|------------------------------------|
+| according to   | 根据                       | According to the report, sales have increased. |
+| apart from     | 除了                       | Apart from the cold weather, the trip was great. |
+| as for         | 至于                       | As for me, I prefer tea over coffee. |
+| as of          | 从…开始                    | As of Monday, the new policy will take effect. |
+| as per         | 根据，按照                  | As per your request, we have updated your information. |
+| as to          | 关于                       | I am uncertain as to why he acted that way. |
+| aside from     | 除了                       | Aside from a few scratches, the car was fine. |
+| because of     | 因为                       | We were late because of the traffic. |
+| close to       | 接近于                     | The hotel is close to the beach. |
+| due to         | 由于                       | The game was postponed due to rain. |
+| except for     | 除了                       | Everyone was invited except for John. |
+| far from       | 远离                       | His behavior is far from acceptable. |
+| in addition to | 除了…还                    | In addition to the salad, she ordered a soup. |
+| in front of    | 在…前面                    | He parked the car in front of the store. |
+| in spite of    | 尽管                       | In spite of the pain, he finished the race. |
+| next to        | 紧挨着                     | She sat next to her friend at the concert. |
+| on account of  | 因为                       | The match was cancelled on account of the storm. |
+| on behalf of   | 代表                       | On behalf of my team, I would like to thank you. |
+| on top of      | 在…之上，除此之外还有       | On top of the fridge, there's a jar. |
+| out of         | 从…中出来                   | He ran out of the room quickly. |
+| prior to       | 在…之前                    | Prior to the meeting, please read the documents. |
+| with regard to | 关于                       | We will discuss the budget with regard to your comments. |
+| with respect to| 关于                       | With respect to that matter, I have nothing to add. |
+
+这些复合介词可以帮助您准确地表达一系列复杂的关系和情况。理解并熟练使用这些介词将大大增强您的英语表达能力。如果您需要更多的解释或有其他问题，欢迎随时提问！
+
+
+
 ## ▲ 英语相似词汇/短语汇总
 
 ### die, pass way, perish
@@ -344,7 +393,7 @@ ChatGPT 4.0 translations
 
 
 
-## 备份格式比较好的单词记录方式
+## ▲ 备份格式比较好的单词记录方式
 
 *Added: 2024.01.31*
 
