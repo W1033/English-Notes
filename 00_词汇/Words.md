@@ -12,20 +12,20 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes~~
 
-| 单词       | 美式发音        | 词性 + 汉语释义                         | 示例                                                         |
-|------------|-----------------|----------------------------------------|--------------------------------------------------------------|
-| activity   | `/ækˈtɪvɪti/`   | n. 活动                                | The children enjoyed the outdoor activities. <br>(孩子们喜欢户外活动。) |
-| onion      | `/ˈʌnjən/`      | n. 洋葱                                | She added chopped onions to the salad. <br>(她在沙拉里加了切碎的洋葱。) |
-| evaluation | `/ɪˌvæljuˈeɪʃən/`| n. 评估                                | The evaluation of the project will be completed soon. <br>(项目的评估将很快完成。) |
-| specialise | `/ˈspɛʃəˌlaɪz/` | v. 专门研究；专攻                      | She specializes in modern art. <br>(她专攻现代艺术。)         |
-| vacation   | `/veɪˈkeɪʃən/`  | n. 假期                                | We are planning a vacation to the beach. <br>(我们计划去海滩度假。) |
-| mandarin   | `/ˈmændərɪn/`   | n. 橘子；普通话                        | She peeled a mandarin for a snack. <br>(她剥了一只橘子作为零食。)<br>Mandarin is the official language of China. <br>(普通话是中国的官方语言。) |
-| tangerine  | `/ˌtændʒəˈrin/` | n. 橘子                                | He likes the sweet taste of tangerines. <br>(他喜欢橘子的甜味。) |
-| mung       | `/mʌŋ/`         | n. 绿豆                                | Mung beans are often used in Asian cuisine. <br>(绿豆经常用于亚洲菜肴。) |
-| pomelo     | `/ˈpɑməloʊ/`    | n. 柚子                                | Pomelos are larger than grapefruits. <br>(柚子比葡萄柚大。)  |
-| grapefruit | `/ˈɡreɪpˌfrut/` | n. 葡萄柚                              | She had half a grapefruit for breakfast. <br>(她早餐吃了半个葡萄柚。) |
-| cilantro   | `/sɪˈlɑnˌtroʊ/` | n. 芫荽叶                              | Cilantro is often used in Mexican dishes. <br>(芫荽叶常用于墨西哥菜。) |
-| coriander  | `/ˌkɔriˈændər/` | n. 香菜                                | Coriander seeds are used as a spice. <br>(香菜种子被用作香料。) |
+| 单词       | 美式发音              | 词性 + 汉语释义     | 示例                                                         |
+|------------|-------------------|-----------------|--------------------------------------------------------------|
+| activity   | `/ækˈtɪvɪti/`     | n. 活动         | The children enjoyed the outdoor activities. <br>(孩子们喜欢户外活动。) |
+| onion      | `/ˈʌnjən/`        | n. 洋葱         | She added chopped onions to the salad. <br>(她在沙拉里加了切碎的洋葱。) |
+| evaluation | `/ɪˌvæljuˈeɪʃən/` | n. 评估         | The evaluation of the project will be completed soon. <br>(项目的评估将很快完成。) |
+| specialise | `/ˈspɛʃəˌlaɪz/`   | v. 专门研究；专攻 | She specializes in modern art. <br>(她专攻现代艺术。)         |
+| vacation   | `/veɪˈkeɪʃən/`    | n. 假期         | We are planning a vacation to the beach. <br>(我们计划去海滩度假。) |
+| mandarin   | `/ˈmændərɪn/`     | n. 橘子；普通话   | She peeled a mandarin for a snack. <br>(她剥了一只橘子作为零食。)<br>Mandarin is the official language of China. <br>(普通话是中国的官方语言。) |
+| tangerine  | `/ˌtændʒəˈrin/`   | n. 橘子         | He likes the sweet taste of tangerines. <br>(他喜欢橘子的甜味。) |
+| mung       | `/mʌŋ/`           | n. 绿豆         | Mung beans are often used in Asian cuisine. <br>(绿豆经常用于亚洲菜肴。) |
+| pomelo     | `/ˈpɑməloʊ/`      | n. 柚子         | Pomelos are larger than grapefruits. <br>(柚子比葡萄柚大。)  |
+| grapefruit | `/ˈɡreɪpˌfrut/`   | n. 葡萄柚        | She had half a grapefruit for breakfast. <br>(她早餐吃了半个葡萄柚。) |
+| cilantro   | `/sɪˈlɑnˌtroʊ/`   | n. 芫荽叶        | Cilantro is often used in Mexican dishes. <br>(芫荽叶常用于墨西哥菜。) |
+| coriander  | `/ˌkɔriˈændər/`   | n. 香菜         | Coriander seeds are used as a spice. <br>(香菜种子被用作香料。) |
 
 
 
@@ -39,120 +39,131 @@ Translator: ChatGPT 4o
 
 **校对：已校对**
 
-| 单词           | 美式发音              | 词性 + 汉语释义         | 示例                                                                                                                            |
-|---------------|----------------------|---------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| kidnap        | `/ˈkɪdnæp/`          | v. 绑架 | The criminals planned to kidnap the wealthy businessman. <br>(罪犯计划绑架富商。) |
-| kidnapping    | `/ˈkɪdnæpɪŋ/`        | n. 绑架             | The police are investigating the kidnapping. <br>(警方正在调查这起绑架案。)                                                               |
-| minor         | `/ˈmaɪnər/`          | adj. 次要的；轻微的<br>n. 未成年人 | adj. He suffered minor injuries. <br>(他受了轻伤。)<br>n. She is still a minor. <br>(她仍然是未成年人。)                                     |
-| prosecute     | `/ˈprɑːsɪkjut/`      | v. 起诉；检举          | Not to prosecute: 不起诉<br />The state will prosecute the criminal. <br>(国家将起诉这个罪犯。)                                      |
-| walkie        | `/ˈwɔki/`            | n. 对讲机            | They communicated using walkies. <br>(他们用对讲机交流。)                                                                              |
-| itchy         | `/ˈɪtʃi/`            | adj. 发痒的          | The sweater is itchy. <br>(这件毛衣很痒。)<br />an itchy rash发痒的皮疹                                                                   |
-| bra           | `/brɑ/`              | n. 胸罩             | She bought a new bra. <br>(她买了件新胸罩。)                                                                                          |
-| pinch         | `/pɪntʃ/`            | v. 捏；掐<br>n. 少量   | v. He pinched her cheek. <br>(他捏了她的脸颊。)<br>n. Add a pinch of salt. <br>(加一点盐。)                                                |
-| boob          | `/buːb/`             | n. （口语）傻瓜，蠢货；乳房   | Don't be such a boob, it's obvious that she's not interested in you.<br />(别这么蠢，很明显她对你没兴趣。)<br/>I feel like a boob for forgetting my umbrella on such a rainy day.<br />(我今天忘了自己的伞，感觉自己太蠢了。)<br />She complained about her boobs being sore. <br>(她抱怨胸部疼痛。) |
-| inevitable    | `/ɪˈnevətəbəl/`      | adj. 不可避免的        | Death is inevitable. <br>(死亡是不可避免的。)                                                                                          |
-| strangulation | `/ˌstræŋɡjəˈleɪʃən/` | n. 扼杀；勒死          | The cause of death was strangulation. <br>(死亡原因是勒死。)                                                                          |
-| colossal      | `/kəˈlɑːsəl/`        | adj. 巨大的          | The statue is colossal. <br>(这座雕像很巨大。)                                                                                        |
-| counselor     | `/ˈkaʊnsələr/`       | n. 顾问；辅导员         | She is a school counselor. <br>(她是学校的辅导员。)                                                                                    |
-| massacre      | `/ˈmæsəkər/`         | n. 大屠杀<br>v. 屠杀   | n. The massacre shocked the world. <br>(这次大屠杀震惊了世界。)<br>v. The soldiers massacred the villagers. <br>(士兵们屠杀了村民。)              |
-| sob           | `/sɑːb/`             | v. 哭泣；啜泣<br>n. 哭泣 | v. She sobbed uncontrollably. <br>(她不由自主地哭泣。)<br>n. His sobs could be heard across the room. <br>(他的哭声在房间里回荡。)                |
-| spot          | `/spɑːt/`            | n. 斑点；地点<br>v. 发现 | n. There is a spot on your shirt. <br>(你的衬衫上有个斑点。)<br>n. a nice quiet spot on the beach<br />海滩上一个安静的好地方<br />v. She spotted him in the crowd. <br>(她在人群中看到了他。) |
-| ignite        | `/ɪɡˈnaɪt/`          | v. 点燃；激起                      | The match ignited the fire. <br>(火柴点燃了火。)<br />events which ignited the war in Europe.<br />(点燃欧洲战火的事件。)                   |
-| belt          | `/bɛlt/`             | n. 皮带；地带<br>v. 用带系 | n. He wore a leather belt. <br>(他系了一条皮带。)<br>n.American's farming belt. <br>(美国农业区。)<br>v. She belted her coat. <br>(她系上了大衣。) |
-| karate        | `/kəˈrɑːti/`         | n. 空手道〔一种日本武术〕    | He is a black belt in karate. <br>(他是空手道黑带。)                                                                                  |
-| cockpit       | `/ˈkɑːkˌpɪt/`        | n.〔飞机、赛车的〕驾驶舱    | The pilot entered the cockpit. <br>(飞行员进入了驾驶舱。)                                                                               |
-| chore         | `/tʃɔːr/`            | n. 家务；杂事          | He helps with household chores. <br>(他帮忙做家务。)                                                                                 |
-| vast          | `/væst/`             | adj. 广阔的；巨大的      | The desert is vast. <br>(沙漠很广阔。)<br />The vast plains stretch for miles.<br />(辽阔的平原延伸数英里。)                                   |
-| rebellion     | `/rɪˈbɛljən/`        | n. 叛乱             | an armed rebellion. 武装叛乱。<br />The rebellion was quickly suppressed. <br>(叛乱很快被镇压了。)                                        |
-| rebellious    | `/rɪˈbɛljəs/`        | adj. 叛逆的          | He has a rebellious nature. <br>(他有叛逆的性格。)                                                                                    |
-| startle       | `/ˈstɑːrtəl/`        | v. 惊吓             | The loud noise startled me. <br>(巨大的噪音吓了我一跳。)<br />Sorry, I didn't mean to startle you. <br />(抱歉，我不是故意吓你一跳的。)             |
+| 单词           | 美式发音              | 词性 + 汉语释义            | 示例                                                       |
+|---------------|----------------------|----------------------|----------------------------------------------------------|
+| kidnap        | `/ˈkɪdnæp/`          | v. 绑架                | The criminals planned to kidnap the wealthy businessman. <br>(罪犯计划绑架富商。) |
+| kidnapping    | `/ˈkɪdnæpɪŋ/`        | n. 绑架                | The police are investigating the kidnapping. <br>(警方正在调查这起绑架案。) |
+| minor         | `/ˈmaɪnər/`          | adj. 次要的；轻微的<br>n. 未成年人 | adj. He suffered minor injuries. <br>(他受了轻伤。)<br>n. She is still a minor. <br>(她仍然是未成年人。) |
+| prosecute     | `/ˈprɑːsɪkjut/`      | v. 起诉；检举             | Not to prosecute: 不起诉<br />The state will prosecute the criminal. <br>(国家将起诉这个罪犯。) |
+| walkie        | `/ˈwɔki/`            | n. 对讲机               | They communicated using walkies. <br>(他们用对讲机交流。)         |
+| itchy         | `/ˈɪtʃi/`            | adj. 发痒的             | The sweater is itchy. <br>(这件毛衣很痒。)<br />an itchy rash发痒的皮疹 |
+| bra           | `/brɑ/`              | n. 胸罩                | She bought a new bra. <br>(她买了件新胸罩。)                     |
+| pinch         | `/pɪntʃ/`            | v. 捏；掐<br>n. 少量      | v. He pinched her cheek. <br>(他捏了她的脸颊。)<br>n. Add a pinch of salt. <br>(加一点盐。) |
+| boob          | `/buːb/`             | n. （口语）傻瓜，蠢货；乳房      | Don't be such a boob, it's obvious that she's not interested in you.<br />(别这么蠢，很明显她对你没兴趣。)<br/>I feel like a boob for forgetting my umbrella on such a rainy day.<br />(我今天忘了自己的伞，感觉自己太蠢了。)<br />She complained about her boobs being sore. <br>(她抱怨胸部疼痛。) |
+| inevitable    | `/ɪˈnevətəbəl/`      | adj. 不可避免的           | Death is inevitable. <br>(死亡是不可避免的。)                     |
+| strangulation | `/ˌstræŋɡjəˈleɪʃən/` | n. 扼杀；勒死             | The cause of death was strangulation. <br>(死亡原因是勒死。)     |
+| colossal      | `/kəˈlɑːsəl/`        | adj. 巨大的             | The statue is colossal. <br>(这座雕像很巨大。)                   |
+| counselor     | `/ˈkaʊnsələr/`       | n. 顾问；辅导员            | She is a school counselor. <br>(她是学校的辅导员。)               |
+| massacre      | `/ˈmæsəkər/`         | n. 大屠杀<br>v. 屠杀      | n. The massacre shocked the world. <br>(这次大屠杀震惊了世界。)<br>v. The soldiers massacred the villagers. <br>(士兵们屠杀了村民。) |
+| sob           | `/sɑːb/`             | v. 哭泣；啜泣<br>n. 哭泣    | v. She sobbed uncontrollably. <br>(她不由自主地哭泣。)<br>n. His sobs could be heard across the room. <br>(他的哭声在房间里回荡。) |
+| spot          | `/spɑːt/`            | n. 斑点；地点<br>v. 发现    | n. There is a spot on your shirt. <br>(你的衬衫上有个斑点。)<br>n. a nice quiet spot on the beach<br />海滩上一个安静的好地方<br />v. She spotted him in the crowd. <br>(她在人群中看到了他。) |
+| ignite        | `/ɪɡˈnaɪt/`          | v. 点燃；激起             | The match ignited the fire. <br>(火柴点燃了火。)<br />events which ignited the war in Europe.<br />(点燃欧洲战火的事件。) |
+| belt          | `/bɛlt/`             | n. 皮带；地带<br>v. 用带系   | n. He wore a leather belt. <br>(他系了一条皮带。)<br>n.American's farming belt. <br>(美国农业区。)<br>v. She belted her coat. <br>(她系上了大衣。) |
+| karate        | `/kəˈrɑːti/`         | n. 空手道〔一种日本武术〕       | He is a black belt in karate. <br>(他是空手道黑带。)             |
+| cockpit       | `/ˈkɑːkˌpɪt/`        | n.〔飞机、赛车的〕驾驶舱        | The pilot entered the cockpit. <br>(飞行员进入了驾驶舱。)          |
 
 
 **校对：已校对**
 
-| 单词           | 美式发音            | 词性 + 汉语释义        | 示例                                                         |
-|---------------|--------------------|------------------|--------------------------------------------------------------|
-| despise       | `/dɪˈspaɪz/`       | v. 鄙视；看不起        | I despise dishonesty. <br>(我鄙视不诚实。)<br />She despised her neighbours.  她看不起她的邻居。<br />I despise you. 我鄙视你(们) |
-| institute     | `/ˈɪnstɪtuːt/`     | n. 机构；研究所<br>v. 制定（制度﹑规则等） | n. He works at a research institute. <br>(他在一家研究所工作。)<br>n. the Institute for Space Studies. 太空研究所<br />v. The company instituted new policies. <br>(公司制定了新政策。) |
-| odd           | `/ɑːd/`            | adj. 奇怪的；奇数的     | It was an odd thing to say.这话说得很奇怪。<br/> an odd way to behave. 古怪的行为。<br/> They’re an odd couple. 他们是古怪的一对。<br/> There was something odd about him. 他这人有些奇怪。<br />He has some odd habits. <br>(他有一些奇怪的习惯。) |
-| odds          | `/ɑːdz/`           | n. 可能性；几率        | What are the odds of winning? <br>(获胜的几率是多少？) |
-| devious       | `/ˈdiːviəs/`       | adj. 狡猾的；迂回的     | a devious politician. 一名不诚实的政客<br />He took a devious route home. <br>(他选择了一条迂回的路线回家。) |
-| crate         | `/kreɪt/`          | n. 板条箱           | wooden crate. 木箱。<br />They shipped the goods in a large crate. <br>(他们用大板条箱运送货物。) |
-| scale         | `/skeɪl/`          | n. 规模；比例；音节；鳞片<br>v. 攀登 | n. The scale of the project is impressive. <br>(项目的规模令人印象深刻。)<br> n. The map is drawn to scale. <br>(这张地图是按比例绘制的。)<br> n. She practiced the musical scale. <br>(她练习音阶。)<br> n. Fish have scales on their bodies. <br>(鱼身上有鳞片。)<br>v. They scaled the mountain. <br>(他们攀登了那座山。) |
+| 单词           | 美式发音            | 词性 + 汉语释义                    | 示例                                                         |
+|---------------|--------------------|------------------------------|--------------------------------------------------------------|
+| despise       | `/dɪˈspaɪz/`       | v. 鄙视；看不起                    | I despise dishonesty. <br>(我鄙视不诚实。)<br />She despised her neighbours.  她看不起她的邻居。<br />I despise you. 我鄙视你(们) |
+| institute     | `/ˈɪnstɪtuːt/`     | n. 机构；研究所<br>v. 制定（制度﹑规则等）   | n. He works at a research institute. <br>(他在一家研究所工作。)<br>n. the Institute for Space Studies. 太空研究所<br />v. The company instituted new policies. <br>(公司制定了新政策。) |
+| odd           | `/ɑːd/`            | adj. 奇怪的；奇数的                 | It was an odd thing to say.这话说得很奇怪。<br/> an odd way to behave. 古怪的行为。<br/> They’re an odd couple. 他们是古怪的一对。<br/> There was something odd about him. 他这人有些奇怪。<br />He has some odd habits. <br>(他有一些奇怪的习惯。) |
+| odds          | `/ɑːdz/`           | n. 可能性；几率                    | What are the odds of winning? <br>(获胜的几率是多少？) |
+| devious       | `/ˈdiːviəs/`       | adj. 狡猾的；迂回的                 | a devious politician. 一名不诚实的政客<br />He took a devious route home. <br>(他选择了一条迂回的路线回家。) |
+| crate         | `/kreɪt/`          | n. 板条箱                       | wooden crate. 木箱。<br />They shipped the goods in a large crate. <br>(他们用大板条箱运送货物。) |
+| scale         | `/skeɪl/`          | n. 规模；比例；音节；鳞片<br>v. 攀登      | n. The scale of the project is impressive. <br>(项目的规模令人印象深刻。)<br> n. The map is drawn to scale. <br>(这张地图是按比例绘制的。)<br> n. She practiced the musical scale. <br>(她练习音阶。)<br> n. Fish have scales on their bodies. <br>(鱼身上有鳞片。)<br>v. They scaled the mountain. <br>(他们攀登了那座山。) |
 | pop           | `/pɑːp/`           | n. 流行音乐；汽水<br>v. 突然出现；发出砰的响声 | n. She loves listening`/'lisəniŋ/` to pop music. <br>(她喜欢听流行音乐。)<br>n. a bottle of pop. 一瓶汽水。<br />v. The balloon popped. <br>(气球突然破了。)<br />v. The top button popped off my shirt.<br />我衬衫最上面的那颗纽扣突然掉了下来。 |
-| pope          | `/poʊp/`           | n. 教皇            | The pope visited several countries. <br>(教皇访问了几个国家。) |
-| scope         | `/skoʊp/`          | n. 范围；视野         | The scope of the study is broad. <br>(这项研究的范围很广。)   |
-| inappropriate | `/ˌɪnəˈproʊpriət/` | adj. 不适当的        | His comments were highly inappropriate. <br>(他的评论非常不适当。)<br />be inappropriate for. 不适当的；不合适的。<br />I feel the remark was inappropriate for such a serious issue. <br />我觉得对如此严肃的问题来说，这评论是不恰当的。 |
-| Indonesia     | `/ˌɪndoʊˈniːʒə/`   | n. 印度尼西亚         | Indonesia is known for its beautiful islands. <br>(印度尼西亚以其美丽的岛屿而闻名。) |
-| ban           | `/bæn/`            | n. 禁止<br>v. 禁止   | n. There is a ban on plastic bags. <br>(禁止使用塑料袋。)<br>v. They banned smoking in public places. <br>(他们禁止在公共场所吸烟。) |
-| kindred       | `/ˈkɪn.drəd/`      | n. 亲属<br>adj. 同类的 | n. They are kindred spirits. <br>(他们是心灵相通的人。)<br>adj. We have kindred interests. <br>(我们有相似的兴趣。) |
-| roulette      | `/ruːˈlɛt/`        | n. 轮盘赌           | He lost a lot of money playing roulette. <br>(他在玩轮盘赌时输了很多钱。) |
-| senior        | `/ˈsiːniər/`       | adj. 高级的；年长的<br>n. 老人；高年级学生 | adj. He holds a senior position in the company. <br/>(他在公司担任高级职位。)<br/>adj. She is senior to me by five years. <br/>(她比我年长五岁。)<br/>n. The seniors are preparing for graduation. <br/>(高年级学生正在准备毕业。)<br/>n. The senior center offers activities for the elderly. <br/>(老年中心为老人提供活动。) |
+| pope          | `/poʊp/`           | n. 教皇                        | The pope visited several countries. <br>(教皇访问了几个国家。) |
+| scope         | `/skoʊp/`          | n. 范围；视野                     | The scope of the study is broad. <br>(这项研究的范围很广。)   |
+| inappropriate | `/ˌɪnəˈproʊpriət/` | adj. 不适当的                    | His comments were highly inappropriate. <br>(他的评论非常不适当。)<br />be inappropriate for. 不适当的；不合适的。<br />I feel the remark was inappropriate for such a serious issue. <br />我觉得对如此严肃的问题来说，这评论是不恰当的。 |
+| Indonesia     | `/ˌɪndoʊˈniːʒə/`   | n. 印度尼西亚                     | Indonesia is known for its beautiful islands. <br>(印度尼西亚以其美丽的岛屿而闻名。) |
+| ban           | `/bæn/`            | n. 禁止<br>v. 禁止               | n. There is a ban on plastic bags. <br>(禁止使用塑料袋。)<br>v. They banned smoking in public places. <br>(他们禁止在公共场所吸烟。) |
+| kindred       | `/ˈkɪn.drəd/`      | n. 亲属<br>adj. 同类的            | n. They are kindred spirits. <br>(他们是心灵相通的人。)<br>adj. We have kindred interests. <br>(我们有相似的兴趣。) |
+| roulette      | `/ruːˈlɛt/`        | n. 轮盘赌                       | He lost a lot of money playing roulette. <br>(他在玩轮盘赌时输了很多钱。) |
+| senior        | `/ˈsiːniər/`       | adj. 高级的；年长的<br>n. 老人；高年级学生  | adj. He holds a senior position in the company. <br/>(他在公司担任高级职位。)<br/>adj. She is senior to me by five years. <br/>(她比我年长五岁。)<br/>n. The seniors are preparing for graduation. <br/>(高年级学生正在准备毕业。)<br/>n. The senior center offers activities for the elderly. <br/>(老年中心为老人提供活动。) |
 | junior        | `/ˈdʒuːniər/`      | adj. 级别低的；年少的<br>n. 晚辈；低年级学生 | adj. He is a junior employee. <br>(他是一个级别低(/资历较浅)的员工。)<br>adj. She is two years junior to me. (她比我小两岁。)<br/>n. He is a junior in the legal firm.<br/>(他是律师事务所的初级员工(晚辈)。)<br />n. The juniors are having a meeting. <br>(低年级学生正在开会。) |
-| pregnant      | `/ˈprɛɡnənt/`      | adj. 怀孕的         | She is pregnant with her first child. <br>(她怀了第一个孩子。) |
-| stool         | `/stuːl/`          | n. 凳子；粪便         | He sat on a bar stool. <br>(他坐在吧台凳上。) |
-| mechanic      | `/məˈkænɪk/`       | n. 机械师；技工        | The mechanic fixed the car. <br>(机械师修好了车。) |
-| invade        | `/ɪnˈveɪd/`        | v. 入侵；侵略         | The army invaded the country. <br>(军队入侵了这个国家。) |
-| imperial      | `/ɪmˈpɪriəl/`      | adj. 帝国的         | The imperial palace is a popular tourist attraction. <br>(皇宫是一个受欢迎的旅游景点。) |
-| inaction      | `/ɪnˈækʃən/`       | n. 不作为           | The government's inaction led to widespread criticism. <br>(政府的不作为引发了广泛的批评。) |
-| calculus      | `/ˈkælkjələs/`     | n. 微积分           | She is studying calculus in college. <br>(她在大学学习微积分。) |
+| pregnant      | `/ˈprɛɡnənt/`      | adj. 怀孕的                     | She is pregnant with her first child. <br>(她怀了第一个孩子。) |
+| stool         | `/stuːl/`          | n. 凳子；粪便                     | He sat on a bar stool. <br>(他坐在吧台凳上。) |
+| mechanic      | `/məˈkænɪk/`       | n. 机械师；技工                    | The mechanic fixed the car. <br>(机械师修好了车。) |
+| invade        | `/ɪnˈveɪd/`        | v. 入侵；侵略                     | The army invaded the country. <br>(军队入侵了这个国家。) |
+| imperial      | `/ɪmˈpɪriəl/`      | adj. 帝国的                     | The imperial palace is a popular tourist attraction. <br>(皇宫是一个受欢迎的旅游景点。) |
+| inaction      | `/ɪnˈækʃən/`       | n. 不作为                       | The government's inaction led to widespread criticism. <br>(政府的不作为引发了广泛的批评。) |
+| calculus      | `/ˈkælkjələs/`     | n. 微积分                       | She is studying calculus in college. <br>(她在大学学习微积分。) |
 
 
-==校对：校对中 ~~已校对~~==
+**校对：已校对**
 
-| 单词            | 美式发音               | 词性 + 汉语释义            | 示例                                                         |
-|---------------|--------------------|----------------------|--------------------------------------------------------------|
-| trance        | `/træns/`          | n. 出神；恍惚             | She was in a trance during the performance. <br>(她在表演期间出神了。) |
-| nightmare     | `/ˈnaɪtmɛr/`       | n. 噩梦                | I had a nightmare last night. <br>(我昨晚做了一个噩梦。)      |
-| dungeon       | `/ˈdʌndʒən/`       | n. 地牢                | The prisoner was thrown into the dungeon. <br>(囚犯被扔进了地牢。) |
-| cheat         | `/tʃiːt/`          | v. 欺骗<br>n. 骗子       | v. He cheated on the exam. <br>(他考试作弊。)<br>n. He is known as a cheat. <br>(他被称为骗子。) |
-| cheater       | `/ˈtʃiːtər/`       | n. 骗子                | He was known as a cheater in school. <br>(他在学校里是个骗子。) |
-| texture       | `/ˈtɛkstʃər/`      | n. 质地；纹理             | The texture of the fabric is soft. <br>(这块布的质地很柔软。)  |
+| 单词            | 美式发音               | 词性 + 汉语释义                     | 示例                                                         |
+|---------------|--------------------|-------------------------------|--------------------------------------------------------------|
+| trance        | `/træns/`          | n. 出神；恍惚                      | She was in a trance during the performance. <br>(她在表演期间出神了。) |
+| nightmare     | `/ˈnaɪtmɛr/`       | n. 噩梦                         | I had a nightmare last night. <br>(我昨晚做了一个噩梦。)      |
+| dungeon       | `/ˈdʌndʒən/`       | n. 地牢                         | The prisoner was thrown into the dungeon. <br>(囚犯被扔进了地牢。) |
+| cheat         | `/tʃiːt/`          | v. 欺骗<br>n. 骗子                | v. He cheated on the exam. <br>(他考试作弊。)<br>n. He is known as a cheat. <br>(他被称为骗子。) |
+| cheater       | `/ˈtʃiːtər/`       | n. 骗子                         | He was known as a cheater in school. <br>(他在学校里是个骗子。) |
+| texture       | `/ˈtɛkstʃər/`      | n. 质地；纹理                      | The texture of the fabric is soft. <br>(这块布的质地很柔软。)  |
 | trim          | `/trɪm/`           | v. 修剪；削减<br>adj. 整齐的<br>n. 修剪 | v. She trimmed the hedges. <br>(她修剪了树篱。)<br>adj. He has a trim figure. <br>(他身材整齐。)<br>n. The trim needs some paint. <br>(装饰线条需要涂些油漆。) |
-| course        | `/kɔːrs/`          | n. 课程；过程<br>v. 流动    | n. He is taking a French course. <br>(他在上法语课。)<br>n. **Over the course of** the next few years, the steel industry was reorganized.<br />在接下来的几年里﹐钢铁工业进行了重组。<br />v. Tears coursed down her cheeks. <br>(眼泪顺着她的脸颊流下来。) |
-| hold          | `/hoʊld/`          | v. 持有；握住<br>n. 抓住；控制 | v. Can you hold this for me? <br>(你能帮我拿一下这个吗？)<br>n. He has a strong hold on the situation. <br>(他对局势有很强的控制力。) |
-| dignity       | `/ˈdɪɡnəti/`       | n. 尊严                | She faced the crisis with dignity. <br>(她以尊严面对危机。)    |
-| fantastic     | `/fænˈtæstɪk/`     | adj. 极好的；奇异的         | The view from the top is fantastic. <br>(从顶上看下去的景色极好。) |
-| asylum        | `/əˈsaɪləm/`       | n. 庇护；精神病院           | He sought asylum in the embassy. <br>(他在大使馆寻求庇护。)    |
-| thesis        | `/ˈθiːsɪs/`        | n. 论文；论点             | She is writing her master's thesis. <br>(她在写硕士论文。)    |
-| paranoid      | `/ˈpɛrənɔɪd/`     | adj. 偏执的；多疑的         | He is paranoid about people watching him. <br>(他多疑地认为别人都在看着他。) |
-| schizophrenic | `/ˌskɪtsəˈfrɛnɪk/` | adj. 精神分裂症的<br>n. 精神分裂症患者 | adj. He has schizophrenic tendencies. <br>(他有精神分裂症倾向。)<br>n. The schizophrenic is receiving treatment. <br>(这位精神分裂症患者正在接受治疗。) |
-| outta     | `/ˈaʊtə/`          | 缩略语. 出自（out of 的非正式用法） | I'm outta here. <br>(我要走了。)                              |
-| fellow        | `/ˈfɛloʊ/`         | n. 同事；家伙             | research fellow: 研究员，研究人员<br/>young fellow: 小伙子<br/>little fellow: 小家伙，小鬼<br/>fellow countrymen: 同胞<br />He is a good fellow. <br>(他是个好人。) |
-| jam | `/dʒæm/` | n. 果酱；拥堵<br>v. 塞满；卡住 | n. starwberry jam. 草莓酱。<br />n. a jam sanwich. 果酱三明治。<br />n. She spread strawberry jam on her toast. <br>(她在烤面包上涂了草莓果酱。)<br>n. We were stuck in a traffic jam. <br>(我们被堵在交通拥挤中。)<br>v. He jammed his clothes into the suitcase. <br/>(他把衣服塞进了行李箱。)<br />v. The printer jammed again. <br>(打印机又卡住了。) |
-| jar      | `/dʒɑːr/`        | n. 罐；广口瓶<br>v. 震动 | a jam jar. 果酱罐。<br />a large storage jar. 一个大储物罐。<br />n. half a jar of peanut butter. <br />半瓶花生酱。<br />n. She put the cookies in a jar. <br>(她把饼干放在罐子里。)<br>v. The loud noise jarred me awake. <br>(巨大的噪音把我震醒了。) |
-| jug | `/dʒʌɡ/` | n. 壶；罐 | a milk jug. 牛奶罐。<br />a jug of water. 一壶水<br />He poured water from the jug. <br>(他从壶里倒水。) |
-| bottle | `/ˈbɑːtl/` | n. 瓶子<br>v. 把...装入瓶中 | n. She drank a bottle of water. <br>(她喝了一瓶水。)<br>v. They bottled the homemade wine. <br>(他们把自制的酒装入瓶中。) |
-| lid | `/lɪd/` | n. 盖子 | Put the lid on the pot. <br>(把盖子盖在锅上。) |
-| mason | `/ˈmeɪsən/` | n. 泥瓦匠；石匠 | The mason is building a stone wall. <br>(泥瓦匠正在建造石墙。) |
-| vase | `/veɪs/` | n. 花瓶 | She arranged flowers in the vase. <br>(她把花插在花瓶里。) |
-| vial | `/vaɪəl/` | n. (装香水、药水等的）小瓶 | The doctor took a vial of blood. <br>(医生抽了一小瓶血。) |
-| spoonful | `/ˈspuːnfʊl/` | n. 一匙的量 | Add a spoonful of sugar to the tea. <br>(在茶里加一匙糖。)<br />Two spoonfuls of sugar, please.请放两匙糖。 |
-| ==canister== | `/ˈkænɪstər/` | n. 小罐；筒 | He kept the cookies in a canister. <br>(他把饼干放在小罐里。) |
-| flask | `/flæsk/` | n. 烧瓶；长颈瓶 | The scientist heated the liquid in a flask. <br>(科学家在烧瓶中加热液体。) |
-| survive       | `/sərˈvaɪv/`       | v. 生存；幸存             | He survived the accident. <br>(他在事故中幸存下来。)          |
-| survivor      | `/sərˈvaɪvər/`     | n. 幸存者               | She is a survivor of the earthquake. <br>(她是地震的幸存者。) |
-| rainy         | `/ˈreɪni/`         | adj. 多雨的             | It was a rainy day. <br>(那是一个多雨的日子。)                |
-| rash          | `/ræʃ/`            | n. 皮疹<br>adj. 鲁莽的    | n. He broke out in a rash. <br>(他起了皮疹。)<br>adj. That was a rash decision. <br>(那是一个鲁莽的决定。) |
-| stick         | `/stɪk/`           | n. 棍；棒<br>v. 粘贴；坚持   | n. He used a stick to support himself. <br>(他用一根棍子支撑自己。)<br>v. Stick the poster on the wall. <br>(把海报贴在墙上。) |
-| neighbour     | `/ˈneɪbər/`        | n. 邻居                | Our neighbour is very friendly. <br>(我们的邻居非常友好。)    |
-| tactic        | `/ˈtæktɪk/`        | n. 策略；战术             | They employed a new tactic to win the game. <br>(他们采用了新策略赢得比赛。) |
-| course        | `/kɔrs/`           | n. 课程；过程<br>v. 流动    | n. He is taking a French course. <br>(他在上法语课。)<br>v. Tears coursed down her cheeks. <br>(眼泪顺着她的脸颊流下来。) |
-| politician    | `/ˌpɑləˈtɪʃən/`    | n. 政治家               | The politician gave a speech. <br>(政治家发表了演讲。)        |
-| balloon       | `/bəˈlun/`         | n. 气球<br>v. 膨胀       | n. The balloon floated in the air. <br>(气球在空中飘浮。)<br>v. The company's profits ballooned last year. <br>(公司的利润去年膨胀了。) |
-| expand        | `/ɪkˈspænd/`       | v. 扩展；扩大             | The company plans to expand its operations. <br>(公司计划扩大业务。) |
-| extend        | `/ɪkˈstɛnd/`       | v. 延伸；扩展             | He extended his hand to greet me. <br>(他伸出手和我打招呼。)     |
-| extent        | `/ɪkˈstɛnt/`       | n. 程度；范围             | To what extent do you agree with this statement? <br>(你在多大程度上同意这句话？) |
-| negotiate     | `/nɪˈɡoʊʃiˌeɪt/`   | v. 谈判；协商             | They negotiated a new contract. <br>(他们协商了一份新合同。)     |
-| vendor        | `/ˈvɛndər/`        | n. 小贩                   | We bought ice cream from a street vendor. <br>(我们从街头小贩那里买了冰激凌。) |
-| garage        | `/ɡəˈrɑʒ/`         | n. 车库                   | The car is parked in the garage. <br>(车停在车库里。)           |
-| lift          | `/lɪft/`           | v. 举起；提升<br>n. 电梯    | v. Can you lift this box? <br>(你能举起这个箱子吗？)<br>n. Take the lift to the fifth floor. <br>(坐电梯到五楼。) |
-| expansion     | `/ɪkˈspænʃən/`     | n. 扩展                   | The expansion of the company created new jobs. <br>(公司的扩展创造了新的就业机会。) |
-| folio         | `/ˈfoʊlioʊ/`       | n. 对折本                 | She stored her artwork in a folio. <br>(她把她的艺术作品放在一个册子里。) |
-| household     | `/ˈhaʊshoʊld/`     | n. 家庭<br>adj. 家庭的     | n. There are four people in my household. <br>(我的家庭有四个人。)<br>adj. They bought household appliances. <br>(他们买了家用电器。) |
-| action        | `/ˈækʃən/`         | n. 行动                   | We need to take immediate action. <br>(我们需要立即采取行动。)   |
-| appropriate   | `/əˈproʊpriət/`    | adj. 合适的               | His response was appropriate for the situation. <br>(他的回应对于这种情况是适当的。) |
-| hypnotic      | `/hɪpˈnɑtɪk/`      | adj. 催眠的               | The music had a hypnotic effect. <br>(音乐有催眠效果。)         |
+| course        | `/kɔːrs/`          | n. 课程；过程<br>v. 流动             | n. He is taking a French course. <br>(他在上法语课。)<br>n. **Over the course of** the next few years, the steel industry was reorganized.<br />在接下来的几年里﹐钢铁工业进行了重组。<br />v. Tears coursed down her cheeks. <br>(眼泪顺着她的脸颊流下来。) |
+| hold          | `/hoʊld/`          | v. 持有；握住<br>n. 抓住；控制          | v. Can you hold this for me? <br>(你能帮我拿一下这个吗？)<br>n. He has a strong hold on the situation. <br>(他对局势有很强的控制力。) |
+| dignity       | `/ˈdɪɡnəti/`       | n. 尊严                         | She faced the crisis with dignity. <br>(她以尊严面对危机。)    |
+| fantastic     | `/fænˈtæstɪk/`     | adj. 极好的；奇异的                  | The view from the top is fantastic. <br>(从顶上看下去的景色极好。) |
+| asylum        | `/əˈsaɪləm/`       | n. 庇护；精神病院                    | He sought asylum in the embassy. <br>(他在大使馆寻求庇护。)    |
+| thesis        | `/ˈθiːsɪs/`        | n. 论文；论点                      | She is writing her master's thesis. <br>(她在写硕士论文。)    |
+| paranoid      | `/ˈpɛrənɔɪd/`      | adj. 偏执的；多疑的                  | He is paranoid about people watching him. <br>(他多疑地认为别人都在看着他。) |
+| schizophrenic | `/ˌskɪtsəˈfrɛnɪk/` | adj. 精神分裂症的<br>n. 精神分裂症患者     | adj. He has schizophrenic tendencies. <br>(他有精神分裂症倾向。)<br>n. The schizophrenic is receiving treatment. <br>(这位精神分裂症患者正在接受治疗。) |
+| outta         | `/ˈaʊtə/`          | 缩略语. 出自（out of 的非正式用法）        | I'm outta here. <br>(我要走了。)                              |
+| fellow        | `/ˈfɛloʊ/`         | n. 同事；家伙                      | research fellow: 研究员，研究人员<br/>young fellow: 小伙子<br/>little fellow: 小家伙，小鬼<br/>fellow countrymen: 同胞<br />He is a good fellow. <br>(他是个好人。) |
+| jam           | `/dʒæm/`           | n. 果酱；拥堵<br>v. 塞满；卡住          | n. starwberry jam. 草莓酱。<br />n. a jam sanwich. 果酱三明治。<br />n. She spread strawberry jam on her toast. <br>(她在烤面包上涂了草莓果酱。)<br>n. We were stuck in a traffic jam. <br>(我们被堵在交通拥挤中。)<br>v. He jammed his clothes into the suitcase. <br/>(他把衣服塞进了行李箱。)<br />v. The printer jammed again. <br>(打印机又卡住了。) |
+| jar           | `/dʒɑːr/`          | n. 罐；广口瓶<br>v. 震动             | a jam jar. 果酱罐。<br />a large storage jar. 一个大储物罐。<br />n. half a jar of peanut butter. <br />半瓶花生酱。<br />n. She put the cookies in a jar. <br>(她把饼干放在罐子里。)<br>v. The loud noise jarred me awake. <br>(巨大的噪音把我震醒了。) |
+| jug           | `/dʒʌɡ/`           | n. 壶；罐                        | a milk jug. 牛奶罐。<br />a jug of water. 一壶水<br />He poured water from the jug. <br>(他从壶里倒水。) |
+
+**校对：已校对**
+
+| 单词       | 美式发音       | 词性 + 汉语释义                 | 示例                                                         |
+| ---------- | -------------- | ------------------------------ | ------------------------------------------------------------ |
+| bottle     | `/ˈbɑːtl/`     | n. 瓶子<br>v. 把...装入瓶中      | n. She drank a bottle of water. <br>(她喝了一瓶水。)<br>v. They bottled the homemade wine. <br>(他们把自制的酒装入瓶中。) |
+| lid        | `/lɪd/`        | n. 盖子                        | Put the lid on the pot. <br>(把盖子盖在锅上。)               |
+| mason      | `/ˈmeɪsən/`    | n. 泥瓦匠；石匠                 | The mason is building a stone wall. <br>(泥瓦匠正在建造石墙。) |
+| vase       | `/veɪs/`       | n. 花瓶                        | She arranged flowers in the vase. <br>(她把花插在花瓶里。)   |
+| vial       | `/vaɪəl/`      | n. (装香水、药水等的）小瓶           | The doctor took a vial of blood. <br>(医生抽了一小瓶血。)    |
+| spoonful   | `/ˈspuːnfʊl/`  | n. 一匙的量                    | Add a spoonful of sugar to the tea. <br>(在茶里加一匙糖。)<br />Two spoonfuls of sugar, please.请放两匙糖。 |
+| chore      | `/tʃɔːr/`      | n. 家务；杂事                  | He helps with household chores. <br>(他帮忙做家务。)         |
+| vast       | `/væst/`       | adj. 广阔的；巨大的              | The desert is vast. <br>(沙漠很广阔。)<br />The vast plains stretch for miles.<br />(辽阔的平原延伸数英里。) |
+| rebellion  | `/rɪˈbɛljən/`  | n. 叛乱                        | an armed rebellion. 武装叛乱。<br />The rebellion was quickly suppressed. <br>(叛乱很快被镇压了。) |
+| rebellious | `/rɪˈbɛljəs/`  | adj. 叛逆的                    | He has a rebellious nature. <br>(他有叛逆的性格。)           |
+| startle    | `/ˈstɑːrtəl/`  | v. 惊吓                        | The loud noise startled me. <br>(巨大的噪音吓了我一跳。)<br />Sorry, I didn't mean to startle you. <br />(抱歉，我不是故意吓你一跳的。) |
+| canister   | `/ˈkænɪstər/`  | n.  (装茶叶、咖啡、香烟等有盖的金属) 小罐 | a tea canister. 茶罐。<br />He kept the cookies in a canister. <br>(他把饼干放在小罐里。) |
+| flask      | `/flæsk/`      | n. 烧瓶；长颈瓶                 | The scientist heated the liquid in a flask. <br>(科学家在烧瓶中加热液体。) |
+| survive    | `/sərˈvaɪv/`   | v. 生存；幸存                  | He survived the accident. <br>(他在事故中幸存下来。)<br />She survived the attack. <br />她在袭击中幸免于难。<br />people who survive cancer.<br />癌症幸存者。 |
+| survivor   | `/sərˈvaɪvər/` | n. 幸存者                      | She is a survivor of the earthquake. <br>(她是地震的幸存者。) |
+| rainy      | `/ˈreɪni/`     | adj. 多雨的                    | It was a rainy day. <br>(那是一个多雨的日子。)               |
+| rash       | `/ræʃ/`        | n. 皮疹<br>adj. 鲁莽的         | n. He broke out in a rash. <br>(他起了皮疹。)<br>adj. That was a rash decision. <br>(那是一个鲁莽的决定。)<br />*Please Jessie, don’t do anything rash.*<br />求你了﹐杰西﹐不要草率行事。<br/> Don’t go making any rash decisions about your future!<br />不要对你的未来贸然作决定！<br/> It was *rather* rash of *you to lend them your car.*<br />你把汽车借给他们实在有欠考虑。 |
+| stick      | `/stɪk/`       | n. 棍；棒<br>v. 粘贴；坚持        | n. He used a stick to support himself. <br>(他用一根棍子支撑自己。)<br>v. Stick the poster on the wall. <br>(把海报贴在墙上。) |
+| neighbour  | `/ˈneɪbər/`    | n. 邻居                        | Our neighbour is very friendly. <br>(我们的邻居非常友好。)   |
+| tactic     | `/ˈtæktɪk/`    | n. 策略；战术                  | They employed a new tactic to win the game. <br>(他们采用了新策略赢得比赛。) |
+
+
+==校对：未校对==
+
+| 单词            | 美式发音               | 词性 + 汉语释义           | 示例                                                         |
+|---------------|--------------------|------------------------|--------------------------------------------------------------|
+| course        | `/kɔrs/`           | n. 课程；过程<br>v. 流动   | n. He is taking a French course. <br>(他在上法语课。)<br>v. Tears coursed down her cheeks. <br>(眼泪顺着她的脸颊流下来。) |
+| politician    | `/ˌpɑləˈtɪʃən/`    | n. 政治家              | The politician gave a speech. <br>(政治家发表了演讲。)        |
+| balloon       | `/bəˈlun/`         | n. 气球<br>v. 膨胀      | n. The balloon floated in the air. <br>(气球在空中飘浮。)<br>v. The company's profits ballooned last year. <br>(公司的利润去年膨胀了。) |
+| expand        | `/ɪkˈspænd/`       | v. 扩展；扩大            | The company plans to expand its operations. <br>(公司计划扩大业务。) |
+| extend        | `/ɪkˈstɛnd/`       | v. 延伸；扩展            | He extended his hand to greet me. <br>(他伸出手和我打招呼。)     |
+| extent        | `/ɪkˈstɛnt/`       | n. 程度；范围            | To what extent do you agree with this statement? <br>(你在多大程度上同意这句话？) |
+| negotiate     | `/nɪˈɡoʊʃiˌeɪt/`   | v. 谈判；协商            | They negotiated a new contract. <br>(他们协商了一份新合同。)     |
+| vendor        | `/ˈvɛndər/`        | n. 小贩               | We bought ice cream from a street vendor. <br>(我们从街头小贩那里买了冰激凌。) |
+| garage        | `/ɡəˈrɑʒ/`         | n. 车库               | The car is parked in the garage. <br>(车停在车库里。)           |
+| lift          | `/lɪft/`           | v. 举起；提升<br>n. 电梯   | v. Can you lift this box? <br>(你能举起这个箱子吗？)<br>n. Take the lift to the fifth floor. <br>(坐电梯到五楼。) |
+| expansion     | `/ɪkˈspænʃən/`     | n. 扩展               | The expansion of the company created new jobs. <br>(公司的扩展创造了新的就业机会。) |
+| folio         | `/ˈfoʊlioʊ/`       | n. 对折本              | She stored her artwork in a folio. <br>(她把她的艺术作品放在一个册子里。) |
+| household     | `/ˈhaʊshoʊld/`     | n. 家庭<br>adj. 家庭的   | n. There are four people in my household. <br>(我的家庭有四个人。)<br>adj. They bought household appliances. <br>(他们买了家用电器。) |
+| action        | `/ˈækʃən/`         | n. 行动               | We need to take immediate action. <br>(我们需要立即采取行动。)   |
+| appropriate   | `/əˈproʊpriət/`    | adj. 合适的            | His response was appropriate for the situation. <br>(他的回应对于这种情况是适当的。) |
+| hypnotic      | `/hɪpˈnɑtɪk/`      | adj. 催眠的            | The music had a hypnotic effect. <br>(音乐有催眠效果。)         |
 
 
 
