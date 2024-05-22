@@ -1,8 +1,35 @@
 # Words
-
-
-
 ## ▲ 待编辑生词
+
+
+
+
+### Added: 2024.05.222
+
+Translator: ChatGPT 4o
+
+==校对：未校对==
+
+~~注：下面表格单词已写到 Goodnotes~~
+
+| 单词       | 美式发音        | 词性 + 汉语释义                         | 示例                                                         |
+|------------|-----------------|----------------------------------------|--------------------------------------------------------------|
+| activity   | `/ækˈtɪvɪti/`   | n. 活动                                | The children enjoyed the outdoor activities. <br>(孩子们喜欢户外活动。) |
+| onion      | `/ˈʌnjən/`      | n. 洋葱                                | She added chopped onions to the salad. <br>(她在沙拉里加了切碎的洋葱。) |
+| evaluation | `/ɪˌvæljuˈeɪʃən/`| n. 评估                                | The evaluation of the project will be completed soon. <br>(项目的评估将很快完成。) |
+| specialise | `/ˈspɛʃəˌlaɪz/` | v. 专门研究；专攻                      | She specializes in modern art. <br>(她专攻现代艺术。)         |
+| vacation   | `/veɪˈkeɪʃən/`  | n. 假期                                | We are planning a vacation to the beach. <br>(我们计划去海滩度假。) |
+| mandarin   | `/ˈmændərɪn/`   | n. 橘子；普通话                        | She peeled a mandarin for a snack. <br>(她剥了一只橘子作为零食。)<br>Mandarin is the official language of China. <br>(普通话是中国的官方语言。) |
+| tangerine  | `/ˌtændʒəˈrin/` | n. 橘子                                | He likes the sweet taste of tangerines. <br>(他喜欢橘子的甜味。) |
+| mung       | `/mʌŋ/`         | n. 绿豆                                | Mung beans are often used in Asian cuisine. <br>(绿豆经常用于亚洲菜肴。) |
+| pomelo     | `/ˈpɑməloʊ/`    | n. 柚子                                | Pomelos are larger than grapefruits. <br>(柚子比葡萄柚大。)  |
+| grapefruit | `/ˈɡreɪpˌfrut/` | n. 葡萄柚                              | She had half a grapefruit for breakfast. <br>(她早餐吃了半个葡萄柚。) |
+| cilantro   | `/sɪˈlɑnˌtroʊ/` | n. 芫荽叶                              | Cilantro is often used in Mexican dishes. <br>(芫荽叶常用于墨西哥菜。) |
+| coriander  | `/ˌkɔriˈændər/` | n. 香菜                                | Coriander seeds are used as a spice. <br>(香菜种子被用作香料。) |
+
+
+
+
 
 ### Added: 2024.05.21
 
@@ -90,9 +117,19 @@ Translator: ChatGPT 4o
 | thesis        | `/ˈθiːsɪs/`        | n. 论文；论点             | She is writing her master's thesis. <br>(她在写硕士论文。)    |
 | paranoid      | `/ˈpɛrənɔɪd/`     | adj. 偏执的；多疑的         | He is paranoid about people watching him. <br>(他多疑地认为别人都在看着他。) |
 | schizophrenic | `/ˌskɪtsəˈfrɛnɪk/` | adj. 精神分裂症的<br>n. 精神分裂症患者 | adj. He has schizophrenic tendencies. <br>(他有精神分裂症倾向。)<br>n. The schizophrenic is receiving treatment. <br>(这位精神分裂症患者正在接受治疗。) |
-| ==outta==     | `/ˈaʊtə/`          | 缩略语. 出自（out of 的非正式用法） | I'm outta here. <br>(我要走了。)                              |
-| fellow        | `/ˈfɛloʊ/`         | n. 同事；家伙             | He is a good fellow. <br>(他是个好人。)                      |
-| jar           | `/dʒɑr/`           | n. 罐；广口瓶<br>v. 震动；冲突 | n. She put the cookies in a jar. <br>(她把饼干放在罐子里。)<br>v. The loud noise jarred me awake. <br>(巨大的噪音把我震醒了。) |
+| outta     | `/ˈaʊtə/`          | 缩略语. 出自（out of 的非正式用法） | I'm outta here. <br>(我要走了。)                              |
+| fellow        | `/ˈfɛloʊ/`         | n. 同事；家伙             | research fellow: 研究员，研究人员<br/>young fellow: 小伙子<br/>little fellow: 小家伙，小鬼<br/>fellow countrymen: 同胞<br />He is a good fellow. <br>(他是个好人。) |
+| jam | `/dʒæm/` | n. 果酱；拥堵<br>v. 塞满；卡住 | n. starwberry jam. 草莓酱。<br />n. a jam sanwich. 果酱三明治。<br />n. She spread strawberry jam on her toast. <br>(她在烤面包上涂了草莓果酱。)<br>n. We were stuck in a traffic jam. <br>(我们被堵在交通拥挤中。)<br>v. He jammed his clothes into the suitcase. <br/>(他把衣服塞进了行李箱。)<br />v. The printer jammed again. <br>(打印机又卡住了。) |
+| jar      | `/dʒɑːr/`        | n. 罐；广口瓶<br>v. 震动 | a jam jar. 果酱罐。<br />a large storage jar. 一个大储物罐。<br />n. half a jar of peanut butter. <br />半瓶花生酱。<br />n. She put the cookies in a jar. <br>(她把饼干放在罐子里。)<br>v. The loud noise jarred me awake. <br>(巨大的噪音把我震醒了。) |
+| jug | `/dʒʌɡ/` | n. 壶；罐 | a milk jug. 牛奶罐。<br />a jug of water. 一壶水<br />He poured water from the jug. <br>(他从壶里倒水。) |
+| bottle | `/ˈbɑːtl/` | n. 瓶子<br>v. 把...装入瓶中 | n. She drank a bottle of water. <br>(她喝了一瓶水。)<br>v. They bottled the homemade wine. <br>(他们把自制的酒装入瓶中。) |
+| lid | `/lɪd/` | n. 盖子 | Put the lid on the pot. <br>(把盖子盖在锅上。) |
+| mason | `/ˈmeɪsən/` | n. 泥瓦匠；石匠 | The mason is building a stone wall. <br>(泥瓦匠正在建造石墙。) |
+| vase | `/veɪs/` | n. 花瓶 | She arranged flowers in the vase. <br>(她把花插在花瓶里。) |
+| vial | `/vaɪəl/` | n. (装香水、药水等的）小瓶 | The doctor took a vial of blood. <br>(医生抽了一小瓶血。) |
+| spoonful | `/ˈspuːnfʊl/` | n. 一匙的量 | Add a spoonful of sugar to the tea. <br>(在茶里加一匙糖。)<br />Two spoonfuls of sugar, please.请放两匙糖。 |
+| ==canister== | `/ˈkænɪstər/` | n. 小罐；筒 | He kept the cookies in a canister. <br>(他把饼干放在小罐里。) |
+| flask | `/flæsk/` | n. 烧瓶；长颈瓶 | The scientist heated the liquid in a flask. <br>(科学家在烧瓶中加热液体。) |
 | survive       | `/sərˈvaɪv/`       | v. 生存；幸存             | He survived the accident. <br>(他在事故中幸存下来。)          |
 | survivor      | `/sərˈvaɪvər/`     | n. 幸存者               | She is a survivor of the earthquake. <br>(她是地震的幸存者。) |
 | rainy         | `/ˈreɪni/`         | adj. 多雨的             | It was a rainy day. <br>(那是一个多雨的日子。)                |
@@ -520,7 +557,7 @@ ChatGPT 4.0 translations
 | quilt         | `/kwɪlt/          | n. 被子                    | She made a colorful quilt for her granddaughter. <br>(她为她的孙女做了一床彩色的被子。) |
 | revival       | `/rɪˈvaɪvəl/      | n. 复兴；复活               | There is a revival of interest in folk music. <br>(对民谣音乐的兴趣正在复兴。) |
 | con           | `/kɑːn/           | n. 骗局；诈骗<br>v. 欺骗     | n. He fell victim to a con artist. <br>(他成了一个骗子的受害者。)<br>v. She conned him into buying a fake watch. <br>(她骗他买了一块假表。) |
-| jam           | `/dʒæm/           | n. 果酱；交通拥堵<br>v. 塞满；挤进  | n. She spread jam on her toast. <br>(她在吐司上涂了果酱。)<br>n. The road was jammed with traffic. <br>(道路上交通拥堵。)<br>v. He jammed his clothes into the suitcase. <br>(他把衣服塞进了行李箱。) |
+|              |                 |                          |                                                              |
 | privacy       | `/ˈpraɪvəsi/    | n. 隐私                    | Please respect my privacy. <br>(请尊重我的隐私。) |
 
 

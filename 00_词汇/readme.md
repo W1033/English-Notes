@@ -111,6 +111,39 @@ advantage `/ədˈvæntɪdʒ/` 和 advice `/əd'vaɪs/`，读音中第一个是�
 
 
 
+## ▲ 英语中常见的自反词
+
+*Added: 2024.05.22*
+
+笔记来自哥伦布老师的 google drive 文档
+需要编辑和 Words.md 文档里的其他两个自反词组合。
+
+==注：待编辑==
+
+| dust      | 除去粉末、庾麈                   | Maria is  dusting the shelves. Maria正在清理櫃子,上的厌塵。  |
+| --------- | -------------------------------- | ------------------------------------------------------------ |
+|           | 撒上粉末                         | He  dusted the cookies with powdered sugar. 他在餅乾. 上撒糖粉。 |
+| sanction  | 批准                             | The  government will sanction the new law. 政府將批准新法律。 |
+|           | 制裁                             | Huawei  was sanctioned by the US government.                 |
+|           |                                  | 華為受  到美國政府制裁。                                     |
+| strike    | 打擊、擊球                       | He  struck the ball well.                                    |
+|           |                                  | 他這球打擊得滿好的。                                         |
+|           |                                  | He  struck out.                                              |
+|           | 沒擊中、好球                     | 他被三振出局。                                               |
+| fine      | 優質的、良好的  可接受的、還行的 | She  is fine!                                                |
+|           |                                  | 她好正!                                                      |
+|           |                                  | That's  fine with me.                                        |
+|           |                                  | 那個我可以接受。                                             |
+| oversight | 疏忽                             | The  project failed because of an oversight. 這個 專案因為一個疏忽而失敗。 |
+|           | 監督或監管                       | The  manager has oversight ofthe project. 該專案由經理負責監管。 |
+|           |                                  | The  car is going fast.                                      |
+| fast      | 快速                             | 車子跑得很快。                                               |
+|           | 牢固不動地                       | The  car is stuck fast. 車子卡住了。                         |
+| seed      | 播種                             | He  seeded the garden with flowers. 他在花園播種花的種子。   |
+|           | 去除種子                         | She  seeded the tomatoes. 她把番茄去籽。                     |
+
+
+
 ## ▲ 英语相似词汇/短语汇总
 
 ### die, pass way, perish
