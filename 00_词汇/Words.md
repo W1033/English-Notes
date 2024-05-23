@@ -9,9 +9,11 @@
 
 Translator: ChatGPT 4o
 
-==校对：校对中==
+~~==校对：校对中==~~
 
-~~注：下面表格单词已写到 Goodnotes~~
+**校对：已校对**
+
+注：下面表格单词已写到 Goodnotes；日期见：2024.05.23
 
 | 单词         | 美式发音              | 词性 + 汉语释义            | 示例                                                         |
 |------------|-------------------|----------------------|--------------------------------------------------------------|
@@ -20,16 +22,17 @@ Translator: ChatGPT 4o
 | purgatory  | `/ˈpɜːrɡəˌtɔːri/` | n. 炼狱；暂时的苦难          | The wait felt like purgatory. <br>(等待感觉像炼狱一样。)<br />Sewing is relaxation for some, purgatory for others.<br />缝纫对有些人来说是享受﹐而对另一些人则是受罪。 |
 | transcend  | `/trænˈsɛnd/`     | v. 超越；超过             | self-Transcend. 自我超越。<br />Transcend Yourself. 超越自我。<br />Her performance transcended all expectations. <br>(她的表演超出了所有预期。) |
 | predator   | `/ˈprɛdətər/`     | n. 捕食者               | Lions are natural predators. <br>(狮子是天生的捕食者。)       |
-| vacuum     | `/ˈvækjum/`       | n. 真空；吸尘器<br>v. 用吸尘器打扫 | n. The vacuum of space is vast. <br>(太空的真空很广阔。)<br>v. She vacuumed the carpet. <br>(她用吸尘器清理地毯。) |
-| laboratory | `/ˈlæbrəˌtɔri/`   | n. 实验室               | They conducted experiments in the laboratory. <br>(他们在实验室进行实验。) |
-| thermo     | `/ˈθɜrmoʊ/`       | n. 温度计；热水瓶           | He used a thermo to measure the temperature. <br>(他用温度计测量温度。) |
-| thermos    | `/ˈθɜrməs/`       | n. 保温瓶               | She carried coffee in a thermos. <br>(她用保温瓶带了咖啡。)   |
+| vacuum     | `/ˈvækjʊm/`     | n. 真空；吸尘器<br>v. 用吸尘器打扫 | n. The vacuum of space is vast. <br>(太空的真空很广阔。)<br>v. She vacuumed the carpet. <br>(她用吸尘器清理地毯。) |
+| laboratory | `/ˈlæbrətɔːri/`  | n. 实验室               | They conducted experiments in the laboratory. <br>(他们在实验室进行实验。) |
+| thermo     | `/ˈθɜːrmoʊ/`      | adj. 热的；热量的<br>n. 温度计          | adj. The thermo energy is used in various applications. <br>(热能被用于各种应用中。)<br>n. He used a thermo to measure the temperature. <br>(他用温度计测量温度。) |
+| thermos    | `/ˈθɜːrməs/`      | n. 保温瓶               | She carried coffee in a thermos. <br>(她用保温瓶带了咖啡。)   |
 | crisis     | `/ˈkraɪsɪs/`      | n. 危机                | The company is facing a financial crisis. <br>(公司正面临金融危机。) |
-| nasty      | `/ˈnæsti/`        | adj. 讨厌的；恶劣的         | The weather turned nasty. <br>(天气变得恶劣。)               |
-| diversion  | `/daɪˈvɜrʒən/`    | n. 转移；消遣             | They created a diversion to escape. <br>(他们制造了一个转移来逃跑。) |
+| nasty      | `/ˈnæsti/`        | adj. 讨厌的；恶劣的         | The weather turned nasty. <br>(天气变得恶劣。)<br />He made a nasty comment. <br/>(他说了一句讨厌的评论。) |
+| diversion  | `/dɪˈvɜːrʒən/`   | n. 转移；转向；消遣   | the diversion of the river. 河流改道.<br />They created a diversion to escape. <br>(他们制造了一个转移来逃跑。) |
 | cuss       | `/kʌs/`           | v. 咒骂<br>n. 诅咒       | v. He cussed loudly when he stubbed his toe. <br>(他碰到脚趾时大声咒骂。)<br>n. He muttered a cuss under his breath. <br>(他低声咒骂了一句。) |
+| criterion | `/kraɪˈtɪriən/` | n. 标准 | The main criterion for selection is experience. <br>(选择的主要标准是经验。) |
 | criteria   | `/kraɪˈtɪriə/`    | n. (criterion 的复数) 标准 | The criteria for selection are very strict. <br>(选择标准非常严格。) |
-| student    | `/ˈstuːdnt/`      | n. 学生                | The student is preparing for exams. <br>(学生正在准备考试。) |
+| student    | `/ˈstuːdənt/`     | n. 学生                | The student is preparing for exams. <br>(学生正在准备考试。) |
 | Europe     | `/ˈjʊrəp/`        | n. 欧洲                | She traveled to Europe last summer. <br>(她去年夏天去了欧洲。) |
 | eulogy     | `/ˈjuːlədʒi/`     | n. 颂词；悼词             | He delivered a heartfelt eulogy at the funeral. <br>(他在葬礼上发表了感人的悼词。) |
 | serial     | `/ˈsɪriəl/`       | adj. 连续的；连载的<br>n. 连续剧 | adj. He is a serial entrepreneur. <br>(他是个连续创业者。)<br>adj. a serial rapist. 连续作案的强奸犯。<br />n. The serial was very popular. <br>(这部连续剧非常受欢迎。)<br />n. a television serial. 电视连续剧。<br />n. a six-part serial. 六集连续剧。 |
@@ -45,7 +48,7 @@ Translator: ChatGPT 4o
 
 **校对：已校对**
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词         | 美式发音              | 词性 + 汉语释义          | 示例                                                         |
 |------------|-------------------|--------------------|--------------------------------------------------------------|
@@ -76,7 +79,7 @@ Translator: ChatGPT 4o
 
 Translator: ChatGPT 4o
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 
 #### First Table
@@ -217,7 +220,7 @@ Translator: ChatGPT 4o
 
 ==校对：尚未校对==
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词             | 美式发音            | 词性 + 汉语释义              | 示例                                                         |
 |----------------|---------------------|----------------------------|--------------------------------------------------------------|
@@ -248,7 +251,7 @@ Translator: ChatGPT 4o
 
 **校对：已校对**
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词        | 美式发音           | 词性 + 汉语释义          | 示例                                                         |
 |------------|-------------------|------------------------|--------------------------------------------------------------|
@@ -287,7 +290,7 @@ Translator: ChatGPT 4o
 
 校对：已校对。
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 ### 单词翻译表格
 
@@ -315,7 +318,7 @@ Translator: ChatGPT 4o
 
 Translator: ChatGPT 4o
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词               | 美式发音                  | 词性 + 汉语释义           | 示例                                                         |
 |------------------|-----------------------|---------------------|--------------------------------------------------------------|
@@ -407,7 +410,7 @@ Translator: ChatGPT 4o
 
 Translator: ChatGPT 4 + 4o
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 **校对：已校对**
 
@@ -457,7 +460,7 @@ Translator: ChatGPT 4 + 4o
 ### Added: 2024.05.10
 Translator: ChatGPT 4 + 4o
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词           | 美式发音           | 词类 + 汉语释义            | 示例                                                         |
 |---------------|-------------------| ------------------------ | ------------------------------------------------------------ |
@@ -496,7 +499,7 @@ Translator: ChatGPT 4 + 4o
 
 Translator: ChatGPT 4 + 4o
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词            | 美式发音            | 词类 + 汉语释义          | 示例                                                         |
 | -------------- | ------------------ | --------------------- | ------------------------------------------------------------ |
@@ -550,7 +553,7 @@ Translator: ChatGPT 4 + 4o
 
 Translator: ChatGPT 4
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词                | 美式发音               | 词类 + 汉语释义              | 示例                                                         |
 | ------------------ | --------------------  | -------------------------- | ------------------------------------------------------------ |
@@ -575,7 +578,7 @@ Translator: ChatGPT 4
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 下面是这些单词的翻译和示例：
 
@@ -673,7 +676,7 @@ ChatGPT 4.0 translations
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 
 | 单词         | 美式发音         | 词类 + 汉语释义             | 示例                                                           |
@@ -724,7 +727,7 @@ ChatGPT 4.0 translations
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词            | 美式发音          | 词类 + 汉语释义        |   示例    |
 |----------------|----------------- |--------------------- |  ------  |
@@ -783,7 +786,7 @@ ChatGPT 4.0 translations
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词                 | 美式发音                | 词类 + 汉语释义            |   示例    |
 |--------------------|---------------------|----------------------|  ------  |
@@ -862,7 +865,7 @@ ChatGPT 4.0 translations
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词         | 美式发音           | 词类 + 汉语释义         | 示例                                                         |
 | ------------ | ------------------ | ----------------------- | ------------------------------------------------------------ |
@@ -943,7 +946,7 @@ ChatGPT 4.0 translations
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词               | 美式发音            |   词类 + 汉语释义        |   示例  |
 |-------------------|--------------------|------------------------| ------ |
@@ -1072,7 +1075,7 @@ ChatGPT 4.0 translations
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词         | 美式发音          |    词类 + 汉语释义           | 示例                                                         |
 | ----------- | ---------------- | -------------------------- | ------------------------------------------------------------ |
@@ -1202,7 +1205,7 @@ ChatGPT 4.0 translations
 ### Added: 2024.04.10
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词           | 美式发音             | 词类 + 汉语释义         | 示例 |
 |----------------|----------------------|------------------------|------|
@@ -1281,7 +1284,7 @@ ChatGPT 4.0 translations
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词        | 美式发音         | 词类 + 汉语释义          | 示例 |
 |-------------|------------------|-------------------------|------|
@@ -1360,7 +1363,7 @@ This list provides a balanced translation focusing on the most important meaning
 ### Added: 2024.04.08
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词            | 美式发音          | 词类 + 汉语释义                        | 示例                                                         |
 |-----------------|-------------------|---------------------------------------|--------------------------------------------------------------|
@@ -1419,7 +1422,7 @@ ChatGPT 4.0 translations
 ### Added: 2024.04.06
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词              | 美式发音              | 词类 + 汉语释义                       | 示例                                        |
 |------------------|----------------------|-------------------------------------|--------------------------------------------|
@@ -1537,7 +1540,7 @@ ChatGPT 4.0 translations
 ### Added: 2024.04.04
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词         | 美式发音          | 词类 + 汉语释义            | 示例                                                         |
 | ----------- | -----------------| ------------------------ | ------------------------------------------------------------ |
@@ -1587,7 +1590,7 @@ ChatGPT 4.0 translations
 ### Added: 2024.04.03
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词            | 美式发音           | 词类 + 汉语释义          | 示例                                     |
 |----------------|-------------------|------------------------|-----------------------------------------|
@@ -1615,7 +1618,7 @@ ChatGPT 4.0 translations
 ### Added: 2024.04.01
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | Word     | American Pronunciation | Part of Speech + Chinese Definition | Example Sentence                                          |
 |--------------|--------------------|-------------------------------------|----------------------------------------------------------|
@@ -1661,7 +1664,7 @@ ChatGPT 4.0 translations
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词        | 美式发音          | 词类 + 汉语释义       | 示例                                                         |
 | ---------- | ---------------- | ------------------- | ------------------------------------------------------------ |
@@ -1702,7 +1705,7 @@ ChatGPT 4.0 translations
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词           | 美式发音            | 词类 + 汉语释义                      | 示例                                                   |
 |----------     |----------------    |----------------------------------  |-------------------------------------------------------|
@@ -1744,7 +1747,7 @@ ChatGPT 4.0 translations
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词          | 美式发音              | 词类 + 汉语释义                | 示例                                                         |
 |-------------|-------------------| ------------------------------ | ------------------------------------------------------------ |
@@ -1827,7 +1830,7 @@ ChatGPT 4.0 translations
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词          | 美式发音             | 词类 + 汉语释义        | 示例                                                         |
 | ------------- | -------------------- | ---------------------- | ------------------------------------------------------------ |
@@ -1893,7 +1896,7 @@ ChatGPT 4.0 translations
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词        | 美式发音           | 词类 + 汉语释义      | 示例                                                         |
 | ----------- | ------------------ | ------------------ | ------------------------------------------------------------ |
@@ -1939,7 +1942,7 @@ ChatGPT 4.0 translations
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 #### 单词翻译表格
 
@@ -1967,7 +1970,7 @@ ChatGPT 4.0 translations
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 #### 单词翻译表格
 
@@ -2148,7 +2151,7 @@ ChatGPT 4.0 translations
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 #### 单词翻译表格
 
@@ -2202,7 +2205,7 @@ ChatGPT 4.0 translations
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 #### 单词翻译表格
 
@@ -2286,7 +2289,7 @@ ChatGPT 4.0 translations
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 #### 单词翻译表格
 
@@ -2370,7 +2373,7 @@ ChatGPT 4.0 translations
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 #### 单词翻译表格
 
@@ -2425,7 +2428,7 @@ ChatGPT 4.0 translations
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词   | 美式发音     | 词类 + 汉语释义                   | 示例                                                         |
 | ------ | ------------ | --------------------------------- | ------------------------------------------------------------ |
@@ -2446,7 +2449,7 @@ ChatGPT 4.0 translations
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词         | 美式发音          | 词类 + 汉语释义    | 示例                                                         |
 | ----------- | ---------------  | -----------------| ------------------------------------------------------------ |
@@ -2497,7 +2500,7 @@ ChatGPT 4.0 translations
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词       | 美式发音        | 词类 + 汉语释义                                       | 示例                                                         |
 | ---------- | --------------- | ----------------------------------------------------- | ------------------------------------------------------------ |
@@ -2579,7 +2582,7 @@ ChatGPT 4.0 translations
 ### Added: 2024.03.03
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词           | 美式发音             | 词类 + 汉语释义               | 示例                                                         |
 | -------------- | -------------------- | ----------------------------- | ------------------------------------------------------------ |
@@ -2614,7 +2617,7 @@ ChatGPT 4.0 translations
 ### Added: 2024.03.02
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词      | 美式发音      | 词类 + 汉语释义        | 示例                                                         |
 |----------|--------------|------------------| ------------------------------------------------------------ |
@@ -2965,7 +2968,7 @@ ChatGPT 4.0 translations
 
 Translator: ChatGPT 4.0
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词          | 美式发音           | 词类 + 汉语释义                            |
 | ------------- | ------------------ | ------------------------------------------ |
@@ -3085,7 +3088,7 @@ ChatGPT 4.0 translations
 ### Added: 2024.01.22
 *Edited: 2024.01.29、02.29、*
 ChatGPT 4.0 translations
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词        | 美式发音        | 词类 + 汉语释义                       |
 | ----------- | --------------- | ------------------------------------- |
@@ -3149,7 +3152,7 @@ Added: 2024.01.16
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词                | 美式发音                 | 词类 + 汉语释义                       |
 |-------------------|----------------------| ------------------------------------- |
@@ -3440,7 +3443,7 @@ Edited: 2023.12.25-26；
 
 ChatGPT 4.0 translations
 
-~~注：下面表格单词已写到 Goodnotes~~
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词          | 美式发音               | 词类 + 汉语释义         | 示例                                                       |
 | ------------ |--------------------| --------------------- | ---------------------------------------------------------- |
