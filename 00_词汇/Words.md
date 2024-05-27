@@ -1901,14 +1901,14 @@ Translator: ChatGPT 4
 
 Translator: ChatGPT 4
 
-#### First Table - `校对中`
+#### First Table - 已校对
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词            | 美式发音           | 词类 + 汉语释义         | 示例                                     |
 |----------------|-------------------|-------------------|-----------------------------------------|
 | obsolete       | `/ˌɑːbsəˈliːt/`   | adj. 过时的          | The software is obsolete.<br />(这个软件已经过时。)<br />obsolete weapons.<br />(已淘汰的武器) |
-| delegate       | `/ˈdeləɡət/`（n.）<br>`/ˌdelɪˈɡeɪt/`（v.）  | n. 代表<br>v. 委派    | n. He is a delegate at the conference.<br />(他是会议的代表。)<br />v. She will delegate the task to her team.<br />(她将把任务委派给她的团队。) |
+| delegate       | `/ˈdeləɡət/`（n.）<br>`/ˌdelɪˈɡeɪt/`（v.） | n. 代表<br>v. 委派    | n. He is a delegate at the conference.<br />(他是会议的代表。)<br />v. She will delegate the task to her team.<br />(她将把任务委派给她的团队。) |
 | hill           | `/hɪl/`           | n. 小山             | They walked up the hill.<br />(他们走上了小山。)<br />A hawk hovered over the hill. <br />(一只鹰在小山的上空翱翔。) |
 | mere           | `/mɪr/`           | adj. 仅仅的，只不过的     | It's a mere formality.<br />(这只不过是个形式。) |
 | merely         | `/ˈmɪrli/`        | adv. 仅仅地，只不过地     | He merely laughed at the joke.<br />(他仅仅对那个笑话笑了笑。) |
@@ -1919,11 +1919,11 @@ Translator: ChatGPT 4
 | magnificent    | `/mæɡˈnɪfəsənt/`  | adj. 壮丽的，宏伟的      | The palace looks magnificent at night.<br />(宫殿在夜间看起来非常壮丽。) |
 | championship   | `/ˈtʃæmpiənˌʃɪp/` | n. 锦标赛            | She aims to win the world championship.<br />(她的目标是赢得世界锦标赛。) |
 | session        | `/ˈsɛʃən/`        | n. （某项活动的）一段时间；会议 | question-and-answer sessions. 问答时间。<br />a **session of** group therapy. 一段集体心理治疗时间。<br />We had a productive training session. <br>(我们进行了一个高效的培训课程。)<br />The court is now in session. <br/>(法庭现在正在开庭。) |
-| parliament     | `/ˈpɑrləmənt/`    | n. 议会，国会     | The parliament debated the new bill.<br />(议会讨论了新法案。)<br />The law was passed by parliament. <br/>(法律由议会通过。) |
-| ==formality==  | `/fɔːrˈmælɪti/    | n. 正式手续；礼节        | Completing the form is just a formality.<br />(填写表格只是一种形式手续。) |
-| assembly       | `/əˈsɛmbli/       | n. 集会；议会；装配       | The assembly passed a new law.<br />(议会通过了一项新法律。) |
-| plague         | `/pleɪɡ/          | n. 瘟疫；灾害；v. 折磨，困扰 | n. The city was hit by a terrible plague.<br />(这个城市遭受了可怕的瘟疫。)<br />v. He was plagued by guilt.<br />(他被罪恶感折磨。) |
-| render         | `/ˈrɛndər/        | v. 使成为；提供；演绎      | The court rendered a verdict of guilty.<br />(法院作出了有罪的裁决。) |
+| parliament     | `/ˈpɑːrləmənt/`   | n. 议会，国会     | The parliament debated the new bill.<br />(议会讨论了新法案。)<br />The law was passed by parliament. <br/>(法律由议会通过。) |
+| formality      | `/fɔːrˈmæləti/`   | n. 礼节；正式手续               | Signing the contract is just a formality. <br>(签署合同只是一个正式手续。)<br />There's no time for formality in everyday life.<br />在日常生活中没有时间讲礼节。 |
+| assembly       | `/əˈsɛmbli/`      | n. 集会，装配                   | The assembly gathered to discuss the issue. <br>(集会讨论了这个问题。)<br />assembly line. 装配线。<br />national assembly. 国民大会。 |
+| plague         | `/pleɪɡ/`         | n. 瘟疫，灾害<br>v. 折磨，困扰  | n. The plague spread quickly. <br>(瘟疫迅速蔓延。)<br>v. He was **plagued by** worries. <br>(他被担忧困扰。) |
+| render         | `/ˈrɛndər/`       | v. 提供，使成为                 | The service rendered by the company was excellent. <br>(公司提供的服务非常好。)<br/>They rendered assistance to the victims. <br/>(他们向受害者提供了帮助。)<br />The rain rendered the ground soft. <br/>(雨水使地面变得松软。) |
 
 
 
