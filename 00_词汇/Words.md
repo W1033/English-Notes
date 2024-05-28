@@ -958,26 +958,6 @@ Translator: ChatGPT 4
 | hub         | `/hʌb/           | n. 中心；轴心               | The city is a major hub for international trade.<br>(这个城市是国际贸易的重要中心。) |
 | geographic  | `/ˌdʒiːoʊˈɡræfɪk/ | adj. 地理的               | The geographic features of the area include mountains and rivers.<br>(该地区的地理特征包括山脉和河流。) |
 | area        | `/ˈɛəriə/        | n. 地区；面积               | This area is known for its beautiful parks.<br>(这个地区以其美丽的公园而闻名。) |
-| concise     | `/kənˈsaɪs/      | adj. 简洁的                | She gave a concise summary of the book.<br>(她简洁地总结了这本书的内容。) |
-
-
-| 单词      | 美式发音          | 词性+汉语释义                |    示例     |
-|----------|------------------| ---------------------------|   ------   |
-| recruit  | `/rɪˈkruːt	  | v. 招募；吸收<br>n. 新兵；新成员 | v. The company is looking to recruit more staff this year. <br>公司今年计划招募更多员工。<br>n. He is a new recruit in the marketing department. <br>他是市场部的一名新成员。|
-| verbal   | `/ˈvɜːrbəl     | adj. 口头的；言辞的           | She gave a verbal agreement. 她给出了口头同意。 |
-| northern | `/ˈnɔːrðərn    | adj. 北方的；北部的           | She comes from a northern state. 她来自一个北方州。 |
-| vehicle  | `/ˈviːɪkl      | n. 交通工具；车辆             | The car is a common type of vehicle. 汽车是常见的一种交通工具。 |
-| loaf     | `/loʊf         | n. 一条面包<br>v. 闲逛        | I bought a loaf of bread. 我买了一条面包。<br>v. He was loafing around the streets. 他在街上闲逛。 |
-| democracy| `/dɪˈmɑːkrəsi  | n. 民主，民主制度             | The country is a beacon of democracy. 这个国家是民主的灯塔。 |
-| forge    | `/fɔːrdʒ       | v. 伪造；锻造                | The documents were forged. 这些文件被伪造了。 |
-| adore    | `/əˈdɔːr       | v. 崇拜；爱慕                | She adores her children. 她崇拜她的孩子们。 |
-| adorable | `/əˈdɔːrəbl    | adj. 可爱的；值得崇拜的        | That kitten is absolutely adorable. 那只小猫绝对可爱。 |
-| spare    | `/spɛr         | adj. 多余的；备用的<br>v. 节约；饶恕 | adj. Do you have a spare charger? 你有备用充电器吗？<br>v. He spared no effort to help us. 他不遗余力地帮助我们。 |
-| priceless| `/ˈpraɪsləs    | adj. 无价的；极贵重的         | The painting is priceless. 这幅画是无价之宝。 |
-| pretty   | `/ˈprɪti       | adj. 漂亮的；可爱的           | She has a pretty dress. 她有一条漂亮的裙子。 |
-| hub      | `/hʌb          | n. 中心；轴心                | he city is a hub of commerce. 这个城市是商业中心。 |
-| geographic| `/ˌdʒiːəˈɡræfɪk | adj. 地理的                | The geographic location is strategic. 地理位置是战略性的。 |
-| concise  | `/kənˈsaɪs     | adj. 简洁的                  | She gave a concise explanation. 她给出了一个简洁的解释。 |
 
 
 
@@ -1283,8 +1263,6 @@ Translator: ChatGPT 4
 | nonthought        | N/A                 | n. 无思想             | This concept is an example of nonthought.<br>(这一概念是无思想的一个例子。) |
 | forethought       | `/ˈfɔrˌθɔt/        | n. 深谋远虑           | She showed great forethought in her preparations.<br>(她在准备中表现出了极大的深谋远虑。) |
 | stupidity         | `/stjuˈpɪdɪti/     | n. 愚蠢               | His actions were the height of stupidity.<br>(他的行为是愚蠢的极致。) |
-| towards           | `/təˈwɔrdz/        | prep. 向，朝         | He walked towards the sunset.<br>(他朝着日落走去。) |
-| toward            | `/təˈwɔrd/         | prep. 向，朝         | He made a step toward reconciliation.<br>(他朝和解迈出了一步。) |
 | awareness         | `/əˈwɛrˌnɪs/       | n. 意识，认知         | There is a growing awareness of the importance of diet.<br>(人们越来越意识到饮食的重要性。) |
 | oblivion          | `/əˈblɪviən/       | n. 遗忘               | His name sank into oblivion.<br>(他的名字逐渐被人遗忘。) |
 | ride              | `/raɪd/            | v. 骑，乘            | They went for a ride in the countryside.<br>(他们去乡下兜风。) |
@@ -1624,7 +1602,6 @@ Translator: ChatGPT 4
 | situate       | `/ˈsɪtʃueɪt/`          | v. 位于，坐落于           | The village is situated in a valley.<br />(这个村庄位于一个山谷中。) |
 | situation     | `/ˌsɪtʃuˈeɪʃən/`       | n. 情况，形势            | They are assessing the situation after the storm.<br />(暴风雨过后，他们正在评估情况。) |
 | cave          | `/keɪv/                | n. 洞穴；v. 屈服         | n. They explored the cave for archaeological research.<br />(他们为考古研究探索了这个洞穴。)<br />v. Under pressure, he finally caved.<br />(在压力下，他最终屈服了。) |
-| wonderland    | `/ˈwʌndərlænd/         | n. 奇境               | The theme park was like a winter wonderland.<br />(主题公园就像一个冬日仙境。) |
 | down          | `/daʊn/                | adv. 下；adj. 沮丧的     | adv. He walked down the stairs.<br />(他走下楼梯。)<br />adj. She felt down after losing the game.<br />(输掉比赛后，她感到沮丧。) |
 | international | `/ˌɪntərˈnæʃənl/       | adj. 国际的            | The company expanded its international presence.<br />(该公司扩大了其国际存在。) |
 | literal       | `/ˈlɪtərəl/            | adj. 字面的            | His interpretation of the poem was too literal.<br />(他对这首诗的解释太过字面。) |
@@ -1897,76 +1874,96 @@ Translator: ChatGPT 4
 
 
 
-### Added: 2024.04.03 & 04.01
+### Added: 2024.04.03
 
-Translator: ChatGPT 4
+*Edited: 2024.05.27*
 
-#### First Table - 已校对
+Translator: ChatGPT 4 & 4o
 
-~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+#### First Table - 已校对 - 已写 Goodnotes
 
-| 单词            | 美式发音           | 词类 + 汉语释义         | 示例                                     |
-|----------------|-------------------|-------------------|-----------------------------------------|
-| obsolete       | `/ˌɑːbsəˈliːt/`   | adj. 过时的          | The software is obsolete.<br />(这个软件已经过时。)<br />obsolete weapons.<br />(已淘汰的武器) |
-| delegate       | `/ˈdeləɡət/`（n.）<br>`/ˌdelɪˈɡeɪt/`（v.） | n. 代表<br>v. 委派    | n. He is a delegate at the conference.<br />(他是会议的代表。)<br />v. She will delegate the task to her team.<br />(她将把任务委派给她的团队。) |
-| hill           | `/hɪl/`           | n. 小山             | They walked up the hill.<br />(他们走上了小山。)<br />A hawk hovered over the hill. <br />(一只鹰在小山的上空翱翔。) |
-| mere           | `/mɪr/`           | adj. 仅仅的，只不过的     | It's a mere formality.<br />(这只不过是个形式。) |
-| merely         | `/ˈmɪrli/`        | adv. 仅仅地，只不过地     | He merely laughed at the joke.<br />(他仅仅对那个笑话笑了笑。) |
-| pray           | `/preɪ/`          | v. 祈祷，祈求          | They pray for peace every day. <br>(他们每天祈祷和平。)<br>I hope and pray that this is a misunderstanding.我非常希望这是个误会。 |
-| chew           | `/tʃuː/`          | v. 咀嚼             | He chews slowly to savor his food.<br />(他慢慢咀嚼以享受食物。) |
-| savor / savour | `/ˈseɪvər/`       | v. 品尝，享受；n. 滋味    | v. Savor the taste of the wine.<br />(品尝这葡萄酒的味道。)<br />n. The savor of the soup was delightful.<br />(这汤的滋味令人愉悦。) |
-| in the act of  |                   | phrase 在...的过程中  | Caught in the act of lying, he had no excuse.<br />(在撒谎过程中被抓，他无法辩解。)<br />He was caught in the act of stealing. <br/>(他在偷窃的过程中被抓住。) |
-| magnificent    | `/mæɡˈnɪfəsənt/`  | adj. 壮丽的，宏伟的      | The palace looks magnificent at night.<br />(宫殿在夜间看起来非常壮丽。) |
-| championship   | `/ˈtʃæmpiənˌʃɪp/` | n. 锦标赛            | She aims to win the world championship.<br />(她的目标是赢得世界锦标赛。) |
-| session        | `/ˈsɛʃən/`        | n. （某项活动的）一段时间；会议 | question-and-answer sessions. 问答时间。<br />a **session of** group therapy. 一段集体心理治疗时间。<br />We had a productive training session. <br>(我们进行了一个高效的培训课程。)<br />The court is now in session. <br/>(法庭现在正在开庭。) |
-| parliament     | `/ˈpɑːrləmənt/`   | n. 议会，国会     | The parliament debated the new bill.<br />(议会讨论了新法案。)<br />The law was passed by parliament. <br/>(法律由议会通过。) |
-| formality      | `/fɔːrˈmæləti/`   | n. 礼节；正式手续               | Signing the contract is just a formality. <br>(签署合同只是一个正式手续。)<br />There's no time for formality in everyday life.<br />在日常生活中没有时间讲礼节。 |
-| assembly       | `/əˈsɛmbli/`      | n. 集会，装配                   | The assembly gathered to discuss the issue. <br>(集会讨论了这个问题。)<br />assembly line. 装配线。<br />national assembly. 国民大会。 |
-| plague         | `/pleɪɡ/`         | n. 瘟疫，灾害<br>v. 折磨，困扰  | n. The plague spread quickly. <br>(瘟疫迅速蔓延。)<br>v. He was **plagued by** worries. <br>(他被担忧困扰。) |
-| render         | `/ˈrɛndər/`       | v. 提供，使成为                 | The service rendered by the company was excellent. <br>(公司提供的服务非常好。)<br/>They rendered assistance to the victims. <br/>(他们向受害者提供了帮助。)<br />The rain rendered the ground soft. <br/>(雨水使地面变得松软。) |
+**注：下面表格单词已写到 Goodnotes；日期见：2024.05.28**
+
+| 单词            | 美式发音           | 词类 + 汉语释义            | 示例                                     |
+|----------------|-------------------|----------------------|-----------------------------------------|
+| obsolete       | `/ˌɑːbsəˈliːt/`   | adj. 过时的             | The software is obsolete.<br />(这个软件已经过时。)<br />obsolete weapons.<br />(已淘汰的武器) |
+| delegate       | `/ˈdeləɡət/`（n.）<br>`/ˌdelɪˈɡeɪt/`（v.） | n. 代表<br>v. 委派       | n. He is a delegate at the conference.<br />(他是会议的代表。)<br />v. She will delegate the task to her team.<br />(她将把任务委派给她的团队。) |
+| hill           | `/hɪl/`           | n. 小山                | They walked up the hill.<br />(他们走上了小山。)<br />A hawk hovered over the hill. <br />(一只鹰在小山的上空翱翔。) |
+| mere           | `/mɪr/`           | adj. 仅仅的，只不过的        | It's a mere formality.<br />(这只不过是个形式。) |
+| merely         | `/ˈmɪrli/`        | adv. 仅仅地，只不过地        | He merely laughed at the joke.<br />(他仅仅对那个笑话笑了笑。) |
+| pray           | `/preɪ/`          | v. 祈祷，祈求             | They pray for peace every day. <br>(他们每天祈祷和平。)<br>I hope and pray that this is a misunderstanding.我非常希望这是个误会。 |
+| chew           | `/tʃuː/`          | v. 咀嚼                | He chews slowly to savor his food.<br />(他慢慢咀嚼以享受食物。) |
+| savor / savour | `/ˈseɪvər/`       | v. 品尝，享受；n. 滋味       | v. Savor the taste of the wine.<br />(品尝这葡萄酒的味道。)<br />n. The savor of the soup was delightful.<br />(这汤的滋味令人愉悦。) |
+| in the act of  |                   | phrase 在...的过程中      | Caught in the act of lying, he had no excuse.<br />(在撒谎过程中被抓，他无法辩解。)<br />He was caught in the act of stealing. <br/>(他在偷窃的过程中被抓住。) |
+| magnificent    | `/mæɡˈnɪfəsənt/`  | adj. 壮丽的，宏伟的         | The palace looks magnificent at night.<br />(宫殿在夜间看起来非常壮丽。) |
+| championship   | `/ˈtʃæmpiənˌʃɪp/` | n. 锦标赛               | She aims to win the world championship.<br />(她的目标是赢得世界锦标赛。) |
+| session        | `/ˈsɛʃən/`        | n. （某项活动的）一段时间；会议    | question-and-answer sessions. 问答时间。<br />a **session of** group therapy. 一段集体心理治疗时间。<br />We had a productive training session. <br>(我们进行了一个高效的培训课程。)<br />The court is now in session. <br/>(法庭现在正在开庭。) |
+| parliament     | `/ˈpɑːrləmənt/`   | n. 议会，国会             | The parliament debated the new bill.<br />(议会讨论了新法案。)<br />The law was passed by parliament. <br/>(法律由议会通过。) |
+| formality      | `/fɔːrˈmæləti/`   | n. 礼节；正式手续           | Signing the contract is just a formality. <br>(签署合同只是一个正式手续。)<br />There's no time for formality in everyday life.<br />在日常生活中没有时间讲礼节。 |
+| assembly       | `/əˈsɛmbli/`      | n. 集会，装配             | The assembly gathered to discuss the issue. <br>(集会讨论了这个问题。)<br />assembly line. 装配线。<br />national assembly. 国民大会。 |
+| plague         | `/pleɪɡ/`         | n. 瘟疫，灾害<br>v. 折磨，困扰 | n. The plague spread quickly. <br>(瘟疫迅速蔓延。)<br>v. He was **plagued by** worries. <br>(他被担忧困扰。) |
+| render         | `/ˈrɛndər/`       | v. 提供，使成为            | The service rendered by the company was excellent. <br>(公司提供的服务非常好。)<br/>They rendered assistance to the victims. <br/>(他们向受害者提供了帮助。)<br />The rain rendered the ground soft. <br/>(雨水使地面变得松软。) |
 
 
 
 
 ### Added: 2024.04.01
 
-Translator: ChatGPT 4
+*Edited: 2024.05.28*
+
+Translator: ChatGPT 4 & 4o
+
+#### First Table - 已校对
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| Word     | American Pronunciation | Part of Speech + Chinese Definition | Example Sentence                                          |
-|--------------|--------------------|-------------------------------------|----------------------------------------------------------|
-| literature   | `/ˈlɪtərətʃər/     | n. 文学                | She has an extensive collection of world literature. (她拥有丰富的世界文学藏书。) |
-| literary     | `/ˈlɪtəˌrɛri/      | adj. 文学的            | He made a significant literary achievement. (他取得了重要的文学成就。) |
-| quote        | `/kwoʊt/`            | v. 引用；报价<br />n. 引用；报价   | v. He quoted a famous poet in his speech. (他在演讲中引用了一位著名诗人的话。)<br />v. He quoted a short passage form the Bible. <br />(他引用了《圣经》里的一小段。)<br />n. Can you give me a quote for the repair work?<br />(你能给我一个修理工作的报价吗？) |
-| bam          | `/bæm/             | interj. （突然发生的声音或行动的表示）| The door went bam and everyone looked up. (门“砰”的一声，所有人都抬头看。) |
-| pariah       | `/pəˈraɪə/         | n. 被排斥或鄙视的人      | He became a social pariah after the scandal. (丑闻之后他成了社会弃儿。) |
-| booby        | `/ˈbuːbi/          | n. 傻瓜；笨蛋           | Don't be such a booby! (别做傻瓜！) |
-| shout-out    | `/ˈʃaʊtˌaʊt/       | n. 大声喊出；公开感谢或认可 | I want to give a shout-out to my team for their hard work. (我想大声感谢我的团队为他们的辛勤工作。) |
-| rapture      | `/ˈræptʃər/        | n. 狂喜                 | She listened to the music with a look of rapture. (她听音乐时面露狂喜。) |
-| effortless   | `/ˈɛfərtləs/       | adj. 不费力的            | He made an effortless jump and won the game. (他轻松跳跃赢得了比赛。) |
-| boast        | `/boʊst/           | v. 吹嘘；n. 自夸         | v. He boasts about his achievements. (他夸耀自己的成就。) |
-| concise      | `/kənˈsaɪs/        | adj. 简洁的             | His explanation was clear and concise. (他的解释清晰而简洁。) |
-| propaganda   | `/ˌprɑːpəˈɡændə/   | n. 宣传                 | The government's campaign was full of propaganda. (政府的运动充满了宣传。) |
-| exclusive    | `/ɪkˈskluːsɪv/     | adj. 独有的，专有的       | They obtained an exclusive interview with the celebrity. (他们获得了对那位名人的独家采访。) |
-| endanger     | `/ɛnˈdeɪndʒər/     | v. 使处于危险            | His reckless driving could endanger lives.<br />(他鲁莽的驾驶可能会危及生命。) |
-| wonder       | `/ˈwʌndər/         | v. 想知道；对...感到惊奇；n. 奇迹 | v. I wonder why she left the party early.<br />(我想知道她为什么早早地离开了聚会。)<br />n. The Great Wall is one of the wonders of the world.<br />(长城是世界奇迹之一。) |
-| mouth        | `/maʊθ/            | n. 嘴；口                | She put the spoon in her mouth.<br />(她把勺子放进嘴里。) |
-| tremendous   | `/trɪˈmɛndəs/      | adj. 巨大的；极好的       | They won the game by a tremendous margin.<br />(他们以巨大的优势赢得了比赛。) |
-| toward       | `/təˈwɔrd/         | prep. 朝向；对于         | He walked toward the door.<br />(他朝门走去。) |
-| itinerary    | `/aɪˈtɪnəˌrɛri/    | n. 旅行计划；行程单       | She checked her itinerary to confirm the flight times.<br />(她查看了她的行程单以确认航班时间。) |
-| indivisible  | `/ˌɪndɪˈvɪzəbl/    | adj. 不可分割的          | The concept of freedom is indivisible from human rights. (自由的概念与人权不可分割。) |
-| onto         | `/ˈɒntu/           | prep. 到...之上         | She climbed onto the roof. (她爬到屋顶上。)             |
-| impression   | `/ɪmˈprɛʃən/       | n. 印象                 | His speech made a strong impression on the audience. (他的演讲给观众留下了深刻的印象。) |
-| repent       | `/rɪˈpɛnt/         | v. 悔改，后悔            | He repented for his past mistakes. (他为过去的错误感到后悔。) |
-| slack        | `/slæk/            | adj. 松弛的；v. 松懈，减弱 | adj. The rope is too slack. (绳子太松了。)<br>v. Don't slack on your duties. (不要在职责上松懈。) |
-| fortunate    | `/ˈfɔːrtʃənət/     | adj. 幸运的              | She was fortunate to find her lost ring. (她很幸运找到了她丢失的戒指。) |
-| total        | `/ˈtoʊtl/          | n. 总计；adj. 总的，全部的 | n. The total comes to $100. (总计为100美元。)<br>adj. The total amount is overwhelming. (总金额是压倒性的。) |
-| labyrinth    | `/ˈlæbərɪnθ/       | n. 迷宫                  | The ancient palace was a labyrinth of corridors. (古宫殿是一个迷宫般的走廊。) |
-| labyrinthine | `/ˌlæbəˈrɪnθɪn/    | adj. 迷宫般的             | The legal procedures were labyrinthine and complex. (法律程序错综复杂。) |
-| corpse       | `/kɔːrps/          | n. 尸体                  | The corpse was found in the woods. (尸体在树林中被发现。) |
-| literally    | `/ˈlɪtərəli/       | adv. 字面上的，确实地      | He was literally the only person there. (他确实是那里唯一的人。) |
-| literal      | `/ˈlɪtərəl/        | adj. 字面的，确切的        | The literal meaning of the word is clear. (这个词的字面意思很清楚。) |
+*注：示例列已校对*
+
+| 单词       | 美式发音        | 词性 + 汉语释义                | 示例                                                         |
+| ---------- | --------------- | ------------------------------ | ------------------------------------------------------------ |
+| literature | `/ˈlɪtərətʃʊr/` | n. 文学，文献                  | Italian literature. 意大利文学。<br />He has read many of the major works of literature.<br /> 他读过很多重要的文学作品。<br />She studied English literature in college. <br>(她在大学学习英语文学。) |
+| literary   | `/ˈlɪtəreri/`   | adj. 文学的                    | He is a literary critic. <br>(他是一位文学评论家。)          |
+| quote      | `/kwoʊt/`       | v. 引用；报价<br>n. 引文；报价 | v. She **quoted from** a newspaper article. <br />她引用了报纸上的一篇文章的内容。<br />v. She quoted a famous author in her speech. <br>(她在演讲中引用了一位著名作家的话。)<br>v. The contractor quoted a price for the renovation. <br>(承包商报了一个装修的价格。)<br>n. The book begins with a **quote from** Shakespeare. <br>(这本书以莎士比亚的引文开头。)<br>n. He gave me a quote for the repair. <br>(他给了我一个修理的报价。) |
+| bam        | `/bæm/`         | int. 砰（表示突然的声音）      | Bam! The door slammed shut. <br>(砰！门猛地关上了。)         |
+| pariah     | `/pəˈraɪə/`     | n. 被社会遗弃者                | He felt like a pariah in his new school. <br>(他在新学校感到像个被遗弃者。) |
+| booby      | `/ˈbuːbi/`      | n. 傻瓜，笨蛋                  | Don't be such a booby! (别做傻瓜！)<br />He felt like a booby after making that mistake. <br>(犯了那个错误后，他觉得自己像个笨蛋。) |
+| shout-out  | `/ˈʃaʊtˌaʊt/`   | n. 致敬，公开感谢              | He gave a shout-out to his team for their hard work. <br>(他公开感谢团队的辛勤工作。) |
+| rapture    | `/ˈræptʃər/`    | n. 狂喜                        | She was in rapture **over the news**. <br>(她听到这个消息欣喜若狂。)<br />The children gazed at her **in rapture**. <br />孩子们欣喜若狂地看着她。<br />Charles listened **with rapture** to her singing.<br />查尔斯兴致勃勃地听她演讲。 |
+| effortless | `/ˈefərtləs/`   | adj. 不费力的                  | She made the difficult task look effortless. <br>(她让这项艰难的任务看起来毫不费力。) |
+| boast      | `/boʊst/`       | v. 自夸，吹嘘<br>n. 自夸       | v. He **boasted about** his achievements. <br>(他自夸自己的成就。)<br>v. ‘I wouldn’t be afraid,’ she boasted.<br />“我才不怕呢。”她吹嘘道。<br />v. Amy **boasted that** her son was a genius.<br />埃米夸耀自己的儿子是天才。<br />n. His biggest boast is his sports car. <br>(他最自夸的是他的跑车。) |
+| concise    | `/kənˈsaɪs/`    | adj. 简明的，简洁的            | The report is clear and concise. <br>(报告清晰简洁。)        |
+| exclusive  | `/ɪkˈskluːsɪv/` | adj. 独有的<br>n. 独家新闻     | adj. This club is exclusive to members only. <br>(这个俱乐部仅对会员开放。)<br>n. The magazine published an exclusive on the scandal. <br>(杂志发表了关于这起丑闻的独家新闻。) |
+| endanger   | `/ɪnˈdeɪndʒər/` | v. 危及；危害                  | Pollution can endanger wildlife. <br>(污染可能会危及野生动物。)<br /> Smoking during pregnancy endangers your baby’s life.<br />孕期吸烟会危及胎儿生命。<br />endanger degree. 危害程度。<br />endanger factors. 危害因素。 |
+| wonder     | `/ˈwʌndər/`     | v. 想知道，感到惊讶<br>n. 奇迹 | v. I wonder what will happen next. <br>(我想知道接下来会发生什么。)<br>v. I wonder why she left the party early.<br />(我想知道她为什么早早地离开了聚会。)<br />v. Sometimes I **wonder about** his behavious. <br />我有时对他的行为感到惊讶。<br />n. The Great Wall is one of the wonders of the world.<br />(长城是世界奇迹之一。)<br />n. technologial wonders. 科技奇迹。<br />n. the Seven Wonders of the World. 世界七大奇观 |
+| wonderland | `/ˈwʌndərlænd/` | n. 仙境，奇境                  | The theme park was like a winter wonderland.<br />(主题公园就像一个冬日仙境。) |
+
+#### Second Table
+
+==校对：校对中==
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| Word          | American Pronunciation | Part of Speech + Chinese Definition | Example Sentence                                          |
+|---------------|------------------|------------------------|----------------------------------------------------------|
+| tremendous    | `/trəˈmendəs/`   | adj. 巨大的，极好的           | The team made a tremendous effort. <br>(团队付出了巨大的努力。)<br />He did a tremendous job on his presentation and impressed everyone.<br/>他在演讲中表现得非常好，给大家留下了深刻的印象。 |
+| toward^(1)^   | `/təˈwɔːrd/`     | prep. 朝，向；关于           | She walked toward the door. <br>(她朝门口走去。)<br>His attitude toward work has improved. <br>(他对工作的态度有所改善。)<br>They discussed plans toward building a new school. <br>(他们讨论了关于建新学校的计划。) |
+| towards       | `/təˈwɔːdz/`     | prep. 朝，向；关于           | She walked towards the door. <br>(她朝门口走去。)<br>Her feelings towards him have changed. <br>(她对他的感情发生了变化。)<br>We are moving towards a solution. <br>(我们正在朝着解决方案前进。) |
+| itinerary     | `/aɪˈtɪnəreri/`  | n. 行程，旅行计划             | Our itinerary includes visits to several museums. <br>(我们的行程包括参观几家博物馆。) |
+| indivisible   | `/ˌɪndɪˈvɪzəbəl/`| adj. 不可分割的             | The nation is indivisible. <br>(这个国家是不可分割的。) |
+| onto          | `/ˈɑːntʊ/` <br /> `/ˈɒːntuː/`（strong） | prep. 到...上；向...之上  | The cat jumped onto the table. <br>(猫跳到了桌子上。) |
+| impression    | `/ɪmˈpreʃən/`    | n. 印象，感想               | She made a good impression at the interview. <br>(她在面试中留下了好印象。)<br /> What was your **impression of** Roger?你对罗杰印象如何？<br />make an impression. 留下印象<br />give an impression. 给人印象<br />under the impression. 在印象中 |
+| repent        | `/rɪˈpent/`      | v. 忏悔，悔过               | He repented for his sins. <br>(他为自己的罪过忏悔。)<br />He repented of his sins before he died.<br />他临死前为自己的罪过忏悔。 |
+| slack         | `/slæk/`         | adj. 松弛的，懈怠的<br>n. 松弛；懈怠 | adj. The rope was slack. <br>(绳子松了。)<br>adj. He was criticized for his slack attitude towards work. <br />他因为对工作态度懒散而收到批评。<br />n. There was too much slack in the rope. <br>(绳子太松了。) |
+| fortunate | `/ˈfɔːrtʃənət/` | adj. 幸运的                 | She felt fortunate to have such good friends. <br>(她觉得自己有这么好的朋友很幸运。)<br />I’ve been **fortunate to** find a career that I love.<br />我是幸运的﹐找到了自己喜欢的职业。 |
+| ==total       | `/ˈtoʊtəl/`      | adj. 总的，完全的<br>n. 总数   | adj. The total cost was higher than expected. <br>(总费用比预期的要高。)<br>n. The total of the bill was $100. <br>(账单的总数是100美元。) |
+| labyrinth     | `/ˈlæbəˌrɪnθ/`   | n. 迷宫，错综复杂             | The old castle was a labyrinth of hallways. <br>(这座古老的城堡是个错综复杂的走廊迷宫。) |
+| labyrinthine  | `/ˌlæbəˈrɪnθin/` | adj. 迷宫般的，复杂的          | The labyrinthine streets of the city were confusing. <br>(这座城市的迷宫般的街道令人困惑。) |
+| corpse        | `/kɔrps/`        | n. 尸体                    | The detective found a corpse in the abandoned house. <br>(侦探在废弃的房子里发现了一具尸体。) |
+| literally     | `/ˈlɪtərəli/`    | adv. 照字面意义地；确实地        | He literally jumped out of his chair when he heard the news. <br>(他听到这个消息时确实从椅子上跳了起来。) |
+| literal       | `/ˈlɪtərəl/`     | adj. 照字面意义的；真实的        | The literal meaning of the word is different from its figurative meaning. <br>(这个词的字面意义与其比喻意义不同。) |
+
+##### 注释：
+(1) **toward** 和 **towards** 在美式英语和英式英语中均表示“朝，向；关于”，但在用法上几乎没有区别。美式英语更常用 **toward**，而英式英语更常用 **towards**。
 
 
 
@@ -2001,7 +1998,7 @@ Translator: ChatGPT 4
 | species    | `/ˈspiːʃiːz/`    | n. 物种               | This species is endangered and protected by law.<br>(这个物种濒临灭绝并受到法律保护。) |
 | primeval   | `/praɪˈmiːvəl/`  | adj. 原始的；远古的     | The primeval forest is untouched by modern development.<br>(这片原始森林未被现代开发触及。) |
 | necktie    | `/ˈnektaɪ/`      | n. 领带               | He chose a silk necktie for the meeting.<br>(他为会议选择了一条丝质领带。) |
-| always and forever | N/A      | phrase 永远           | Their promise was to be together always and forever.<br>(他们的承诺是永远在一起。) |
+| always and forever |       | phrase 永远           | Their promise was to be together always and forever.<br>(他们的承诺是永远在一起。) |
 | dishearten | `/dɪsˈhɑːrtən/`  | v. 使沮丧，使气馁       | The series of failures disheartened him.<br />(一连串的失败使他感到沮丧。)<br />Don't let this defeat dishearten you.<br />(不要因这次失败而气馁。) |
 | disheartened | `/dɪsˈhɑːrtənd/`| adj. 沮丧的；气馁的    | After failing the exam, he felt disheartened and doubted his abilities.<br />(在考试失败后，他感到很沮丧，对自己的能力产生了怀疑。)<br />She felt disheartened after the failure.<br>(失败后她感到气馁。)<br />Do Not Let Me Disheartened. 不要让我失望。 |
 | arithmetic | `/əˈrɪθmətɪk/`   | n. 算术                | Learning the basics of arithmetic is essential in school.<br>(学习算术基础是学校教育的必要部分。) |
@@ -3211,7 +3208,6 @@ Translator: ChatGPT 4
 | picnic          | `/ˈpɪknɪk/           | n. 野餐               |
 | prudent         | `/ˈpruːdnt/          | adj. 谨慎的；精明的        |
 | mnemonic        | `/nɪˈmɑnɪk/          | adj. 助记的；n. 记忆法     |
-| concise         | `/kənˈsaɪs/          | adj. 简洁的            |
 | paraphrase      | `/ˈpærəfreɪz/        | v. 解释；改述            |
 | affair          | `/əˈfɛr/             | n. 事务；事件            |
 | disappear       | `/ˌdɪsəˈpɪr/         | v. 消失               |
