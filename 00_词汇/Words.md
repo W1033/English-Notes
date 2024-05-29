@@ -1604,7 +1604,6 @@ Translator: ChatGPT 4
 | cave          | `/keɪv/                | n. 洞穴；v. 屈服         | n. They explored the cave for archaeological research.<br />(他们为考古研究探索了这个洞穴。)<br />v. Under pressure, he finally caved.<br />(在压力下，他最终屈服了。) |
 | down          | `/daʊn/                | adv. 下；adj. 沮丧的     | adv. He walked down the stairs.<br />(他走下楼梯。)<br />adj. She felt down after losing the game.<br />(输掉比赛后，她感到沮丧。) |
 | international | `/ˌɪntərˈnæʃənl/       | adj. 国际的            | The company expanded its international presence.<br />(该公司扩大了其国际存在。) |
-| literal       | `/ˈlɪtərəl/            | adj. 字面的            | His interpretation of the poem was too literal.<br />(他对这首诗的解释太过字面。) |
 | friction      | `/ˈfrɪkʃən/            | n. 摩擦               | Friction between the two groups caused the conflict.<br />(两个团体之间的摩擦引发了冲突。) |
 
 ##### 单词简单解释
@@ -1937,30 +1936,28 @@ Translator: ChatGPT 4 & 4o
 | wonder     | `/ˈwʌndər/`     | v. 想知道，感到惊讶<br>n. 奇迹 | v. I wonder what will happen next. <br>(我想知道接下来会发生什么。)<br>v. I wonder why she left the party early.<br />(我想知道她为什么早早地离开了聚会。)<br />v. Sometimes I **wonder about** his behavious. <br />我有时对他的行为感到惊讶。<br />n. The Great Wall is one of the wonders of the world.<br />(长城是世界奇迹之一。)<br />n. technologial wonders. 科技奇迹。<br />n. the Seven Wonders of the World. 世界七大奇观 |
 | wonderland | `/ˈwʌndərlænd/` | n. 仙境，奇境                  | The theme park was like a winter wonderland.<br />(主题公园就像一个冬日仙境。) |
 
-#### Second Table
-
-==校对：校对中==
+#### Second Table - 已校对
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| Word          | American Pronunciation | Part of Speech + Chinese Definition | Example Sentence                                          |
-|---------------|------------------|------------------------|----------------------------------------------------------|
-| tremendous    | `/trəˈmendəs/`   | adj. 巨大的，极好的           | The team made a tremendous effort. <br>(团队付出了巨大的努力。)<br />He did a tremendous job on his presentation and impressed everyone.<br/>他在演讲中表现得非常好，给大家留下了深刻的印象。 |
-| toward^(1)^   | `/təˈwɔːrd/`     | prep. 朝，向；关于           | She walked toward the door. <br>(她朝门口走去。)<br>His attitude toward work has improved. <br>(他对工作的态度有所改善。)<br>They discussed plans toward building a new school. <br>(他们讨论了关于建新学校的计划。) |
-| towards       | `/təˈwɔːdz/`     | prep. 朝，向；关于           | She walked towards the door. <br>(她朝门口走去。)<br>Her feelings towards him have changed. <br>(她对他的感情发生了变化。)<br>We are moving towards a solution. <br>(我们正在朝着解决方案前进。) |
-| itinerary     | `/aɪˈtɪnəreri/`  | n. 行程，旅行计划             | Our itinerary includes visits to several museums. <br>(我们的行程包括参观几家博物馆。) |
-| indivisible   | `/ˌɪndɪˈvɪzəbəl/`| adj. 不可分割的             | The nation is indivisible. <br>(这个国家是不可分割的。) |
-| onto          | `/ˈɑːntʊ/` <br /> `/ˈɒːntuː/`（strong） | prep. 到...上；向...之上  | The cat jumped onto the table. <br>(猫跳到了桌子上。) |
-| impression    | `/ɪmˈpreʃən/`    | n. 印象，感想               | She made a good impression at the interview. <br>(她在面试中留下了好印象。)<br /> What was your **impression of** Roger?你对罗杰印象如何？<br />make an impression. 留下印象<br />give an impression. 给人印象<br />under the impression. 在印象中 |
-| repent        | `/rɪˈpent/`      | v. 忏悔，悔过               | He repented for his sins. <br>(他为自己的罪过忏悔。)<br />He repented of his sins before he died.<br />他临死前为自己的罪过忏悔。 |
-| slack         | `/slæk/`         | adj. 松弛的，懈怠的<br>n. 松弛；懈怠 | adj. The rope was slack. <br>(绳子松了。)<br>adj. He was criticized for his slack attitude towards work. <br />他因为对工作态度懒散而收到批评。<br />n. There was too much slack in the rope. <br>(绳子太松了。) |
-| fortunate | `/ˈfɔːrtʃənət/` | adj. 幸运的                 | She felt fortunate to have such good friends. <br>(她觉得自己有这么好的朋友很幸运。)<br />I’ve been **fortunate to** find a career that I love.<br />我是幸运的﹐找到了自己喜欢的职业。 |
-| ==total       | `/ˈtoʊtəl/`      | adj. 总的，完全的<br>n. 总数   | adj. The total cost was higher than expected. <br>(总费用比预期的要高。)<br>n. The total of the bill was $100. <br>(账单的总数是100美元。) |
-| labyrinth     | `/ˈlæbəˌrɪnθ/`   | n. 迷宫，错综复杂             | The old castle was a labyrinth of hallways. <br>(这座古老的城堡是个错综复杂的走廊迷宫。) |
-| labyrinthine  | `/ˌlæbəˈrɪnθin/` | adj. 迷宫般的，复杂的          | The labyrinthine streets of the city were confusing. <br>(这座城市的迷宫般的街道令人困惑。) |
-| corpse        | `/kɔrps/`        | n. 尸体                    | The detective found a corpse in the abandoned house. <br>(侦探在废弃的房子里发现了一具尸体。) |
-| literally     | `/ˈlɪtərəli/`    | adv. 照字面意义地；确实地        | He literally jumped out of his chair when he heard the news. <br>(他听到这个消息时确实从椅子上跳了起来。) |
-| literal       | `/ˈlɪtərəl/`     | adj. 照字面意义的；真实的        | The literal meaning of the word is different from its figurative meaning. <br>(这个词的字面意义与其比喻意义不同。) |
+| Word         | American Pronunciation | Part of Speech + Chinese Definition | Example Sentence                                                                                                                                                                                                        |
+|--------------|------------------|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| tremendous   | `/trəˈmendəs/`   | adj. 巨大的，极好的         | The team made a tremendous effort. <br>(团队付出了巨大的努力。)<br />He did a tremendous job on his presentation and impressed everyone.<br/>他在演讲中表现得非常好，给大家留下了深刻的印象。                                                              |
+| toward^(1)^  | `/təˈwɔːrd/`     | prep. 朝，向；关于         | She walked toward the door. <br>(她朝门口走去。)<br>His attitude toward work has improved. <br>(他对工作的态度有所改善。)<br>They discussed plans toward building a new school. <br>(他们讨论了关于建新学校的计划。)                                      |
+| towards      | `/təˈwɔːdz/`     | prep. 朝，向；关于         | She walked towards the door. <br>(她朝门口走去。)<br>Her feelings towards him have changed. <br>(她对他的感情发生了变化。)<br>We are moving towards a solution. <br>(我们正在朝着解决方案前进。)                                                        |
+| itinerary    | `/aɪˈtɪnəreri/`  | n. 行程，旅行计划           | Our itinerary includes visits to several museums. <br>(我们的行程包括参观几家博物馆。)                                                                                                                                                 |
+| indivisible  | `/ˌɪndɪˈvɪzəbəl/` | adj. 不可分割的           | The nation is indivisible. <br>(这个国家是不可分割的。)                                                                                                                                                                            |
+| onto         | `/ˈɑːntʊ/` <br /> `/ˈɒːntuː/`（strong） | prep. 到...上；向...之上   | The cat jumped onto the table. <br>(猫跳到了桌子上。)                                                                                                                                                                           |
+| impression   | `/ɪmˈpreʃən/`    | n. 印象，感想             | She made a good impression at the interview. <br>(她在面试中留下了好印象。)<br /> What was your **impression of** Roger?你对罗杰印象如何？<br />make an impression. 留下印象<br />give an impression. 给人印象<br />under the impression. 在印象中       |
+| repent       | `/rɪˈpent/`      | v. 忏悔，悔过             | He repented for his sins. <br>(他为自己的罪过忏悔。)<br />He repented of his sins before he died.<br />他临死前为自己的罪过忏悔。                                                                                                              |
+| slack        | `/slæk/`         | adj. 松弛的，懈怠的<br>n. 松弛；懈怠 | adj. The rope was slack. <br>(绳子松了。)<br>adj. He was criticized for his slack attitude towards work. <br />他因为对工作态度懒散而收到批评。<br />n. There was too much slack in the rope. <br>(绳子太松了。)                                   |
+| fortunate    | `/ˈfɔːrtʃənət/`  | adj. 幸运的             | She felt fortunate to have such good friends. <br>(她觉得自己有这么好的朋友很幸运。)<br />I’ve been **fortunate to** find a career that I love.<br />我是幸运的﹐找到了自己喜欢的职业。                                                                  |
+| total        | `/ˈtoʊtəl/`      | adj. 总的，完全的<br>n. 总数 | adj. The total cost was higher than expected. <br>(总费用比预期的要高。)<br>n. The total of the bill was $100. <br>(账单的总数是100美元。)                                                                                                 |
+| labyrinth    | `/ˈlæbərɪnθ/`    | n. 迷宫，错综复杂           | The old castle was a **labyrinth of** hallways. <br>(这座古老的城堡是个错综复杂的走廊迷宫。)<br />The plot of the movie was a **labyrinth of** twists and turns, keeping the audience guessing until the end.<br />这部电影的情节错综复杂，一直让观众猜测到最后。 |
+| labyrinthine | `/ˌlæbəˈrɪnθɪn/` | adj. 迷宫般的，复杂的        | The labyrinthine streets of the city were confusing. <br>(这座城市的迷宫般的街道令人困惑。)                                                                                                                                             |
+| corpse       | `/kɔːrps/`       | n. 尸体                | The detective found a corpse in the abandoned house. <br>(侦探在废弃的房子里发现了一具尸体。)                                                                                                                                            |
+| literal      | `/ˈlɪtərəl/`     | adj. 照字面意思的          | literal translation. 直译；逐字翻译。<br>literal meanning. 字面意思。<br />lThe literal meaning of the word is different from its figurative meaning. <br>(这个词的字面意义与其比喻意义不同。)                                                        |
+| literally    | `/ˈlɪtərəli/`    | adv. 照字面意义地；确实地            | He literally jumped out of his chair when he heard the news. <br>(他听到这个消息时确实从椅子上跳了起来。)<br>She literally translated the text word for word. <br>(她逐字逐句地翻译了这篇文本。)<br>There were literally hundreds of people at the event. <br>(活动现场确实有数百人。) |
 
 ##### 注释：
 (1) **toward** 和 **towards** 在美式英语和英式英语中均表示“朝，向；关于”，但在用法上几乎没有区别。美式英语更常用 **toward**，而英式英语更常用 **towards**。
@@ -1970,7 +1967,12 @@ Translator: ChatGPT 4 & 4o
 
 ### Added: 2024.03.30
 
-Translator: ChatGPT 4
+Translator: ChatGPT 4 & 4o
+
+
+#### First Table 
+
+==校对：未校对==
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
@@ -1991,8 +1993,39 @@ Translator: ChatGPT 4
 | semitism   | `/ˈsɛmɪtɪzəm/    | n. 犹太人的特性或习惯   | The book discusses the history of Semitism in the region.<br />(这本书讨论了该地区犹太人的特性或习惯的历史。) |
 | summon     | `/ˈsʌmən/        | v. 召唤；召集         | He was summoned to court to testify.<br />(他被召唤到法庭作证。) |
 | offscreen  | `/ˌɔːfˈskriːn/   | adj. 屏幕外的         | The actor's offscreen personality is very different from his movie roles.<br />(这位演员的屏幕外个性与他的电影角色非常不同。) |
+
+
+| 单词         | 美式发音           | 词性 + 汉语释义                          | 示例                                                         |
+|--------------|--------------------|-----------------------------------------|--------------------------------------------------------------|
+| minimum    | `/ˈmɪnəməm/`     | adj. 最低的，最小的<br>n. 最低限度，最小量 | adj. He received the minimum punishment. <br>(他受到了最轻的处罚。)<br>adj. The minimum age for retirement is 55. <br />最小退休年龄为 55 岁。<br />adj. The minimum number of students we need to run the course is fifteen.<br />我们开这门课程最少要有15个学生。<br />n. The minimum age for voting is 18. <br>(投票的最低年龄是18岁。) |
+| cement   | `/səˈment/`      | n. 水泥<br>v. 巩固                       | Cement Plant. 水泥厂。<br />n. They used cement to build the wall. <br>(他们用水泥建墙。)<br>v. The agreement cemented their friendship. <br>(这份协议巩固了他们的友谊。) |
+| ==sprig==    | `/sprɪɡ/`          | n. 小枝                                 | She decorated the dish with a sprig of parsley. <br>(她用一小枝欧芹装饰了这道菜。) |
+| perch        | `/pɜrtʃ/`          | n. 栖息处<br>v. 栖息，停留               | n. The bird sat on its perch. <br>(鸟儿坐在栖息处。)<br>v. The cat perched on the windowsill. <br>(猫停在窗台上。) |
+| estimate     | `/ˈɛstɪmət/`       | v. 估计<br>n. 估价                       | v. They estimated the cost of the project. <br>(他们估算了项目的费用。)<br>n. The repairman gave me an estimate for the work. <br>(修理工给了我一个工作估价。) |
+| glamorous    | `/ˈɡlæmərəs/`      | adj. 迷人的                              | She looked glamorous in her evening gown. <br>(她穿着晚礼服看起来很迷人。) |
+| chaff        | `/tʃæf/`           | n. 糠                                   | They separated the wheat from the chaff. <br>(他们将麦粒与谷壳分开。) |
+| impression   | `/ɪmˈprɛʃən/`      | n. 印象                                 | She made a good impression at the interview. <br>(她在面试中留下了好印象。) |
+| ridge        | `/rɪdʒ/`           | n. 山脊                                 | We hiked along the ridge of the mountain. <br>(我们沿着山脊徒步旅行。) |
+| relief       | `/rɪˈlif/`         | n. 解脱                                 | He felt a sense of relief after the exam. <br>(考试结束后他感到一阵轻松。) |
+| occupation   | `/ˌɑkjəˈpeɪʃən/`   | n. 职业                                 | His occupation is a doctor. <br>(他的职业是医生。) |
+| holocaust    | `/ˈhɑləkɔst/`      | n. 大屠杀                               | The Holocaust was a tragic event in history. <br>(大屠杀是历史上一个悲惨的事件。) |
+| semitism     | `/ˈsɛmɪˌtɪzəm/`    | n. 闪米特人的特性                        | They studied the influence of Semitism in ancient cultures. <br>(他们研究了闪米特人在古代文化中的影响。) |
+| summon       | `/ˈsʌmən/`         | v. 召唤                                 | He was summoned to appear in court. <br>(他被传唤出庭。) |
+| offscreen    | `/ˌɔfˈskrin/`      | adj. 幕后的                              | The actor's offscreen life is very private. <br>(这位演员的幕后生活非常私密。) |
+
+
+
+
+
+#### First Table
+
+==校对：未校对==
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词        | 美式发音          | 词类 + 汉语释义       | 示例                                                         |
+| ---------- | ---------------- | ------------------- | ------------------------------------------------------------ |
 | protective | `/prəˈtɛktɪv/    | adj. 保护性的         | She wore protective gear while riding the motorcycle.<br />(她骑摩托车时穿着防护装备。) |
-| ※ | ※ | ※ | ※ |
 | release    | `/rɪˈlis/`       | v. 释放；发布<br>n. 发行；释放  | v. They plan to release the new software tomorrow.<br>(他们计划明天发布新软件。)<br>n. The release of the movie is scheduled for next month.<br>(这部电影的上映定于下个月。) |
 | extensive  | `/ɪkˈstɛnsɪv/`   | adj. 广泛的；大量的     | His research has extensive coverage of the subject.<br>(他的研究广泛涵盖了这个主题。) |
 | species    | `/ˈspiːʃiːz/`    | n. 物种               | This species is endangered and protected by law.<br>(这个物种濒临灭绝并受到法律保护。) |
@@ -2006,6 +2039,7 @@ Translator: ChatGPT 4
 | jungle     | `/ˈdʒʌŋɡəl/`     | n. 丛林                | They went on an expedition through the dense jungle.<br>(他们进行了一次穿越茂密丛林的探险。) |
 | adventure  | `/ədˈvɛntʃər/`   | n. 冒险                | She wrote a book about her adventures in Africa.<br>(她写了一本关于她在非洲的冒险的书。) |
 | ponder     | `/ˈpɑːndər/`     | v. 沉思；考虑       | He pondered the question before giving his answer.<br>(他在给出答案之前仔细思考了这个问题。) |
+
 
 
 
