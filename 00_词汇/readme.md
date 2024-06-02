@@ -176,7 +176,7 @@ Answerer`/'ænsərə/`: ChatGPT 4o
 | lemme  | `/ˈlɛmi/`  | let me               | 让我                 | Lemme see what you're working on.| 让我看看你在做什么。             |
 | gimme  | `/ˈɡɪmi/`  | give me              | 给我                 | Gimme a minute to finish this.   | 给我一分钟来完成这个。           |
 | kinda  | `/ˈkaɪndə/`| kind of              | 有点儿               | I'm kinda tired.                 | 我有点累。                       |
-| dunno  | `/ˈdʌnoʊ/` | do not know          | 不知道               | I dunno what to say.             | 我不知道该说什么。               |
+| dunno  | `/ˈdənoʊ/` | do not know          | 不知道               | I dunno what to say.             | 我不知道该说什么。               |
 | outta  | `/ˈaʊtə/`  | out of               | 离开                 | I'm outta here.                  | 我要离开这里了。                 |
 | hafta  | `/ˈhæftə/` | have to              | 必须                 | We hafta be there by eight.      | 我们必须在八点之前到那里。       |
 | betcha | `/ˈbɛtʃə/` | bet you              | 打赌你               | I betcha can't guess this one.   | 我打赌你猜不出这个。             |
