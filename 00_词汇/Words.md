@@ -58,36 +58,34 @@ Translator: ChatGPT 4o
 | jump        | `/dʒʌmp/`       | v. 跳跃<br>n. 跳跃           | v. He jumped over the fence. <br>(他跳过了篱笆。)<br>n. She made a big jump to reach the other side. <br>(她大跳了一步到达另一边。) |
 
 
-#### Second Table ~~- 已校对~~
-
-==校对：未校对==
+#### Second Table - 已校对
 
 Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词       | 美式发音        | 词性 + 汉语释义               | 示例                                                     |
-|----------|-------------|-------------------------|----------------------------------------------------------|
-| keep     | `/kiːp/`    | v. 保持；保留                | She keeps her room very clean. <br>(她保持房间非常干净。) |
-| kill     | `/kɪl/`     | v. 杀死                   | He killed the spider with a shoe. <br>(他用鞋子把蜘蛛打死了。) |
-| kind     | `/kaɪnd/`   | n. 种类<br>adj. 友好的       | n. There are many kinds of flowers in the garden. <br>(花园里有许多种类的花。)<br>adj. She is very kind to everyone. <br>(她对每个人都很友好。) |
-| know     | `/noʊ/`     | v. 知道；了解                | I know the answer to the question. <br>(我知道这个问题的答案。) |
-| last     | `/læst/`    | adj. 最后的；上一个的<br>v. 持续  | adj. He was the last person to leave. <br>(他是最后一个离开的。)<br>v. The meeting lasted for two hours. <br>(会议持续了两个小时。) |
-| laugh    | `/læf/`     | v. 笑<br>n. 笑声           | v. She laughed at the joke. <br>(她对这个笑话笑了。)<br>n. His laugh is very infectious. <br>(他的笑声很有感染力。) |
-| learn    | `/lɜːrn/`   | v. 学习；得知                | She is learning to play the piano. <br>(她正在学习弹钢琴。) |
-| leave    | `/liːv/`    | v. 离开；留下<br>n. 休假       | v. She left the room without saying a word. <br>(她没说一句话就离开了房间。)<br>Please leave your message after the beep. <br>(请在哔声后留下您的留言。)<br>n. He is on leave this week. <br>(他这周在休假。) |
-| left     | `/lɛft/`    | adj. 左边的<br>n. 左边       | adj. Turn left at the next intersection. <br>(在下一个路口左转。)<br>n. The restaurant is on your left. <br>(餐厅在你的左边。) |
-| let      | `/lɛt/`     | v. 让；允许                 | She let him borrow her book. <br>(她让他借了她的书。) |
-| light    | `/laɪt/`    | n. 光；灯<br>adj. 轻的；明亮的   | n. The room was filled with light. <br>(房间里充满了光。)<br>adj. The box is light and easy to carry. <br>(这个盒子很轻，易于携带。) |
-| like     | `/laɪk/`    | v. 喜欢<br>prep. 像        | v. I like chocolate ice cream. <br>(我喜欢巧克力冰淇淋。)<br>prep. She sings like an angel. <br>(她唱歌像天使一样。) |
-| little   | `/ˈlɪtl/`   | adj. 小的；少量的<br>adv. 稍微  | adj. She has a little dog. <br>(她有一只小狗。)<br>adv. The soup needs a little more salt. <br>(这汤需要再加一点盐。) |
-| live     | `/lɪv/`     | v. 居住；生活                | They live in a small village. <br>(他们住在一个小村庄。) |
-| long     | `/lɔŋ/`     | adj. 长的<br>adv. 长时间     | adj. The table is very long. <br>(桌子很长。)<br>adv. They have waited long for this moment. <br>(他们为这一刻等待了很长时间。) |
-| look     | `/lʊk/`     | v. 看；显得<br>n. 外表        | v. Look at the beautiful sunset. <br>(看看美丽的日落。)<br>n. She has a unique look. <br>(她有独特的外表。) |
-| lose     | `/luz/`     | v. 失去；迷失                | He lost his keys. <br>(他丢了钥匙。) |
-| love     | `/lʌv/`     | v. 爱<br>n. 爱情           | v. I love spending time with my family. <br>(我爱和家人在一起。)<br>n. Their love for each other is evident. <br>(他们对彼此的爱是显而易见的。) |
-| make     | `/meɪk/`    | v. 制作；使得                | She made a cake for his birthday. <br>(她为他的生日做了一个蛋糕。) |
-| man      | `/mæn/`     | n. 男人；人类                | He is a kind man. <br>(他是一个善良的男人。) |
+| 单词     | 美式发音        | 词性 + 汉语释义             | 示例                                                     |
+|--------|-------------|-----------------------|----------------------------------------------------------|
+| keep   | `/kiːp/`    | v. 保持；保留              | She keeps her room very clean. <br>(她保持房间非常干净。) |
+| kill   | `/kɪl/`     | v. 杀死                 | He killed the spider with a shoe. <br>(他用鞋子把蜘蛛打死了。) |
+| kind   | `/kaɪnd/`   | n. 种类<br>adj. 友好的     | n. There are many kinds of flowers in the garden. <br>(花园里有许多种类的花。)<br>adj. She is very kind to everyone. <br>(她对每个人都很友好。) |
+| know   | `/noʊ/`     | v. 知道；了解              | I know the answer to the question. <br>(我知道这个问题的答案。) |
+| last   | `/læst/`    | adj. 最后的；上一个的<br>v. 持续 | adj. He was the last person to leave. <br>(他是最后一个离开的。)<br>v. The meeting lasted for two hours. <br>(会议持续了两个小时。) |
+| laugh  | `/læf/`     | v. 笑<br>n. 笑声         | v. She laughed at the joke. <br>(她对这个笑话笑了。)<br>n. His laugh is very infectious. <br>(他的笑声很有感染力。) |
+| learn  | `/lɜːrn/`   | v. 学习；得知              | She is learning to play the piano. <br>(她正在学习弹钢琴。) |
+| leave  | `/liːv/`    | v. 离开；留下<br>n. 休假     | v. She left the room without saying a word. <br>(她没说一句话就离开了房间。)<br>Please leave your message after the beep. <br>(请在哔声后留下您的留言。)<br>n. He is on leave this week. <br>(他这周在休假。) |
+| left   | `/left/`    | adj. 左边的<br>n. 左边     | adj. Turn left at the next intersection. <br>(在下一个路口左转。)<br>n. The restaurant is on your left. <br>(餐厅在你的左边。) |
+| let    | `/let/`     | v. 让；允许               | She let him borrow her book. <br>(她让他借了她的书。) |
+| light  | `/laɪt/`    | n. 光；灯<br>adj. 轻的；明亮的 | n. The room was filled with light. <br>(房间里充满了光。)<br>adj. The box is light and easy to carry. <br>(这个盒子很轻，易于携带。) |
+| like   | `/laɪk/`    | v. 喜欢<br>prep. 像      | v. I like chocolate ice cream. <br>(我喜欢巧克力冰淇淋。)<br>prep. She sings like an angel. <br>(她唱歌像天使一样。) |
+| little | `/ˈlɪtl/`   | adj. 小的；少量的<br>adv. 稍微 | adj. She has a little dog. <br>(她有一只小狗。)<br>adv. The soup needs a little more salt. <br>(这汤需要再加一点盐。) |
+| live   | `/lɪv/` & `/laɪv/` | v. 居住；生活；直播； adj. 活的；实况的 | They live in a small village. <br>(他们住在一个小村庄。) |
+| long   | `/lɒːŋ/`    | adj. 长的；长时间的；<br>adv. 长久地 | adj. The table is very long. <br>(桌子很长。)<br>adv. They have waited long for this moment. <br>(他们为这一刻等待了很长时间。) |
+| look   | `/lʊk/`     | ~~v. 看；显得<br>n. 外表~~  | v. Look at the beautiful sunset. <br>(看看美丽的日落。)<br>n. She has a unique look. <br>(她有独特的外表。) |
+| lose   | `/luːz/`    | v. 失去；迷失              | He lost his keys. <br>(他丢了钥匙。) |
+| love   | `/lʌv/`     | v. 爱<br>n. 爱情         | v. I love spending time with my family. <br>(我爱和家人在一起。)<br>n. Their love for each other is evident. <br>(他们对彼此的爱是显而易见的。) |
+| make   | `/meɪk/`    | v. 制作；使得              | She made a cake for his birthday. <br>(她为他的生日做了一个蛋糕。) |
+| man    | `/mæn/`     | ~~n. 男人；人类~~          | He is a kind man. <br>(他是一个善良的男人。) |
 
 
 
