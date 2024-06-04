@@ -79,7 +79,104 @@ ChatGPT 4:
 
 尽管两个句子中的意思非常相近，"on the beach" 与 "at the beach" 的使用差别反映了说话者对地点的不同感知和侧重。总的来说，这种差别并不会导致理解上的大问题，因为在许多情况下，这两个短语可以互换使用。然而，微妙的区别在于个人如何想要表达他们在海滩的经历的具体性和范围。  -- ChatGPT 4.0
 
+### ChatGPT 4o
 
+> Added: 2024.06.04
+>
+> 当然可以。英语中的介词 "in," "on," 和 "at" 用于表示时间和地点。它们的使用有一些规则，但也有一些例外。下面我会详细讲解每个介词的用法，并列出它们之间的区别。
+>
+> ### 1. "In" 的用法
+>
+> #### 时间
+>
+> - **年份、月份、季节、世纪**
+>   - 例子：in 2024, in June, in summer, in the 21st century
+>
+> - **长时间段**
+>   - 例子：in the morning, in the afternoon, in the evening
+>
+> #### 地点
+>
+> - **大范围的区域**
+>   - 例子：in a city, in a country, in a neighborhood
+>
+> - **封闭或半封闭空间**
+>   - 例子：in a room, in a building, in a car
+>
+> #### 其他用法
+>
+> - **表示某个状态或情境**
+>   - 例子：in love, in trouble, in a good mood
+>
+> ### 2. "On" 的用法
+>
+> #### 时间
+>
+> - **具体的日子**
+>   - 例子：on Monday, on Christmas Day, on my birthday
+>
+> - **特定的日期**
+>   - 例子：on June 4th, on New Year’s Eve
+>
+> #### 地点
+>
+> - **表面**
+>   - 例子：on the table, on the wall, on the floor
+>
+> - **公共交通工具**
+>   - 例子：on a bus, on a train, on a plane
+>
+> - **某条街道**
+>   - 例子：on Main Street, on Oxford Street
+>
+> #### 其他用法
+>
+> - **与技术相关**
+>   - 例子：on the internet, on the phone, on TV
+>
+> ### 3. "At" 的用法
+>
+> #### 时间
+>
+> - **具体的时间点**
+>   - 例子：at 5 o’clock, at noon, at midnight
+>
+> - **节假日或时刻**
+>   - 例子：at Christmas, at Easter, at the moment
+>
+> #### 地点
+>
+> - **具体的地点**
+>   - 例子：at the bus stop, at the entrance, at the corner
+>
+> - **活动地点**
+>   - 例子：at a concert, at a party, at a meeting
+>
+> #### 其他用法
+>
+> - **表示某个状态或情境**
+>   - 例子：at risk, at war, at peace
+>
+> ### 区别
+>
+> 1. **时间**
+>    - "in" 用于较长的时间段。
+>    - "on" 用于具体的日子或日期。
+>    - "at" 用于具体的时间点。
+>
+> 2. **地点**
+>    - "in" 用于较大的区域或封闭空间。
+>    - "on" 用于表面、公共交通工具或街道。
+>    - "at" 用于具体的地点或活动地点。
+>
+> ### 示例总结
+>
+> - **时间**
+>   - "in the morning," "on Monday," "at 5 o'clock"
+> - **地点**
+>   - "in New York," "on the table," "at the door"
+>
+> 这些规则可以帮助你更好地理解和使用 "in," "on," 和 "at"。不过，记住还有一些例外情况，使用时要根据具体语境来判断。希望这些解释对你有所帮助！
 
 
 
