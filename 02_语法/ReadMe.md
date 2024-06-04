@@ -62,6 +62,7 @@ ChatGPT 4:
 ## ▲ in, on, at 详细讲解
 
 笔记来源统计：
+
 1. 哥伦布语法视频
 2. 问下 chatGPT 4o
 3. 
@@ -87,98 +88,141 @@ ChatGPT 4:
 >
 > ### 1. "In" 的用法
 >
-> #### 时间
+> | 用法     | 表达                   | 示例                                                         |
+> | -------- | ---------------------- | ------------------------------------------------------------ |
+> | 时间     | 年份、月份、季节、世纪 | in 2024,  in June`/dʒuːn/`,  in summer,  in the 21st century |
+> |          | 长时间段               | in the morning,  in the afternoon,  in the evening           |
+> | 地点     | 大范围的区域           | in a city,  in a country,  in a neighborhood^(1)^            |
+> |          | 封闭或半封闭空间       | in a room,  in a building,  in a car                         |
+> | 其他用法 | 表示某个状态或情境     | in love,  in trouble,  in a good mood                        |
 >
-> - **年份、月份、季节、世纪**
->   - 例子：in 2024, in June, in summer, in the 21st century
+> (1) “in a neighborhood” 是表示一个相对较大的区域，但它的范围并不如城市或国家那么大。通常用 “in” 来表示相对较大的区域或封闭的空间，具体解释如下：
 >
-> - **长时间段**
->   - 例子：in the morning, in the afternoon, in the evening
+> - **Neighborhood**（邻里、社区）：指一个相对较小的社区或街区，是比城市小但比具体街道大的一块区域。
+> - 使用 "in" 是因为我们把社区视为一个整体的区域，虽然它比城市或国家小，但仍然是一个较大的、相对封闭的区域。
 >
-> #### 地点
+> **例子**
 >
-> - **大范围的区域**
->   - 例子：in a city, in a country, in a neighborhood
+> - **I live in a quiet neighborhood.** 我住在一个安静的社区。
+> - **There are many parks in this neighborhood.** 在这个社区里有很多公园。
 >
-> - **封闭或半封闭空间**
->   - 例子：in a room, in a building, in a car
+> **为什么使用 "in"**
 >
-> #### 其他用法
->
-> - **表示某个状态或情境**
->   - 例子：in love, in trouble, in a good mood
+> - **区域感**：社区（neighborhood）虽然比城市小，但仍然是一个较大的、相对明确的区域。
+> - **封闭空间**：社区的感觉类似于一个封闭的空间，尽管它并没有实际的围墙。
 >
 > ### 2. "On" 的用法
 >
-> #### 时间
->
-> - **具体的日子**
->   - 例子：on Monday, on Christmas Day, on my birthday
->
-> - **特定的日期**
->   - 例子：on June 4th, on New Year’s Eve
->
-> #### 地点
->
-> - **表面**
->   - 例子：on the table, on the wall, on the floor
->
-> - **公共交通工具**
->   - 例子：on a bus, on a train, on a plane
->
-> - **某条街道**
->   - 例子：on Main Street, on Oxford Street
->
-> #### 其他用法
->
-> - **与技术相关**
->   - 例子：on the internet, on the phone, on TV
+> | 用法     | 表达         | 示例                                 |
+> | -------- | ------------ | ------------------------------------ |
+> | 时间     | 具体的日子   | on Monday, on Christmas Day          |
+> |          | 特定的日期   | on June 4th, on New Year’s Eve       |
+> | 地点     | 表面         | on the table, on the wall            |
+> |          | 公共交通工具 | on a bus, on a train, on a plane     |
+> |          | 某条街道     | on Main Street, on Oxford Street     |
+> | 其他用法 | 与技术相关   | on the internet, on the phone, on TV |
 >
 > ### 3. "At" 的用法
 >
-> #### 时间
->
-> - **具体的时间点**
->   - 例子：at 5 o’clock, at noon, at midnight
->
-> - **节假日或时刻**
->   - 例子：at Christmas, at Easter, at the moment
->
-> #### 地点
->
-> - **具体的地点**
->   - 例子：at the bus stop, at the entrance, at the corner
->
-> - **活动地点**
->   - 例子：at a concert, at a party, at a meeting
->
-> #### 其他用法
->
-> - **表示某个状态或情境**
->   - 例子：at risk, at war, at peace
+> | 用法     | 表达               | 示例                                            |
+> | -------- | ------------------ | ----------------------------------------------- |
+> | 时间     | 具体的时间点       | at 5 o’clock, at noon, at midnight              |
+> |          | 节假日或时刻       | at Christmas, at Easter, at the moment          |
+> | 地点     | 具体的地点         | at the bus stop, at the entrance, at the corner |
+> |          | 活动地点           | at a concert, at a party, at a meeting          |
+> | 其他用法 | 表示某个状态或情境 | at risk, at war, at peace                       |
 >
 > ### 区别
 >
 > 1. **时间**
->    - "in" 用于较长的时间段。
->    - "on" 用于具体的日子或日期。
->    - "at" 用于具体的时间点。
+>     - **"in" 用于较长的时间段。**
+>     - **"on" 用于具体的日子或日期。**
+>     - **"at" 用于具体的时间点。**
 >
 > 2. **地点**
->    - "in" 用于较大的区域或封闭空间。
->    - "on" 用于表面、公共交通工具或街道。
->    - "at" 用于具体的地点或活动地点。
+>     - **"in" 用于较大的区域或封闭空间。**
+>     - "**on" 用于表面、公共交通工具或街道。**
+>     - **"at" 用于具体的地点或活动地点。**
 >
 > ### 示例总结
 >
 > - **时间**
->   - "in the morning," "on Monday," "at 5 o'clock"
+>
+>     - "in the morning," "on Monday," "at 5 o'clock"
+>
 > - **地点**
->   - "in New York," "on the table," "at the door"
+>
+>     - "in New York," "on the table," "at the door"
+>
+>         - > "At the door" 的意思是“在门口”或“在门边”。使用 "at" 是因为 "at" 用于表示具体的位置或地点。具体来说，"at" 表示某个点或位置，不强调它的内部或表面。
+>             >
+>             > 在这种情况下，"at the door" 强调的是人在门口的具体位置，而不是在门的里面（用 "in"）或在门的表面上（用 "on"）。
+>             >
+>             > ###### 例句
+>             >
+>             > - **Someone is at the door.** 有人在门口。
+>             >   
+>             > - **I'll meet you at the door.** 我会在门口见你。
+>             >
+>             > ##### 为什么用 "at"
+>             >
+>             > (1) **具体位置**：门口是一个具体的位置，可以用 "at" 来表示这个特定的点。
+>             >
+>             > (2) **活动地点**：门口可以被视为一个活动的地点，比如迎接客人或离开房间。
 >
 > 这些规则可以帮助你更好地理解和使用 "in," "on," 和 "at"。不过，记住还有一些例外情况，使用时要根据具体语境来判断。希望这些解释对你有所帮助！
-
-
+>
+> 
+>
+> Ask： GPT, 你上面说的这些例外情况你可以给我讲解一下吗？
+>
+> ChatGPT： 好的，我会详细讲解一些使用 "in," "on," 和 "at" 的例外情况。虽然有一般的规则，但有些情况确实比较特殊，需要根据具体语境来判断。
+>
+> ### "In" 的例外情况
+>
+> 1. **交通工具**
+>    - 通常我们用 "on" 表示在交通工具上，但 "in" 用于小型封闭交通工具，如汽车。
+>    - 例子：in a car, in a taxi
+>
+> 2. **表达时间的某些固定短语**
+>    - 例子：in time（及时）, in the end（最终）
+>
+> ### "On" 的例外情况
+>
+> 1. **交通工具**
+>    - "On" 用于大型交通工具，如火车、公共汽车、飞机、船。
+>    - 例子：on a bus, on a train, on a plane, on a ship
+>
+> 2. **表达日期的某些固定短语**
+>    - 例子：on time（准时）, on a cold winter night（在一个寒冷的冬夜）
+>
+> 3. **表示某些情况下的表面或位置**
+>    - 例子：on the phone（在电话上）, on the internet（在互联网上）
+>
+> ### "At" 的例外情况
+>
+> 1. **活动或事件**
+>    - 用于表示在某个活动或事件上，而不是特定的地点。
+>    - 例子：at a party, at a concert, at a meeting
+>
+> 2. **表示某些固定的短语**
+>    - 例子：at the moment（此刻）, at work（在工作中）
+>
+> ### 具体例子和解释
+>
+> 1. **"In" 的例外情况**
+>    - 例子：She is in a car. （她在车里。）
+>    - 解释：尽管“在车上”是一个封闭空间，使用 "in" 更为合适。
+>
+> 2. **"On" 的例外情况**
+>    - 例子：He is on a bus. （他在公共汽车上。）
+>    - 解释：对于大型交通工具，使用 "on" 来表示。
+>
+> 3. **"At" 的例外情况**
+>    - 例子：I will meet you at the party. （我将在派对上见你。）
+>    - 解释：尽管派对可能在某个具体的地点，"at" 更强调活动本身。
+>
+> 这些例外情况表明，虽然有一般规则，但使用这些介词时需要根据具体语境进行调整和判断。如果你有更多关于特定情况的疑问，请随时告诉我！
 
 
 
@@ -190,8 +234,8 @@ ChatGPT 4:
 >
 > #### 1. 时间状语从句
 >
-> | 引导词  | 发音      | 词类 & 汉语意思   | 语法                               | 示例                                                         |
-> | ------ | --------- | ----------------- | ---------------------------------- | ------------------------------------------------------------ |
+> | 引导词 | 发音        | 词类 & 汉语意思   | 语法                               | 示例                                                         |
+> | ------ | ----------- | ----------------- | ---------------------------------- | ------------------------------------------------------------ |
 > | when   | `/wɛn/`     | conj. 当…时       | 描述主句中的<br />动作发生的时间。 | When the sun sets, the birds return to their nests. <br />(当太阳下山时，鸟儿回到它们的巢穴。) |
 > | as     | `/æz/`      | conj. 当…时；因为 | 同上                               | As I was watching, the bird flew away. <br />(当我在看的时候，鸟飞走了。) |
 > | before | `/bɪˈfɔːr/` | conj. 在…之前     | 同上                               | Finish your homework before you go out. <br />(在你出去之前完成你的作业。) |
@@ -200,18 +244,18 @@ ChatGPT 4:
 > | since  | `/sɪns/`    | conj. 自从        | 同上                               | She hasn't been seen since yesterday. <br />(自从昨天以来，她就没有出现过。) |
 > | until  | `/ənˈtɪl/`  | conj. 直到…为止   | 同上                               | Wait here until I come back. <br />(在这里等着，直到我回来。) |
 > | once   | `/wʌns/`    | conj. 一旦        | 同上                               | Once you finish your homework, you can watch TV. <br />(一旦你完成了作业，你就可以看电视。) |
-> 
+>
 > #### 2. 地点状语从句
-> 
-> | 引导词   | 发音        | 词类 & 汉语意思  | 语法                               | 示例                                                         |
-> | -------- | ----------- | ---------------- | ---------------------------------- | ------------------------------------------------------------ |
+>
+> | 引导词   | 发音          | 词类 & 汉语意思  | 语法                               | 示例                                                         |
+> | -------- | ------------- | ---------------- | ---------------------------------- | ------------------------------------------------------------ |
 > | where    | `/wɛər/`      | conj. 在…地方    | 描述主句中的<br />动作发生的地点。 | He always feels happy where there is sunshine. <br />(在有阳光的地方，他总是感到快乐。) |
 > | wherever | `/wɛərˈɛvər/` | conj. 无论在哪里 | 同上                               | You can find beauty wherever you look. <br />(无论你看向哪里，你都能发现美。) |
 
 > #### 3. 原因状语从句
 >
-> | 引导词    | 发音      | 词类 & 汉语意思  | 语法                                     | 示例                                                         |
-> | -------- | --------- | ---------------- | ---------------------------------------- | ------------------------------------------------------------ |
+> | 引导词   | 发音        | 词类 & 汉语意思  | 语法                                     | 示例                                                         |
+> | -------- | ----------- | ---------------- | ---------------------------------------- | ------------------------------------------------------------ |
 > | because  | `/bɪˈkɔːz/` | conj. 因为       | 提供主句中的<br />动作发生的原因或理由。 | Because it was raining, we cancelled the picnic. <br />(因为下雨，我们取消了野餐。) |
 > | since    | `/sɪns/`    | conj. 既然；因为 | 同上                                     | Since you are not interested, we will not discuss it further. <br />(既然你不感兴趣，我们就不再进一步讨论了。) |
 > | as       | `/æz/`      | conj. 因为       | 同上                                     | As he was not feeling well, he stayed at home. <br />(因为他感觉不舒服，所以他呆在家里。) |
@@ -219,57 +263,56 @@ ChatGPT 4:
 
 > #### 4. 目的状语从句
 >
-> | 引导词        | 发音             | 词类 & 汉语意思 | 语法                             | 示例                                                         |
-> | ------------- | ---------------- | --------------- | -------------------------------- | ------------------------------------------------------------ |
+> | 引导词        | 发音               | 词类 & 汉语意思 | 语法                             | 示例                                                         |
+> | ------------- | ------------------ | --------------- | -------------------------------- | ------------------------------------------------------------ |
 > | so that       | `/səʊ ðæt/`        | conj. 以便      | 描述主句<br />动作的目的或意图。 | He whispered so that he would not disturb the others. <br />(他轻声说话，以免打扰别人。) |
 > | in order that | `/ɪn ˈɔːrdər ðæt/` | conj. 为了      | 同上                             | He left early in order that he could catch the train. <br />(他早早离开，为了赶上火车。) |
 
 > #### 5. 结果状语从句
 >
-> | 引导词       | 发音       | 词类 & 汉语意思   | 语法                             | 示例                                                         |
-> | ----------- | ---------- | ----------------- | -------------------------------- | ------------------------------------------------------------ |
+> | 引导词      | 发音         | 词类 & 汉语意思   | 语法                             | 示例                                                         |
+> | ----------- | ------------ | ----------------- | -------------------------------- | ------------------------------------------------------------ |
 > | so...that   | `/səʊ ðæt/`  | conj. 如此…以至于 | 描述主句<br />动作的结果或后果。 | He ran so fast that he won the race. <br />(他跑得如此之快以至于赢得了比赛。) |
 > | such...that | `/sʌtʃ ðæt/` | conj. 如此…以至于 | 同上                             | It was such a hot day that we decided to stay indoors. <br />(天气如此炎热以至于我们决定待在室内。) |
 
 > #### 6. 条件状语从句
 >
-> | 引导词        | 发音             | 词类 & 汉语意思   | 语法                               | 示例                                                         |
-> | ------------- | ---------------- | ----------------- | ---------------------------------- | ------------------------------------------------------------ |
-> | if            | `/ɪf/`             | conj. 如果        | 描述主句<br />动作发生的条件或假设。 | If it rains, the event will be cancelled. <br />(如果下雨，活动将被取消。) |
-> | unless        | `/ənˈlɛs/`         | conj. 除非        | 同上   | You will not succeed unless you work harder. <br />(除非你更加努力，否则你不会成功。) |
-> | provided that | `/prəˈvaɪdɪd ðæt/` | conj. 只要        | 同上   | ou can go out provided that you finish your homework. <br />(只要你完成了作业，你就可以出去。) |
-> | as long as    | `/æz lɒŋ æz/` | conj. 只要 | 同上 | As long as you keep trying, you will eventually succeed. <br />(只要你坚持尝试，你最终会成功。) |
+> | 引导词        | 发音               | 词类 & 汉语意思 | 语法                                 | 示例                                                         |
+> | ------------- | ------------------ | --------------- | ------------------------------------ | ------------------------------------------------------------ |
+> | if            | `/ɪf/`             | conj. 如果      | 描述主句<br />动作发生的条件或假设。 | If it rains, the event will be cancelled. <br />(如果下雨，活动将被取消。) |
+> | unless        | `/ənˈlɛs/`         | conj. 除非      | 同上                                 | You will not succeed unless you work harder. <br />(除非你更加努力，否则你不会成功。) |
+> | provided that | `/prəˈvaɪdɪd ðæt/` | conj. 只要      | 同上                                 | ou can go out provided that you finish your homework. <br />(只要你完成了作业，你就可以出去。) |
+> | as long as    | `/æz lɒŋ æz/`      | conj. 只要      | 同上                                 | As long as you keep trying, you will eventually succeed. <br />(只要你坚持尝试，你最终会成功。) |
 
 > #### 7. 方式状语从句
 >
-> | 引导词        | 发音             | 词类 & 汉语意思   | 语法                               | 示例                                                        |
-> | -------------| ---------------- | ----------------- | ---------------------------------- | ------------------------------------------------------ |
-> | as           | `/æz/` | conj. 像…一样 | 描述主句中的<br />动作发生的方式或状态。 | He acted as if nothing had happened. <br />(他表现得好像什么都没发生过一样。) |
-> | as if        | `/æz ɪf/` | conj. 好像 | 同上 | She sings as if she were a professional. <br />(她唱歌就像是个专业歌手一样。) |
-> | as though    | `/æz ðoʊ/` | conj. 好像 | 同上 | He talks as though he knows everything. <br />(他说话的样子好像他知道一切。) |
+> | 引导词    | 发音       | 词类 & 汉语意思 | 语法                                     | 示例                                                         |
+> | --------- | ---------- | --------------- | ---------------------------------------- | ------------------------------------------------------------ |
+> | as        | `/æz/`     | conj. 像…一样   | 描述主句中的<br />动作发生的方式或状态。 | He acted as if nothing had happened. <br />(他表现得好像什么都没发生过一样。) |
+> | as if     | `/æz ɪf/`  | conj. 好像      | 同上                                     | She sings as if she were a professional. <br />(她唱歌就像是个专业歌手一样。) |
+> | as though | `/æz ðoʊ/` | conj. 好像      | 同上                                     | He talks as though he knows everything. <br />(他说话的样子好像他知道一切。) |
 
 > #### 8. 让步状语从句
 >
-> | 引导词        | 发音             | 词类 & 汉语意思   | 语法                               | 示例                                                         |
-> | ------------- | ---------------- | ----------------- | ---------------------------------- | ------------------------------------------------------------ |
-> | although      | `/ɔːlˈðoʊ/`        | conj. 尽管 | 描述与主句中的<br />情况相对立或相矛盾的情况。 | Although it was raining, the game continued. <br />(尽管下雨，比赛还是继续了。) |
-> | though        | `/ðoʊ/`            | conj. 虽然 | 同上 | He is very friendly, though a bit shy. <br />(他非常友好，虽然有点害羞。) |
-> | even though   | `/ˈiːvən ðoʊ/`     | conj. 即使 | 同上 | Even though he was tired, he kept working. <br />(即使他很累，他还是继续工作。) |
-> | whereas       | `/wɛərˈæz/`        | conj. 然而 | 同上 | She is very outgoing, whereas her brother is shy. <br />(她非常外向，然而她的兄弟很害羞。) |
-> | while         | `/waɪl/`           | conj. 虽然 | 同上 | While I enjoy hiking, I dislike camping. <br />(虽然我喜欢远足，我不喜欢露营。) |
+> | 引导词      | 发音           | 词类 & 汉语意思 | 语法                                           | 示例                                                         |
+> | ----------- | -------------- | --------------- | ---------------------------------------------- | ------------------------------------------------------------ |
+> | although    | `/ɔːlˈðoʊ/`    | conj. 尽管      | 描述与主句中的<br />情况相对立或相矛盾的情况。 | Although it was raining, the game continued. <br />(尽管下雨，比赛还是继续了。) |
+> | though      | `/ðoʊ/`        | conj. 虽然      | 同上                                           | He is very friendly, though a bit shy. <br />(他非常友好，虽然有点害羞。) |
+> | even though | `/ˈiːvən ðoʊ/` | conj. 即使      | 同上                                           | Even though he was tired, he kept working. <br />(即使他很累，他还是继续工作。) |
+> | whereas     | `/wɛərˈæz/`    | conj. 然而      | 同上                                           | She is very outgoing, whereas her brother is shy. <br />(她非常外向，然而她的兄弟很害羞。) |
+> | while       | `/waɪl/`       | conj. 虽然      | 同上                                           | While I enjoy hiking, I dislike camping. <br />(虽然我喜欢远足，我不喜欢露营。) |
 
 
->
-> | 类别         | 常见引导词                                         | 语法                                     | 示例                                                         |
-> | ------------ | -------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------ |
-> | 时间状语从句 | when, as, before, after, while, since, until, once | 描述主句中的动作发生的时间。             | When the sun sets, the birds return to their nests.<br /> (当太阳下山时，鸟儿回到它们的巢穴。) |
-> | 地点状语从句 | where, wherever                                    | 描述主句中的动作发生的地点。             | He always feels happy where there is sunshine.<br /> (在有阳光的地方，他总是感到快乐。) |
-> | 原因状语从句 | because, since, as, now that                       | 提供主句中的动作发生的原因或理由。       | Since it was raining, we cancelled the picnic`/'pɪknɪk/`. <br />(由于下雨，我们取消了野餐。) |
-> | 目的状语从句 | so that, in order that                             | 描述主句动作的目的或意图。               | He whispered so that he would not disturb the others. <br />(他轻声说话，以免打扰别人。) |
-> | 结果状语从句 | so...that, such...that                             | 描述主句动作的结果或后果。               | He ran so fast that he won the race. <br />(他跑得如此之快以至于赢得了比赛。) |
-> | 条件状语从句 | if, unless, provided that, as long as              | 描述主句动作发生的条件或假设。           | If it rains, the event will be cancelled.<br /> (如果下雨，活动将被取消。) |
-> | 方式状语从句 | as, as if, as though                               | 描述主句中的动作发生的方式或状态。       | She danced as if no one was watching. <br />(她跳舞就像没有人在看一样。) |
-> | 让步状语从句 | although, though, even though, whereas, while      | 描述与主句中的情况相对立或相矛盾的情况。 | Although it was raining, the game continued.<br /> (尽管下雨，比赛还是继续了。) |
+>| 类别         | 常见引导词                                         | 语法                                     | 示例                                                         |
+>| ------------ | -------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------ |
+>| 时间状语从句 | when, as, before, after, while, since, until, once | 描述主句中的动作发生的时间。             | When the sun sets, the birds return to their nests.<br /> (当太阳下山时，鸟儿回到它们的巢穴。) |
+>| 地点状语从句 | where, wherever                                    | 描述主句中的动作发生的地点。             | He always feels happy where there is sunshine.<br /> (在有阳光的地方，他总是感到快乐。) |
+>| 原因状语从句 | because, since, as, now that                       | 提供主句中的动作发生的原因或理由。       | Since it was raining, we cancelled the picnic`/'pɪknɪk/`. <br />(由于下雨，我们取消了野餐。) |
+>| 目的状语从句 | so that, in order that                             | 描述主句动作的目的或意图。               | He whispered so that he would not disturb the others. <br />(他轻声说话，以免打扰别人。) |
+>| 结果状语从句 | so...that, such...that                             | 描述主句动作的结果或后果。               | He ran so fast that he won the race. <br />(他跑得如此之快以至于赢得了比赛。) |
+>| 条件状语从句 | if, unless, provided that, as long as              | 描述主句动作发生的条件或假设。           | If it rains, the event will be cancelled.<br /> (如果下雨，活动将被取消。) |
+>| 方式状语从句 | as, as if, as though                               | 描述主句中的动作发生的方式或状态。       | She danced as if no one was watching. <br />(她跳舞就像没有人在看一样。) |
+>| 让步状语从句 | although, though, even though, whereas, while      | 描述与主句中的情况相对立或相矛盾的情况。 | Although it was raining, the game continued.<br /> (尽管下雨，比赛还是继续了。) |
 
 
 
@@ -486,7 +529,7 @@ ChatGPT 4:
 
 >  I wake up in the morning. 
 >
-> 早上我醒了。
+>  早上我醒了。
 
 这里有一个表达顺序的问题，汉语习惯（非必要）把时间、地点等先说出来，再说具体的事情，比如说：“早上我醒了”、“我看了看手机上的时间”，但是英语习惯（非必须）把主要的信息先说出来，再说时间、地点等等；比如说：
 
