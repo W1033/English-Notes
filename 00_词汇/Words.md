@@ -86,10 +86,9 @@ Translator: ChatGPT 4o
 
 *Added: 2024.01.15*
 
-来源：在识别 wordly_wire_3000_list-level.pdf 第一页单词列表中，chatGPT 自己生成了这些单词。 2024.06.03 再次编辑下面单词，删除了一些特别简单的。
+来源：在识别 wordly_wire_3000_list-level.pdf 第一页单词列表中，chatGPT （gpt 3.5 or 4.0 记不住了）自己生成了这些单词。
 
 注：2024.06.03 再次编辑下面单词列表，分成几个 table。
-
 
 #### First Table - 已校对
 
@@ -220,43 +219,43 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词        | 美式发音         | 词性 + 汉语释义                          | 示例                               |
-|-----------|--------------|------------------------------------|----------------------------------|
-| show      | `/ʃoʊ/`      | v. 显示；表演<br>n. 展示；节目               | v. She showed me her new dress. (她给我看了她的新裙子。)<br>n. The show was very entertaining. (这个节目非常有趣。) |
-| side      | `/saɪd/`     | n. 侧面；方面<br>adj. 侧面的<br>v. 支持      | n. She stood by his side. (她站在他的身旁。)<br>n. We need to consider all sides of the issue. (我们需要考虑问题的各个方面。)<br>adj. There is a side entrance to the building. (这栋建筑有一个侧门。)<br>v. He always sides with his friends. (他总是支持他的朋友。) |
-| sit       | `/sɪt/`      | v. 坐；就坐                            | Please sit down and relax. (请坐下放松。) |
-| small     | `/smɔl/`     | adj. 小的                            | This dress is too small for me. (这件裙子对我来说太小了。) |
-| so        | `/soʊ/`      | adv. 如此；所以                         | She was so tired that she fell asleep immediately. (她太累了，以至于立刻就睡着了。) |
-| some      | `/sʌm/`      | adj. 一些<br>pron. 一些人               | adj. I need some water. (我需要一些水。)<br>pron. Some of them are coming to the party. (他们中有些人要来参加聚会。) |
-| something | `/ˈsʌmθɪŋ/`  | pron. 某物；某事                        | I have something to tell you. (我有事要告诉你。) |
-| soon      | `/suːn/`     | adv. 很快；不久                         | He will be here soon. (他很快就会到。)<br>They plan to visit us soon. (他们计划不久后来看我们。) |
-| start     | `/stɑrt/`    | v. 开始<br>n. 开端                     | v. The movie starts at 7 PM. (电影在晚上7点开始。)<br>n. The start of the race was delayed. (比赛的开始被推迟了。) |
-| stop      | `/stɑːp/`    | v. 停止<br>n. 停止                     | v. He stopped talking when she entered the room. (她进入房间时，他停止了说话。)<br>n. The bus made several stops along the route. (公共汽车沿途停了几次。) |
+| 单词        | 美式发音         | 词性 + 汉语释义                     | 示例                               |
+|-----------|--------------|-------------------------------|----------------------------------|
+| show      | `/ʃoʊ/`      | v. 显示；表演<br>n. 展示；节目          | v. She showed me her new dress. (她给我看了她的新裙子。)<br>n. The show was very entertaining. (这个节目非常有趣。) |
+| side      | `/saɪd/`     | n. 侧面；方面<br>adj. 侧面的<br>v. 支持 | n. She stood by his side. (她站在他的身旁。)<br>n. We need to consider all sides of the issue. (我们需要考虑问题的各个方面。)<br>adj. There is a side entrance to the building. (这栋建筑有一个侧门。)<br>v. He always sides with his friends. (他总是支持他的朋友。) |
+| sit       | `/sɪt/`      | v. 坐；就坐                       | Please sit down and relax. (请坐下放松。) |
+| small     | `/smɔl/`     | adj. 小的                       | This dress is too small for me. (这件裙子对我来说太小了。) |
+| so        | `/soʊ/`      | adv. 如此；所以                    | She was so tired that she fell asleep immediately. (她太累了，以至于立刻就睡着了。) |
+| some      | `/sʌm/`      | adj. 一些<br>pron. 一些人          | adj. I need some water. (我需要一些水。)<br>pron. Some of them are coming to the party. (他们中有些人要来参加聚会。) |
+| something | `/ˈsʌmθɪŋ/`  | pron. 某物；某事                   | I have something to tell you. (我有事要告诉你。) |
+| soon      | `/suːn/`     | adv. 很快；不久                    | He will be here soon. (他很快就会到。)<br>They plan to visit us soon. (他们计划不久后来看我们。) |
+| start     | `/stɑrt/`    | v. 开始<br>n. 开端                | v. The movie starts at 7 PM. (电影在晚上7点开始。)<br>n. The start of the race was delayed. (比赛的开始被推迟了。) |
+| stop      | `/stɑːp/`    | v. 停止<br>n. 停止                | v. He stopped talking when she entered the room. (她进入房间时，他停止了说话。)<br>n. The bus made several stops along the route. (公共汽车沿途停了几次。) |
 | such      | `/sʌtʃ/`     | determiner. 这样的；如此的<br>pron. 这样的事物 | determiner. She made such a big mistake.  (她犯了这么大的错误。)<br>pron. Such are the challenges we face. (这就是我们面临的挑战。) |
-| take      | `/teɪk/`     | v. 拿；接受；采取                         | Please take this book. <br>(请拿这本书。)<br>They will take the necessary steps. <br>(他们会采取必要的步骤。) |
-| tell      | `/tɛl/`      | v. 告诉；说                            | Can you tell me the time? <br>(你能告诉我时间吗？)<br>He told a funny story. <br>(他讲了一个有趣的故事。) |
-| than      | `/ðæn/`      | conj. 比                            | She is taller than her brother. <br>(她比她的哥哥高。) |
-| then      | `/ðɛn/`      | adv. 然后；当时                         | We went to the park, and then we had lunch. <br>(我们去了公园，然后吃了午饭。)<br>Things were different back then. <br>(那时候情况不同。) |
-| thing     | `/θɪŋ/`      | n. 事物；东西；事情                        | What is that thing on the table? <br>(桌子上的那个东西是什么？)<br>Let's talk about the important things. <br>(让我们谈谈重要的事情。) |
-| think     | `/θɪŋk/`     | v. 想；认为；考虑                         | I think it's going to rain. (我认为要下雨了。)<br>Please think about what I said. (请考虑一下我说的话。)<br>What do you think of this idea? (你认为这个主意怎么样？) |
-| time      | `/taɪm/`     | n. 时间；次；时代                         | What time is it? (现在几点了？)<br>This is the first time I've been here. (这是我第一次来这里。)<br>Life was different in those times. (那时候生活不同。) |
-| today     | `/təˈdeɪ/`   | adv. 在今天<br>n. 今天                  | adv. I'm busy today. (我今天很忙。)<br>n. Today is a special day. (今天是一个特殊的日子。) |
-| together  | `/təˈɡeðər/` | adv. 一起                            | Let's work together on this project. (让我们一起做这个项目。) |
-| too       | `/tuː/`      | adv. 也；太                           | She wants to go too. (她也想去。)<br>It's too hot outside. (外面太热了。) |
-| top       | `/tɑːp/`     | n. 顶部；上方<br>adj. 最高的；顶级的<br>v. 超越  | n. The top of the mountain is covered in snow. (山顶被雪覆盖。)<br>adj. She is one of the top students in her class. (她是班上最优秀的学生之一。)<br>v. He topped the list of candidates. (他在候选人名单中名列前茅。) |
-| under     | `/ˈʌndər/`   | prep. 在...下面；低于<br>adv. 在下面        | prep. The cat is under the table. (猫在桌子下面。)<br>prep. His score is under the average. (他的分数低于平均水平。)<br>adv. The box was hidden under the bed. (盒子被藏在床下。) |
-| up        | `/ʌp/`       | adv. 向上；起来<br>prep. 向上             | adv. He stood up and left. (他站起来离开了。)<br>The balloon went up into the sky. (气球飞向天空。)<br>prep. The cat climbed up the tree. (猫爬上了树。) |
-| very      | `/ˈveri/`    | adv. 非常；很<br>adj. 正是的；完全的          | adv. She is very happy. (她非常高兴。)<br>It's very hot today. (今天非常热。)<br>adj. This is the very book I wanted. (这正是我想要的那本书。) |
-| want      | `/wɑːnt/`    | v. 想要；希望<br>n. 需求                  | v. I want to go home. (我想回家。)<br>She wants a new car. (她想要一辆新车。)<br>n. There is a want of resources in the area. (这个地区缺乏资源。) |
-| well      | `/wel/`      | adv. 好；很<br>adj. 健康的               | adv. She did well on the test. (她考试考得很好。)<br>adj. He speaks English very well. (他英语说得很好。)<br />adj. He feels well today. (他今天感觉很好。) |
-| will      | `/wɪl/`      | aux. 将；会<br>n. 意志                  | aux. I will see you tomorrow. (我明天见你。)<br>n. She has a strong will to succeed. (她有强烈的成功意志。) |
-| with      | `/wɪð/`      | prep. 和...一起；用；由于                  | She went to the movies with her friends. <br>(她和朋友们一起去看电影。)<br>He cut the paper with scissors. <br>(他用剪刀剪纸。)<br>She was trembling with fear. <br>(她因害怕而颤抖。) |
-| word      | `/wɜːrd/`    | n. 单词；话语                           | This is a difficult word to spell. (这是一个拼写困难的单词。)<br>He had a few words with his boss. (他和老板说了几句话。) |
-| work      | `/wɜːrk/`    | v. 工作；运作<br>n. 工作；作品               | v. He works at a bank. (他在银行工作。)<br>The machine works perfectly. (机器运作得很好。)<br>n. She has a lot of work to do. (她有很多工作要做。)<br>This is one of his best works. (这是他最好的作品之一。) |
-| would     | `/wʊd/`      | aux. 将；会；愿意                        | I would like to go there. (我想去那里。)<br>Would you help me? (你愿意帮我吗？) |
-| write     | `/raɪt/`     | v. 写                               | Please write your name here. (请在这里写下你的名字。) |
-| year      | `/jɪr/`      | n. 年                               | This year has been very busy. (今年非常忙。) |
-| young     | `/jʌŋ/`      | adj. 年轻的                           | She is very young. (她很年轻。)       |
+| take      | `/teɪk/`     | v. 拿；接受；采取                    | Please take this book. <br>(请拿这本书。)<br>They will take the necessary steps. <br>(他们会采取必要的步骤。) |
+| tell      | `/tɛl/`      | v. 告诉；说                       | Can you tell me the time? <br>(你能告诉我时间吗？)<br>He told a funny story. <br>(他讲了一个有趣的故事。) |
+| than      | `/ðæn/`      | conj. 比                       | She is taller than her brother. <br>(她比她的哥哥高。) |
+| then      | `/ðɛn/`      | adv. 然后；当时                    | We went to the park, and then we had lunch. <br>(我们去了公园，然后吃了午饭。)<br>Things were different back then. <br>(那时候情况不同。) |
+| thing     | `/θɪŋ/`      | n. 事物；东西；事情                   | What is that thing on the table? <br>(桌子上的那个东西是什么？)<br>Let's talk about the important things. <br>(让我们谈谈重要的事情。) |
+| think     | `/θɪŋk/`     | v. 想；认为；考虑                    | I think it's going to rain. (我认为要下雨了。)<br>Please think about what I said. (请考虑一下我说的话。)<br>What do you think of this idea? (你认为这个主意怎么样？) |
+| time      | `/taɪm/`     | n. 时间；次；时代                    | What time is it? (现在几点了？)<br>This is the first time I've been here. (这是我第一次来这里。)<br>Life was different in those times. (那时候生活不同。) |
+| today     | `/təˈdeɪ/`   | adv. 在今天<br>n. 今天             | adv. I'm busy today. (我今天很忙。)<br>n. Today is a special day. (今天是一个特殊的日子。) |
+| together  | `/təˈɡeðər/` | adv. 一起                       | Let's work together on this project. (让我们一起做这个项目。) |
+| too       | `/tuː/`      | adv. 也；太                      | She wants to go too. (她也想去。)<br>It's too hot outside. (外面太热了。) |
+| top       | `/tɑːp/`     | n. 顶部；上方<br>adj. 最高的；顶级的<br>v. 超越 | n. The top of the mountain is covered in snow. (山顶被雪覆盖。)<br>adj. She is one of the top students in her class. (她是班上最优秀的学生之一。)<br>v. He topped the list of candidates. (他在候选人名单中名列前茅。) |
+| under     | `/ˈʌndər/`   | prep. 在...下面；低于<br>adv. 在下面   | prep. The cat is under the table. (猫在桌子下面。)<br>prep. His score is under the average. (他的分数低于平均水平。)<br>adv. The box was hidden under the bed. (盒子被藏在床下。) |
+| up        | `/ʌp/`       | adv. 向上；起来<br>prep. 向上        | adv. He stood up and left. (他站起来离开了。)<br>The balloon went up into the sky. (气球飞向天空。)<br>prep. The cat climbed up the tree. (猫爬上了树。) |
+| very      | `/ˈveri/`    | adv. 非常；很<br>adj. 正是的；完全的     | adv. She is very happy. (她非常高兴。)<br>It's very hot today. (今天非常热。)<br>adj. This is the very book I wanted. (这正是我想要的那本书。) |
+| want      | `/wɑːnt/`    | v. 想要；希望<br>n. 需求             | v. I want to go home. (我想回家。)<br>She wants a new car. (她想要一辆新车。)<br>n. There is a want of resources in the area. (这个地区缺乏资源。) |
+| well      | `/wel/`      | adv. 好；很<br>adj. 健康的          | adv. She did well on the test. (她考试考得很好。)<br>adj. He speaks English very well. (他英语说得很好。)<br />adj. He feels well today. (他今天感觉很好。) |
+| will      | `/wɪl/`      | aux. 将；会<br>n. 意志             | aux. I will see you tomorrow. (我明天见你。)<br>n. She has a strong will to succeed. (她有强烈的成功意志。) |
+| with      | `/wɪð/`      | prep. 和...一起；用；由于             | She went to the movies with her friends. <br>(她和朋友们一起去看电影。)<br>He cut the paper with scissors. <br>(他用剪刀剪纸。)<br>She was trembling with fear. <br>(她因害怕而颤抖。) |
+| word      | `/wɜːrd/`    | n. 单词；话语                      | This is a difficult word to spell. (这是一个拼写困难的单词。)<br>He had a few words with his boss. (他和老板说了几句话。) |
+| work      | `/wɜːrk/`    | v. 工作；运作<br>n. 工作；作品          | v. He works at a bank. (他在银行工作。)<br>The machine works perfectly. (机器运作得很好。)<br>n. She has a lot of work to do. (她有很多工作要做。)<br>This is one of his best works. (这是他最好的作品之一。) |
+| would     | `/wʊd/`      | aux. 将；会；愿意                   | I would like to go there. (我想去那里。)<br>Would you help me? (你愿意帮我吗？) |
+| write     | `/raɪt/`     | v. 写                          | Please write your name here. (请在这里写下你的名字。) |
+| year      | `/jɪr/`      | n. 年                          | This year has been very busy. (今年非常忙。) |
+| young     | `/jʌŋ/`      | adj. 年轻的                      | She is very young. (她很年轻。)       |
 
 
 
@@ -3671,18 +3670,17 @@ Translator: ChatGPT 4
 
 
 ### Added: 2024.01.22
+
 *Edited: 2024.01.29、02.29、*
-Translator: ChatGPT 4
+
+#### First Table - ~~已校对~~
+
+Translator: ChatGPT 4 & 4o
+
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词        | 美式发音        | 词类 + 汉语释义                       |
 | ----------- | --------------- | ------------------------------------- |
-| arbor       | `/ˈɑrbər/`      | n. 凉亭；树篱 <br>→ Arbor Day 植树节   |
-| minutia     | `/mɪˈnuːʃɪə/`   | n. 细节；小事（单数形式）             |
-| minutiae    | `/mɪ'nuʃɪi/`    | n. 细节；小事（复数形式） |
-| chief       | `/tʃiːf/`       | adj. 主要的；n. 首领 |
-| deputy      | `/ˈdɛpjuti/    | n. 副手；代理人                       |
-| phrase      | `/freɪz/       | n. 短语；习语 v. 措词表达             |
 | destructive | `/dɪˈstrʌktɪv/ | adj. 破坏性的；毁灭性的               |
 | erase       | `/ɪˈreɪs/      | v. 擦除；抹去                         |
 | any         | `/ˈɛni/        | adj. 任何的；所有的 pron. 任何人      |
@@ -3699,6 +3697,43 @@ Translator: ChatGPT 4
 | pulp        | `/pʌlp/        | n. 浆状物；纸浆 v. 使成浆状           |
 | miss        | `/mɪs/         | v. 错过；思念 n. 小姐                 |
 | stamina     | `/ˈstæmɪnə/    | n. 耐力；持久力                       |
+
+### 单词翻译表格
+
+| 单词        | 美式发音           | 词性 + 汉语释义            | 示例                                                                                                                                      |
+| ----------- |----------------| -------------------------- |-----------------------------------------------------------------------------------------------------------------------------------------|
+| arbor       | `/ˈɑrːbər/`    | n. 树荫处；凉亭            | Arbor Day 植树节. <br>They sat in the arbor to escape the sun. (他们坐在凉亭里躲避太阳。)                                                              |
+| minutia     | `/mɪˈnuːʃɪə/`  | n. 细节                    | He was interested in the minutia of the contract. (他对合同的细节很感兴趣。)                                                                        |
+| minutiae    | `/mɪ'nuʃɪi/`   | n. 细节（复数）            | The minutiae of the case were thoroughly examined. (案件的细节被彻底检查了。)                                                                       |
+| chief       | `/tʃiːf/`        | adj. 主要的<br>n. 首领     | adj. His chief concern is safety. (他的主要关注点是安全。)<br>n. He is the chief of the tribe. (他是部落的首领。)                                          |
+| deputy      | `/ˈdɛpjəti/`   | n. 副手；代理人            | The deputy took over when the chief was away. (首领不在时，副手接管了。)                                                                            |
+| phrase      | `/freɪz/`      | n. 短语；措辞<br>v. 措辞   | n. This phrase is commonly used in English. (这个短语在英语中很常用。)<br>v. She phrased her response carefully. (她谨慎地措辞回应。)                        |
+| destructive | `/dɪˈstrʌktɪv/` | adj. 破坏性的              | The earthquake was highly destructive. (地震具有很强的破坏性。)                                                                                    |
+| erase       | `/ɪˈreɪs/`     | v. 擦除；删除              | He erased the chalk marks from the board. (他擦掉了黑板上的粉笔痕迹。)                                                                               |
+| any         | `/ˈɛni/`       | adj. 任何的；一些的        | You can choose any book you like. (你可以选择任何你喜欢的书。)                                                                                       |
+| bonus       | `/ˈboʊnəs/`    | n. 奖金；额外奖励          | Employees receive a bonus at the end of the year. (员工在年底会得到奖金。)                                                                         |
+| lexical     | `/ˈlɛksɪkəl/`  | adj. 词汇的；词典的        | Lexical analysis is important in language processing. (词汇分析在语言处理中很重要。)                                                                  |
+| coherence   | `/koʊˈhɪrəns/` | n. 连贯性；一致性          | His essay lacks coherence. (他的文章缺乏连贯性。)                                                                                                 |
+| academy     | `/əˈkædəmi/`   | n. 学院；学会              | She graduated from a military academy. (她毕业于一所军事学院。)                                                                                    |
+| bark        | `/bɑrk/`       | n. 树皮；狗吠声<br>v. 吠叫 | n. The tree's bark is very rough. (这棵树的树皮很粗糙。)<br>v. The dog barked all night. (狗整晚都在吠叫。)                                               |
+| dye         | `/daɪ/`        | n. 染料<br>v. 染色         | n. She bought some red dye for the fabric. (她买了一些红色染料。)<br>v. She dyed her hair black. (她把头发染成了黑色。)                                     |
+| die         | `/daɪ/`        | v. 死亡；消亡              | Many plants die in the winter. (许多植物在冬天死亡。)                                                                                             |
+| verse       | `/vɜrs/`       | n. 诗句；韵文              | He quoted a verse from the Bible. (他引用了《圣经》中的一节诗句。)                                                                                     |
+| module      | `/ˈmɑdʒul/`    | n. 模块；单元              | Each module of the course must be completed. (课程的每个单元都必须完成。)                                                                            |
+| merge       | `/mɜrdʒ/`      | v. 合并；融合              | The two companies decided to merge. (这两家公司决定合并。)                                                                                        |
+| pulp        | `/pʌlp/`       | n. 浆；果肉                | The pulp of the fruit is very sweet. (这种水果的果肉很甜。)                                                                                       |
+| miss        | `/mɪs/`        | v. 想念；错过<br/>n. 小姐  | v. I miss my family. <br/>(我想念我的家人。)<br/>We missed the bus. <br/>(我们错过了公交车。)<br/>n. Miss Smith will be your teacher. <br/>(史密斯小姐将是你的老师。) |
+| stamina     | `/ˈstæmɪnə/`   | n. 耐力；持久力            | Long-distance runners need a lot of stamina. (长跑选手需要很大的耐力。)                                                                             |
+
+
+#### Second Table - ~~已校对~~
+
+Translator: ChatGPT 4 & 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词        | 美式发音        | 词类 + 汉语释义                       |
+| ----------- | --------------- | ------------------------------------- |
 | pronounce   | `/prəˈnaʊns/`   | v. 发音；宣布                         |
 | juggle      | `/ˈdʒʌɡəl/    | v. 玩杂耍；尽力应付                       |
 | aspirate    | `/ˈæspəˌreɪt/ | v. 发送气音；抽出 n. 清音                 |
@@ -3724,9 +3759,33 @@ Translator: ChatGPT 4
 | wreck       | `/rɛk/        | n. 失事船（或飞机）；残骸 v. 毁坏；使失事 |
 | fiction     | `/ˈfɪkʃən/    | n. 小说；虚构                             |
 
-解释：
-- **chief** 作为形容词时，通常指最重要的或主要的；作为名词时，指领导或主要负责人，如部门负责人或族长。
 
+| 单词        | 美式发音           | 词性 + 汉语释义          | 示例 |
+|-----------|----------------|--------------------|---|
+| pronounce | `/prəˈnaʊns/`  | v. 发音；宣布           | He can pronounce many difficult words. <br>(他能发音很多难的单词。)<br>The judge pronounced the sentence. <br>(法官宣布了判决。) |
+| juggle    | `/ˈdʒʌɡəl/`    | v. 玩杂耍；同时应付        | He can juggle three balls at once. <br>(他能同时玩杂耍三个球。)<br>She had to juggle work and family. <br>(她不得不同时兼顾工作和家庭。) |
+| aspirate  | `/ˈæspəˌreɪt/` | v. 吸入；发送气音         | He accidentally aspirated some water. <br>(他不小心吸入了一些水。) |
+| dash      | `/dæʃ/`        | v. 猛冲；撞击<br>n. 破折号 | He dashed across the street. <br>(他冲过街道。)<br>Use a dash to separate the clauses. <br>(用破折号分隔分句。) |
+| ascend    | `/əˈsɛnd/`     | v. 上升；攀登           | The balloon ascended into the sky. <br>(气球升上天空。) |
+| descend   | `/dɪˈsɛnd/`    | v. 下降；下来           | The plane began to descend. <br>(飞机开始下降。) |
+| vest      | `/vɛst/`       | n. 背心；马甲           | He wore a vest under his shirt. <br>(他在衬衫里穿了件背心。) |
+| investing | `/ɪnˈvɛstɪŋ/`  | v. 投资              | She is interested in investing in real estate. <br>(她对投资房地产感兴趣。) |
+| rule      | `/rul/`        | n. 规则；统治<br>v. 统治；裁定 | The rules are very strict. <br>(规则很严格。)<br>The king ruled the country wisely. <br>(国王英明地统治国家。) |
+| inception | `/ɪnˈsɛpʃən/`  | n. 开始；开端           | Since its inception, the company has grown rapidly. <br>(自成立以来，公司发展迅速。) |
+| basket    | `/ˈbæskɪt/`    | n. 篮子；篓            | She carried a basket of fruit. <br>(她提着一篮水果。) |
+| case      | `/keɪs/`       | n. 情况；箱子           | In this case, we should be careful. <br>(在这种情况下，我们应该小心。)<br>He packed his clothes in a case. <br>(他把衣服装进箱子里。) |
+| crux      | `/krʌks/`      | n. 关键；症结           | The crux of the matter is trust. <br>(问题的关键是信任。) |
+| form      | `/fɔrm/`       | n. 形式；表格<br>v. 形成  | Please fill out this form. <br>(请填写这张表格。)<br>Clouds form when the air cools. <br>(空气冷却时会形成云。) |
+| orbit     | `/ˈɔrbɪt/`     | n. 轨道<br>v. 绕轨道运行  | The satellite is in orbit around the Earth. <br>(卫星在地球轨道上运行。)<br>The moon orbits the Earth. <br>(月球绕地球运行。) |
+| lump      | `/lʌmp/`       | n. 块；肿块<br>v. 结块   | He found a lump in his soup. <br>(他在汤里发现了一块。)<br>The sugar lumped together in the jar. <br>(糖在罐子里结块了。) |
+| revival   | `/rɪˈvaɪvəl/`  | n. 复兴；恢复           | The town is experiencing a revival of interest in its history. <br>(这个小镇正在经历对其历史兴趣的复兴。) |
+| cottage   | `/ˈkɑtɪdʒ/`    | n. 小屋；别墅           | They stayed in a cozy cottage by the lake. <br>(他们住在湖边的一间舒适的小屋里。) |
+| crash     | `/kræʃ/`       | v. 碰撞；崩溃<br>n. 碰撞；崩溃 | The car crashed into the tree. <br>(车撞上了树。)<br>The system crashed and all data was lost. <br>(系统崩溃，所有数据都丢失了。)<br>There was a loud crash. <br>(传来一声巨响。) |
+| smash     | `/smæʃ/`       | v. 打碎；猛撞<br>n. 破碎；猛击 | He smashed the glass with a hammer. <br>(他用锤子打碎了玻璃。)<br>She heard the sound of a smash. <br>(她听到了破碎的声音。) |
+| slam      | `/slæm/`       | v. 猛关；猛击<br>n. 猛击  | He slammed the door shut. <br>(他猛地把门关上。)<br>The basketball player made a slam dunk. <br>(篮球运动员完成了一记扣篮。) |
+| collide   | `/kəˈlaɪd/`    | v. 碰撞；相撞           | The two cars collided at the intersection. <br>(两辆车在交叉口相撞。) |
+| wreck     | `/rɛk/`        | n. 残骸；失事<br>v. 破坏；使失事 | The ship was a total wreck. <br>(那艘船完全成了一堆残骸。)<br>The storm wrecked several buildings. <br>(风暴破坏了几座建筑。) |
+| fiction   | `/ˈfɪkʃən/`    | n. 小说；虚构           | She enjoys reading science fiction. <br>(她喜欢读科幻小说。) |
 
 
 
@@ -3754,25 +3813,27 @@ ChatGPT 3.5 or 4.0 (不记得了) translations
 
 Translator: ChatGPT 4o
 
+#### First Table - 已校对
+
 注：下面表格单词已写到 Goodnotes - 日期见：2024.03.02、03.03 - 实际上 2024.06.03 再次编辑
 
-| 单词           | 美式发音            | 词性 + 汉语释义        | 示例                                                                                                                         |
-|---------------|--------------------|------------------|----------------------------------------------------------------------------------------------------------------------------|
-| conclusive    | `/kənˈkluːsɪv/`    | adj. 确定的；决定性的    | The evidence was conclusive. <br>(证据是确定的。)                                                                                 |
-| rapid         | `/ˈræpɪd/`         | adj. 快速的<br>n. 急流 | adj. The patient showed rapid improvement. <br>(病人显示出快速的改善。)<br>n. They navigated the rapids in a kayak. <br>(他们用皮艇穿过急流。)  |
+| 单词           | 美式发音            | 词性 + 汉语释义        | 示例                                                                                                                |
+|---------------|--------------------|------------------|-------------------------------------------------------------------------------------------------------------------|
+| conclusive    | `/kənˈkluːsɪv/`    | adj. 确定的；决定性的    | The evidence was conclusive. (证据是确定的。)                                                                            |
+| rapid         | `/ˈræpɪd/`         | adj. 快速的<br>n. 急流 | adj. The patient showed rapid improvement. (病人显示出快速的改善。)<br>n. They navigated the rapids in a kayak. (他们用皮艇穿过急流。) |
 | contest       | `/ˈkɑːntest/`      | n. 比赛；竞赛<br>v. 争夺；质疑 | n. He won the essay contest. <br>(他赢得了作文比赛。)<br>v. They contested the results of the election. <br>(他们对选举结果提出了质疑。) |
-| iteration     | `/ˌɪtəˈreɪʃən/`    | n. 迭代；重复         | The software went through several iterations before release. <br>(软件在发布前经过了几次迭代。)                                          |
+| iteration     | `/ˌɪtəˈreɪʃən/`    | n. 迭代；重复         | The software went through several iterations before release. <br>(软件在发布前经过了几次迭代。)                                 |
 | iterate       | `/ˈɪtəreɪt/`       | v. 迭代；重复         | The software development process was iterated several times. <br>(软件开发过程被迭代了几次。)<br>She iterated the steps to ensure accuracy. <br>(她重复了步骤以确保准确。) |
-| item          | `/ˈaɪtəm/`         | n. 项目；物品         | She checked each item on the list. <br>(她检查了清单上的每个项目。)                                                                     |
+| item          | `/ˈaɪtəm/`         | n. 项目；物品         | She checked each item on the list. <br>(她检查了清单上的每个项目。)                                                            |
 | satisfaction  | `/ˌsætəsˈfækʃən/`  | n. 满意；满足         | Customer satisfaction is our top priority.<br /> (顾客满意是我们的首要任务。) <br>The job brought him great satisfaction. <br>(这份工作带给他极大的满足。) |
 | relief        | `/rɪˈliːf/`        | n. 宽慰；(疼痛或不快的)减轻；救济 | He felt a sense of relief after the exam. <br>(考试后他感到如释重负。)<br>The medication provided relief from pain. <br>(药物缓解了疼痛。)<br>The relief efforts helped many people. <br>(救济工作帮助了很多人。) |
-| interference  | `/ˌɪntərˈfɪərəns/` | n. 干涉；干扰         | The interference from the crowd was distracting. <br>(人群的干扰令人分心。)                                                          |
-| pattern       | `/ˈpætərn/`        | n. 模式；图案         | The dress has a beautiful pattern. <br>(这件连衣裙有一个美丽的图案。)                                                                    |
-| medical       | `/ˈmɛdɪkəl/`       | adj. 医学的；医疗的     | She needs medical attention. <br>(她需要医疗救助。)                                                                                |
-| locality      | `/loʊˈkæləti/`     | n. 地区；位置         | The locality of the event was not disclosed. <br>(事件的地点没有透露。)                                                              |
-| calculation   | `/ˌkælkjəˈleɪʃən/` | n. 计算；估算         | The calculation was incorrect. <br>(计算错误。)                                                                                 |
-| physical      | `/ˈfɪzɪkəl/`       | adj. 身体的；物理的     | Physical exercise is important for health. <br>(体育锻炼对健康很重要。)                                                               |
-| experiment    | `/ɪkˈsperəmənt/`   | n. 实验<br>v. 实验   | n. The experiment was a success. <br>(实验取得了成功。)<br>v. They experimented with different methods. <br>(他们尝试了不同的方法。)          |
+| interference  | `/ˌɪntərˈfɪərəns/` | n. 干涉；干扰         | The interference from the crowd was distracting. <br>(人群的干扰令人分心。)                                                 |
+| pattern       | `/ˈpætərn/`        | n. 模式；图案         | The dress has a beautiful pattern. <br>(这件连衣裙有一个美丽的图案。)                                                           |
+| medical       | `/ˈmɛdɪkəl/`       | adj. 医学的；医疗的     | She needs medical attention. <br>(她需要医疗救助。)                                                                       |
+| locality      | `/loʊˈkæləti/`     | n. 地区；位置         | The locality of the event was not disclosed. <br>(事件的地点没有透露。)                                                     |
+| calculation   | `/ˌkælkjəˈleɪʃən/` | n. 计算；估算         | The calculation was incorrect. <br>(计算错误。)                                                                        |
+| physical      | `/ˈfɪzɪkəl/`       | adj. 身体的；物理的     | Physical exercise is important for health. <br>(体育锻炼对健康很重要。)                                                      |
+| experiment    | `/ɪkˈsperəmənt/`   | n. 实验<br>v. 实验   | n. The experiment was a success. <br>(实验取得了成功。)<br>v. They experimented with different methods. <br>(他们尝试了不同的方法。) |
 
 
 
