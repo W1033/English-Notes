@@ -866,6 +866,7 @@ Translator: ChatGPT 4o
 |------------------|-----------------------|------------------------|--------------------------------------------------------------|
 | rancid           | `/ˈrænsɪd/            | adj. 腐臭的             | The butter has turned rancid. <br>(黄油变臭了。)              |
 | season           | `/ˈsizən/             | n. 季节<br>v. 调味       | n. Winter is my favorite season. <br>(冬天是我最喜欢的季节。)<br>v. Season the soup with salt and pepper. <br>(用盐和胡椒调味汤。) |
+| seasoning |  |  |  |
 | wok              | `/wɑk/                | n. 炒锅                 | She cooked the vegetables in a wok. <br>(她用炒锅炒蔬菜。)     |
 | chill            | `/tʃɪl/               | v. 冷却<br>n. 寒冷       | v. Chill the wine before serving. <br>(上酒前先冷却一下。)<br>n. There was a chill in the air. <br>(空气中有一丝寒意。) |
 | fraudulent       | `/ˈfrɔdʒələnt/        | adj. 欺诈的             | He was charged with fraudulent activity. <br>(他被指控欺诈行为。) |
@@ -1124,7 +1125,6 @@ Translator: ChatGPT 4
 | patty         | `/ˈpæti/         | n. 肉饼                    | She cooked a beef patty for dinner. <br>(她晚餐煮了一个牛肉饼。) |
 | embed         | `/ɪmˈbɛd/         | v. 嵌入；植入               | The journalist embedded with the troops for three months. <br>(这名记者与部队一起生活了三个月。) |
 | quilt         | `/kwɪlt/          | n. 被子                    | She made a colorful quilt for her granddaughter. <br>(她为她的孙女做了一床彩色的被子。) |
-| revival       | `/rɪˈvaɪvəl/      | n. 复兴；复活               | There is a revival of interest in folk music. <br>(对民谣音乐的兴趣正在复兴。) |
 | con           | `/kɑːn/           | n. 骗局；诈骗<br>v. 欺骗     | n. He fell victim to a con artist. <br>(他成了一个骗子的受害者。)<br>v. She conned him into buying a fake watch. <br>(她骗他买了一块假表。) |
 |              |                 |                          |                                                              |
 | privacy       | `/ˈpraɪvəsi/    | n. 隐私                    | Please respect my privacy. <br>(请尊重我的隐私。) |
@@ -1883,7 +1883,7 @@ Translator: ChatGPT 4
 | coefficient    | `/ˌkoʊɪˈfɪʃənt/`     | n. 系数               | The coefficient of friction determines how easily one object slides over another.<br />(摩擦系数决定了一个物体在另一个物体上滑动的难易程度。) |
 | parlance       | `/ˈpɑːrləns/`        | n. 说法；(习惯)用语        | In legal parlance, that term has a specific meaning.<br />(在法律术语中，那个词有特定的含义。)<br />In medical parlance, the condition is known as hypotension.<br />(在医学术语中，这种情况被称为低血压。) |
 | plan           | `/plæn/`             | n. 计划；<br />v. 规划   | n. We have a plan for the project.<br />(我们有一个项目计划。)<br />v. We plan to visit France next year.<br />(我们计划明年访问法国。)<br />v. We plan to travel to Europe next year.<br />(我们计划明年去欧洲旅行。) |
-| plane          | `/pleɪn/`            | n. 飞机；平面            | The plane will land in an hour.<br />(飞机将在一小时内着陆。)<br />The plane will depart at 6 PM.<br />(飞机将于下午6点起飞。)<br />In mathematics, a plane is a flat, two-dimensional surface.<br />(在数学中，平面是一个平坦的二维表面。) |
+| plane | `/pleɪn/` | n. 飞机；平面<br/>adj. 平坦的<br/>v. 刨平 | n. The plane took off at 9 a.m.  (飞机在上午9点起飞。)<br>The plane will land in an hour. (飞机将在一小时内着陆。)<br />The plane will depart at 6 PM. (飞机将于下午6点起飞。)<br />In mathematics, a plane is a flat, two-dimensional surface.<br />(在数学中，平面是一个平坦的二维表面。)<br />He drew a geometric plane on the board. <br>(他在黑板上画了一个几何平面。)<br>adj. The carpenter made sure the wood was plane. <br>(木匠确保木头是平坦的。)<br>v. He planed the wood until it was smooth. <br>(他把木头刨平直到光滑。) |
 | daffy          | `/ˈdæfi/`            | adj. 愚蠢的，疯狂的        | She made a daffy decision and regretted it later.<br/>他做了一个愚蠢的决定，之后后悔了。<br />His ideas are a bit daffy but interesting.<br />(他的想法有点傻，但很有趣。)<br />He's got some daffy ideas about how to solve the problem.<br/>他对如何解决问题有一些荒唐的想法。 |
 | fell           | `/fɛl/`              | v. fall 的过去式；<br />adj. 凶猛的 | v. He fell from the bike.<br />(他从自行车上摔下来了。)<br />adj. The fell beast scared everyone in the village.<br />(凶猛的野兽吓坏了村里的每一个人。) |
 | fall           | `/fɔːl/`             | v. 落下；降临；失败         | Leaves fall from the trees in autumn.<br />(秋天树叶落下。)<br />Darkness falls quickly in the winter.<br />(冬天黑夜来临得很快。) |
@@ -2605,7 +2605,6 @@ Translator: ChatGPT 4
 | infringement | `/ɪnˈfrɪndʒmənt/`  | n. 侵权；违反      | patent infringement (专利侵权)<br />The company was sued for copyright infringement. <br>(该公司因侵犯版权被起诉。) |
 | infringe     | `/ɪnˈfrɪndʒ/`      | v. 侵犯；违反      | To copy the book would infringe copyright laws. <br>(复制这本书将侵犯版权法。) |
 | film         | `/fɪlm/`           | n. 电影；胶片；薄膜<br>v. 拍摄 | n. We watched a classic film last night. <br />(我们昨晚看了一部经典电影。)<br>n. We watched a classic film shot`/ʃɑːt/` on 35mm film.<br /> (我们观看了一部用35毫米胶片拍摄的经典电影。)<br />v. They plan to film the documentary in the jungle. <br />(他们计划在丛林中拍摄这部纪录片。) |
-| plane        | `/pleɪn/`          | n. 飞机；平面<br>v. 刨平 | n. She took a plane to New York. <br>(她乘飞机去了纽约。)<br>v. The carpenter planed the wood smooth. <br>(木匠将木头刨平。) |
 | youth        | `/juːθ/`           | n. 青年；青春时期    | She spent her youth in the countryside. <br>(她在乡下度过了她的青春时光。) |
 |              |                    |                 |                                                              |
 | even         | `/ˈiːvən/`         | adj. 平坦的；相等的；偶数的<br/>adv. 甚至；更加<br/>v. 使平衡 | adj. The floor is even. <br>(地板是平坦的。)<br/>adj. Six is an even number. <br>(六是一个偶数。)<br/>adv. He works even harder now. <br>(他现在工作更努力了。)<br/>adv. He didn't even know her name. <br>(他甚至不知道她的名字。)<br />adv. Even young children know the difference between right and wrong. <br>(即使是小孩子也分得清对错。)<br />v. We need to even the scores. <br>(我们需要使比分平衡。) |
@@ -3698,8 +3697,6 @@ Translator: ChatGPT 4 & 4o
 | miss        | `/mɪs/         | v. 错过；思念 n. 小姐                 |
 | stamina     | `/ˈstæmɪnə/    | n. 耐力；持久力                       |
 
-### 单词翻译表格
-
 | 单词        | 美式发音           | 词性 + 汉语释义            | 示例                                                                                                                                      |
 | ----------- |----------------| -------------------------- |-----------------------------------------------------------------------------------------------------------------------------------------|
 | arbor       | `/ˈɑrːbər/`    | n. 树荫处；凉亭            | Arbor Day 植树节. <br>They sat in the arbor to escape the sun. (他们坐在凉亭里躲避太阳。)                                                              |
@@ -3717,75 +3714,49 @@ Translator: ChatGPT 4 & 4o
 | academy     | `/əˈkædəmi/`   | n. 学院；学会              | She graduated from a military academy. (她毕业于一所军事学院。)                                                                                    |
 | bark        | `/bɑrk/`       | n. 树皮；狗吠声<br>v. 吠叫 | n. The tree's bark is very rough. (这棵树的树皮很粗糙。)<br>v. The dog barked all night. (狗整晚都在吠叫。)                                               |
 | dye         | `/daɪ/`        | n. 染料<br>v. 染色         | n. She bought some red dye for the fabric. (她买了一些红色染料。)<br>v. She dyed her hair black. (她把头发染成了黑色。)                                     |
-| die         | `/daɪ/`        | v. 死亡；消亡              | Many plants die in the winter. (许多植物在冬天死亡。)                                                                                             |
+| die         | `/daɪ/`        | v. 死亡；消亡              | Many plants die in the winter. <br/>(许多植物在冬天死亡。)<br/>His love for music will never die. <br/>(他对音乐的热爱永不消逝。) |
 | verse       | `/vɜrs/`       | n. 诗句；韵文              | He quoted a verse from the Bible. (他引用了《圣经》中的一节诗句。)                                                                                     |
 | module      | `/ˈmɑdʒul/`    | n. 模块；单元              | Each module of the course must be completed. (课程的每个单元都必须完成。)                                                                            |
 | merge       | `/mɜrdʒ/`      | v. 合并；融合              | The two companies decided to merge. (这两家公司决定合并。)                                                                                        |
-| pulp        | `/pʌlp/`       | n. 浆；果肉                | The pulp of the fruit is very sweet. (这种水果的果肉很甜。)                                                                                       |
+| pulp        | `/pʌlp/`       | n. 浆；果肉<br/>v. 使成浆状 | n. The pulp of the fruit is very sweet. <br/>(这种水果的果肉很甜。)<br/>The book was turned into pulp(低俗作品) fiction. <br/>(这本书被改编成了低俗小说。)<br/>v. The paper was pulped and recycled. <br/>(纸被制成浆并回收利用。) |
 | miss        | `/mɪs/`        | v. 想念；错过<br/>n. 小姐  | v. I miss my family. <br/>(我想念我的家人。)<br/>We missed the bus. <br/>(我们错过了公交车。)<br/>n. Miss Smith will be your teacher. <br/>(史密斯小姐将是你的老师。) |
 | stamina     | `/ˈstæmɪnə/`   | n. 耐力；持久力            | Long-distance runners need a lot of stamina. (长跑选手需要很大的耐力。)                                                                             |
 
+#### Second Table - 已校对
 
-#### Second Table - ~~已校对~~
+Last proofreading time: 2024.06.10
 
 Translator: ChatGPT 4 & 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词        | 美式发音        | 词类 + 汉语释义                       |
-| ----------- | --------------- | ------------------------------------- |
-| pronounce   | `/prəˈnaʊns/`   | v. 发音；宣布                         |
-| juggle      | `/ˈdʒʌɡəl/    | v. 玩杂耍；尽力应付                       |
-| aspirate    | `/ˈæspəˌreɪt/ | v. 发送气音；抽出 n. 清音                 |
-| dash        | `/dæʃ/        | n. 猛冲；短跑 v. 破折号；猛冲             |
-| ascend      | `/əˈsɛnd/     | v. 上升；攀登                             |
-| descend     | `/dɪˈsɛnd/    | v. 下降；传下                             |
-| vest        | `/vɛst/       | n. 背心；马甲 v. 授予；穿上               |
-| investing   | `/ɪnˈvɛstɪŋ/  | v. 投资；授予（invest的现在分词形式）     |
-| rule        | `/ruːl/       | n. 规则；统治 v. 统治；裁定               |
-| inception   | `/ɪnˈsɛpʃən/  | n. 开始；开端                             |
-| basket      | `/ˈbæskɪt/    | n. 篮子；篮筐                             |
-| case        | `/keɪs/       | n. 情况；箱子 v. 考察；调查               |
-| crux        | `/krʌks/      | n. 关键；难题                             |
-| form        | `/fɔrm/       | n. 形式；形状 v. 形成；建立               |
-| orbit       | `/ˈɔrbɪt/     | n. 轨道；眼眶 v. 绕轨道运行               |
-| lump        | `/lʌmp/       | n. 块；肿块 v. 归并在一起；成块状         |
-| revival     | `/rɪˈvaɪvəl/  | n. 复兴；复活                             |
-| cottage     | `/ˈkɑtɪdʒ/    | n. 小屋；村舍                             |
-| crash       | `/kræʃ/       | v. 碰撞；坠落 n. 碰撞；崩溃               |
-| smash       | `/smæʃ/       | v. 粉碎；打碎 n. 猛撞；巨大成功           |
-| slam        | `/slæm/       | v. 砰地关上；猛烈抨击 n. 猛然关闭         |
-| collide     | `/kəˈlaɪd/    | v. 碰撞；冲突                             |
-| wreck       | `/rɛk/        | n. 失事船（或飞机）；残骸 v. 毁坏；使失事 |
-| fiction     | `/ˈfɪkʃən/    | n. 小说；虚构                             |
 
-
-| 单词        | 美式发音           | 词性 + 汉语释义          | 示例 |
-|-----------|----------------|--------------------|---|
-| pronounce | `/prəˈnaʊns/`  | v. 发音；宣布           | He can pronounce many difficult words. <br>(他能发音很多难的单词。)<br>The judge pronounced the sentence. <br>(法官宣布了判决。) |
-| juggle    | `/ˈdʒʌɡəl/`    | v. 玩杂耍；同时应付        | He can juggle three balls at once. <br>(他能同时玩杂耍三个球。)<br>She had to juggle work and family. <br>(她不得不同时兼顾工作和家庭。) |
-| aspirate  | `/ˈæspəˌreɪt/` | v. 吸入；发送气音         | He accidentally aspirated some water. <br>(他不小心吸入了一些水。) |
-| dash      | `/dæʃ/`        | v. 猛冲；撞击<br>n. 破折号 | He dashed across the street. <br>(他冲过街道。)<br>Use a dash to separate the clauses. <br>(用破折号分隔分句。) |
-| ascend    | `/əˈsɛnd/`     | v. 上升；攀登           | The balloon ascended into the sky. <br>(气球升上天空。) |
-| descend   | `/dɪˈsɛnd/`    | v. 下降；下来           | The plane began to descend. <br>(飞机开始下降。) |
-| vest      | `/vɛst/`       | n. 背心；马甲           | He wore a vest under his shirt. <br>(他在衬衫里穿了件背心。) |
-| investing | `/ɪnˈvɛstɪŋ/`  | v. 投资              | She is interested in investing in real estate. <br>(她对投资房地产感兴趣。) |
-| rule      | `/rul/`        | n. 规则；统治<br>v. 统治；裁定 | The rules are very strict. <br>(规则很严格。)<br>The king ruled the country wisely. <br>(国王英明地统治国家。) |
-| inception | `/ɪnˈsɛpʃən/`  | n. 开始；开端           | Since its inception, the company has grown rapidly. <br>(自成立以来，公司发展迅速。) |
-| basket    | `/ˈbæskɪt/`    | n. 篮子；篓            | She carried a basket of fruit. <br>(她提着一篮水果。) |
-| case      | `/keɪs/`       | n. 情况；箱子           | In this case, we should be careful. <br>(在这种情况下，我们应该小心。)<br>He packed his clothes in a case. <br>(他把衣服装进箱子里。) |
-| crux      | `/krʌks/`      | n. 关键；症结           | The crux of the matter is trust. <br>(问题的关键是信任。) |
-| form      | `/fɔrm/`       | n. 形式；表格<br>v. 形成  | Please fill out this form. <br>(请填写这张表格。)<br>Clouds form when the air cools. <br>(空气冷却时会形成云。) |
-| orbit     | `/ˈɔrbɪt/`     | n. 轨道<br>v. 绕轨道运行  | The satellite is in orbit around the Earth. <br>(卫星在地球轨道上运行。)<br>The moon orbits the Earth. <br>(月球绕地球运行。) |
-| lump      | `/lʌmp/`       | n. 块；肿块<br>v. 结块   | He found a lump in his soup. <br>(他在汤里发现了一块。)<br>The sugar lumped together in the jar. <br>(糖在罐子里结块了。) |
-| revival   | `/rɪˈvaɪvəl/`  | n. 复兴；恢复           | The town is experiencing a revival of interest in its history. <br>(这个小镇正在经历对其历史兴趣的复兴。) |
-| cottage   | `/ˈkɑtɪdʒ/`    | n. 小屋；别墅           | They stayed in a cozy cottage by the lake. <br>(他们住在湖边的一间舒适的小屋里。) |
-| crash     | `/kræʃ/`       | v. 碰撞；崩溃<br>n. 碰撞；崩溃 | The car crashed into the tree. <br>(车撞上了树。)<br>The system crashed and all data was lost. <br>(系统崩溃，所有数据都丢失了。)<br>There was a loud crash. <br>(传来一声巨响。) |
-| smash     | `/smæʃ/`       | v. 打碎；猛撞<br>n. 破碎；猛击 | He smashed the glass with a hammer. <br>(他用锤子打碎了玻璃。)<br>She heard the sound of a smash. <br>(她听到了破碎的声音。) |
-| slam      | `/slæm/`       | v. 猛关；猛击<br>n. 猛击  | He slammed the door shut. <br>(他猛地把门关上。)<br>The basketball player made a slam dunk. <br>(篮球运动员完成了一记扣篮。) |
-| collide   | `/kəˈlaɪd/`    | v. 碰撞；相撞           | The two cars collided at the intersection. <br>(两辆车在交叉口相撞。) |
-| wreck     | `/rɛk/`        | n. 残骸；失事<br>v. 破坏；使失事 | The ship was a total wreck. <br>(那艘船完全成了一堆残骸。)<br>The storm wrecked several buildings. <br>(风暴破坏了几座建筑。) |
-| fiction   | `/ˈfɪkʃən/`    | n. 小说；虚构           | She enjoys reading science fiction. <br>(她喜欢读科幻小说。) |
+| 单词         | 美式发音           | 词性 + 汉语释义          | 示例 |
+|------------|----------------|--------------------|---|
+| pronounce  | `/prəˈnaʊns/`  | v. 发音；宣布           | He can pronounce many difficult words. <br>(他能发音很多难的单词。)<br>The judge pronounced the sentence. <br>(法官宣布了判决。) |
+| juggle     | `/ˈdʒʌɡəl/`    | v. 玩杂耍；同时应付        | He can juggle three balls at once. <br>(他能同时玩杂耍三个球。)<br>She had to juggle work and family. <br>(她不得不同时兼顾工作和家庭。) |
+| aspirate   | `/ˈæspəˌreɪt/` | v. 吸入；发送气音<br>n. 送气音 | v. He accidentally aspirated some water. <br>(他不小心吸入了一些水。)<br>In English, the 'h' in 'hat' is aspirated. <br>(在英语中，“hat”中的“h”是发送气音。)<br>n. The word 'hour' is pronounced without an initial aspirate. <br>(“hour”这个词在发音时不带初始送气音。) |
+| dash       | `/dæʃ/`        | v. 猛冲；撞击<br>n. 破折号 | He dashed across the street. <br>(他冲过街道。)<br>Use a dash to separate the clauses. <br>(用破折号分隔分句。) |
+| ascend     | `/əˈsend/`    | v. 上升；攀登           | The balloon ascended into the sky. <br>(气球升上天空。) |
+| descend    | `/dɪˈsend/`   | v. 下降；下来           | The plane began to descend. <br>(飞机开始下降。) |
+| vest       | `/vest/`      | n. 背心；马甲<br/>v. 授予 | n. He wore a vest under his shirt. <br>(他在衬衫里穿了件背心。)<br />v. The power is vested in the board of directors. <br/>(权力被授予董事会。) |
+| invest  | `/ɪnˈvest/`    | v. 投资；投入                       | She decided to invest in real estate. <br/>(她决定投资房地产。)<br/>They invested a lot of time in the project. <br/>(他们在这个项目上投入了大量时间。) |
+| rule       | `/ruːl/` | n. 规则；统治<br>v. 统治；裁定 | n. the **rules of** the game. 游戏规则。<br />n. The rules are very strict.  (规则很严格。)<br>v. The king ruled the country wisely. <br>(国王英明地统治国家。) |
+| inception  | `/ɪnˈsepʃən/` | n. 开始；开端           | Since its inception, the company has grown rapidly. <br>(自成立以来，公司发展迅速。) |
+| basket     | `/ˈbæskɪt/`    | n. 篮子；篓            | a shopping basket. 购物篮。<br />She carried a basket of fruit. (她提着一篮水果。) |
+| case       | `/keɪs/`       | n. 情况；箱子；案件 | In this case, we should be careful. <br>(在这种情况下，我们应该小心。)<br>He packed his clothes in a case. <br>(他把衣服装进箱子里。)<br/>The lawyer won the case. <br/>(律师赢了这个案件。) |
+| crux       | `/krʌks/`      | n. 关键；症结           | The crux of the matter is trust. <br>(问题的关键是信任。) |
+| form       | `/fɔːrm/`      | n. 形式；表格<br>v. 形成  | n. Please fill out this form. <br/>(请填写这张表格。)<br/>The sculpture is an abstract form. <br/>(这个雕塑是抽象形式的。)<br/>v. Clouds form when the air cools. <br/>(空气冷却时会形成云。) |
+| orbit      | `/ˈɔːrbɪt/`    | n. 轨道<br>v. 绕轨道运行  | n. The satellite is in orbit around the Earth. <br/>(卫星在地球轨道上运行。)<br/>v. The moon orbits the Earth. <br/>(月球绕地球运行。) |
+| lump       | `/lʌmp/`       | n. 块；肿块<br>v. 结块   | n. He found a lump in his soup. <br/>(他在汤里发现了一块。)<br/>She felt a lump in her throat. <br/>(她感到喉咙里有个肿块。)<br/>v. The sugar lumped together in the jar. <br/>(糖在罐子里结块了。) |
+| revival    | `/rɪˈvaɪvəl/`  | n. 复兴；恢复           | The town is experiencing a **revival of** interest in its history. <br>(这个小镇正在经历对其历史兴趣的复兴。)<br />The US and the UK have expectations of economic revival.<br />美国和英国对经济复苏有所期待。 |
+| cottage    | `/ˈkɑːtɪdʒ/`   | n. 小屋；别墅           | They stayed in a cozy cottage by the lake. <br>(他们住在湖边的一间舒适的小屋里。) |
+| crash      | `/kræʃ/`       | v. 碰撞；崩溃<br>n. 碰撞；崩溃 | v. The car crashed into the tree. <br/>(车撞上了树。)<br/>The system crashed and all data was lost. <br/>(系统崩溃，所有数据都丢失了。)<br/>n. There was a loud crash. <br/>(传来一声巨响。)<br/>The market crash affected many investors. <br/>(市场崩溃影响了许多投资者。) |
+| smash      | `/smæʃ/`       | v. 打碎；猛撞<br>n. 破碎；猛击 | v. He smashed the glass with a hammer. <br/>(他用锤子打碎了玻璃。)<br/>The car smashed into the wall. <br/>(汽车猛撞上了墙。)<br/>n. She heard the sound of a smash. <br/>(她听到了破碎的声音。)<br/>His performance was a smash hit. <br/>(他的表演大获成功。) |
+| slam       | `/slæm/`       | v. 猛关；猛击<br/>n. 砰的一声 | v. He slammed the door shut. <br/>(他猛地把门关上了。)<br/>The boxer slammed his opponent. <br/>(拳击手猛击对手。)<br/>n. She heard a loud slam. <br/>(她听到一声巨响。)<br/>The car came to a slam stop. <br/>(汽车猛然停下。) |
+| collide    | `/kəˈlaɪd/`    | v. 碰撞；相撞           | The two cars collided at the intersection. <br/>(两辆车在交叉口相撞。)<br/>The ideas of the two leaders collided. <br/>(两位领导人的想法发生了冲突。) |
+| wreck      | `/rek/`       | v. 破坏；使失事<br/>n. 残骸；失事 | v. The storm wrecked several buildings. <br/>(风暴破坏了几座建筑。)<br/>The scandal wrecked his career. <br/>(丑闻毁了他的事业。)<br/>n. The ship was a total wreck. <br/>(那艘船完全成了一堆残骸。)<br/>They salvaged items from the car wreck. <br/>(他们从车祸残骸中打捞出物品。) |
+| fiction    | `/ˈfɪkʃən/`    | n. 小说；虚构           | She enjoys reading science fiction. <br/>(她喜欢读科幻小说。)<br/>The story is pure fiction. <br/>(这个故事纯属虚构。) |
 
 
 
