@@ -16,6 +16,44 @@
 
 
 
+
+### Edited: 2024.06.11
+
+#### First Table - ~~已校对~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+### 单词翻译表格
+
+| 单词           | 美式发音                 | 词性 + 汉语释义         | 示例                                                                                    |
+|--------------|----------------------|-------------------|---------------------------------------------------------------------------------------|
+| spaghetti    | `/spəˈɡɛti/`         | n. 意大利面条          | She cooked a big pot of spaghetti. <br>(她煮了一大锅意大利面条。)                                 |
+| garlic       | `/ˈɡɑrlɪk/`          | n. 大蒜             | Add some garlic to the sauce for flavor. <br>(在酱汁里加一些大蒜调味。)                           |
+| `block`        | `/blɑːk/`            | n. 街区；块<br>v. 阻塞；阻挡 | n. They live just a few blocks away. <br>(他们住在几条街之外。)<br>He carved a statue from a block of wood. <br>(他用一块木头雕刻了一尊雕像。)<br>v. The road was blocked by a fallen tree. <br>(道路被倒下的树挡住了。) |
+| blocker      | `/ˈblɑːkər/`         | n. 障碍物；阻挡者        | He acted as a blocker during the game. <br>(他在比赛中充当阻挡者。) |
+| barn         | `/bɑrn/`             | n. 谷仓；牲口棚         | The farmer stored hay in the barn. <br>(农民把干草存放在谷仓里。)                                 |
+| carton       | `/ˈkɑrtən/`          | n. 纸箱；纸盒          | She bought a carton of milk. <br>(她买了一盒牛奶。)                                           |
+| trolley      | `/ˈtrɑli/`           | n. 手推车；电车         | She pushed the shopping trolley through the store. <br>(她推着购物车穿过商店。)                  |
+| dietary      | `/ˈdaɪəˌtɛri/`       | adj. 饮食的；膳食的      | He has specific dietary requirements. <br>(他有特定的饮食要求。)                                |
+| deli         | `/ˈdɛli/`            | n. 熟食店            | She bought some cheese from the deli. <br>(她从熟食店买了一些奶酪。)                              |
+| frozen       | `/ˈfroʊzən/`         | adj. 冷冻的；冻结的      | She bought a bag of frozen vegetables. <br>(她买了一袋冷冻蔬菜。)                               |
+| pantry       | `/ˈpæntri/`          | n. 食品储藏室          | She keeps the pantry well stocked with food. <br>(她保持食品储藏室里的食物充足。)                    |
+| protein      | `/ˈproʊtin/`         | n. 蛋白质            | Chicken is a good source of protein. <br>(鸡肉是蛋白质的良好来源。)                               |
+| saturate     | `/ˈsætʃəˌreɪt/`      | v. 浸透；使饱和         | The heavy rain saturated the ground. <br>(大雨使地面湿透了。)                                  |
+| fibre        | `/ˈfaɪbər/`          | n. 纤维             | Fruits and vegetables are high in fibre. <br>(水果和蔬菜富含纤维。)                             |
+| carbohydrate | `/ˌkɑrboʊˈhaɪdreɪt/` | n. 碳水化合物          | Bread is a common source of carbohydrates. <br>(面包是常见的碳水化合物来源。)                       |
+| sodium       | `/ˈsoʊdiəm/`         | n. 钠              | High sodium intake can lead to health problems. <br>(高钠摄入可能导致健康问题。)                   |
+| nutritional  | `/nuˈtrɪʃənəl/`      | adj. 营养的          | The nutritional value of this food is high. <br>(这种食物的营养价值很高。)                        |
+| edible       | `/ˈɛdəbəl/`          | adj. 可食用的         | The berries are edible, but not very tasty. <br>(这些浆果可以食用，但味道不太好。)                    |
+| portion      | `/ˈpɔrʃən/`          | n. 部分；一份          | She ate a small portion of the meal. <br>(她吃了一小部分饭。)                                  |
+| claim        | `/kleɪm/`            | v. 声称；要求<br>n. 声明；索赔 | v. He claimed to have seen the UFO. <br>(他声称看到了不明飞行物。)<br>She claimed her luggage at the airport. <br>(她在机场领取了行李。)<br>n. His claim was proven false. <br>(他的声明被证明是假的。)<br>She filed a claim for compensation. <br>(她提出了赔偿要求。) |
+
+
+
+
+
 ### Edited: 2024.06.05
 
 Added: 2024.01.16
@@ -1253,8 +1291,6 @@ Translator: ChatGPT 4o
 | certain            | `/ˈsɜrtən/`      | adj. 确定的；某些的             | She is certain about her decision. <br>(她对自己的决定很确定。) |
 | integration        | `/ˌɪntəˈɡreɪʃən/` | n. 融合；整合                 | The integration of technology into education is essential. <br>(将技术融入教育是必不可少的。) |
 | catch up on        | `/kætʃ ʌp ɑn/`   | 短语. 补上；赶上                | I need to catch up on my reading. <br>(我需要补上我的阅读。) |
-| block              | `/blɑk/`         | n. 街区；障碍物<br>v. 阻塞       | n. They live a few blocks away. <br>(他们住在几个街区外。)<br>v. The road was blocked by a fallen tree. <br>(道路被倒下的树挡住了。) |
-| blocker            | `/ˈblɑkər/`      | n. 障碍物；阻挡者               | He acted as a blocker during the game. <br>(他在比赛中充当阻挡者。) |
 | accessible         | `/əkˈsɛsəbəl/`   | adj. 可进入的；易接近的           | The library is easily accessible. <br>(图书馆很容易进入。) |
 | accessibility      | `/əkˌsɛsəˈbɪlɪti/` | n. 无障碍；易接近               | They improved the accessibility of the building. <br>(他们改善了大楼的无障碍设施。) |
 | infuse             | `/ɪnˈfjuz/`      | v. 注入；灌输                 | The teacher infused enthusiasm into the students. <br>(老师给学生们注入了热情。) |
@@ -1822,7 +1858,6 @@ Translator: ChatGPT 4
 | infect        | `/ɪnˈfɛkt/`        | v. 感染                | He was infected with a rare virus.<br />(他被一种罕见的病毒感染。)<br />The virus can infect humans and animals.<br />(这种病毒能感染人类和动物。) |
 | virus         | `/ˈvaɪrəs/`        | n. 病毒                | The virus spreads through the air.<br />(病毒通过空气传播。) |
 | disinfect     | `/ˌdɪsɪnˈfɛkt/`    | v. 消毒                | They need to disinfect the wound to prevent infection.<br />(他们需要对伤口进行消毒以防感染。) |
-| erase         | `/ɪˈreɪs/`         | v. 擦除                | She erased the mistake from her notebook.<br />(她从笔记本上擦掉了错误。) |
 
 
 #### Second Table
@@ -3626,39 +3661,38 @@ Translator: ChatGPT 4
 
 
 ### Added: 2024.01.23
-Translator: ChatGPT 4
+
+Translator: ChatGPT 4 & 4o
+
+Last proofreading Time: 2024.06.11
+
+#### First Table - 已校对
+
 注：下面表格单词已写到 Goodnotes；日期见：2024.03.03
 
-| 单词                | 美式发音                   | 词类 + 汉语释义                           |                            |
-|-------------------|------------------------| ----------------------------------------- | ----------------------------------------- |
-| faint             | `/feɪnt/`              | adj. 微弱的；模糊的<br />v. 晕倒 | adj. There was a faint sound coming from the room. <br />(房间里传来了微弱的声音。)<br />v. She fainted from exhaustion. <br />(她因为筋疲力尽而晕倒。) |
-| compact           | `/kəmˈpækt/`           | adj. 紧凑的；小巧的 | adj. The apartment is small but compact. <br />(这个公寓小但布局紧凑。)<br>n. She carried her makeup in a small compact. <br />(她携带一个小巧的化妆盒。) |
-| laminate          | `/ˈlæməˌneɪt/`         | v. 覆膜；n. 层压板 | v. They decided to laminate the important documents for preservation. <br />(他们决定给重要文件覆上薄膜以便保存。)<br>n. The countertop is made of laminate. <br />(这个台面是由层压板制成的。) |
-| callout           | `/ˈkɔːlaʊt/`           | n. 呼叫；标注                             | The emergency services received a callout to a house fire. <br />(紧急服务部门接到了对一起住宅火灾的呼叫。) |
+| 单词                | 美式发音                   | 词类 + 汉语释义               |                            |
+|-------------------|------------------------|-------------------------| ----------------------------------------- |
+| faint             | `/feɪnt/`              | adj. 微弱的；模糊的<br />v. 晕倒 | adj. She heard a faint sound. <br/>(她听到了一声微弱的声音。)<br/>The text was faint and hard to read. <br/>(文字模糊难以辨认。)<br/>v. He fainted from exhaustion. <br/>(他因疲劳而晕倒了。) |
+| compact           | `/kəmˈpækt/`           | adj. 紧凑的；小型的<br/>v. 压紧 | adj. The car is compact and easy to park. <br/>(这辆车紧凑且容易停车。)<br/>v. The soil was compacted to create a solid foundation. <br/>(土壤被压紧以创建一个坚固的基础。) |
+| laminate          | `/ˈlæməneɪt/`          | v. 覆膜；n. 层压板            | v. They decided to laminate the important documents for preservation. <br />(他们决定给重要文件覆上薄膜以便保存。)<br>n. The countertop is made of laminate. <br />(这个台面是由层压板制成的。) |
+| callout           | `/ˈkɔːlaʊt/`           | n. 呼叫；标注                | The emergency services received a callout to a house fire. <br />(紧急服务部门接到了对一起住宅火灾的呼叫。) |
 | spec              | `/spɛk/`               | n. 规格；说明（specification的缩写） | Please check the product specs before purchase. <br />(购买前请检查产品规格。) |
-| account           | `/əˈkaʊnt/`            | n. 账户；报告；考虑；<br />v. 解释；认为 | n. He has an account at a local bank. <br />(他在一家当地银行有一个账户。)<br />v. How do you account for the success of the project? <br />(你如何解释这个项目的成功？) |
-| take into account | `/teɪk ˈɪntu əˈkaʊnt/` | phrasal. 考虑；重视                   |                    |
-| skim              | `/skɪm/`               | v. 略读，撇去〔液体表面的浮油或漂浮物〕 | He skimmed the article quickly. <br />(他快速略读了这篇文章。) |
-| crucial           | `/ˈkruːʃəl/`           | adj. 关键的；决定性的                     | The support of her family was crucial to her success. <br />(她家人的支持对她的成功至关重要。) |
-| central           | `/ˈsɛntrəl/`           | adj. 中心的；主要的                | The library plays a central role in the community. <br />(图书馆在社区中扮演着主要角色。) |
-| chip              | `/tʃɪp/`               | n. 芯片；碎片；薄片；v. 打碎；削下 | n. The computer has a powerful chip. <br />(这台电脑有一个强大的芯片。)<br />He noticed a small chip in the glass. <br />(他注意到玻璃上有一个小碎片。)<br />She loves eating potato chips. <br />(她喜欢吃薯片。)<br />v. He accidentally chipped the vase. <br />(他不小心打碎了花瓶。) |
-| narration         | `/næˈreɪʃən/`          | n. 叙述；旁白           | The documentary had excellent narration. <br />(这部纪录片的旁白非常出色。)<br />The movie's narration was both informative and entertaining. <br />(这部电影的旁白既提供信息又富有娱乐性。) |
-| sleek             | `/sliːk/`              | adj. 光滑的；时髦的     | The design of the car is very sleek. <br />(这辆车的设计非常时髦光滑。) |
-| informative       | `/ɪnˈfɔːrmətɪv/`       | adj. 提供信息的；有教育意义的 | The documentary was both informative and interesting. <br />(这部纪录片既提供了信息又很有趣。) |
-| entertaining      | `/ˌɛntərˈteɪnɪŋ/`      | adj. 有趣的；娱乐性的 | His stories are always entertaining. <br />(他的故事总是很有趣。) |
-| documentary       | `/ˌdɑːkjəˈmentəri/`    | n. 纪录片 | She watched a documentary about wildlife conservation. <br />(她观看了一部关于野生动物保护的纪录片。) |
+| account           | `/əˈkaʊnt/`            | n. 账户；描述；解释<br/>v. 解释；说明 | n. She opened a bank account. <br/>(她开了一个银行账户。)<br/>He gave a detailed account of the events. <br/>(他详细描述了事件。)<br/>His account of the accident was clear. <br/>(他对事故的描述很清楚。)<br/>Her account provided a clear explanation. <br/>(她的描述提供了清晰的解释。)<br/>v. Can you account for your whereabouts last night? <br/>(你能解释一下你昨晚的行踪吗？)<br/>He couldn't account for the missing money. <br/>(他无法解释丢失的钱。) |
+| take into account | `/teɪk ˈɪntu əˈkaʊnt/` | phrasal. 考虑；重视          |                    |
+| skim              | `/skɪm/`               | v. 略读，撇去〔液体表面的浮油或漂浮物〕   | He skimmed the article quickly. <br />(他快速略读了这篇文章。)<br/>He skimmed the cream off the milk. <br/>(他撇去了牛奶上的奶油。) |
+| crucial           | `/ˈkruːʃəl/`           | adj. 关键的；决定性的           | The support of her family was crucial to her success. <br />(她家人的支持对她的成功至关重要。) |
+| central           | `/ˈsentrəl/`           | adj. 中央的；核心的            | the party’s central office. 该党的中央办公楼<br />The central idea of the article is clear. <br/>(文章的核心思想很清晰。)<br />The library plays a central role in the community. <br />(图书馆在社区中扮演着主要角色。)<br /> values which are central to our society.<br />我们社会的核心价值观 |
+| chip              | `/tʃɪp/`               | n. 薄片；芯片；碎片<br/>v. 削下；打破 | n. The computer has a powerful chip. <br />(这台电脑有一个强大的芯片。)<br />He noticed a small chip in the glass. <br />(他注意到玻璃上有一个小碎片。)<br />There were chips of glass on the floor. <br/>(地板上有碎玻璃片。)<br />She loves eating potato chips. <br />(她喜欢吃薯片。)<br />v. He accidentally chipped the vase. <br />(他不小心打碎了花瓶。)<br />v. He chipped a piece of the vase. <br/>(他打碎了花瓶的一角。)<br/>v. The carpenter chipped the wood to shape it. <br/>(木匠削下木头以塑形。) |
+| narration         | `/nəˈreɪʃən/`          | n. 叙述；旁白                | The documentary had excellent narration. <br />(这部纪录片的旁白非常出色。)<br />The movie's narration was both informative and entertaining. <br />(这部电影的旁白既提供信息又富有娱乐性。) |
+| sleek             | `/sliːk/`              | adj. 光滑的；时髦的            | The design of the car is very sleek. <br />(这辆车的设计非常时髦光滑。) |
+| informative       | `/ɪnˈfɔːrmətɪv/`       | adj. 提供信息的              | The documentary was both informative and interesting. <br />(这部纪录片既提供了信息又很有趣。) |
+| entertaining      | `/ˌɛntərˈteɪnɪŋ/`      | adj. 有趣的；娱乐性的           | His stories are always entertaining. <br />(他的故事总是很有趣。) |
+| documentary       | `/ˌdɑːkjəˈmentəri/`    | n. 纪录片                  | She watched a documentary about wildlife conservation. <br />(她观看了一部关于野生动物保护的纪录片。) |
+
 
 列表解释：
-
 - **faint (adj.)**：作为形容词，表示某物非常微弱或不明显，如声音、光线或感觉。作为动词，指因为疲劳、疼痛或震惊等原因而突然失去意识。这个用法在描述健康或医疗情况时常见。
-- compact
-- laminate
 - **callout (n.)**：作为名词，“callout”可以指紧急情况下的呼叫或请求，尤其是指向警察、救护车或其他紧急服务的请求。在出版或设计领域中，它还可以指文档、图表或演示中的注释或突出显示的部分。这个词在不同的情境中有着不同的用法。
-- spec
-- account
-- take into account
-- skim
-- crucial
 - **central (adj.)**：作为形容词，“central”用于描述位于中心的事物或在某个过程、系统中起主要作用的事物。"中心的"指的是物理上或比喻意义上的中心位置，而"主要的"则强调事物的重要性或关键性。
 - **narration (n.)**：作为名词，“narration”指的是讲述一个故事或事件的行为，通常用于描述电影、电视节目或纪录片中的旁白部分，提供背景信息、解释或评论。
 - **informative (adj.)**：作为形容词，"informative" 用于形容提供有用信息或知识的事物，尤其是在教育或传播知识的情境中。它强调了内容的教育性和知识性。
@@ -3668,59 +3702,43 @@ Translator: ChatGPT 4
 
 
 
+
+
 ### Added: 2024.01.22
 
-*Edited: 2024.01.29、02.29、*
+*Edited: 2024.01.29、02.29、06.11*
 
-#### First Table - ~~已校对~~
+#### First Table - 已校对
 
 Translator: ChatGPT 4 & 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词        | 美式发音        | 词类 + 汉语释义                       |
-| ----------- | --------------- | ------------------------------------- |
-| destructive | `/dɪˈstrʌktɪv/ | adj. 破坏性的；毁灭性的               |
-| erase       | `/ɪˈreɪs/      | v. 擦除；抹去                         |
-| any         | `/ˈɛni/        | adj. 任何的；所有的 pron. 任何人      |
-| bonus       | `/ˈboʊnəs/     | n. 奖金；额外津贴                     |
-| lexical     | `/ˈlɛksɪkəl/   | adj. 词汇的；词典的                   |
-| coherence   | `/koʊˈhɪrəns/  | n. 一致性；连贯性                     |
-| academy     | `/əˈkædəmi/    | n. 学院；研究院                       |
-| bark        | `/bɑrk/        | n. 树皮；吠声 v. 吠叫；咆哮           |
-| dye         | `/daɪ/         | n. 染料 v. 染色                       |
-| die         | `/daɪ/         | v. 死亡；消逝 n. 骰子                 |
-| verse       | `/vɜrs/        | n. 诗；韵文                           |
-| module      | `/ˈmɑdʒuːl/    | n. 模块；组件                         |
-| merge       | `/mɜrdʒ/       | v. 合并；融合                         |
-| pulp        | `/pʌlp/        | n. 浆状物；纸浆 v. 使成浆状           |
-| miss        | `/mɪs/         | v. 错过；思念 n. 小姐                 |
-| stamina     | `/ˈstæmɪnə/    | n. 耐力；持久力                       |
-
-| 单词        | 美式发音           | 词性 + 汉语释义            | 示例                                                                                                                                      |
-| ----------- |----------------| -------------------------- |-----------------------------------------------------------------------------------------------------------------------------------------|
-| arbor       | `/ˈɑrːbər/`    | n. 树荫处；凉亭            | Arbor Day 植树节. <br>They sat in the arbor to escape the sun. (他们坐在凉亭里躲避太阳。)                                                              |
-| minutia     | `/mɪˈnuːʃɪə/`  | n. 细节                    | He was interested in the minutia of the contract. (他对合同的细节很感兴趣。)                                                                        |
-| minutiae    | `/mɪ'nuʃɪi/`   | n. 细节（复数）            | The minutiae of the case were thoroughly examined. (案件的细节被彻底检查了。)                                                                       |
-| chief       | `/tʃiːf/`        | adj. 主要的<br>n. 首领     | adj. His chief concern is safety. (他的主要关注点是安全。)<br>n. He is the chief of the tribe. (他是部落的首领。)                                          |
-| deputy      | `/ˈdɛpjəti/`   | n. 副手；代理人            | The deputy took over when the chief was away. (首领不在时，副手接管了。)                                                                            |
-| phrase      | `/freɪz/`      | n. 短语；措辞<br>v. 措辞   | n. This phrase is commonly used in English. (这个短语在英语中很常用。)<br>v. She phrased her response carefully. (她谨慎地措辞回应。)                        |
-| destructive | `/dɪˈstrʌktɪv/` | adj. 破坏性的              | The earthquake was highly destructive. (地震具有很强的破坏性。)                                                                                    |
-| erase       | `/ɪˈreɪs/`     | v. 擦除；删除              | He erased the chalk marks from the board. (他擦掉了黑板上的粉笔痕迹。)                                                                               |
-| any         | `/ˈɛni/`       | adj. 任何的；一些的        | You can choose any book you like. (你可以选择任何你喜欢的书。)                                                                                       |
-| bonus       | `/ˈboʊnəs/`    | n. 奖金；额外奖励          | Employees receive a bonus at the end of the year. (员工在年底会得到奖金。)                                                                         |
-| lexical     | `/ˈlɛksɪkəl/`  | adj. 词汇的；词典的        | Lexical analysis is important in language processing. (词汇分析在语言处理中很重要。)                                                                  |
-| coherence   | `/koʊˈhɪrəns/` | n. 连贯性；一致性          | His essay lacks coherence. (他的文章缺乏连贯性。)                                                                                                 |
-| academy     | `/əˈkædəmi/`   | n. 学院；学会              | She graduated from a military academy. (她毕业于一所军事学院。)                                                                                    |
-| bark        | `/bɑrk/`       | n. 树皮；狗吠声<br>v. 吠叫 | n. The tree's bark is very rough. (这棵树的树皮很粗糙。)<br>v. The dog barked all night. (狗整晚都在吠叫。)                                               |
-| dye         | `/daɪ/`        | n. 染料<br>v. 染色         | n. She bought some red dye for the fabric. (她买了一些红色染料。)<br>v. She dyed her hair black. (她把头发染成了黑色。)                                     |
-| die         | `/daɪ/`        | v. 死亡；消亡              | Many plants die in the winter. <br/>(许多植物在冬天死亡。)<br/>His love for music will never die. <br/>(他对音乐的热爱永不消逝。) |
-| verse       | `/vɜrs/`       | n. 诗句；韵文              | He quoted a verse from the Bible. (他引用了《圣经》中的一节诗句。)                                                                                     |
-| module      | `/ˈmɑdʒul/`    | n. 模块；单元              | Each module of the course must be completed. (课程的每个单元都必须完成。)                                                                            |
-| merge       | `/mɜrdʒ/`      | v. 合并；融合              | The two companies decided to merge. (这两家公司决定合并。)                                                                                        |
-| pulp        | `/pʌlp/`       | n. 浆；果肉<br/>v. 使成浆状 | n. The pulp of the fruit is very sweet. <br/>(这种水果的果肉很甜。)<br/>The book was turned into pulp(低俗作品) fiction. <br/>(这本书被改编成了低俗小说。)<br/>v. The paper was pulped and recycled. <br/>(纸被制成浆并回收利用。) |
-| miss        | `/mɪs/`        | v. 想念；错过<br/>n. 小姐  | v. I miss my family. <br/>(我想念我的家人。)<br/>We missed the bus. <br/>(我们错过了公交车。)<br/>n. Miss Smith will be your teacher. <br/>(史密斯小姐将是你的老师。) |
-| stamina     | `/ˈstæmɪnə/`   | n. 耐力；持久力            | Long-distance runners need a lot of stamina. (长跑选手需要很大的耐力。)                                                                             |
+| 单词          | 美式发音            | 词性 + 汉语释义           | 示例                                                                                                                                                                                                                                                                           |
+|-------------|-----------------|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| arbor       | `/ˈɑrːbər/`     | n. 树荫处；凉亭           | Arbor Day 植树节. <br>They sat in the arbor to escape the sun. <br />(他们坐在凉亭里躲避太阳。)                                                                                                                                                                                             |
+| minutia     | `/mɪˈnuːʃɪə/`   | n. 细节；琐事（单数形式）      | He was interested in the **minutia of** the contract.<br /> (他对合同的细节很感兴趣。)                                                                                                                                                                                                   |
+| minutiae    | `/mɪ’nuːʃɪi/`   | n. 细节；琐事（复数）        | The minutiae of the case were thoroughly examined. <br />(案件的细节被彻底检查了。)<br /> I’m not interested in the **minutiae of** the research, just its conclusions.<br />我对这项研究的细枝末节不感兴趣﹐只要结论。                                                                                       |
+| chief       | `/tʃiːf/`       | adj. 主要的<br>n. 首领   | adj. His chief concern is safety. (他的主要关注点是安全。)<br>n. He is the chief of the tribe. (他是部落的首领。)                                                                                                                                                                               |
+| deputy      | `/ˈdɛpjəti/`    | n. 副手；代理人           | The deputy took over when the chief was away. <br />(首领不在时，副手接管了。)                                                                                                                                                                                                           |
+| phrase      | `/freɪz/`       | n. 短语；措辞<br>v. 措辞   | n. This phrase is commonly used in English. <br />(这个短语在英语中很常用。)<br>n. Who first used the phrase ‘survival of the fittest’?<br />“适者生存”这一说法最早是谁说的？<br />n. I’ve never heard of the phrase before.<br />我以前从未听说过这个习语。<br />v. She phrased her response carefully. (她谨慎地措辞回应。) |
+| destruct	  | `/dɪˈstrʌkt/`   | v. 毁坏；破坏	           | The missile was designed to self-destruct. <br>(导弹被设计成自我毁灭。)                                                                                                                                                                                                                 |
+| destructive | `/dɪˈstrʌktɪv/` | adj. 破坏性的           | The earthquake was highly destructive.<br /> (地震具有很强的破坏性。)                                                                                                                                                                                                                   |
+| erase       | `/ɪˈreɪs/`      | v. 擦除；删除            | He erased the chalk marks from the board. <br />(他擦掉了黑板上的粉笔痕迹。)<br />She erased the mistake from her notebook.<br />(她从笔记本上擦掉了错误。)<br />erase character. 删除字符；清除字符。                                                                                                          |
+| any	      | `/ˈeni/`	    | adj. 任何的；一些的<br/>pron. 一些；任何事物 | adj. You can choose any book you like. <br/>(你可以选择任何你喜欢的书。)<br/>Do you have any questions? <br/>(你有任何问题吗？)<br/>pron. Any of these options will work. <br/>(这些选项中的任何一个都可以。)<br/>Is there any left? <br/>(还有剩下的吗？) |
+| bonus       | `/ˈboʊnəs/`     | n. 奖金；额外奖励          | Employees receive a bonus at the end of the year. <br />(员工在年底会得到奖金。)                                                                                                                                                                                                        |
+| lexical     | `/ˈleksɪkəl/`  | adj. 词汇的；词典的       | Lexical analysis is important in language processing.<br /> (词汇分析在语言处理中很重要。)                                                                                                                                                                                                 |
+| coherence   | `/koʊˈhɪrəns/`  | n. 连贯性；一致性          | His essay lacks coherence. (他的文章缺乏连贯性。)                                                                                                                                                                                                                                      |
+| academy     | `/əˈkædəmi/`    | n. 学院；学会            | She graduated from a military academy. <br />(她毕业于一所军事学院。)<br />the American Academy of Arts and Letters.<br />美国艺术和文学学会                                                                                                                                                    |
+| bark      | `/bɑːrk/`       | n. 树皮；狗吠声<br>v. (狗)吠叫 | n. The tree's bark is very rough. (这棵树的树皮很粗糙。)<br>v. The dog barked all night. (狗整晚都在吠叫。)<br /> The dog always barks at strangers.<br />这条狗总是对着陌生人叫。                                                                                                                         |
+| dye         | `/daɪ/`         | n. 染料<br>v. 染色      | n. She bought some red dye for the fabric.<br /> (她买了一些红色染料。)<br>v. She dyed her hair black. (她把头发染成了黑色。)                                                                                                                                                                    |
+| die         | `/daɪ/`         | v. 死亡；消亡            | Many plants die in the winter. <br/>(许多植物在冬天死亡。)<br/>His love for music will never die. <br/>(他对音乐的热爱永不消逝。)                                                                                                                                                                  |
+| verse       | `/vɜːrs/`       | n. 诗歌；韵文         | He wrote a beautiful verse about love and nature. <br />He quoted a verse from the Bible.<br /> (他引用了《圣经》中的一节诗句。)                                                                                                                                                            |
+| module      | `/ˈmɑːdʒuːl/`   | n. 模块；单元            | control module. 控制模块/控制部件<br />communication module. [计]通信模块<br />Each module of the course must be completed. <br />(课程的每个单元都必须完成。)<br />a module in mathematics. 数学课的一个单元。                                                                                         |
+| merge       | `/mɜːrdʒ/`      | v. 合并；融合            | The two companies decided to merge.<br /> (这两家公司决定合并。)<br />The bank announced that it was to **merge with** another of the high street banks.<br />这家银行宣布将要和另一家大银行合并。<br />The villages have grown and **merged together** over the years.<br />这几年这些村庄逐渐扩大﹐合在了一起。<br />Memories seemed to **merge with** reality.<br />记忆似乎和现实交织在一起。 |
+| pulp        | `/pʌlp/`        | n. 浆；果肉<br/>v. 使成浆状 | n. The pulp of the fruit is very sweet. <br/>(这种水果的果肉很甜。)<br/>Mash the bananas to a pulp. 把香蕉捣成糊状。<br />The book was turned into pulp(低俗作品) fiction. <br/>(这本书被改编成了低俗小说。)<br/>v. The paper was pulped and recycled. <br/>(纸被制成浆并回收利用。)                                    |
+| miss        | `/mɪs/`         | v. 想念；错过<br/>n. 小姐  | v. I miss my family. <br/>(我想念我的家人。)<br/>She missed her family badly.她非常想念她的家人。<br />I’m absolutely starving – I missed lunch.<br />我饿坏了——我没吃上午饭。<br />We missed the bus. <br/>(我们错过了公交车。)<br/>n. Miss Smith will be your teacher. <br/>(史密斯小姐将是你的老师。)                       |
+| stamina     | `/ˈstæmənə/`   | n. 耐力；持久力           | Long-distance runners need a lot of stamina. <br />(长跑选手需要很大的耐力。)<br />It takes a lot of stamina to run a marathon. <br />跑马拉松需要很大的耐力。                                                                                                                                |
 
 #### Second Table - 已校对
 
@@ -3730,33 +3748,32 @@ Translator: ChatGPT 4 & 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-
-| 单词         | 美式发音           | 词性 + 汉语释义          | 示例 |
-|------------|----------------|--------------------|---|
-| pronounce  | `/prəˈnaʊns/`  | v. 发音；宣布           | He can pronounce many difficult words. <br>(他能发音很多难的单词。)<br>The judge pronounced the sentence. <br>(法官宣布了判决。) |
-| juggle     | `/ˈdʒʌɡəl/`    | v. 玩杂耍；同时应付        | He can juggle three balls at once. <br>(他能同时玩杂耍三个球。)<br>She had to juggle work and family. <br>(她不得不同时兼顾工作和家庭。) |
-| aspirate   | `/ˈæspəˌreɪt/` | v. 吸入；发送气音<br>n. 送气音 | v. He accidentally aspirated some water. <br>(他不小心吸入了一些水。)<br>In English, the 'h' in 'hat' is aspirated. <br>(在英语中，“hat”中的“h”是发送气音。)<br>n. The word 'hour' is pronounced without an initial aspirate. <br>(“hour”这个词在发音时不带初始送气音。) |
-| dash       | `/dæʃ/`        | v. 猛冲；撞击<br>n. 破折号 | He dashed across the street. <br>(他冲过街道。)<br>Use a dash to separate the clauses. <br>(用破折号分隔分句。) |
-| ascend     | `/əˈsend/`    | v. 上升；攀登           | The balloon ascended into the sky. <br>(气球升上天空。) |
-| descend    | `/dɪˈsend/`   | v. 下降；下来           | The plane began to descend. <br>(飞机开始下降。) |
-| vest       | `/vest/`      | n. 背心；马甲<br/>v. 授予 | n. He wore a vest under his shirt. <br>(他在衬衫里穿了件背心。)<br />v. The power is vested in the board of directors. <br/>(权力被授予董事会。) |
-| invest  | `/ɪnˈvest/`    | v. 投资；投入                       | She decided to invest in real estate. <br/>(她决定投资房地产。)<br/>They invested a lot of time in the project. <br/>(他们在这个项目上投入了大量时间。) |
-| rule       | `/ruːl/` | n. 规则；统治<br>v. 统治；裁定 | n. the **rules of** the game. 游戏规则。<br />n. The rules are very strict.  (规则很严格。)<br>v. The king ruled the country wisely. <br>(国王英明地统治国家。) |
-| inception  | `/ɪnˈsepʃən/` | n. 开始；开端           | Since its inception, the company has grown rapidly. <br>(自成立以来，公司发展迅速。) |
-| basket     | `/ˈbæskɪt/`    | n. 篮子；篓            | a shopping basket. 购物篮。<br />She carried a basket of fruit. (她提着一篮水果。) |
-| case       | `/keɪs/`       | n. 情况；箱子；案件 | In this case, we should be careful. <br>(在这种情况下，我们应该小心。)<br>He packed his clothes in a case. <br>(他把衣服装进箱子里。)<br/>The lawyer won the case. <br/>(律师赢了这个案件。) |
-| crux       | `/krʌks/`      | n. 关键；症结           | The crux of the matter is trust. <br>(问题的关键是信任。) |
-| form       | `/fɔːrm/`      | n. 形式；表格<br>v. 形成  | n. Please fill out this form. <br/>(请填写这张表格。)<br/>The sculpture is an abstract form. <br/>(这个雕塑是抽象形式的。)<br/>v. Clouds form when the air cools. <br/>(空气冷却时会形成云。) |
-| orbit      | `/ˈɔːrbɪt/`    | n. 轨道<br>v. 绕轨道运行  | n. The satellite is in orbit around the Earth. <br/>(卫星在地球轨道上运行。)<br/>v. The moon orbits the Earth. <br/>(月球绕地球运行。) |
-| lump       | `/lʌmp/`       | n. 块；肿块<br>v. 结块   | n. He found a lump in his soup. <br/>(他在汤里发现了一块。)<br/>She felt a lump in her throat. <br/>(她感到喉咙里有个肿块。)<br/>v. The sugar lumped together in the jar. <br/>(糖在罐子里结块了。) |
-| revival    | `/rɪˈvaɪvəl/`  | n. 复兴；恢复           | The town is experiencing a **revival of** interest in its history. <br>(这个小镇正在经历对其历史兴趣的复兴。)<br />The US and the UK have expectations of economic revival.<br />美国和英国对经济复苏有所期待。 |
-| cottage    | `/ˈkɑːtɪdʒ/`   | n. 小屋；别墅           | They stayed in a cozy cottage by the lake. <br>(他们住在湖边的一间舒适的小屋里。) |
-| crash      | `/kræʃ/`       | v. 碰撞；崩溃<br>n. 碰撞；崩溃 | v. The car crashed into the tree. <br/>(车撞上了树。)<br/>The system crashed and all data was lost. <br/>(系统崩溃，所有数据都丢失了。)<br/>n. There was a loud crash. <br/>(传来一声巨响。)<br/>The market crash affected many investors. <br/>(市场崩溃影响了许多投资者。) |
-| smash      | `/smæʃ/`       | v. 打碎；猛撞<br>n. 破碎；猛击 | v. He smashed the glass with a hammer. <br/>(他用锤子打碎了玻璃。)<br/>The car smashed into the wall. <br/>(汽车猛撞上了墙。)<br/>n. She heard the sound of a smash. <br/>(她听到了破碎的声音。)<br/>His performance was a smash hit. <br/>(他的表演大获成功。) |
-| slam       | `/slæm/`       | v. 猛关；猛击<br/>n. 砰的一声 | v. He slammed the door shut. <br/>(他猛地把门关上了。)<br/>The boxer slammed his opponent. <br/>(拳击手猛击对手。)<br/>n. She heard a loud slam. <br/>(她听到一声巨响。)<br/>The car came to a slam stop. <br/>(汽车猛然停下。) |
-| collide    | `/kəˈlaɪd/`    | v. 碰撞；相撞           | The two cars collided at the intersection. <br/>(两辆车在交叉口相撞。)<br/>The ideas of the two leaders collided. <br/>(两位领导人的想法发生了冲突。) |
-| wreck      | `/rek/`       | v. 破坏；使失事<br/>n. 残骸；失事 | v. The storm wrecked several buildings. <br/>(风暴破坏了几座建筑。)<br/>The scandal wrecked his career. <br/>(丑闻毁了他的事业。)<br/>n. The ship was a total wreck. <br/>(那艘船完全成了一堆残骸。)<br/>They salvaged items from the car wreck. <br/>(他们从车祸残骸中打捞出物品。) |
-| fiction    | `/ˈfɪkʃən/`    | n. 小说；虚构           | She enjoys reading science fiction. <br/>(她喜欢读科幻小说。)<br/>The story is pure fiction. <br/>(这个故事纯属虚构。) |
+| 单词        | 美式发音           | 词性 + 汉语释义           | 示例 |
+|-----------|----------------|---------------------|---|
+| pronounce | `/prəˈnaʊns/`  | v. 发音；宣布            | He can pronounce many difficult words. <br>(他能发音很多难的单词。)<br>The judge pronounced the sentence. <br>(法官宣布了判决。) |
+| juggle    | `/ˈdʒʌɡəl/`    | v. 玩杂耍；同时应付         | He can juggle three balls at once. <br>(他能同时玩杂耍三个球。)<br>She had to juggle work and family. <br>(她不得不同时兼顾工作和家庭。) |
+| aspirate  | `/ˈæspəˌreɪt/` | v. 吸入；发送气音<br>n. 送气音 | v. He accidentally aspirated some water. <br>(他不小心吸入了一些水。)<br>In English, the 'h' in 'hat' is aspirated. <br>(在英语中，“hat”中的“h”是发送气音。)<br>n. The word 'hour' is pronounced without an initial aspirate. <br>(“hour”这个词在发音时不带初始送气音。) |
+| dash      | `/dæʃ/`        | v. 猛冲；撞击<br>n. 破折号  | He dashed across the street. <br>(他冲过街道。)<br>Use a dash to separate the clauses. <br>(用破折号分隔分句。) |
+| ascend    | `/əˈsend/`     | v. 上升；攀登            | The balloon ascended into the sky. <br>(气球升上天空。) |
+| descend   | `/dɪˈsend/`    | v. 下降；下来            | The plane began to descend. <br>(飞机开始下降。) |
+| vest      | `/vest/`       | n. 背心；马甲<br/>v. 授予  | n. He wore a vest under his shirt. <br>(他在衬衫里穿了件背心。)<br />v. The power is vested in the board of directors. <br/>(权力被授予董事会。) |
+| invest    | `/ɪnˈvest/`    | v. 投资；投入            | She decided to invest in real estate. <br/>(她决定投资房地产。)<br/>They invested a lot of time in the project. <br/>(他们在这个项目上投入了大量时间。) |
+| rule      | `/ruːl/`       | n. 规则；统治<br>v. 统治；裁定 | n. the **rules of** the game. 游戏规则。<br />n. The rules are very strict.  (规则很严格。)<br>v. The king ruled the country wisely. <br>(国王英明地统治国家。) |
+| inception | `/ɪnˈsepʃən/`  | n. 开始；开端            | Since its inception, the company has grown rapidly. <br>(自成立以来，公司发展迅速。) |
+| basket    | `/ˈbæskɪt/`    | n. 篮子；篓             | a shopping basket. 购物篮。<br />She carried a basket of fruit. (她提着一篮水果。) |
+| case      | `/keɪs/`       | n. 情况；箱子；案件         | In this case, we should be careful. <br>(在这种情况下，我们应该小心。)<br>He packed his clothes in a case. <br>(他把衣服装进箱子里。)<br/>The lawyer won the case. <br/>(律师赢了这个案件。) |
+| crux      | `/krʌks/`      | n. 关键；症结            | The crux of the matter is trust. <br>(问题的关键是信任。) |
+| form      | `/fɔːrm/`      | n. 形式；表格<br>v. 形成   | n. Please fill out this form. <br/>(请填写这张表格。)<br/>The sculpture is an abstract form. <br/>(这个雕塑是抽象形式的。)<br/>v. Clouds form when the air cools. <br/>(空气冷却时会形成云。) |
+| orbit     | `/ˈɔːrbɪt/`    | n. 轨道<br>v. 绕轨道运行   | n. The satellite is in orbit around the Earth. <br/>(卫星在地球轨道上运行。)<br/>v. The moon orbits the Earth. <br/>(月球绕地球运行。) |
+| lump      | `/lʌmp/`       | n. 块；肿块<br>v. 结块    | n. He found a lump in his soup. <br/>(他在汤里发现了一块。)<br/>She felt a lump in her throat. <br/>(她感到喉咙里有个肿块。)<br/>v. The sugar lumped together in the jar. <br/>(糖在罐子里结块了。) |
+| revival   | `/rɪˈvaɪvəl/`  | n. 复兴；恢复            | The town is experiencing a **revival of** interest in its history. <br>(这个小镇正在经历对其历史兴趣的复兴。)<br />The US and the UK have expectations of economic revival.<br />美国和英国对经济复苏有所期待。 |
+| cottage   | `/ˈkɑːtɪdʒ/`   | n. 小屋；别墅            | They stayed in a cozy cottage by the lake. <br>(他们住在湖边的一间舒适的小屋里。) |
+| crash     | `/kræʃ/`       | v. 碰撞；崩溃<br>n. 碰撞；崩溃 | v. The car crashed into the tree. <br/>(车撞上了树。)<br/>The system crashed and all data was lost. <br/>(系统崩溃，所有数据都丢失了。)<br/>n. There was a loud crash. <br/>(传来一声巨响。)<br/>The market crash affected many investors. <br/>(市场崩溃影响了许多投资者。) |
+| smash     | `/smæʃ/`       | v. 打碎；猛撞<br>n. 破碎；猛击 | v. He smashed the glass with a hammer. <br/>(他用锤子打碎了玻璃。)<br/>The car smashed into the wall. <br/>(汽车猛撞上了墙。)<br/>n. She heard the sound of a smash. <br/>(她听到了破碎的声音。)<br/>His performance was a smash hit. <br/>(他的表演大获成功。) |
+| slam      | `/slæm/`       | v. 猛关；猛击<br/>n. 砰的一声 | v. He slammed the door shut. <br/>(他猛地把门关上了。)<br/>The boxer slammed his opponent. <br/>(拳击手猛击对手。)<br/>n. She heard a loud slam. <br/>(她听到一声巨响。)<br/>The car came to a slam stop. <br/>(汽车猛然停下。) |
+| collide   | `/kəˈlaɪd/`    | v. 碰撞；相撞            | The two cars collided at the intersection. <br/>(两辆车在交叉口相撞。)<br/>The ideas of the two leaders collided. <br/>(两位领导人的想法发生了冲突。) |
+| wreck     | `/rek/`        | v. 破坏；使失事<br/>n. 残骸；失事 | v. The storm wrecked several buildings. <br/>(风暴破坏了几座建筑。)<br/>The scandal wrecked his career. <br/>(丑闻毁了他的事业。)<br/>n. The ship was a total wreck. <br/>(那艘船完全成了一堆残骸。)<br/>They salvaged items from the car wreck. <br/>(他们从车祸残骸中打捞出物品。) |
+| fiction   | `/ˈfɪkʃən/`    | n. 小说；虚构            | She enjoys reading science fiction. <br/>(她喜欢读科幻小说。)<br/>The story is pure fiction. <br/>(这个故事纯属虚构。) |
 
 
 
@@ -3764,6 +3781,8 @@ Translator: ChatGPT 4 & 4o
 ### Added: 2024.01.14
 
 ChatGPT 3.5 or 4.0 (不记得了) translations
+
+#### First Table - 已校对
 
 注：下面表格单词已写到 Goodnotes
 
@@ -3825,7 +3844,7 @@ Translator: ChatGPT 4
 | stray        | `/streɪ/`          | adj. 迷路的；<br />v. 走失；偏离 | adj. A stray dog followed her home. <br />(一只迷路的狗跟着她回了家。)<br/>v. His thoughts strayed to his childhood. <br />(他的思绪偏离到了他的童年。) |
 | observation  | `/ˌɑːbzərˈveɪʃən/` | n. 观察                | His observation of the birds was very detailed. <br />(他对鸟类的观察非常详细。) |
 | ladder       | `/ˈlædər/`         | n. 梯子                | He climbed the ladder to reach the roof. <br />(他爬梯子上屋顶。) |
-| dialectic    | `/ˌdaɪəˈlɛktɪk/`   | n. 辩证法              | The debate was an example of dialectic. <br />(这场辩论是辩证法的一个例子。) |
+| dialectic    | `/ˌdaɪəˈlektɪk/` | n. 辩证法              | The debate was an example of dialectic. <br />(这场辩论是辩证法的一个例子。) |
 | swish        | `/swɪʃ/`           | v. 挥动；n. 嗖嗖声      | v. The cat's tail swished back and forth. <br />(猫的尾巴来回挥动。) |
 | cluster      | `/ˈklʌstər/`       | n. 簇；群；v. 聚集      | n. A cluster of stars could be seen in the sky.<br /> (天空中可以看到一簇星星。) |
 | compulsory   | `/kəmˈpʌlsəri/`    | adj. 强制的            | Attendance at the meeting is compulsory. <br />(参加会议是强制性的。) |
@@ -3862,21 +3881,21 @@ Translator: ChatGPT 4
 
 | 单词            | 美式发音                  | 词类 + 汉语释义             | 示例                                                         |
 | --------------- |-----------------------| -------------------------- | ------------------------------------------------------------ |
-| consortium      | `/kənˈsɔrtiəm/`       | n. 联盟；财团              | The consortium of companies bid for the construction contract. (这个公司联盟竞标建筑合同。) |
-| footprint       | `/ˈfʊtprɪnt/`         | n. 脚印；足迹（个人或机构活动对环境的影响） | He left wet footprints on the floor. (他在地板上留下了湿脚印。)<br>The company is trying to reduce its environmental footprint. (公司正在努力减少其环境足迹。) |
-| specific        | `/spəˈsɪfɪk/`         | adj. 特定的；明确的        | He gave specific instructions on how to proceed. (他给出了如何进行的具体指示。) |
-| combination     | `/ˌkɑːmbɪˈneɪʃən/`    | n. 结合；组合              | This dish is a delicious combination of flavors. (这道菜是各种口味的美妙结合。) |
-| profile         | `/ˈproʊfaɪl/`         | n. 侧面；简介；配置文件      | n. The mountain has a distinctive profile. (这座山有一个独特的轮廓。) |
-| reproducible    | `/ˌriːprəˈduːsəbl/`   | adj. 可复制的              | The experiment's results are reproducible. (实验结果是可复制的。) |
-| reproduce       | `/ˌriːprəˈduːs/`      | v. 复制；繁殖             | The artist failed to reproduce the colors of the original painting. (艺术家未能复制原画的颜色。)<br />The scientist managed to reproduce the experiment's results. (科学家设法复制了实验的结果。) |
-| representation  | `/ˌreprɪzɛnˈteɪʃən/`  | n. 代表；表现              | She argued for better representation of women in politics. (她主张在政治中更好地代表妇女。) |
-| entail          | `/ɪnˈteɪl/`           | v. 牵涉；需要              | The project will entail a lot of hard work. (这个项目将需要大量的努力。) |
-| analog          | `/ˈænəlɔg/`           | adj. 模拟的               | The old analog system was replaced by a digital one. (旧的模拟系统被数字系统替代。) |
-| arbitrary       | `/ˈɑːrbətreri/`       | adj. 任意的；随机的        | The decision seemed to be quite arbitrary. (这个决定看起来相当随机。) |
-| correspond      | `/ˌkɔːrəˈspɑːnd/`     | v. 相符；相一致          | The two stories correspond in many details. (这两个故事在许多细节上相符。) |
-| assign          | `/əˈsaɪn/`            | v. 分配；指派              | She was assigned the task of organizing the meeting. (她被指派组织会议的任务。) |
-| discrete        | `/dɪˈskriːt/`         | adj. 离散的；不连续的      | The report is divided into discrete sections. (报告被分为几个离散的部分。) |
-| stress          | `/stres/`             | n. 压力；重读；<br />v. 强调；重读 | n. She's been under a lot of stress at work. (她在工作中承受了很大的压力。)<br>v. The report stresses the need for economic reform. (报告强调了进行经济改革的必要性。)<br />n. He felt a lot of stress during the exams. (他在考试期间感到很大压力。)<br/>v. The teacher stressed the importance of homework. (老师强调了家庭作业的重要性。) |
+| consortium      | `/kənˈsɔrtiəm/`       | n. 联盟；财团              | The consortium of companies bid for the construction contract. <br />(这个公司联盟竞标建筑合同。) |
+| footprint       | `/ˈfʊtprɪnt/`         | n. 脚印；足迹（个人或机构活动对环境的影响） | He left wet footprints on the floor. <br />(他在地板上留下了湿脚印。)<br>The company is trying to reduce its environmental footprint. <br />(公司正在努力减少其环境足迹。) |
+| specific        | `/spəˈsɪfɪk/`         | adj. 特定的；明确的        | He gave specific instructions on how to proceed. <br />(他给出了如何进行的具体指示。) |
+| combination     | `/ˌkɑːmbɪˈneɪʃən/`    | n. 结合；组合              | This dish is a delicious combination of flavors.<br /> (这道菜是各种口味的美妙结合。) |
+| profile         | `/ˈproʊfaɪl/`         | n. 侧面；简介；配置文件      | n. The mountain has a distinctive profile.<br /> (这座山有一个独特的轮廓。) |
+| reproducible    | `/ˌriːprəˈduːsəbl/`   | adj. 可复制的              | The experiment's results are reproducible. <br />(实验结果是可复制的。) |
+| reproduce       | `/ˌriːprəˈduːs/`      | v. 复制；繁殖             | The artist failed to reproduce the colors of the original painting. <br />(艺术家未能复制原画的颜色。)<br />The scientist managed to reproduce the experiment's results. <br />(科学家设法复制了实验的结果。) |
+| representation  | `/ˌreprɪzɛnˈteɪʃən/`  | n. 代表；表现              | She argued for better representation of women in politics. <br />(她主张在政治中更好地代表妇女。) |
+| entail          | `/ɪnˈteɪl/`           | v. 牵涉；需要              | The project will entail a lot of hard work. <br />(这个项目将需要大量的努力。) |
+| analog          | `/ˈænəlɔg/`           | adj. 模拟的               | The old analog system was replaced by a digital one. <br />(旧的模拟系统被数字系统替代。) |
+| arbitrary       | `/ˈɑːrbətreri/`       | adj. 任意的；随机的        | The decision seemed to be quite arbitrary. <br />(这个决定看起来相当随机。) |
+| correspond      | `/ˌkɔːrəˈspɑːnd/`     | v. 相符；相一致          | The two stories correspond in many details. <br />(这两个故事在许多细节上相符。) |
+| assign          | `/əˈsaɪn/`            | v. 分配；指派              | She was assigned the task of organizing the meeting. <br />(她被指派组织会议的任务。) |
+| discrete        | `/dɪˈskriːt/`         | adj. 离散的；不连续的      | The report is divided into discrete sections. <br />(报告被分为几个离散的部分。) |
+| stress          | `/stres/`             | n. 压力；重读；<br />v. 强调；重读 | n. She's been under a lot of stress at work. <br />(她在工作中承受了很大的压力。)<br>v. The report stresses the need for economic reform. <br />(报告强调了进行经济改革的必要性。)<br />n. He felt a lot of stress during the exams.<br /> (他在考试期间感到很大压力。)<br/>v. The teacher stressed the importance of homework. <br />(老师强调了家庭作业的重要性。) |
 
 解释：
 1. **consortium**: 一个由多个组织或公司组成的合作团体，共同工作以达成共同的目标。
