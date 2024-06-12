@@ -16,6 +16,103 @@
 
 
 
+### Edited: 2024.06.12
+
+#### First Table - ~~已校对~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词           | 美式发音              | 词性 + 汉语释义        | 示例 |
+|--------------|-------------------|------------------|---|
+| pack         | `/pæk/`           | n. 包；背包<br>v. 打包 | n. He carried a pack on his back. <br>(他背着一个背包。)<br>v. She packed her bags for the trip. <br>(她为旅行打包了行李。) |
+| tray         | `/treɪ/`          | n. 托盘            | She carried the dishes on a tray. <br>(她用托盘端着盘子。) |
+| approx       | `/əˈprɑks/`       | adj. 大约的         | The cost is approx $50. <br>(费用大约是50美元。) |
+| quantity     | `/ˈkwɑntəti/`     | n. 数量            | The quantity of apples in the basket is unknown. <br>(篮子里苹果的数量未知。) |
+| rump         | `/rʌmp/`          | n. 臀部；尾部         | He cooked a rump roast for dinner. <br>(他做了一个臀部烤肉当晚餐。) |
+| steak        | `/steɪk/`         | n. 牛排            | She ordered a medium-rare steak. <br>(她点了一份三分熟的牛排。) |
+| grass        | `/ɡræs/`          | n. 草             | The cow is eating grass. <br>(牛在吃草。) |
+| flavoursome  | `/ˈfleɪvərsəm/`   | adj. 美味的         | The soup is very flavoursome. <br>(这汤非常美味。) |
+| gravy        | `/ˈɡreɪvi/`       | n. 肉汁            | He poured gravy over the mashed potatoes. <br>(他把肉汁浇在土豆泥上。) |
+| hearty       | `/ˈhɑrti/`        | adj. 丰盛的；热情的     | They enjoyed a hearty meal. <br>(他们享用了一顿丰盛的饭。) |
+| stew         | `/stu/`           | n. 炖菜<br>v. 炖    | n. She made a beef stew for dinner. <br>(她做了牛肉炖菜当晚餐。)<br>v. He stewed the vegetables for an hour. <br>(他炖了蔬菜一个小时。) |
+| casserole    | `/ˈkæsəˌroʊl/`    | n. 砂锅菜；炖菜        | She prepared a chicken casserole. <br>(她准备了一道鸡肉砂锅菜。) |
+| braise       | `/breɪz/`         | v. 炖；焖           | She braised the meat until it was tender. <br>(她炖肉直到变得嫩滑。) |
+| curry        | `/ˈkɜri/`         | n. 咖喱            | He loves to eat chicken curry. <br>(他喜欢吃鸡肉咖喱。) |
+| marinade     | `/ˈmærəˌneɪd/`    | n. 腌泡汁<br>v. 腌泡  | n. The meat was soaked in a spicy marinade. <br>(肉被浸泡在辣味腌泡汁中。)<br>v. She marinaded the chicken overnight. <br>(她将鸡肉腌了一夜。) |
+| mesh         | `/mɛʃ/`           | n. 网眼；网状物        | The window screen is made of mesh. <br>(窗纱是由网眼制成的。) |
+| apolitical   | `/ˌeɪpəˈlɪtɪkəl/` | adj. 无政治性的       | He prefers to remain apolitical. <br>(他喜欢保持无政治性。) |
+| engage       | `/ɪnˈɡeɪdʒ/`      | v. 参与；吸引；订婚      | She is engaged in a new project. <br>(她参与了一个新项目。)<br>The teacher tried to engage the students in the lesson. <br>(老师试图吸引学生们参与课程。) |
+| sequoia      | `/sɪˈkwɔɪə/`      | n. 红杉            | The sequoia trees in California are the largest in the world. <br>(加州的红杉树是世界上最大的树。) |
+| intelligence | `/ɪnˈtɛlɪdʒəns/`  | n. 智力；情报         | His intelligence is well-known among his peers. <br>(他的智力在同龄人中是众所周知的。)<br>The agency gathered intelligence on the suspect. <br>(机构收集了有关嫌疑人的情报。) |
+
+
+#### Second Table - ~~已校对~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词         | 美式发音             | 词性 + 汉语释义                | 示例 |
+|------------|------------------|--------------------------|---|
+| wand       | `/wɑnd/`         | n. 魔杖；棒                  | The magician waved his wand. <br>(魔术师挥动了他的魔杖。) |
+| idiom      | `/ˈɪdiəm/`       | n. 成语；习语                 | "Break the ice" is a common idiom. <br>(“打破僵局”是一个常见的成语。) |
+| proverb    | `/ˈprɑvərb/`     | n. 谚语；格言                 | "A stitch in time saves nine" is an old proverb. <br>(“及时行事省九针”是一句古老的谚语。) |
+| park       | `/pɑrk/`         | n. 公园；停车场<br>v. 停车       | n. They took a walk in the park. <br>(他们在公园散步。)<br>v. He parked the car near the entrance. <br>(他把车停在入口附近。) |
+| beautiful  | `/ˈbjutɪfəl/`    | adj. 美丽的                 | The sunset was beautiful. <br>(日落很美丽。) |
+| intuitive  | `/ɪnˈtuɪtɪv/`    | adj. 直觉的；凭直觉的            | She had an intuitive understanding of the problem.
+| intuitive  | `/ɪnˈtuɪtɪv/`    | adj. 直觉的；凭直觉的            | She had an intuitive understanding of the problem. <br>(她对问题有直觉的理解。) |
+| vivid      | `/ˈvɪvɪd/`       | adj. 生动的；鲜艳的             | He gave a vivid description of the scene. <br>(他对现场进行了生动的描述。) |
+| realism    | `/ˈriəlɪzəm/`    | n. 现实主义；逼真               | The artist is known for his realism. <br>(这位艺术家以他的现实主义作品闻名。) |
+| surrealism | `/səˈrɪəlɪzəm/`  | n. 超现实主义                 | The painting is a fine example of surrealism. <br>(这幅画是超现实主义的典范。) |
+| mash       | `/mæʃ/`          | v. 捣碎；压碎<br>n. 糊状物       | v. She mashed the potatoes. <br>(她把土豆捣成泥。)<br>n. He made a mash of vegetables. <br>(他做了一种蔬菜糊。) |
+| starve     | `/stɑrv/`        | v. 挨饿；饿死                 | Many people starved during the famine. <br>(许多人在饥荒中饿死了。) |
+| exhaustion | `/ɪɡˈzɔstʃən/`   | n. 疲惫；精疲力竭               | He collapsed from exhaustion after the marathon. <br>(他在马拉松赛后因疲惫倒下了。) |
+| persuasive | `/pərˈsweɪsɪv/`  | adj. 有说服力的               | Her argument was very persuasive. <br>(她的论点非常有说服力。) |
+| provoke    | `/prəˈvoʊk/`     | v. 激怒；引发                 | His comments provoked a strong reaction. <br>(他的评论引起了强烈反应。) |
+| detection  | `/dɪˈtɛkʃən/`    | n. 侦查；发现                 | Early detection of the disease is crucial. <br>(早期发现这种疾病是至关重要的。) |
+| carpenter  | `/ˈkɑrpəntər/`   | n. 木匠                    | The carpenter built a new table. <br>(木匠做了一张新桌子。) |
+| cream      | `/krim/`         | n. 奶油；精华<br>v. 把...搅成奶油状 | n. She added cream to her coffee. <br>(她在咖啡里加了奶油。)<br>This lotion is the cream of skincare products. <br>(这款乳液是护肤产品中的精华。)<br>v. She creamed the butter and sugar together. <br>(她把黄油和糖搅成奶油状。) |
+| nonchalant | `/ˌnɑnʃəˈlɑnt/`  | adj. 冷淡的；漠不关心的           | He gave a nonchalant shrug. <br>(他冷淡地耸了耸肩。) |
+| superb     | `/suˈpɜrb/`      | adj. 极好的                 | The performance was superb. <br>(表演非常精彩。) |
+| criticism  | `/ˈkrɪtɪˌsɪzəm/` | n. 批评；评论                 | He faced a lot of criticism for his actions. <br>(他的行为受到了很多批评。) |
+| chair      | `/tʃɛr/`         | n. 椅子；主席<br>v. 担任主席；主持   | n. She sat on a comfortable chair. <br>(她坐在一把舒适的椅子上。)<br>He was elected chair of the committee. <br>(他被选为委员会主席。)<br>v. She chaired the meeting. <br>(她主持了会议。) |
+
+
+#### Third Table - ~~已校对~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词           | 美式发音            | 词性 + 汉语释义              | 示例 |
+|--------------|-----------------|------------------------|---|
+| potential    | `/pəˈtenʃəl/`   | adj. 潜在的<br>n. 潜力      | adj. He is a potential candidate for the job. <br>(他是这个职位的潜在候选人。)<br>n. She has great potential as a singer. <br>(她作为歌手有很大的潜力。) |
+| load         | `/loʊd/`        | n. 负载；装载量<br>v. 装载     | n. The truck carried a heavy load. <br>(卡车载有沉重的负载。)<br>v. They loaded the boxes into the truck. <br>(他们把箱子装进了卡车。) |
+| ferocious    | `/fəˈroʊʃəs/`   | adj. 凶猛的；猛烈的           | The lion is a ferocious animal. <br>(狮子是一种凶猛的动物。) |
+| trail        | `/treɪl/`       | n. 小径；踪迹<br>v. 拖；跟踪    | n. They hiked along a forest trail. <br>(他们沿着森林小径徒步旅行。)<br>v. The dog trailed mud into the house. <br>(狗把泥拖进了房子。) |
+| sail         | `/seɪl/`        | n. 帆；航行<br>v. 航行       | n. The sailboat's sail was bright white. <br>(帆船的帆是亮白色的。)<br>v. They sailed across the lake. <br>(他们在湖上航行。) |
+| vessel       | `/ˈvɛsəl/`      | n. 船只；容器；血管            | The vessel sailed into the harbor. <br>(船驶入了港口。) |
+| aquarium     | `/əˈkwɛriəm/`   | n. 水族馆；鱼缸              | They visited the aquarium to see the fish. <br>(他们参观了水族馆看鱼。) |
+| mechanism    | `/ˈmɛkəˌnɪzəm/` | n. 机制；机械装置             | The clock's mechanism is very intricate. <br>(钟表的机制非常复杂。) |
+| subconscious | `/ˌsʌbˈkɑnʃəs/` | adj. 潜意识的<br>n. 潜意识    | adj. Subconscious thoughts can influence behavior. <br>(潜意识的想法可以影响行为。)<br>n. His fears were buried deep in his subconscious. <br>(他的恐惧深藏在潜意识中。) |
+| wimp         | `/wɪmp/`        | n. 懦夫；软弱的人             | Don't be such a wimp, stand up for yourself. <br>(别这么软弱，要为自己争取。) |
+| trial        | `/ˈtraɪəl/`     | n. 试验；审判               | The trial will start next week. <br>(审判将在下周开始。) |
+| six-pack     | `/sɪks pæk/`    | n. 六罐装；六块腹肌            | He bought a six-pack of beer. <br>(他买了一六罐装的啤酒。)<br>He's proud of his six-pack abs. <br>(他为自己的六块腹肌感到自豪。) |
+| wheel        | `/wil/`         | n. 轮子；方向盘<br>v. 推动     | n. The car's wheel is flat. <br>(车轮瘪了。)<br>v. She wheeled the cart down the aisle. <br>(她推着购物车走过过道。) |
+| kidney       | `/ˈkɪdni/`      | n. 肾脏                  | He donated a kidney to his brother. <br>(他把一个肾脏捐给了他的兄弟。) |
+| grease       | `/ɡris/`        | n. 油脂<br>v. 涂油         | n. The mechanic's hands were covered in grease. <br>(机械师的手上满是油脂。)<br>v. He greased the baking pan. <br>(他在烤盘上涂了油。) |
+| captive      | `/ˈkæptɪv/`     | adj. 被俘的；受控制的<br>n. 俘虏 | adj. The soldiers were held captive. <br>(士兵们被俘。)<br>n. The captives were freed after the war. <br>(战俘在战后被释放。) |
+| flame        | `/fleɪm/`       | n. 火焰；热情<br>v. 燃烧      | n. The flame flickered in the wind. <br>(火焰在风中摇曳。)<br>v. The logs flamed brightly. <br>(木柴燃烧得很旺。) |
+| frank        | `/fræŋk/`       | adj. 坦率的               | She gave a frank reply. <br>(她给了一个坦率的回答。) |
+| snuff        | `/snʌf/`        | v. 掐灭；熄灭               | He snuffed out the candle. <br>(他熄灭了蜡烛。) |
+| flinch       | `/flɪntʃ/`      | v. 退缩                  | He didn't flinch when the doctor gave him the shot. <br>(医生给他打针时他没有退缩。) |
+| wince        | `/wɪns/`        | v. 畏缩；皱眉               | He winced at the sight of the needle. <br>(看到针头他畏缩了。) |
+
+
+
+
 
 ### Edited: 2024.06.11
 
@@ -25,13 +122,11 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-### 单词翻译表格
-
 | 单词           | 美式发音                 | 词性 + 汉语释义         | 示例                                                                                    |
 |--------------|----------------------|-------------------|---------------------------------------------------------------------------------------|
 | spaghetti    | `/spəˈɡɛti/`         | n. 意大利面条          | She cooked a big pot of spaghetti. <br>(她煮了一大锅意大利面条。)                                 |
 | garlic       | `/ˈɡɑrlɪk/`          | n. 大蒜             | Add some garlic to the sauce for flavor. <br>(在酱汁里加一些大蒜调味。)                           |
-| `block`        | `/blɑːk/`            | n. 街区；块<br>v. 阻塞；阻挡 | n. They live just a few blocks away. <br>(他们住在几条街之外。)<br>He carved a statue from a block of wood. <br>(他用一块木头雕刻了一尊雕像。)<br>v. The road was blocked by a fallen tree. <br>(道路被倒下的树挡住了。) |
+| block        | `/blɑːk/`            | n. 街区；块<br>v. 阻塞；阻挡 | n. They live just a few blocks away. <br>(他们住在几条街之外。)<br>He carved a statue from a block of wood. <br>(他用一块木头雕刻了一尊雕像。)<br>v. The road was blocked by a fallen tree. <br>(道路被倒下的树挡住了。) |
 | blocker      | `/ˈblɑːkər/`         | n. 障碍物；阻挡者        | He acted as a blocker during the game. <br>(他在比赛中充当阻挡者。) |
 | barn         | `/bɑrn/`             | n. 谷仓；牲口棚         | The farmer stored hay in the barn. <br>(农民把干草存放在谷仓里。)                                 |
 | carton       | `/ˈkɑrtən/`          | n. 纸箱；纸盒          | She bought a carton of milk. <br>(她买了一盒牛奶。)                                           |
@@ -3339,25 +3434,25 @@ Translator: ChatGPT 4
 
 **注：下面表格单词已写到 Goodnotes**
 
-| 单词     | 美式发音        | 词类 + 汉语释义                          | 示例                                                         |
-| -------- | --------------- | ---------------------------------------- | ------------------------------------------------------------ |
-| theater  | `/ˈθiətər/`     | n. 剧院；电影院                          | We went to the theater to watch a live performance. <br />(我们去剧院观看了一场现场表演。) |
-| theatre  | `/ˈθiətər/`     | n. 剧院；电影院                          | She has a passion for working in the theatre.<br /> (她对在剧院工作充满热情。) |
-| rave     | `/reɪv/`        | v. 狂热赞扬; <br />n. 狂欢派对           | v. The critics raved about the new movie.<br /> (评论家们对这部新电影赞不绝口。)<br>v. She raved about the new restaurant. <br />(她对新餐馆赞不绝口。)<br />n. They went to a rave on the beach. <br />(他们去海滩参加了一场狂欢派对。) |
-| rant     | `/rænt/`        | v. 咆哮；长篇大论                        | He ranted about the unfairness of the situation.<br /> (他激昂地谈论着这种情况的不公平。)<br />He ranted against the new policies. <br />(他对新政策长篇大论地咆哮。) |
-| brave    | `/breɪv/`       | adj. 勇敢的；<br />v. 勇敢面对           | adj. The brave firefighter saved the child from the fire. <br />(勇敢的消防员从火中救出了孩子。)<br>v. She braved the storm to help her friend. <br />(她勇敢地面对暴风雨去帮助她的朋友。) |
-| survival | `/sərˈvaɪvəl/`  | n. 生存；幸存                            | The survival rate after the surgery was high. <br />(手术后的生存率很高。) |
+| 单词     | 美式发音        | 词类 + 汉语释义               | 示例                                                         |
+| -------- | --------------- | ----------------------------- | ------------------------------------------------------------ |
+| theater  | `/ˈθiətər/`     | n. 剧院；电影院               | We went to the theater to watch a live performance. <br />(我们去剧院观看了一场现场表演。) |
+| theatre  | `/ˈθiətər/`     | n. 剧院；电影院               | She has a passion for working in the theatre.<br /> (她对在剧院工作充满热情。) |
+| rave     | `/reɪv/`        | v. 狂热赞扬; <br />n. 狂欢派对 | v. The critics raved about the new movie.<br /> (评论家们对这部新电影赞不绝口。)<br>v. She raved about the new restaurant. <br />(她对新餐馆赞不绝口。)<br />n. They went to a rave on the beach. <br />(他们去海滩参加了一场狂欢派对。) |
+| rant     | `/rænt/`        | v. 咆哮；长篇大论             | He ranted about the unfairness of the situation.<br /> (他激昂地谈论着这种情况的不公平。)<br />He ranted against the new policies. <br />(他对新政策长篇大论地咆哮。) |
+| brave    | `/breɪv/`       | adj. 勇敢的；<br />v. 勇敢面对 | adj. The brave firefighter saved the child from the fire. <br />(勇敢的消防员从火中救出了孩子。)<br>v. She braved the storm to help her friend. <br />(她勇敢地面对暴风雨去帮助她的朋友。) |
+| survival | `/sərˈvaɪvəl/`  | n. 生存；幸存                 | The survival rate after the surgery was high. <br />(手术后的生存率很高。) |
 | fit      | `/fɪt/`         | v. 适合；安装；<br />adj. 合适的；健康的 | adj. The dress is a perfect fit for her. <br />(这条裙子非常适合她。)<br>v. The key fits the lock perfectly. <br />(这把钥匙非常适合这个锁。) |
-| fittest  | `/ˈfɪtɪst/`     | adj. 最适合的（fit的最高级）             | Only the fittest animals survive in the wild. <br />(只有最适合的动物能在野外生存。) |
-| incident | `/ˈɪnsɪdənt/`   | n. 事件；事故                            | An incident at the school caused concern among parents. <br />(学校发生的一起事件让家长们感到担忧。)<br />An incident disrupted the peace of the small town. <br />(一个事件打破了小镇的平静。) |
-| optical  | `/ˈɑptɪkəl/`    | adj. 光学的；视觉的                      | Optical instruments are essential for this research. <br />(光学仪器对这项研究至关重要。) |
-| converge | `/kənˈvɜːrdʒ/`  | v. 汇聚；集中                            | The protestors converged at the city center. <br />(抗议者在市中心汇聚。) |
-| focal    | `/ˈfoʊkəl/`     | adj. 焦点的；核心的                      | The focal point of the discussion was community safety. <br />(讨论的焦点是社区安全。)<br />The focal point of the study was urban development. <br />(这项研究的核心焦点是城市发展。) |
-| among    | `/əˈmʌŋ/`       | prep. 在...之中                          | The teacher divided the candies among the students. <br />(老师将糖果分给了学生们。) |
-| element  | `/ˈeləmənt/`    | n. 元素；成分                            | Water is composed of the elements hydrogen and oxygen. <br />(水由氢和氧两种元素组成。) |
-| hydrogen | `/ˈhaɪdrədʒən/` | n. 氢                                    | Hydrogen is the most abundant element in the universe. (氢是宇宙中最丰富的元素。) |
-| oxygen   | `/ˈɑːksɪdʒən/`  | n. 氧                                    | Plants produce oxygen during photosynthesis. (植物在光合作用过程中产生氧气。) |
-| abundant | `/əˈbʌndənt/`   | adj. 丰富的；大量的                      | The region is known for its abundant natural resources. (这个地区以其丰富的自然资源而闻名。) |
+| fittest  | `/ˈfɪtɪst/`     | adj. 最适合的（fit的最高级）     | Only the fittest animals survive in the wild. <br />(只有最适合的动物能在野外生存。) |
+| incident | `/ˈɪnsɪdənt/`   | n. 事件；事故                 | An incident at the school caused concern among parents. <br />(学校发生的一起事件让家长们感到担忧。)<br />An incident disrupted the peace of the small town. <br />(一个事件打破了小镇的平静。) |
+| optical  | `/ˈɑptɪkəl/`    | adj. 光学的；视觉的           | Optical instruments are essential for this research. <br />(光学仪器对这项研究至关重要。) |
+| converge | `/kənˈvɜːrdʒ/`  | v. 汇聚；集中                 | The protestors converged at the city center. <br />(抗议者在市中心汇聚。) |
+| focal    | `/ˈfoʊkəl/`     | adj. 焦点的；核心的           | The focal point of the discussion was community safety. <br />(讨论的焦点是社区安全。)<br />The focal point of the study was urban development. <br />(这项研究的核心焦点是城市发展。) |
+| among    | `/əˈmʌŋ/`       | prep. 在...之中               | The teacher divided the candies among the students. <br />(老师将糖果分给了学生们。) |
+| element  | `/ˈeləmənt/`    | n. 元素；成分                 | Water is composed of the elements hydrogen and oxygen. <br />(水由氢和氧两种元素组成。) |
+| hydrogen | `/ˈhaɪdrədʒən/` | n. 氢                         | Hydrogen is the most abundant element in the universe. (氢是宇宙中最丰富的元素。) |
+| oxygen   | `/ˈɑːksɪdʒən/`  | n. 氧                         | Plants produce oxygen during photosynthesis. (植物在光合作用过程中产生氧气。) |
+| abundant | `/əˈbʌndənt/`   | adj. 丰富的；大量的           | The region is known for its abundant natural resources. (这个地区以其丰富的自然资源而闻名。) |
 
 - theater：主要指演出剧目的场所，如剧院或电影院，也可指戏剧或表演艺术本身。 
 - theatre：通常指用于戏剧、音乐剧或电影放映的场所，也可以指演出艺术本身。 
@@ -3573,6 +3668,7 @@ Translator: ChatGPT 4
 
 
 ### Added: 2024.02.04
+
 Translator: ChatGPT 4 
 
 注：下面表格单词已写到 Goodnotes
@@ -3586,55 +3682,91 @@ Translator: ChatGPT 4
 
 ### Added: 2024.02.01
 
-Translator: ChatGPT 4.0
+*Edit: 2024.06.12*
+
+Translator: ChatGPT 4o
+
+#### First Table - ~~已校对~~
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词          | 美式发音           | 词类 + 汉语释义                            |
-| ------------- | ------------------ | ------------------------------------------ |
-| when          | `/wɛn/`            | conj. 当...时；adv. 何时                   |
-| as            | `/æz/`             | conj. 当...时；因为；prep. 作为；adv. 如同 |
-| before        | `/bɪˈfɔr/`       | conj. 在...之前；prep. 在...之前；adv. 以前 |
+| 单词          | 美式发音              | 词类 + 汉语释义                          |
+| ------------- |-------------------| ------------------------------------ |
+| when          | `/wɛn/`           | conj. 当...时；adv. 何时                |
+| as            | `/æz/`            | conj. 当...时；因为；prep. 作为；adv. 如同 |
+| before        | `/bɪˈfɔr/`        | conj. 在...之前；prep. 在...之前；adv. 以前 |
 | after         | `/ˈæftər/`        | prep, conj. 在...之后；adv. 之后；adj. 后面的 |
-| while         | `/waɪl/`       | conj. 当...时；虽然；n. 一段时间           |
+| while         | `/waɪl/`          | conj. 当...时；虽然；n. 一段时间           |
 | since         | `/sɪns/           | conj. 自从；因为；prep. 自从               |
 | until         | `/ənˈtɪl/         | conj. 直到...为止；prep. 直到...为止       |
-| once          | `/wʌns/           | adv. 一次；conj. 一旦                      |
-| where         | `/wɛr/            | adv. 在哪里；conj. 在...地方               |
+| once          | `/wʌns/           | adv. 一次；conj. 一旦                   |
+| where         | `/wɛr/            | adv. 在哪里；conj. 在...地方              |
 | wherever      | `/wɛrˈɛvər/       | adv. 无论哪里；conj. 无论在哪里            |
-| because       | `/bɪˈkɔz/         | conj. 因为                                 |
-| now that      | `/naʊ ðæt/        | conj. 既然                                 |
-| so that       | `/soʊ ðæt/        | conj. 以便                                 |
-| in order that | `/ɪn ˈɔrdər ðæt/  | conj. 为了                                 |
-| so...that     | `/soʊ...ðæt/      | conj. 如此...以至于                        |
-| such...that   | `/sʌtʃ...ðæt/     | conj. 如此...以至于                        |
-| if            | `/ɪf/             | conj. 如果                                 |
-| unless        | `/ənˈlɛs/         | conj. 除非                                 |
-| provided that | `/prəˈvaɪdɪd ðæt/ | conj. 假如                                 |
-| as long as    | `/æz lɔŋ æz/      | conj. 只要                                 |
-| as if         | `/æz ɪf/          | conj. 好像                                 |
-| as though     | `/æz ðoʊ/         | conj. 好像                                 |
-| although      | `/ɔlˈðoʊ/         | conj. 尽管                                 |
-| though        | `/ðoʊ/            | conj. 虽然；adv. 然而                      |
-| even though   | `/ˈivɪn ðoʊ/      | conj. 即使                                 |
-| whereas       | `/wɛrˈæz/         | conj. 然而；鉴于                           |
+| because       | `/bɪˈkɔz/         | conj. 因为                           |
+| now that      | `/naʊ ðæt/        | conj. 既然                           |
+| so that       | `/soʊ ðæt/        | conj. 以便                           |
+| in order that | `/ɪn ˈɔrdər ðæt/  | conj. 为了                           |
+| so...that     | `/soʊ...ðæt/      | conj. 如此...以至于                     |
+| such...that   | `/sʌtʃ...ðæt/     | conj. 如此...以至于                     |
+| if            | `/ɪf/             | conj. 如果                           |
+| unless        | `/ənˈlɛs/         | conj. 除非                           |
+| provided that | `/prəˈvaɪdɪd ðæt/ | conj. 假如                           |
+| as if         | `/æz ɪf/          | conj. 好像                           |
+| as though     | `/æz ðoʊ/         | conj. 好像                           |
+| although      | `/ɔlˈðoʊ/         | conj. 尽管                           |
+| though        | `/ðoʊ/            | conj. 虽然；adv. 然而                   |
+| even though   | `/ˈivɪn ðoʊ/      | conj. 即使                           |
+| whereas       | `/wɛrˈæz/         | conj. 然而；鉴于                        |
 | while         | `/waɪl/           | conj. 虽然；在...时；n. 一段时间           |
-| hypothesis    | `/haɪˈpɑːθəsɪs/`  | n. 假设；假说             |
 | dramatic      | `/drəˈmætɪk/      | adj. 戏剧性的；引人注目的 |
 | demographic   | `/ˌdeməˈɡræfɪk/   | adj. 人口统计的           |
 | adulthood     | `/ˈædʌlthʊd/      | n. 成年；成人期           |
 | ambiguity     | `/æmˈbɪɡjuəti/    | n. 模棱两可；含糊         |
 | dictator      | `/ˈdɪkteɪtər/     | n. 独裁者                 |
-| rapid         | `/ˈræpɪd/         | adj. 快速的；迅速的       |
 | attributive   | `/əˈtrɪbjətɪv/    | adj. 定语的               |
-| attribute     | `/ˈætrɪˌbjuːt/` (名词)  <br />`/əˈtrɪˌbjuːt/` (动词) | n. 属性；特征；v. 归因于  |
-| lounge        | `/laʊndʒ/         | n. 休息室；v. 懒散地躺    |
-| adverbial     | `/ædˈvɜrbiəl/     | adj. 副词的；n. 状语      |
-| delta         | `/ˈdɛltə/         | n. 三角洲；Δ（希腊字母）  |
-| sexual        | `/ˈsɛkʃuəl/       | adj. 性的；性别的         |
-| affection     | `/əˈfɛkʃən/       | n. 喜爱；感情             |
-| crowd         | `/kraʊd/          | n. 人群；v. 挤满          |
-| truth         | `/truːθ/          | n. 真理；真实             |
+
+### 单词翻译表格
+
+| 单词            | 美式发音             | 词性 + 汉语释义                             | 示例 |
+|---------------|------------------|---------------------------------------|---|
+| when          | /wɛn/            | conj. 当...时候<br>adv. 何时               | conj. When I was young, I loved playing outside. <br>(当我年轻时，我喜欢在外面玩。)<br>adv. When will you arrive? <br>(你什么时候到？) |
+| as            | /æz/             | conj. 当...时；因为<br>pron. & adv. 像...一样 | conj. As it was raining, we stayed indoors. <br>(因为下雨，我们待在室内。)<br>adv. He is as tall as his brother. <br>(他和他哥哥一样高。) |
+| before        | /bɪˈfɔr/         | conj. 在...之前<br>adv. 以前               | conj. Finish your homework before you go out. <br>(在出去之前完成作业。)<br>adv. I've seen him before. <br>(我以前见过他。) |
+| after         | /ˈæftər/         | conj. 在...之后<br>adv. 以后               | conj. We will go to the park after lunch. <br>(午饭后我们去公园。)<br>adv. She arrived after me. <br>(她在我之后到达。) |
+| while         | /waɪl/           | conj. 当...时候；虽然<br>n. 一段时间            | conj. She read a book while waiting. <br>(她在等的时候读了一本书。)<br>n. We chatted for a while. <br>(我们聊了一会儿。) |
+| since         | /sɪns/           | conj. 自从；因为<br>adv. 从那时到现在            | conj. I haven't seen her since last year. <br>(自从去年我就没见过她。)<br>adv. He left home years ago and hasn't been seen since. <br>(他多年前离家，至今未见。) |
+| until         | /ənˈtɪl/         | conj. 直到<br>prep. 直到                  | conj. Wait here until I come back. <br>(在我回来之前在这里等着。)<br>prep. The shop is open until 9 PM. <br>(商店营业到晚上9点。) |
+| once          | /wʌns/           | conj. 一旦<br>adv. 一次                   | conj. Once you finish, we can leave. <br>(一旦你完成，我们就可以离开。)<br>adv. He visits his parents once a month. <br>(他每月看望父母一次。) |
+| where         | /wɛr/            | conj. 在...的地方<br>adv. 哪里              | conj. This is the place where we met. <br>(这里是我们见面的地方。)<br>adv. Where are you going? <br>(你要去哪里？) |
+| wherever      | /wɛrˈɛvər/       | conj. 无论哪里<br>adv. 无论什么地方             | conj. Sit wherever you like. <br>(你喜欢坐哪里就坐哪里。)<br>adv. Wherever he goes, trouble follows. <br>(无论他去哪里，麻烦都会跟着。) |
+| though        | /ðoʊ/            | conj. 虽然<br>adv. 然而                   | conj. Though it was cold, he didn't wear a coat. <br>(虽然天冷，他没穿外套。)<br>adv. The test was hard. It was fair, though. <br>(考试很难，然而还是公平的。) |
+| because       | /bɪˈkɔz/         | conj. 因为                              | She stayed home because she was sick. <br>(她因为生病待在家里。) |
+| now that      | /naʊ ðæt/        | conj. 既然                              | Now that we are here, let's start. <br>(既然我们在这里，就开始吧。) |
+| so that       | /soʊ ðæt/        | conj. 以便                              | He whispered so that no one could hear. <br>(他低声说话以便没人听见。) |
+| in order that | /ɪn ˈɔrdər ðæt/  | conj. 为了                              | She saved money in order that she could buy a car. <br>(她存钱是为了能买车。) |
+| so...that     | /soʊ...ðæt/      | conj. 如此...以至于                        | He was so tired that he fell asleep. <br>(他累得睡着了。) |
+| such...that   | /sʌtʃ...ðæt/     | conj. 如此...以至于                        | It was such a good movie that I watched it twice. <br>(这部电影太好看了，我看了两遍。) |
+| if            | /ɪf/             | conj. 如果                              | If it rains, we will stay home. <br>(如果下雨，我们就待在家里。) |
+| unless        | /ənˈlɛs/         | conj. 除非                              | We won't go unless it stops raining. <br>(除非雨停，否则我们不会去。) |
+| provided that | /prəˈvaɪdɪd ðæt/ | conj. 只要                              | You can go out provided that you finish your homework. <br>(只要你完成作业，你就可以出去。) |
+| as if         | /æz ɪf/          | conj. 仿佛                              | He looked as if he had seen a ghost. <br>(他看起来仿佛见到了鬼。) |
+| as though     | /æz ðoʊ/         | conj. 仿佛                              | She acted as though nothing had happened. <br>(她表现得仿佛什么也没发生。) |
+| although      | /ɔlˈðoʊ/         | conj. 虽然                              | Although it was raining, we went out. <br>(虽然下雨，我们还是出去了。) |
+| even though   | /ˈivən ðoʊ/      | conj. 即使                              | Even though he is rich, he is not happy. <br>(即使他很富有，他也不开心。) |
+| whereas       | /wɛrˈæz/         | conj. 然而                              | He likes coffee, whereas she prefers tea. <br>(他喜欢咖啡，而她更喜欢茶。) |
+| while         | /waɪl/           | conj. 当...时候；虽然                       | He read a book while waiting. <br>(他在等的时候读了一本书。) |
+| dramatic      | /drəˈmætɪk/      | adj. 戏剧性的；引人注目的                       | There was a dramatic change in the weather. <br>(天气发生了戏剧性的变化。) |
+| demographic   | /ˌdɛməˈɡræfɪk/   | adj. 人口统计的<br>n. 人口统计数据               | adj. The demographic trend shows an aging population. <br>(人口统计趋势显示老龄化人口。)<br>n. The company targets a young demographic. <br>(公司瞄准年轻人口。) |
+| adulthood     | /əˈdʌlthʊd/      | n. 成年                                 | He spent his childhood in Italy and his adulthood in the US. <br>(他童年在意大利度过，成年后在美国。) |
+| ambiguity     | /ˌæmbɪˈɡjuɪti/   | n. 含糊；不明确                             | The ambiguity of his statement confused everyone. <br>(他的话语含糊不清，令所有人困惑。) |
+| dictator      | /ˈdɪkteɪtər/     | n. 独裁者                                | The dictator ruled the country with an iron fist. <br>(独裁者铁腕统治国家。) |
+| attributive   | /əˈtrɪbjətɪv/    | adj. 定语的                              | In the phrase "the big house," "big" is an attributive adjective. <br>(在短语“the big house”中，“big”是定语形容词。) |
+
+
+
+
+
+
 
 
 
@@ -3643,18 +3775,19 @@ Translator: ChatGPT 4.0
 
 Translator: ChatGPT 4
 
+#### First Table - 已校对
+
 注：下面表格单词已写到 Goodnotes；日期见 2024.02.03
 
-| 单词        | 美式发音            | 词类 + 汉语释义                       |
-| ----------- | ------------------- | --------------------------------- |
-| popular     | `/ˈpɑpjələr/`       | adj. 流行的；受欢迎的                |
-| popularity  | `/ˌpɑːpjuˈlærəti/`  | n. 流行；受欢迎                 |
-| account     | `/əˈkaʊnt/`        | n. 账户；报告； v. 解释；认为        |
+| 单词        | 美式发音               | 词类 + 汉语释义                       |
+| ----------- |--------------------| --------------------------------- |
+| popular     | `/ˈpɑpjələr/`      | adj. 流行的；受欢迎的                |
+| popularity  | `/ˌpɑːpjuˈlærəti/` | n. 流行；受欢迎                 |
 | plot        | `/plɑt/`           | n. 情节；阴谋； v. 密谋；绘制       |
 | formant     | `/ˈfɔrmənt/`       | n. [语音]共振峰；[音乐]泛音          |
-| during      | `/ˈdʊrɪŋ/` | prep. 在…期间                      |
+| during      | `/ˈdʊrɪŋ/`         | prep. 在…期间                      |
 | metallic    | `/məˈtælɪk/`       | adj. 金属的；金属般的                |
-| drive       | `/draɪv/`         | v. 开车、驾驶；  n. 驱车出行；驱动(器) |
+| drive       | `/draɪv/`          | v. 开车、驾驶；  n. 驱车出行；驱动(器) |
 | convention  | `/kənˈvɛnʃən/`     | n. 会议；惯例；公约                 |
 
 
@@ -3872,7 +4005,6 @@ Translator: ChatGPT 4
 14. **negotiate**: 谈判或协商，通常用于达成协议或解决冲突的过程。
 15. **theoretical**: 理论上的，与实际操作或实践相对，更侧重于理论或思想层面。
 16. **cube**: 作为名词，"cube" 指的是六面都是正方形的立方体形状，或在数学中指一个数的三次幂。作为动词时，一方面指将物体切成立方体状，常见于烹饪过程中；另一方面，它还指计算某个数的立方。
-
 
 
 #### Second Table - 已校对
