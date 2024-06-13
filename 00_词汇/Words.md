@@ -3550,11 +3550,11 @@ Translator: ChatGPT 4
 
 | 单词          | 美式发音 | 词类 + 汉语释义        | 示例                                                         |
 |-------------| --------------- | ---------------------- | ------------------------------------------------------------ |
-| attribute   | `/ˈætrɪˌbjut/` (n.), <br />`/əˈtrɪˌbjut/` (v.) | n. 属性；v. 归因于     | n. The color is an important attribute of the fabric.<br /> (颜色是这种面料的一个重要属性。)<br>v. He attributed his success to hard work.<br /> (他把成功归因于努力工作。) |
+| attribute   | `/ˈætrəbjuːt/` (n.), <br />`/əˈtrɪbjuːt/` (v.) | n. 属性；v. 归因于     | n. The color is an important attribute of the fabric.<br /> (颜色是这种面料的一个重要属性。)<br>v. He attributed his success to hard work.<br /> (他把成功归因于努力工作。) |
 | overload    | `/ˌoʊvərˈloʊd/` | v. 超载；n. 超负荷     | v. Don't overload the washing machine.<br /> (不要超载洗衣机。)<br>n. The electrical overload caused a blackout. <br />(电力超载导致了停电。) |
 | excitement  | `/ɪkˈsaɪtmənt/` | n. 兴奋；激动          | The announcement generated a lot of excitement.<br /> (这个公告引起了很多兴奋。) |
 | lounge      | `/laʊndʒ/`     | n. 休息室；v. 闲逛     | n. The hotel has a comfortable lounge.<br>(酒店有一个舒适的休息室。)<br>v. We lounged by the pool all day.<br>(我们整天在泳池边闲逛。) |
-| adverbial   | `/ədˈvɜrːbiəl/` | adj. 副词的；n. 状语 | adj. An adverbial phrase modifies the verb.<br>(副词短语用来修饰动词。)<br>n. "Quickly" in "He ran quickly" is an adverbial.<br>(“He ran quickly”中的“quickly”是状语。) |
+| adverbial   | `/ədˈvɜːrbiəl/` | adj. 副词的；n. 状语 | adj. An adverbial phrase modifies the verb.<br>(副词短语用来修饰动词。)<br>n. "Quickly" in "He ran quickly" is an adverbial.<br>(“He ran quickly”中的“quickly”是状语。) |
 | delta       | `/ˈdɛltə/`     | n. 三角洲              | The Nile Delta is known for its fertile land.<br>(尼罗河三角洲以其肥沃的土地而闻名。) |
 | sexual      | `/ˈsɛkʃuəl/`  | adj. 性的；性别的      | The study covers various aspects of sexual behavior.<br>(这项研究涵盖了性行为的各个方面。) |
 | affection   | `/əˈfɛkʃən/`   | n. 喜爱；感情          | She has a deep affection for her grandparents.<br>(她对她的祖父母有深厚的感情。) |
