@@ -426,6 +426,61 @@ ChatGPT 4.0 translations
 
 
 
+
+
+## ▲ 欧路词典如何导入单词
+
+*Added: 2024.06.14*
+
+在浏览器中打开下面网址：https://my.eudic.net/studylist/import/，选择下图的导入方式：
+
+<img src="./readme.assets/image-20240614171302017.png" alt="image-20240614171302017" style="zoom:40%;" />
+
+把需要导入的单词以下面这种格式保存到一个 txt 文档中，图示如下：
+
+```html
+as, `/æz/`<br><br>conj. 当...时；因为；尽管<br><br>adv. 像...一 
+when, `/wen/`<br><br>conj. 当...时；何时；如果<br><br>adv. 何时 
+before, `/bɪˈfɔːr/`<br><br>conj. 在...之前<br><br>prep. 在...之前<br><br>adv. 以前 
+after,`/ˈæftər/`<br><br>conj. 在...之后<br><br>prep. 在...之后 
+while,`/waɪl/`<br><br>conj. 当...时候；虽然<br><br>n. 一段时间 
+since,`/sɪns/`<br><br>conj. 自从；因为<br><br>adv. 从那时到现在 
+until,`/ʌnˈtɪl/`<br><br>conj. & prep. 直到 
+once, `/wʌns/`<br><br>conj. 一旦<br><br>adv. 一次 
+where,`/wer/`<br><br>conj. 在...的地方<br><br>adv. 哪里 
+wherever, `/werˈevər/`<br><br>conj. 无论哪里<br><br>adv. 无论什么地方
+though, `/ðoʊ/`<br><br>conj. 虽然<br><br>adv. 然而
+because,`/bɪˈkɔz/`<br><br>conj. 因为
+now that, `/naʊ ðæt/`<br><br>conj. 既然 
+so that,`/soʊ ðæt/`<br><br>conj. 以便
+in order that,`/ɪn ˈɔrdər ðæt/`<br><br>conj. 为了
+if, `/ɪf/`<br><br>conj. 如果 
+unless, `/ʌnˈles/`<br><br>conj. 除非 
+provided that,`/prəˈvaɪdɪd ðæt/`<br><br>conj. 只要 
+as if,`/æz ɪf/`<br><br>conj. 仿佛 
+as though,`/æz ðoʊ/`<br><br>conj. 仿佛 
+although, `/ɔlˈðoʊ/`<br><br>conj. 虽然 
+even though,`/ˈivən ðoʊ/`<br><br>conj. 即使 
+whereas,`/werˈæz/`<br><br>conj. 然而 
+while,`/waɪl/`<br><br>conj. 当...时候；虽然,
+dramatic, `/drəˈmætɪk/`<br><br>adj. 戏剧性的；引人注目的
+demographic,`/ˌdeməˈɡræfɪk/`<br><br>adj. 人口统计的<br><br>n. 人口统计数据 
+adulthood,`/əˈdʌlthʊd/`<br><br>n. 成年,
+ambiguity,`/ˌæmbɪˈɡjuːəti/`<br><br>n. 模棱两可；不明确,
+dictator, `/ˈdɪkteɪtər/`<br><br>n. 独裁者 
+attributive,`/əˈtrɪbjətɪv/`<br><br>adj. 定语的 
+```
+
+说明：两个 `<br>` 是因为要实现在单词中笔记排版的格式如下图：
+
+<img src="./readme.assets/image-20240614171536791.png" alt="image-20240614171536791" style="zoom:50%;" />
+
+备注：从上面的 txt 内容中可以看到，脱字符(`) 和 & 这种特殊字符是不会影响导入的，后续发现别的特殊字符有问题再记笔记。
+
+
+
+
+
 ## ▲ 备份格式比较好的单词记录方式
 
 *Added: 2024.01.31*

@@ -3315,15 +3315,15 @@ Translator: ChatGPT 4
 
 注：下面表格单词已写到 Goodnotes
 
-| 单词   | 美式发音      | 词类 + 汉语释义      | 示例                                                         |
-| ------ | ------------- | -------------------- | ------------------------------------------------------------ |
-| litter | `/ˈlɪtər/`    | n. 垃圾；废弃物 <br />v. 乱丢垃圾     | n. The park was full of litter after the concert. <br>(音乐会后，公园里到处是垃圾。)<br />v. Please don't litter in the park. <br>(请不要在公园里乱丢垃圾。) |
-| sanction | `/ˈsæŋkʃən/` | n. 制裁；批准 <br />v. 批准；制裁 | n. The country faced international sanctions. <br>(该国面临国际制裁。)<br />v. The plan was sanctioned by the board. <br>(该计划得到了董事会的批准。) |
+| 单词            | 美式发音             | 词类 + 汉语释义      | 示例                                                         |
+|---------------|------------------| -------------------- | ------------------------------------------------------------ |
+| litter        | `/ˈlɪtər/`       | n. 垃圾；废弃物 <br />v. 乱丢垃圾     | n. The park was full of litter after the concert. <br>(音乐会后，公园里到处是垃圾。)<br />v. Please don't litter in the park. <br>(请不要在公园里乱丢垃圾。) |
+| sanction      | `/ˈsæŋkʃən/`     | n. 制裁；批准 <br />v. 批准；制裁 | n. The country faced international sanctions. <br>(该国面临国际制裁。)<br />v. The plan was sanctioned by the board. <br>(该计划得到了董事会的批准。) |
 | congressional | `/kənˈɡrɛʃənəl/` | adj. 国会的 | The congressional committee held a hearing on the matter. <br />(国会委员会就此事举行了听证会。) |
-| congress | `/ˈkɑːŋɡrɛs/` | n. 国会；大会 | The bill was passed by Congress. <br>(这项法案由国会通过。)<br />An international medical congress was held in the city. <br>(一次国际医学大会在该城市举行。) |
-| oversight | `/ˈoʊvərsaɪt/` | n. 监督；疏忽 | The project failed due to lack of proper oversight. <br />(由于缺乏适当的监督，该项目失败了。) |
-| antagonym | `/ænˈtæɡənɪm/` | n. 自反词（具有相反两种含义的词） | "Sanction" is an example of an antagonym. <br>(“Sanction” 是一个自反词的例子。) |
-| indefinite | `/ɪnˈdefənət/` | adj. 无限期的；不确定的 | The meeting has been postponed for an indefinite period. <br />(会议已被推迟至不确定的时间。) |
+| congress      | `/ˈkɑːŋɡrɛs/`    | n. 国会；大会 | The bill was passed by Congress. <br>(这项法案由国会通过。)<br />An international medical congress was held in the city. <br>(一次国际医学大会在该城市举行。) |
+| oversight     | `/ˈoʊvərsaɪt/`   | n. 监督；疏忽 | The project failed due to lack of proper oversight. <br />(由于缺乏适当的监督，该项目失败了。) |
+| antagonym     | `/ænˈtæɡənɪm/`   | n. 自反词（具有相反两种含义的词） | "Sanction" is an example of an antagonym. <br>(“Sanction” 是一个自反词的例子。) |
+| indefinite    | `/ɪnˈdefənət/`   | adj. 无限期的；不确定的 | The meeting has been postponed for an indefinite period. <br />(会议已被推迟至不确定的时间。) |
 
 列表解释：
 - **litter (n. & v.)**：
@@ -3565,21 +3565,22 @@ Translator: ChatGPT 4
 
 
 ### Added: 2024.02.19
+
 *Edited：2024.02.27......*
 
 Translator: ChatGPT 4
 
 **注：下面第一个表格单词已写到 Goodnotes**  - 笔记日期：24.02.26 、27
 
-| 单词          | 美式发音           | 词类 + 汉语释义                 |
-|-------------| --------------- | ----------------------------|
-| writ	       | `/rɪt/`        | n. 正式文书；命令状             |
-| deception   | `/dɪˈsɛpʃən/`  | n. 欺骗；诡计                  |
-| infinite    | `/ˈɪnfənət/`   | adj. 无限的；无穷的             |
-| converter   | `/kənˈvɜrtər/` | n. 转换器；变流器               |
-| drive       | `/draɪv/`      | v. 驾驶；推动；n. 驱动；驱动器    |
-| programmable | `/ˈproʊɡræməbəl/` | adj. 可编程的                  |
-| revise      | `/rɪˈvaɪz/`    | v. 修改；复习                  |
+| 单词            | 美式发音              | 词类 + 汉语释义                 |
+|---------------|-------------------| ----------------------------|
+| writ	        | `/rɪt/`           | n. 正式文书；命令状             |
+| deception     | `/dɪˈsɛpʃən/`     | n. 欺骗；诡计                  |
+| infinite      | `/ˈɪnfənət/`      | adj. 无限的；无穷的             |
+| converter     | `/kənˈvɜrtər/`    | n. 转换器；变流器               |
+| drive         | `/draɪv/`         | v. 驾驶；推动；n. 驱动；驱动器    |
+| programmable  | `/ˈproʊɡræməbəl/` | adj. 可编程的                  |
+| revise        | `/rɪˈvaɪz/`       | v. 修改；复习                  |
 
 | 单词               | 美式发音                 | 词类 + 汉语释义                 |
 | ---------------- | ------------------------ | ----------------------------|
@@ -3745,40 +3746,40 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词            | 美式发音               | 词性 + 汉语释义                  | 示例 |
-|---------------|--------------------|----------------------------|---|
-| as            | `/æz/`             | conj. 当...时；因为；尽管<br>adv. 像...一样 | conj. 当...时: As I was walking home, it started to rain. <br>(当我走回家时，开始下雨了。)<br>因为: As he was tired, he went to bed early. <br>(因为他累了，所以早早上床睡觉。)<br>尽管: As much as I like him, I can't agree with his decision. <br>(尽管我喜欢他，但我不能同意他的决定。)<br>adv. 像...一样: He is as tall as his brother. <br>(他和他哥哥一样高。) |
-| when          | `/wen/`           | conj. 当...时；何时；如果<br>adv. 何时 | conj. 当...时: When I was young, I loved playing outside. <br>(当我年轻时，我喜欢在外面玩。)<br>何时: Do you remember when we first met? <br>(你记得我们第一次见面是什么时候吗？)<br>如果: Call me when you arrive. <br>(你到的时候给我打电话。)<br>adv. 何时: When will you arrive? <br>(你什么时候到？) |
-| before        | `/bɪˈfɔːr/`        | conj. 在...之前<br>prep. 在...之前<br>adv. 以前 | conj. Finish your homework before you go out. <br>(在出去之前完成作业。)<br>prep. He arrived before me. <br>(他比我先到。)<br>adv. I've seen him before. <br>(我以前见过他。) |
-| after         | `/ˈæftər/`         | conj. 在...之后<br>prep. 在...之后 | conj. We will go to the park after lunch. <br>(午饭后我们去公园。)<br>prep. She arrived after me. <br>(她在我之后到达。) |
-| while         | `/waɪl/`           | conj. 当...时候；虽然<br>n. 一段时间 | conj. She read a book while waiting. <br>(她在等的时候读了一本书。)<br>n. We chatted for a while. <br>(我们聊了一会儿。) |
-| since         | `/sɪns/`           | conj. 自从；因为<br>adv. 从那时到现在 | conj. I haven't seen her since last year. <br>(自从去年我就没见过她。)<br>adv. He left home years ago and hasn't been seen since. <br>(他多年前离家，至今未见。) |
-| until         | `/ənˈtɪl/`         | conj. & prep.  直到 | conj. Wait here until I come back. <br>(在我回来之前在这里等着。)<br>prep. The shop is open until 9 PM. <br>(商店营业到晚上9点。) |
-| once          | `/wʌns/`           | conj. 一旦<br>adv. 一次        | conj. Once you finish, we can leave. <br>(一旦你完成，我们就可以离开。)<br>adv. He visits his parents once a month. <br>(他每月看望父母一次。)<br />I’ve only met her once. 我只见过她一面。 |
-| where         | `/wer/`            | conj. 在...的地方<br>adv. 哪里   | conj. This is the place where we met. <br>(这里是我们见面的地方。)<br>adv. Where are you going? <br>(你要去哪里？) |
-| wherever      | `/werˈevər/`       | conj. 无论哪里<br>adv. 无论什么地方  | conj. Sit wherever you like. <br>(你喜欢坐哪里就坐哪里。)<br>adv. Wherever he goes, trouble follows. <br>(无论他去哪里，麻烦都会跟着。) |
-| though        | `/ðoʊ/`            | conj. 虽然<br>adv. 然而        | conj. Though it was cold, he didn't wear a coat. <br>(虽然天冷，他没穿外套。)<br>adv. The test was hard. It was fair, though. <br>(考试很难，然而还是公平的。) |
-| because       | `/bɪˈkɔz/`         | conj. 因为                   | She stayed home because she was sick. <br>(她因为生病待在家里。) |
-| now that      | `/naʊ ðæt/`        | conj. 既然                   | Now that we are here, let's start. <br>(既然我们在这里，就开始吧。) |
-| so that       | `/soʊ ðæt/`        | conj. 以便                   | He whispered so that no one could hear. <br>(他低声说话以便没人听见。) |
-| in order that | `/ɪn ˈɔrdər ðæt/`  | conj. 为了                   | She saved money in order that she could buy a car. <br>(她存钱是为了能买车。) |
-| so...that     | `/soʊ...ðæt/`      | conj. 如此...以至于             | He was so tired that he fell asleep. <br>(他累得睡着了。) |
-| such...that   | `/sʌtʃ...ðæt/`     | conj. 如此...以至于             | It was such a good movie that I watched it twice. <br>(这部电影太好看了，我看了两遍。) |
-| if            | `/ɪf/`             | conj. 如果                   | If it rains, we will stay home. <br>(如果下雨，我们就待在家里。) |
-| unless        | `/ʌnˈles/`       | conj. 除非                   | We won't go unless it stops raining. <br>(除非雨停，否则我们不会去。) |
-| provided that | `/prəˈvaɪdɪd ðæt/` | conj. 只要                   | You can go out provided that you finish your homework. <br>(只要你完成作业，你就可以出去。) |
-| as if         | `/æz ɪf/`          | conj. 仿佛                   | He looked as if he had seen a ghost. <br>(他看起来仿佛见到了鬼。) |
-| as though     | `/æz ðoʊ/`         | conj. 仿佛                   | She acted as though nothing had happened. <br>(她表现得仿佛什么也没发生。) |
-| although      | `/ɔlˈðoʊ/`         | conj. 虽然                   | Although it was raining, we went out. <br>(虽然下雨，我们还是出去了。) |
-| even though   | `/ˈivən ðoʊ/`      | conj. 即使                   | Even though he is rich, he is not happy. <br>(即使他很富有，他也不开心。) |
-| whereas       | `/werˈæz/`        | conj. 然而                   | He likes coffee, whereas she prefers tea. <br>(他喜欢咖啡，而她更喜欢茶。) |
-| while         | `/waɪl/`           | conj. 当...时候；虽然          | He read a book while waiting. <br>(他在等的时候读了一本书。) |
-| dramatic      | `/drəˈmætɪk/`      | adj. 戏剧性的；引人注目的       | There was a dramatic change in the weather. <br>(天气发生了戏剧性的变化。) |
-| ==demographic | `/ˌdeməˈɡræfɪk/`  | adj. 人口统计的<br>n. 人口统计数据    | adj. The demographic trend shows an aging population. <br>(人口统计趋势显示老龄化人口。)<br>n. The company targets a young demographic. <br>(公司瞄准年轻人口。) |
-| adulthood     | `/əˈdʌlthʊd/`      | n. 成年                      | He spent his childhood in Italy and his adulthood in the US. <br>(他童年在意大利度过，成年后在美国。) |
-| ambiguity     | `/ˌæmbɪˈɡjuɪti/`   | n. 含糊；不明确                | The ambiguity of his statement confused everyone. <br>(他的话语含糊不清，令所有人困惑。) |
-| dictator      | `/ˈdɪkteɪtər/`     | n. 独裁者                     | The dictator ruled the country with an iron fist. <br>(独裁者铁腕统治国家。) |
-| attributive   | `/əˈtrɪbjətɪv/`    | adj. 定语的                   | In the phrase "the big house," "big" is an attributive adjective. <br>(在短语“the big house”中，“big”是定语形容词。) |
+| 单词            | 美式发音            | 词性 + 汉语释义            | 示例 |
+|---------------|-----------------|----------------------|---|
+| as            | `/æz/`          | conj. 当...时；因为；尽管<br>adv. 像...一样 | conj. 当...时: As I was walking home, it started to rain. <br>(当我走回家时，开始下雨了。)<br>因为: As he was tired, he went to bed early. <br>(因为他累了，所以早早上床睡觉。)<br>尽管: As much as I like him, I can't agree with his decision. <br>(尽管我喜欢他，但我不能同意他的决定。)<br>adv. 像...一样: He is as tall as his brother. <br>(他和他哥哥一样高。) |
+| when          | `/wen/`         | conj. 当...时；何时；如果<br>adv. 何时 | conj. 当...时: When I was young, I loved playing outside. <br>(当我年轻时，我喜欢在外面玩。)<br>何时: Do you remember when we first met? <br>(你记得我们第一次见面是什么时候吗？)<br>如果: Call me when you arrive. <br>(你到的时候给我打电话。)<br>adv. 何时: When will you arrive? <br>(你什么时候到？) |
+| before        | `/bɪˈfɔːr/`     | conj. 在...之前<br>prep. 在...之前<br>adv. 以前 | conj. Finish your homework before you go out. <br>(在出去之前完成作业。)<br>prep. He arrived before me. <br>(他比我先到。)<br>adv. I've seen him before. <br>(我以前见过他。) |
+| after         | `/ˈæftər/`      | conj. 在...之后<br>prep. 在...之后 | conj. We will go to the park after lunch. <br>(午饭后我们去公园。)<br>prep. She arrived after me. <br>(她在我之后到达。) |
+| while         | `/waɪl/`        | conj. 当...时候；虽然<br>n. 一段时间 | conj. She read a book while waiting. <br>(她在等的时候读了一本书。)<br>n. We chatted for a while. <br>(我们聊了一会儿。) |
+| since         | `/sɪns/`        | conj. 自从；因为<br>adv. 从那时到现在 | conj. I haven't seen her since last year. <br>(自从去年我就没见过她。)<br>adv. He left home years ago and hasn't been seen since. <br>(他多年前离家，至今未见。) |
+| until         | `/ʌnˈtɪl/`      | conj. & prep.  直到 | conj. Wait here until I come back. <br>(在我回来之前在这里等着。)<br>prep. The shop is open until 9 PM. <br>(商店营业到晚上9点。) |
+| once          | `/wʌns/`        | conj. 一旦<br>adv. 一次  | conj. Once you finish, we can leave. <br>(一旦你完成，我们就可以离开。)<br>adv. He visits his parents once a month. <br>(他每月看望父母一次。)<br />I’ve only met her once. 我只见过她一面。 |
+| where         | `/wer/`         | conj. 在...的地方<br>adv. 哪里 | conj. This is the place where we met. <br>(这里是我们见面的地方。)<br>adv. Where are you going? <br>(你要去哪里？) |
+| wherever      | `/werˈevər/`    | conj. 无论哪里<br>adv. 无论什么地方 | conj. Sit wherever you like. <br>(你喜欢坐哪里就坐哪里。)<br>adv. Wherever he goes, trouble follows. <br>(无论他去哪里，麻烦都会跟着。) |
+| though        | `/ðoʊ/`         | conj. 虽然<br>adv. 然而  | conj. Though it was cold, he didn't wear a coat. <br>(虽然天冷，他没穿外套。)<br>adv. The test was hard. It was fair, though. <br>(考试很难，然而还是公平的。) |
+| because       | `/bɪˈkɔz/`      | conj. 因为             | She stayed home because she was sick. <br>(她因为生病待在家里。) |
+| now that      | `/naʊ ðæt/`     | conj. 既然             | Now that we are here, let's start. <br>(既然我们在这里，就开始吧。) |
+| so that       | `/soʊ ðæt/`     | conj. 以便             | He whispered so that no one could hear. <br>(他低声说话以便没人听见。) |
+| in order that | `/ɪn ˈɔrdər ðæt/` | conj. 为了             | She saved money in order that she could buy a car. <br>(她存钱是为了能买车。) |
+| so...that     | `/soʊ...ðæt/`   | conj. 如此...以至于       | He was so tired that he fell asleep. <br>(他累得睡着了。) |
+| such...that   | `/sʌtʃ...ðæt/`  | conj. 如此...以至于       | It was such a good movie that I watched it twice. <br>(这部电影太好看了，我看了两遍。) |
+| if            | `/ɪf/`          | conj. 如果             | If it rains, we will stay home. <br>(如果下雨，我们就待在家里。) |
+| unless        | `/ʌnˈles/`      | conj. 除非             | We won't go unless it stops raining. <br>(除非雨停，否则我们不会去。) |
+| provided that | `/prəˈvaɪdɪd ðæt/` | conj. 只要             | You can go out provided that you finish your homework. <br>(只要你完成作业，你就可以出去。) |
+| as if         | `/æz ɪf/`       | conj. 仿佛             | He looked as if he had seen a ghost. <br>(他看起来仿佛见到了鬼。) |
+| as though     | `/æz ðoʊ/`      | conj. 仿佛             | She acted as though nothing had happened. <br>(她表现得仿佛什么也没发生。) |
+| although      | `/ɔlˈðoʊ/`      | conj. 虽然             | Although it was raining, we went out. <br>(虽然下雨，我们还是出去了。) |
+| even though   | `/ˈivən ðoʊ/`   | conj. 即使             | Even though he is rich, he is not happy. <br>(即使他很富有，他也不开心。) |
+| whereas       | `/werˈæz/`      | conj. 然而             | He likes coffee, whereas she prefers tea. <br>(他喜欢咖啡，而她更喜欢茶。) |
+| while         | `/waɪl/`        | conj. 当...时候；虽然      | He read a book while waiting. <br>(他在等的时候读了一本书。) |
+| dramatic      | `/drəˈmætɪk/`   | adj. 戏剧性的；引人注目的      | There was a dramatic change in the weather. <br>(天气发生了戏剧性的变化。) |
+| ==demographic | `/ˌdeməˈɡræfɪk/` | adj. 人口统计的<br>n. 人口统计数据 | adj. The demographic trend shows an aging population. <br>(人口统计趋势显示老龄化人口。)<br>n. The company targets a young demographic. <br>(公司瞄准年轻人口。) |
+| adulthood     | `/əˈdʌlthʊd/`   | n. 成年                | He spent his childhood in Italy and his adulthood in the US. <br>(他童年在意大利度过，成年后在美国。) |
+| ambiguity     | `/ˌæmbɪˈɡjuːəti/` | n. 模棱两可；不明确          | The ambiguity of his statement confused everyone. <br>(他的话语含糊不清，令所有人困惑。) |
+| dictator      | `/ˈdɪkteɪtər/`  | n. 独裁者               | The dictator ruled the country with an iron fist. <br>(独裁者铁腕统治国家。) |
+| attributive   | `/əˈtrɪbjətɪv/` | adj. 定语的             | In the phrase "the big house," "big" is an attributive adjective. <br>(在短语“the big house”中，“big”是定语形容词。) |
 
 
 
@@ -3817,25 +3818,24 @@ Last proofreading Time: 2024.06.11
 
 注：下面表格单词已写到 Goodnotes；日期见：2024.03.03
 
-| 单词                | 美式发音                   | 词类 + 汉语释义               |                            |
-|-------------------|------------------------|-------------------------| ----------------------------------------- |
+| 单词                | 美式发音                   | 词类 + 汉语释义           |                            |
+|-------------------|------------------------|---------------------| ----------------------------------------- |
 | faint             | `/feɪnt/`              | adj. 微弱的；模糊的<br />v. 晕倒 | adj. She heard a faint sound. <br/>(她听到了一声微弱的声音。)<br/>The text was faint and hard to read. <br/>(文字模糊难以辨认。)<br/>v. He fainted from exhaustion. <br/>(他因疲劳而晕倒了。) |
 | compact           | `/kəmˈpækt/`           | adj. 紧凑的；小型的<br/>v. 压紧 | adj. The car is compact and easy to park. <br/>(这辆车紧凑且容易停车。)<br/>v. The soil was compacted to create a solid foundation. <br/>(土壤被压紧以创建一个坚固的基础。) |
-| laminate          | `/ˈlæməneɪt/`          | v. 覆膜；n. 层压板            | v. They decided to laminate the important documents for preservation. <br />(他们决定给重要文件覆上薄膜以便保存。)<br>n. The countertop is made of laminate. <br />(这个台面是由层压板制成的。) |
-| callout           | `/ˈkɔːlaʊt/`           | n. 呼叫；标注                | The emergency services received a callout to a house fire. <br />(紧急服务部门接到了对一起住宅火灾的呼叫。) |
+| laminate          | `/ˈlæməneɪt/`          | v. 覆膜；n. 层压板        | v. They decided to laminate the important documents for preservation. <br />(他们决定给重要文件覆上薄膜以便保存。)<br>n. The countertop is made of laminate. <br />(这个台面是由层压板制成的。) |
+| callout           | `/ˈkɔːlaʊt/`           | n. 呼叫；标注            | The emergency services received a callout to a house fire. <br />(紧急服务部门接到了对一起住宅火灾的呼叫。) |
 | spec              | `/spɛk/`               | n. 规格；说明（specification的缩写） | Please check the product specs before purchase. <br />(购买前请检查产品规格。) |
 | account           | `/əˈkaʊnt/`            | n. 账户；描述；解释<br/>v. 解释；说明 | n. She opened a bank account. <br/>(她开了一个银行账户。)<br/>He gave a detailed account of the events. <br/>(他详细描述了事件。)<br/>His account of the accident was clear. <br/>(他对事故的描述很清楚。)<br/>Her account provided a clear explanation. <br/>(她的描述提供了清晰的解释。)<br/>v. Can you account for your whereabouts last night? <br/>(你能解释一下你昨晚的行踪吗？)<br/>He couldn't account for the missing money. <br/>(他无法解释丢失的钱。) |
-| take into account | `/teɪk ˈɪntu əˈkaʊnt/` | phrasal. 考虑；重视          |                    |
-| skim              | `/skɪm/`               | v. 略读，撇去〔液体表面的浮油或漂浮物〕   | He skimmed the article quickly. <br />(他快速略读了这篇文章。)<br/>He skimmed the cream off the milk. <br/>(他撇去了牛奶上的奶油。) |
-| crucial           | `/ˈkruːʃəl/`           | adj. 关键的；决定性的           | The support of her family was crucial to her success. <br />(她家人的支持对她的成功至关重要。) |
-| central           | `/ˈsentrəl/`           | adj. 中央的；核心的            | the party’s central office. 该党的中央办公楼<br />The central idea of the article is clear. <br/>(文章的核心思想很清晰。)<br />The library plays a central role in the community. <br />(图书馆在社区中扮演着主要角色。)<br /> values which are central to our society.<br />我们社会的核心价值观 |
+| take into account | `/teɪk ˈɪntu əˈkaʊnt/` | phrasal. 考虑；重视      |                    |
+| skim              | `/skɪm/`               | v. 略读，撇去〔液体表面的浮油或漂浮物〕 | He skimmed the article quickly. <br />(他快速略读了这篇文章。)<br/>He skimmed the cream off the milk. <br/>(他撇去了牛奶上的奶油。) |
+| crucial           | `/ˈkruːʃəl/`           | adj. 关键的；决定性的       | The support of her family was crucial to her success. <br />(她家人的支持对她的成功至关重要。) |
+| central           | `/ˈsentrəl/`           | adj. 中央的；核心的        | the party’s central office. 该党的中央办公楼<br />The central idea of the article is clear. <br/>(文章的核心思想很清晰。)<br />The library plays a central role in the community. <br />(图书馆在社区中扮演着主要角色。)<br /> values which are central to our society.<br />我们社会的核心价值观 |
 | chip              | `/tʃɪp/`               | n. 薄片；芯片；碎片<br/>v. 削下；打破 | n. The computer has a powerful chip. <br />(这台电脑有一个强大的芯片。)<br />He noticed a small chip in the glass. <br />(他注意到玻璃上有一个小碎片。)<br />There were chips of glass on the floor. <br/>(地板上有碎玻璃片。)<br />She loves eating potato chips. <br />(她喜欢吃薯片。)<br />v. He accidentally chipped the vase. <br />(他不小心打碎了花瓶。)<br />v. He chipped a piece of the vase. <br/>(他打碎了花瓶的一角。)<br/>v. The carpenter chipped the wood to shape it. <br/>(木匠削下木头以塑形。) |
-| narration         | `/nəˈreɪʃən/`          | n. 叙述；旁白                | The documentary had excellent narration. <br />(这部纪录片的旁白非常出色。)<br />The movie's narration was both informative and entertaining. <br />(这部电影的旁白既提供信息又富有娱乐性。) |
-| sleek             | `/sliːk/`              | adj. 光滑的；时髦的            | The design of the car is very sleek. <br />(这辆车的设计非常时髦光滑。) |
-| informative       | `/ɪnˈfɔːrmətɪv/`       | adj. 提供信息的              | The documentary was both informative and interesting. <br />(这部纪录片既提供了信息又很有趣。) |
-| entertaining      | `/ˌɛntərˈteɪnɪŋ/`      | adj. 有趣的；娱乐性的           | His stories are always entertaining. <br />(他的故事总是很有趣。) |
-| documentary       | `/ˌdɑːkjəˈmentəri/`    | n. 纪录片                  | She watched a documentary about wildlife conservation. <br />(她观看了一部关于野生动物保护的纪录片。) |
-
+| narration         | `/nəˈreɪʃən/`          | n. 叙述；旁白            | The documentary had excellent narration. <br />(这部纪录片的旁白非常出色。)<br />The movie's narration was both informative and entertaining. <br />(这部电影的旁白既提供信息又富有娱乐性。) |
+| sleek             | `/sliːk/`              | adj. 光滑的；时髦的        | The design of the car is very sleek. <br />(这辆车的设计非常时髦光滑。) |
+| informative       | `/ɪnˈfɔːrmətɪv/`       | adj. 提供信息的          | The documentary was both informative and interesting. <br />(这部纪录片既提供了信息又很有趣。) |
+| entertaining      | `/ˌɛntərˈteɪnɪŋ/`      | adj. 有趣的；娱乐性的       | His stories are always entertaining. <br />(他的故事总是很有趣。) |
+| documentary       | `/ˌdɑːkjəˈmentəri/`    | n. 纪录片              | She watched a documentary about wildlife conservation. <br />(她观看了一部关于野生动物保护的纪录片。) |
 
 列表解释：
 - **faint (adj.)**：作为形容词，表示某物非常微弱或不明显，如声音、光线或感觉。作为动词，指因为疲劳、疼痛或震惊等原因而突然失去意识。这个用法在描述健康或医疗情况时常见。
@@ -3867,15 +3867,15 @@ Translator: ChatGPT 4 & 4o
 | chief       | `/tʃiːf/`       | adj. 主要的<br>n. 首领   | adj. His chief concern is safety. (他的主要关注点是安全。)<br>n. He is the chief of the tribe. (他是部落的首领。)                                                                                                                                                                               |
 | deputy      | `/ˈdɛpjəti/`    | n. 副手；代理人           | The deputy took over when the chief was away. <br />(首领不在时，副手接管了。)                                                                                                                                                                                                           |
 | phrase      | `/freɪz/`       | n. 短语；措辞<br>v. 措辞   | n. This phrase is commonly used in English. <br />(这个短语在英语中很常用。)<br>n. Who first used the phrase ‘survival of the fittest’?<br />“适者生存”这一说法最早是谁说的？<br />n. I’ve never heard of the phrase before.<br />我以前从未听说过这个习语。<br />v. She phrased her response carefully. (她谨慎地措辞回应。) |
-| destruct	  | `/dɪˈstrʌkt/`   | v. 毁坏；破坏	           | The missile was designed to self-destruct. <br>(导弹被设计成自我毁灭。)                                                                                                                                                                                                                 |
+| destruct	   | `/dɪˈstrʌkt/`   | v. 毁坏；破坏	           | The missile was designed to self-destruct. <br>(导弹被设计成自我毁灭。)                                                                                                                                                                                                                 |
 | destructive | `/dɪˈstrʌktɪv/` | adj. 破坏性的           | The earthquake was highly destructive.<br /> (地震具有很强的破坏性。)                                                                                                                                                                                                                   |
 | erase       | `/ɪˈreɪs/`      | v. 擦除；删除            | He erased the chalk marks from the board. <br />(他擦掉了黑板上的粉笔痕迹。)<br />She erased the mistake from her notebook.<br />(她从笔记本上擦掉了错误。)<br />erase character. 删除字符；清除字符。                                                                                                          |
-| any	      | `/ˈeni/`	    | adj. 任何的；一些的<br/>pron. 一些；任何事物 | adj. You can choose any book you like. <br/>(你可以选择任何你喜欢的书。)<br/>Do you have any questions? <br/>(你有任何问题吗？)<br/>pron. Any of these options will work. <br/>(这些选项中的任何一个都可以。)<br/>Is there any left? <br/>(还有剩下的吗？) |
+| any	        | `/ˈeni/`	    | adj. 任何的；一些的<br/>pron. 一些；任何事物 | adj. You can choose any book you like. <br/>(你可以选择任何你喜欢的书。)<br/>Do you have any questions? <br/>(你有任何问题吗？)<br/>pron. Any of these options will work. <br/>(这些选项中的任何一个都可以。)<br/>Is there any left? <br/>(还有剩下的吗？) |
 | bonus       | `/ˈboʊnəs/`     | n. 奖金；额外奖励          | Employees receive a bonus at the end of the year. <br />(员工在年底会得到奖金。)                                                                                                                                                                                                        |
 | lexical     | `/ˈleksɪkəl/`  | adj. 词汇的；词典的       | Lexical analysis is important in language processing.<br /> (词汇分析在语言处理中很重要。)                                                                                                                                                                                                 |
 | coherence   | `/koʊˈhɪrəns/`  | n. 连贯性；一致性          | His essay lacks coherence. (他的文章缺乏连贯性。)                                                                                                                                                                                                                                      |
 | academy     | `/əˈkædəmi/`    | n. 学院；学会            | She graduated from a military academy. <br />(她毕业于一所军事学院。)<br />the American Academy of Arts and Letters.<br />美国艺术和文学学会                                                                                                                                                    |
-| bark      | `/bɑːrk/`       | n. 树皮；狗吠声<br>v. (狗)吠叫 | n. The tree's bark is very rough. (这棵树的树皮很粗糙。)<br>v. The dog barked all night. (狗整晚都在吠叫。)<br /> The dog always barks at strangers.<br />这条狗总是对着陌生人叫。                                                                                                                         |
+| bark        | `/bɑːrk/`       | n. 树皮；狗吠声<br>v. (狗)吠叫 | n. The tree's bark is very rough. (这棵树的树皮很粗糙。)<br>v. The dog barked all night. (狗整晚都在吠叫。)<br /> The dog always barks at strangers.<br />这条狗总是对着陌生人叫。                                                                                                                         |
 | dye         | `/daɪ/`         | n. 染料<br>v. 染色      | n. She bought some red dye for the fabric.<br /> (她买了一些红色染料。)<br>v. She dyed her hair black. (她把头发染成了黑色。)                                                                                                                                                                    |
 | die         | `/daɪ/`         | v. 死亡；消亡            | Many plants die in the winter. <br/>(许多植物在冬天死亡。)<br/>His love for music will never die. <br/>(他对音乐的热爱永不消逝。)                                                                                                                                                                  |
 | verse       | `/vɜːrs/`       | n. 诗歌；韵文         | He wrote a beautiful verse about love and nature. <br />He quoted a verse from the Bible.<br /> (他引用了《圣经》中的一节诗句。)                                                                                                                                                            |
