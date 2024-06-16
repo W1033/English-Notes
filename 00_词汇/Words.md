@@ -3742,7 +3742,7 @@ Translator: ChatGPT 4
 
 Translator: ChatGPT 4o
 
-#### First Table - ~~已校对~~
+#### First Table - 已校对
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
@@ -3980,7 +3980,7 @@ Translator: ChatGPT 4
 
 #### First Table - 已校对
 
-~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+注：下面表格单词已写到 Goodnotes；日期见：2024.06.15
 
 | 单词          | 美式发音               | 词类 + 汉语释义         | 示例                                                       |
 | ------------ |--------------------| --------------------- | ---------------------------------------------------------- |
@@ -3996,7 +3996,7 @@ Translator: ChatGPT 4
 | compulsory   | `/kəmˈpʌlsəri/`    | adj. 强制的            | Attendance at the meeting is compulsory. <br />(参加会议是强制性的。) |
 | moron        | ` /ˈmɔːrɑːn/ `     | n. 笨蛋（贬义）         | He acted like a complete moron. <br />(他表现得像个彻底的笨蛋。) |
 | solitude     | `/ˈsɑːlɪtuːd/`     | n. 独处                | She enjoyed the solitude of the mountains. <br />(她享受山中的独处。)<br /> live in solitude 孤单(孤独)地生活 |
-| socialize    | `/ˈsoʊʃəˌlaɪz/`    | v. 社交                | It's important to socialize with your colleagues. <br />(与同事社交很重要。)<br />You don't socialize enough. <br />你交际不广 |
+| socialize    | `/ˈsoʊʃəlaɪz/`    | v. 社交                | It's important to socialize with your colleagues. <br />(与同事社交很重要。)<br />You don't socialize enough. <br />你交际不广 |
 | negotiate    | `/nɪˈgoʊʃieɪt/`    | v. 谈判，协商 | They are negotiating a new contract.<br /> (他们正在谈判一份新合同。)<br />The two countries are negotiating a trade agreement. <br />这两个国家正在谈判一项贸易协议。<br />They negotiated a new contract. <br/>(他们协商了一份新合同。) |
 | theoretical  | `/ˌθiːəˈretɪkəl/`  | adj. 理论的            | His knowledge is purely theoretical. <br />(他的知识纯粹是理论上的。)<br />theoretical physics. 理论物理（学） |
 | cube         | `/kjuːb/`          | n. 立方体；立方(数学)；<br />v. 求...的立方，切成方块 | n. The puzzle was in the shape of a cube. <br />(这个难题是立方体形状的。)<br/>v. To find the volume, cube the length of each side. <br />(要找出体积，求每边长度的立方。)<br />v. 4 cubed is 64. 4 的立方是 64.<br />v. She cubed the potatoes for the stew.<br /> (她把土豆切成方块做炖菜。) |
