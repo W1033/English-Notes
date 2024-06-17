@@ -460,7 +460,6 @@ Translator: ChatGPT 4o
 
 
 
-
 ### Added: 2024.05.27
 
 Translator: ChatGPT 4o
@@ -1379,29 +1378,32 @@ Translator: ChatGPT 4
 
 ### Added: 2024.04.28
 
-Translator: ChatGPT 4
+*Edit: 2024.06.17*
+
+Translator: ChatGPT 4o
+
+#### First Table - ~~已校对~~
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-
-| 单词         | 美式发音         | 词类 + 汉语释义             | 示例                                                           |
-|-------------|-----------------|---------------------------|----------------------------------------------------------------|
-| recruit     | `/rɪˈkruːt/      | v. 招募；n. 新兵           | v. They aim to recruit 500 new employees this year.<br>(他们今年计划招募500名新员工。)<br>n. The new recruits are undergoing training.<br>(新兵正在接受训练。) |
-| verbal      | `/ˈvɜːrbəl/      | adj. 口头的；言语的         | He issued a verbal apology.<br>(他进行了口头道歉。)            |
-| northern    | `/ˈnɔːrðərn/     | adj. 北方的                | They live in the northern part of the city.<br>(他们住在城市的北部。) |
-| vehicle     | `/ˈviːɪkəl/      | n. 车辆                   | Please park the vehicle in the designated area.<br>(请将车辆停在指定区域。) |
-| loaf        | `/loʊf/          | n. 一条面包；v. 游荡        | n. She bought a loaf of bread.<br>(她买了一条面包。)<br>v. He spent the afternoon loafing around the park.<br>(他花了一个下午在公园里游荡。) |
-| democracy   | `/dɪˈmɒkrəsi/    | n. 民主                   | Democracy allows for free elections.<br>(民主允许自由选举。)   |
-| forge       | `/fɔːrdʒ/        | v. 锻造；伪造              | v. He forged a new ring in the workshop.<br>(他在车间锻造了一个新戒指。)<br>v. The document was forged.<br>(该文件被伪造了。) |
-| adore       | `/əˈdɔːr/        | v. 崇拜；非常喜爱           | She adores her new puppy.<br>(她非常喜爱她的新小狗。)         |
-| adorable    | `/əˈdɔːrəbl/     | adj. 可爱的；令人崇拜的      | That baby is absolutely adorable.<br>(那个婴儿绝对可爱。)     |
-| spare       | `/spɛər/         | v. 抽出（时间等）；adj. 多余的 | v. Can you spare a minute?<br>(你能抽出一分钟吗？)<br>adj. We have a spare room.<br>(我们有一个备用房间。) |
-| sparing     | `/ˈspɛərɪŋ/      | adj. 节约的                | He is very sparing with his compliments.<br>(他很少表扬人。)  |
-| priceless   | `/ˈpraɪsləs/     | adj. 无价的                | A smile from my child is priceless.<br>(我孩子的一个微笑是无价的。) |
-| pretty      | `/ˈprɪti/        | adj. 漂亮的；adv. 相当      | adj. She wore a pretty dress.<br>(她穿了一件漂亮的裙子。)<br>adv. It's pretty cold outside.<br>(外面相当冷。) |
-| hub         | `/hʌb/           | n. 中心；轴心               | The city is a major hub for international trade.<br>(这个城市是国际贸易的重要中心。) |
-| geographic  | `/ˌdʒiːoʊˈɡræfɪk/ | adj. 地理的               | The geographic features of the area include mountains and rivers.<br>(该地区的地理特征包括山脉和河流。) |
-| area        | `/ˈɛəriə/        | n. 地区；面积               | This area is known for its beautiful parks.<br>(这个地区以其美丽的公园而闻名。) |
+| 单词         | 美式发音             | 词性 + 汉语释义      | 示例 |
+|------------|------------------|----------------|---|
+| recruit    | `/rɪˈkrut/`      | v. 招募；招聘<br>n. 新兵 | v. The army is looking to recruit new soldiers. <br>(军队正在招募新兵。)<br>v. The company is recruiting new employees. <br>(公司正在招聘新员工。)<br>n. The new recruits are undergoing training. <br>(新兵正在接受训练。) |
+| verbal     | `/ˈvɜrbəl/`      | adj. 口头的       | He gave a verbal agreement. <br>(他口头同意了。) |
+| northern   | `/ˈnɔrðərn/`     | adj. 北方的       | They live in the northern part of the country. <br>(他们住在国家的北部。) |
+| vehicle    | `/ˈviɪkəl/`      | n. 车辆          | He bought a new vehicle. <br>(他买了一辆新车。) |
+| loaf       | `/loʊf/`         | n. 一条（面包）<br>v. 游荡 | n. She bought a loaf of bread. <br>(她买了一条面包。)<br>v. They were loafing around all day. <br>(他们整天在游荡。) |
+| democracy  | `/dɪˈmɑkrəsi/`   | n. 民主          | Democracy allows people to have a say in their government. <br>(民主使人们可以在政府中发言。) |
+| forge      | `/fɔrdʒ/`        | v. 伪造；锻造       | He was caught forging signatures. <br>(他因伪造签名被抓。) |
+| adore      | `/əˈdɔr/`        | v. 爱慕          | She adores her little sister. <br>(她非常爱她的小妹妹。) |
+| adorable   | `/əˈdɔrəbəl/`    | adj. 可爱的       | The puppy is absolutely adorable. <br>(这只小狗非常可爱。) |
+| spare      | `/spɛr/`         | adj. 备用的<br>v. 抽出；饶恕<br>n. 备用品 | adj. Do you have a spare key? <br>(你有备用钥匙吗？)<br>v. Can you spare a few minutes? <br>(你能抽出几分钟吗？)<br>n. I always carry a spare in my car. <br>(我车里总带着一个备用轮胎。) |
+| sparing    | `/ˈspɛrɪŋ/`      | adj. 节俭的       | She is sparing in her use of makeup. <br>(她化妆很少。) |
+| priceless  | `/ˈpraɪslɪs/`    | adj. 无价的       | The painting is priceless. <br>(这幅画是无价的。) |
+| pretty     | `/ˈprɪti/`       | adv. 相当<br>adj. 漂亮的 | adv. The test was pretty easy. <br>(考试相当容易。)<br>adj. She is a pretty girl. <br>(她是个漂亮的女孩。)|
+| hub        | `/hʌb/`          | n. 中心          | The city is a hub of commerce. <br>(这座城市是商业中心。) |
+| geographic | `/ˌdʒiːəˈɡræfɪk/` | adj. 地理的       | The geographic features of the area are unique. <br>(该地区的地理特征很独特。) |
+| area       | `/ˈɛriə/`        | n. 地区；面积       | n. This area is known for its beautiful scenery. <br>(这个地区以其美丽的风景而闻名。)<br>n. The total area of the house is 200 square meters. <br>(这所房子的总面积是200平方米。) |
 
 
 
@@ -1509,7 +1511,6 @@ Translator: ChatGPT 4
 | perfection         | `/pərˈfɛkʃən/       | n. 完美                | She always strives for perfection.<br>(她总是追求完美。) |
 | pathway            | `/ˈpæθˌweɪ/         | n. 路径；途径             | This pathway leads to the garden.<br>(这条小径通向花园。) |
 | ※                  | ※                   | ※                    | ※ |
-| democracy          | `/dɪˈmɑːkrəsi/      | n. 民主政治              | Democracy allows citizens to participate in government decisions.<br>(民主允许公民参与政府决策。) |
 | presumptuous       | `/prɪˈzʌmptʃuəs/    | adj. 放肆的；专横的         | It was presumptuous of him to assume he could just take the car.<br>(他以为可以随便拿车是很放肆的。) |
 | maple              | `/ˈmeɪpl/           | n. 枫树；枫木             | Maple syrup is made from the sap of maple trees.<br>(枫糖浆是由枫树的树液制成的。) |
 | inhuman            | `/ɪnˈhjuːmən/       | adj. 不人道的            | The conditions in the camp were inhuman.<br>(营地的条件是不人道的。) |
@@ -2027,7 +2028,6 @@ Translator: ChatGPT 4
 
 | Word          | American Pronunciation | Part of Speech + Chinese Translation | Example |
 |---------------|------------------------|--------------------------|---------|
-| pretty        | `/ˈprɪti/              | adj. 漂亮的；相当地        | She has a pretty dress.<br />(她有一条漂亮的裙子。) |
 | classy        | `/ˈklæsi/              | adj. 高档的，有品位的       | That restaurant is very classy.<br />(那家餐厅非常高档。) |
 | tony          | `/ˈtoʊni/              | adj. (俚)豪华的，时髦的     | She lives in a tony neighborhood.<br />(她住在一个豪华的社区。) |
 | cute          | `/kjuːt/               | adj. 可爱的              | The puppy is very cute.<br />(那只小狗非常可爱。) |
@@ -2525,7 +2525,6 @@ Translator: ChatGPT 4
 
 
 
-
 ### Added: 2024.03.28
 
 Translator: ChatGPT 4
@@ -2608,7 +2607,6 @@ Translator: ChatGPT 4
 
 
 
-
 ### Added: 2024.03.27
 
 Translator: ChatGPT 4
@@ -2652,6 +2650,7 @@ Translator: ChatGPT 4
 
 
 
+
 ### Added: 2024.03.26
 
 Translator: ChatGPT 4
@@ -2672,6 +2671,7 @@ Translator: ChatGPT 4
 | catch      | `/kætʃ/`         | v. 捕捉，抓住；<br>n. 捕获物 | v. He tried to catch the ball.<br />(他试图抓住球。)<br />v. He caught the ball effortlessly.<br />(他毫不费力地接住了球。)<br />n. The fisherman boasted about his catch.<br />(渔夫夸耀他的捕获。)<br />n. That was a good catch!<br />(那是个好捕获！) |
 | fitness    | `/ˈfɪtnəs/`      | n. 健康，适合                  | His fitness improved with exercise.<br />(他的健康状况随着锻炼有所改善。) |
 | convenient | `/kənˈviːniənt/` | adj. 方便的，便利的                | The hotel is convenient to the airport.<br />(这家酒店去机场很方便。)<br />Is three o'clock convenient for you?<br />(三点钟你方便吗？) |
+
 
 
 
@@ -2719,8 +2719,7 @@ Translator: ChatGPT 4
 
 
 
-
-
+    
 ### Added: 2024.03.22
 
 Translator: ChatGPT 4
@@ -2742,6 +2741,7 @@ Translator: ChatGPT 4
 | state-of-the-art         | `/ˌsteɪt əv ði ˈɑrt/` | adj. 最先进的          | The laboratory is equipped with state-of-the-art instruments.<br>(实验室配备了最先进的仪器。) |
 | allergen                 | `/ˈælərdʒən/`  | n. 过敏原                      | Dust mites are a common allergen in homes.<br>(尘螨是家庭中常见的过敏原。)<br />Pollen is a common allergen that triggers hay fever.<br/>(花粉是引发花粉热的常见过敏原。) |
 | digest                   | `/daɪˈdʒɛst/` (v.), <br />`/ˈdaɪdʒɛst/` (n.) | v. 消化；理解<br>n. 摘要；文摘 | v. It takes time to digest complex information. <br />(需要时间来消化复杂的信息。)<br>n. She read a digest of the week's news. <br />(她阅读了一周新闻的摘要。) |
+
 
 
 
@@ -2853,7 +2853,6 @@ Translator: ChatGPT 4
 
 
 
-
 ### Added: 2024.03.17
 
 Translator: ChatGPT 4
@@ -2928,6 +2927,7 @@ Translator: ChatGPT 4
 
 
 
+
 ### Added: 2024.03.16
 
 Translator: ChatGPT 4
@@ -2977,6 +2977,7 @@ Translator: ChatGPT 4
 - **interest**：
     - 作为名词，interest 表示对某事物的 **`兴趣`**，或者指金融领域的 **`利息`**。
     - 作为动词，它用于描述某事物吸引某人的注意或好奇心，即 **`使感兴趣`**。
+
 
 
 
@@ -3066,6 +3067,7 @@ Translator: ChatGPT 4
 
 
 
+
 ### Added: 2024.03.14
 
 Translator: ChatGPT 4
@@ -3098,8 +3100,7 @@ Translator: ChatGPT 4
 
 
 
-
-
+    
 ### Added: 2024.03.13
 
 Translator: ChatGPT 4
@@ -3147,6 +3148,7 @@ Translator: ChatGPT 4
 - **veto (n. & v.)**：
     - 作为名词，“veto”指的是 **`否决权`** ，这是一种特定的权力，使个人或机构能够阻止法案、提案或决定的通过。这通常用于政治和立法的语境中，如一个国家的总统或国王可以对立法机构通过的法律行使否决权。
     - 作为动词，“veto”表示执行这种权力来 **`否决`** 某项法案、提案或决定。这意味着通过行使否决权来阻止某事的实施或成为法律。
+
 
 
 
@@ -3205,6 +3207,7 @@ Translator: ChatGPT 4
 
 
 
+
 ### Added: 2024.03.11
 
 Translator: ChatGPT 4
@@ -3223,6 +3226,7 @@ Translator: ChatGPT 4
 - **secret (adj. & n.)**：
     - 作为形容词，“secret”表示 **`秘密的`** 或 **`保密的`**。这是指不为人知或故意隐藏的信息或状态，以防止他人知晓。
     - 作为名词，“secret”指的是 **`秘密`**，是指需要保持隐秘的信息或事实，不被外人所知。
+
 
 
 
@@ -3277,6 +3281,7 @@ Translator: ChatGPT 4
 
 
 
+
 ### Added: 2024.03.06
 
 Translator: ChatGPT 4
@@ -3306,6 +3311,7 @@ Translator: ChatGPT 4
     + 作为动词 (v.)，"duplicate" 指制作一样的副本，特别是在制作文件、艺术品或其他物品的精确复制品时使用。这个动词强调 **`复制`** 的过程，即创建与原件一样的事物。
 - **comrade (n.)**：
     - 作为名词，"comrade" 指的是 **`同志`** 或 **`伙伴`** ，通常用来描述在军队、政治组织或运动中共同工作或战斗的人之间的关系。这个词强调了团结和共同目标的重要性，常用于表达战友或政治上的同道合作关系。
+
 
 
 
@@ -3426,6 +3432,7 @@ Translator: ChatGPT 4
 
 
 
+
 ### Added: 2024.03.01
 
 Translator: ChatGPT 4
@@ -3492,6 +3499,7 @@ Translator: ChatGPT 4
 | disappointment | `/ˌdɪsəˈpɔɪntmənt/` | n. 失望            | 解释：指因期望未达到或希望落空而产生的感觉。                 | His failure to win the race was a big disappointment. <br />(他未能赢得比赛是一个巨大的失望。) |
 | appoint        | `/əˈpɔɪnt/`         | v. 任命；指定      | 解释：指派某人担任特定职务或角色，或确定某事物的时间或地点。<br />概述：通常用于形容正式的任命、指派或安排。 | She was appointed as the new manager. <br />(她被任命为新经理。)<br>We appointed a meeting for next week. <br />(我们安排了下周的会议。) |
 | failure        | `/ˈfeɪljər/`        | n. 失败；故障      | 解释：指未能达到预期目标或结果的状态，或指机器、系统等的故障或功能失效。<br />概述：通常用来描述在某项活动或任务中未能成功，或者是设备和系统的不正常工作状态。 | His attempt to climb the mountain ended in failure. (他试图攀登这座山，但以失败告终。)<br>The failure of the engine caused the car to stop. (引擎故障导致汽车停止运行。) |
+
 
 
 
@@ -3626,7 +3634,6 @@ Translator: ChatGPT 4
 
 
 
-
 ### Added: 2024.02.18
 Translator: ChatGPT 4
 
@@ -3661,7 +3668,6 @@ Translator: ChatGPT 4
 | knucklehead   | `/ˈnʌkəlˌhɛd/         | n. 笨蛋；傻瓜                 |
 | in motion     | ——                    | phr. 在运动中；开始             |
 | motion        | `/ˈmoʊʃən/           | n. 运动；提议                 |
-
 
 
 
@@ -3735,7 +3741,6 @@ Translator: ChatGPT 4
 
 
 
-
 ### Added: 2024.02.01
 
 *Edit: 2024.06.12*
@@ -3780,7 +3785,6 @@ Translator: ChatGPT 4o
 | ambiguity     | `/ˌæmbɪˈɡjuːəti/` | n. 模棱两可；不明确          | The ambiguity of his statement confused everyone. <br>(他的话语含糊不清，令所有人困惑。) |
 | dictator      | `/ˈdɪkteɪtər/`  | n. 独裁者               | The dictator ruled the country with an iron fist. <br>(独裁者铁腕统治国家。) |
 | attributive   | `/əˈtrɪbjətɪv/` | adj. 定语的             | In the phrase "the big house," "big" is an attributive adjective. <br>(在短语“the big house”中，“big”是定语形容词。) |
-
 
 
 
