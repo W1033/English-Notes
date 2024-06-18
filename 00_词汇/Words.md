@@ -3635,6 +3635,7 @@ Translator: ChatGPT 4
 
 
 ### Added: 2024.02.18
+
 Translator: ChatGPT 4
 
 | 单词          | 美式发音               | 词类 + 汉语释义               |
@@ -3671,9 +3672,19 @@ Translator: ChatGPT 4
 
 
 
+### ------笔记标记线------
+
+
 
 ### Added: 2024.02.15
-Translator: ChatGPT 4
+
+*Edit: 2024.06.18*
+
+Translator: ChatGPT 4o
+
+#### First Table - ~~已校对~~
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词            | 美式发音                 | 词类 + 汉语释义           |
 | --------------- |----------------------|---------------------|
@@ -3693,10 +3704,14 @@ Translator: ChatGPT 4
 | paraphrase      | `/ˈpærəfreɪz/        | v. 解释；改述            |
 | affair          | `/əˈfɛr/             | n. 事务；事件            |
 | disappear       | `/ˌdɪsəˈpɪr/         | v. 消失               |
-| offer           | `/ˈɔfər/             | v. 提供；n. 提议         |
-| skin            | `/skɪn/              | n. 皮肤；v. 剥皮         |
-| caution         | `/ˈkɔʃən/            | n. 谨慎；v. 警告         |
-| explicit        | `/ɪkˈsplɪsɪt/        | adj. 明确的；直率的        |
+
+
+#### Second Table - ~~已校对~~
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词            | 美式发音                 | 词类 + 汉语释义           |
+| --------------- |----------------------|---------------------|
 | suppress        | `/səˈprɛs/           | v. 抑制；镇压            |
 | adapt           | `/əˈdæpt/            | v. 适应；修改            |
 | uncomment       | `/ʌnˈkɑmɛnt/         | v. 不发表评论            |
@@ -3713,6 +3728,25 @@ Translator: ChatGPT 4
 | bird            | `/bɜrd/              | n. 鸟                |
 | blame           | `/bleɪm/             | v. 责备；n. 责任         |
 | blossoms        | `/ˈblɑːsəmz/         | n. 花；v. 开花          |
+| cushion         | `/ˈkʊʃən/            | n. 垫子；v. 缓冲         |
+| dangle          | `/ˈdæŋɡəl/           | v. 悬挂；摇摆            |
+| decorate        | `/ˈdɛkəˌreɪt/        | v. 装饰；布置            |
+| delighted       | `/dɪˈlaɪtɪd/         | adj. 高兴的            |
+| demonstrate     | `/ˈdɛmənˌstreɪt/     | v. 证明；展示            |
+| den             | `/dɛn/               | n. 兽穴；小屋            |
+| destroy         | `/dɪˈstrɔɪ/          | v. 破坏；摧毁            |
+| dew             | `/du/                | n. 露水               |
+
+#### Third Table - ~~已校对~~
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词            | 美式发音                 | 词类 + 汉语释义           |
+| --------------- |----------------------|---------------------|
+| offer           | `/ˈɔfər/             | v. 提供；n. 提议         |
+| skin            | `/skɪn/              | n. 皮肤；v. 剥皮         |
+| caution         | `/ˈkɔʃən/            | n. 谨慎；v. 警告         |
+| explicit        | `/ɪkˈsplɪsɪt/        | adj. 明确的；直率的        |
 | bounce          | `/baʊns/             | v. 弹跳；反弹            |
 | broad           | `/brɔːd/             | adj. 宽的；广泛的         |
 | burst           | `/bɜrst/             | v. 爆裂；突发            |
@@ -3725,14 +3759,6 @@ Translator: ChatGPT 4
 | cradle          | `/ˈkreɪdəl/          | n. 摇篮；v. 抚育         |
 | creep           | `/kriːp/             | v. 爬行；悄悄移动          |
 | crowd           | `/kraʊd/             | n. 人群；v. 挤满         |
-| cushion         | `/ˈkʊʃən/            | n. 垫子；v. 缓冲         |
-| dangle          | `/ˈdæŋɡəl/           | v. 悬挂；摇摆            |
-| decorate        | `/ˈdɛkəˌreɪt/        | v. 装饰；布置            |
-| delighted       | `/dɪˈlaɪtɪd/         | adj. 高兴的            |
-| demonstrate     | `/ˈdɛmənˌstreɪt/     | v. 证明；展示            |
-| den             | `/dɛn/               | n. 兽穴；小屋            |
-| destroy         | `/dɪˈstrɔɪ/          | v. 破坏；摧毁            |
-| dew             | `/du/                | n. 露水               |
 | direction       | `/dɪˈrɛkʃən/         | n. 方向；指导            |
 | drain           | `/dreɪn/             | v. 排水；耗尽            |
 | dusty           | `/ˈdʌsti/            | adj. 多尘的            |
