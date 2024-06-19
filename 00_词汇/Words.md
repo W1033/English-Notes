@@ -3187,7 +3187,6 @@ Translator: ChatGPT 4
 | conduit    | `/ˈkɑːnduɪt/`    | n. 管道；渠道                                      | The conduit carries water to the city.<br>(管道将水输送到城市。) |
 | hypothesis | `/haɪˈpɑːθəsɪs/` | n. 假设；假说                                      | The scientist proposed a hypothesis for the experiment.<br>(科学家为实验提出了一个假设。) |
 | complete   | `/kəmˈpliːt/`    | adj. 完整的；完全的 <br />v. 完成；结束                   | adj. We have a complete set of the author's works.<br>(我们拥有这位作者作品的完整套装。) <br />v. She completed her degree last year.<br>(她去年完成了她的学位。) |
-| overall    | `/ˌoʊvərˈɒːl/`   | adj. 总的；全面的 <br />adv. 总体上                    | adj. The overall cost was higher than expected.<br>(总体成本高于预期。) <br />adj. Overall band Score. (总分)<br />adv. Overall, the project was a success.<br>(总的来说，这个项目是成功的。)band |
 | band       | `/bænd/`         | n. 乐队；带(子)；波段；级别 <br />v. 联合；用带绑(bǎng)扎    | n. The band will perform tonight. <br />(乐队将于今晚表演。) <br />n. She wears a silver band on her wrist. <br />(她手腕上戴着一个银色的手环。) <br />n. This radio operates in a different frequency band. <br />(这台收音机在不同的频率波段运作。) <br />n. He is in the top salary band for his role. <br />(他在他的职位上处于最高薪资级别。) <br />v. They banded together to form a study group. <br />(他们联合起来组成了一个学习小组。) |
 | stamp      | `/stæmp/`        | n. 邮票；印章 <br />v. 盖章；跺脚                       | n. I collect stamps from different countries.<br>(我收集来自不同国家的邮票。) <br />v. He stamped his foot in frustration.<br>(他因挫败感而跺脚。) |
 | voluntary  | `/ˈvɑːləntɛri/`  | adj. 自愿的；志愿的                                  | She does voluntary work at the hospital.<br>(她在医院做志愿工作。) |
@@ -3208,9 +3207,6 @@ Translator: ChatGPT 4
 - **complete (adj. & v.)**：
     - 作为形容词，“complete”描述的是 **`完整的`** 或 **`完全的`** 状态，表示没有缺失部分或属性，或是完全充足的。
     - 作为动词，"complete" 指 **`完成`** 或 **`结束`** 某项任务或过程，意味着使之达到结束点或完成状态。
-- **overall (adj. & adv.)**：
-    - 作为形容词，“overall”指的是涵盖所有部分或方面的**`总的`**或**`全面的`**。
-    - 作为副词，它表达 **`总体上`** 或 **`大体上`** 的概念，指考虑所有因素后的总体状况或结果。
 - **band (n. & v.)**：
     - 作为名词，“band”可以指：
         1. **`乐队`**：一组为演奏音乐而聚集的人。
@@ -3705,26 +3701,24 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-好的，根据你的要求，以下是这些单词的翻译：
-
-| 单词           | 美式发音            | 词性 + 汉语释义                  |
-|----------------|--------------------|----------------------------------|
-| overall        | `/ˌoʊvərˈɔːl/`     | adj. 全部的；总体的<br>adv. 总的来说 |
-| discoverability| `/dɪsˌkʌvərəˈbɪlɪti/` | n. 可发现性                       |
-| discoverable   | `/dɪsˈkʌvərəbl/`   | adj. 可发现的                     |
-| endow          | `/ɪnˈdaʊ/`         | v. 赋予；捐赠                     |
-| release        | `/rɪˈliːs/`        | v. 释放；发布<br>n. 释放；发布   |
-| pick           | `/pɪk/`            | v. 挑选；采摘<br>n. 挑选；选择   |
-| lantern        | `/ˈlæntərn/`       | n. 灯笼                           |
-| approve        | `/əˈpruːv/`        | v. 批准；赞成                     |
-| basic          | `/ˈbeɪsɪk/`        | adj. 基本的；基础的               |
-| slam           | `/slæm/`           | v. 砰地关上；猛烈抨击<br>n. 砰的一声 |
-| picnic         | `/ˈpɪknɪk/`        | n. 野餐<br>v. 去野餐              |
-| prudent        | `/ˈpruːdənt/`      | adj. 谨慎的；精明的               |
-| mnemonic       | `/nɪˈmɑːnɪk/`      | n. 记忆术<br>adj. 记忆的         |
-| paraphrase     | `/ˈpærəˌfreɪz/`    | v. 释义；改述<br>n. 释义         |
-| affair         | `/əˈfer/`          | n. 事务；事件                     |
-| disappear      | `/ˌdɪsəˈpɪr/`      | v. 消失；失踪                     |
+| 单词                | 美式发音            | 词性 + 汉语释义                 |
+|-------------------|--------------------|---------------------------|
+| overall           | `/ˌoʊvərˈɔːl/`     | adj. 总体的；全部的<br>adv. 总的来说 |
+| ==discoverability | `/dɪsˌkʌvərəˈbɪlɪti/` | n. 可发现性                   |
+| discoverable      | `/dɪsˈkʌvərəbl/`   | adj. 可发现的                 |
+| endow             | `/ɪnˈdaʊ/`         | v. 赋予；捐赠                  |
+| release           | `/rɪˈliːs/`        | v. 释放；发布<br>n. 释放；发布      |
+| pick              | `/pɪk/`            | v. 挑选；采摘<br>n. 挑选；选择      |
+| lantern           | `/ˈlæntərn/`       | n. 灯笼                     |
+| approve           | `/əˈpruːv/`        | v. 批准；赞成                  |
+| basic             | `/ˈbeɪsɪk/`        | adj. 基本的；基础的              |
+| slam              | `/slæm/`           | v. 砰地关上；猛烈抨击<br>n. 砰的一声   |
+| picnic            | `/ˈpɪknɪk/`        | n. 野餐<br>v. 去野餐           |
+| prudent           | `/ˈpruːdənt/`      | adj. 谨慎的；精明的              |
+| mnemonic          | `/nɪˈmɑːnɪk/`      | n. 记忆术<br>adj. 记忆的        |
+| paraphrase        | `/ˈpærəˌfreɪz/`    | v. 释义；改述<br>n. 释义         |
+| affair            | `/əˈfer/`          | n. 事务；事件                  |
+| disappear         | `/ˌdɪsəˈpɪr/`      | v. 消失；失踪                  |
 
 
 #### Second Table - ~~已校对~~
