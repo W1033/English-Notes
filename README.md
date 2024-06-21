@@ -42,6 +42,16 @@ ChatGPT:
 
 
 
+2024.06.21 关于 collect 这个单词翻译错误的总结：
+
+<img src="./README.assets/image-20240621110242059.png" alt="image-20240621110242059" style="zoom:50%;" />
+
+
+
+
+
+
+
 
 
 

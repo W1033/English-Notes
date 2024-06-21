@@ -3511,7 +3511,7 @@ Translator: ChatGPT 4
 | disappointment | `/ˌdɪsəˈpɔɪntmənt/` | n. 失望            | 解释：指因期望未达到或希望落空而产生的感觉。                 | His failure to win the race was a big disappointment. <br />(他未能赢得比赛是一个巨大的失望。) |
 | appoint        | `/əˈpɔɪnt/`         | v. 任命；指定      | 解释：指派某人担任特定职务或角色，或确定某事物的时间或地点。<br />概述：通常用于形容正式的任命、指派或安排。 | She was appointed as the new manager. <br />(她被任命为新经理。)<br>We appointed a meeting for next week. <br />(我们安排了下周的会议。) |
 | failure        | `/ˈfeɪljər/`        | n. 失败；故障      | 解释：指未能达到预期目标或结果的状态，或指机器、系统等的故障或功能失效。<br />概述：通常用来描述在某项活动或任务中未能成功，或者是设备和系统的不正常工作状态。 | His attempt to climb the mountain ended in failure. (他试图攀登这座山，但以失败告终。)<br>The failure of the engine caused the car to stop. (引擎故障导致汽车停止运行。) |
-
+ 
 
 
 
@@ -3519,7 +3519,7 @@ Translator: ChatGPT 4
 
 Translator: ChatGPT 4
 
-**注：下面表格单词已写到 Goodnotes**
+**注：下面表格单词已写到 Goodnotes - 日期见：2024.02.24-25**
 
 | 单词     | 美式发音        | 词类 + 汉语释义               | 示例                                                         |
 | -------- | --------------- | ----------------------------- | ------------------------------------------------------------ |
@@ -3590,61 +3590,63 @@ Translator: ChatGPT 4
 
 Translator: ChatGPT 4
 
-**注：下面第一个表格单词已写到 Goodnotes**  - 笔记日期：24.02.26 、27
+**注：下面第一个表格单词已写到 Goodnotes**  - 笔记日期：2024.02.26 、27
 
-| 单词            | 美式发音              | 词类 + 汉语释义                 |
-|---------------|-------------------| ----------------------------|
-| writ	        | `/rɪt/`           | n. 正式文书；命令状             |
-| deception     | `/dɪˈsɛpʃən/`     | n. 欺骗；诡计                  |
-| infinite      | `/ˈɪnfənət/`      | adj. 无限的；无穷的             |
-| converter     | `/kənˈvɜrtər/`    | n. 转换器；变流器               |
-| drive         | `/draɪv/`         | v. 驾驶；推动；n. 驱动；驱动器    |
-| programmable  | `/ˈproʊɡræməbəl/` | adj. 可编程的                  |
-| revise        | `/rɪˈvaɪz/`       | v. 修改；复习                  |
+| 单词               | 美式发音               | 词类 + 汉语释义           |
+|------------------|--------------------| ---------------------|
+| writ	           | `/rɪt/`            | n. 正式文书；命令状         |
+| deception        | `/dɪˈsɛpʃən/`      | n. 欺骗；诡计            |
+| infinite         | `/ˈɪnfənət/`       | adj. 无限的；无穷的        |
+| converter        | `/kənˈvɜrtər/`     | n. 转换器；变流器          |
+| drive            | `/draɪv/`          | v. 驾驶；推动；n. 驱动；驱动器  |
+| programmable     | `/ˈproʊɡræməbəl/`  | adj. 可编程的           |
+| revise           | `/rɪˈvaɪz/`        | v. 修改；复习            |
+| impact           | `/ˈɪmpækt/`        | n. 影响；冲击；v. 影响      |
+| depressant       | `/dɪˈprɛsənt/`     | n. 抑制剂；镇静剂          |
+| neuro-           | `/ˈnʊroʊ/`         | n. 神经（前缀）           |
+| neurology        | `/nʊˈrɑːlədʒi/`    | n. 神经学               |
+| neurotransmitter | `/'nʊrotrænzmɪtɚ/` | n. 神经递质             |
+| depression       | `/dɪˈprɛʃən/`      | n. 抑郁（症）；低迷         |
+| anxiety          | `/æŋˈzaɪəti/`      | n. 焦虑；忧虑            |
+| underlying       | `/ˌʌndərˈlaɪɪŋ/`   | adj. 基础的；潜在的        |
+| emotional        | `/ɪˈmoʊʃənəl/`     | adj. 情绪的；感情的        |
+| additional       | `/əˈdɪʃənəl/`      | adj. 附加的；额外的        |
+| additionally     | `/əˈdɪʃənəli/`     | adv. 另外；此外          |
+| impair           | `/ɪmˈpɛr/`         | v. 损害；削弱            |
+| pair             | `/per/`            | n. 一对；一双；v. 配对      |
+| stock            | `/stɑk/`           | n. 股票；库存；v. 储备      |
+| stocking         | `/ˈstɑkɪŋ/`        | n. 长袜                |
+| sock             | `/sɑːk/`           | n. 短袜                |
 
-| 单词               | 美式发音                 | 词类 + 汉语释义                 |
-| ---------------- | ------------------------ | ----------------------------|
-| impact           | `/ˈɪmpækt/`             | n. 影响；冲击；v. 影响          |
-| depressant       | `/dɪˈprɛsənt/`          | n. 抑制剂；镇静剂               |
-| neuro-           | `/ˈnʊroʊ/`              | n. 神经（前缀）                 |
-| neurology        | `/nʊˈrɑːlədʒi/`         | n. 神经学                      |
-| neurotransmitter | `/'nʊrotrænzmɪtɚ/`      | n. 神经递质                    |
-| depression       | `/dɪˈprɛʃən/`           | n. 抑郁（症）；低迷             |
-| anxiety          | `/æŋˈzaɪəti/`           | n. 焦虑；忧虑                  |
-| underlying       | `/ˌʌndərˈlaɪɪŋ/`        | adj. 基础的；潜在的             |
-| emotional        | `/ɪˈmoʊʃənəl/`          | adj. 情绪的；感情的             |
-| additional       | `/əˈdɪʃənəl/`           | adj. 附加的；额外的             |
-| additionally     | `/əˈdɪʃənəli/`          | adv. 另外；此外                |
-| impair           | `/ɪmˈpɛr/`              | v. 损害；削弱                  |
-| pair             | `/per/`                 | n. 一对；一双；v. 配对          |
-| stock            | `/stɑk/`                | n. 股票；库存；v. 储备          |
-| stocking         | `/ˈstɑkɪŋ/`             | n. 长袜                       |
-| sock             | `/sɑːk/`                | n. 短袜                       |
-| hose             | `/hoʊz/`                | n. 长筒袜；软管                |
-| inhibition       | `/ˌɪnhəˈbɪʃən/`         | n. 抑制；禁止                  |
-| dwell            | `/dwɛl/`               | v. 居住；细想                   |
-| otherwise        | `/ˈʌðərˌwaɪz/`         | adv. 否则；不然；除此之外        |
-| disrupt          | `/dɪsˈrʌpt/`           | v. 扰乱；使中断                  |
-| chemical         | `/ˈkɛmɪkəl/            | adj. 化学的；n. 化学制品         |
-| keep in check    | `/kiːp ɪn tʃɛk/        | phr. 控制；制约                 |
-| serotonin        | `/ˌsɛroʊˈtoʊnɪn/       | n. 血清素                       |
-| dopamine         | `/ˈdoʊpəmin/           | n. 多巴胺                       |
-| regulating       | `/ˈrɛɡjəˌleɪtɪŋ/       | adj. 调节的                     |
-| regulate         | `/ˈrɛɡjəˌleɪt/         | v. 调节；规定                   |
-| intensify        | `/ɪnˈtɛnsɪˌfaɪ/        | v. 加强；增强                   |
-| physiological    | `/ˌfɪziəˈlɑdʒɪkəl/     | adj. 生理学的                   |
-| nausea           | `/ˈnɔziə/              | n. 恶心                         |
-| fatigue          | `/fəˈtiɡ/              | n. 疲劳                         |
-| contribute       | `/kənˈtrɪbjuːt/        | v. 贡献；促成                   |
-| wear off         | `/wɛr ɔf/              | phr. 逐渐消失                   |
-| hangover         | `/ˈhæŋˌoʊvər/          | n. 宿醉；余波                   |
-| physical         | `/ˈfɪzɪkəl/            | adj. 身体的；物理的             |
-| otter            | `/ˈɑtər/               | n. 水獭                        |
-| profound         | `/prəˈfaʊnd/           | adj. 深刻的；深远的             |
-| crack            | `/kræk/                | v. 破裂；n. 裂缝；缺口           |
+| 单词               | 美式发音            | 词类 + 汉语释义           |
+|------------------|--------------------| ---------------------|
+| hose             | `/hoʊz/`           | n. 长筒袜；软管           |
+| inhibition       | `/ˌɪnhəˈbɪʃən/`    | n. 抑制；禁止            |
+| dwell            | `/dwɛl/`           | v. 居住；细想            |
+| otherwise        | `/ˈʌðərˌwaɪz/`     | adv. 否则；不然；除此之外     |
+| disrupt          | `/dɪsˈrʌpt/`       | v. 扰乱；使中断           |
+| chemical         | `/ˈkɛmɪkəl/        | adj. 化学的；n. 化学制品    |
+| keep in check    | `/kiːp ɪn tʃɛk/    | phr. 控制；制约          |
+| serotonin        | `/ˌsɛroʊˈtoʊnɪn/   | n. 血清素                |
+| dopamine         | `/ˈdoʊpəmin/       | n. 多巴胺                |
+| regulating       | `/ˈrɛɡjəˌleɪtɪŋ/   | adj. 调节的              |
+| regulate         | `/ˈrɛɡjəˌleɪt/     | v. 调节；规定            |
+| intensify        | `/ɪnˈtɛnsɪˌfaɪ/    | v. 加强；增强            |
+| physiological    | `/ˌfɪziəˈlɑdʒɪkəl/ | adj. 生理学的            |
+| nausea           | `/ˈnɔziə/          | n. 恶心                  |
+| fatigue          | `/fəˈtiɡ/          | n. 疲劳                  |
+| contribute       | `/kənˈtrɪbjuːt/    | v. 贡献；促成            |
+| wear off         | `/wɛr ɔf/          | phr. 逐渐消失            |
+| hangover         | `/ˈhæŋˌoʊvər/      | n. 宿醉；余波            |
+| physical         | `/ˈfɪzɪkəl/        | adj. 身体的；物理的        |
+| otter            | `/ˈɑtər/           | n. 水獭                 |
+| profound         | `/prəˈfaʊnd/       | adj. 深刻的；深远的        |
+| crack            | `/kræk/            | v. 破裂；n. 裂缝；缺口      |
 
 
 
+
+### ------笔记标记线------
 
 ### Added: 2024.02.18
 
@@ -3683,97 +3685,100 @@ Translator: ChatGPT 4
 
 
 
-### ------笔记标记线------
-
-
 
 ### Added: 2024.02.15
-
-*Edit: 2024.06.19*
 
 Translator: ChatGPT 4o
 
 #### First Table - 已校对
 
+*Edit: 2024.06.19*
+
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词              | 美式发音            | 词性 + 汉语释义                | 示例 |
-|-------------------|--------------------|--------------------------|---|
-| overall           | `/ˌoʊvərˈɔːl/`     | adj. 总体的；全部的<br>adv. 总的来说 | adj. The overall performance was excellent. <br>(整体表现非常出色。)<br>adv. Overall, the project was a success. <br>(总的来说，这个项目是成功的。) |
-| discoverability   | `/dɪsˌkʌvərəˈbɪləti/` | n. 可发现性                  | The discoverability of new talent is crucial for the industry. <br>(新人才的可发现性对行业至关重要。) |
-| discoverable      | `/dɪsˈkʌvərəbl/`   | adj. 可发现的                | The error was easily discoverable. <br>(这个错误很容易被发现。) |
-| endow             | `/ɪnˈdaʊ/`         | v. 捐赠；赋予                 | The philanthropist endowed the university with a large sum of money. <br>(慈善家向大学捐赠了一大笔钱。)<br>She is endowed with great intelligence. <br>(她天赋异禀，非常聪明。) |
-| release           | `/rɪˈliːs/`        | v. 释放；发布<br>n. 释放；发布     | v. The prisoner was released after ten years. <br>(囚犯十年后被释放。)<br>n. The release of the new software is scheduled for next month. <br>(新软件的发布定于下个月。) |
-| pick              | `/pɪk/`            | v. 挑选；采摘<br>n. 挑选        | v. She picked the best apples from the basket. <br>(她从篮子里挑选了最好的苹果。)<br>n. He made his pick from the available options. <br>(他从可选项中做了选择。) |
-| lantern           | `/ˈlæntərn/`       | n. 灯笼                    | She carried a lantern to light her way. <br>(她提着一个灯笼照亮道路。) |
-| approve           | `/əˈpruːv/`        | v. 批准；赞成                 | The committee approved the new policy. <br>(委员会批准了新政策。)<br>Her parents approve of her decision. <br>(她的父母赞成她的决定。) |
-| basic             | `/ˈbeɪsɪk/`        | adj. 基本的；基础的             | She has a basic understanding of mathematics. <br>(她对数学有基本的理解。) |
-| slam              | `/slæm/`           | v. 砰地关上；猛烈抨击<br>n. 砰的一声  | v. He slammed the door in anger. <br>(他愤怒地砰地关上了门。)<br>n. There was a loud slam as the door closed. <br>(门关上的时候发出了一声巨响。) |
-| picnic            | `/ˈpɪknɪk/`        | n. 野餐<br>v. 去野餐          | n. We had a picnic by the lake. <br>(我们在湖边野餐。)<br>v. They often picnic in the park on weekends. <br>(他们经常在周末去公园野餐。) |
-| prudent           | `/ˈpruːdənt/`      | adj. 谨慎的                 | It's prudent to save some money for emergencies. <br>(存一些钱以备不时之需是明智的。) |
-| mnemonic          | `/nɪˈmɑːnɪk/`      | n. 记忆术；助记符               | He used a mnemonic to remember the list of words. <br>(他用了一个助记符来记住这串单词。) |
-| paraphrase        | `/ˈpærəˌfreɪz/`    | v. 释义；改述<br>n. 释义        | v. He paraphrased the passage in his own words. <br>(他用自己的话改述了这段话。)<br>n. The paraphrase made the original text easier to understand. <br>(这个释义使原文更容易理解。) |
-| affair            | `/əˈfer/`          | n. 事务；事件                 | She is involved in various social affairs. <br>(她参与各种社会事务。)<br>The scandal was a major affair in the town. <br>(这丑闻是镇上的一件大事。) |
-| disappear         | `/ˌdɪsəˈpɪr/`      | v. 消失；失踪                 | The magician made the rabbit disappear. <br>(魔术师让兔子消失了。)<br>He disappeared without a trace. <br>(他消失得无影无踪。) |
+| 单词               | 美式发音            | 词性 + 汉语释义                | 示例 |
+|------------------|--------------------|--------------------------|---|
+| overall          | `/ˌoʊvərˈɔːl/`     | adj. 总体的；全部的<br>adv. 总的来说 | adj. The overall performance was excellent. <br>(整体表现非常出色。)<br>adv. Overall, the project was a success. <br>(总的来说，这个项目是成功的。) |
+| discoverability  | `/dɪsˌkʌvərəˈbɪləti/` | n. 可发现性                  | The discoverability of new talent is crucial for the industry. <br>(新人才的可发现性对行业至关重要。) |
+| discoverable     | `/dɪsˈkʌvərəbl/`   | adj. 可发现的                | The error was easily discoverable. <br>(这个错误很容易被发现。) |
+| endow            | `/ɪnˈdaʊ/`         | v. 捐赠；赋予                 | The philanthropist endowed the university with a large sum of money. <br>(慈善家向大学捐赠了一大笔钱。)<br>She is endowed with great intelligence. <br>(她天赋异禀，非常聪明。) |
+| release          | `/rɪˈliːs/`        | v. 释放；发布<br>n. 释放；发布     | v. The prisoner was released after ten years. <br>(囚犯十年后被释放。)<br>n. The release of the new software is scheduled for next month. <br>(新软件的发布定于下个月。) |
+| pick             | `/pɪk/`            | v. 挑选；采摘<br>n. 挑选        | v. She picked the best apples from the basket. <br>(她从篮子里挑选了最好的苹果。)<br>n. He made his pick from the available options. <br>(他从可选项中做了选择。) |
+| lantern          | `/ˈlæntərn/`       | n. 灯笼                    | She carried a lantern to light her way. <br>(她提着一个灯笼照亮道路。) |
+| approve          | `/əˈpruːv/`        | v. 批准；赞成                 | The committee approved the new policy. <br>(委员会批准了新政策。)<br>Her parents approve of her decision. <br>(她的父母赞成她的决定。) |
+| basic            | `/ˈbeɪsɪk/`        | adj. 基本的；基础的             | She has a basic understanding of mathematics. <br>(她对数学有基本的理解。) |
+| slam             | `/slæm/`           | v. 砰地关上；猛烈抨击<br>n. 砰的一声  | v. He slammed the door in anger. <br>(他愤怒地砰地关上了门。)<br>n. There was a loud slam as the door closed. <br>(门关上的时候发出了一声巨响。) |
+| picnic           | `/ˈpɪknɪk/`        | n. 野餐<br>v. 去野餐          | n. We had a picnic by the lake. <br>(我们在湖边野餐。)<br>v. They often picnic in the park on weekends. <br>(他们经常在周末去公园野餐。) |
+| prudent          | `/ˈpruːdənt/`      | adj. 谨慎的                 | It's prudent to save some money for emergencies. <br>(存一些钱以备不时之需是明智的。) |
+| mnemonic         | `/nɪˈmɑːnɪk/`      | n. 记忆术；助记符               | He used a mnemonic to remember the list of words. <br>(他用了一个助记符来记住这串单词。) |
+| paraphrase       | `/ˈpærəˌfreɪz/`    | v. 释义；改述<br>n. 释义        | v. He paraphrased the passage in his own words. <br>(他用自己的话改述了这段话。)<br>n. The paraphrase made the original text easier to understand. <br>(这个释义使原文更容易理解。) |
+| affair           | `/əˈfer/`          | n. 事务；事件                 | She is involved in various social affairs. <br>(她参与各种社会事务。)<br>The scandal was a major affair in the town. <br>(这丑闻是镇上的一件大事。) |
+| disappear        | `/ˌdɪsəˈpɪr/`      | v. 消失；失踪                 | The magician made the rabbit disappear. <br>(魔术师让兔子消失了。)<br>He disappeared without a trace. <br>(他消失得无影无踪。) |
 
 
 #### Second Table - 已校对
 
-~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
-
-| 单词           | 美式发音            | 词类 + 汉语释义            | 示例 |
-| ------------- |-----------------|----------------------|---|
-| suppress      | `/səˈpres/`     | v. 镇压；抑制             | The government tried to suppress the protests. <br>(政府试图镇压抗议。)<br>She couldn't suppress her laughter. <br>(她无法抑制住笑声。) |
-| adapt         | `/əˈdæpt/`      | v. 适应；改编             | He had to adapt to the new environment. <br>(他不得不适应新环境。)<br>The book was adapted into a movie. <br>(这本书被改编成电影。) |
-| uncomment     | `/ʌnˈkɑːment/`  | v. 去掉注释              | Please uncomment the code to enable the feature. <br>(请去掉注释以启用该功能。) |
-| squash        | `/skwɑːʃ/`      | v. 压扁；镇压<br>n. 壁球    | v. She squashed the bug with her shoe. <br>(她用鞋子压扁了那只虫子。)<br>v. The regime squashed the rebellion. <br>(政权镇压了叛乱。)<br>n. He plays squash every Saturday. <br>(他每周六打壁球。) |
-| sleep         | `/sliːp/`       | v. 睡觉<br>n. 睡眠       | v. I usually sleep eight hours a night. <br>(我通常每晚睡八个小时。)<br>n. Lack of sleep can affect your health. <br>(缺乏睡眠会影响健康。) |
-| marble        | `/ˈmɑːrbəl/`    | n. 大理石；弹珠            | The statue is made of marble. <br>(这座雕像是用大理石做的。)<br>Children played with marbles in the yard. <br>(孩子们在院子里玩弹珠。) |
-| dug           | `/dʌɡ/`         | v. dig 的过去式和过去分词：挖   | He dug a hole in the backyard. <br>(他在后院挖了一个洞。) |
-| deposit       | `/dɪˈpɑːzɪt/`   | n. 订金；押金；存款<br>v. 存放；沉积 | n. We paid a deposit on the house. <br>(我们付了房子的订金。)<br>n. They asked for a security deposit. <br>(他们要求支付保证金。)<br>n. I have a savings deposit in the bank. <br>(我在银行有一笔储蓄存款。)<br>v. She deposited the check into her account. <br>(她将支票存入了账户。)<br>v. Sediment was deposited at the river mouth. <br>(沉积物在河口沉积。) |
-| technical     | `/ˈtɛknɪkəl/`   | adj. 技术的；工艺的         | He has excellent technical skills. <br>(他有出色的技术技能。)<br>The project requires technical expertise. <br>(这个项目需要技术专长。) |
-| continue      | `/kənˈtɪnjuː/`  | v. 继续；连续             | The meeting will continue after lunch. <br>(会议将在午餐后继续。)<br>The rain continued all day. <br>(雨整天下个不停。) |
-| able          | `/ˈeɪbəl/`      | adj. 能够的；有能力的        | She is able to solve complex problems. <br>(她能够解决复杂问题。)<br>He is an able and efficient worker. <br>(他是一个有能力且高效的工人。) |
-| balance       | `/ˈbæləns/`     | n. 平衡；余额<br>v. 平衡；结算 | n. She lost her balance and fell. <br>(她失去平衡摔倒了。)<br>n. The balance in your account is $500. <br>(你账户中的余额是500美元。)<br>v. She balanced the tray on her hand. <br>(她用手端平托盘。)<br>v. They need to balance their budget. <br>(他们需要平衡预算。) |
-| beak          | `/biːk/`        | n. 鸟嘴                | The bird has a long, curved beak. <br>(这只鸟有一个长而弯的嘴。) |
-| bird          | `/bɜːrd/`       | n. 鸟                 | The bird flew away quickly. <br>(那只鸟很快飞走了。) |
-| blame         | `/bleɪm/`       | v. 责备；归咎于<br>n. 责任；责备 | v. Don't blame me for your mistakes. <br>(不要把你的错误归咎于我。)<br>n. He took the blame for the accident. <br>(他为这次事故承担了责任。)<br>n. The blame was unfairly placed on her. <br>(责任不公平地落在她身上。) |
-| blossoms      | `/ˈblɑːsəmz/`   | n. 花（复数）             | The trees are covered in blossoms. <br>(树上开满了花。) |
-| cushion       | `/ˈkʊʃən/`      | n. 垫子；缓冲<br>v. 缓和冲击  | n. She sat on a soft cushion. <br>(她坐在一个软垫子上。)<br>v. The airbags cushioned the impact. <br>(安全气囊缓和了冲击。) |
-| dangle        | `/ˈdæŋɡəl/`     | v. 悬挂；摆动             | The earrings dangled from her ears. <br>(耳环在她的耳朵上摆动。) |
-| decorate      | `/ˈdekəreɪt/`   | v. 装饰；布置             | They decorated the room for the party. <br>(他们为聚会装饰了房间。)<br>She likes to decorate cakes. <br>(她喜欢装饰蛋糕。) |
-| delighted     | `/dɪˈlaɪtɪd/`   | adj. 愉快的；高兴的         | She was delighted with the gift. <br>(她对这份礼物非常高兴。) |
-| demonstrate   | `/ˈdemənstreɪt/` | v. 演示；证明             | He demonstrated how to use the machine. <br>(他演示了如何使用这台机器。)<br>The results demonstrate the effectiveness of the new method. <br>(结果证明了新方法的有效性。) |
-| den           | `/den/`         | n. 兽穴；书斋             | The lion returned to its den. <br>(狮子回到了它的巢穴。)<br>He reads in his den every evening. <br>(他每天晚上在书斋读书。) |
-| destroy       | `/dɪˈstrɔɪ/`    | v. 破坏；毁灭             | The fire destroyed the building. <br>(大火烧毁了这座建筑。)<br>The evidence was destroyed. <br>(证据被销毁了。) |
-| dew           | `/duː/`         | n. 露水                | The grass was wet with morning dew. <br>(草地上有早晨的露水。) |
-
-
-#### Third Table - ~~已校对~~
+*Edit: 2024.06.20*
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词        | 美式发音           | 词性 + 汉语释义            |
-|-----------|-----------------|----------------------|
-| offer     | `/ˈɔːfər/`      | v. 提供；提出<br>n. 提议；报价 |
-| skin      | `/skɪn/`        | n. 皮肤；外皮<br>v. 剥皮    |
-| caution   | `/ˈkɔːʃən/`     | n. 小心；警告<br>v. 警告    |
-| explicit  | `/ɪkˈsplɪsɪt/`  | adj. 明确的；直率的         |
-| bounce    | `/baʊns/`       | v. 弹跳；反弹<br>n. 弹跳    |
-| broad     | `/brɔːd/`       | adj. 宽的；广泛的          |
-| burst     | `/bɜːrst/`      | v. 爆裂；突发<br>n. 爆发    |
-| capture   | `/ˈkæptʃər/`    | v. 捕获；夺得<br>n. 俘获    |
-| chilly    | `/ˈtʃɪli/`      | adj. 寒冷的；冷淡的         |
-| claws     | `/klɔːz/`       | n. 爪                 |
-| ==collect | `/kəˈlekt/`     | v. 收集；采集             |
-| comfort   | `/ˈkʌmfərt/`    | n. 舒适；安慰<br>v. 安慰    |
-| community | `/kəˈmjuːnəti/` | n. 社区；群体             |
-| cradle    | `/ˈkreɪdəl/`    | n. 摇篮；发源地<br>v. 抚育   |
-| creep     | `/kriːp/`       | v. 爬行；悄悄移动           |
-| direction | `/dɪˈrekʃən/`   | n. 方向；指导             |
-| drain     | `/dreɪn/`       | v. 排水；耗尽<br>n. 排水沟   |
-| dusty     | `/ˈdʌsti/`      | adj. 布满灰尘的           |
-| edge      | `/ɛdʒ/`         | n. 边缘；优势<br>v. 缓慢移动  |
+| 单词          | 美式发音            | 词类 + 汉语释义            | 示例 |
+| ----------- |-----------------|----------------------|---|
+| suppress    | `/səˈpres/`     | v. 镇压；抑制             | The government tried to suppress the protests. <br>(政府试图镇压抗议。)<br>She couldn't suppress her laughter. <br>(她无法抑制住笑声。) |
+| adapt       | `/əˈdæpt/`      | v. 适应；改编             | He had to adapt to the new environment. <br>(他不得不适应新环境。)<br>The book was adapted into a movie. <br>(这本书被改编成电影。) |
+| uncomment   | `/ʌnˈkɑːment/`  | v. 去掉注释              | Please uncomment the code to enable the feature. <br>(请去掉注释以启用该功能。) |
+| squash      | `/skwɑːʃ/`      | v. 压扁；镇压<br>n. 壁球    | v. She squashed the bug with her shoe. <br>(她用鞋子压扁了那只虫子。)<br>v. The regime squashed the rebellion. <br>(政权镇压了叛乱。)<br>n. He plays squash every Saturday. <br>(他每周六打壁球。) |
+| sleep       | `/sliːp/`       | v. 睡觉<br>n. 睡眠       | v. I usually sleep eight hours a night. <br>(我通常每晚睡八个小时。)<br>n. Lack of sleep can affect your health. <br>(缺乏睡眠会影响健康。) |
+| marble      | `/ˈmɑːrbəl/`    | n. 大理石；弹珠            | The statue is made of marble. <br>(这座雕像是用大理石做的。)<br>Children played with marbles in the yard. <br>(孩子们在院子里玩弹珠。) |
+| dug         | `/dʌɡ/`         | v. dig 的过去式和过去分词：挖   | He dug a hole in the backyard. <br>(他在后院挖了一个洞。) |
+| deposit     | `/dɪˈpɑːzɪt/`   | n. 订金；押金；存款<br>v. 存放；沉积 | n. We paid a deposit on the house. <br>(我们付了房子的订金。)<br>n. They asked for a security deposit. <br>(他们要求支付保证金。)<br>n. I have a savings deposit in the bank. <br>(我在银行有一笔储蓄存款。)<br>v. She deposited the check into her account. <br>(她将支票存入了账户。)<br>v. Sediment was deposited at the river mouth. <br>(沉积物在河口沉积。) |
+| technical   | `/ˈtɛknɪkəl/`   | adj. 技术的；工艺的         | He has excellent technical skills. <br>(他有出色的技术技能。)<br>The project requires technical expertise. <br>(这个项目需要技术专长。) |
+| continue    | `/kənˈtɪnjuː/`  | v. 继续；连续             | The meeting will continue after lunch. <br>(会议将在午餐后继续。)<br>The rain continued all day. <br>(雨整天下个不停。) |
+| able        | `/ˈeɪbəl/`      | adj. 能够的；有能力的        | She is able to solve complex problems. <br>(她能够解决复杂问题。)<br>He is an able and efficient worker. <br>(他是一个有能力且高效的工人。) |
+| balance     | `/ˈbæləns/`     | n. 平衡；余额<br>v. 平衡；结算 | n. She lost her balance and fell. <br>(她失去平衡摔倒了。)<br>n. The balance in your account is $500. <br>(你账户中的余额是500美元。)<br>v. She balanced the tray on her hand. <br>(她用手端平托盘。)<br>v. They need to balance their budget. <br>(他们需要平衡预算。) |
+| beak        | `/biːk/`        | n. 鸟嘴                | The bird has a long, curved beak. <br>(这只鸟有一个长而弯的嘴。) |
+| bird        | `/bɜːrd/`       | n. 鸟                 | The bird flew away quickly. <br>(那只鸟很快飞走了。) |
+| blame       | `/bleɪm/`       | v. 责备；归咎于<br>n. 责任；责备 | v. Don't blame me for your mistakes. <br>(不要把你的错误归咎于我。)<br>n. He took the blame for the accident. <br>(他为这次事故承担了责任。)<br>n. The blame was unfairly placed on her. <br>(责任不公平地落在她身上。) |
+| blossoms    | `/ˈblɑːsəmz/`   | n. 花（复数）             | The trees are covered in blossoms. <br>(树上开满了花。) |
+| cushion     | `/ˈkʊʃən/`      | n. 垫子；缓冲<br>v. 缓和冲击  | n. She sat on a soft cushion. <br>(她坐在一个软垫子上。)<br>v. The airbags cushioned the impact. <br>(安全气囊缓和了冲击。) |
+| dangle      | `/ˈdæŋɡəl/`     | v. 悬挂；摆动             | The earrings dangled from her ears. <br>(耳环在她的耳朵上摆动。) |
+| decorate    | `/ˈdekəreɪt/`   | v. 装饰；布置             | They decorated the room for the party. <br>(他们为聚会装饰了房间。)<br>She likes to decorate cakes. <br>(她喜欢装饰蛋糕。) |
+| delighted   | `/dɪˈlaɪtɪd/`   | adj. 愉快的；高兴的         | She was delighted with the gift. <br>(她对这份礼物非常高兴。) |
+| demonstrate | `/ˈdemənstreɪt/` | v. 演示；证明             | He demonstrated how to use the machine. <br>(他演示了如何使用这台机器。)<br>The results demonstrate the effectiveness of the new method. <br>(结果证明了新方法的有效性。) |
+| den         | `/den/`         | n. 兽穴；书斋             | The lion returned to its den. <br>(狮子回到了它的巢穴。)<br>He reads in his den every evening. <br>(他每天晚上在书斋读书。) |
+| destroy     | `/dɪˈstrɔɪ/`    | v. 破坏；毁灭             | The fire destroyed the building. <br>(大火烧毁了这座建筑。)<br>The evidence was destroyed. <br>(证据被销毁了。) |
+| dew         | `/duː/`         | n. 露水                | The grass was wet with morning dew. <br>(草地上有早晨的露水。) |
+
+
+#### Third Table - 已校对
+
+*Edit: 2024.06.21*
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词          | 美式发音            | 词性 + 汉语释义            | 示例 |
+|-------------|-----------------|----------------------|---|
+| offer       | `/ˈɔːfər/`      | v. 提供；提出<br>n. 提议；报价 | v. He offered to help me with the work. <br>(他提出帮我工作。)<br>n. She made a generous offer. <br>(她提出了慷慨的提议。)<br>n. The car is on special offer. <br>(这辆车正在特价优惠。) |
+| skin        | `/skɪn/`        | n. 皮肤；外皮<br>v. 剥皮    | n. She has very sensitive skin. <br>(她的皮肤非常敏感。)<br>n. The banana's skin was brown. <br>(香蕉皮是棕色的。)<br>v. He skinned the apple before eating it. <br>(他吃苹果前先剥了皮。) |
+| caution     | `/ˈkɔːʃən/`     | n. 小心；警告<br>v. 警告    | n. You should proceed with caution. <br>(你应该小心行事。)<br>n. The sign was a caution against the danger. <br>(这个标志是对危险的警告。)<br>v. The teacher cautioned the students to be quiet. <br>(老师警告学生们要安静。) |
+| explicit    | `/ɪkˈsplɪsɪt/`  | adj. 明确的；直率的         | The instructions were explicit. <br>(说明书非常明确。)<br>She was explicit about her intentions. <br>(她直率地表明了她的意图。) |
+| bounce      | `/baʊns/`       | v. 弹跳；反弹<br>n. 弹跳    | v. The ball bounced high into the air. <br>(球弹得很高。)<br>n. He has a lot of bounce in his step. <br>(他走路很有弹性。) |
+| broad       | `/brɔːd/`       | adj. 宽的；广泛的          | The river is very broad here. <br>(这里的河很宽。)<br>She has a broad knowledge of the subject. <br>(她对这个主题有广泛的了解。) |
+| burst       | `/bɜːrst/`      | v. 爆裂；突发<br>n. 爆发    | v. The balloon burst suddenly. <br>(气球突然爆裂了。)<br>n. There was a burst of laughter. <br>(爆发了一阵笑声。) |
+| capture     | `/ˈkæptʃər/`    | v. 捕获；夺得<br>n. 捕获   | v. The police captured the thief. <br>(警察抓住了小偷。)<br>v. The athlete captured the gold medal. <br>(这位运动员夺得了金牌。)<br>n. The capture of the city took several days. <br>(城市的捕获花了几天时间。) |
+| chilly      | `/ˈtʃɪli/`      | adj. 寒冷的；冷淡的         | It's quite chilly today. <br>(今天很冷。)<br>She gave him a chilly reception. <br>(她对他冷淡接待。) |
+| claw        | `/klɔː/`        | n. 爪；钳<br>v. 抓；撕     | n. The cat's claws are sharp. <br>(猫的爪子很锋利。)<br>n. The crab has strong claws. <br>(螃蟹有强壮的钳子。)<br>v. The cat clawed at the furniture. <br>(猫抓了家具。)<br>v. She clawed her way to the top. <br>(她拼命地爬到了顶端。) |
+| claws       | `/klɔːz/`       | n. 爪（复数）；钳（复数）    | The bird's claws were sharp. <br>(鸟的爪子很锋利。)<br>The lobster has powerful claws. <br>(龙虾有强壮的钳子。) |
+| collect     | `/kəˈlekt/`     | v. 收集；领取；收取          | He collects stamps as a hobby. <br>(他以收集邮票为爱好。)<br>You can collect your package at the post office. <br>(你可以在邮局领取你的包裹。)<br>The landlord collects rent every month. <br>(房东每个月收取租金。) |
+| comfort     | `/ˈkʌmfərt/`    | n. 舒适；安慰<br>v. 安慰    | n. The chair offers great comfort. <br>(这把椅子非常舒适。)<br>n. She found comfort in her friend's words. <br>(她在朋友的话语中找到了安慰。)<br>v. He comforted her when she was sad. <br>(她难过时，他安慰了她。) |
+| community   | `/kəˈmjuːnəti/` | n. 社区；群体             | The community came together to clean the park. <br>(社区成员齐心协力清理公园。)<br>She belongs to a close-knit community. <br>(她属于一个关系紧密的群体。) |
+| cradle      | `/ˈkreɪdəl/`    | n. 摇篮；发源地<br>v. 抚育   | n. The baby slept peacefully in the cradle. <br>(婴儿在摇篮里安静地睡着。)<br>n. The city is known as the cradle of civilization. <br>(这座城市被称为文明的发源地。)<br>v. She cradled the newborn in her arms. <br>(她怀抱着新生儿。) |
+| creep       | `/kriːp/`       | v. 爬行；悄悄移动           | The spider creeped along the wall. <br>(蜘蛛沿着墙壁爬行。)<br>She creeped quietly into the room. <br>(她悄悄地走进了房间。) |
+| direction   | `/dɪˈrekʃən/`   | n. 方向；指导             | The compass shows the direction. <br>(指南针指示方向。)<br>She gave clear directions to the venue. <br>(她给出了明确的会场指示。) |
+| drain       | `/dreɪn/`       | v. 排水；耗尽<br>n. 排水沟   | v. He drained the water from the sink. <br>(他把水从水槽里排掉了。)<br>v. The long work hours drained his energy. <br>(长时间的工作耗尽了他的精力。)<br>n. The drain was clogged with leaves. <br>(排水沟被树叶堵住了。) |
+| dusty       | `/ˈdʌsti/`      | adj. 布满灰尘的           | The bookshelf was dusty. <br>(书架布满灰尘。) |
+| edge        | `/ɛdʒ/`         | n. 边缘；优势<br>v. 缓慢移动  | n. He stood at the edge of the cliff. <br>(他站在悬崖边缘。)<br>n. The new technology gives them an edge over competitors. <br>(新技术使他们在竞争中占据优势。)<br>v. She edged closer to the door. <br>(她慢慢靠近门。) |
+
 
 
 
