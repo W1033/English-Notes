@@ -2435,42 +2435,23 @@ Translator: ChatGPT 4 & 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词        | 美式发音          | 词类 + 汉语释义       | 示例                                                         |
-| ---------- | ---------------- | ------------------- | ------------------------------------------------------------ |
-| minimum    | `/ˈmɪnɪməm/      | n. 最小量；最低限度    | The job requires a minimum of five years of experience.<br />(这份工作要求至少五年经验。) |
-| cement     | `/sɪˈmɛnt/       | n. 水泥；<br />v. 巩固，加强 | n. The sidewalk was laid with fresh cement.<br />(人行道铺上了新水泥。)<br />v. The crisis cemented their relationship.<br />(危机巩固了他们的关系。) |
-| sprig      | `/sprɪɡ/         | n. 嫩枝，小枝         | She added a sprig of parsley to the dish.<br />(她在菜里加了一小枝欧芹。) |
-| perch      | `/pɜːrtʃ/        | n. 栖木；v. 栖息      | n. The bird flew to its perch.<br />(鸟飞到了它的栖木上。)<br />v. She perched on the edge of the desk.<br />(她坐在桌子边缘。) |
-| estimate   | `/ˈɛstɪmeɪt/     | n. 估计；v. 估计      | n. The estimate for the project was too low.<br />(项目的预算估计太低。)<br />v. They estimated the crowd to be around 10,000.<br />(他们估计人群大约有10,000人。) |
-| glamorous  | `/ˈɡlæmərəs/     | adj. 迷人的，富有魅力的 | The actress wore a glamorous dress to the premiere.<br />(这位女演员身着迷人的礼服出席首映式。) |
-| chaff      | `/tʃæf/          | n. 谷壳；废物；开玩笑   | He always dismissed the criticism as mere chaff.<br />(他总是将批评视为无足轻重的废话。) |
-| impression | `/ɪmˈprɛʃən/     | n. 印象               | Her first impression of the city was positive.<br />(她对这座城市的第一印象是正面的。) |
-| ridge      | `/rɪdʒ/          | n. 脊；山脊            | The mountain ridge was covered with snow.<br />(山脊覆盖着雪。) |
-| relief     | `/rɪˈliːf/       | n. 缓解；解脱          | The medicine provided quick relief from pain.<br />(这药物迅速缓解了疼痛。) |
-| occupation | `/ˌɑːkjʊˈpeɪʃən/ | n. 职业；占领          | His occupation is a school teacher.<br />(他的职业是学校教师。) |
-| holocaust  | `/ˈhɑːləkɔːst/   | n. 大屠杀；浩劫        | The Holocaust was a tragic period in history.<br />(大屠杀是历史上的悲剧时期。) |
-| semitism   | `/ˈsɛmɪtɪzəm/    | n. 犹太人的特性或习惯   | The book discusses the history of Semitism in the region.<br />(这本书讨论了该地区犹太人的特性或习惯的历史。) |
-| summon     | `/ˈsʌmən/        | v. 召唤；召集         | He was summoned to court to testify.<br />(他被召唤到法庭作证。) |
-| offscreen  | `/ˌɔːfˈskriːn/   | adj. 屏幕外的         | The actor's offscreen personality is very different from his movie roles.<br />(这位演员的屏幕外个性与他的电影角色非常不同。) |
-
-
-| 单词         | 美式发音           | 词性 + 汉语释义                          | 示例                                                         |
-|--------------|--------------------|-----------------------------------------|--------------------------------------------------------------|
-| minimum    | `/ˈmɪnəməm/`     | adj. 最低的，最小的<br>n. 最低限度，最小量 | adj. He received the minimum punishment. <br>(他受到了最轻的处罚。)<br>adj. The minimum age for retirement is 55. <br />最小退休年龄为 55 岁。<br />adj. The minimum number of students we need to run the course is fifteen.<br />我们开这门课程最少要有15个学生。<br />n. The minimum age for voting is 18. <br>(投票的最低年龄是18岁。) |
-| cement   | `/səˈment/`      | n. 水泥<br>v. 巩固                       | Cement Plant. 水泥厂。<br />n. They used cement to build the wall. <br>(他们用水泥建墙。)<br>v. The agreement cemented their friendship. <br>(这份协议巩固了他们的友谊。) |
-| ==sprig==    | `/sprɪɡ/`          | n. 小枝                                 | She decorated the dish with a sprig of parsley. <br>(她用一小枝欧芹装饰了这道菜。) |
-| perch        | `/pɜrtʃ/`          | n. 栖息处<br>v. 栖息，停留               | n. The bird sat on its perch. <br>(鸟儿坐在栖息处。)<br>v. The cat perched on the windowsill. <br>(猫停在窗台上。) |
-| estimate     | `/ˈɛstɪmət/`       | v. 估计<br>n. 估价                       | v. They estimated the cost of the project. <br>(他们估算了项目的费用。)<br>n. The repairman gave me an estimate for the work. <br>(修理工给了我一个工作估价。) |
-| glamorous    | `/ˈɡlæmərəs/`      | adj. 迷人的                              | She looked glamorous in her evening gown. <br>(她穿着晚礼服看起来很迷人。) |
-| chaff        | `/tʃæf/`           | n. 糠                                   | They separated the wheat from the chaff. <br>(他们将麦粒与谷壳分开。) |
-| impression   | `/ɪmˈprɛʃən/`      | n. 印象                                 | She made a good impression at the interview. <br>(她在面试中留下了好印象。) |
-| ridge        | `/rɪdʒ/`           | n. 山脊                                 | We hiked along the ridge of the mountain. <br>(我们沿着山脊徒步旅行。) |
-| relief       | `/rɪˈlif/`         | n. 解脱                                 | He felt a sense of relief after the exam. <br>(考试结束后他感到一阵轻松。) |
-| occupation   | `/ˌɑkjəˈpeɪʃən/`   | n. 职业                                 | His occupation is a doctor. <br>(他的职业是医生。) |
-| holocaust    | `/ˈhɑləkɔst/`      | n. 大屠杀                               | The Holocaust was a tragic event in history. <br>(大屠杀是历史上一个悲惨的事件。) |
-| semitism     | `/ˈsɛmɪˌtɪzəm/`    | n. 闪米特人的特性                        | They studied the influence of Semitism in ancient cultures. <br>(他们研究了闪米特人在古代文化中的影响。) |
-| summon       | `/ˈsʌmən/`         | v. 召唤                                 | He was summoned to appear in court. <br>(他被传唤出庭。) |
-| offscreen    | `/ˌɔfˈskrin/`      | adj. 幕后的                              | The actor's offscreen life is very private. <br>(这位演员的幕后生活非常私密。) |
+| 单词         | 美式发音               | 词性 + 汉语释义                          | 示例                                                         |
+|------------|--------------------|-----------------------------------------|--------------------------------------------------------------|
+| minimum    | `/ˈmɪnəməm/`       | adj. 最小的；最低的<br>n. 最小值；最低限度 | adj. He received the minimum punishment. <br>(他受到了最轻的处罚。)<br>adj. The minimum age for retirement is 55. <br />最小退休年龄为 55 岁。<br />adj. The minimum number of students we need to run the course is fifteen.<br />我们开这门课程最少要有15个学生。<br />n. The minimum age for voting is 18. <br>(投票的最低年龄是18岁。) |
+| cement     | `/səˈment/`        | n. 水泥<br>v. 巩固                       | Cement Plant. 水泥厂。<br />n. They used cement to build the wall. <br>(他们用水泥建墙。)<br>v. The agreement cemented their friendship. <br>(这份协议巩固了他们的友谊。) |
+| ==sprig==  | `/sprɪɡ/`          | n. 小枝                                 | She decorated the dish with a sprig of parsley. <br>(她用一小枝欧芹装饰了这道菜。) |
+| perch      | `/pɜrtʃ/`          | n. 栖息处<br>v. 栖息，停留               | n. The bird sat on its perch. <br>(鸟儿坐在栖息处。)<br>v. The cat perched on the windowsill. <br>(猫停在窗台上。) |
+| estimate   | `/ˈɛstɪmət/`       | v. 估计<br>n. 估价                       | v. They estimated the cost of the project. <br>(他们估算了项目的费用。)<br>n. The repairman gave me an estimate for the work. <br>(修理工给了我一个工作估价。) |
+| glamorous  | `/ˈɡlæmərəs/`      | adj. 迷人的                              | She looked glamorous in her evening gown. <br>(她穿着晚礼服看起来很迷人。) |
+| chaff      | `/tʃæf/`           | n. 糠                                   | They separated the wheat from the chaff. <br>(他们将麦粒与谷壳分开。) |
+| impression | `/ɪmˈprɛʃən/`      | n. 印象                                 | She made a good impression at the interview. <br>(她在面试中留下了好印象。) |
+| ridge      | `/rɪdʒ/`           | n. 山脊                                 | We hiked along the ridge of the mountain. <br>(我们沿着山脊徒步旅行。) |
+| relief     | `/rɪˈlif/`         | n. 解脱                                 | He felt a sense of relief after the exam. <br>(考试结束后他感到一阵轻松。) |
+| occupation | `/ˌɑkjəˈpeɪʃən/`   | n. 职业                                 | His occupation is a doctor. <br>(他的职业是医生。) |
+| holocaust  | `/ˈhɑləkɔst/`      | n. 大屠杀                               | The Holocaust was a tragic event in history. <br>(大屠杀是历史上一个悲惨的事件。) |
+| semitism   | `/ˈsɛmɪˌtɪzəm/`    | n. 闪米特人的特性                        | They studied the influence of Semitism in ancient cultures. <br>(他们研究了闪米特人在古代文化中的影响。) |
+| summon     | `/ˈsʌmən/`         | v. 召唤                                 | He was summoned to appear in court. <br>(他被传唤出庭。) |
+| offscreen  | `/ˌɔfˈskrin/`      | adj. 幕后的                              | The actor's offscreen life is very private. <br>(这位演员的幕后生活非常私密。) |
 
 
 
@@ -2707,8 +2688,6 @@ Translator: ChatGPT 4
 | range       | `/reɪndʒ/`         | n. 范围，系列；<br />v. 排列，变动 | n. The store offers a wide range of products.<br />(这家商店提供了广泛的产品范围。)<br />v. The discussion ranged over several topics.<br />(讨论涵盖了几个话题。) |
 | exhaust     | `/ɪgˈzʌːst/`       | v. 使筋疲力尽，耗尽<br />n. 排气，废气； | v. The long journey exhausted them.<br />(长途旅行使他们筋疲力尽。)<br />n. The car's exhaust was loud and smoky.<br />(汽车的排气响亮且冒烟。) |
 | disillusion | `/ˌdɪsəˈluːʒən/`   | n. 幻灭；醒悟；<br />v. 使幻想破灭 | n. **Time to end this disillusion**: 是时候醒悟了<br />n. The end of the affair marked his disillusion with love.<br />(这段恋情的结束标志着他对爱情的幻灭。)<br />v. The realities of life disillusioned her.<br />(生活的现实使她幻想破灭。) |
-| fatigue     | `/fəˈtiːɡ/`        | n. 疲劳，疲乏；<br />v. 使疲劳 | n. The symptoms of the illness include fatigue.<br />(这种病的症状包括疲劳。)<br />v. The continuous work fatigued him.<br />(连续的工作使他感到疲劳。) |
-|             |                    |                    |                                                              |
 | explanation | `/ˌɛkspləˈneɪʃən/` | n. 解释；说明       | He gave a clear explanation of how it works.<br>(他清楚地解释了它是如何工作的。) |
 | biggie      | `/ˈbɪɡi/`          | n. 重要人或物       | That movie was a real biggie in the box office.<br>(那部电影是票房的重要作品。) |
 | reservation | `/ˌrɛzərˈveɪʃən/`  | n. 预订；保留(意见)   | She made a reservation at the restaurant.<br />(她在餐厅进行了预订。)<br />He has some reservations about the proposal.<br />(他对这个提案有一些保留意见。) |
@@ -3511,7 +3490,7 @@ Translator: ChatGPT 4
 | disappointment | `/ˌdɪsəˈpɔɪntmənt/` | n. 失望            | 解释：指因期望未达到或希望落空而产生的感觉。                 | His failure to win the race was a big disappointment. <br />(他未能赢得比赛是一个巨大的失望。) |
 | appoint        | `/əˈpɔɪnt/`         | v. 任命；指定      | 解释：指派某人担任特定职务或角色，或确定某事物的时间或地点。<br />概述：通常用于形容正式的任命、指派或安排。 | She was appointed as the new manager. <br />(她被任命为新经理。)<br>We appointed a meeting for next week. <br />(我们安排了下周的会议。) |
 | failure        | `/ˈfeɪljər/`        | n. 失败；故障      | 解释：指未能达到预期目标或结果的状态，或指机器、系统等的故障或功能失效。<br />概述：通常用来描述在某项活动或任务中未能成功，或者是设备和系统的不正常工作状态。 | His attempt to climb the mountain ended in failure. (他试图攀登这座山，但以失败告终。)<br>The failure of the engine caused the car to stop. (引擎故障导致汽车停止运行。) |
- 
+
 
 
 
@@ -3584,104 +3563,141 @@ Translator: ChatGPT 4
 
 
 
+### ------ ------ ------ 笔记标记线 ------ ------ ------
+
+添加示例列的要求：
+1. 每个汉语释义都添加一个示例。
+2. 英文和中文之间添加 `<br>`换行符。当单词的词性大于 1 个时，每个英文句子前添加相对应的词性简写。比如 noun 写成 n. 、verb 简写成 v.
+
+
+
+
+
 ### Added: 2024.02.19
 
-*Edited：2024.02.27......*
+#### First Table - 已校对
+
+*Edited：2024.02.27*
 
 Translator: ChatGPT 4
 
-**注：下面第一个表格单词已写到 Goodnotes**  - 笔记日期：2024.02.26 、27
+**注：下面第一个表格单词已写到 Goodnotes - 笔记日期：2024.02.26、27**
 
-| 单词               | 美式发音               | 词类 + 汉语释义           |
-|------------------|--------------------| ---------------------|
-| writ	           | `/rɪt/`            | n. 正式文书；命令状         |
-| deception        | `/dɪˈsɛpʃən/`      | n. 欺骗；诡计            |
-| infinite         | `/ˈɪnfənət/`       | adj. 无限的；无穷的        |
-| converter        | `/kənˈvɜrtər/`     | n. 转换器；变流器          |
-| drive            | `/draɪv/`          | v. 驾驶；推动；n. 驱动；驱动器  |
-| programmable     | `/ˈproʊɡræməbəl/`  | adj. 可编程的           |
-| revise           | `/rɪˈvaɪz/`        | v. 修改；复习            |
-| impact           | `/ˈɪmpækt/`        | n. 影响；冲击；v. 影响      |
-| depressant       | `/dɪˈprɛsənt/`     | n. 抑制剂；镇静剂          |
-| neuro-           | `/ˈnʊroʊ/`         | n. 神经（前缀）           |
-| neurology        | `/nʊˈrɑːlədʒi/`    | n. 神经学               |
-| neurotransmitter | `/'nʊrotrænzmɪtɚ/` | n. 神经递质             |
-| depression       | `/dɪˈprɛʃən/`      | n. 抑郁（症）；低迷         |
-| anxiety          | `/æŋˈzaɪəti/`      | n. 焦虑；忧虑            |
-| underlying       | `/ˌʌndərˈlaɪɪŋ/`   | adj. 基础的；潜在的        |
-| emotional        | `/ɪˈmoʊʃənəl/`     | adj. 情绪的；感情的        |
-| additional       | `/əˈdɪʃənəl/`      | adj. 附加的；额外的        |
-| additionally     | `/əˈdɪʃənəli/`     | adv. 另外；此外          |
-| impair           | `/ɪmˈpɛr/`         | v. 损害；削弱            |
-| pair             | `/per/`            | n. 一对；一双；v. 配对      |
-| stock            | `/stɑk/`           | n. 股票；库存；v. 储备      |
-| stocking         | `/ˈstɑkɪŋ/`        | n. 长袜                |
-| sock             | `/sɑːk/`           | n. 短袜                |
-
-| 单词               | 美式发音            | 词类 + 汉语释义           |
-|------------------|--------------------| ---------------------|
-| hose             | `/hoʊz/`           | n. 长筒袜；软管           |
-| inhibition       | `/ˌɪnhəˈbɪʃən/`    | n. 抑制；禁止            |
-| dwell            | `/dwɛl/`           | v. 居住；细想            |
-| otherwise        | `/ˈʌðərˌwaɪz/`     | adv. 否则；不然；除此之外     |
-| disrupt          | `/dɪsˈrʌpt/`       | v. 扰乱；使中断           |
-| chemical         | `/ˈkɛmɪkəl/        | adj. 化学的；n. 化学制品    |
-| keep in check    | `/kiːp ɪn tʃɛk/    | phr. 控制；制约          |
-| serotonin        | `/ˌsɛroʊˈtoʊnɪn/   | n. 血清素                |
-| dopamine         | `/ˈdoʊpəmin/       | n. 多巴胺                |
-| regulating       | `/ˈrɛɡjəˌleɪtɪŋ/   | adj. 调节的              |
-| regulate         | `/ˈrɛɡjəˌleɪt/     | v. 调节；规定            |
-| intensify        | `/ɪnˈtɛnsɪˌfaɪ/    | v. 加强；增强            |
-| physiological    | `/ˌfɪziəˈlɑdʒɪkəl/ | adj. 生理学的            |
-| nausea           | `/ˈnɔziə/          | n. 恶心                  |
-| fatigue          | `/fəˈtiɡ/          | n. 疲劳                  |
-| contribute       | `/kənˈtrɪbjuːt/    | v. 贡献；促成            |
-| wear off         | `/wɛr ɔf/          | phr. 逐渐消失            |
-| hangover         | `/ˈhæŋˌoʊvər/      | n. 宿醉；余波            |
-| physical         | `/ˈfɪzɪkəl/        | adj. 身体的；物理的        |
-| otter            | `/ˈɑtər/           | n. 水獭                 |
-| profound         | `/prəˈfaʊnd/       | adj. 深刻的；深远的        |
-| crack            | `/kræk/            | v. 破裂；n. 裂缝；缺口      |
+| 单词          | 美式发音          | 词性 + 汉语释义            | 示例 |
+|---------------|-------------------|----------------------|---|
+| writ          | `/rɪt/`           | n. 正式文书；命令状         | n. The court issued a writ of summons. <br>(法院发出了传票。)<br>n. The writ demanded the presence of the defendant. <br>(命令状要求被告出庭。) |
+| deception     | `/dɪˈsɛpʃən/`     | n. 欺骗；诡计            | n. He was caught up in a web of deception. <br>(他陷入了一张欺骗的网。)<br>n. The magician's trick was a clever deception. <br>(魔术师的把戏是一个聪明的诡计。) |
+| infinite      | `/ˈɪnfənət/`      | adj. 无限的；无穷的        | adj. The universe is infinite. <br>(宇宙是无限的。)<br>adj. The possibilities are infinite. <br>(可能性是无穷的。) |
+| converter     | `/kənˈvɜrtər/`    | n. 转换器；变流器          | n. The power converter is broken. <br>(电源转换器坏了。)<br>n. They used a voltage converter for the device. <br>(他们为设备使用了一个电压变流器。) |
+| drive         | `/draɪv/`         | v. 驾驶；推动<br>n. 驱动；驱动器 | v. She drives to work every day. <br>(她每天开车上班。)<br>v. His passion drives him to succeed. <br>(他的激情驱使他成功。)<br>n. The hard drive is full. <br>(硬盘满了。)<br>n. The software controls the motor drive. <br>(软件控制电动机驱动器。) |
+| programmable  | `/ˈproʊɡræməbəl/` | adj. 可编程的           | adj. The thermostat is programmable. <br>(恒温器是可编程的。) |
+| revise        | `/rɪˈvaɪz/`       | v. 修改；复习            | v. He revised the document before submitting it. <br>(他在提交之前修改了文件。)<br>v. She revised for her exams all weekend. <br>(她整个周末都在复习考试。) |
 
 
+#### Second Table - 已校对
+
+*Edit: 2024.02.27、06.24*
+
+Translator: ChatGPT 4 & 4o
+
+**注：下面表格单词已写到 Goodnotes；日期见：2024.06.24；但是笔记所在位置在 2024.02.26、27 的笔记的上一页**
+
+| 单词               | 美式发音               | 词类 + 汉语释义          | 示例                                                                                                                                                                                                                   |
+|------------------|--------------------|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| impact           | `/ˈɪmpækt/`        | n. 影响；冲击<br>v. 影响；撞击 | n. The impact of the new policy was significant. <br>(新政策的影响很大。)<br>v. The collision impacted the car's front end. <br>(碰撞影响了汽车的前端。)                                                                                 |
+| depressant       | `/dɪˈprɛsənt/`     | n. 抑制剂；镇静剂         | Alcohol acts as a depressant on the central nervous system. <br>(酒精对中枢神经系统起镇静作用。)<br>The doctor prescribed a depressant to help with anxiety. <br>(医生开了一种镇静剂来帮助缓解焦虑。)                                                |
+| neuro-           | `/ˈnʊroʊ-/`        | prefix. 神经的        | Neuro- science is the study of the nervous system. <br>(神经科学是对神经系统的研究。)                                                                                                                                              |
+| neurology        | `/nʊˈrɑːlədʒi/`    | n. 神经学             | She is studying neurology at university. <br>(她在大学学习神经学。)                                                                                                                                                            |
+| neurotransmitter | `/'nʊrotrænzmɪtɚ/` | n. 神经递质            | Dopamine is a common neurotransmitter in the brain. <br>(多巴胺是大脑中的常见神经递质。)                                                                                                                                            |
+| depression       | `/dɪˈprɛʃən/`      | n. 抑郁（症）；萧条        | He was diagnosed with depression. <br>(他被诊断出患有抑郁症。)<br>The Great Depression affected many countries. <br>(大萧条影响了许多国家。)                                                                                               |
+| anxiety          | `/æŋˈzaɪəti/`      | n. 焦虑              | She felt a surge of anxiety before the exam. <br>(考试前她感到一阵焦虑。)                                                                                                                                                       |
+| underlying       | `/ˌʌndərˈlaɪɪŋ/`   | adj. 潜在的；基础的       | The underlying cause of the problem is unknown. <br>(问题的潜在原因尚不清楚。)<br>Good health is the underlying foundation of happiness. <br>(良好的健康是幸福的基础。)                                                                      |
+| emotional        | `/ɪˈmoʊʃənəl/`     | adj. 情感的；情绪的       | The movie was an emotional experience. <br>(这部电影是一种情感体验。)<br>She has strong emotional reactions to stress. <br>(她对压力有强烈的情绪反应。)                                                                                       |
+| additional       | `/əˈdɪʃənəl/`      | adj. 附加的；额外的       | There will be an additional charge for extra luggage. <br>(额外行李将收取附加费。)<br>We need additional information to complete the report. <br>(我们需要额外的信息来完成报告。)                                                              |
+| additionally     | `/əˈdɪʃənəli/`     | adv. 另外；此外         | Additionally, we need to consider the budget. <br>(此外，我们还需要考虑预算。)                                                                                                                                                    |
+| impair           | `/ɪmˈpɛr/`         | v. 损害；削弱           | Smoking can impair your health. <br>(吸烟会损害你的健康。)<br>His vision was impaired by the bright light. <br>(他的视力因强光而受损。)                                                                                                   |
+| pair             | `/per/`            | n. 一对；一双；<br>v. 配对 | She bought a new pair of shoes. <br>(她买了一双新鞋。)<br>We need to pair the students for the activity. <br>(我们需要为活动配对学生。)                                                                                                  |
+| stock            | `/stɑk/`           | n. 库存；股票；<br>v. 储备 | n. The store has a large stock of goods. <br>(这家店有大量的库存货物。)<br>n. He decided to invest in stock. <br>(他决定投资股票。)<br>v. They stock the shelves every morning. <br>(他们每天早上补充货架上的货物。)                                    |
+| stocking         | `/ˈstɑkɪŋ/`        | n. 长袜              | She wore a pair of black stockings. <br>(她穿了一双黑色长袜。)                                                                                                                                                                 |
+| sock             | `/sɑːk/`           | n. 短袜              | He found a hole in his sock. <br>(他发现他的短袜有一个洞。)                                                                                                                                                                      |
+| hose             | `/hoʊz/`           | n. 长筒袜；软管          | The garden hose is very long. <br>(花园软管很长。)<br>She bought a new pair of hose. <br>(她买了一双新长筒袜。)                                                                                                                       |
+| inhibition       | `/ˌɪnhəˈbɪʃən/`    | n. 抑制；拘束           | The drug helps reduce inhibition. <br>(这种药有助于减少抑制。)<br>He felt a sense of inhibition in social situations. <br>(他在社交场合中感到一种拘束感。)                                                                                     |
+| dwell            | `/dwɛl/`           | v. 居住；细想           | They dwell in a small village. <br>(他们住在一个小村庄。)<br>She tends to dwell on the past. <br>(她倾向于细想过去。)                                                                                                                   |
+| otherwise        | `/ˈʌðərˌwaɪz/`     | adv. 否则；不然；另外      | You must hurry; otherwise, you'll be late. <br>(你必须快点，否则你会迟到。)<br>It seemed true; otherwise, I wouldn't have believed it. <br>(这似乎是真的，否则我不会相信。)<br>He was tired but otherwise in good health. <br>(他累了，但除此之外健康状况良好。) |
+| disrupt          | `/dɪsˈrʌpt/`       | v. 扰乱；使中断          | The protest disrupted the traffic. <br>(抗议扰乱了交通。)<br>The service was disrupted due to maintenance. <br>(由于维护，服务被中断了。)                                                                                                |
 
 
-### ------笔记标记线------
+#### Third Table - 已校对
+
+*Edit: 2024.06.24*
+
+Translator: ChatGPT 4o
+
+**注：下面表格单词已写到 Goodnotes；日期见：2024.06.24；但是笔记所在位置在 2024.02.26、27 的笔记的上上一页**
+
+| 单词            | 美式发音                 | 词性 + 汉语释义           | 示例                                                                                                                                                                              |
+|----------------|----------------------|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| chemical      | `/ˈkɛmɪkəl/`         | adj. 化学的；n. 化学制品    | adj. The chemical reaction was fascinating. <br>(化学反应很有趣。)<br>n. The factory produces industrial chemicals. <br>(工厂生产工业化学制品。)                                                   |
+| underlie      | `/ˌʌndərˈlaɪ/`       | v. 构成…的基础；位于…之下     | The principles that underlie their work are sound. <br>(构成他们工作基础的原则是合理的。)<br>The river underlies the city. <br>(河流位于城市之下。)                                                      |
+| keep in check | `/kip ɪn tʃɛk/`      | phr. 控制；抑制          | They tried to keep their emotions in check. <br>(他们试图控制自己的情绪。)                                                                                                                  |
+| serotonin     | `/ˌsɛrəˈtoʊnɪn/`     | n. 血清素              | Serotonin levels can affect mood. <br>(血清素水平可以影响情绪。)                                                                                                                            |
+| dopamine      | `/ˈdoʊpəmin/`        | n. 多巴胺              | Dopamine plays a role in reward and pleasure. <br>(多巴胺在奖励和愉悦中起作用。)                                                                                                              |
+| regulating    | `/ˈrɛɡjəleɪtɪŋ/`     | v. 调节；控制（regulate 的现在分词） | The body is constantly regulating its temperature. <br>(身体在不断调节其温度。)                                                                                                            |
+| regulate      | `/ˈrɛɡjəleɪt/`       | v. 调节；控制            | The government regulates the industry to ensure safety. <br>(政府调节行业以确保安全。)                                                                                                      |
+| intensify     | `/ɪnˈtɛnsəfaɪ/`      | v. 加强；加剧            | The conflict intensified after the attack. <br>(袭击后冲突加剧。)                                                                                                                       |
+| physiological | `/ˌfɪziəˈlɑːdʒɪkəl/` | adj. 生理的            | Exercise has many physiological benefits. <br>(锻炼有许多生理上的好处。)                                                                                                                    |
+| physiology    | `/ˌfɪziˈɑːlədʒi/`    | n. 生理学              | She is studying physiology at university. <br>(她在大学学习生理学。)                                                                                                                      |
+| biochemistry  | `/ˌbaɪoʊˈkɛmɪstri/`  | n. 生物化学             | Biochemistry explores the chemical processes within living organisms. <br>(生物化学研究生物体内的化学过程。)                                                                                    |
+| nausea        | `/ˈnɔːziə/`          | n. 恶心；反胃            | The medication caused nausea. <br>(药物引起了恶心。)<br>He felt a wave of nausea. <br>(他感到一阵反胃。)                                                                                        |
+| fatigue       | `/fəˈtiːɡ/`          | n. 疲劳                | He was suffering from fatigue after the long journey. <br>(长途旅行后他感到疲劳。)                                                                                                         |
+| contribute    | `/kənˈtrɪbjuːt/`     | v. 贡献；捐献；促成         | He contributed a lot to the project. <br>(他对项目贡献很大。)<br>They contributed money to the charity. <br>(他们向慈善机构捐款。)<br>Good teamwork contributed to the success. <br>(良好的团队合作促成了成功。) |
+| wear off      | `/wɛr ɔf/`           | phr. 逐渐消失           | The effects of the medicine will wear off after a few hours. <br>(药效会在几小时后逐渐消失。)                                                                                                |
+| hang          | `/hæŋ/`              | v. 悬挂；绞死；垂下         | They hung the picture on the wall. <br>(他们把画挂在墙上。)<br>The criminal was hanged for his crimes. <br>(罪犯因其罪行被绞死。)<br>The branches hung low to the ground. <br>(树枝垂到地面。)            |
+| hangover      | `/ˈhæŋoʊvər/`        | n. 宿醉               | He had a terrible hangover after the party. <br>(派对后他宿醉得很厉害。)                                                                                                                   |
+| otter         | `/ˈɑːtər/`            | n. 水獭               | The otter swam gracefully in the river. <br>(水獭在河里优雅地游泳。)                                                                                                                       |
+| profound      | `/prəˈfaʊnd/`        | adj. 深刻的；深远的        | His speech had a profound impact on the audience. <br>(他的演讲对观众产生了深远的影响。)<br>The book explores profound philosophical questions. <br>(这本书探讨了深刻的哲学问题。)                            |
+| crack         | `/kræk/`             | v. 破裂；破解；<br>n. 裂缝  | The glass cracked when it hit the floor. <br>(玻璃掉到地上时破裂了。)<br>He cracked the code in the computer program. <br>(他破解了计算机程序中的代码。)<br>There was a crack in the wall. <br>(墙上有一道裂缝。) |
+
+
+
 
 ### Added: 2024.02.18
 
-Translator: ChatGPT 4
+#### First Table - 已校对
 
-| 单词          | 美式发音               | 词类 + 汉语释义               |
-| ------------- | ---------------------- | ---------------------------- |
-| logic         | `/ˈlɑdʒɪk/            | n. 逻辑；逻辑学               |
-| programmable  | `/ˈproʊɡrəməbl/       | adj. 可编程的                 |
-| converter     | `/kənˈvɜrtər/         | n. 转换器；变流器             |
-| sabotage      | `/ˈsæbəˌtɑʒ/          | v. 蓄意破坏                   |
-| suburban      | `/səˈbɜrbən/          | adj. 郊区的                   |
-| meant         | `/mɛnt/               | v. 意味（mean的过去式和过去分词）|
-| ought         | `/ɔːt/                | modal v. 应该                 |
-| med.          | `/mɛd/                | abbr. 医学的（medical的缩写）  |
-| MED           | `/mɛd/                | abbr. 最小有效剂量（Minimum Effective Dose的缩写）|
-| binge         | `/bɪndʒ/              | n. 狂欢；v. 放纵               |
-| binger        | `/ˈbɪndʒər/           | n. 狂欢者；放纵者             |
-| disrupt       | `/dɪsˈrʌpt/           | v. 扰乱；破坏                 |
-| flea          | `/fliː/               | n. 跳蚤                       |
-| tightrope     | `/ˈtaɪtroʊp/          | n. 钢丝绳；紧张的局面           |
-| necrotic      | `/nɪˈkrɑtɪk/          | adj. 坏死的                   |
-| vale          | `/veɪl/               | n. 谷；溪谷                   |
-| theoretic     | `/ˌθiːəˈrɛtɪk/        | adj. 理论的                   |
-| surround      | `/səˈraʊnd/           | v. 包围；环绕                 |
-| benevolent    | `/bəˈnɛvələnt/        | adj. 仁慈的；慈善的           |
-| righteous     | `/ˈraɪtʃəs/           | adj. 正直的；正义的            |
-| uphold        | `/ʌpˈhoʊld/           | v. 支持；维护                 |
-| ax            | `/æks/                | n. 斧头；v. 削减               |
-| autopsy       | `/ˈɔːtɑpsi/           | n. 验尸；尸体解剖              |
-| asteroid      | `/ˈæstəˌrɔɪd/         | n. 小行星                     |
-| mastoid       | `/ˈmæstɔɪd/           | adj. 乳突的；n. 乳突           |
-| knucklehead   | `/ˈnʌkəlˌhɛd/         | n. 笨蛋；傻瓜                 |
-| in motion     | ——                    | phr. 在运动中；开始             |
-| motion        | `/ˈmoʊʃən/           | n. 运动；提议                 |
+*Edit: 2024.06.24*
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词          | 美式发音              | 词性 + 汉语释义             |
+|---------------|-------------------|-----------------------|
+| logic         | `/ˈlɑːdʒɪk/`      | n. 逻辑；逻辑学             |
+| programmable  | `/proʊˈɡræməbəl/` | adj. 可编程的             |
+| converter     | `/kənˈvɜːrtər/`   | n. 转换器                |
+| suburban      | `/səˈbɜːrbən/`    | adj. 郊区的              |
+| meant         | `/ment/`          | v. mean 的过去式和过去分词：意思是 |
+| ought         | `/ɔːt/`           | v. 应该                 |
+| med.          | `/med/`           | abbr. 医学的 (medical)   |
+| binge         | `/bɪndʒ/`         | n. 狂欢<br>v. 狂饮；大吃大喝   |
+| binger        | `/ˈbɪndʒər/`      | n. 狂饮者；大吃大喝者          |
+| flea          | `/fliː/`          | n. 跳蚤                 |
+| tightrope     | `/ˈtaɪtˌroʊp/`    | n. 钢丝；绳索              |
+| necrotic      | `/neˈkrɑːtɪk/`    | adj. 坏死的              |
+| vale          | `/veɪl/`          | n. 谷；溪谷               |
+| theoretic     | `/ˌθiːəˈretɪk/`   | adj. 理论的              |
+| surround      | `/səˈraʊnd/`      | v. 包围<br>n. 环境        |
+| benevolent    | `/bəˈnevələnt/`   | adj. 仁慈的；有意的          |
+| righteous     | `/ˈraɪtʃəs/`      | adj. 正义的；正直的          |
+| uphold        | `/ʌpˈhoʊld/`      | v. 支持；维护              |
+| ax            | `/æks/`           | n. 斧头<br>v. 削减        |
+| autopsy       | `/ˈɒːtɑːpsi/`     | n. 尸体解剖；验尸            |
+| asteroid      | `/ˈæstərɔɪd/`     | n. 小行星                |
+| mastoid       | `/ˈmæstɔɪd/`      | n. 乳突<br>adj. 乳突的     |
+| knucklehead   | `/ˈnʌkəlˌhɛd/`    | n. 傻瓜                 |
+| in motion     | `/ɪn ˈmoʊʃən/`    | phr. 在运动              |
+| motion        | `/ˈmoʊʃən/`       | n. 动作；提议<br>v. 示意     |
 
 
 

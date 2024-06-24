@@ -2,6 +2,56 @@
 
 
 
+## ▲ 常见提示语汉英
+
+*Add: 2024.06.24*
+
+Translate: ChatGPT 4o 
+
+| 中文提示语       | 英文翻译                           |
+|-------------|--------------------------------|
+| 当心坠落        | Beware of Falling              |
+| 禁止抛物        | No Throwing`/θroʊ/` |
+| 节约用水        | Please Save Water. <br />或 <br />Please Conserve`/kənˈsɜːrv/` Water. |
+| 节约用纸 | Please Save Paper. <br />/<br /> Plese Conserve Paper. |
+| 小心地滑        | Caution: Wet Floor`/flɔːr/`   |
+| 当心碰头        | Mind Your Head. <br />/<br />Overhead obstacle`/ˈɑːbstəkl/` |
+| 注意脚下 | Watch Your step. |
+| 禁止吸烟        | No Smoking                     |
+| 请勿拍照        | No Photography `/fəˈtɑːɡrəfi/` |
+| 请保持安静       | Please Keep Quiet              |
+| 紧急出口        | Emergency Exit                 |
+| 工作区域        | Work Area`/ˈeriə/`             |
+| 避免拥挤        | Avoid Crowding                 |
+| 禁止入内        | No Entry                       |
+| 请勿打扰        | Do Not Disturb`/dɪˈstɜːrb/` |
+| 请勿触摸        | Do Not Touch                   |
+| 请走楼梯        | Use Stairs                     |
+| 注意安全        | Safety First. / Caution. |
+| 禁止饮食        | No Eating or Drinking          |
+| 请勿喧哗        | No Loud Noise                  |
+| 禁止携带宠物     | No Pets Allowed                |
+| 请勿倚靠        | Do Not Lean                    |
+| 请排队         | Please Queue Here              |
+| 请勿越线        | Do Not Cross the Line          |
+| 小心高温        | Caution: High Temperature      |
+| 禁止攀爬        | No Climbing                    |
+| 禁止触摸        | No Touching                    |
+| 请保持清洁       | Keep Clean                     |
+| 请勿投喂动物      | Do Not Feed the Animals        |
+| 非工作人员禁止入内  | Authorized Personnel Only      |
+| 禁止使用手机      | No Mobile Phones               |
+| 出入口         | Entrance/Exit                  |
+| 请系好安全带     | Fasten Seat Belt               |
+| 危险区域        | Danger Zone                    |
+| 请慢行         | Slow Down                      |
+| 请勿坐在台阶上   | Do Not Sit on the Steps        |
+| 正在施工        | Under Construction             |
+
+
+
+
+
 
 
 ## ▲ ChatGPT 4.0 翻译句子及解析
