@@ -943,28 +943,29 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词                 | 美式发音         | 词性 + 汉语释义                          | 示例                                                         |
-|--------------------|------------------|-----------------------------------------|--------------------------------------------------------------|
-| bizarre            | `/bɪˈzɑr/`       | adj. 奇异的                              | His behavior was bizarre and unexpected. <br>(他的行为奇异而出人意料。) |
-| hitch              | `/hɪtʃ/`         | v. 搭便车<br>n. 故障                     | v. He hitched a ride to the city. <br>(他搭便车去城市。)<br>n. There was a hitch in the plan. <br>(计划中出现了一个故障。) |
-| streamline         | `/ˈstriːmˌlaɪn/` | v. 精简                                  | The company streamlined its operations. <br>(公司精简了其运营。) |
-| divine             | `/dɪˈvaɪn/`      | adj. 神圣的<br>v. 占卜                   | adj. They sought divine guidance. <br>(他们寻求神圣的指导。)<br>v. He claimed to divine the future. <br>(他声称能预言未来。) |
-| intervention       | `/ˌɪntərˈvɛnʃən/`| n. 干预                                  | The government’s intervention was necessary. <br>(政府的干预是必要的。) |
-| chime              | `/tʃaɪm/`        | n. 钟声<br>v. 鸣响                       | n. The chime of the clock was soothing. <br>(钟的钟声令人感到安慰。)<br>v. The bells chimed at noon. <br>(钟声在中午敲响。) |
-| quaint             | `/kweɪnt/`       | adj. 古色古香的                          | The village has a quaint charm. <br>(这个村庄有一种古色古香的魅力。) |
-| disaster           | `/dɪˈzæstər/`    | n. 灾难                                 | The earthquake was a major disaster. <br>(地震是一次重大灾难。) |
-| near-unprecedented | `/nɪr-ʌnˈprɛsɪˌdɛntɪd/` | adj. 前所未有的                 | The scale of the disaster was near-unprecedented. <br>(灾难的规模前所未有。) |
-| toll               | `/toʊl/`         | n. 通行费<br>v. 敲钟                     | n. The toll for the bridge is $5. <br>(过桥的通行费是5美元。)<br>v. The church bell tolled at midnight. <br>(教堂的钟在午夜敲响。) |
-| crunch             | `/krʌntʃ/`       | v. 发出嘎吱声<br>n. 紧要关头             | v. She likes to crunch ice cubes. <br>(她喜欢嚼冰块发出嘎吱嘎吱的声音。)<br>n. We're facing a budget crunch. <br>(我们面临预算紧张的关头。) |
-| crunchy            | `/ˈkrʌntʃi/`     | adj. 松脆的                             | The cereal is very crunchy. <br>(这款麦片非常松脆。) |
-| envision           | `/ɪnˈvɪʒən/`     | v. 想象                                 | She envisions a future where technology makes life easier. <br>(她想象一个技术让生活更轻松的未来。) |
-| ultimate           | `/ˈʌltəmət/`     | adj. 最终的                             | This is the ultimate solution to the problem. <br>(这是问题的最终解决方案。) |
-| ultimately         | `/ˈʌltəmətli/`   | adv. 最终；根本                          | Ultimately, the decision is yours. <br>(最终，决定权在你手中。) |
-| grate              | `/ɡreɪt/`        | v. 磨碎                                 | She grated the cheese for the pizza. <br>(她将奶酪磨碎用于披萨。) |
-| plot               | `/plɑt/`         | n. 情节；阴谋<br>v. 密谋                | n. The plot of the movie was intriguing. <br>(电影的情节很吸引人。)<br>v. They plotted to overthrow the government. <br>(他们密谋推翻政府。) |
-| ramble             | `/ˈræmbəl/`      | v. 漫步；漫谈<br>n. 漫步                 | v. He rambled through the park. <br>(他在公园里漫步。)<br>n. We enjoyed a pleasant ramble in the countryside. <br>(我们在乡间愉快地漫步。) |
-| deserve            | `/dɪˈzɜrv/`      | v. 应得                                 | She deserves a promotion for her hard work. <br>(她的努力工作应当获得晋升。) |
-| innocent           | `/ˈɪnəsənt/`     | adj. 无辜的                             | The jury found him innocent of all charges. <br>(陪审团认定他对所有指控都无罪。) |
+| 单词                 | 美式发音                    | 词性 + 汉语释义           | 示例                                                         |
+|--------------------|-------------------------|---------------------|--------------------------------------------------------------|
+| bizarre            | `/bɪˈzɑr/`              | adj. 奇异的            | His behavior was bizarre and unexpected. <br>(他的行为奇异而出人意料。) |
+| hitch              | `/hɪtʃ/`                | v. 搭便车<br>n. 故障     | v. He hitched a ride to the city. <br>(他搭便车去城市。)<br>n. There was a hitch in the plan. <br>(计划中出现了一个故障。) |
+| streamline         | `/ˈstriːmˌlaɪn/`        | v. 精简               | The company streamlined its operations. <br>(公司精简了其运营。) |
+| divine             | `/dɪˈvaɪn/`             | adj. 神圣的<br>v. 占卜   | adj. They sought divine guidance. <br>(他们寻求神圣的指导。)<br>v. He claimed to divine the future. <br>(他声称能预言未来。) |
+| intervention       | `/ˌɪntərˈvɛnʃən/`       | n. 干预               | The government’s intervention was necessary. <br>(政府的干预是必要的。) |
+| chime              | `/tʃaɪm/`               | n. 钟声<br>v. 鸣响      | n. The chime of the clock was soothing. <br>(钟的钟声令人感到安慰。)<br>v. The bells chimed at noon. <br>(钟声在中午敲响。) |
+| quaint             | `/kweɪnt/`              | adj. 古色古香的          | The village has a quaint charm. <br>(这个村庄有一种古色古香的魅力。) |
+| disaster           | `/dɪˈzæstər/`           | n. 灾难               | The earthquake was a major disaster. <br>(地震是一次重大灾难。) |
+| near-unprecedented | `/nɪr-ʌnˈprɛsɪˌdɛntɪd/` | adj. 前所未有的          | The scale of the disaster was near-unprecedented. <br>(灾难的规模前所未有。) |
+| toll               | `/toʊl/`                | n. 通行费<br>v. 敲钟     | n. The toll for the bridge is $5. <br>(过桥的通行费是5美元。)<br>v. The church bell tolled at midnight. <br>(教堂的钟在午夜敲响。) |
+| crunch             | `/krʌntʃ/`              | v. 发出嘎吱声<br>n. 紧要关头 | v. She likes to crunch ice cubes. <br>(她喜欢嚼冰块发出嘎吱嘎吱的声音。)<br>n. We're facing a budget crunch. <br>(我们面临预算紧张的关头。) |
+| crunchy            | `/ˈkrʌntʃi/`            | adj. 松脆的            | The cereal is very crunchy. <br>(这款麦片非常松脆。) |
+| envision           | `/ɪnˈvɪʒən/`            | v. 想象               | She envisions a future where technology makes life easier. <br>(她想象一个技术让生活更轻松的未来。) |
+| ultimate           | `/ˈʌltəmət/`            | adj. 最终的            | This is the ultimate solution to the problem. <br>(这是问题的最终解决方案。) |
+| ultimately         | `/ˈʌltəmətli/`          | adv. 最终；根本          | Ultimately, the decision is yours. <br>(最终，决定权在你手中。) |
+| grate              | `/ɡreɪt/`               | v. 磨碎               | She grated the cheese for the pizza. <br>(她将奶酪磨碎用于披萨。) |
+| grateful           |                         |                     ||
+| plot               | `/plɑt/`                | n. 情节；阴谋<br>v. 密谋   | n. The plot of the movie was intriguing. <br>(电影的情节很吸引人。)<br>v. They plotted to overthrow the government. <br>(他们密谋推翻政府。) |
+| ramble             | `/ˈræmbəl/`             | v. 漫步；漫谈<br>n. 漫步   | v. He rambled through the park. <br>(他在公园里漫步。)<br>n. We enjoyed a pleasant ramble in the countryside. <br>(我们在乡间愉快地漫步。) |
+| deserve            | `/dɪˈzɜrv/`             | v. 应得               | She deserves a promotion for her hard work. <br>(她的努力工作应当获得晋升。) |
+| innocent           | `/ˈɪnəsənt/`            | adj. 无辜的            | The jury found him innocent of all charges. <br>(陪审团认定他对所有指控都无罪。) |
 
 
 
@@ -1066,28 +1067,29 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词          | 美式发音         | 词性 + 汉语释义                         | 示例                                                         |
-|---------------|------------------|----------------------------------------|--------------------------------------------------------------|
-| vague         | `/veɪɡ/`         | adj. 模糊的；含糊的                     | His answer was vague and unclear. <br>(他的回答模糊不清。)    |
-| numb          | `/nʌm/`          | adj. 麻木的<br>v. 使麻木                 | adj. His fingers were numb from the cold. <br>(他的手指因寒冷而麻木。)<br>v. The cold numbed his fingers. <br>(寒冷使他的手指麻木。) |
-| blown         | `/bloʊn/`        | adj. 吹制的；爆炸的                     | The blown fuse caused a power outage. <br>(熔断器断了导致停电。) |
-| spasm         | `/ˈspæzəm/`      | n. 痉挛<br>v. 痉挛                      | n. He had a muscle spasm in his leg. <br>(他的腿部肌肉痉挛。)<br>v. His leg spasm suddenly. <br>(他的腿突然痉挛。) |
-| skull         | `/skʌl/`         | n. 头骨                                | The skull is an important part of the human skeleton. <br>(头骨是人体骨骼的重要部分。) |
-| cocky         | `/ˈkɑki/`        | adj. 自大的；骄傲的                     | His cocky attitude annoyed everyone. <br>(他自大的态度让每个人都很烦。) |
-| butthead      | `/ˈbʌtˌhɛd/`     | n. 笨蛋；傻瓜                           | Don't be such a butthead! <br>(别这么傻了！) |
-| goner         | `/ˈɡɔnər/`       | n. 完蛋的人；无可救药的人               | After the accident, we thought he was a goner. <br>(事故后，我们以为他完蛋了。) |
-| conceal       | `/kənˈsil/`      | v. 隐藏；隐瞒                           | She tried to conceal her disappointment. <br>(她试图隐藏她的失望。) |
-| rampage       | `/ˈræmˌpeɪdʒ/`   | n. 狂暴行为<br>v. 横冲直撞              | n. The elephant went on a rampage. <br>(大象发狂了。)<br>v. The rioters rampaged through the city. <br>(暴徒们在城市里横冲直撞。) |
-| implement     | `/ˈɪmpləmənt/`   | v. 实施；执行<br>n. 工具                 | v. The company implemented a new policy. <br>(公司实施了一项新政策。)<br>n. The farmer used a simple implement. <br>(农民使用了一个简单的工具。) |
-| curfew        | `/ˈkɜrfju/`      | n. 宵禁；戒严                            | The city imposed a curfew after the riots. <br>(暴乱后，城市实行了宵禁。) |
-| distinguish   | `/dɪˈstɪŋɡwɪʃ/`  | v. 区分；辨别                            | He can distinguish between different types of birds. <br>(他能区分不同种类的鸟。) |
-| psychiatric   | `/ˌsaɪkiˈætrɪk/` | adj. 精神病的；精神科的                  | She works in a psychiatric hospital. <br>(她在一家精神病医院工作。) |
-| dentist       | `/ˈdɛntɪst/`     | n. 牙医                                | She has an appointment with the dentist. <br>(她预约了看牙医。) |
-| essential     | `/ɪˈsɛnʃəl/`     | adj. 必要的；基本的<br>n. 必需品         | adj. Water is essential for life. <br>(水是生命必需的。)<br>n. Don't forget to pack the essentials. <br>(别忘了带必需品。) |
-| ransom        | `/ˈrænsəm/`      | n. 赎金<br>v. 赎回                      | n. The kidnappers demanded a ransom. <br>(绑架者要求赎金。)<br>v. They managed to ransom the hostages. <br>(他们设法赎回了人质。) |
-| gnarly        | `/ˈnɑrli/`       | adj. 扭曲的；极好的                     | The tree had a gnarly trunk. <br>(那棵树有一个扭曲的树干。)<br>The waves were gnarly today. <br>(今天的浪很棒。) |
-| reassure      | `/ˌriəˈʃʊr/`     | v. 使安心；使消除疑虑                    | She reassured him that everything would be fine. <br>(她让他安心，一切都会好的。) |
-| armpit        | `/ˈɑrmˌpɪt/`     | n. 腋窝                                | He applied deodorant to his armpits. <br>(他在腋窝处用了除臭剂。) |
+| 单词             | 美式发音             | 词性 + 汉语释义                         | 示例                                                         |
+|----------------|------------------|----------------------------------------|--------------------------------------------------------------|
+| vague          | `/veɪɡ/`         | adj. 模糊的；含糊的                     | His answer was vague and unclear. <br>(他的回答模糊不清。)    |
+| numb           | `/nʌm/`          | adj. 麻木的<br>v. 使麻木                 | adj. His fingers were numb from the cold. <br>(他的手指因寒冷而麻木。)<br>v. The cold numbed his fingers. <br>(寒冷使他的手指麻木。) |
+| blown          | `/bloʊn/`        | adj. 吹制的；爆炸的                     | The blown fuse caused a power outage. <br>(熔断器断了导致停电。) |
+| spasm          | `/ˈspæzəm/`      | n. 痉挛<br>v. 痉挛                      | n. He had a muscle spasm in his leg. <br>(他的腿部肌肉痉挛。)<br>v. His leg spasm suddenly. <br>(他的腿突然痉挛。) |
+| skull          | `/skʌl/`         | n. 头骨                                | The skull is an important part of the human skeleton. <br>(头骨是人体骨骼的重要部分。) |
+| cocky          | `/ˈkɑki/`        | adj. 自大的；骄傲的                     | His cocky attitude annoyed everyone. <br>(他自大的态度让每个人都很烦。) |
+| butthead       | `/ˈbʌtˌhɛd/`     | n. 笨蛋；傻瓜                           | Don't be such a butthead! <br>(别这么傻了！) |
+| goner          | `/ˈɡɔnər/`       | n. 完蛋的人；无可救药的人               | After the accident, we thought he was a goner. <br>(事故后，我们以为他完蛋了。) |
+| conceal        | `/kənˈsil/`      | v. 隐藏；隐瞒                           | She tried to conceal her disappointment. <br>(她试图隐藏她的失望。) |
+| rampage        | `/ˈræmˌpeɪdʒ/`   | n. 狂暴行为<br>v. 横冲直撞              | n. The elephant went on a rampage. <br>(大象发狂了。)<br>v. The rioters rampaged through the city. <br>(暴徒们在城市里横冲直撞。) |
+| implement      | `/ˈɪmpləmənt/`   | v. 实施；执行<br>n. 工具                 | v. The company implemented a new policy. <br>(公司实施了一项新政策。)<br>n. The farmer used a simple implement. <br>(农民使用了一个简单的工具。) |
+| implementation |                  |                  | |
+| curfew         | `/ˈkɜrfju/`      | n. 宵禁；戒严                            | The city imposed a curfew after the riots. <br>(暴乱后，城市实行了宵禁。) |
+| distinguish    | `/dɪˈstɪŋɡwɪʃ/`  | v. 区分；辨别                            | He can distinguish between different types of birds. <br>(他能区分不同种类的鸟。) |
+| psychiatric    | `/ˌsaɪkiˈætrɪk/` | adj. 精神病的；精神科的                  | She works in a psychiatric hospital. <br>(她在一家精神病医院工作。) |
+| dentist        | `/ˈdɛntɪst/`     | n. 牙医                                | She has an appointment with the dentist. <br>(她预约了看牙医。) |
+| essential      | `/ɪˈsɛnʃəl/`     | adj. 必要的；基本的<br>n. 必需品         | adj. Water is essential for life. <br>(水是生命必需的。)<br>n. Don't forget to pack the essentials. <br>(别忘了带必需品。) |
+| ransom         | `/ˈrænsəm/`      | n. 赎金<br>v. 赎回                      | n. The kidnappers demanded a ransom. <br>(绑架者要求赎金。)<br>v. They managed to ransom the hostages. <br>(他们设法赎回了人质。) |
+| gnarly         | `/ˈnɑrli/`       | adj. 扭曲的；极好的                     | The tree had a gnarly trunk. <br>(那棵树有一个扭曲的树干。)<br>The waves were gnarly today. <br>(今天的浪很棒。) |
+| reassure       | `/ˌriəˈʃʊr/`     | v. 使安心；使消除疑虑                    | She reassured him that everything would be fine. <br>(她让他安心，一切都会好的。) |
+| armpit         | `/ˈɑrmˌpɪt/`     | n. 腋窝                                | He applied deodorant to his armpits. <br>(他在腋窝处用了除臭剂。) |
 
 
 
