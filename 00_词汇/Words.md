@@ -5,6 +5,223 @@
 ## ▲ 待编辑生词
 
 
+### Added: 2024.07.02
+
+#### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词            | 美式发音                  | 词性 + 汉语释义                       |
+|-----------------|---------------------------|---------------------------------------|
+| generalization  | `/ˌdʒɛnərəlaɪˈzeɪʃən/`   | n. 概括；普遍化                       |
+| summarize       | `/ˈsʌməˌraɪz/`           | v. 总结；概述                         |
+| summarization   | `/ˌsʌməraɪˈzeɪʃən/`      | n. 总结；概述                         |
+| glide           | `/ɡlaɪd/`                | v. 滑行；滑翔<br>n. 滑行；滑翔          |
+| andante         | `/ɑːnˈdɑːnteɪ/`          | n. 行板（音乐术语）<br>adj. 行板的      |
+| cantabile       | `/kænˈtɑːbɪleɪ/`         | adj. 如歌的（音乐术语）               |
+| processional    | `/prəˈsɛʃənl/`           | n. 列队进行<br>adj. 行进的              |
+| prevail         | `/prɪˈveɪl/`             | v. 流行；战胜                         |
+| adagio          | `/əˈdɑːdʒioʊ/`           | n. 柔板（音乐术语）<br>adj. 柔板的      |
+| perplexity      | `/pərˈplɛksɪti/`         | n. 困惑；混乱                         |
+| cinematic       | `/ˌsɪnəˈmætɪk/`          | adj. 电影的                           |
+| slip            | `/slɪp/`                 | v. 滑倒；滑落<br>n. 滑倒；小错误        |
+| slurry          | `/ˈslɜːri/`              | n. 浆料；泥浆                         |
+| hereabouts      | `/ˌhɪərəˈbaʊts/`         | adv. 在附近                           |
+| bristle         | `/ˈbrɪsəl/`              | n. 刚毛<br>v. 竖起；发怒               |
+| ward            | `/wɔrd/`                 | n. 病房；监护<br>v. 守护；避开          |
+| pastor          | `/ˈpæstər/`              | n. 牧师                              |
+| warfare         | `/ˈwɔrˌfɛr/`             | n. 战争；战斗                         |
+
+
+#### Second Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词         | 美式发音                    | 词性 + 汉语释义                          |
+|--------------|-----------------------------|------------------------------------------|
+| passer-by    | `/ˈpæsərˌbaɪ/`              | n. 过路人                                |
+| hanger-on    | `/ˌhæŋərˈɔn/`               | n. 逢迎者；食客                          |
+| chalk        | `/ʧɔk/`                     | n. 粉笔<br>v. 用粉笔写                   |
+| chalkboard   | `/ˈʧɔkˌbɔrd/`               | n. 黑板                                  |
+| check-in     | `/ˈʧɛkˌɪn/`                 | n. 登记入住                              |
+| higher-up    | `/ˌhaɪərˈʌp/`               | n. 上级；高层                            |
+| grown-up     | `/ˌɡroʊnˈʌp/`               | n. 成人<br>adj. 成年的                   |
+| go-between   | `/ˈɡoʊbəˌtwin/`             | n. 中间人；调解人                        |
+| sit-in       | `/ˈsɪtˌɪn/`                 | n. 静坐抗议                              |
+| walk-out     | `/ˈwɔkˌaʊt/`                | n. 罢工；退席抗议                        |
+| commerce     | `/ˈkɑmərs/`                 | n. 商业；贸易                            |
+| facilitate   | `/fəˈsɪləˌteɪt/`            | v. 促进；帮助                            |
+| wander       | `/ˈwɑndər/`                 | v. 漫游；闲逛<br>n. 漫游                 |
+| stride       | `/straɪd/`                  | v. 大步走；跨过<br>n. 大步；步伐          |
+| pace         | `/peɪs/`                    | v. 踱步；控制速度<br>n. 步伐；速度        |
+| wade         | `/weɪd/`                    | v. 涉水；艰难前行<br>n. 涉水              |
+| councillor   | `/ˈkaʊnsələr/`              | n. 议员；顾问                            |
+| atone        | `/əˈtoʊn/`                  | v. 赎罪；弥补                            |
+| atonement    | `/əˈtoʊnmənt/`              | n. 赎罪；弥补                            |
+| daunt        | `/dɔnt/`                    | v. 使气馁；使畏缩                        |
+| roller       | `/ˈroʊlər/`                 | n. 滚筒；卷轴                            |
+
+
+#### Third Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词        | 美式发音                 | 词性 + 汉语释义                       |
+|-------------|--------------------------|---------------------------------------|
+| comedian    | `/kəˈmidiən/`            | n. 喜剧演员                           |
+| episode     | `/ˈɛpɪˌsoʊd/`            | n. 插曲；一集                         |
+| curious     | `/ˈkjʊriəs/`             | adj. 好奇的                           |
+| voyage      | `/ˈvɔɪɪʤ/`               | n. 航行；旅程<br>v. 航行               |
+| cab         | `/kæb/`                  | n. 出租车；驾驶室                     |
+| flat        | `/flæt/`                 | adj. 平坦的；扁平的<br>n. 公寓         |
+| gear        | `/ɡɪr/`                  | n. 齿轮；设备<br>v. 使适应；装备       |
+| armor       | `/ˈɑrmər/`               | n. 盔甲；装甲                          |
+| luxuriate   | `/ləɡˈzjʊrieɪt/`         | v. 奢侈享受；纵情享乐                  |
+| devour      | `/dɪˈvaʊr/`              | v. 吞食；狼吞虎咽                     |
+| eager       | `/ˈiɡər/`                | adj. 渴望的；热切的                    |
+| chemistry   | `/ˈkɛmɪstri/`            | n. 化学；化学反应                      |
+| palpable    | `/ˈpælpəbl/`             | adj. 可感知的；明显的                  |
+| mobile      | `/ˈmoʊbəl/`              | adj. 可移动的；流动的                  |
+| tube        | `/tub/`                  | n. 管子；地铁                          |
+| sharpen     | `/ˈʃɑrpən/`              | v. 削尖；使敏锐                        |
+| audit       | `/ˈɔdɪt/`                | n. 审计；旁听<br>v. 审计；旁听          |
+| bolt        | `/boʊlt/`                | n. 螺栓；闪电<br>v. 逃跑；拴住          |
+| preview     | `/ˈpriˌvju/`             | n. 预览；预告<br>v. 预览；预习          |
+| completion  | `/kəmˈpliʃən/`           | n. 完成；结束                          |
+
+
+#### Fourth Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词        | 美式发音                 | 词性 + 汉语释义                       |
+|-------------|--------------------------|---------------------------------------|
+| comedian    | `/kəˈmidiən/`            | n. 喜剧演员                           |
+| episode     | `/ˈɛpɪˌsoʊd/`            | n. 插曲；一集                         |
+| curious     | `/ˈkjʊriəs/`             | adj. 好奇的                           |
+| voyage      | `/ˈvɔɪɪʤ/`               | n. 航行；旅程<br>v. 航行               |
+| cab         | `/kæb/`                  | n. 出租车；驾驶室                     |
+| flat        | `/flæt/`                 | adj. 平坦的；扁平的<br>n. 公寓         |
+| gear        | `/ɡɪr/`                  | n. 齿轮；设备<br>v. 使适应；装备       |
+| armor       | `/ˈɑrmər/`               | n. 盔甲；装甲                          |
+| luxuriate   | `/ləɡˈzjʊrieɪt/`         | v. 奢侈享受；纵情享乐                  |
+| devour      | `/dɪˈvaʊr/`              | v. 吞食；狼吞虎咽                     |
+| eager       | `/ˈiɡər/`                | adj. 渴望的；热切的                    |
+| chemistry   | `/ˈkɛmɪstri/`            | n. 化学；化学反应                      |
+| palpable    | `/ˈpælpəbl/`             | adj. 可感知的；明显的                  |
+| mobile      | `/ˈmoʊbəl/`              | adj. 可移动的；流动的                  |
+| tube        | `/tub/`                  | n. 管子；地铁                          |
+| sharpen     | `/ˈʃɑrpən/`              | v. 削尖；使敏锐                        |
+| audit       | `/ˈɔdɪt/`                | n. 审计；旁听<br>v. 审计；旁听          |
+| bolt        | `/boʊlt/`                | n. 螺栓；闪电<br>v. 逃跑；拴住          |
+| preview     | `/ˈpriˌvju/`             | n. 预览；预告<br>v. 预览；预习          |
+| completion  | `/kəmˈpliʃən/`           | n. 完成；结束                          |
+
+
+#### Fifth Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词        | 美式发音                | 词性 + 汉语释义                        |
+|-------------|-------------------------|----------------------------------------|
+| boat        | `/boʊt/`                | n. 船<br>v. 划船                        |
+| rise        | `/raɪz/`                | v. 上升；起床<br>n. 上升；增加           |
+| rises       | `/ˈraɪzɪz/`             | n. 升起；增长（复数）                   |
+| immortality | `/ˌɪmɔrˈtæləti/`        | n. 不朽；永生                           |
+| reduction   | `/rɪˈdʌkʃən/`           | n. 减少；缩小                           |
+| employment  | `/ɛmˈplɔɪmənt/`         | n. 就业；工作                           |
+| cloud       | `/klaʊd/`               | n. 云；阴影<br>v. 使模糊；遮蔽            |
+| flare       | `/flɛr/`                | v. 闪耀；燃烧<br>n. 闪光；燃烧            |
+| dwindle     | `/ˈdwɪndəl/`            | v. 逐渐减少；变小                        |
+| lakebed     | `/ˈleɪkbɛd/`            | n. 湖底                                |
+| modification| `/ˌmɑdəfəˈkeɪʃən/`      | n. 修改；改变                           |
+| accurate    | `/ˈækjərət/`            | adj. 准确的；精确的                      |
+| leaf        | `/lif/`                 | n. 叶子<br>v. 翻页                       |
+| gigabyte    | `/ˈɡɪɡəˌbaɪt/`          | n. 千兆字节                             |
+| forum       | `/ˈfɔrəm/`              | n. 论坛；讨论会                         |
+| curtain     | `/ˈkɜrtən/`             | n. 窗帘；幕布                           |
+| divorce     | `/dɪˈvɔrs/`             | n. 离婚<br>v. 离婚                       |
+| gradual     | `/ˈɡrædʒuəl/`           | adj. 逐渐的；渐进的                      |
+| block       | `/blɑk/`                | n. 块；街区<br>v. 阻止；封锁              |
+| persuade    | `/pərˈsweɪd/`           | v. 说服；劝说                           |
+
+
+#### Sixth Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词        | 美式发音                | 词性 + 汉语释义                        |
+|-------------|-------------------------|----------------------------------------|
+| respiratory | `/ˈrɛspərətɔri/`        | adj. 呼吸的                             |
+| illness     | `/ˈɪlnəs/`              | n. 疾病                                |
+| molecule    | `/ˈmɑlɪˌkjul/`          | n. 分子                                |
+| neutralize  | `/ˈnutrəˌlaɪz/`         | v. 中和；使无效                         |
+| radical     | `/ˈrædɪkəl/`            | adj. 激进的；根本的<br>n. 激进分子       |
+| oxidative   | `/ˈɑksɪˌdeɪtɪv/`        | adj. 氧化的                             |
+| cholesterol | `/kəˈlɛstərˌɔl/`        | n. 胆固醇                               |
+| technology  | `/tɛkˈnɑlədʒi/`         | n. 技术；工艺                           |
+| proofread   | `/ˈprufˌrid/`           | v. 校对；校正                           |
+| gerund      | `/ˈdʒɛrənd/`            | n. 动名词                               |
+| sculpture   | `/ˈskʌlptʃər/`          | n. 雕塑<br>v. 雕刻                       |
+| throat      | `/θroʊt/`               | n. 喉咙                                |
+| economic    | `/ˌikəˈnɑmɪk/`          | adj. 经济的                             |
+| hubby       | `/ˈhʌbi/`               | n. 丈夫（口语）                         |
+| flour       | `/ˈflaʊər/`             | n. 面粉<br>v. 撒上粉                    |
+| pasta       | `/ˈpɑstə/`              | n. 意大利面                             |
+| roll        | `/roʊl/`                | v. 滚动；卷起<br>n. 卷；滚动             |
+| lecture     | `/ˈlɛkʧər/`             | n. 讲座；训斥<br>v. 演讲；训斥           |
+| qualify     | `/ˈkwɑləˌfaɪ/`          | v. 使具有资格；限定                      |
+| camel       | `/ˈkæməl/`              | n. 骆驼                                |
+| contest     | `/ˈkɑnˌtɛst/` (n.)<br>`/kənˈtɛst/` (v.) | n. 比赛；竞赛<br>v. 争辩；质疑           |
+| contact     | `/ˈkɑnˌtækt/`           | n. 接触；联系<br>v. 接触；联系           |
+| context     | `/ˈkɑnˌtɛkst/`          | n. 上下文；背景                         |
+| contract    | `/ˈkɑnˌtrækt/` (n.)<br>`/kənˈtrækt/` (v.) | n. 合同；契约<br>v. 收缩；签合同          |
+
+
+#### Seventh Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词        | 美式发音             | 词性 + 汉语释义                      |
+|-------------|--------------------|----------------------------------|
+| scourge     | `/skɜrdʒ/`         | n. 灾祸；鞭子<br>v. 折磨；鞭打           |
+| charcoal    | `/ˈʧɑrˌkoʊl/`      | n. 木炭；炭笔                       |
+| rogue       | `/roʊɡ/`           | n. 流氓；无赖<br>adj. 离群的           |
+| mortal      | `/ˈmɔrtəl/`        | adj. 致命的；终有一死的<br>n. 凡人        |
+| rightful    | `/ˈraɪtfəl/`       | adj. 合法的；正当的                   |
+| payback     | `/ˈpeɪˌbæk/`       | n. 回报；报复                       |
+| skeptical   | `/ˈskɛptɪkəl/`     | adj. 怀疑的                       |
+| peek        | `/pik/`            | v. 偷看；窥视<br>n. 偷看              |
+| teardown    | `/ˈtɛrˌdaʊn/`      | n. 拆卸；拆除                       |
+| hijinks     | `/ˈhaɪˌdʒɪŋks/`    | n. 喧闹的嬉戏                       |
+| ravel       | `/ˈrævəl/`         | v. 解开；使复杂<br>n. 纠结             |
+| over time   | `/ˈoʊvər taɪm/`    | phr. 随着时间的推移                   |
+| overtime    | `/ˈoʊvərˌtaɪm/`    | n. 加班时间<br>adv. 超时工作           |
+| gradual     | `/ˈɡrædʒuəl/`      | adj. 逐渐的；渐进的                   |
+| generalize  | `/ˈdʒɛnərəˌlaɪz/`  | v. 概括；普及                       |
+| liberal     | `/ˈlɪbərəl/`       | adj. 自由的；慷慨的<br>n. 自由主义者       |
+| formula     | `/ˈfɔrmjələ/`      | n. 公式；配方                       |
+| shuttle     | `/ˈʃʌtəl/`         | n. 班车；梭<br>v. 穿梭往返             |
+| grade       | `/ɡreɪd/`          | n. 年级；等级<br>v. 分级；评分           |
+| illuminate  | `/ɪˈlumɪˌneɪt/`    | v. 照亮；启发                       |
+
+
+
+
 
 ### Added: 2024.06.28
 
@@ -758,7 +975,7 @@ Translator: ChatGPT 4o
 | picture | `/ˈpɪktʃər/` | n. 图片；照片<br>v. 描绘      | n. She took a picture of the sunset. (她拍了一张日落的照片。)<br>v. He pictured a perfect holiday in his mind. (他在脑海中描绘了一次完美的假期。) |
 | place   | `/pleɪs/`    | n. 地方；位置<br>v. 放置      | n. This is a nice place to relax. (这是一个放松的好地方。)<br>v. She placed the book on the table. (她把书放在桌子上。) |
 | play    | `/pleɪ/`     | v. 玩；演奏<br>n. 游戏；剧本    | v. The children are playing in the park. (孩子们在公园里玩耍。)<br>n. They went to see a play at the theater. (他们去剧院看了一场戏。) |
-| point   | `/pɔɪnt/`    | n. 观点；地点<br>v. 指向      | n. You made a good point during the meeting. (你在会议上提出了一个好观点。)<br>v. She pointed at the map. (她指着地图。) |
+| point   | `/pɔɪnt/`    | n. 点；观点；重点；地点；分数<br>v. 指向；指出；表明 | n. The map shows every point of interest in the city. <br>(地图显示了城市中每个感兴趣的点。)<br>n. She expressed her point clearly during the meeting. <br>(她在会议上清楚地表达了她的观点。)<br>n. The main point of the lecture was to highlight the importance of research. <br>(讲座的重点是强调研究的重要性。)<br>n. This is the exact point where the two rivers meet. <br>(这就是两条河流交汇的地点。)<br>n. He scored the winning point in the game. <br>(他在比赛中得到了制胜分数。)<br>v. She pointed to the sky. <br>(她指向天空。)<br>v. He pointed out the mistakes in the report. <br>(他指出了报告中的错误。)<br>v. The data points to a significant increase in sales. <br>(数据表明销售额显著增加。) |
 | put     | `/pʊt/`      | v. 放置                  | He put the keys on the table. (他把钥匙放在桌子上。) |
 | read    | `/riːd/`     | v. 阅读<br>n. 阅读         | v. She likes to read books before bed. (她喜欢睡前读书。)<br>n. This book is a good read. (这本书很值得一读。) |
 | right   | `/raɪt/`     | adj. 正确的；右边的<br>adv. 直接地；恰好地<br>n. 权利；右边<br>v. 纠正 | adj. You got the right answer. (你答对了。)<br>adj. You are absolutely right. (你完全正确。)<br/>adj. Turn right at the next corner. (在下一个路口向右转。)<br>adv. He came right after you left. (你离开后他马上就来了。)<br>adv. The store is right here. (商店就在这里。)<br>n. Everyone has the right to speak freely. (每个人都有自由发言的权利。)<br>n. Look to your right. (向右看。)<br>v. He tried to right his mistakes. (他试图纠正他的错误。) |
@@ -3518,7 +3735,7 @@ Translator: ChatGPT 4
     - 作为动词，“decorate”意味着**`装饰`**或**`装修`**，指通过添加装饰物或以某种方式改变空间的外观来美化一个房间、建筑或物体。
 
 
-    
+​    
 
 ### Added: 2024.03.13
 
@@ -3688,7 +3905,7 @@ Translator: ChatGPT 4
 > 虽然两者可以互换使用，但 "decoration" 更多用于室内装饰或节日装饰，而 "adornment" 更侧重于个人装饰和佩戴的物品。
 
 
-  
+
 
 ### Added: 2024.03.04
 
