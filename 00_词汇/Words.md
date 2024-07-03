@@ -5,6 +5,72 @@
 ## ▲ 待编辑生词
 
 
+### Added: 2024.07.03
+
+#### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词            | 美式发音                  | 词性 + 汉语释义                        |
+|-----------------|---------------------------|----------------------------------------|
+| cardiopulmonary | `/ˌkɑrdioʊˈpʌlmənɛri/`    | adj. 心肺的                             |
+| resuscitate     | `/rɪˈsʌsɪˌteɪt/`          | v. 使复苏；使恢复                       |
+| resuscitation   | `/rɪˌsʌsɪˈteɪʃən/`        | n. 复苏；恢复                           |
+| simultaneous    | `/ˌsaɪməlˈteɪniəs/`       | adj. 同时的                             |
+| spirit          | `/ˈspɪrɪt/`               | n. 精神；灵魂                           |
+| spiritual       | `/ˈspɪrɪtʃuəl/`           | adj. 精神的；灵魂的                     |
+| consecutive     | `/kənˈsɛkjətɪv/`          | adj. 连续的                             |
+| clinch          | `/klɪnʧ/`                 | v. 确定；解决；扭住<br>n. 拥吻；钉牢     |
+| fleet           | `/flit/`                  | n. 船队；车队<br>adj. 快速的            |
+| orchard         | `/ˈɔrʧərd/`               | n. 果园                               |
+| scent           | `/sɛnt/`                  | n. 气味；香味<br>v. 嗅到；察觉          |
+| can             | `/kæn/`                   | v. 罐装；解雇<br>n. 罐头；容器           |
+| canned          | `/kænd/`                  | adj. 罐装的；录音的                     |
+| draw            | `/drɔ/`                   | v. 拉；画；吸引<br>n. 平局；抽签         |
+| fragrance       | `/ˈfreɪɡrəns/`            | n. 香味；香水                           |
+| apricot         | `/ˈeɪprɪˌkɑt/`            | n. 杏子                                |
+| delight         | `/dɪˈlaɪt/`               | n. 高兴；愉快<br>v. 使高兴；使愉快       |
+| delightful      | `/dɪˈlaɪtfəl/`            | adj. 令人愉快的                         |
+| aroma           | `/əˈroʊmə/`               | n. 芳香                                |
+| guide           | `/ɡaɪd/`                  | n. 指南；导游<br>v. 指导；引导           |
+| silence         | `/ˈsaɪləns/`              | n. 安静；沉默<br>v. 使安静；使沉默       |
+| tow             | `/toʊ/`                   | v. 拖；拉<br>n. 拖；拉                  |
+| row             | `/roʊ/` (n.)<br>`/raʊ/` (v.) | n. 一行；一排；划船<br>v. 划船；争吵 |
+
+
+#### Second Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词            | 美式发音                  | 词性 + 汉语释义                        |
+|-----------------|---------------------------|----------------------------------------|
+| transit         | `/ˈtrænzɪt/`             | n. 运输；通行<br>v. 通过；运送          |
+| omnipotent      | `/ɑmˈnɪpətənt/`          | adj. 全能的；无所不能的                 |
+| outright        | `/ˈaʊtˌraɪt/`            | adv. 彻底地；完全地<br>adj. 彻底的；明确的|
+| setback         | `/ˈsɛtˌbæk/`             | n. 挫折；倒退                           |
+| resign          | `/rɪˈzaɪn/`              | v. 辞职；放弃                           |
+| fright          | `/fraɪt/`                | n. 惊吓；恐怖                           |
+| frighten        | `/ˈfraɪtn/`              | v. 使惊吓；吓唬                         |
+| variable        | `/ˈvɛriəbl/`             | adj. 可变的；变量的<br>n. 变量           |
+| optimal         | `/ˈɑptəməl/`             | adj. 最佳的                             |
+| wrap            | `/ræp/`                  | v. 包装；裹<br>n. 包裹物                 |
+| mercurial       | `/mərˈkjʊriəl/`          | adj. 多变的；水银的                     |
+| collaborate     | `/kəˈlæbəˌreɪt/`         | v. 合作；协作                           |
+| eliminate       | `/ɪˈlɪməˌneɪt/`          | v. 消除；淘汰                           |
+| definition      | `/ˌdɛfəˈnɪʃən/`          | n. 定义；清晰度                         |
+| vaccine         | `/vækˈsin/`              | n. 疫苗                                 |
+| perforce        | `/pərˈfɔrs/`             | adv. 必然；必定                          |
+| oneness         | `/ˈwʌnnɪs/`              | n. 统一；单一                           |
+| selection       | `/səˈlɛkʃən/`            | n. 选择；精选品                         |
+
+
+
+
+
 ### Added: 2024.07.02
 
 #### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
@@ -1989,7 +2055,6 @@ Translator: ChatGPT 4
 | quality       | `/ˈkwɒl.ɪ.ti/     | n. 质量；品质               | The quality of this product is outstanding. <br>(这个产品的质量非常优秀。) |
 | dumb          | `/dʌm/            | adj. 哑的；愚蠢的           | adj. He pretended to be dumb to avoid answering questions. <br>(他假装哑巴以避免回答问题。) |
 | dumbest       | `/ˈdʌm.ɪst/       | adj. 最愚蠢的               | That was the dumbest mistake I've ever made. <br>(那是我犯过的最愚蠢的错误。) |
-| row           | `/roʊ/            | n. 行；争吵<br>v. 划船       | n. They had a row over finances. <br>(他们因财务问题发生争吵。)<br>v. He rows every morning. <br>(他每天早上划船。) |
 | glance        | `/ɡlæns/          | v. 一瞥；扫视               | She took a quick glance at her watch. <br>(她快速看了一眼她的手表。) |
 | redeem        | `/rɪˈdiːm/        | v. 赎回；补偿               | He redeemed his coupon at the store. <br>(他在商店兑换了优惠券。) |
 | membership    | `/ˈmɛm.bər.ʃɪp/   | n. 会员资格                 | She has a membership at the local gym. <br>(她是当地健身房的会员。) |
