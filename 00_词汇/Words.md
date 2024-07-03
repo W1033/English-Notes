@@ -2258,6 +2258,7 @@ Translator: ChatGPT 4
 |---------------|------------------------|-----------------------|  ------  |
 | captive       | `/ˈkæptɪv/            | adj. 被俘的；n. 俘虏    | adj. The captive animals were released back into the wild.<br>(被俘的动物被释放回野外。)<br>n. The captives were freed after negotiations.<br>(经过谈判，俘虏被释放。) |
 | definite      | `/ˈdefənət/`           | adj. 明确的；肯定的      | That's a definite improvement.<br>(那是一个明确的进步。)<br /> It’s impossible for me to give you a definite answer. <br />(我不可能给你明确的答复。) <br />We need to record sufficient`/sə'fɪʃ(ə)nt/` data to enable definite conclusions to be reached. <br />(我们需要记录足够的数据﹐才能得出明确的结论。)<br />Fix a definite date for the delivery of your computer. <br />(请为你的电脑定个确切的交货日期。) |
+| definition    |           |              |  |
 | marathon      | `/ˈmærəˌθɑn/          | n. 马拉松              | He trained for months to run the marathon.<br>(他训练了几个月来跑马拉松。) |
 | deposit       | `/dɪˈpɑzɪt/           | n. 存款；沉积物；v. 存放  | n. He put a deposit on the new car.<br>(他为新车支付了定金。)<br>v. She deposited her paycheck in the bank.<br>(她把工资存入银行。) |
 | answer        | `/ˈænsər/             | n. 答案；v. 回答        | n. I don't know the answer to your question.<br>(我不知道你问题的答案。)<br>v. Please answer the door.<br>(请回答门铃。) |
@@ -3471,6 +3472,35 @@ Translator: ChatGPT 4
 | refer        | `/rɪˈfɜr/`         | v. 提到；参考      | He referred to his notes during the presentation. (他在演讲期间参考了他的笔记。) |
 | referee      | `/ˌrefəˈriː/`      | n. 裁判         | The referee made a controversial decision during the match. (比赛中裁判做出了有争议的决定。) |
 | renew        | `/rɪˈnjuː/`        | v. 续期；更新      | It's time to renew your passport. (是时候更新你的护照了。)   |
+
+
+| 单词         | 美式发音                | 词性 + 汉语释义                      |
+|--------------|-------------------------|--------------------------------------|
+| negotiation  | `/nɪˌɡoʊʃiˈeɪʃən/`     | n. 谈判；协商                        |
+| legend       | `/ˈlɛdʒənd/`            | n. 传奇；图例                        |
+| disturb      | `/dɪˈstɜːrb/`            | v. 打扰；使不安                      |
+| infringement | `/ɪnˈfrɪndʒmənt/`       | n. 侵犯；违反                        |
+| infringe     | `/ɪnˈfrɪndʒ/`           | v. 侵犯；违反                        |
+| film         | `/fɪlm/`                | n. 电影；胶片；薄膜<br>v. 拍摄电影      |
+| youth        | `/juːθ/`                 | n. 青年；青春                        |
+| even         | `/ˈiːvən/`               | adj. 平坦的；均匀的；偶数的<br>adv. 甚至；更  |
+| knob         | `/nɑːb/`                 | n. (门、抽屉的)球形把手；旋钮           |
+| spectacular  | `/spɛkˈtækjələr/`       | adj. 壮观的<br>n. 壮观的场面          |
+| fine         | `/faɪn/`                | adj. 精细的；好的；晴朗的<br>n. 罚款<br>v. 罚款 |
+| shot         | `/ʃɑːt/`                 | n. 射击；拍摄                        |
+| mythical     | `/ˈmɪθɪkəl/`            | adj. 神话的；虚构的                  |
+| reasonable   | `/ˈrizənəbəl/`          | adj. 合理的；适度的                  |
+| spoon        | `/spun/`                | n. 勺子<br>v. 用勺舀                 |
+| bucket       | `/ˈbʌkɪt/`              | n. 桶；大量                          |
+| structure    | `/ˈstrʌkʧər/`           | n. 结构；建筑物<br>v. 组织；构造       |
+| refer        | `/rɪˈfɜr/`              | v. 提到；参考                        |
+| referee      | `/ˌrɛfəˈriː/`           | n. 裁判<br>v. 担任裁判               |
+| renew        | `/rɪˈnuː/`              | v. 更新；恢复                        |
+
+
+
+
+
 
 
 
