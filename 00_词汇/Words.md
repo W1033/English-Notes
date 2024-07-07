@@ -5,6 +5,79 @@
 ## ▲ 待编辑生词
 
 
+### Added: 2024.07.06
+
+#### First Table - 已校对 - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+好的，我会为每个单词的每个汉语释义添加对应的例句：
+
+| 单词           | 美式发音              | 词性 + 汉语释义                  | 示例 |
+|--------------|-------------------|----------------------------|---|
+| loom         | `/lum/`           | v. 隐现；迫近<br>n. 织布机         | v. A storm was looming on the horizon. <br>(地平线上隐现出一场暴风雨。)<br>v. The deadline looms closer with each passing day. <br>(随着每一天的过去，截止日期越来越近。)<br>n. She worked on the loom for hours. <br>(她在织布机上工作了好几个小时。) |
+| founder      | `/ˈfaʊndər/`      | n. 创始人<br>v. 失败；沉没         | n. Steve Jobs was the founder of Apple Inc. <br>(史蒂夫·乔布斯是苹果公司的创始人。)<br>v. The project foundered due to lack of funds. <br>(项目因资金不足而失败。)<br>v. The ship foundered in the storm. <br>(那艘船在暴风雨中沉没了。) |
+| fall         | `/fɔl/`           | v. 落下；倒下<br>n. 秋天；下降       | v. The leaves fall from the trees in autumn. <br>(秋天树叶从树上落下。)<br>v. He slipped and fell on the ice. <br>(他在冰上滑倒了。)<br>n. Fall is my favorite season. <br>(秋天是我最喜欢的季节。)<br>n. There was a sharp fall in temperature last night. <br>(昨晚气温骤降。) |
+| fell         | `/fɛl/`           | v. 砍伐；fall 的过去式<br>adj. 邪恶的 | v. They plan to fell the old tree tomorrow. <br>(他们计划明天砍伐那棵老树。)<br>v. The apple fell from the tree. <br>(苹果从树上掉下来了。)<br>adj. He had a fell purpose in mind. <br>(他心里怀有邪恶的目的。) |
+| tasty        | `/ˈteɪsti/`       | adj. 美味的                   | adj. The cake she baked was very tasty. <br>(她烤的蛋糕非常美味。) |
+| pond         | `/pɑnd/`          | n. 池塘                      | n. Ducks were swimming in the pond. <br>(鸭子在池塘里游泳。) |
+| town         | `/taʊn/`          | n. 城镇                      | n. She grew up in a small town. <br>(她在一个小城镇长大。) |
+| ruminate     | `/ˈrumɪneɪt/`     | v. 沉思；反刍（chú）              | v. He likes to ruminate on philosophical questions. <br>(他喜欢沉思哲学问题。)<br>v. Cows ruminate their food for better digestion. <br>(牛反刍食物以便更好地消化。) |
+| contemplate  | `/ˈkɑːntəmpleɪt/` | v. 沉思；考虑                   | v. She sat by the lake to contemplate her future. <br>(她坐在湖边沉思她的未来。)<br>v. They are contemplating a trip to Europe next year. <br>(他们正在考虑明年去欧洲旅行。) |
+| string       | `/strɪŋ/`         | n. 线；弦；一串；字符串<br>v. 串起     | n. She tied the package with a string. <br>(她用线把包裹捆起来。)<br>n. He replaced the broken string on his guitar. <br>(他换掉了吉他上断了的弦。)<br>n. She wore a string of pearls around her neck. <br>(她脖子上戴了一串珍珠。)<br>n. The program processes a string of characters. <br>(程序处理一个字符串。)<br>v. They string popcorn to decorate the Christmas tree. <br>(他们把爆米花串起来装饰圣诞树。) |
+| stream       | `/strim/`         | n. 小河；流<br>v. 流动           | n. They followed the stream through the forest. <br>(他们沿着小河穿过森林。)<br>n. There was a steady stream of customers in the store. <br>(店里有源源不断的顾客。)<br>v. Tears streamed down her face. <br>(泪水顺着她的脸流下来。) |
+| dominate     | `/ˈdɑːməneɪt/`    | v. 支配；占优势                  | v. The company continues to dominate the market. <br>(这家公司继续主导市场。)<br>v. The tall building dominates the skyline. <br>(那座高楼主导了天际线。) |
+| dominator    | `/ˈdɑːməneɪtər/`  | n. 统治者                     | n. The king was the ultimate dominator of the realm. <br>(国王是这个王国的终极统治者。) |
+| hung         | `/hʌŋ/`           | v. hang 的过去式和过去分词：悬挂       | v. He hung the picture on the wall. <br>(他把画挂在墙上。) |
+| decade       | `/deˈkeɪd/`       | n. 十年；十进位                 | n. The city has changed a lot over the past decade. <br>(在过去的十年里，这座城市发生了很大变化。)<br>n. Decimal system is based on the decade structure. <br>(十进制系统基于十进位结构。) |
+| seal         | `/sil/`           | n. 海豹；封印<br>v. 密封；盖章       | n. The seal swam gracefully in the water. <br>(海豹在水中优雅地游泳。)<br>n. The document had a royal seal. <br>(文件上有一个皇室封印。)<br>v. She used tape to seal the package. <br>(她用胶带密封包裹。)<br>v. The contract was sealed with a stamp. <br>(合同上盖了章。) |
+| variate      | `/ˈverieɪt/`      | n. 变量                      | n. In the experiment, temperature was the main variate. <br>(在实验中，温度是主要变量。) |
+| trigger      | `/ˈtrɪɡər/`       | v. 引发；触发<br>n. 触发器；扳机      | v. The news triggered a strong reaction. <br>(这则新闻引发了强烈反应。)<br>n. He pulled the trigger of the gun. <br>(他扣动了枪的扳机。) |
+| denote       | `/dɪˈnoʊt/`       | v. 表示；指示                   | v. A red flag often denotes danger. <br>(红旗通常表示危险。) |
+| serenity     | `/səˈrenɪti/`     | n. 平静；宁静                   | n. She enjoyed the serenity of the countryside. <br>(她喜欢乡村的宁静。) |
+| instrument   | `/ˈɪnstrəmənt/`   | n. 乐器；工具                   | n. He can play several musical instruments. <br>(他会演奏几种乐器。)<br>n. A thermometer is an instrument used to measure temperature. <br>(温度计是一种测量温度的工具。) |
+| pretense	   | `/ˈpriːtens/`     | n. 假装；借口                   | n. She made a pretense of being interested. <br>(她假装感兴趣。)<br>n. He left early under the pretense of having a headache. <br>(他以头痛为借口早退了。) |
+| pretension   | `/prɪˈtenʃən/`    | n. 自命不凡；声称                 | n. His pretensions of being a great artist were laughable. <br>(他自命不凡地认为自己是个伟大的艺术家，真是可笑。)<br>n. The company's pretension to being the best in the market was unfounded. <br>(公司声称自己是市场上最好的没有根据。) |
+| comprehend   | `/ˌkɑːmprɪˈhend/` | v. 理解；领会                   | v. He could not comprehend the complex instructions. <br>(他无法理解复杂的说明。)<br>v. She easily comprehended the concept. <br>(她很容易地领会了这个概念。) |
+| medium       | `/ˈmiːdiəm/`      | adj. 中等的；适中的<br>n. 媒介；中间体  | adj. She ordered a medium-sized coffee. <br>(她点了一杯中等大小的咖啡。)<br>adj. The shirt is available in small, medium, and large sizes. <br>(这件衬衫有小号、中号和大号可选。)<br>n. Television is a powerful medium for advertising. <br>(电视是一个强大的广告媒介。)<br>n. Water is a medium for many chemical reactions. <br>(水是许多化学反应的媒介。) |
+
+
+| 单词           | 美式发音              | 词性 + 汉语释义                  |
+|--------------|-------------------|----------------------------|
+| loom         | `/lum/`           | v. 隐现；迫近<br>n. 织布机         |
+| founder      | `/ˈfaʊndər/`      | n. 创始人<br>v. 失败；沉没         |
+| fall         | `/fɔl/`           | v. 落下；倒下<br>n. 秋天；下降       |
+| fell         | `/fɛl/`           | v. 砍伐；fall 的过去式<br>adj. 邪恶的 |
+| tasty        | `/ˈteɪsti/`       | adj. 美味的                   |
+| pond         | `/pɑnd/`          | n. 池塘                      |
+| town         | `/taʊn/`          | n. 城镇                      |
+| ruminate     | `/ˈrumɪneɪt/`     | v. 沉思；反刍（chú）              |
+| contemplate  | `/ˈkɑːntəmpleɪt/` | v. 沉思；考虑                   |
+| string       | `/strɪŋ/`         | n. 线；弦；一串；字符串<br>v. 串起     |
+| stream       | `/strim/`         | n. 小河；流<br>v. 流动           |
+| dominate     | `/ˈdɑːməneɪt/`    | v. 支配；占优势                  |
+| dominator    | `/ˈdɑːməneɪtər/`  | n. 统治者                     |
+| hung         | `/hʌŋ/`           | v. hang 的过去式和过去分词：悬挂       |
+| decade       | `/deˈkeɪd/`       | n. 十年；十进位                 |
+| seal         | `/sil/`           | n. 海豹；封印<br>v. 密封；盖章       |
+| variate      | `/ˈverieɪt/`      | n. 变量                      |
+| trigger      | `/ˈtrɪɡər/`       | v. 引发；触发<br>n. 触发器；扳机      |
+| denote       | `/dɪˈnoʊt/`       | v. 表示；指示                   |
+| serenity     | `/səˈrenɪti/`     | n. 平静；宁静                   |
+| instrument   | `/ˈɪnstrəmənt/`   | n. 乐器；工具                   |
+| pretense	   | `/ˈpriːtens/`     | n. 假装；借口                   |
+| pretension   | `/prɪˈtenʃən/`    | n. 自命不凡；声称                 |
+| comprehend   | `/ˌkɑːmprɪˈhend/` | v. 理解；领会                   |
+| medium       | `/ˈmiːdiəm/`      | adj. 中等的；适中的<br>n. 媒介；中间体  |
+
+
+
+
+
+
+
 ### Added: 2024.07.05
 
 #### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
@@ -2331,12 +2404,11 @@ Translator: ChatGPT 4
 | flash              | `/flæʃ/             | v. 闪光；n. 闪光          | v. Lightning flashed in the sky.<br>(天空中闪现雷电。)<br>n. The camera has a built-in flash.<br>(相机内置了闪光灯。) |
 | base               | `/beɪs/             | n. 基地；基础；adj. 卑鄙的    | n. They operate from a military base.<br>(他们在一个军事基地操作。)<br>adj. That was a base lie.<br>(那是一个卑鄙的谎言。) |
 
-#### 单词解释
+单词解释
 
 - **boost (v. & n.)**
     - 作为动词，boost 描述了提升或增强的行为，意指 **`提升`** 或 **`促进`** 。例如：一次成功的广告活动可以显著提升产品的知名度。此外，boost 也可用来形容加快某一进程或活动的发展，如：新技术的引入促进 了工作效率的提高。
     - 作为名词，boost 表示对某事的推动或增强，通常用于描述对情绪、过程或事业的正面影响，意为 **`推动`** 。比如：他的鼓励给了我巨大的推动，帮助我克服困难。
-
 
 
 
@@ -2875,12 +2947,12 @@ Translator: ChatGPT 4
 | international | `/ˌɪntərˈnæʃənl/       | adj. 国际的            | The company expanded its international presence.<br />(该公司扩大了其国际存在。) |
 | friction      | `/ˈfrɪkʃən/            | n. 摩擦               | Friction between the two groups caused the conflict.<br />(两个团体之间的摩擦引发了冲突。) |
 
-##### 单词简单解释
+单词简单解释
+
 - "situate" 作为动词，常用于描述物体或地点的位置，意指“位于”或“坐落于”某个地方。
 - "situation" 是名词，指的是特定时刻或事件中的状态、环境或一系列事件，常用来描述“情况”或“形势”。
 - **fall (v.)**
     - fall 描述从较高位置到较低位置的移动，意指 **`落下`** 。例如：秋天时，树叶会从树上落下。此外，fall 也用于形容某种状态或事件的到来，即 **`降临`** ，比如说：夜幕的降临。在更广义的用法中，fall 还可以表示在社会、经济或道德方面的 **`失败`** 或下降，例如：公司可能会因经济危机而失败。
-
 
 
 
@@ -3042,7 +3114,7 @@ Translator: ChatGPT 4
 | volcano       | `/vɒlˈkeɪnoʊ/        | n. 火山             | The volcano erupted last year. (那座火山去年爆发了。) |
 | model         | `/ˈmɑːdəl/           | n. 模型；模特          | He built a model airplane.<br />(他制作了一个飞机模型。)<br />She works as a fashion model.<br />(她是一名时装模特。) |
 
-##### 单词解释：
+单词解释：
 - draw (v. & n.)
     - 作为动词，draw 描述了多种行为，包括 **`画`** 图或描绘物体的动作，如：艺术家喜欢 **画** 自然风景。此外，它还可以表示 **`拉`** ，例如在说：他 **拉** 开了窗帘。还有一种用法是吸引人或事物，意为 **`吸引`** ，如：她的演讲 **吸引** 了众多听众。
     - 作为名词，draw 通常指抽签或任何形式的选择机会，意指 **`抽签`** ，例如：世界杯的 **抽签** 仪式将决定小组赛的对阵。在体育比赛中，draw 还常用来描述比赛结果的平局，即 **`平局`** ，如：比赛结果是一个 **平局** ，双方都没有赢家。
@@ -3139,7 +3211,7 @@ Translator: ChatGPT 4
 | postpone    | `/poʊstˈpoʊn/    | v. 推迟                  | The meeting was postponed until next week.<br />(会议被推迟到下周。) |
 | sadistic    | `/səˈdɪstɪk/     | adj. 虐待狂的             | He showed a sadistic pleasure in teasing others.<br />(他在折磨别人时表现出虐待狂的乐趣。) |
 
-##### 单词解释：
+单词解释：
 - **Ergenbright** 作为专有名词，通常是个人姓氏或公司名称，其准确的发音可能因地区或个人而异。不过，基于英语发音规则，我们可以做出一个近似的音标表示：`/ˈɜːrɡənˌbraɪt/`。请注意，这个发音是根据单词的拼写推测的，并可能不完全反映某个特定人或实体的实际发音。在实际应用中，最好能听到该名词的持有者或相关人士的发音。
 
 
@@ -3232,7 +3304,8 @@ Translator: ChatGPT 4 & 4o
 | literal      | `/ˈlɪtərəl/`     | adj. 照字面意思的          | literal translation. 直译；逐字翻译。<br>literal meanning. 字面意思。<br />lThe literal meaning of the word is different from its figurative meaning. <br>(这个词的字面意义与其比喻意义不同。)                                                        |
 | literally    | `/ˈlɪtərəli/`    | adv. 照字面意义地；确实地            | He literally jumped out of his chair when he heard the news. <br>(他听到这个消息时确实从椅子上跳了起来。)<br>She literally translated the text word for word. <br>(她逐字逐句地翻译了这篇文本。)<br>There were literally hundreds of people at the event. <br>(活动现场确实有数百人。) |
 
-##### 注释：
+注释：
+
 (1) **toward** 和 **towards** 在美式英语和英式英语中均表示“朝，向；关于”，但在用法上几乎没有区别。美式英语更常用 **toward**，而英式英语更常用 **towards**。
 
 
@@ -3513,7 +3586,7 @@ Translator: ChatGPT 4
 | grazing     | `/ˈɡreɪzɪŋ/`       | n. 放牧；牧草地      | The cows are out for grazing.<br>(奶牛出去吃草了。)<br />I counted 34 wild goats grazing. <br />(我数了有 34 只野山羊在吃草。)<br />Sheep are grazing. 羊在吃草。 |
 | graze       | `/ɡreɪz/`          | v. 放牧；擦伤       | The sheep graze on the hillside.<br>(绵羊在山坡上吃草。)<br />Groups of cattle were grazing on the rich grass.<br />(牛群在肥美的青草地上吃草。)<br />fields where they used to graze their sheep. <br />(他们过去放养的田野。) |
 
-#### 单词解释
+单词解释
 
 1. **drum (n. & v.)**
    - 作为名词，drum 指的是 **`鼓`**，这是一种打击乐器，通常由圆筒形的框架和紧绷的膜组成，通过用鼓棒或手敲打来发声。
@@ -3702,8 +3775,8 @@ Translator: ChatGPT 4
 | fabric      | `/ˈfæbrɪk/`        | n. 织物                   | This shirt is made of breathable fabric. <br>(这件衬衫是用透气的织物制成的。) |
 | utilize     | `/ˈjuːtəlaɪz/`     | v. 利用；使用                | They utilize solar panels to generate electricity. <br>(他们利用太阳能板发电。) |
 
+单词解释
 
-#### 单词解释
 - **phrase (n., v.)**：
     + 作为名词，**`短语`** 指的是由两个或更多词组成的语言单位，用于表达一个完整的概念或意思。
     + 作为动词，指用特定的方式来 **`表达`** 思想、感情或意图。
@@ -3778,7 +3851,7 @@ Translator: ChatGPT 4
 | anal          | `/ˈeɪnəl/`           | adj. 肛门的；吹毛求疵的〔含贬义〕 | The anal stage is an important phase in Freudian psychology. <br />(在弗洛伊德心理学中，肛门期是一个重要阶段。) <br />He is known for his anal attention to detail. <br />(他以对细节的吹毛求疵而闻名。) |
 | empathy       | `/ˈempəθi/`          | n. 同理心                         | n. She showed great empathy towards the children.<br> (她对孩子们表现出了极大的同理心。) |
 
-#### 单词解释
+单词解释
 - **heave (v.)**：
   - 作为动词，heave 有多种含义；它用于描述用力 **`举起`** 重物的行为，或因身体不适导致的 **`呕吐`** 反应，以及如海浪或地面的 **`起伏`** 等的自然动作。这个词在不同的上下文中可以有截然不同的应用，通常通过上下文来确定其确切含义。
 - **nauseous (adj.)**：
@@ -3834,7 +3907,7 @@ Translator: ChatGPT 4
 | redecorate   | `/ˌriːˈdɛkəreɪt/` | v. 重新装饰           | They decided to redecorate their living room to give it a fresh look. <br />(他们决定重新装饰客厅，给它一个新的外观。) |
 | decorate     | `/ˈdɛkəreɪt/`     | v. 装饰；装修          | She loves to decorate her house for the holidays. <br />(她喜欢在节日期间装饰她的房子。) |
 
-#### 单词解释
+单词解释
 - **hawk (n. & v.)**：
   - 作为名词，"hawk" 指的是 **`鹰`**，一类捕食性鸟类，以其锐利的视觉和飞行时捕捉猎物的能力而著名；同时，在政治语境中，“hawk”也用来指倾向于采取强硬外交政策的 **`鹰派人物`**。
   - 作为动词，"hawk" 表示 **`叫卖`**，即在公共场合兜售商品的行为。
@@ -3915,7 +3988,7 @@ Translator: ChatGPT 4
 | mingle       | `/ˈmɪŋɡəl/`        | v. （使）混合；（使）交往                  | She likes to mingle with the guests at her parties. <br />(她喜欢在她的派对上与客人交往。)lie |
 | lie          | `/laɪ/`            | v. 躺；位于；说谎 <br />n. 谎言          | v. He likes to lie in the sun. <br />(他喜欢躺在阳光下。) <br />v. The village lies to the north of the mountain. <br>(村庄位于山的北面。) <br />v. She got caught in a lie. <br>(她被抓到说了谎。) <br />n. Telling a lie is against my principles. <br>(说谎违背我的原则。) |
 
-#### 单词解释
+单词解释
 - **regression (n.)**：
   - 作为名词，“regression”通常指的是 **`回归`** 或 **`退化`** 。在心理学中，它可能指行为上的退步或回到更早的发展阶段；在统计学中，回归是一种分析数据的方法，用于确定变量之间的关系。在一般语境中，它也可用来描述事物退回到以前的状态或较低的水平。
 - **hunger (n. & v.)**：
