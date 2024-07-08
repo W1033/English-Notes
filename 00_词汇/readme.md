@@ -1,6 +1,174 @@
 # 词汇
 
- 
+
+
+- cage
+- gas
+- daggers
+- region
+- regularly
+- courage
+- tragedy
+- doing
+- guests
+- get
+- starting
+- engineering
+- closing
+- gut
+- noting
+- guts
+- leading
+
+<img src="./readme.assets/image-20240708105633466.png" alt="image-20240708105633466" style="zoom:50%;" />
+
+- thrashing
+- anything
+- daughters
+- his
+- chanting
+- harder
+- sheer
+- tech
+- shot
+- their
+- clothed
+- shutting
+- coughed
+- host
+- shattering
+- chairs
+
+<img src="./readme.assets/image-20240708105723536.png" alt="image-20240708105723536" style="zoom:50%;" />
+
+- gap
+- gasps
+- properly
+- period
+- despite
+- disappeared
+- prince
+- happens
+- gaping
+- cupped
+- pound
+- helping
+- suppressed
+- concept
+- opposite
+
+<img src="./readme.assets/image-20240708105821588.png" alt="image-20240708105821588" style="zoom:50%;" />
+
+- champagne
+- attempted
+- madness
+- consume
+- muscled
+- ominous
+- automatic
+- admired
+- manner
+- ramp
+- motel
+- may
+- minimum
+- masculine
+- moon
+
+<img src="./readme.assets/image-20240708110334104.png" alt="image-20240708110334104" style="zoom:50%;" />
+
+- meals
+- dim
+- seeming
+- motel
+- instruments
+- named
+- million
+- empty
+- remain
+- shimmered
+- clamped
+- smells
+- trimmed
+- assume
+- mates
+- men
+- messy
+
+<img src="./readme.assets/image-20240708111729881.png" alt="image-20240708111729881" style="zoom:50%;" />
+
+streaked-cockpit-choking-cooked-stack-crackled-poked-sickening-picked- ticked-duck-shook-necks-sparked-keeper-smirks
+
+<img src="./readme.assets/image-20240708111818392.png" alt="image-20240708111818392" style="zoom:50%;" />
+
+burn-rubble-budget-numbers-beyond-remembered-breaking-possibly-belonged-blasting-blessed-debris-boulder-obsessed-board
+
+<img src="./readme.assets/image-20240708111907234.png" alt="image-20240708111907234" style="zoom:50%;" />
+
+unwell-twins-swirly-windblown-unwieldy-drowned-whirling-whale-between-awesome-row-underwater-wage-shower-wack-winged
+
+<img src="./readme.assets/image-20240708111953166.png" alt="image-20240708111953166" style="zoom:50%;" />
+
+forget-infected-fluttered-foods-stiffen-goofy-clarified-fellows- flywheel-fortune-folksong-officials-cliff-reference
+
+<img src="./readme.assets/image-20240708112040859.png" alt="image-20240708112040859" style="zoom:50%;" />
+
+nuzzled-zipped-capsize-zeroing-gaze-dozens-frozen-bronze-zen-bronze-sizzling-buzzsaw-balkanize-apologized-unzipped
+
+<img src="./readme.assets/image-20240708112127716.png" alt="image-20240708112127716" style="zoom:50%;" />
+
+vodka-preview-achieved-flavoring-leverage-investigation-oblivion- recovered-evacuate-poverty-love-diverge-voluminous
+
+<img src="./readme.assets/image-20240708112220318.png" alt="image-20240708112220318" style="zoom:50%;" />
+
+exclude-xenophobe-fixture-mailbox-exclaimed-duplex-excuses-sandbox-exhale-expat-maxim-exploding-excite-experts-xenophobia
+
+<img src="./readme.assets/image-20240708112309388.png" alt="image-20240708112309388" style="zoom:50%;" />
+
+requests-clique-obsequious-questioningly-acquiesce-unrequited-acquaintance-liquidizer-inadequate-quartermaster
+
+
+<img src="./readme.assets/image-20240708112356652.png" alt="image-20240708112356652" style="zoom:50%;" />
+
+jungle-nightjar-interjects-jar-jigsaw-jibe-enjoyed-majority-adjust- jacquard- adjacent -jumpstart -in juries -jiffy -jumbo
+
+<img src="./readme.assets/image-20240708112452010.png" alt="image-20240708112452010" style="zoom:50%;" />
+
+jib-joking-subject-jackknife-jinx-jeans-jarhead-joshing-junction-joker-rejuvenation-disjointed-jettison-misjudge-jackhammer
+
+<img src="./readme.assets/image-20240708112548768.png" alt="image-20240708112548768" style="zoom:50%;" /> 
+
+objection-fjord-unjust-majoring-rejoice-jawbreakers-jackets- majestically-dejected-jingle-prejudicial-jogged-adjourn
+
+<img src="./readme.assets/image-20240708112636341.png" alt="image-20240708112636341" style="zoom:50%;" />
+
+jailhouse-jubilant-jab-jukebox-jest-perjured-jars-injunction-justifiably-bejewelled-rejuvenates-juvenile-projection
+
+<img src="./readme.assets/image-20240708112729304.png" alt="image-20240708112729304" style="zoom:50%;" />
+
+important-have-definitely-number-perfect-lay-across-onto-beyond-very-agreed-shirt-started-promise-their-herself-noticed
+
+<img src="./readme.assets/image-20240708112821417.png" alt="image-20240708112821417" style="zoom:50%;" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## ▲ 单词发音疑惑
 

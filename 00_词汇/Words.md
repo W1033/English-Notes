@@ -5,6 +5,74 @@
 ## ▲ 待编辑生词
 
 
+### Added: 2024.07.07
+
+#### First Table - 已校对 - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词       | 美式发音                | 词性 + 汉语释义                    | 示例 |
+|----------|-------------------------|------------------------------|---|
+| sudden   | `/ˈsʌdən/`              | adj. 突然的                     | adj. The sudden change in weather surprised everyone. <br>(天气的突然变化让所有人感到惊讶。) |
+| odour    | `/ˈoʊdər/`              | n. 气味                        | n. The odour of fresh bread filled the air. <br>(空气中弥漫着新鲜面包的气味。) |
+| dry      | `/draɪ/`                | adj. 干燥的<br>v. 使干燥           | adj. The desert is a very dry place. <br>(沙漠是一个非常干燥的地方。)<br>v. She used a towel to dry her hair. <br>(她用毛巾擦干头发。) |
+| study    | `/ˈstʌdi/`              | n. 学习；研究<br>v. 学习；研究         | n. Her study of ancient history is impressive. <br>(她对古代历史的研究令人印象深刻。)<br>v. He needs to study for the exam. <br>(他需要为考试而学习。)<br>v. Scientists study the effects of climate change. <br>(科学家研究气候变化的影响。) |
+| detail   | `/ˈdiˌteɪl/`            | n. 细节<br>v. 详述               | n. She explained the plan in great detail. <br>(她详细地解释了计划。)<br>v. He detailed his travel experiences in the book. <br>(他在书中详述了他的旅行经历。) |
+| rent     | `/rɛnt/`                | n. 租金<br>v. 租用               | n. The monthly rent for the apartment is high. <br>(这套公寓的月租金很高。)<br>v. They decided to rent a car for the trip. <br>(他们决定租一辆车去旅行。) |
+| rend     | `/rɛnd/`                | v. 撕裂                        | v. The fabric was so old that it easily rends. <br>(布料太旧了，很容易撕裂。) |
+| lead     | `/liːd/`(v. & n.)<br>`/lɛd/`(n.) | v. 领导；引导<br>n. 领导；引导<br>n. 铅 | v. She was chosen to lead the team. <br>(她被选为领导团队。)<br>n. His leadership was crucial during the crisis. <br>(在危机期间，他的领导非常关键。)<br>n. The pipes are made of lead. <br>(这些管子是用铅制成的。) |
+| dessert  | `/dɪˈzɜːrt/`            | n. 甜点                        | n. We had ice cream for dessert. <br>(我们的甜点是冰淇淋。) |
+| dial     | `/ˈdaɪəl/`              | n. 表盘；拨号盘<br>v. 拨号           | n. The watch has a large dial. <br>(这只手表有一个大表盘。)<br>v. He dialed her number quickly. <br>(他迅速拨通了她的号码。) |
+| said     | `/sɛd/`                 | v. say 的过去式和过去分词             | v. He said he would be late. <br>(他说他会迟到。) |
+| assure   | `/əˈʃʊr/`               | v. 保证；确保                     | v. I assure you that everything will be fine. <br>(我向你保证，一切都会好起来的。) |
+| reassure | `/ˌriəˈʃʊr/`            | v. 使安心；再保证                   | v. She reassured her friend that they would be safe. <br>(她让朋友放心，他们会安全的。) |
+| fold     | `/foʊld/`               | v. 折叠<br>n. 褶皱(zhě zhòu)     | v. She folded the clothes neatly. <br>(她整齐地折叠衣物。)<br>n. The skirt has several folds. <br>(这条裙子有好几个褶皱。) |
+| laundry  | `/ˈlɔndri/`             | n. 洗衣；洗衣店                    | n. She does laundry every weekend. <br>(她每个周末都洗衣服。)<br>n. I need to pick up my clothes from the laundry. <br>(我需要从洗衣店取回我的衣服。) |
+| uneasy   | `/ʌnˈizi/`              | adj. 不安的                     | adj. He felt uneasy about the upcoming exam. <br>(他对即将到来的考试感到不安。) |
+| neatly   | `/ˈnitli/`              | adv. 整洁地                     | adv. She neatly arranged the books on the shelf. <br>(她整齐地把书排列在书架上。) |
+| yet      | `/jɛt/`                 | adv. 还；然而                    | adv. He hasn't finished his homework yet. <br>(他还没做完作业。)<br>adv. It's raining, yet he went out without an umbrella. <br>(下着雨，然而他却没有带伞出门。) |
+
+
+#### Second Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词     | 美式发音                  | 词性 + 汉语释义                         |
+|----------|---------------------------|----------------------------------------|
+| sorry    | `/ˈsɑri/`                 | adj. 抱歉的；遗憾的                    |
+| yours    | `/jʊrz/`                  | pron. 你的；你们的                     |
+| intent   | `/ɪnˈtɛnt/`               | n. 意图；目的<br>adj. 专心的           |
+| intently | `/ɪnˈtɛntli/`             | adv. 专心地                            |
+| entire   | `/ɪnˈtaɪər/`              | adj. 全部的；整个的                    |
+| entirely | `/ɪnˈtaɪərli/`            | adv. 完全地                            |
+| ray      | `/reɪ/`                   | n. 光线；射线                          |
+| needy    | `/ˈnidi/`                 | adj. 贫困的；缺乏的                    |
+| sadly    | `/ˈsædli/`                | adv. 悲哀地；遗憾地                    |
+| yard     | `/jɑrd/`                  | n. 院子；码                            |
+| stays    | `/steɪz/`                 | v. stay 的第三人称单数                 |
+| try      | `/traɪ/`                  | v. 尝试；努力<br>n. 尝试               |
+| corn     | `/kɔrn/`                  | n. 玉米                                |
+| corner   | `/ˈkɔrnər/`               | n. 角落；拐角<br>v. 使...陷入困境      |
+| credit   | `/ˈkrɛdɪt/`               | n. 信用；学分<br>v. 归功于             |
+| reluctant| `/rɪˈlʌktənt/`            | adj. 不情愿的                          |
+| attraction| `/əˈtrækʃən/`            | n. 吸引；吸引力                        |
+| condition| `/kənˈdɪʃən/`             | n. 条件；状况<br>v. 使适应             |
+| curiosity| `/ˌkjʊriˈɑsəti/`          | n. 好奇心；奇品                        |
+| nice     | `/naɪs/`                  | adj. 好的；友善的                      |
+
+
+
+
+
+
+
+
+
+
 ### Added: 2024.07.06
 
 #### First Table - 已校对 - ~~已写入 GoodNotes~~
@@ -13,8 +81,6 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-好的，我会为每个单词的每个汉语释义添加对应的例句：
-
 | 单词           | 美式发音              | 词性 + 汉语释义                  | 示例 |
 |--------------|-------------------|----------------------------|---|
 | loom         | `/lum/`           | v. 隐现；迫近<br>n. 织布机         | v. A storm was looming on the horizon. <br>(地平线上隐现出一场暴风雨。)<br>v. The deadline looms closer with each passing day. <br>(随着每一天的过去，截止日期越来越近。)<br>n. She worked on the loom for hours. <br>(她在织布机上工作了好几个小时。) |
@@ -22,7 +88,7 @@ Translator: ChatGPT 4o
 | fall         | `/fɔl/`           | v. 落下；倒下<br>n. 秋天；下降       | v. The leaves fall from the trees in autumn. <br>(秋天树叶从树上落下。)<br>v. He slipped and fell on the ice. <br>(他在冰上滑倒了。)<br>n. Fall is my favorite season. <br>(秋天是我最喜欢的季节。)<br>n. There was a sharp fall in temperature last night. <br>(昨晚气温骤降。) |
 | fell         | `/fɛl/`           | v. 砍伐；fall 的过去式<br>adj. 邪恶的 | v. They plan to fell the old tree tomorrow. <br>(他们计划明天砍伐那棵老树。)<br>v. The apple fell from the tree. <br>(苹果从树上掉下来了。)<br>adj. He had a fell purpose in mind. <br>(他心里怀有邪恶的目的。) |
 | tasty        | `/ˈteɪsti/`       | adj. 美味的                   | adj. The cake she baked was very tasty. <br>(她烤的蛋糕非常美味。) |
-| pond         | `/pɑnd/`          | n. 池塘                      | n. Ducks were swimming in the pond. <br>(鸭子在池塘里游泳。) |
+| pond         | `/pɑːnd/`         | n. 池塘                      | n. Ducks were swimming in the pond. <br>(鸭子在池塘里游泳。) |
 | town         | `/taʊn/`          | n. 城镇                      | n. She grew up in a small town. <br>(她在一个小城镇长大。) |
 | ruminate     | `/ˈrumɪneɪt/`     | v. 沉思；反刍（chú）              | v. He likes to ruminate on philosophical questions. <br>(他喜欢沉思哲学问题。)<br>v. Cows ruminate their food for better digestion. <br>(牛反刍食物以便更好地消化。) |
 | contemplate  | `/ˈkɑːntəmpleɪt/` | v. 沉思；考虑                   | v. She sat by the lake to contemplate her future. <br>(她坐在湖边沉思她的未来。)<br>v. They are contemplating a trip to Europe next year. <br>(他们正在考虑明年去欧洲旅行。) |
@@ -42,35 +108,6 @@ Translator: ChatGPT 4o
 | pretension   | `/prɪˈtenʃən/`    | n. 自命不凡；声称                 | n. His pretensions of being a great artist were laughable. <br>(他自命不凡地认为自己是个伟大的艺术家，真是可笑。)<br>n. The company's pretension to being the best in the market was unfounded. <br>(公司声称自己是市场上最好的没有根据。) |
 | comprehend   | `/ˌkɑːmprɪˈhend/` | v. 理解；领会                   | v. He could not comprehend the complex instructions. <br>(他无法理解复杂的说明。)<br>v. She easily comprehended the concept. <br>(她很容易地领会了这个概念。) |
 | medium       | `/ˈmiːdiəm/`      | adj. 中等的；适中的<br>n. 媒介；中间体  | adj. She ordered a medium-sized coffee. <br>(她点了一杯中等大小的咖啡。)<br>adj. The shirt is available in small, medium, and large sizes. <br>(这件衬衫有小号、中号和大号可选。)<br>n. Television is a powerful medium for advertising. <br>(电视是一个强大的广告媒介。)<br>n. Water is a medium for many chemical reactions. <br>(水是许多化学反应的媒介。) |
-
-
-| 单词           | 美式发音              | 词性 + 汉语释义                  |
-|--------------|-------------------|----------------------------|
-| loom         | `/lum/`           | v. 隐现；迫近<br>n. 织布机         |
-| founder      | `/ˈfaʊndər/`      | n. 创始人<br>v. 失败；沉没         |
-| fall         | `/fɔl/`           | v. 落下；倒下<br>n. 秋天；下降       |
-| fell         | `/fɛl/`           | v. 砍伐；fall 的过去式<br>adj. 邪恶的 |
-| tasty        | `/ˈteɪsti/`       | adj. 美味的                   |
-| pond         | `/pɑnd/`          | n. 池塘                      |
-| town         | `/taʊn/`          | n. 城镇                      |
-| ruminate     | `/ˈrumɪneɪt/`     | v. 沉思；反刍（chú）              |
-| contemplate  | `/ˈkɑːntəmpleɪt/` | v. 沉思；考虑                   |
-| string       | `/strɪŋ/`         | n. 线；弦；一串；字符串<br>v. 串起     |
-| stream       | `/strim/`         | n. 小河；流<br>v. 流动           |
-| dominate     | `/ˈdɑːməneɪt/`    | v. 支配；占优势                  |
-| dominator    | `/ˈdɑːməneɪtər/`  | n. 统治者                     |
-| hung         | `/hʌŋ/`           | v. hang 的过去式和过去分词：悬挂       |
-| decade       | `/deˈkeɪd/`       | n. 十年；十进位                 |
-| seal         | `/sil/`           | n. 海豹；封印<br>v. 密封；盖章       |
-| variate      | `/ˈverieɪt/`      | n. 变量                      |
-| trigger      | `/ˈtrɪɡər/`       | v. 引发；触发<br>n. 触发器；扳机      |
-| denote       | `/dɪˈnoʊt/`       | v. 表示；指示                   |
-| serenity     | `/səˈrenɪti/`     | n. 平静；宁静                   |
-| instrument   | `/ˈɪnstrəmənt/`   | n. 乐器；工具                   |
-| pretense	   | `/ˈpriːtens/`     | n. 假装；借口                   |
-| pretension   | `/prɪˈtenʃən/`    | n. 自命不凡；声称                 |
-| comprehend   | `/ˌkɑːmprɪˈhend/` | v. 理解；领会                   |
-| medium       | `/ˈmiːdiəm/`      | adj. 中等的；适中的<br>n. 媒介；中间体  |
 
 
 
@@ -4032,25 +4069,25 @@ Translator: ChatGPT 4
 
 ### Added: 2024.03.12
 
-#### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+#### First Table - 已校对 - ~~已写入 GoodNotes~~
 
 Translator: ChatGPT 4
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词         | 美式发音             | 词类 + 汉语释义                                     | 示例                                                         |
-|------------|------------------| -------------------------------------------------- | ------------------------------------------------------------ |
-| announce   | `/əˈnaʊns/`      | v. 宣布；通告                                      | The company will announce its new product next week. <br />(公司将于下周宣布其新产品。) |
-| further    | `/ˈfɜrðər/`      | adv. 更远地；进一步地<br />adj. 更远的；进一步的 <br />v. 促进；推动 | adv. We need to explore the issue further. <br />(我们需要进一步探讨这个问题。)<br />adj. She lives in a further village. <br />(她住在一个更远的村庄。)<br />v. This research will further our understanding of the topic. <br />(这项研究将促进我们对这个话题的理解。) |
-| order      | `/ˈɔːrdər/`      | n. 顺序；命令；订单 <br />v. 订购；命令                    | n. Keep your books in order. <br />(把你的书排列整齐。) <br />n. Keep the files in alphabetical order. <br />(按字母顺序排列文件。) <br />v. He ordered a pizza`/ˈpiːtsə/`. <br />(他订购了一个比萨。) <br />v. He ordered a new computer online. <br />(他在网上订购了一台新电脑。) <br />v. The captain ordered his soldiers to advance. <br />(队长命令他的士兵前进。) |
-| conduit    | `/ˈkɑːnduɪt/`    | n. 管道；渠道                                      | The conduit carries water to the city.<br>(管道将水输送到城市。) |
-| hypothesis | `/haɪˈpɑːθəsɪs/` | n. 假设；假说                                      | The scientist proposed a hypothesis for the experiment.<br>(科学家为实验提出了一个假设。) |
-| complete   | `/kəmˈpliːt/`    | adj. 完整的；完全的 <br />v. 完成；结束                   | adj. We have a complete set of the author's works.<br>(我们拥有这位作者作品的完整套装。) <br />v. She completed her degree last year.<br>(她去年完成了她的学位。) |
-| band       | `/bænd/`         | n. 乐队；带(子)；波段；级别 <br />v. 联合；用带绑(bǎng)扎    | n. The band will perform tonight. <br />(乐队将于今晚表演。) <br />n. She wears a silver band on her wrist. <br />(她手腕上戴着一个银色的手环。) <br />n. This radio operates in a different frequency band. <br />(这台收音机在不同的频率波段运作。) <br />n. He is in the top salary band for his role. <br />(他在他的职位上处于最高薪资级别。) <br />v. They banded together to form a study group. <br />(他们联合起来组成了一个学习小组。) |
-| stamp      | `/stæmp/`        | n. 邮票；印章 <br />v. 盖章；跺脚                       | n. I collect stamps from different countries.<br>(我收集来自不同国家的邮票。) <br />v. He stamped his foot in frustration.<br>(他因挫败感而跺脚。) |
+| 单词         | 美式发音             | 词类 + 汉语释义                                      | 示例                                                         |
+|------------|------------------|------------------------------------------------| ------------------------------------------------------------ |
+| announce   | `/əˈnaʊns/`      | v. 宣布；通告                                       | The company will announce its new product next week. <br />(公司将于下周宣布其新产品。) |
+| further    | `/ˈfɜːrðər/`      | adv. 更远地；进一步地<br />adj. 更远的；进一步的 <br />v. 促进；推动 | adv. We need to explore the issue further. <br />(我们需要进一步探讨这个问题。)<br />adj. She lives in a further village. <br />(她住在一个更远的村庄。)<br />v. This research will further our understanding of the topic. <br />(这项研究将促进我们对这个话题的理解。) |
+| order      | `/ˈɔːrdər/`      | n. 顺序；命令；订单 <br />v. 订购；命令                 | n. Keep your books in order. <br />(把你的书排列整齐。) <br />n. Keep the files in alphabetical order. <br />(按字母顺序排列文件。) <br />v. He ordered a pizza`/ˈpiːtsə/`. <br />(他订购了一个比萨。) <br />v. He ordered a new computer online. <br />(他在网上订购了一台新电脑。) <br />v. The captain ordered his soldiers to advance. <br />(队长命令他的士兵前进。) |
+| conduit    | `/ˈkɑːnduɪt/`    | n. 导道；渠道                                       | The conduit carries water to the city.<br>(管道将水输送到城市。) |
+| hypothesis | `/haɪˈpɑːθəsɪs/` | n. 假设；假说                                       | The scientist proposed a hypothesis for the experiment.<br>(科学家为实验提出了一个假设。) |
+| complete   | `/kəmˈpliːt/`    | adj. 完整的；完全的 <br />v. 完成                    | adj. We have a complete set of the author's works.<br>(我们拥有这位作者作品的完整套装。) <br />v. She completed her degree last year.<br>(她去年完成了她的学位。) |
+| band       | `/bænd/`         | n. 乐队；带(子)；波段；级别 <br />v. 联合；绑(bǎng)扎   | n. The band will perform tonight. <br />(乐队将于今晚表演。) <br />n. She wears a silver band on her wrist. <br />(她手腕上戴着一个银色的手环。) <br />n. This radio operates in a different frequency band. <br />(这台收音机在不同的频率波段运作。) <br />n. He is in the top salary band for his role. <br />(他在他的职位上处于最高薪资级别。) <br />v. They banded together to form a study group. <br />(他们联合起来组成了一个学习小组。) |
+| stamp      | `/stæmp/`        | n. 邮票；印章 <br />v. 盖章；跺脚                     | n. I collect stamps from different countries.<br>(我收集来自不同国家的邮票。) <br />v. He stamped his foot in frustration.<br>(他因挫败感而跺脚。) |
 | voluntary  | `/ˈvɑːləntɛri/`  | adj. 自愿的；志愿的                                  | She does voluntary work at the hospital.<br>(她在医院做志愿工作。) |
-| hereby     | `/hɪrˈbaɪ/`      | adv. 特此；以此                   | I hereby declare the ceremony open. <br />(我特此宣布仪式开始。) |
-| secret     | `/ˈsiːkrɪt/`     | adj. 秘密的；保密的 <br/>n. 秘密   | She whispered a secret into her friend's ear. <br />(她在朋友耳边低语了一个秘密。)<br />He kept his plans secret. <br />(他保密了自己的计划。) |
+| hereby     | `/hɪrˈbaɪ/`      | adv. 特此；以此                                     | I hereby declare the ceremony open. <br />(我特此宣布仪式开始。) |
+| secret     | `/ˈsiːkrɪt/`     | adj. 秘密的；保密的 <br/>n. 秘密                      | She whispered a secret into her friend's ear. <br />(她在朋友耳边低语了一个秘密。)<br />He kept his plans secret. <br />(他保密了自己的计划。) |
 
 单词解释：
 - **announce (v.)**：
@@ -4062,7 +4099,7 @@ Translator: ChatGPT 4
     - 作为名词，“order”有多个含义，包括 **`顺序`**（事物排列的方式）、**`命令`**（指示或要求）、**`订单`**（购买的指令或请求）。
     - 作为动词，“order”主要用于表示 **`订购`**（如订购食物或商品）或 **`命令`**（指示某人做某事）。
 - **conduit (n.)**：
-    - 作为名词，“conduit”指的是 **`管道`** 或 **`渠道`**，通常用于指代传输液体、气体或电缆的物理结构，也可比喻指信息、资源或服务的传递途径。
+    - 作为名词，“conduit”指的是 **`导道`** 或 **`渠道`**，通常用于指代传输液体、气体或电缆的物理结构，也可比喻指信息、资源或服务的传递途径。
 - **hypothesis (n.)**：
     - 作为名词，“hypothesis”表示 **`假设`** 或 **`假说`**，常用于科学和研究领域，指基于有限的信息做出的初始理论或猜测，待进一步验证或测试。
 - **complete (adj. & v.)**：
@@ -4074,7 +4111,7 @@ Translator: ChatGPT 4
         2. **`带(子)`**：用于绑扎或装饰的窄条；又比如手环或戒指。
         3. **`波段`**：无线电的特定频率范围。
         4. **`级别`**：某个特定的范围或类别。
-    - 作为动词，“band”意味着**`联合`**或**`用带绑扎`**。联合表示为了共同目的或兴趣而聚集，而用带绑扎则指物理上用条带或类似物固定或装饰。
+    - 作为动词，“band”意味着 **`联合`** 或** 用带`绑扎`**。联合表示为了共同目的或兴趣而聚集，而用带绑扎则指物理上用条带或类似物固定或装饰。
 - **stamp (n. & v.)**：
     - 作为名词，“stamp”可能指 **`邮票`**，一种用于邮寄的标签，或 **`印章`**，用于在文档上盖印。
     - 作为动词，它可以表示 **`盖章`** 在文件上留下印记，或 **`跺脚`** 表达情绪。
