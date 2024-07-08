@@ -63,11 +63,43 @@ Translator: ChatGPT 4o
 | condition| `/kənˈdɪʃən/`             | n. 条件；状况<br>v. 使适应             |
 | curiosity| `/ˌkjʊriˈɑsəti/`          | n. 好奇心；奇品                        |
 | nice     | `/naɪs/`                  | adj. 好的；友善的                      |
+| gate      | `/ɡeɪt/`                  | n. 大门；闸门                          |
+| enter     | `/ˈɛntər/`                | v. 进入；登记                          |
+| tag       | `/tæɡ/`                   | n. 标签；附加语<br>v. 加标签            |
 
 
+#### Third Table - ~~已校对~~ - ~~已写入 GoodNotes~~
 
+Translator: ChatGPT 4o
 
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
+| 单词      | 美式发音                  | 词性 + 汉语释义                         |
+|-----------|---------------------------|----------------------------------------|
+| badminton | `/ˈbædmɪntən/`            | n. 羽毛球                             |
+| medal     | `/ˈmɛdəl/`                | n. 奖牌                               |
+| aslant    | `/əˈslænt/`               | adv. 斜着地<br>adj. 斜的               |
+| due       | `/du/`                    | adj. 预期的；应得的<br>n. 应得物       |
+| sin       | `/sɪn/`                   | n. 罪恶；罪行<br>v. 犯罪              |
+| restless  | `/ˈrɛstləs/`              | adj. 不安的；坐立不安的                |
+| restraint | `/rɪˈstreɪnt/`            | n. 抑制；约束                         |
+| stale     | `/steɪl/`                 | adj. 陈旧的；不新鲜的                  |
+| soil      | `/sɔɪl/`                  | n. 土壤<br>v. 弄脏                    |
+| stir      | `/stɜr/`                  | v. 搅拌；引起<br>n. 搅拌               |
+| site      | `/saɪt/`                  | n. 地点；网站<br>v. 选址               |
+| stroll    | `/stroʊl/`                | v. 漫步<br>n. 漫步                     |
+| strain    | `/streɪn/`                | v. 拉紧；尽力<br>n. 压力；张力         |
+| store     | `/stɔr/`                  | n. 商店；储存<br>v. 储存               |
+| minute    | `/ˈmɪnɪt/`(n.)<br>`/maɪˈnʊt/`(adj.) | n. 分钟<br>adj. 微小的               |
+| cool      | `/kul/`                   | adj. 凉爽的；冷静的<br>v. 冷却         |
+| occasion  | `/əˈkeɪʒən/`              | n. 场合；时机<br>v. 引起               |
+| custody   | `/ˈkʌstədi/`              | n. 监护；拘留                          |
+| courtesy  | `/ˈkɜrtəsi/`              | n. 礼貌；好意                          |
+| smother   | `/ˈsmʌðər/`               | v. 使窒息；抑制                        |
+| lame      | `/leɪm/`                  | adj. 瘸的；无说服力的                  |
+| minimal   | `/ˈmɪnɪməl/`              | adj. 最小的                            |
+| ingredient| `/ɪnˈɡridiənt/`           | n. 成分；原料                          |
+| vital     | `/ˈvaɪtəl/`               | adj. 至关重要的；充满活力的             |
 
 
 
@@ -4242,7 +4274,7 @@ Translator: ChatGPT 4
 
 | 单词      | 美式发音      | 词类 + 汉语释义        | 示例                                                         |
 |----------|--------------|------------------| ------------------------------------------------------------ |
-| vital    | `/ˈvaɪtl/`   | adj. 至关重要的；生命的   | Regular exercise is vital for good health. <br />(定期锻炼对于良好的健康至关重要。) |
+| vital    | `/ˈvaɪtl/`   | adj. 至关重要的；充满活力的  | Regular exercise is vital for good health. <br />(定期锻炼对于良好的健康至关重要。) |
 | tourism  | `/ˈtʊrɪzəm/` | n. 旅游业           | The city's economy is heavily dependent on tourism. <br />(这座城市的经济极度依赖旅游业。) |
 | facial   | `/ˈfeɪʃəl/`  | adj. 面部的         | She uses a special cream for her facial skin. <br />(她使用特别的面霜护理面部肌肤。) |
 | dwelling | `/ˈdwɛlɪŋ/`  | n. 住宅            | The area is known for its traditional dwellings. <br />(这个区域以其传统住宅闻名。) |
