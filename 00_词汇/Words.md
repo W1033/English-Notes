@@ -6,6 +6,238 @@
 
 
 
+### Added: 2024.07.12
+
+#### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词          | 美式发音                  | 词性 + 汉语释义                         |
+|---------------|---------------------------|----------------------------------------|
+| aggressive    | `/əˈɡrɛsɪv/`              | adj. 侵略性的；好斗的                   |
+| concentrate   | `/ˈkɑnsənˌtreɪt/`         | v. 集中；浓缩<br>n. 浓缩物              |
+| foresight     | `/ˈfɔrsaɪt/`              | n. 预见；远见                           |
+| section       | `/ˈsɛkʃən/`               | n. 部分；章节<br>v. 分割               |
+| animator      | `/ˈænɪˌmeɪtər/`           | n. 动画师                               |
+| viral         | `/ˈvaɪrəl/`               | adj. 病毒的；病毒引起的                 |
+| dialogue      | `/ˈdaɪəˌlɔɡ/`             | n. 对话；对白                           |
+| spirituality  | `/ˌspɪrɪtʃuˈælɪti/`       | n. 灵性；精神性                         |
+| stupidity     | `/stuˈpɪdəti/`            | n. 愚蠢                                 |
+| idle          | `/ˈaɪdəl/`                | adj. 闲置的；无所事事的<br>v. 虚度光阴  |
+| latency       | `/ˈleɪtnsi/`              | n. 潜伏期；延迟                         |
+| accurate      | `/ˈækjərət/`              | adj. 准确的；精确的                     |
+| appetizer     | `/ˈæpɪˌtaɪzər/`           | n. 开胃菜                               |
+| shrimp        | `/ʃrɪmp/`                 | n. 虾                                  |
+| cocktail      | `/ˈkɑkˌteɪl/`             | n. 鸡尾酒；开胃小吃                     |
+| tangy         | `/ˈtæŋi/`                 | adj. 味道浓烈的                         |
+| Caesar        | `/ˈsiːzər/`               | n. 凯撒（通常指凯撒沙拉）                |
+| romaine       | `/roʊˈmeɪn/`              | n. 长叶莴苣                             |
+| lettuce       | `/ˈlɛtəs/`                | n. 生菜                                |
+| Parmesan      | `/ˈpɑrməˌzæn/`            | n. 帕尔马干酪                           |
+| melted        | `/mɛltɪd/`                | adj. 融化的                             |
+
+
+#### Second Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词          | 美式发音                   | 词性 + 汉语释义                         |
+|---------------|----------------------------|----------------------------------------|
+| hogwash       | `/ˈhɔːɡˌwɑʃ/`             | n. 胡说八道                           |
+| rival         | `/ˈraɪvəl/`               | n. 竞争对手<br>v. 竞争<br>adj. 竞争的   |
+| affair        | `/əˈfɛr/`                 | n. 事务；事件                         |
+| fair          | `/fɛr/`                   | adj. 公平的；美丽的<br>n. 集市；博览会   |
+| flatulent     | `/ˈflætʃələnt/`           | adj. 胀气的                           |
+| flatulence    | `/ˈflætʃələns/`           | n. 胀气                               |
+| separator     | `/ˈsɛpəˌreɪtər/`          | n. 分离器；分隔符                     |
+| fountain      | `/ˈfaʊntən/`              | n. 喷泉                               |
+| offer         | `/ˈɔfər/`                 | v. 提供；提出<br>n. 提议；报价         |
+| engagement    | `/ɪnˈɡeɪdʒmənt/`          | n. 订婚；约会；参与                   |
+| mung          | `/mʌŋ/`                   | n. 绿豆                               |
+| paste         | `/peɪst/`                 | n. 糊状物；面团<br>v. 粘贴             |
+| skinless      | `/ˈskɪnləs/`              | adj. 无皮的                           |
+| convince      | `/kənˈvɪns/`              | v. 说服；使信服                       |
+| federal       | `/ˈfɛdərəl/`              | adj. 联邦的                           |
+| commission    | `/kəˈmɪʃən/`              | n. 委员会；佣金<br>v. 委托；任命       |
+| competition   | `/ˌkɑmpəˈtɪʃən/`          | n. 竞争；比赛                         |
+| compete       | `/kəmˈpit/`               | v. 竞争；比赛                         |
+| inflection    | `/ɪnˈflɛkʃən/`            | n. 变调；弯曲                         |
+| ferment       | `/ˈfɜrmɛnt/`              | v. 发酵；骚动<br>n. 发酵；骚动         |
+
+
+
+#### Third Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词          | 美式发音                   | 词性 + 汉语释义                         |
+|---------------|----------------------------|----------------------------------------|
+| proof         | `/pruf/`                  | n. 证据；证明<br>adj. 防...的；耐...的<br>v. 校对 |
+| wash          | `/wɑʃ/`                   | v. 洗；冲洗<br>n. 洗涤                  |
+| obscure       | `/əbˈskjʊr/`              | adj. 模糊的；鲜为人知的<br>v. 使模糊；掩盖   |
+| keen          | `/kin/`                   | adj. 敏锐的；热衷的                      |
+| restaurant    | `/ˈrɛstərɑnt/`            | n. 餐馆                                |
+| brew          | `/bru/`                   | v. 酿造；冲泡<br>n. 酿造物；啤酒         |
+| process       | `/ˈprɑsɛs/`               | n. 过程；工序<br>v. 处理；加工           |
+| processe      | `/prəˈsɛs/`               | n. 处理 (processe 的拼写)                |
+| duo           | `/ˈduoʊ/`                 | n. 二重唱；二人组                       |
+| leave         | `/liv/`                   | v. 离开；留下<br>n. 休假                |
+| leaves        | `/livz/`                  | n. 叶子（复数）；离开                    |
+| advance       | `/ədˈvæns/`               | v. 前进；提前<br>n. 进步；预付款<br>adj. 预先的 |
+| flat          | `/flæt/`                  | adj. 平的；单调的<br>n. 公寓；平面        |
+| fictional     | `/ˈfɪkʃənəl/`             | adj. 虚构的                             |
+| Nederland     | `/ˈnɛðərlənd/`            | n. 荷兰                                 |
+| disconcerting | `/ˌdɪskənˈsɜrtɪŋ/`        | adj. 令人不安的                         |
+| lobby         | `/ˈlɑbi/`                 | n. 大厅；游说团<br>v. 游说               |
+| hysteria      | `/hɪˈstɪəriə/`            | n. 歇斯底里                              |
+| tabloid       | `/ˈtæblɔɪd/`              | n. 小报<br>adj. 通俗小报的                |
+| distinguish   | `/dɪˈstɪŋɡwɪʃ/`           | v. 区分；辨别                           |
+
+
+#### Fourth Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词          | 美式发音                   | 词性 + 汉语释义                         |
+|---------------|----------------------------|----------------------------------------|
+| attic         | `/ˈætɪk/`                  | n. 阁楼                                |
+| horrible      | `/ˈhɔrəbəl/`               | adj. 可怕的；糟糕的                    |
+| parody        | `/ˈpærədi/`                | n. 模仿作品；拙劣的模仿<br>v. 滑稽地模仿 |
+| goof          | `/ɡuf/`                    | v. 弄糟；闲荡<br>n. 愚蠢的错误         |
+| grin          | `/ɡrɪn/`                   | v. 露齿而笑<br>n. 露齿笑               |
+| receipt       | `/rɪˈsit/`                 | n. 收据；收到                          |
+| infant        | `/ˈɪnfənt/`                | n. 婴儿                                |
+| resilience    | `/rɪˈzɪliəns/`             | n. 恢复力；弹性                        |
+| mad           | `/mæd/`                    | adj. 疯狂的；生气的                    |
+| plant         | `/plænt/`                  | n. 植物；工厂<br>v. 种植；安置          |
+| coalition     | `/ˌkoʊəˈlɪʃən/`           | n. 联盟；联合                          |
+| capnomancy    | `/ˈkæpnəˌmænsi/`           | n. 烟卜                                |
+| succubus      | `/ˈsʌkjəbəs/`              | n. 女妖                                |
+| freight       | `/freɪt/`                  | n. 货运；运费<br>v. 运送               |
+| warrant       | `/ˈwɔrənt/`                | n. 授权令；正当理由<br>v. 保证；使正当   |
+| derailment    | `/dɪˈreɪlmənt/`            | n. 脱轨                                |
+| carnival      | `/ˈkɑrnəvəl/`              | n. 狂欢节；嘉年华                      |
+| stout         | `/staʊt/`                  | adj. 强壮的；肥胖的<br>n. 烈性啤酒       |
+| profession    | `/prəˈfɛʃən/`              | n. 职业；专业                          |
+| analyst       | `/ˈænəlɪst/`               | n. 分析师                              |
+
+
+#### Fifth Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词          | 美式发音                   | 词性 + 汉语释义                         |
+|---------------|----------------------------|----------------------------------------|
+| religion      | `/rɪˈlɪdʒən/`              | n. 宗教；信仰                          |
+| sexual        | `/ˈsɛkʃuəl/`               | adj. 性的；性别的                      |
+| ethnicity     | `/ɛθˈnɪsɪti/`              | n. 种族；民族                          |
+| marital       | `/ˈmærɪtəl/`               | adj. 婚姻的                            |
+| Myanmar       | `/ˈmjænˌmɑr/`              | n. 缅甸                                |
+| worth         | `/wɜrθ/`                   | adj. 值得的；值...的<br>n. 价值       |
+| joint         | `/dʒɔɪnt/`                 | n. 关节；接头<br>adj. 联合的；共同的  |
+| knitting      | `/ˈnɪtɪŋ/`                 | n. 编织；针织品                        |
+| congee        | `/ˈkɑndʒi/`                | n. 粥                                 |
+| comedian      | `/kəˈmidiən/`              | n. 喜剧演员                            |
+| dilemma       | `/daɪˈlɛmə/`               | n. 困境；进退两难                      |
+| soccer        | `/ˈsɑkər/`                 | n. 足球                                |
+| sandwich      | `/ˈsændwɪtʃ/`             | n. 三明治                              |
+| janitor       | `/ˈdʒænɪtər/`              | n. 看门人；清洁工                      |
+| irony         | `/ˈaɪrəni/`                | n. 讽刺；反讽                          |
+| fella         | `/ˈfɛlə/`                  | n. 小伙子；伙计                        |
+| bloke         | `/bloʊk/`                  | n. 家伙；男人                          |
+| sentient      | `/ˈsɛnʃənt/`               | adj. 有感知能力的                      |
+| peep          | `/pip/`                    | v. 窥视；隐约显现<br>n. 窥视            |
+
+
+#### Sixth Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词          | 美式发音                   | 词性 + 汉语释义                         |
+|---------------|----------------------------|----------------------------------------|
+| trench        | `/trɛntʃ/`                 | n. 沟渠；战壕                           |
+| wipe          | `/waɪp/`                   | v. 擦；抹<br>n. 擦拭                    |
+| proposal      | `/prəˈpoʊzəl/`             | n. 提议；求婚                           |
+| barkeep       | `/ˈbɑrˌkip/`               | n. 酒吧老板                             |
+| confession    | `/kənˈfɛʃən/`              | n. 忏悔；供认                           |
+| clutch        | `/klʌtʃ/`                  | v. 抓住；紧握<br>n. 离合器；紧握         |
+| weepy         | `/ˈwipi/`                  | adj. 爱哭的                             |
+| conventional  | `/kənˈvɛnʃənəl/`           | adj. 传统的；常规的                      |
+| portray       | `/pɔrˈtreɪ/`               | v. 描绘；扮演                           |
+| occasional    | `/əˈkeɪʒənəl/`             | adj. 偶尔的；临时的                      |
+| dabbler       | `/ˈdæblər/`                | n. 涉猎者；业余爱好者                    |
+| chica         | `/ˈtʃikə/`                 | n. 小姑娘（西班牙语）                    |
+| bonita        | `/boʊˈnitə/`               | adj. 美丽的（西班牙语）                  |
+| nip           | `/nɪp/`                    | v. 轻咬；掐<br>n. 轻咬；小饮              |
+| heel          | `/hil/`                    | n. 脚后跟；鞋跟<br>v. 紧跟               |
+| thread        | `/θrɛd/`                   | n. 线；线索<br>v. 穿线于；通过           |
+| coupon        | `/ˈkupɒn/`                 | n. 优惠券；礼券                         |
+| preach        | `/priːtʃ/`                 | v. 传教；布道                           |
+| evangelize    | `/ɪˈvændʒəˌlaɪz/`          | v. 传福音                               |
+| tensity       | `/ˈtɛnˌsɪti/`              | n. 紧张；紧张度                         |
+
+
+#### Seventh Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+
+
+
+#### Eighth Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+
+
+
+#### Ninth Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+
+
+
+#### Tenth Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Added: 2024.07.11
 
@@ -28,13 +260,6 @@ Translator: ChatGPT 4o
 | mignon    | `/miːnˈjɑːn/`             | adj. 小巧可爱的                         |
 | truffle   | `/ˈtrʌfəl/`               | n. 松露                               |
 | special   | `/ˈspɛʃəl/`               | adj. 特别的；专门的<br>n. 特别活动；特价 |
-
-
-
-
-
-
-
 
 
 
@@ -269,7 +494,6 @@ Translator: ChatGPT 4o
 | silence        | `/ˈsaɪləns/`          | n. 安静；沉默<br>v. 使安静；使沉默       |
 | tow            | `/toʊ/`               | v. 拖；拉<br>n. 拖；拉                  |
 | row            | `/roʊ/` (n.)<br>`/raʊ/` (v.) | n. 一行；一排；划船<br>v. 划船；争吵 |
-| contest        | `/ˈkɑnˌtɛst/` (n.)<br>`/kənˈtɛst/` (v.) | n. 比赛；竞赛<br>v. 争辩；质疑           |
 | contact        | `/ˈkɑnˌtækt/`         | n. 接触；联系<br>v. 接触；联系           |
 | context        | `/ˈkɑnˌtɛkst/`        | n. 上下文；背景                         |
 | contract       | `/ˈkɑnˌtrækt/` (n.)<br>`/kənˈtrækt/` (v.) | n. 合同；契约<br>v. 收缩；签合同          |
@@ -4870,7 +5094,7 @@ Translator: ChatGPT 4o
 |--------------|--------------------|------------------|-------------------------------------------------------------------------------------------------------------------|
 | conclusive   | `/kənˈkluːsɪv/`    | adj. 确定的；决定性的    | The evidence was conclusive. (证据是确定的。)                                                                            |
 | rapid        | `/ˈræpɪd/`         | adj. 快速的<br>n. 急流 | adj. The patient showed rapid improvement. (病人显示出快速的改善。)<br>n. They navigated the rapids in a kayak. (他们用皮艇穿过急流。) |
-| contest      | `/ˈkɑːntest/`      | n. 比赛；竞赛<br>v. 争夺；质疑 | n. He won the essay contest. <br>(他赢得了作文比赛。)<br>v. They contested the results of the election. <br>(他们对选举结果提出了质疑。) |
+| contest      | `/ˈkɑnˌtɛst/` (n.)<br>`/kənˈtɛst/` (v.)  | n. 比赛；竞赛<br>v. 争夺；质疑 | n. He won the essay contest. <br>(他赢得了作文比赛。)<br>v. They contested the results of the election. <br>(他们对选举结果提出了质疑。) |
 | iteration    | `/ˌɪtəˈreɪʃən/`    | n. 迭代；重复         | The software went through several iterations before release. <br>(软件在发布前经过了几次迭代。)                                 |
 | iterate      | `/ˈɪtəreɪt/`       | v. 迭代；重复         | The software development process was iterated several times. <br>(软件开发过程被迭代了几次。)<br>She iterated the steps to ensure accuracy. <br>(她重复了步骤以确保准确。) |
 | item         | `/ˈaɪtəm/`         | n. 项目；物品         | She checked each item on the list. <br>(她检查了清单上的每个项目。)                                                            |
