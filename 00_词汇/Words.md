@@ -69,7 +69,6 @@ Translator: ChatGPT 4o
 | ferment       | `/ˈfɜrmɛnt/`              | v. 发酵；骚动<br>n. 发酵；骚动         |
 
 
-
 #### Third Table - ~~已校对~~ - ~~已写入 GoodNotes~~
 
 Translator: ChatGPT 4o
@@ -195,7 +194,28 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-
+| 单词               | 美式发音                   | 词性 + 汉语释义                         |
+|--------------------|----------------------------|----------------------------------------|
+| conceptualization  | `/kənˌsɛptʃuələˈzeɪʃən/`  | n. 概念化；概念化过程                   |
+| crux               | `/krʌks/`                  | n. 关键点；症结                          |
+| serving            | `/ˈsɜrvɪŋ/`                | n. 一份食物；服务                       |
+| upon               | `/əˈpɑn/`                  | prep. 在...之上；当...时                |
+| gravitational      | `/ˌɡrævɪˈteɪʃənəl/`       | adj. 重力的；引力的                     |
+| obtain             | `/əbˈteɪn/`               | v. 获得；得到                           |
+| rapey              | `/ˈreɪpi/`                 | adj. 有强暴倾向的                        |
+| creep              | `/krip/`                   | v. 爬行；悄悄移动<br>n. 爬行；毛骨悚然的人 |
+| carpool            | `/ˈkɑrˌpul/`               | n. 拼车<br>v. 拼车                      |
+| Egyptian           | `/ɪˈdʒɪpʃən/`             | adj. 埃及的<br>n. 埃及人                |
+| hallway            | `/ˈhɔlˌweɪ/`              | n. 走廊                                 |
+| carving            | `/ˈkɑrvɪŋ/`               | n. 雕刻；雕刻品                         |
+| psychic            | `/ˈsaɪkɪk/`               | adj. 心灵的；精神的<br>n. 灵媒          |
+| pendant            | `/ˈpɛndənt/`              | n. 吊坠；垂饰                           |
+| trap               | `/træp/`                  | n. 陷阱；圈套<br>v. 诱捕；困住           |
+| knack              | `/næk/`                   | n. 本领；技巧                           |
+| prey               | `/preɪ/`                  | n. 猎物；牺牲者<br>v. 捕食             |
+| thorn              | `/θɔrn/`                  | n. 刺；荆棘                             |
+| jam                | `/dʒæm/`                  | n. 果酱；堵塞<br>v. 堵塞；卡住           |
+| hedge              | `/hɛdʒ/`                  | n. 树篱；防范措施<br>v. 用树篱围住；防范 |
 
 
 #### Eighth Table - ~~已校对~~ - ~~已写入 GoodNotes~~
@@ -204,7 +224,28 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-
+| 单词               | 美式发音                   | 词性 + 汉语释义                         |
+|--------------------|----------------------------|----------------------------------------|
+| greek              | `/ɡriːk/`                  | adj. 希腊的<br>n. 希腊人；希腊语         |
+| moderation         | `/ˌmɑdəˈreɪʃən/`           | n. 适度；节制                           |
+| candy              | `/ˈkændi/`                 | n. 糖果<br>v. 把...制成蜜饯             |
+| asses              | `/ˈæsɪz/`                  | n. 驴子（复数）；蠢人（复数）            |
+| johnny             | `/ˈdʒɑni/`                 | n. 约翰尼（男子名）                     |
+| bare               | `/bɛr/`                    | adj. 赤裸的；空的<br>v. 露出            |
+| barely             | `/ˈbɛrli/`                 | adv. 几乎不；仅仅                        |
+| bite               | `/baɪt/`                   | v. 咬；叮<br>n. 咬；一口                |
+| bate               | `/beɪt/`                   | v. 抑制；减少                           |
+| con                | `/kɑn/`                    | v. 欺骗；精读<br>n. 反对票              |
+| greymatter         | `/ɡreɪ ˈmætər/`            | n. 灰质（脑）                           |
+| indent             | `/ɪnˈdɛnt/`                | v. 缩排；切割成锯齿状<br>n. 缩进        |
+| tragedy            | `/ˈtrædʒədi/`              | n. 悲剧；灾难                           |
+| ritualistic        | `/ˌrɪtʃuəˈlɪstɪk/`         | adj. 仪式的；惯例的                     |
+| hysterical         | `/hɪˈstɛrɪkəl/`            | adj. 歇斯底里的；异常兴奋的             |
+| sphere             | `/sfɪr/`                   | n. 球体；领域                           |
+| simplicity         | `/sɪmˈplɪsɪti/`            | n. 简单；朴素                           |
+| breeze             | `/briz/`                   | n. 微风；轻而易举的事<br>v. 吹微风       |
+| petrichor          | `/ˈpɛtrɪkɔr/`              | n. 雨后泥土的芬芳                       |
+| slam               | `/slæm/`                   | v. 猛撞；猛烈抨击<br>n. 猛撞；砰的一声  |
 
 
 #### Ninth Table - ~~已校对~~ - ~~已写入 GoodNotes~~
@@ -213,7 +254,28 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-
+| 单词               | 美式发音                   | 词性 + 汉语释义                         |
+|--------------------|----------------------------|----------------------------------------|
+| sociopath          | `/ˈsoʊsiəˌpæθ/`            | n. 反社会人格者                         |
+| purity             | `/ˈpjʊrəti/`               | n. 纯净；纯洁                           |
+| realm              | `/rɛlm/`                   | n. 领域；王国                           |
+| splendor           | `/ˈsplɛndər/`              | n. 壮丽；辉煌                           |
+| Rome               | `/roʊm/`                   | n. 罗马                                 |
+| gaze               | `/ɡeɪz/`                   | v. 凝视；注视<br>n. 凝视               |
+| daylight           | `/ˈdeɪˌlaɪt/`              | n. 日光；白昼                           |
+| rose               | `/roʊz/`                   | n. 玫瑰；蔷薇                           |
+| turquoise          | `/ˈtɜrˌkwɔɪz/`             | n. 绿松石；青绿色                       |
+| bound              | `/baʊnd/`                  | adj. 必定的；受约束的<br>v. 束缚；跳跃<br>n. 界限；跳跃 |
+| seamless           | `/ˈsimləs/`                | adj. 无缝的；连续的                     |
+| elegant            | `/ˈɛlɪɡənt/`               | adj. 优雅的；精美的                     |
+| reconciliation     | `/ˌrɛkənˌsɪliˈeɪʃən/`      | n. 和解；调和                           |
+| bang               | `/bæŋ/`                    | n. 巨响；刘海<br>v. 发出巨响；猛击       |
+| presentation       | `/ˌprɛzənˈteɪʃən/`         | n. 演示；呈现                           |
+| bundle             | `/ˈbʌndəl/`                | n. 捆；束<br>v. 捆绑；归拢              |
+| sin                | `/sɪn/`                    | n. 罪恶；罪行<br>v. 犯罪                |
+| attitude           | `/ˈætɪˌtud/`               | n. 态度；姿态                           |
+| figurative         | `/ˈfɪɡjərətɪv/`            | adj. 比喻的；象征的                     |
+| ribosome           | `/ˈraɪbəˌsoʊm/`            | n. 核糖体                               |
 
 
 #### Tenth Table - ~~已校对~~ - ~~已写入 GoodNotes~~
@@ -222,19 +284,28 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+| 单词         | 美式发音                   | 词性 + 汉语释义                         |
+|--------------|----------------------------|----------------------------------------|
+| chill        | `/tʃɪl/`                   | v. 使变冷；使感到寒冷<br>n. 寒冷；寒意<br>adj. 寒冷的 |
+| Mizuno       | `/mɪˈzuːnoʊ/`              | 专有名词：美津浓（日本著名体育用品品牌） |
+| mutable      | `/ˈmjutəbəl/`              | adj. 易变的；可变的                     |
+| quarter      | `/ˈkwɔrtər/`               | n. 四分之一；季度；一刻钟<br>v. 四等分  |
+| gossip       | `/ˈɡɑsəp/`                 | n. 闲话；八卦<br>v. 闲聊；传播流言蜚语  |
+| vague        | `/veɪɡ/`                   | adj. 模糊的；不明确的                   |
+| infra        | `/ˈɪnfrə/`                 | prefix. 表示“在下面”或“低于”的         |
+| ticket       | `/ˈtɪkɪt/`                 | n. 票；罚单<br>v. 给...开罚单          |
+| formality    | `/fɔrˈmælɪti/`             | n. 礼节；正式手续                       |
+| voluntary    | `/ˈvɑlənˌtɛri/`            | adj. 自愿的；志愿的                     |
+| voluntarily  | `/ˌvɑlənˈtɛrəli/`          | adv. 自愿地                             |
+| exorcist     | `/ˈɛksɔrsɪst/`             | n. 驱魔人                              |
+| witness      | `/ˈwɪtnəs/`                | n. 目击者；证人<br>v. 目击；见证         |
+| neat         | `/nit/`                    | adj. 整洁的；巧妙的                     |
+| trick        | `/trɪk/`                   | n. 诡计；把戏<br>v. 欺骗；戏弄          |
+| foul         | `/faʊl/`                   | adj. 恶臭的；污秽的<br>n. 犯规<br>v. 犯规；弄脏 |
+| slaughter    | `/ˈslɔtər/`                | n. 屠宰；大屠杀<br>v. 屠宰；屠杀        |
+| embodiment   | `/ɪmˈbɑdimənt/`            | n. 化身；体现                           |
+| petty        | `/ˈpɛti/`                  | adj. 琐碎的；小气的                     |
+| damnation    | `/dæmˈneɪʃən/`             | n. 诅咒；永罚                           |
 
 
 
