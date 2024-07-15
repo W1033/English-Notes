@@ -6,6 +6,74 @@
 
 
 
+### Add: 2024.07.15
+
+#### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词             | 美式发音                  | 词性 + 汉语释义                         |
+|----------------|-----------------------|----------------------------------------|
+| ribeye         | `/ˈrɪbˌaɪ/`           | n. 肋眼牛排                             |
+| vogue          | `/voʊɡ/`              | n. 时尚；流行                           |
+| evacuate       | `/ɪˈvækjueɪt/`        | v. 疏散；撤离                           |
+| neck           | `/nɛk/`               | n. 脖子；颈部<br>v. 拥抱                |
+| journalist     | `/ˈdʒɜrnəlɪst/`       | n. 记者                                 |
+| journalistic   | `/ˌdʒɜrnəˈlɪstɪk/`    | adj. 新闻的；新闻工作的                 |
+| protect        | `/prəˈtɛkt/`          | v. 保护                                 |
+| protective     | `/prəˈtɛktɪv/`        | adj. 保护的；防护的                     |
+| refractory     | `/rɪˈfræktəri/`       | adj. 难治的；耐高温的                   |
+| collocation    | `/ˌkɑləˈkeɪʃən/`      | n. 搭配；配置                           |
+| lamb           | `/læm/`               | n. 羊羔；羊肉<br>v. 产羊羔               |
+| institution    | `/ˌɪnstɪˈtuʃən/`      | n. 机构；制度                           |
+| courageous     | `/kəˈreɪdʒəs/`        | adj. 勇敢的                             |
+| vend           | `/vɛnd/`              | v. 出售；贩卖                           |
+| switch         | `/swɪʧ/`              | v. 转换；调换<br>n. 开关；转换           |
+| subtitle       | `/ˈsʌbˌtaɪtl/`        | n. 字幕；副标题<br>v. 给...加字幕         |
+| bilingual      | `/baɪˈlɪŋɡwəl/`       | adj. 双语的                             |
+| dual           | `/ˈduəl/`             | adj. 双重的；双的                       |
+| accomplish     | `/əˈkɑːmplɪʃ/`        | v. 完成；实现                           |
+| accomplished   | `/əˈkɑːmplɪʃt/`       | adj. 有成就的；熟练的                   |
+
+
+#### Second Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词            | 美式发音                | 词性 + 汉语释义                     |
+|---------------|---------------------|---------------------------------|
+| scramble      | `/ˈskræmbəl/`       | v. 攀爬；争夺<br>n. 攀登；争夺          |
+| transcript    | `/ˈtrænˌskrɪpt/`    | n. 抄本；成绩单                     |
+| bullet        | `/ˈbʊlɪt/`          | n. 子弹                          |
+| utility       | `/juˈtɪləti/`       | n. 效用；公用事业                    |
+| burnout       | `/ˈbɜrnˌaʊt/`       | n. 精疲力竭；烧坏                    |
+| impress       | `/ɪmˈprɛs/`         | v. 使印象深刻；压印                   |
+| northland     | `/ˈnɔrθˌlænd/`      | n. 北国；北部地区                    |
+| northernmost  | `/ˈnɔrðərnˌmoʊst/`  | adj. 最北的                       |
+| pristine      | `/ˈprɪstin/`        | adj. 原始的；未受损的                 |
+| stretch       | `/strɛtʃ/`          | v. 伸展；拉紧<br>n. 伸展；一段时间        |
+| bareback      | `/ˈbɛrˌbæk/`        | adj. 不用马鞍的<br>adv. 不用马鞍地      |
+| confident     | `/ˈkɑnfɪdənt/`      | adj. 自信的                      |
+| host          | `/hoʊst/`           | n. 主人；主持人<br>v. 主持；招待         |
+| thought       | `/θɔt/`             | n. 思想；想法                      |
+| desire        | `/dɪˈzaɪər/`        | v. 渴望；想要<br>n. 欲望；渴望          |
+| role          | `/roʊl/`            | n. 角色；作用                      |
+| simplicity    | `/sɪmˈplɪsɪti/`     | n. 简单；朴素                      |
+| eliminate     | `/ɪˈlɪməˌneɪt/`     | v. 消除；淘汰                      |
+| disown        | `/dɪsˈoʊn/`         | v. 否认；与...断绝关系                |
+| longing       | `/ˈlɔŋɪŋ/`          | n. 渴望<br>adj. 渴望的             |
+
+
+
+
+
+
+
+
 ### Added: 2024.07.12
 
 #### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
@@ -50,7 +118,6 @@ Translator: ChatGPT 4o
 | lettuce       | `/ˈlɛtəs/`                | n. 生菜                                 |
 | Parmesan      | `/ˈpɑrməˌzæn/`            | n. 帕尔马干酪                           |
 | melted        | `/mɛltɪd/`                | adj. 融化的                             |
-
 
 
 #### Second Table - ~~已校对~~ - ~~已写入 GoodNotes~~
@@ -321,7 +388,6 @@ Translator: ChatGPT 4o
 | realm           | `/rɛlm/`                  | n. 领域                        |
 | splendor        | `/ˈsplɛndər/`             | n. 壮丽                        |
 | Rome            | `/roʊm/`                  | n. 罗马                        |
-| gaze            | `/ɡeɪz/`                  | v. 凝视<br>n. 凝视               |
 | daylight        | `/ˈdeɪˌlaɪt/`             | n. 日光                        |
 | rose            | `/roʊz/`                  | n. 玫瑰                        |
 | turquoise       | `/ˈtɜrˌkwɔɪz/`            | n. 绿松石                       |
@@ -722,7 +788,6 @@ Translator: ChatGPT 4o
 | silence        | `/ˈsaɪləns/`          | n. 安静；沉默<br>v. 使安静；使沉默       |
 | tow            | `/toʊ/`               | v. 拖；拉<br>n. 拖；拉                  |
 | row            | `/roʊ/` (n.)<br>`/raʊ/` (v.) | n. 一行；一排；划船<br>v. 划船；争吵 |
-| contact        | `/ˈkɑnˌtækt/`         | n. 接触；联系<br>v. 接触；联系           |
 | contract       | `/ˈkɑnˌtrækt/` (n.)<br>`/kənˈtrækt/` (v.) | n. 合同；契约<br>v. 收缩；签合同          |
 
 根据“简洁性”和“全面性”之间的平衡原则，以下是更新后的版本：
@@ -998,7 +1063,6 @@ Translator: ChatGPT 4o
 | forum         | `/ˈfɔrəm/`         | n. 论坛                                |
 | curtain       | `/ˈkɜrtən/`        | n. 窗帘                                |
 | divorce       | `/dɪˈvɔrs/`        | n. 离婚<br>v. 离婚                       |
-| gradual       | `/ˈɡrædʒuəl/`      | adj. 逐渐的                            |
 | block         | `/blɑk/`           | n. 块<br>v. 阻止                        |
 | persuade      | `/pərˈsweɪd/`      | v. 说服                                |
 | summarize     | `/ˈsʌməˌraɪz/`     | v. 总结；概述                           |
@@ -1076,7 +1140,6 @@ Translator: ChatGPT 4o
 | ravel       | `/ˈrævəl/`         | v. 解开<br>n. 纠结       |
 | over time   | `/ˈoʊvər taɪm/`    | phr. 随着时间的推移         |
 | overtime    | `/ˈoʊvərˌtaɪm/`    | n. 加班时间<br>adv. 超时工作 |
-| gradual     | `/ˈɡrædʒuəl/`      | adj. 逐渐的             |
 | generalize  | `/ˈdʒɛnərəˌlaɪz/`  | v. 概括                |
 | liberal     | `/ˈlɪbərəl/`       | adj. 自由的<br>n. 自由主义者 |
 | formula     | `/ˈfɔrmjələ/`      | n. 公式                |
@@ -1963,7 +2026,6 @@ Translator: ChatGPT 4o
 | notice        | `/ˈnoʊtɪs/`      | v. 注意到<br>n. 通知             | v. Did you notice the change in his behavior? <br>(你注意到他行为的变化了吗？)<br>n. The meeting was announced in the notice. <br>(会议在通知中宣布了。) |
 | noticing      | `/ˈnoʊtɪsɪŋ/`    | v. 注意到（notice 的现在分词）        | She kept noticing new details. <br>(她不断注意到新的细节。) |
 | collocate     | `/ˈkɑləˌkeɪt/`   | v. 搭配；排列                    | Certain adjectives collocate with specific nouns. <br>(某些形容词与特定名词搭配。) |
-| collocation   | `/ˌkɑləˈkeɪʃən/` | n. 搭配；排列                    | The collocation of words in this sentence is unusual. <br>(这句话中的词语搭配很不寻常。) |
 | absorb        | `/əbˈzɔrb/`      | v. 吸收；吸引                    | Plants absorb sunlight for photosynthesis. <br>(植物吸收阳光进行光合作用。) |
 
 
@@ -3318,7 +3380,6 @@ Translator: ChatGPT 4
 | previous      | `/ˈpriːviəs/`      | adj. 之前的，先前的           | He had seen them in previous meetings.<br>(他在之前的会议中见过他们。) |
 | hate          | `/heɪt/`           | v. 憎恨<br>n. 憎恨         | v. I hate being late.<br>(我讨厌迟到。)<br>n. He felt a deep hate.<br>(他感到深深的憎恨。) |
 | tribute       | `/ˈtrɪbjuːt/`      | n. 贡品；赞颂，致敬            | The concert was a tribute to the legendary musician.<br>(这场音乐会是对传奇音乐家的致敬。) |
-| institution   | `/ˌɪnstɪˈtjuːʃn/`  | n. 机构；制度               | He works at a financial institution.<br>(他在一家金融机构工作。) |
 | distraction   | `/dɪˈstrækʃn/`     | n. 分心，注意力分散            | Loud noises are a big distraction when studying.<br>(学习时噪音是一个很大的干扰。) |
 | soundtrack    | `/ˈsaʊndtræk/`     | n. 原声带                 | The movie's soundtrack became very popular.<br>(这部电影的原声带非常受欢迎。) |
 | fusion        | `/ˈfjuːʒən/`       | n. 融合                  | The restaurant offers a fusion of Asian and Western cuisines.<br>(这家餐厅提供亚洲和西方菜系的融合。) |
@@ -3977,7 +4038,6 @@ Translator: ChatGPT 4 & 4o
 
 | 单词        | 美式发音          | 词类 + 汉语释义       | 示例                                                         |
 | ---------- | ---------------- | ------------------- | ------------------------------------------------------------ |
-| protective | `/prəˈtɛktɪv/    | adj. 保护性的         | She wore protective gear while riding the motorcycle.<br />(她骑摩托车时穿着防护装备。) |
 | extensive  | `/ɪkˈstɛnsɪv/`   | adj. 广泛的；大量的     | His research has extensive coverage of the subject.<br>(他的研究广泛涵盖了这个主题。) |
 | species    | `/ˈspiːʃiːz/`    | n. 物种               | This species is endangered and protected by law.<br>(这个物种濒临灭绝并受到法律保护。) |
 | primeval   | `/praɪˈmiːvəl/`  | adj. 原始的；远古的     | The primeval forest is untouched by modern development.<br>(这片原始森林未被现代开发触及。) |
@@ -4524,8 +4584,6 @@ Translator: ChatGPT 4
 | evident      | `/ˈɛvɪdənt/`      | adj. 明显的；显而易见的    | It was evident that she was unhappy. <br />(她不高兴是显而易见的。)<br />The evidence was evident to all present. <br />(在场的所有人都明显看到了证据。)<br />The damage to the building was evident even from a distance. <br />(即使从远处也能明显看到建筑的损坏。) |
 | profound     | `/prəˈfaʊnd/`     | adj. 深刻的；深远的      | She has a profound understanding of the subject. <br />(她对这个主题有深刻的理解。) |
 | vaccinate    | `/ˈvæksəneɪt/`    | v. 接种疫苗           | Many parents choose to vaccinate their children against common diseases. <br />(许多父母选择给他们的孩子接种预防常见疾病的疫苗。) |
-| accomplished | `/əˈkɑːmplɪʃt/`   | adj. 熟练的；有成就的     | She is an accomplished musician, known for her technical proficiency and emotional performances. <br />(她是一位有成就的音乐家，以其技术精湛和富有感情的表演而闻名。) |
-| accomplish   | `/əˈkɑːmplɪʃ/`    | v. 完成；实现          | She accomplished her goal of running a marathon. <br />(她实现了跑完马拉松的目标。) |
 | pianist      | `/ˈpiːənɪst/`     | n. 钢琴家            | He is a talented pianist. <br />(他是一位有才华的钢琴家。) |
 | musician     | `/mjʊˈzɪʃən/`     | n. 音乐家            | She works as a professional musician. <br />(她是一名职业音乐家。) |
 | proficiency  | `/prəˈfɪʃənsi/`   | n. 精通；熟练          | Her proficiency in Japanese is impressive. <br />(她的日语熟练程度令人印象深刻。) |
@@ -4564,10 +4622,6 @@ Translator: ChatGPT 4
     - 描述为 **`深刻的`** 或 **`深远的`**（profound）意味着某事物具有深度和强烈的影响，通常指思想、感受或影响程度深远，超出了表面的理解。
 - **vaccinate (v.)**：
     - 作为动词，“vaccinate”意味着给予**`疫苗接种`**，是指通过注射疫苗来提供对某种疾病的免疫力。这个过程帮助个体或群体抵抗特定的病毒或细菌，是现代医学预防疾病的重要手段。
-- **accomplished (adj.)**：
-    - 作为形容词，“accomplished”描述了在某个领域或技能上非常**`熟练的`**和**`有成就的`**状态。它通常用来赞扬某人的技能水平非常高，并且在其领域内取得了显著的成就。
-- **accomplish (v.)**：
-    - 当我们谈论 “accomplish”，指的是 **`完成`** 或 **`实现`** 某个任务或目标，表示成功地达到预定的结果或标准。
 - **pianist (n.)**：
     - “pianist” 指的是 **`钢琴家`**，即专业演奏钢琴的人。
 - **musician (n.)**：
