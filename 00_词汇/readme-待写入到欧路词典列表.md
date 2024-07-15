@@ -15,4 +15,7 @@ fold, `/foʊld/`<br/><br/> v. 折叠<br><br>n. 褶皱(zhě zhòu)
 laundry, `/ˈlɔndri/`<br/><br/> n. 洗衣；洗衣店                    
 uneasy, `/ʌnˈizi/`<br/><br/> adj. 不安的                     
 neatly, `/ˈnitli/`<br/><br/> adv. 整洁地                     
-yet, `/jɛt/`<br/><br/> adv. 还；然而                    
+yet, `/jɛt/`<br/><br/> adv. 还；然而                 
+
+
+
