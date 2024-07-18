@@ -143,7 +143,6 @@ Translator: ChatGPT 4o
 | splendor         | `/ˈsplɛndər/`           | n. 光辉；壮丽                         |
 | Rome             | `/roʊm/`                | n. 罗马                               |
 | gaze             | `/ɡeɪz/`                | v. 凝视<br>n. 凝视                      |
-| daylight         | `/ˈdeɪˌlaɪt/`           | n. 日光；白昼                         |
 | rose             | `/roʊz/`                | n. 玫瑰；玫瑰色                       |
 | turquoise        | `/ˈtɜrˌkwɔɪz/`          | n. 绿松石；青绿色                     |
 | bound            | `/baʊnd/`               | adj. 很有可能的；受约束的<br>v. 跳跃<br>n. 界限 |
@@ -201,28 +200,31 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词            | 美式发音                | 词性 + 汉语释义                     |
-|---------------|---------------------|---------------------------------|
-| scramble      | `/ˈskræmbəl/`       | v. 攀爬；争夺<br>n. 攀登；争夺          |
-| transcript    | `/ˈtrænˌskrɪpt/`    | n. 抄本；成绩单                     |
-| bullet        | `/ˈbʊlɪt/`          | n. 子弹                          |
-| utility       | `/juˈtɪləti/`       | n. 效用；公用事业                    |
-| burnout       | `/ˈbɜrnˌaʊt/`       | n. 精疲力竭；烧坏                    |
-| impress       | `/ɪmˈprɛs/`         | v. 使印象深刻；压印                   |
-| northland     | `/ˈnɔrθˌlænd/`      | n. 北国；北部地区                    |
-| northernmost  | `/ˈnɔrðərnˌmoʊst/`  | adj. 最北的                       |
-| pristine      | `/ˈprɪstin/`        | adj. 原始的；未受损的                 |
-| stretch       | `/strɛtʃ/`          | v. 伸展；拉紧<br>n. 伸展；一段时间        |
-| bareback      | `/ˈbɛrˌbæk/`        | adj. 不用马鞍的<br>adv. 不用马鞍地      |
-| confident     | `/ˈkɑnfɪdənt/`      | adj. 自信的                      |
-| host          | `/hoʊst/`           | n. 主人；主持人<br>v. 主持；招待         |
-| thought       | `/θɔt/`             | n. 思想；想法                      |
-| desire        | `/dɪˈzaɪər/`        | v. 渴望；想要<br>n. 欲望；渴望          |
-| role          | `/roʊl/`            | n. 角色；作用                      |
-| simplicity    | `/sɪmˈplɪsɪti/`     | n. 简单；朴素                      |
-| eliminate     | `/ɪˈlɪməˌneɪt/`     | v. 消除；淘汰                      |
-| disown        | `/dɪsˈoʊn/`         | v. 否认；与...断绝关系                |
-| longing       | `/ˈlɔŋɪŋ/`          | n. 渴望<br>adj. 渴望的             |
+| 单词            | 美式发音               | 词性 + 汉语释义                     |
+|---------------|--------------------|---------------------------------|
+| scramble      | `/ˈskræmbəl/`      | v. 攀爬；争夺<br>n. 攀登；争夺          |
+| transcript    | `/ˈtrænˌskrɪpt/`   | n. 抄本；成绩单                     |
+| bullet        | `/ˈbʊlɪt/`         | n. 子弹                          |
+| utility       | `/juˈtɪləti/`      | n. 效用；公用事业                    |
+| burnout       | `/ˈbɜrnˌaʊt/`      | n. 精疲力竭；烧坏                    |
+| impress       | `/ɪmˈprɛs/`        | v. 使印象深刻；压印                   |
+| northland     | `/ˈnɔrθˌlænd/`     | n. 北国；北部地区                    |
+| northernmost  | `/ˈnɔrðərnˌmoʊst/` | adj. 最北的                       |
+| pristine      | `/ˈprɪstin/`       | adj. 原始的；未受损的                 |
+| stretch       | `/strɛtʃ/`         | v. 伸展；拉紧<br>n. 伸展；一段时间        |
+| bareback      | `/ˈbɛrˌbæk/`       | adj. 不用马鞍的<br>adv. 不用马鞍地      |
+| confident     | `/ˈkɑnfɪdənt/`     | adj. 自信的                      |
+| host          | `/hoʊst/`          | n. 主人；主持人<br>v. 主持；招待         |
+| thought       | `/θɒːt/`           | n. 思想；想法；关心<br>v. think 的过去式和过去分词                     |
+| desire        | `/dɪˈzaɪər/`       | v. 渴望；想要<br>n. 欲望；渴望          |
+| role          | `/roʊl/`           | n. 角色；作用                      |
+| simplicity    | `/sɪmˈplɪsɪti/`    | n. 简单；朴素                      |
+| eliminate     | `/ɪˈlɪməˌneɪt/`    | v. 消除；淘汰                      |
+| disown        | `/dɪsˈoʊn/`        | v. 否认；与...断绝关系                |
+| longing       | `/ˈlɔŋɪŋ/`         | n. 渴望<br>adj. 渴望的             |
+
+注：
+- 2024.07.18 已经对 thought 进行过校对，无需再次校对了。
 
 
 
@@ -405,7 +407,6 @@ Translator: ChatGPT 4o
 | janitor       | `/ˈdʒænɪtər/`              | n. 看门人；清洁工                      |
 | irony         | `/ˈaɪrəni/`                | n. 讽刺；反讽                          |
 | fella         | `/ˈfɛlə/`                  | n. 小伙子；伙计                        |
-| bloke         | `/bloʊk/`                  | n. 家伙；男人                          |
 | peep          | `/pip/`                    | v. 窥视；隐约显现<br>n. 窥视            |
 
 根据“简洁性”和“全面性”之间的平衡原则，以下是更新后的版本：
@@ -428,7 +429,6 @@ Translator: ChatGPT 4o
 | janitor       | `/ˈdʒænɪtər/`              | n. 看门人                              |
 | irony         | `/ˈaɪrəni/`                | n. 讽刺                                |
 | fella         | `/ˈfɛlə/`                  | n. 小伙子                              |
-| bloke         | `/bloʊk/`                  | n. 家伙                                |
 | sentient      | `/ˈsɛnʃənt/`               | adj. 有感知能力的                      |
 | peep          | `/pip/`                    | v. 窥视<br>n. 窥视                      |
 
@@ -1925,7 +1925,6 @@ Translator: ChatGPT 4o
 | leave  | `/liːv/`   | v. 离开；留下<br>n. 休假       | v. She left the room without saying a word. <br>(她没说一句话就离开了房间。)<br>Please leave your message after the beep. <br>(请在哔声后留下您的留言。)<br>n. He is on leave this week. <br>(他这周在休假。) |
 | left   | `/left/`   | adj. 左边的<br>n. 左边       | adj. Turn left at the next intersection. <br>(在下一个路口左转。)<br>n. The restaurant is on your left. <br>(餐厅在你的左边。) |
 | let    | `/let/`    | v. 让；允许                 | She let him borrow her book. <br>(她让他借了她的书。) |
-| light  | `/laɪt/`   | n. 光；灯<br>adj. 轻的；明亮的   | n. The room was filled with light. <br>(房间里充满了光。)<br>adj. The box is light and easy to carry. <br>(这个盒子很轻，易于携带。) |
 | like   | `/laɪk/`   | v. 喜欢<br>prep. 像        | v. I like chocolate ice cream. <br>(我喜欢巧克力冰淇淋。)<br>prep. She sings like an angel. <br>(她唱歌像天使一样。) |
 | little | `/ˈlɪtl/`  | adj. 小的；少量的<br>adv. 稍微  | adj. She has a little dog. <br>(她有一只小狗。)<br>adv. The soup needs a little more salt. <br>(这汤需要再加一点盐。)live |
 | live   | `/lɪv/` (v.);<br />`/laɪv/` (adj.) | v. 居住；生活；直播<br>adj. 活的；实况的 | v. They live in New York. <br>(他们住在纽约。)<br>He wants to live a happy life. <br>(他想过幸福的生活。)<br>The event will be broadcast live. <br>(该事件将现场直播。)<br>adj. She bought a live lobster. <br>(她买了一只活龙虾。)<br>We watched the live coverage of the game. <br>(我们观看了比赛的实况转播。) |
@@ -2917,7 +2916,6 @@ Translator: ChatGPT 4
 | cult         | `/kʌlt/             | n. 邪教；狂热崇拜           | He wrote a book about the dangers of cults. <br>(他写了一本关于邪教危险的书。) |
 | supervision  | `/ˌsuːpərˈvɪʒən/    | n. 监督；管理               | The children were under the supervision of a teacher. <br>(孩子们在一位老师的监督下。) |
 | oval         | `/ˈoʊvəl/           | n. 椭圆形<br>adj. 椭圆形的   | n. The table was an oval shape. <br>(桌子是椭圆形的。)<br>adj. She drew an oval figure. <br>(她画了一个椭圆形图形。) |
-| obsession    | `/əbˈsɛʃən/`        | n. 痴迷；困扰              | His obsession with the game was troubling. <br>(他对这个游戏的痴迷令人困扰。) |
 | memo         | `/ˈmɛmoʊ/           | n. 备忘录                    | Please read the memo before the meeting. <br>(请在会议前阅读备忘录。) |
 | trophy       | `/ˈtroʊfi/          | n. 奖杯                      | He won a trophy in the tennis tournament. <br>(他在网球赛中赢得了奖杯。) |
 | concession   | `/kənˈsɛʃən/        | n. 让步；特许权               | The company made several concessions during negotiations. <br>(公司在谈判中作出了几项让步。) |
@@ -2926,7 +2924,6 @@ Translator: ChatGPT 4
 | oval         | `/ˈoʊvəl/           | adj. 椭圆形的<br>n. 椭圆形    | adj. She drew an oval shape. <br>(她画了一个椭圆形。)<br>n. The table was an oval. <br>(桌子是椭圆形的。) |
 | advertise    | `/ˈædvɚtaɪz/        | v. 宣传；广告                | They decided to advertise the new product on TV. <br>(他们决定在电视上广告新产品。) |
 | preservation | `/ˌprɛzɚˈveɪʃən/    | n. 保存；保护               | The museum is dedicated to the preservation of ancient artifacts. <br>(这家博物馆致力于古代文物的保存。) |
-| geography    | `/dʒiˈɒɡrəfi/       | n. 地理学                   | She has an interest in the geography of the Middle East. <br>(她对中东地区的地理学感兴趣。) |
 | perch        | `/pɜrtʃ/            | n. 栖木；高处的座位<br>v. 栖息 | n. The bird returned to its perch. <br>(鸟儿回到了它的栖木上。)<br>v. She perched on the edge of the sofa. <br>(她坐在沙发的边缘。) |
 | nanny        | `/ˈnæ.ni/           | n. 保姆                     | She hired a nanny to take care of her children. <br>(她雇了一个保姆来照顾她的孩子。) |
 | preference   | `/ˈprefərəns/`      | n. 偏好；优先权              | His preference is always for classic movies. <br>(他总是偏爱经典电影。) |
@@ -3701,7 +3698,6 @@ Translator: ChatGPT 4
 | indestructible| `/ˌɪndɪˈstrʌktəbəl/    | adj. 坚不可摧的          | The material is almost indestructible.<br />(这种材料几乎坚不可摧。) |
 | mast          | `/mæst/                | n. 桅杆                  | The ship has three masts.<br />(这艘船有三根桅杆。) |
 | overboard     | `/ˌoʊvərˈbɔːrd/        | adv. 船外，过头          | He accidentally fell overboard.<br />(他不小心掉到船外。) |
-| light         | `/laɪt/                | n. 光；adj. 轻的；v. 点亮  | n. The light from the sun is bright.<br />(来自太阳的光很亮。)<br />adj. The box is light enough to carry.<br />(这个盒子很轻，可以搬运。)<br />v. Light the candle.<br />(点亮蜡烛。) |
 | grant         | `/ɡrænt/               | v. 授予，同意；n. 补助金     | v. They granted him permission.<br />(他们授予了他许可。)<br />n. She received a grant for her research.<br />(她获得了研究补助金。) |
 | alternative   | `/ɔlˈtɜrnətɪv/         | adj. 替代的；n. 替代品     | adj. We need an alternative plan.<br />(我们需要一个替代计划。)<br />n. This route is an alternative to the main road.<br />(这条路线是主路的一个替代选择。) |
 | johnny        | `/ˈdʒɑni/              | n. (口语)男人，小伙子       | Johnny did well in school today.<br />(约翰尼今天在学校表现很好。) |
@@ -3958,7 +3954,6 @@ Translator: ChatGPT 4
 | ----------- | -----------------| ------------------------ | ------------------------------------------------------------ |
 | world       | `/wɜrld/         | n. 世界                   | He has traveled around the world.<br />(他已经环游了世界。)  |
 | dose        | `/doʊs/          | n. 剂量；v. 给...服药      | n. The doctor prescribed a dose of medicine.<br />(医生开了一剂药。)<br />v. She dosed the child with cough syrup.<br />(她给这个孩子服用了咳嗽糖浆。) |
-| light       | `/laɪt/          | n. 光；adj. 轻的；v. 点亮   | n. The light from the sun is very bright.<br />(太阳的光非常明亮。)<br />adj. She prefers light meals.<br />(她喜欢吃清淡的饭菜。)<br />v. Light the candle.<br />(点燃蜡烛。) |
 | impression  | `/ɪmˈprɛʃən/     | n. 印象；感觉              | His first impression of the city was positive.<br />(他对这座城市的第一印象是积极的。) |
 | serial      | `/ˈsɪriəl/       | adj. 连续的；n. 连续剧      | adj. She writes for a serial publication.<br />(她为一份连续出版物写作。)<br />n. The new serial is popular on television.<br />(新的电视连续剧很受欢迎。) |
 | tributary   | `/ˈtrɪbjʊtɛri/   | n. 支流                   | The river has several tributaries.<br />(这条河有几条支流。) |
@@ -4145,7 +4140,6 @@ Translator: ChatGPT 4
 | fortress      | `/ˈfɔːr.trəs/      | n. 要塞，堡垒                 | The fortress stood on the hill, overlooking the valley.<br />(要塞矗立在山丘上，俯瞰着山谷。) |
 | troop         | `/truːp/           | n. 军队；一群（人或动物）       | The troop of scouts set up their tents in the clearing.<br />(这群童子军在空地上搭起了他们的帐篷。) |
 | ※ | ※ | ※ | ※ |
-| piss          | `/pɪs/             | v. 小便；n. 小便（粗俗用语）    | v. The dog pissed on the tree.<br />(狗在树上小便了。)       |
 | bloke         | `/bloʊk/           | n. 家伙，男人（非正式用语）     | He's a nice bloke.<br />(他是个不错的家伙。)                 |
 | factorial     | `/fækˈtɔːriəl/     | n. 阶乘                      | The factorial of 5 is 120.<br />(5的阶乘是120。)             |
 | consider      | `/kənˈsɪdər/       | v. 考虑；认为                 | Please consider my proposal.<br />(请考虑我的提议。)         |
@@ -4153,7 +4147,6 @@ Translator: ChatGPT 4
 | think about   | `/θɪŋk əˈbaʊt/     | phr. 考虑                    | I need to think about your offer.<br />(我需要考虑一下你的提议。) |
 | think over    | `/θɪŋk ˈoʊvər/     | phr. 仔细考虑                 | He decided to think over the job opportunity.<br />(他决定仔细考虑这个工作机会。) |
 | torture       | `/ˈtɔːrʧər/        | n. 折磨，拷打；v. 折磨         | n. The prisoners faced torture.<br />(囚犯们面临拷打。)<br />v. He was tortured for the information.<br />(他因信息被折磨。) |
-| obsession     | `/əbˈsɛʃən/        | n. 痴迷，强迫观念              | His obsession with cleanliness is well-known.<br />(他对清洁的痴迷是众所周知的。) |
 | ※ | ※ | ※ | ※ |
 | grip          | `/ɡrɪp/            | n. 紧握，把握；v. 抓紧         | n. The climber had a firm grip on the rope.<br />(攀岩者紧紧握住绳子。)<br />v. The fear gripped him as he walked through the dark alley.<br />(当他穿过黑暗的小巷时，恐惧抓住了他。) |
 | gluten        | `/ˈɡluːtən/        | n. 面筋                      | People with celiac disease cannot tolerate gluten.<br />(患有乳糜泻的人不能忍受面筋。) |
@@ -4176,7 +4169,7 @@ Translator: ChatGPT 4
 
 ### Added: 2024.03.28
 
-#### First Table - ~~已校对~~ - ~~已写入：GoodNotes~~
+#### First Table - 校对中 - ~~已写入：GoodNotes~~
 
 Translator: ChatGPT 4
 
@@ -4184,79 +4177,80 @@ Edit: 2024.07.18
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词           | 美式发音              | 词类 + 汉语释义          |
-|--------------|-------------------|--------------------|
-| cock         | `/kɑːk/`          | n. 公鸡；[俗]阴茎；<br />v. 扣动（枪栓） |
-| rooster      | `/ˈruːstər/`      | n. 公鸡              |
-| crow         | `/kroʊ/`          | n. 乌鸦；<br />v. 啼叫（特指公鸡） |
-| dawn         | `/dɔːn/`          | n. 黎明；开始；<br>v. 破晓 |
-| assault      | `/əˈsɒːlt/`       | n. 攻击；v. 袭击        |
-| rifle        | `/ˈraɪfəl/`       | n. 步枪；v. 搜查并偷走     |
-| piss         | `/pɪs/`           | v. 小便；n. 尿液        |
-| lyrical      | `/ˈlɪrɪkəl/`      | adj. 抒情的           |
-| debounce     | `/diːˈbaʊns/`     | v. 消除（电子信号的）抖动     |
-| weird        | `/wɪrd/`          | adj. 古怪的；怪异的       |
-| obsession    | `/əbˈsɛʃən/`      | n. 痴迷；困扰           |
-| cleanliness  | `/ˈklɛnlɪnəs/`    | n. 清洁，清洁度          |
-| independent  | `/ˌɪndəˈpendənt/` | adj. 独立的           |
-| geography    | `/dʒiˈɑːɡrəfi/`   | n. 地理（学）           |
-| Oxford       | `/ˈɑːksfərd/`     | n. 牛津（英国城市）        |
-| mint         | `/mɪnt/`          | n. 薄荷；造币厂；adj. 崭新的 |
-| sift         | `/sɪft/`          | v. 筛选，过滤           |
-| press        | `/prɛs/`          | v. 按，压；<br />n. 新闻界，出版社 |
-| avian        | `/ˈeɪviən/`       | adj. 鸟类的           |
-| Eyre         | `/ɛər/            | n. 艾尔（人名或地名）       |
-| sargasso     | `/sɑːrˈɡæsoʊ/     | n. 马尾藻；马尾藻海        |
-| tuck         | `/tʌk/            | v. 把...塞进；n. （衣服的）褶 |
-| tuck away    | `/tʌk əˈweɪ/      | phr. 隐藏，存放         |
-| bunny        | `/ˈbʌni/          | n. 小兔子             |
-| lit          | `/lɪt/            | adj. 点燃的，亮着的       |
-| light        | `/laɪt/           | n. 光；adj. 轻的；v. 点燃 |
-| sock         | `/sɑːk/           | n. 袜子              |
-| mitt         | `/mɪt/            | n. （尤指棒球的）手套       |
-| mitten       | `/ˈmɪtən/         | n. 连指手套            |
-| lull         | `/lʌl/            | v. 使平静；n. 平静时期     |
-| heading      | `/ˈhɛdɪŋ/         | n. 标题；方向           |
-| homeward     | `/ˈhoʊmwərd/      | adj./adv. 归家的，朝家的  |
-| take the cake | `/teɪk ðə keɪk/ | phr. 胜过一切，最突出         |
+| 单词         | 美式发音              | 词性 + 汉语释义                                |
+|--------------|-------------------|------------------------------------------|
+| cock         | `/kɑːk/`          | n. 公鸡；[俗]阴茎                              |
+| rooster      | `/ˈruːstər/`      | n. 公鸡                                    |
+| crow         | `/kroʊ/`          | n. 乌鸦；(雄鸡的)啼叫<br>v. (雄鸡)啼叫               |
+| dawn         | `/dɔːn/`          | n. 黎明；开始；<br>v. 破晓                       |
+| assault      | `/əˈsɒːlt/`       | n. 攻击；v. 袭击                              |
+| piss         | `/pɪs/`           | v. 小便；使发怒<br>n. 小便                       |
+| lyrical      | `/ˈlɪrɪkəl/`      | adj. 抒情的                                 |
+| debounce     | `/diˈbaʊns/`      | v. 去抖动 (1)                               |
+| weird        | `/wɪrd/`          | adj. 奇怪的；怪异的                             |
+| obsession    | `/əbˈseʃən/`      | n. 痴迷；困扰                                 |
+| cleanliness  | `/ˈklenlinəs/`    | n. 清洁                                    |
+| independent  | `/ˌɪndəˈpendənt/` | adj. 独立的                                 |
+| geography    | `/dʒiˈɑːɡrəfi/`   | n. 地理(学)                                 |
+| Oxford       | `/ˈɑːksfərd/`     | n. 牛津（英国城市）                              |
+| mint         | `/mɪnt/`          | n. 薄荷；铸币厂<br>v. 铸造                       |
+| sift         | `/sɪft/`          | v. 筛选；过滤                                 |
+| press        | `/pres/`          | v. 按；压<br>n. 新闻界                         |
+| avian        | `/ˈeɪviən/`       | adj. 鸟类的                                 |
+| Eyre         | `/ɛr/`            | n. 艾尔（地名，人名）                             |
+| sargasso     | `/sɑrˈɡæsoʊ/`     | n. 马尾藻                                   |
+| tuck         | `/tʌk/`           | v. 塞进；卷起<br>n. 卷起                        |
+| tuck away    | `/tʌk əˈweɪ/`     | phr. 收藏；隐藏                               |
+| bunny        | `/ˈbʌni/`         | n. 兔子                                    |
+| lit          | `/lɪt/`           | v. 点燃；照亮（light 的过去式和过去分词）<br>adj. 很棒的；令人兴奋的（俚语） |
+| light        | `/laɪt/`          | n. 光；灯<br>v. 点燃；照亮<br>adj. 轻的；明亮的        |
+| mitt         | `/mɪt/`           | n. (尤指棒球的)手套                             |
+| mitten       | `/ˈmɪtn/`         | n. 连指手套                                  |
+| lull         | `/lʌl/`           | v. 使平静；哄骗<br>n. 平静期                      |
+| heading      | `/ˈhedɪŋ/`         | n. 标题；航向                                 |
+| homeward     | `/ˈhoʊmwərd/`     | adj. 回家的；归途中的                            |
 
+注：
+- (1) 在工程和编程领域，"debounce" 通常指的是一种技术，用于消除不必要的信号波动（抖动）。 
+  例如，在电子和机械开关中，"去抖动" 意味着消除由开关快速打开和关闭引起的电信号抖动。 在软件编程中，"debounce" 技术被用来防止函数在短时间内被多次调用。
 
-#### First Table - ~~已校对~~ - ~~已写入：GoodNotes~~
+  
+#### Second Table - ~~已校对~~ - ~~已写入：GoodNotes~~
 
-Translator: ChatGPT 4
+Translator: ChatGPT 4o
 
 Edit: 2024.07.18
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词            | 美式发音            | 词类 + 汉语释义      |
-|---------------|-------------------| ------------------- |
-| excerpt       | `/ˈɛksɜːrpt/`     | n. 摘录；节选       |
-| paperback     | `/ˈpeɪpərbæk/     | n. 平装书，软皮书     |
-| peak          | `/piːk/           | n. 顶点；最高点      |
-| sustenance    | `/ˈsʌstənəns/     | n. 食物；生计       |
-| livelihood    | `/ˈlaɪvlihʊd/     | n. 生计，谋生       |
-| goatherd      | `/ˈɡoʊtˌhɜːrd/    | n. 牧羊人           |
-| buck          | `/bʌk/`           | n. 雄鹿；[口]美元；<br />v. 反抗 |
-| prod          | `/prɑːd/          | v. 刺，戳；激励      |
-| autobiography | `/ˌɔːtəbaɪˈɑːɡrəfi/ | n. 自传             |
-| recollection  | `/ˌrɛkəˈlɛkʃən/   | n. 回忆，记忆       |
-| hush          | `/hʌʃ/            | v. 安静；n. 沉默    |
-| magnitude     | `/ˈmæɡnɪˌtuːd/    | n. 重要性；巨大      |
-| solitude      | `/ˈsɑːlɪˌtjuːd/ | n. 孤独；隐居          |
-| lullaby       | `/ˈlʌləˌbaɪ/    | n. 摇篮曲              |
-| piece         | `/piːs/         | n. 件；块；篇章        |
-| moose         | `/muːs/         | n. 麋鹿                |
-| muffin        | `/ˈmʌfɪn/       | n. 松饼；小蛋糕        |
-| kernel        | `/ˈkɜːrnəl/     | n. 核心；仁            |
-| spot          | `/spɑːt/        | n. 地点；斑点；v. 发现 |
-| roam          | `/roʊm/         | v. 漫游；漫步          |
-| sunshine      | `/ˈsʌnˌʃaɪn/    | n. 阳光                |
-| canyon        | `/ˈkænjən/      | n. 峡谷                |
-| gorge         | `/ɡɔːrdʒ/       | n. 峡谷；狭路          |
-| gully         | `/ˈɡʌli/        | n. 冲沟；小峡谷        |
-| ravine        | `/rəˈviːn/      | n. 沟壑；深谷          |
-| valley        | `/ˈvæli/        | n. 谷，山谷            |
+| 单词            | 美式发音                  | 词性 + 汉语释义            |
+|-----------------|---------------------------|----------------------|
+| excerpt         | `/ˈɛksɜrpt/`              | n. 摘录；选段<br>v. 摘录    |
+| paperback       | `/ˈpeɪpərˌbæk/`          | n. 平装本               |
+| peak            | `/pik/`                   | n. 山顶；顶峰<br>v. 达到顶峰  |
+| sustenance      | `/ˈsʌstənəns/`            | n. 食物；生计             |
+| livelihood      | `/ˈlaɪvliˌhʊd/`           | n. 生计；生活             |
+| goatherd        | `/ˈɡoʊtˌhɜrd/`            | n. 牧羊人               |
+| buck            | `/bʌk/`                   | n. 雄鹿；[口]美元<br>v. 抵制；跳跃 |
+| prod            | `/prɑd/`                  | v. 刺激；督促<br>n. 刺激物   |
+| autobiography   | `/ˌɔtəbaɪˈɑɡrəfi/`        | n. 自传                |
+| recollection    | `/ˌrɛkəˈlɛkʃən/`          | n. 回忆；记忆             |
+| hush            | `/hʌʃ/`                   | v. 使安静<br>n. 安静      |
+| magnitude       | `/ˈmæɡnɪˌtud/`            | n. 大小；重要性            |
+| solitude        | `/ˈsɑləˌtud/`             | n. 孤独；独居             |
+| lullaby         | `/ˈlʌləˌbaɪ/`             | n. 摇篮曲               |
+| piece           | `/pis/`                   | n. 块；片段<br>v. 拼合；修补  |
+| moose           | `/mus/`                   | n. 驼鹿                |
+| muffin          | `/ˈmʌfɪn/`                | n. 松饼                |
+| kernel          | `/ˈkɜrnəl/`               | n. 核心；果仁             |
+| spot            | `/spɑt/`                  | n. 斑点；地点<br>v. 发现；玷污 |
+| roam            | `/roʊm/`                  | v. 漫游；闲逛<br>n. 漫游    |
+| sunshine        | `/ˈsʌnˌʃaɪn/`            | n. 阳光                |
+| canyon          | `/ˈkænjən/`               | n. 峡谷                |
+| gorge           | `/ɡɔrdʒ/`                 | n. 峡谷<br>v. 狼吞虎咽     |
+| gully           | `/ˈɡʌli/`                 | n. 冲沟                |
+| ravine          | `/rəˈvin/`                | n. 峡谷                |
+| valley          | `/ˈvæli/`                 | n. 山谷                |
 
 
 
@@ -5098,29 +5092,29 @@ Translator: ChatGPT 4 & 4o
 
 **注：下面表格单词已写到 Goodnotes；日期见：2024.06.24；但是笔记所在位置在 2024.02.26、27 的笔记的上一页**
 
-| 单词               | 美式发音               | 词类 + 汉语释义          | 示例                                                                                                                                                                                                                   |
-|------------------|--------------------|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 单词               | 美式发音               | 词类 + 汉语释义        | 示例                                                                                                                                                                                                                   |
+|------------------|--------------------|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | impact           | `/ˈɪmpækt/`        | n. 影响；冲击<br>v. 影响；撞击 | n. The impact of the new policy was significant. <br>(新政策的影响很大。)<br>v. The collision impacted the car's front end. <br>(碰撞影响了汽车的前端。)                                                                                 |
-| depressant       | `/dɪˈprɛsənt/`     | n. 抑制剂；镇静剂         | Alcohol acts as a depressant on the central nervous system. <br>(酒精对中枢神经系统起镇静作用。)<br>The doctor prescribed a depressant to help with anxiety. <br>(医生开了一种镇静剂来帮助缓解焦虑。)                                                |
-| neuro-           | `/ˈnʊroʊ-/`        | prefix. 神经的        | Neuro- science is the study of the nervous system. <br>(神经科学是对神经系统的研究。)                                                                                                                                              |
-| neurology        | `/nʊˈrɑːlədʒi/`    | n. 神经学             | She is studying neurology at university. <br>(她在大学学习神经学。)                                                                                                                                                            |
-| neurotransmitter | `/'nʊrotrænzmɪtɚ/` | n. 神经递质            | Dopamine is a common neurotransmitter in the brain. <br>(多巴胺是大脑中的常见神经递质。)                                                                                                                                            |
-| depression       | `/dɪˈprɛʃən/`      | n. 抑郁（症）；萧条        | He was diagnosed with depression. <br>(他被诊断出患有抑郁症。)<br>The Great Depression affected many countries. <br>(大萧条影响了许多国家。)                                                                                               |
-| anxiety          | `/æŋˈzaɪəti/`      | n. 焦虑              | She felt a surge of anxiety before the exam. <br>(考试前她感到一阵焦虑。)                                                                                                                                                       |
-| underlying       | `/ˌʌndərˈlaɪɪŋ/`   | adj. 潜在的；基础的       | The underlying cause of the problem is unknown. <br>(问题的潜在原因尚不清楚。)<br>Good health is the underlying foundation of happiness. <br>(良好的健康是幸福的基础。)                                                                      |
-| emotional        | `/ɪˈmoʊʃənəl/`     | adj. 情感的；情绪的       | The movie was an emotional experience. <br>(这部电影是一种情感体验。)<br>She has strong emotional reactions to stress. <br>(她对压力有强烈的情绪反应。)                                                                                       |
-| additional       | `/əˈdɪʃənəl/`      | adj. 附加的；额外的       | There will be an additional charge for extra luggage. <br>(额外行李将收取附加费。)<br>We need additional information to complete the report. <br>(我们需要额外的信息来完成报告。)                                                              |
-| additionally     | `/əˈdɪʃənəli/`     | adv. 另外；此外         | Additionally, we need to consider the budget. <br>(此外，我们还需要考虑预算。)                                                                                                                                                    |
-| impair           | `/ɪmˈpɛr/`         | v. 损害；削弱           | Smoking can impair your health. <br>(吸烟会损害你的健康。)<br>His vision was impaired by the bright light. <br>(他的视力因强光而受损。)                                                                                                   |
+| depressant       | `/dɪˈprɛsənt/`     | n. 抑制剂；镇静剂       | Alcohol acts as a depressant on the central nervous system. <br>(酒精对中枢神经系统起镇静作用。)<br>The doctor prescribed a depressant to help with anxiety. <br>(医生开了一种镇静剂来帮助缓解焦虑。)                                                |
+| neuro-           | `/ˈnʊroʊ-/`        | prefix. 神经的      | Neuro- science is the study of the nervous system. <br>(神经科学是对神经系统的研究。)                                                                                                                                              |
+| neurology        | `/nʊˈrɑːlədʒi/`    | n. 神经学           | She is studying neurology at university. <br>(她在大学学习神经学。)                                                                                                                                                            |
+| neurotransmitter | `/'nʊrotrænzmɪtɚ/` | n. 神经递质          | Dopamine is a common neurotransmitter in the brain. <br>(多巴胺是大脑中的常见神经递质。)                                                                                                                                            |
+| depression       | `/dɪˈprɛʃən/`      | n. 抑郁（症）；萧条      | He was diagnosed with depression. <br>(他被诊断出患有抑郁症。)<br>The Great Depression affected many countries. <br>(大萧条影响了许多国家。)                                                                                               |
+| anxiety          | `/æŋˈzaɪəti/`      | n. 焦虑            | She felt a surge of anxiety before the exam. <br>(考试前她感到一阵焦虑。)                                                                                                                                                       |
+| underlying       | `/ˌʌndərˈlaɪɪŋ/`   | adj. 潜在的；基础的     | The underlying cause of the problem is unknown. <br>(问题的潜在原因尚不清楚。)<br>Good health is the underlying foundation of happiness. <br>(良好的健康是幸福的基础。)                                                                      |
+| emotional        | `/ɪˈmoʊʃənəl/`     | adj. 情感的；情绪的     | The movie was an emotional experience. <br>(这部电影是一种情感体验。)<br>She has strong emotional reactions to stress. <br>(她对压力有强烈的情绪反应。)                                                                                       |
+| additional       | `/əˈdɪʃənəl/`      | adj. 附加的；额外的     | There will be an additional charge for extra luggage. <br>(额外行李将收取附加费。)<br>We need additional information to complete the report. <br>(我们需要额外的信息来完成报告。)                                                              |
+| additionally     | `/əˈdɪʃənəli/`     | adv. 另外；此外       | Additionally, we need to consider the budget. <br>(此外，我们还需要考虑预算。)                                                                                                                                                    |
+| impair           | `/ɪmˈpɛr/`         | v. 损害；削弱         | Smoking can impair your health. <br>(吸烟会损害你的健康。)<br>His vision was impaired by the bright light. <br>(他的视力因强光而受损。)                                                                                                   |
 | pair             | `/per/`            | n. 一对；一双；<br>v. 配对 | She bought a new pair of shoes. <br>(她买了一双新鞋。)<br>We need to pair the students for the activity. <br>(我们需要为活动配对学生。)                                                                                                  |
 | stock            | `/stɑk/`           | n. 库存；股票；<br>v. 储备 | n. The store has a large stock of goods. <br>(这家店有大量的库存货物。)<br>n. He decided to invest in stock. <br>(他决定投资股票。)<br>v. They stock the shelves every morning. <br>(他们每天早上补充货架上的货物。)                                    |
-| stocking         | `/ˈstɑkɪŋ/`        | n. 长袜              | She wore a pair of black stockings. <br>(她穿了一双黑色长袜。)                                                                                                                                                                 |
-| sock             | `/sɑːk/`           | n. 短袜              | He found a hole in his sock. <br>(他发现他的短袜有一个洞。)                                                                                                                                                                      |
-| hose             | `/hoʊz/`           | n. 长筒袜；软管          | The garden hose is very long. <br>(花园软管很长。)<br>She bought a new pair of hose. <br>(她买了一双新长筒袜。)                                                                                                                       |
-| inhibition       | `/ˌɪnhəˈbɪʃən/`    | n. 抑制；拘束           | The drug helps reduce inhibition. <br>(这种药有助于减少抑制。)<br>He felt a sense of inhibition in social situations. <br>(他在社交场合中感到一种拘束感。)                                                                                     |
-| dwell            | `/dwɛl/`           | v. 居住；细想           | They dwell in a small village. <br>(他们住在一个小村庄。)<br>She tends to dwell on the past. <br>(她倾向于细想过去。)                                                                                                                   |
-| otherwise        | `/ˈʌðərˌwaɪz/`     | adv. 否则；不然；另外      | You must hurry; otherwise, you'll be late. <br>(你必须快点，否则你会迟到。)<br>It seemed true; otherwise, I wouldn't have believed it. <br>(这似乎是真的，否则我不会相信。)<br>He was tired but otherwise in good health. <br>(他累了，但除此之外健康状况良好。) |
-| disrupt          | `/dɪsˈrʌpt/`       | v. 扰乱；使中断          | The protest disrupted the traffic. <br>(抗议扰乱了交通。)<br>The service was disrupted due to maintenance. <br>(由于维护，服务被中断了。)                                                                                                |
+| stocking         | `/ˈstɑkɪŋ/`        | n. 长袜            | She wore a pair of black stockings. <br>(她穿了一双黑色长袜。)                                                                                                                                                                 |
+| sock             | `/sɑːk/`           | n. 短袜<br>v. 猛击   | He found a hole in his sock. <br>(他发现他的短袜有一个洞。)                                                                                                                                                                      |
+| hose             | `/hoʊz/`           | n. 长筒袜；软管        | The garden hose is very long. <br>(花园软管很长。)<br>She bought a new pair of hose. <br>(她买了一双新长筒袜。)                                                                                                                       |
+| inhibition       | `/ˌɪnhəˈbɪʃən/`    | n. 抑制；拘束         | The drug helps reduce inhibition. <br>(这种药有助于减少抑制。)<br>He felt a sense of inhibition in social situations. <br>(他在社交场合中感到一种拘束感。)                                                                                     |
+| dwell            | `/dwɛl/`           | v. 居住；细想         | They dwell in a small village. <br>(他们住在一个小村庄。)<br>She tends to dwell on the past. <br>(她倾向于细想过去。)                                                                                                                   |
+| otherwise        | `/ˈʌðərˌwaɪz/`     | adv. 否则；不然；另外    | You must hurry; otherwise, you'll be late. <br>(你必须快点，否则你会迟到。)<br>It seemed true; otherwise, I wouldn't have believed it. <br>(这似乎是真的，否则我不会相信。)<br>He was tired but otherwise in good health. <br>(他累了，但除此之外健康状况良好。) |
+| disrupt          | `/dɪsˈrʌpt/`       | v. 扰乱；使中断        | The protest disrupted the traffic. <br>(抗议扰乱了交通。)<br>The service was disrupted due to maintenance. <br>(由于维护，服务被中断了。)                                                                                                |
 
 
 #### Second Table - 已校对 - 已写入 GoodNotes

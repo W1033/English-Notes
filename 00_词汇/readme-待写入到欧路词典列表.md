@@ -1,5 +1,36 @@
 
-
+| 单词         | 美式发音              | 词性 + 汉语释义                                |
+|--------------|-------------------|------------------------------------------|
+| cock         | `/kɑːk/`          | n. 公鸡；[俗]阴茎                              |
+| rooster      | `/ˈruːstər/`      | n. 公鸡                                    |
+| crow         | `/kroʊ/`          | n. 乌鸦；(雄鸡的)啼叫<br>v. (雄鸡)啼叫               |
+| dawn         | `/dɔːn/`          | n. 黎明；开始；<br>v. 破晓                       |
+| assault      | `/əˈsɒːlt/`       | n. 攻击；v. 袭击                              |
+| piss         | `/pɪs/`           | v. 小便；使发怒<br>n. 小便                       |
+| lyrical      | `/ˈlɪrɪkəl/`      | adj. 抒情的                                 |
+| debounce     | `/diˈbaʊns/`      | v. 去抖动 (1)                               |
+| weird        | `/wɪrd/`          | adj. 奇怪的；怪异的                             |
+| obsession    | `/əbˈseʃən/`      | n. 痴迷；困扰                                 |
+| cleanliness  | `/ˈklenlinəs/`    | n. 清洁                                    |
+| independent  | `/ˌɪndəˈpendənt/` | adj. 独立的                                 |
+| geography    | `/dʒiˈɑːɡrəfi/`   | n. 地理(学)                                 |
+| Oxford       | `/ˈɑːksfərd/`     | n. 牛津（英国城市）                              |
+| mint         | `/mɪnt/`          | n. 薄荷；铸币厂<br>v. 铸造                       |
+| sift         | `/sɪft/`          | v. 筛选；过滤                                 |
+| press        | `/pres/`          | v. 按；压<br>n. 新闻界                         |
+| avian        | `/ˈeɪviən/`       | adj. 鸟类的                                 |
+| Eyre         | `/ɛr/`            | n. 艾尔（地名，人名）                             |
+| sargasso     | `/sɑrˈɡæsoʊ/`     | n. 马尾藻                                   |
+| tuck         | `/tʌk/`           | v. 塞进；卷起<br>n. 卷起                        |
+| tuck away    | `/tʌk əˈweɪ/`     | phr. 收藏；隐藏                               |
+| bunny        | `/ˈbʌni/`         | n. 兔子                                    |
+| lit          | `/lɪt/`           | v. 点燃；照亮（light 的过去式和过去分词）<br>adj. 很棒的；令人兴奋的（俚语） |
+| light        | `/laɪt/`          | n. 光；灯<br>v. 点燃；照亮<br>adj. 轻的；明亮的        |
+| mitt         | `/mɪt/`           | n. (尤指棒球的)手套                             |
+| mitten       | `/ˈmɪtn/`         | n. 连指手套                                  |
+| lull         | `/lʌl/`           | v. 使平静；哄骗<br>n. 平静期                      |
+| heading      | `/ˈhedɪŋ/`         | n. 标题；航向                                 |
+| homeward     | `/ˈhoʊmwərd/`     | adj. 回家的；归途中的                            |
 
 
 
