@@ -7,6 +7,140 @@
 
 
 
+
+### Add: 2024.07.XX
+
+#### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+
+#### Second Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+
+
+
+### Add: 2024.07.XX
+
+#### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+
+#### Second Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+
+
+
+
+
+
+
+
+### Add: 2024.07.19
+
+#### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词         | 美式发音                  | 词性 + 汉语释义                    |
+|--------------|-----------------------|---------------------------------|
+| southern     | `/ˈsʌðərn/`           | adj. 南方的；南部的                 |
+| expansionist | `/ɪkˈspænʃənɪst/`     | n. 扩张主义者<br>adj. 扩张主义的      |
+| Cambodia     | `/kæmˈboʊdiə/`        | n. 柬埔寨                       |
+| Cambodian    | `/kæmˈboʊdiən/`       | n. 柬埔寨人<br>adj. 柬埔寨的         |
+| ethical      | `/ˈɛθɪkəl/`           | adj. 道德的；伦理的                 |
+| magazine     | `/ˈmæɡəˌzin/`         | n. 杂志；弹药库                    |
+| bank         | `/bæŋk/`              | n. 银行；河岸（或湖岸）<br>v. 存款；堆积    |
+| dusk         | `/dʌsk/`              | n. 黄昏<br>adj. 微暗的            |
+| completion   | `/kəmˈpliʃən/`        | n. 完成；结束                     |
+| significant  | `/sɪɡˈnɪfɪkənt/`      | adj. 重要的；显著的                 |
+| urge         | `/ɜrdʒ/`              | v. 催促；强烈要求<br>n. 强烈的欲望     |
+| soar         | `/sɔr/`               | v. 翱翔；猛增                     |
+| vector       | `/ˈvɛktər/`           | n. 向量；带菌者                    |
+| sticky       | `/ˈstɪki/`            | adj. 粘的；湿热的                  |
+| sub          | `/sʌb/`               | n. 潜水艇；替补队员<br>v. 代替         |
+| plenum       | `/ˈplɛnəm/`           | n. 充实；全体会议                   |
+| peripatetic  | `/ˌpɛrəpəˈtɛtɪk/`     | adj. 巡游的；流动的                 |
+| exceptional  | `/ɪkˈsɛpʃənl/`        | adj. 杰出的；异常的                 |
+| exile        | `/ˈɛɡzaɪl/`           | n. 流放；被流放者<br>v. 流放          |
+| raccoon      | `/ræˈkun/`            | n. 浣熊                          |
+
+
+#### Second Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词             | 美式发音                  | 词性 + 汉语释义                       |
+|-----------------|---------------------------|---------------------------------------|
+| brilliant       | `/ˈbrɪljənt/`             | adj. 杰出的；辉煌的                   |
+| mistral         | `/ˈmɪstrəl/`              | n. 密史特拉风                         |
+| Danube          | `/ˈdænjuːb/`              | n. 多瑙河                             |
+| floss           | `/flɔs/`                  | n. 牙线<br>v. 用牙线清洁               |
+| toothpick       | `/ˈtuːθˌpɪk/`             | n. 牙签                               |
+| separator       | `/ˈsɛpəˌreɪtər/`          | n. 分离器；分隔符                     |
+| chorus          | `/ˈkɔrəs/`                | n. 合唱团；副歌<br>v. 合唱             |
+| flock           | `/flɑk/`                  | n. 群；一群人<br>v. 聚集              |
+| tarry           | `/ˈtæri/`                 | v. 逗留；耽搁                         |
+| pin             | `/pɪn/`                   | n. 大头针；别针<br>v. 别住；固定       |
+| jail            | `/dʒeɪl/`                 | n. 监狱<br>v. 监禁                    |
+| bind            | `/baɪnd/`                 | v. 捆绑；约束<br>n. 捆绑              |
+| array           | `/əˈreɪ/`                 | n. 阵列；一系列<br>v. 排列            |
+| retire          | `/rɪˈtaɪər/`              | v. 退休；退役                         |
+| retrieve        | `/rɪˈtriv/`               | v. 找回；检索<br>n. 找回；检索         |
+| retrieval       | `/rɪˈtrivəl/`             | n. 检索；找回                         |
+| semiconductor   | `/ˌsɛmɪkənˈdʌktər/`       | n. 半导体                             |
+| interfere       | `/ˌɪntərˈfɪr/`            | v. 干涉；妨碍                         |
+| regard          | `/rɪˈɡɑrd/`               | v. 看待；尊重<br>n. 关注；尊重        |
+| prime           | `/praɪm/`                 | adj. 主要的；优质的<br>v. 使准备好<br>n. 初期；全盛时期 |
+
+
+#### Thrid Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词           | 美式发音              | 词性 + 汉语释义                       |
+|--------------|-------------------|---------------------------------------|
+| signal       | `/ˈsɪɡnəl/`       | n. 信号；标志<br>v. 发信号；标志着     |
+| introvert    | `/ˈɪntrəˌvɜrt/`   | n. 内向的人<br>v. 使内向               |
+| introvertive | `/ˌɪntrəˈvɜrtɪv/` | adj. 内向的                           |
+| intuitive    | `/ɪnˈtuɪtɪv/`     | adj. 直觉的                           |
+| intuition    | `/ˌɪntuˈɪʃən/`    | n. 直觉                               |
+| expense      | `/ɪkˈspɛns/`      | n. 花费；开支                         |
+| interlude    | `/ˈɪntərˌlud/`    | n. 插曲；间奏                         |
+| pretty       | `/ˈprɪti/`        | adj. 漂亮的；相当的<br>adv. 相当；很   |
+| adrift       | `/əˈdrɪft/`       | adj. 漂浮的；无目的的                  |
+| celeste      | `/səˈlɛst/`       | n. 天青石；钢片琴                      |
+| rushing      | `/ˈrʌʃɪŋ/`        | n. 急流<br>v. 匆忙；急速进行           |
+| blueth       | `/bluθ/`          | n. 蓝色；蓝色的                        |
+| athlete      | `/ˈæθlit/`        | n. 运动员                              |
+| castle       | `/ˈkæsl/`         | n. 城堡                               |
+| mean         | `/miːn/`          | v. 意思是；打算<br>adj. 吝啬的；刻薄的<br>n. 平均值 |
+| means        | `/minz/`          | n. 方法；手段                         |
+
+
+
+
+
+
 ### Add: 2024.07.17
 
 #### First Table - 已校对 - ~~已写入 GoodNotes~~
@@ -92,7 +226,6 @@ Translator: ChatGPT 4o
 | circle            | `/ˈsɜrkəl/`              | n. 圆圈；圈子<br>v. 环绕     |
 | rough             | `/rʌf/`                  | adj. 粗糙的；艰难的<br>v. 使变粗糙 |
 | approximate       | `/əˈprɑksəmət/`(adj.)<br>`/əˈprɑksəˌmeɪt/`(v.) | adj. 大约的；近似的<br>v. 接近；近似 |
-
 
 
 
@@ -859,7 +992,6 @@ Translator: ChatGPT 4o
 | internal       | `/ɪnˈtɜrnəl/`         | adj. 内部的；国内的                    |
 | steep          | `/stip/`              | adj. 陡峭的；急剧的<br>v. 浸泡         |
 | hunt           | `/hʌnt/`              | v. 狩猎；寻找<br>n. 狩猎              |
-| stuff          | `/stʌf/`              | n. 东西；材料<br>v. 填塞              |
 | salvation      | `/sælˈveɪʃən/`        | n. 拯救；救赎                          |
 | oblivious      | `/əˈblɪviəs/`         | adj. 遗忘的；未察觉的                  |
 | provision      | `/prəˈvɪʒən/`         | n. 供应；条款<br>v. 供应               |
@@ -882,7 +1014,6 @@ Translator: ChatGPT 4o
 | hydrant        | `/ˈhaɪdrənt/`         | n. 消防栓                            |
 | patriot        | `/ˈpeɪtriət/`         | n. 爱国者                            |
 | patriotic      | `/ˌpeɪtriˈɑtɪk/`      | adj. 爱国的                          |
-| stuff          | `/stʌf/`              | n. 东西<br>v. 填塞                   |
 | triune         | `/ˈtraɪˌjun/`         | adj. 三位一体的                       |
 | salvation      | `/sælˈveɪʃən/`        | n. 拯救                              |
 | oblivious      | `/əˈblɪviəs/`         | adj. 遗忘的                           |
@@ -1947,7 +2078,6 @@ Translator: ChatGPT 4o
 | many     | `/ˈmɛni/`  | adj. 许多的<br>pron. 许多       | adj. She has many friends. (她有许多朋友。)<br>pron. Many are called, but few are chosen. (被召的人多，选中的人少。) |
 | mark     | `/mɑrk/`   | v. 标记；评分；表明<br>n. 记号；分数 | v. Please mark your answers clearly. (请清楚地标记你的答案。)<br>The teacher marked the exams. (老师给试卷打分。)<br>This event marks a significant change. (这一事件表明了一个重要的变化。)<br>n. He put a mark on the map. (他在地图上做了一个记号。)<br>She got a high mark on her test. (她考试得了高分。) |
 | may      | `/meɪ/`    | modal verb. 可能；可以          | You may leave early if you have finished your work. (如果你完成了工作，可以早点离开。) |
-| mean     | `/miːn/`   | v. 意思是；打算<br>adj. 刻薄的      | v. What does this word mean? (这个词是什么意思？)<br>adj. He can be very mean sometimes. (他有时会很刻薄。) |
 | meet     | `/miːt/`   | v. 遇见；满足                   | She met her friend at the coffee shop. (她在咖啡店遇见了朋友。) |
 | melt     | `/melt/`   | v. 融化；消失                   | The ice cream melted in the sun. (冰淇淋在阳光下融化了。) |
 | mix      | `/mɪks/`   | v. 混合<br>n. 混合物            | v. Mix the flour with water. (将面粉与水混合。)<br>n. This cake mix is easy to make. (这种蛋糕混合料很容易做。) |
@@ -4215,7 +4345,7 @@ Edit: 2024.07.18
   例如，在电子和机械开关中，"去抖动" 意味着消除由开关快速打开和关闭引起的电信号抖动。 在软件编程中，"debounce" 技术被用来防止函数在短时间内被多次调用。
 
   
-#### Second Table - ~~已校对~~ - ~~已写入：GoodNotes~~
+#### Second Table - 已校对 - ~~已写入：GoodNotes~~
 
 Translator: ChatGPT 4o
 
@@ -4223,34 +4353,36 @@ Edit: 2024.07.18
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词            | 美式发音                  | 词性 + 汉语释义            |
-|-----------------|---------------------------|----------------------|
-| excerpt         | `/ˈɛksɜrpt/`              | n. 摘录；选段<br>v. 摘录    |
-| paperback       | `/ˈpeɪpərˌbæk/`          | n. 平装本               |
-| peak            | `/pik/`                   | n. 山顶；顶峰<br>v. 达到顶峰  |
-| sustenance      | `/ˈsʌstənəns/`            | n. 食物；生计             |
-| livelihood      | `/ˈlaɪvliˌhʊd/`           | n. 生计；生活             |
-| goatherd        | `/ˈɡoʊtˌhɜrd/`            | n. 牧羊人               |
-| buck            | `/bʌk/`                   | n. 雄鹿；[口]美元<br>v. 抵制；跳跃 |
-| prod            | `/prɑd/`                  | v. 刺激；督促<br>n. 刺激物   |
-| autobiography   | `/ˌɔtəbaɪˈɑɡrəfi/`        | n. 自传                |
-| recollection    | `/ˌrɛkəˈlɛkʃən/`          | n. 回忆；记忆             |
-| hush            | `/hʌʃ/`                   | v. 使安静<br>n. 安静      |
-| magnitude       | `/ˈmæɡnɪˌtud/`            | n. 大小；重要性            |
-| solitude        | `/ˈsɑləˌtud/`             | n. 孤独；独居             |
-| lullaby         | `/ˈlʌləˌbaɪ/`             | n. 摇篮曲               |
-| piece           | `/pis/`                   | n. 块；片段<br>v. 拼合；修补  |
-| moose           | `/mus/`                   | n. 驼鹿                |
-| muffin          | `/ˈmʌfɪn/`                | n. 松饼                |
-| kernel          | `/ˈkɜrnəl/`               | n. 核心；果仁             |
-| spot            | `/spɑt/`                  | n. 斑点；地点<br>v. 发现；玷污 |
-| roam            | `/roʊm/`                  | v. 漫游；闲逛<br>n. 漫游    |
-| sunshine        | `/ˈsʌnˌʃaɪn/`            | n. 阳光                |
-| canyon          | `/ˈkænjən/`               | n. 峡谷                |
-| gorge           | `/ɡɔrdʒ/`                 | n. 峡谷<br>v. 狼吞虎咽     |
-| gully           | `/ˈɡʌli/`                 | n. 冲沟                |
-| ravine          | `/rəˈvin/`                | n. 峡谷                |
-| valley          | `/ˈvæli/`                 | n. 山谷                |
+| 单词            | 美式发音               | 词性 + 汉语释义                     |
+|---------------|--------------------|-------------------------------|
+| expert        | `/ˈekspɜːrt/`      | n. 专家<br>adj. 熟练的             |
+| excerpt       | `/ˈeksɜːrpt/`      | n. 摘录；选段<br>v. 摘录             |
+| paperback     | `/ˈpeɪpərbæk/`     | n. 平装本                        |
+| peak          | `/piːk/`           | n. 山顶；顶峰<br>v. 达到顶峰           |
+| sustenance    | `/ˈsʌstənəns/`     | n. 食物；生计                      |
+| livelihood    | `/ˈlaɪvlihʊd/`     | n. 生计；生活                      |
+| goatherd      | `/ˈɡoʊthɜːrd/`     | n. 牧羊人                        |
+| buck          | `/bʌk/`            | n. 雄鹿; 美元 (口语)<br>v. 弓背跃起; 反抗 | 
+| prod          | `/prɑːd/`           | v. 〔用手指或尖物〕戳；督促<br>n. 戳；提醒    |
+| autobiography | `/ˌɒːtəbaɪˈɑːɡrəfi/` | n. 自传                         |
+| recollection  | `/ˌrekəˈlekʃən/`   | n. 回忆；记忆                      |
+| hush          | `/hʌʃ/`           | v. 使安静<br>n. 安静               |
+| lullaby       | `/ˈlʌləbaɪ/`      | n. 摇篮曲                        |
+| piece         | `/piːs/`          | n. 片；块；段<br>v. 拼合；拼凑          |
+| moose         | `/muːs/`          | n. 驼鹿(单复数同形)                  |
+| muffin        | `/ˈmʌfɪn/`        | n. 松饼                         |
+| kernel        | `/ˈkɜːrnl/`       | n. 核心；果仁                      |
+| spot          | `/spɑːt/`         | n. 斑点；地点<br>v. 发现；满是斑点        |
+| roam          | `/roʊm/`          | v. 漫游；闲逛<br>n. 漫游             |
+| sunshine      | `/ˈsʌnʃaɪn/`      | n. 阳光                         |
+| canyon        | `/ˈkænjən/`       | n. 峡谷                         |
+| gorge         | `/ɡɔːrdʒ/`        | n. 峡谷<br>v. 狼吞虎咽              |
+| ravine        | `/rəˈviːn/`       | n. 峡谷 (1)                     |
+| gully         | `/ˈɡʌli/`         | n. (山坡上被雨水冲成的) 沟壑             |
+| valley        | `/ˈvæli/`         | n. 山谷                     |
+
+注：
+- (1) canyon, gorge, ravine 的区别见：同级目录的 `readme.md`
 
 
 
@@ -4714,23 +4846,23 @@ Translator: ChatGPT 4
 
 注：下面表格单词已写到 Goodnotes - 笔记日期：24.03.05 & 13、14
 
-| 单词           | 美式发音           | 词类 + 汉语释义                       | 示例                                                         |
-|--------------| ------------------ | ------------------------------- | ------------------------------------------------------------ |
-| regression   | `/rɪˈɡrɛʃən/`      | n. 回归；退化                        | The patient showed signs of regression in his condition. <br />(病人的状况出现了退化的迹象。) |
-| hunger       | `/ˈhʌŋɡər/`        | n. 饥饿；渴望 <br />v. 渴望            | n. The campaign aims to reduce world hunger. <br />(该运动旨在减少世界饥饿问题。) <br />v. She hungered for success. <br />(她渴望成功。) |
-| campaign     | `/kæmˈpeɪn/`       | n. 活动；运动；战役                     | The charity launched a campaign to raise funds. <br />(慈善机构发起了一项筹款活动。) <br />The military campaign lasted several months. <br />(军事战役持续了几个月。) |
-| hostile      | `/ˈhɑːstəl/`       | adj. 敌对的；不友好的                   | The proposal received a hostile response from the board. <br />(该提案受到了董事会的敌对回应。) |
-| empower      | `/ɪmˈpaʊər/`       | v. 授权；使能够                       | The new law empowers the government to regulate this industry. <br />(新法律授权政府来监管这个行业。) |
-| power        | `/ˈpaʊər/`         | n. 力量；权力；电力 <br />v. 供电；驱动 | n. The country is seeking to increase its nuclear power. <br />(该国正寻求增加其核能力量。) <br />n. The government has the power to enact laws. <br />(政府有权制定法律。) <br />n. The city was without power after the storm. <br />(风暴过后，城市断电了。) <br />v. The generator powers the entire building. <br />(发电机为整栋建筑供电。) |
-| schedule     | `/ˈskedʒʊl/`       | n. 时间表；日程安排 <br />v. 安排；预定 | n. I need to check my schedule for tomorrow. <br />(我需要检查一下明天的日程安排。) <br />v. We scheduled a meeting for next Monday. <br />(我们安排了下周一的会议。) |
-| antagonistic | `/ænˌtæɡəˈnɪstɪk/` | adj. 敌对的；对抗性的                   | His remarks were highly antagonistic to the government's policy. <br />(他的言论对政府政策极度敌对。) |
-| court        | `/kɔːrt/`          | n. 法院；球场；宫廷 <br />v. 追求；招致 | n. The case was taken to court. <br />(案件被提交到法院。) <br />n. We played tennis on the court. <br />(我们在球场上打网球。) <br />v. He is courting controversy with his statements. <br />(他的言论在招致争议。) |
-| veto         | `/ˈviːtoʊ/`        | n. 否决权 <br />v. 否决              | n. The president has the veto over new legislation. <br />(总统对新立法拥有否决权。) <br />v. The proposal was vetoed by the committee. <br />(该提议被委员会否决了。) |
+| 单词           | 美式发音           | 词类 + 汉语释义                        | 示例                                                         |
+|--------------| ------------------ |----------------------------------| ------------------------------------------------------------ |
+| regression   | `/rɪˈɡrɛʃən/`      | n. 回归；退化                         | The patient showed signs of regression in his condition. <br />(病人的状况出现了退化的迹象。) |
+| hunger       | `/ˈhʌŋɡər/`        | n. 饥饿；渴望 <br />v. 渴望             | n. The campaign aims to reduce world hunger. <br />(该运动旨在减少世界饥饿问题。) <br />v. She hungered for success. <br />(她渴望成功。) |
+| campaign     | `/kæmˈpeɪn/`       | n. 活动；运动；战役                      | The charity launched a campaign to raise funds. <br />(慈善机构发起了一项筹款活动。) <br />The military campaign lasted several months. <br />(军事战役持续了几个月。) |
+| hostile      | `/ˈhɑːstəl/`       | adj. 敌对的；不友好的                    | The proposal received a hostile response from the board. <br />(该提案受到了董事会的敌对回应。) |
+| empower      | `/ɪmˈpaʊər/`       | v. 授权；使能够                        | The new law empowers the government to regulate this industry. <br />(新法律授权政府来监管这个行业。) |
+| power        | `/ˈpaʊər/`         | n. 力量；权力；电力 <br />v. 供电；驱动       | n. The country is seeking to increase its nuclear power. <br />(该国正寻求增加其核能力量。) <br />n. The government has the power to enact laws. <br />(政府有权制定法律。) <br />n. The city was without power after the storm. <br />(风暴过后，城市断电了。) <br />v. The generator powers the entire building. <br />(发电机为整栋建筑供电。) |
+| schedule     | `/ˈskedʒʊl/`       | n. 时间表；日程安排 <br />v. 安排；预定       | n. I need to check my schedule for tomorrow. <br />(我需要检查一下明天的日程安排。) <br />v. We scheduled a meeting for next Monday. <br />(我们安排了下周一的会议。) |
+| antagonistic | `/ænˌtæɡəˈnɪstɪk/` | adj. 敌对的；对抗性的                    | His remarks were highly antagonistic to the government's policy. <br />(他的言论对政府政策极度敌对。) |
+| court        | `/kɔːrt/`          | n. 法院；球场；宫廷 <br />v. 追求；招致       | n. The case was taken to court. <br />(案件被提交到法院。) <br />n. We played tennis on the court. <br />(我们在球场上打网球。) <br />v. He is courting controversy with his statements. <br />(他的言论在招致争议。) |
+| veto         | `/ˈviːtoʊ/`        | n. 否决权 <br />v. 否决               | n. The president has the veto over new legislation. <br />(总统对新立法拥有否决权。) <br />v. The proposal was vetoed by the committee. <br />(该提议被委员会否决了。) |
 | uplift       | `/ʌpˈlɪft/`（v. ）<br /> `/ˈʌplɪft/`(n. ) | v. 提升（物理上或抽象层面）；振奋<br />n. 提升；振奋 | v. The good news uplifted everyone's spirits. <br />(好消息振奋了所有人的精神。) <br />v. Engineers uplifted the foundation to prevent flooding. <br />(工程师提高了地基以防洪水。) <br />v. The motivational speech uplifted the team's spirit. <br /> (激励演讲振奋了团队的精神。)<br />n. The charity work gave her a sense of emotional uplift. <br />(慈善工作给她带来了情感上的提升。)<br />n. The movie provided an emotional uplift. <br />(这部电影提供了情绪上的振奋。) |
-| thorough     | `/ˈθɜːroʊ/`        | adj. 彻底的；详尽的                    | His work requires thorough research. <br />(他的工作需要彻底的研究。) |
-| biography    | `/baɪˈɑːɡrəfi/`    | n. 传记                                | She is reading a biography of Abraham Lincoln. <br />(她正在读亚伯拉罕·林肯的传记。) |
-| mingle       | `/ˈmɪŋɡəl/`        | v. （使）混合；（使）交往                  | She likes to mingle with the guests at her parties. <br />(她喜欢在她的派对上与客人交往。)lie |
-| lie          | `/laɪ/`            | v. 躺；位于；说谎 <br />n. 谎言          | v. He likes to lie in the sun. <br />(他喜欢躺在阳光下。) <br />v. The village lies to the north of the mountain. <br>(村庄位于山的北面。) <br />v. She got caught in a lie. <br>(她被抓到说了谎。) <br />n. Telling a lie is against my principles. <br>(说谎违背我的原则。) |
+| thorough     | `/ˈθɜːroʊ/`        | adj. 彻底的；详尽的                     | His work requires thorough research. <br />(他的工作需要彻底的研究。) |
+| biography    | `/baɪˈɑːɡrəfi/`    | n. 传记；传记文学                       | She is reading a biography of Abraham Lincoln. <br />(她正在读亚伯拉罕·林肯的传记。) |
+| mingle       | `/ˈmɪŋɡəl/`        | v. （使）混合；（使）交往                   | She likes to mingle with the guests at her parties. <br />(她喜欢在她的派对上与客人交往。)lie |
+| lie          | `/laɪ/`            | v. 躺；位于；说谎 <br />n. 谎言           | v. He likes to lie in the sun. <br />(他喜欢躺在阳光下。) <br />v. The village lies to the north of the mountain. <br>(村庄位于山的北面。) <br />v. She got caught in a lie. <br>(她被抓到说了谎。) <br />n. Telling a lie is against my principles. <br>(说谎违背我的原则。) |
 
 单词解释
 - **regression (n.)**：
@@ -5535,23 +5667,23 @@ Translator: ChatGPT 4
 
 注：下面表格单词已写到 Goodnotes；日期见：2024.06.15
 
-| 单词          | 美式发音               | 词类 + 汉语释义         | 示例                                                       |
-| ------------ |--------------------| --------------------- | ---------------------------------------------------------- |
-| inward       | `/ˈɪnwərd/`        | adj. 内部的            | He turned his gaze inward. <br />(他把目光转向内心。)      |
-| quarrel      | `/ˈkwɑːrəl/`       | n. 争吵；v. 争吵        | n. They had a quarrel about money. <br />(他们因为钱的问题而争吵。) |
-| pavement     | `/ˈpeɪvmənt/`      | n. 人行道              | The kids were playing on the pavement. <br />(孩子们在人行道上玩耍。) |
+| 单词          | 美式发音               | 词类 + 汉语释义        | 示例                                                       |
+| ------------ |--------------------|------------------| ---------------------------------------------------------- |
+| inward       | `/ˈɪnwərd/`        | adj. 内部的         | He turned his gaze inward. <br />(他把目光转向内心。)      |
+| quarrel      | `/ˈkwɑːrəl/`       | n. 争吵；v. 争吵      | n. They had a quarrel about money. <br />(他们因为钱的问题而争吵。) |
+| pavement     | `/ˈpeɪvmənt/`      | n. 人行道           | The kids were playing on the pavement. <br />(孩子们在人行道上玩耍。) |
 | stray        | `/streɪ/`          | adj. 迷路的；<br />v. 走失；偏离 | adj. A stray dog followed her home. <br />(一只迷路的狗跟着她回了家。)<br/>v. His thoughts strayed to his childhood. <br />(他的思绪偏离到了他的童年。) |
-| observation  | `/ˌɑːbzərˈveɪʃən/` | n. 观察                | His observation of the birds was very detailed. <br />(他对鸟类的观察非常详细。) |
-| ladder       | `/ˈlædər/`         | n. 梯子                | He climbed the ladder to reach the roof. <br />(他爬梯子上屋顶。) |
-| dialectic    | `/ˌdaɪəˈlektɪk/`   | n. 辩证法              | The debate was an example of dialectic. <br />(这场辩论是辩证法的一个例子。) |
-| swish        | `/swɪʃ/`           | v. 挥动；n. 嗖嗖声      | v. The cat's tail swished back and forth. <br />(猫的尾巴来回挥动。) |
-| cluster      | `/ˈklʌstər/`       | n. 簇；群；v. 聚集      | n. A cluster of stars could be seen in the sky.<br /> (天空中可以看到一簇星星。) |
-| compulsory   | `/kəmˈpʌlsəri/`    | adj. 强制的            | Attendance at the meeting is compulsory. <br />(参加会议是强制性的。) |
-| moron        | ` /ˈmɔːrɑːn/ `     | n. 笨蛋（贬义）         | He acted like a complete moron. <br />(他表现得像个彻底的笨蛋。) |
-| solitude     | `/ˈsɑːlɪtuːd/`     | n. 独处                | She enjoyed the solitude of the mountains. <br />(她享受山中的独处。)<br /> live in solitude 孤单(孤独)地生活 |
-| socialize    | `/ˈsoʊʃəlaɪz/`     | v. 社交                | It's important to socialize with your colleagues. <br />(与同事社交很重要。)<br />You don't socialize enough. <br />你交际不广 |
-| negotiate    | `/nɪˈgoʊʃieɪt/`    | v. 谈判，协商           | They are negotiating a new contract.<br /> (他们正在谈判一份新合同。)<br />The two countries are negotiating a trade agreement. <br />这两个国家正在谈判一项贸易协议。<br />They negotiated a new contract. <br/>(他们协商了一份新合同。) |
-| theoretical  | `/ˌθiːəˈretɪkəl/`  | adj. 理论的            | His knowledge is purely theoretical. <br />(他的知识纯粹是理论上的。)<br />theoretical physics. 理论物理（学） |
+| observation  | `/ˌɑːbzərˈveɪʃən/` | n. 观察            | His observation of the birds was very detailed. <br />(他对鸟类的观察非常详细。) |
+| ladder       | `/ˈlædər/`         | n. 梯子            | He climbed the ladder to reach the roof. <br />(他爬梯子上屋顶。) |
+| dialectic    | `/ˌdaɪəˈlektɪk/`   | n. 辩证法           | The debate was an example of dialectic. <br />(这场辩论是辩证法的一个例子。) |
+| swish        | `/swɪʃ/`           | v. 挥动；n. 嗖嗖声     | v. The cat's tail swished back and forth. <br />(猫的尾巴来回挥动。) |
+| cluster      | `/ˈklʌstər/`       | n. 簇；群；v. 聚集     | n. A cluster of stars could be seen in the sky.<br /> (天空中可以看到一簇星星。) |
+| compulsory   | `/kəmˈpʌlsəri/`    | adj. 强制的         | Attendance at the meeting is compulsory. <br />(参加会议是强制性的。) |
+| moron        | ` /ˈmɔːrɑːn/ `     | n. 笨蛋（贬义）        | He acted like a complete moron. <br />(他表现得像个彻底的笨蛋。) |
+| solitude     | `/ˈsɑːlɪtuːd/`     | n. 独处；独居         | She enjoyed the solitude of the mountains. <br />(她享受山中的独处。)<br /> live in solitude 孤单(孤独)地生活 |
+| socialize    | `/ˈsoʊʃəlaɪz/`     | v. 社交            | It's important to socialize with your colleagues. <br />(与同事社交很重要。)<br />You don't socialize enough. <br />你交际不广 |
+| negotiate    | `/nɪˈgoʊʃieɪt/`    | v. 谈判，协商         | They are negotiating a new contract.<br /> (他们正在谈判一份新合同。)<br />The two countries are negotiating a trade agreement. <br />这两个国家正在谈判一项贸易协议。<br />They negotiated a new contract. <br/>(他们协商了一份新合同。) |
+| theoretical  | `/ˌθiːəˈretɪkəl/`  | adj. 理论的         | His knowledge is purely theoretical. <br />(他的知识纯粹是理论上的。)<br />theoretical physics. 理论物理（学） |
 | cube         | `/kjuːb/`          | n. 立方体；立方(数学)；<br />v. 求...的立方，切成方块 | n. The puzzle was in the shape of a cube. <br />(这个难题是立方体形状的。)<br/>v. To find the volume, cube the length of each side. <br />(要找出体积，求每边长度的立方。)<br />v. 4 cubed is 64. 4 的立方是 64.<br />v. She cubed the potatoes for the stew.<br /> (她把土豆切成方块做炖菜。) |
 
 单词列表的解释：

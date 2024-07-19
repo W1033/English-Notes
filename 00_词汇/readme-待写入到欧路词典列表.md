@@ -22,7 +22,6 @@
 | Eyre         | `/ɛr/`            | n. 艾尔（地名，人名）                             |
 | sargasso     | `/sɑrˈɡæsoʊ/`     | n. 马尾藻                                   |
 | tuck         | `/tʌk/`           | v. 塞进；卷起<br>n. 卷起                        |
-| tuck away    | `/tʌk əˈweɪ/`     | phr. 收藏；隐藏                               |
 | bunny        | `/ˈbʌni/`         | n. 兔子                                    |
 | lit          | `/lɪt/`           | v. 点燃；照亮（light 的过去式和过去分词）<br>adj. 很棒的；令人兴奋的（俚语） |
 | light        | `/laɪt/`          | n. 光；灯<br>v. 点燃；照亮<br>adj. 轻的；明亮的        |
@@ -31,6 +30,38 @@
 | lull         | `/lʌl/`           | v. 使平静；哄骗<br>n. 平静期                      |
 | heading      | `/ˈhedɪŋ/`         | n. 标题；航向                                 |
 | homeward     | `/ˈhoʊmwərd/`     | adj. 回家的；归途中的                            |
+| expert        | `/ˈekspɜːrt/`      | n. 专家<br>adj. 熟练的             |
+| excerpt       | `/ˈeksɜːrpt/`      | n. 摘录；选段<br>v. 摘录             |
+| paperback     | `/ˈpeɪpərbæk/`     | n. 平装本                        |
+| peak          | `/piːk/`           | n. 山顶；顶峰<br>v. 达到顶峰           |
+| sustenance    | `/ˈsʌstənəns/`     | n. 食物；生计                      |
+| livelihood    | `/ˈlaɪvlihʊd/`     | n. 生计；生活                      |
+| goatherd      | `/ˈɡoʊthɜːrd/`     | n. 牧羊人                        |
+| buck          | `/bʌk/`            | n. 雄鹿; 美元 (口语)<br>v. 弓背跃起; 反抗 | 
+| prod          | `/prɑːd/`           | v. 〔用手指或尖物〕戳；督促<br>n. 戳；提醒    |
+| autobiography | `/ˌɒːtəbaɪˈɑːɡrəfi/` | n. 自传                         |
+| recollection  | `/ˌrekəˈlekʃən/`   | n. 回忆；记忆                      |
+| hush          | `/hʌʃ/`           | v. 使安静<br>n. 安静               |
+| lullaby       | `/ˈlʌləbaɪ/`      | n. 摇篮曲                        |
+| piece         | `/piːs/`          | n. 片；块；段<br>v. 拼合；拼凑          |
+| moose         | `/muːs/`          | n. 驼鹿(单复数同形)                  |
+| muffin        | `/ˈmʌfɪn/`        | n. 松饼                         |
+| kernel        | `/ˈkɜːrnl/`       | n. 核心；果仁                      |
+| spot          | `/spɑːt/`         | n. 斑点；地点<br>v. 发现；满是斑点        |
+| roam          | `/roʊm/`          | v. 漫游；闲逛<br>n. 漫游             |
+| sunshine      | `/ˈsʌnʃaɪn/`      | n. 阳光                         |
+| canyon        | `/ˈkænjən/`       | n. 峡谷                         |
+| gorge         | `/ɡɔːrdʒ/`        | n. 峡谷<br>v. 狼吞虎咽              |
+| ravine        | `/rəˈviːn/`       | n. 峡谷 (1)                     |
+| gully         | `/ˈɡʌli/`         | n. (山坡上被雨水冲成的) 沟壑             |
+| valley        | `/ˈvæli/`         | n. 山谷                     |
+
+
+
+
+
+
+
 
 
 

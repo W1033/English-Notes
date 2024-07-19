@@ -378,6 +378,12 @@ Answerer：ChatGPT 4
 
 
 
+
+
+
+
+
+
 ## ▲ 待查生词
 
 The bright **dipper** stars above are named Dubhe, Merak, Phecda, Megrez, Alioth, Mizar, and Alkaid. 
@@ -399,11 +405,11 @@ The bright **dipper** stars above are named Dubhe, Merak, Phecda, Megrez, Alioth
 
 ## ▲ 相似单词
 
+### 1. transition, transform
+
 *Re-edit: 2024.03.18*
 
 ChatGPT 4.0 translations
-
-~~注：下面表格单词已写到 Goodnotes~~
 
 | 单词           | 美式发音             | 词类 + 汉语释义 | 示例                                                         |
 | -------------- | -------------------- | --------------- | ------------------------------------------------------------ |
@@ -413,8 +419,8 @@ ChatGPT 4.0 translations
 
 **单词解释:**
 
-- **transition (n.)**：
-    - “transition” 指的是 **`过渡`** 或 **`转变`** 的过程，涉及从一种状态或情况移至另一种，常用来描述事物或情况的变化阶段。
+- **transition (n.)**：指的是 **`过渡`** 或 **`转变`** 的过程，涉及从一种状态或情况移至另一种，常用来描述事物或情况的变化阶段。
+  
     - > 让我们全面了解一下单词 "transition"
       >
       > *Added: 2024.03.18* *Answer: ChatGPT 4.0*
@@ -462,8 +468,8 @@ ChatGPT 4.0 translations
       >
       > "Transition" 这个词在描述改变或发展的过程中非常有用，强调了从一个状态到另一个状态的过渡。
     
-- **transform (v.)**：
-  - “transform” 作为动词，表示 **`转变`** 或 **`改变`**，用于描述某物或某人发生的根本变化，这种变化通常是深远和显著的。
+- **transform (v.)**： 作为动词，表示 **`转变`** 或 **`改变`**，用于描述某物或某人发生的根本变化，这种变化通常是深远和显著的。
+  
   - > 全面了解单词 "transform"
     >
     > *Added: 2024.03.15|16|17（I don't remember exactly which day it was.）* 
@@ -523,9 +529,46 @@ ChatGPT 4.0 translations
     > 总结来说，"transform" 是一个表达深刻和根本变化的强有力的动词，它涵盖了外观、性质或状态的改变，并且这种改变通常是显著和彻底的。
 
 
-- **transformation (n.)**：
-  - “transformation” 指的是 **`转变`** 或 **`变革`** 的行为或结果，强调的是一个过程或结果，该过程或结果带来了显著的变化和发展。
+- **transformation (n.)**：指的是 **`转变`** 或 **`变革`** 的行为或结果，强调的是一个过程或结果，该过程或结果带来了显著的变化和发展。
 
+### 2. canyon，gorge，ravine 的区别
+
+*Add: 2024.07.19* - *Source: ChatGPT 4o*
+
+
+| 单词   | 美式发音    | 词性 + 汉语释义              |
+| ------ | ----------- | ---------------------------- |
+| canyon | `/ˈkænjən/` | n. 峡谷                      |
+| gorge  | `/ɡɔːrdʒ/`  | n. 峡谷; 山沟<br>v. 狼吞虎咽 |
+| ravine | `/rəˈviːn/` | n. 峡谷                         |
+
+
+Q: *gpt, canyon、gorge 和 ravine 我看都可以表示 ”峡谷“ 的意思，他们有什么不同吗？*
+
+**GPT:** “Ravine” 和 “canyon”、“gorge”都可以表示“峡谷”，但它们在具体使用和地理特征上也有一些区别：
+
+1. **Canyon**:
+   - **定义**: 通常指的是较宽、较深的河流切割形成的大峡谷，常见于干燥地区。
+   - **特征**: 宽度和深度都较大，通常两边有陡峭的岩壁。
+   - **示例**: The Grand Canyon in the United States is one of the most famous canyons in the world. （美国的大峡谷是世界上最著名的峡谷之一。）
+   - <img src="./readme.assets/DALL%C2%B7E%202024-07-19%2016.40.25%20-%20A%20depiction%20of%20the%20Grand%20Canyon%20in%20the%20United%20States,%20showcasing%20its%20vastness%20and%20dramatic%20landscape.%20The%20canyon%20should%20have%20steep,%20layered%20rock%20walls-1378453.webp" alt="DALL·E 2024-07-19 16.40.25 - A depiction of the Grand Canyon in the United States, showcasing its vastness and dramatic landscape. The canyon should have steep, layered rock walls" style="zoom:40%;" />
+   
+2. **Gorge**:
+   - **定义**: 一般指的是较窄、较深的峡谷，通常由快速流动的河流侵蚀形成。
+   - **特征**: 通常比canyon更窄，且两侧更为陡峭。
+   - **示例**: The Verdon Gorge in France is known for its stunning cliffs and turquoise waters. （法国的韦尔东峡谷以其壮丽的悬崖和碧绿的水域而闻名。）
+   - <img src="./readme.assets/DALL%C2%B7E%202024-07-19%2016.40.29%20-%20A%20depiction%20of%20the%20Verdon%20Gorge%20in%20France,%20showcasing%20its%20stunning%20cliffs%20and%20turquoise%20waters.%20The%20gorge%20should%20have%20steep,%20towering%20rock%20walls%20and%20a-1378471.webp" alt="DALL·E 2024-07-19 16.40.29 - A depiction of the Verdon Gorge in France, showcasing its stunning cliffs and turquoise waters. The gorge should have steep, towering rock walls and a" style="zoom:40%;" />
+   
+3. **Ravine**:
+   - **定义**: 指的是比gorge更小、更窄、更浅的峡谷或沟壑，通常是由于流水侵蚀形成的。
+   - **特征**: 较窄且较浅，通常有陡峭的侧壁，但规模和深度都比gorge和canyon要小。
+   - **示例**: The small ravine behind our house fills with water after heavy rains. （我们房子后面的小沟壑在大雨后会充满水。）
+   - <img src="./readme.assets/DALL%C2%B7E%202024-07-19%2016.40.32%20-%20A%20small%20ravine%20behind%20a%20house,%20with%20steep%20sides%20and%20a%20shallow,%20narrow%20stream.%20After%20heavy%20rains,%20the%20ravine%20is%20filled%20with%20water.%20The%20surrounding%20envi-1378482.webp" alt="DALL·E 2024-07-19 16.40.32 - A small ravine behind a house, with steep sides and a shallow, narrow stream. After heavy rains, the ravine is filled with water. The surrounding envi" style="zoom:40%;" />
+
+总结：
+- **宽度和深度**: canyon > gorge > ravine。
+- **形成方式**: canyon 和 gorge 通常由较大或快速流动的河流侵蚀形成，而 ravine 则可能由小溪流或短期洪水形成。
+- **地理特征**: canyon 最宽、最深，环境开阔；gorge 较窄较深，环境较紧凑；ravine 最窄最浅，通常规模较小。
 
 
 
@@ -607,6 +650,8 @@ ChatGPT 4.0 translations
 *Note：上图中，点击开始导入按钮，导入 txt 文档成功后显示导入的数量是不对的，自己在词典中验证一下有没有全部导入即可。*
 
 把需要导入的单词以下面这种格式保存到一个 txt 文档中，文档格式如下：
+
+- 注：下面的文档的编辑是在 vscode or IEDA 中实现的。
 
 ```html
 as, `/æz/`<br><br>conj. 当...时；因为；尽管<br><br>adv. 像...一 
