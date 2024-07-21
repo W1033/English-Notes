@@ -4336,8 +4336,8 @@ Edit: 2024.07.18
 | light        | `/laɪt/`          | n. 光；灯<br>v. 点燃；照亮<br>adj. 轻的；明亮的        |
 | mitt         | `/mɪt/`           | n. (尤指棒球的)手套                             |
 | mitten       | `/ˈmɪtn/`         | n. 连指手套                                  |
-| lull         | `/lʌl/`           | v. 使平静；哄骗<br>n. 平静期                      |
-| heading      | `/ˈhedɪŋ/`         | n. 标题；航向                                 |
+| lull         | `/lʌl/`           | v. 使平静<br>n. 平静期                      |
+| heading      | `/ˈhedɪŋ/`        | n. 标题；航向                                 |
 | homeward     | `/ˈhoʊmwərd/`     | adj. 回家的；归途中的                            |
 
 注：

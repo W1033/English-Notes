@@ -1,60 +1,57 @@
-
-| 单词         | 美式发音              | 词性 + 汉语释义                                |
-|--------------|-------------------|------------------------------------------|
-| cock         | `/kɑːk/`          | n. 公鸡；[俗]阴茎                              |
-| rooster      | `/ˈruːstər/`      | n. 公鸡                                    |
-| crow         | `/kroʊ/`          | n. 乌鸦；(雄鸡的)啼叫<br>v. (雄鸡)啼叫               |
-| dawn         | `/dɔːn/`          | n. 黎明；开始；<br>v. 破晓                       |
-| assault      | `/əˈsɒːlt/`       | n. 攻击；v. 袭击                              |
-| piss         | `/pɪs/`           | v. 小便；使发怒<br>n. 小便                       |
-| lyrical      | `/ˈlɪrɪkəl/`      | adj. 抒情的                                 |
-| debounce     | `/diˈbaʊns/`      | v. 去抖动 (1)                               |
-| weird        | `/wɪrd/`          | adj. 奇怪的；怪异的                             |
-| obsession    | `/əbˈseʃən/`      | n. 痴迷；困扰                                 |
-| cleanliness  | `/ˈklenlinəs/`    | n. 清洁                                    |
-| independent  | `/ˌɪndəˈpendənt/` | adj. 独立的                                 |
-| geography    | `/dʒiˈɑːɡrəfi/`   | n. 地理(学)                                 |
-| Oxford       | `/ˈɑːksfərd/`     | n. 牛津（英国城市）                              |
-| mint         | `/mɪnt/`          | n. 薄荷；铸币厂<br>v. 铸造                       |
-| sift         | `/sɪft/`          | v. 筛选；过滤                                 |
-| press        | `/pres/`          | v. 按；压<br>n. 新闻界                         |
-| avian        | `/ˈeɪviən/`       | adj. 鸟类的                                 |
-| Eyre         | `/ɛr/`            | n. 艾尔（地名，人名）                             |
-| sargasso     | `/sɑrˈɡæsoʊ/`     | n. 马尾藻                                   |
-| tuck         | `/tʌk/`           | v. 塞进；卷起<br>n. 卷起                        |
-| bunny        | `/ˈbʌni/`         | n. 兔子                                    |
-| lit          | `/lɪt/`           | v. 点燃；照亮（light 的过去式和过去分词）<br>adj. 很棒的；令人兴奋的（俚语） |
-| light        | `/laɪt/`          | n. 光；灯<br>v. 点燃；照亮<br>adj. 轻的；明亮的        |
-| mitt         | `/mɪt/`           | n. (尤指棒球的)手套                             |
-| mitten       | `/ˈmɪtn/`         | n. 连指手套                                  |
-| lull         | `/lʌl/`           | v. 使平静；哄骗<br>n. 平静期                      |
-| heading      | `/ˈhedɪŋ/`         | n. 标题；航向                                 |
-| homeward     | `/ˈhoʊmwərd/`     | adj. 回家的；归途中的                            |
-| expert        | `/ˈekspɜːrt/`      | n. 专家<br>adj. 熟练的             |
-| excerpt       | `/ˈeksɜːrpt/`      | n. 摘录；选段<br>v. 摘录             |
-| paperback     | `/ˈpeɪpərbæk/`     | n. 平装本                        |
-| peak          | `/piːk/`           | n. 山顶；顶峰<br>v. 达到顶峰           |
-| sustenance    | `/ˈsʌstənəns/`     | n. 食物；生计                      |
-| livelihood    | `/ˈlaɪvlihʊd/`     | n. 生计；生活                      |
-| goatherd      | `/ˈɡoʊthɜːrd/`     | n. 牧羊人                        |
-| buck          | `/bʌk/`            | n. 雄鹿; 美元 (口语)<br>v. 弓背跃起; 反抗 | 
-| prod          | `/prɑːd/`           | v. 〔用手指或尖物〕戳；督促<br>n. 戳；提醒    |
-| autobiography | `/ˌɒːtəbaɪˈɑːɡrəfi/` | n. 自传                         |
-| recollection  | `/ˌrekəˈlekʃən/`   | n. 回忆；记忆                      |
-| hush          | `/hʌʃ/`           | v. 使安静<br>n. 安静               |
-| lullaby       | `/ˈlʌləbaɪ/`      | n. 摇篮曲                        |
-| piece         | `/piːs/`          | n. 片；块；段<br>v. 拼合；拼凑          |
-| moose         | `/muːs/`          | n. 驼鹿(单复数同形)                  |
-| muffin        | `/ˈmʌfɪn/`        | n. 松饼                         |
-| kernel        | `/ˈkɜːrnl/`       | n. 核心；果仁                      |
-| spot          | `/spɑːt/`         | n. 斑点；地点<br>v. 发现；满是斑点        |
-| roam          | `/roʊm/`          | v. 漫游；闲逛<br>n. 漫游             |
-| sunshine      | `/ˈsʌnʃaɪn/`      | n. 阳光                         |
-| canyon        | `/ˈkænjən/`       | n. 峡谷                         |
-| gorge         | `/ɡɔːrdʒ/`        | n. 峡谷<br>v. 狼吞虎咽              |
-| ravine        | `/rəˈviːn/`       | n. 峡谷 (1)                     |
-| gully         | `/ˈɡʌli/`         | n. (山坡上被雨水冲成的) 沟壑             |
-| valley        | `/ˈvæli/`         | n. 山谷                     |
+cock, `/kɑːk/`<br/><br/> n. 公鸡；[俗]阴茎                             
+rooster, `/ˈruːstər/`<br/><br/> n. 公鸡                                   
+crow, `/kroʊ/`<br/><br/> n. 乌鸦；(雄鸡的)啼叫<br><br>v. (雄鸡)啼叫              
+dawn, `/dɔːn/`<br/><br/> n. 黎明；开始；<br><br>v. 破晓                      
+assault, `/əˈsɒːlt/`<br/><br/> n. 攻击；v. 袭击                             
+piss, `/pɪs/`<br/><br/> v. 小便；使发怒<br><br>n. 小便                      
+lyrical, `/ˈlɪrɪkəl/`<br/><br/> adj. 抒情的                                
+debounce, `/diˈbaʊns/`<br/><br/> v. 去抖动                             
+weird, `/wɪrd/`<br/><br/> adj. 奇怪的；怪异的                            
+obsession, `/əbˈseʃən/`<br/><br/> n. 痴迷；困扰                                
+cleanliness, `/ˈklenlinəs/`<br/><br/> n. 清洁                                   
+independent, `/ˌɪndəˈpendənt/`<br/><br/> adj. 独立的                                
+geography, `/dʒiˈɑːɡrəfi/`<br/><br/> n. 地理(学)                                
+Oxford, `/ˈɑːksfərd/`<br/><br/> n. 牛津（英国城市）                             
+mint, `/mɪnt/`<br/><br/> n. 薄荷；铸币厂<br><br>v. 铸造                      
+sift, `/sɪft/`<br/><br/> v. 筛选；过滤                                
+press, `/pres/`<br/><br/> v. 按；压<br><br>n. 新闻界                        
+avian, `/ˈeɪviən/`<br/><br/> adj. 鸟类的                                
+Eyre, `/ɛr/`<br/><br/> n. 艾尔（地名，人名）                            
+sargasso, `/sɑrˈɡæsoʊ/`<br/><br/> n. 马尾藻                                  
+tuck, `/tʌk/`<br/><br/> v. 塞进；卷起<br><br>n. 卷起                       
+bunny, `/ˈbʌni/`<br/><br/> n. 兔子                                   
+lit, `/lɪt/`<br/><br/> v. 点燃；照亮（light 的过去式和过去分词）<br><br>adj. 很棒的；令人兴奋的（俚语）
+light, `/laɪt/`<br/><br/> n. 光；灯<br><br>v. 点燃；照亮<br><br>adj. 轻的；明亮的       
+mitt, `/mɪt/`<br/><br/> n. (尤指棒球的)手套                            
+mitten, `/ˈmɪtn/`<br/><br/> n. 连指手套                                 
+lull, `/lʌl/`<br/><br/> v. 使平静<br><br>n. 平静期                     
+heading, `/ˈhedɪŋ/`<br/><br/> n. 标题；航向                                
+homeward, `/ˈhoʊmwərd/`<br/><br/> adj. 回家的；归途中的                           
+expert, `/ˈekspɜːrt/`<br/><br/> n. 专家<br><br>adj. 熟练的            
+excerpt, `/ˈeksɜːrpt/`<br/><br/> n. 摘录；选段<br><br>v. 摘录            
+paperback, `/ˈpeɪpərbæk/`<br/><br/> n. 平装本                       
+peak, `/piːk/`<br/><br/> n. 山顶；顶峰<br><br>v. 达到顶峰          
+sustenance, `/ˈsʌstənəns/`<br/><br/> n. 食物；生计                     
+livelihood, `/ˈlaɪvlihʊd/`<br/><br/> n. 生计；生活                     
+goatherd, `/ˈɡoʊthɜːrd/`<br/><br/> n. 牧羊人                       
+buck, `/bʌk/`<br/><br/> n. 雄鹿; 美元 (口语)<br><br>v. 弓背跃起; 反抗 
+prod, `/prɑːd/`<br/><br/> v. 〔用手指或尖物〕戳；督促<br><br>n. 戳；提醒   
+autobiography, `/ˌɒːtəbaɪˈɑːɡrəfi/`<br/><br/> n. 自传                        
+recollection, `/ˌrekəˈlekʃən/`<br/><br/> n. 回忆；记忆                     
+hush, `/hʌʃ/`<br/><br/> v. 使安静<br><br>n. 安静              
+lullaby, `/ˈlʌləbaɪ/`<br/><br/> n. 摇篮曲                       
+piece, `/piːs/`<br/><br/> n. 片；块；段<br><br>v. 拼合；拼凑         
+moose, `/muːs/`<br/><br/> n. 驼鹿(单复数同形)                 
+muffin, `/ˈmʌfɪn/`<br/><br/> n. 松饼                        
+kernel, `/ˈkɜːrnl/`<br/><br/> n. 核心；果仁                     
+spot, `/spɑːt/`<br/><br/> n. 斑点；地点<br><br>v. 发现；满是斑点       
+roam, `/roʊm/`<br/><br/> v. 漫游；闲逛<br><br>n. 漫游            
+sunshine, `/ˈsʌnʃaɪn/`<br/><br/> n. 阳光                        
+canyon, `/ˈkænjən/`<br/><br/> n. 峡谷                        
+gorge, `/ɡɔːrdʒ/`<br/><br/> n. 峡谷<br><br>v. 狼吞虎咽             
+ravine, `/rəˈviːn/`<br/><br/> n. 峡谷                  
+gully, `/ˈɡʌli/`<br/><br/> n. (山坡上被雨水冲成的) 沟壑            
+valley, `/ˈvæli/`<br/><br/> n. 山谷                    
 
 
 
