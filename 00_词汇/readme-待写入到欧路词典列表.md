@@ -1,3 +1,15 @@
+
+
+
+
+
+
+
+
+
+
+
+
 cock, `/kɑːk/`<br/><br/> n. 公鸡；[俗]阴茎                             
 rooster, `/ˈruːstər/`<br/><br/> n. 公鸡                                   
 crow, `/kroʊ/`<br/><br/> n. 乌鸦；(雄鸡的)啼叫<br><br>v. (雄鸡)啼叫              
@@ -51,24 +63,7 @@ canyon, `/ˈkænjən/`<br/><br/> n. 峡谷
 gorge, `/ɡɔːrdʒ/`<br/><br/> n. 峡谷<br><br>v. 狼吞虎咽             
 ravine, `/rəˈviːn/`<br/><br/> n. 峡谷                  
 gully, `/ˈɡʌli/`<br/><br/> n. (山坡上被雨水冲成的) 沟壑            
-valley, `/ˈvæli/`<br/><br/> n. 山谷                    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+valley, `/ˈvæli/`<br/><br/> n. 山谷
 behind, `/bɪˈhaɪnd/`<br/><br/> prep. 在…后面；落后于<br><br>adv. 在后面 
 emergency, `/ɪˈmɜːrdʒənsi/`<br/><br/> n. 紧急情况                  
 prerequisite, `/priːˈrekwəzət/`<br/><br/> n. 先决条件                  

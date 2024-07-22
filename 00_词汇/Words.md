@@ -4251,6 +4251,11 @@ Translator: ChatGPT 4 & 4o
 
 
 
+### ------ ------ ------ 笔记标记线 ------ ------ ------
+
+
+
+
 ### Added: 2024.03.29
 
 #### First Table - ~~已校对~~ - ~~已写入：GoodNotes~~
@@ -4292,11 +4297,6 @@ Translator: ChatGPT 4
 
 
 
-### ------ ------ ------ 笔记标记线 ------ ------ ------
-
-
-
-
 ### Added: 2024.03.28
 
 #### First Table - 校对中 - ~~已写入：GoodNotes~~
@@ -4307,38 +4307,38 @@ Edit: 2024.07.18
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词         | 美式发音              | 词性 + 汉语释义                                |
-|--------------|-------------------|------------------------------------------|
-| cock         | `/kɑːk/`          | n. 公鸡；[俗]阴茎                              |
-| rooster      | `/ˈruːstər/`      | n. 公鸡                                    |
-| crow         | `/kroʊ/`          | n. 乌鸦；(雄鸡的)啼叫<br>v. (雄鸡)啼叫               |
-| dawn         | `/dɔːn/`          | n. 黎明；开始；<br>v. 破晓                       |
-| assault      | `/əˈsɒːlt/`       | n. 攻击；v. 袭击                              |
-| piss         | `/pɪs/`           | v. 小便；使发怒<br>n. 小便                       |
-| lyrical      | `/ˈlɪrɪkəl/`      | adj. 抒情的                                 |
-| debounce     | `/diˈbaʊns/`      | v. 去抖动 (1)                               |
-| weird        | `/wɪrd/`          | adj. 奇怪的；怪异的                             |
-| obsession    | `/əbˈseʃən/`      | n. 痴迷；困扰                                 |
-| cleanliness  | `/ˈklenlinəs/`    | n. 清洁                                    |
-| independent  | `/ˌɪndəˈpendənt/` | adj. 独立的                                 |
-| geography    | `/dʒiˈɑːɡrəfi/`   | n. 地理(学)                                 |
-| Oxford       | `/ˈɑːksfərd/`     | n. 牛津（英国城市）                              |
-| mint         | `/mɪnt/`          | n. 薄荷；铸币厂<br>v. 铸造                       |
-| sift         | `/sɪft/`          | v. 筛选；过滤                                 |
-| press        | `/pres/`          | v. 按；压<br>n. 新闻界                         |
-| avian        | `/ˈeɪviən/`       | adj. 鸟类的                                 |
-| Eyre         | `/ɛr/`            | n. 艾尔（地名，人名）                             |
-| sargasso     | `/sɑrˈɡæsoʊ/`     | n. 马尾藻                                   |
-| tuck         | `/tʌk/`           | v. 塞进；卷起<br>n. 卷起                        |
-| tuck away    | `/tʌk əˈweɪ/`     | phr. 收藏；隐藏                               |
-| bunny        | `/ˈbʌni/`         | n. 兔子                                    |
-| lit          | `/lɪt/`           | v. 点燃；照亮（light 的过去式和过去分词）<br>adj. 很棒的；令人兴奋的（俚语） |
-| light        | `/laɪt/`          | n. 光；灯<br>v. 点燃；照亮<br>adj. 轻的；明亮的        |
-| mitt         | `/mɪt/`           | n. (尤指棒球的)手套                             |
-| mitten       | `/ˈmɪtn/`         | n. 连指手套                                  |
-| lull         | `/lʌl/`           | v. 使平静<br>n. 平静期                      |
-| heading      | `/ˈhedɪŋ/`        | n. 标题；航向                                 |
-| homeward     | `/ˈhoʊmwərd/`     | adj. 回家的；归途中的                            |
+| 单词         | 美式发音              | 词性 + 汉语释义                      | 示例 |
+|--------------|-------------------|--------------------------------|---|
+| cock         | `/kɑːk/`          | n. 公鸡；[俗]阴茎                    | n. The cock crowed at dawn. <br>(公鸡在黎明时啼叫。)<br>n. The graffiti depicted a crude image of a cock. <br>(涂鸦描绘了一个粗俗的阴茎图像。) |
+| rooster      | `/ˈruːstər/`      | n. 公鸡                          | n. The rooster woke us up early in the morning. <br>(公鸡一大早就把我们叫醒了。) |
+| crow         | `/kroʊ/`          | n. 乌鸦；(雄鸡的)啼叫<br>v. (雄鸡)啼叫     | n. The crow perched on the fence. <br>(乌鸦栖息在围栏上。)<br>n. The crow of the rooster signaled the start of a new day. <br>(公鸡的啼叫标志着新的一天的开始。)<br>v. The rooster crowed loudly at dawn. <br>(公鸡在黎明时大声啼叫。) |
+| dawn         | `/dɔːn/`          | n. 黎明；开始<br>v. 破晓              | n. They set out at dawn. <br>(他们在黎明时出发。)<br>n. The dawn of a new era is upon us. <br>(一个新时代的开始即将到来。)<br>v. The day dawned clear and bright. <br>(破晓时分，天色清澈明亮。) |
+| assault      | `/əˈsɒːlt/`       | n. 攻击；v. 袭击                    | n. He was charged with assault. <br>(他被指控袭击。)<br>v. The thief assaulted the victim and stole her purse. <br>(小偷袭击了受害者并抢走了她的钱包。) |
+| piss         | `/pɪs/`           | v. 小便；使发怒<br>n. 小便             | v. He had to piss urgently. <br>(他急需小便。)<br>v. His rude comment pissed me off. <br>(他粗鲁的评论让我生气。)<br>n. The alley reeked of piss. <br>(巷子里散发着尿臭味。) |
+| lyrical      | `/ˈlɪrɪkəl/`      | adj. 抒情的                       | adj. The poem was very lyrical. <br>(这首诗非常抒情。) |
+| debounce     | `/diˈbaʊns/`      | v. 去抖动 (1)                     | v. The programmer wrote code to debounce the button input. <br>(程序员编写代码以去除按钮输入的抖动。) |
+| weird        | `/wɪrd/`          | adj. 奇怪的；怪异的                   | adj. She had a weird dream last night. <br>(她昨晚做了一个奇怪的梦。) |
+| obsession    | `/əbˈseʃən/`      | n. 痴迷；困扰                       | n. His obsession with cleanliness is well-known. <br>(他对清洁的痴迷是众所周知的。) |
+| cleanliness  | `/ˈklenlinəs/`    | n. 清洁                          | n. Cleanliness is very important in a kitchen. <br>(清洁在厨房里非常重要。) |
+| independent  | `/ˌɪndəˈpendənt/` | adj. 独立的                       | adj. She is an independent woman who can take care of herself. <br>(她是一个能照顾自己的独立女性。) |
+| geography    | `/dʒiˈɑːɡrəfi/`   | n. 地理(学)                       | n. He is studying geography at the university. <br>(他在大学学习地理。) |
+| Oxford       | `/ˈɑːksfərd/`     | n. 牛津（英国城市）                    | n. Oxford is known for its prestigious university. <br>(牛津以其著名的大学而闻名。) |
+| mint         | `/mɪnt/`          | n. 薄荷；铸币厂<br>v. 铸造             | n. She added mint to the cocktail for flavor. <br>(她在鸡尾酒里加了薄荷以增加风味。)<br>n. The coin was made at the mint. <br>(这枚硬币是在铸币厂制造的。)<br>v. The government decided to mint new coins. <br>(政府决定铸造新硬币。) |
+| sift         | `/sɪft/`          | v. 筛选；过滤                       | v. She sifted the flour before baking the cake. <br>(她在烤蛋糕前筛了面粉。) |
+| press        | `/pres/`          | v. 按；压<br>n. 新闻界               | v. He pressed the button to start the machine. <br>(他按下按钮启动机器。)<br>n. The press reported on the event extensively. <br>(新闻界对该事件进行了广泛报道。) |
+| avian        | `/ˈeɪviən/`       | adj. 鸟类的                       | adj. The avian flu is a serious disease that affects birds. <br>(禽流感是一种严重影响鸟类的疾病。) |
+| Eyre         | `/ɛr/`            | n. 艾尔（地名，人名）                   | n. Eyre is a surname common in England. <br>(艾尔是英国常见的姓氏。) |
+| sargasso     | `/sɑrˈɡæsoʊ/`     | n. 马尾藻                         | n. The Sargasso Sea is named after the sargasso weed found there. <br>(马尾藻海因那里的马尾藻而得名。) |
+| tuck         | `/tʌk/`           | v. 塞进；卷起<br>n. 卷起              | v. She tucked the blanket around the baby. <br>(她把毯子裹在婴儿身上。)<br>n. The sailor made a neat tuck in the sail. <br>(水手在帆上打了一个整齐的褶。) |
+| tuck away    | `/tʌk əˈweɪ/`     | phr. 收藏；隐藏                     | phr. He tucked away his savings in a secret account. <br>(他把积蓄藏在一个秘密账户里。) |
+| bunny        | `/ˈbʌni/`         | n. 兔子                          | n. The children were excited to see the bunny in the garden. <br>(孩子们看到花园里的兔子非常兴奋。) |
+| lit          | `/lɪt/`           | v. 点燃；照亮（light 的过去式和过去分词）<br>adj. 很棒的；令人兴奋的（俚语） | v. She lit the candle for dinner. <br>(她点燃了晚餐的蜡烛。)<br>adj. The concert last night was lit! <br>(昨晚的演唱会太棒了！) |
+| light        | `/laɪt/`          | n. 光；灯<br>v. 点燃；照亮<br>adj. 轻的；明亮的 | n. The room was filled with light. <br>(房间里充满了光。)<br>v. He used a match to light the fire. <br>(他用火柴点燃了火。)<br>adj. She carried a light suitcase. <br>(她带了一个轻便的手提箱。)<br>adj. The room is very light and airy. <br>(房间非常明亮和通风。) |
+| mitt         | `/mɪt/`           | n. (尤指棒球的)手套                   | n. The baseball player wore a mitt to catch the ball. <br>(棒球运动员戴着手套接球。) |
+| mitten       | `/ˈmɪtn/`         | n. 连指手套                        | n. She knitted a pair of warm mittens. <br>(她织了一双暖和的连指手套。) |
+| lull         | `/lʌl/`           | v. 使平静<br>n. 平静期               | v. The mother lulled her baby to sleep. <br>(母亲哄婴儿入睡。)<br>n. There was a lull in the conversation. <br>(谈话中有一段平静期。) |
+| heading      | `/ˈhedɪŋ/`        | n. 标题；航向                       | n. The heading of the article was very intriguing. <br>(文章的标题非常吸引人。)<br>n. The ship changed its heading to avoid the storm. <br>(船只改变航向以避开风暴。) |
+| homeward     | `/ˈhoʊmwərd/`     | adj. 回家的；归途中的                  | adj. They are on their homeward journey. <br>(他们在回家的路上。) |
 
 注：
 - (1) 在工程和编程领域，"debounce" 通常指的是一种技术，用于消除不必要的信号波动（抖动）。 
@@ -4353,34 +4353,37 @@ Edit: 2024.07.18
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词            | 美式发音               | 词性 + 汉语释义                     |
-|---------------|--------------------|-------------------------------|
-| expert        | `/ˈekspɜːrt/`      | n. 专家<br>adj. 熟练的             |
-| excerpt       | `/ˈeksɜːrpt/`      | n. 摘录；选段<br>v. 摘录             |
-| paperback     | `/ˈpeɪpərbæk/`     | n. 平装本                        |
-| peak          | `/piːk/`           | n. 山顶；顶峰<br>v. 达到顶峰           |
-| sustenance    | `/ˈsʌstənəns/`     | n. 食物；生计                      |
-| livelihood    | `/ˈlaɪvlihʊd/`     | n. 生计；生活                      |
-| goatherd      | `/ˈɡoʊthɜːrd/`     | n. 牧羊人                        |
-| buck          | `/bʌk/`            | n. 雄鹿; 美元 (口语)<br>v. 弓背跃起; 反抗 | 
-| prod          | `/prɑːd/`           | v. 〔用手指或尖物〕戳；督促<br>n. 戳；提醒    |
-| autobiography | `/ˌɒːtəbaɪˈɑːɡrəfi/` | n. 自传                         |
-| recollection  | `/ˌrekəˈlekʃən/`   | n. 回忆；记忆                      |
-| hush          | `/hʌʃ/`           | v. 使安静<br>n. 安静               |
-| lullaby       | `/ˈlʌləbaɪ/`      | n. 摇篮曲                        |
-| piece         | `/piːs/`          | n. 片；块；段<br>v. 拼合；拼凑          |
-| moose         | `/muːs/`          | n. 驼鹿(单复数同形)                  |
-| muffin        | `/ˈmʌfɪn/`        | n. 松饼                         |
-| kernel        | `/ˈkɜːrnl/`       | n. 核心；果仁                      |
-| spot          | `/spɑːt/`         | n. 斑点；地点<br>v. 发现；满是斑点        |
-| roam          | `/roʊm/`          | v. 漫游；闲逛<br>n. 漫游             |
-| sunshine      | `/ˈsʌnʃaɪn/`      | n. 阳光                         |
-| canyon        | `/ˈkænjən/`       | n. 峡谷                         |
-| gorge         | `/ɡɔːrdʒ/`        | n. 峡谷<br>v. 狼吞虎咽              |
-| ravine        | `/rəˈviːn/`       | n. 峡谷 (1)                     |
-| gully         | `/ˈɡʌli/`         | n. (山坡上被雨水冲成的) 沟壑             |
-| valley        | `/ˈvæli/`         | n. 山谷                     |
+好的，我会为每个单词的每个汉语释义添加对应的例句，并遵循翻译规则。
 
+| 单词            | 美式发音               | 词性 + 汉语释义                | 示例 |
+|---------------|--------------------|--------------------------|---|
+| expert        | `/ˈekspɜːrt/`      | n. 专家<br>adj. 熟练的        | n. She is an expert in molecular biology. <br>(她是分子生物学方面的专家。)<br>adj. His expert handling of the situation was impressive. <br>(他对局势的熟练处理令人印象深刻。) |
+| excerpt       | `/ˈeksɜːrpt/`      | n. 摘录；选段<br>v. 摘录        | n. The book includes an excerpt from the author's diary. <br>(这本书包括作者日记的摘录。)<br>v. She excerpted a passage from the novel for her essay. <br>(她为她的文章摘录了一段小说中的段落。) |
+| paperback     | `/ˈpeɪpərbæk/`     | n. 平装本                   | n. I prefer to read paperbacks because they are lighter. <br>(我更喜欢读平装本，因为它们比较轻。) |
+| peak          | `/piːk/`           | n. 山顶；顶峰<br>v. 达到顶峰      | n. We climbed to the peak of the mountain. <br>(我们爬到了山顶。)<br>v. His career peaked in the late 1990s. <br>(他的职业生涯在1990年代末达到了顶峰。) |
+| sustenance    | `/ˈsʌstənəns/`     | n. 食物；生计                 | n. Bread and water were his only sustenance. <br>(面包和水是他唯一的食物。)<br>n. Fishing provided the family's sustenance. <br>(捕鱼为这个家庭提供了生计。) |
+| livelihood    | `/ˈlaɪvlihʊd/`     | n. 生计；生活                 | n. Farming is his main source of livelihood. <br>(农业是他主要的生计来源。) |
+| goatherd      | `/ˈɡoʊthɜːrd/`     | n. 牧羊人                   | n. The goatherd led his flock through the mountains. <br>(牧羊人带着他的羊群穿越山脉。) |
+| buck          | `/bʌk/`            | n. 雄鹿; 美元 (口语)<br>v. 弓背跃起; 反抗 | n. We saw a buck in the forest. <br>(我们在森林里看到了一个雄鹿。)<br>n. It costs five bucks. <br>(这要花五美元。)<br>v. The horse bucked and threw the rider off. <br>(马弓背跃起，把骑手甩了下来。)<br>v. He decided to buck the trend and start his own business. <br>(他决定反抗潮流，开始自己的生意。) |
+| prod          | `/prɑːd/`           | v. 〔用手指或尖物〕戳；督促<br>n. 戳；提醒 | v. She prodded him with her finger to wake him up. <br>(她用手指戳他，把他叫醒。)<br>v. The teacher prodded the students to finish their work. <br>(老师督促学生完成他们的作业。)<br>n. He gave me a gentle prod to get my attention. <br>(他轻轻地戳了我一下以引起我的注意。) |
+| autobiography | `/ˌɒːtəbaɪˈɑːɡrəfi/` | n. 自传                    | n. She wrote an autobiography about her life as a musician. <br>(她写了一本关于她作为音乐家的生活的自传。) |
+| recollection  | `/ˌrekəˈlekʃən/`   | n. 回忆；记忆                 | n. My recollection of the event is vivid. <br>(我对这件事的回忆非常清晰。) |
+| hush          | `/hʌʃ/`           | v. 使安静<br>n. 安静          | v. She hushed the children during the movie. <br>(她在电影放映时让孩子们安静下来。)<br>n. There was a hush in the room when the teacher entered. <br>(老师进来时，房间里一片安静。) |
+| lullaby       | `/ˈlʌləbaɪ/`      | n. 摇篮曲                   | n. She sang a lullaby to put the baby to sleep. <br>(她唱了一首摇篮曲哄宝宝入睡。) |
+| piece         | `/piːs/`          | n. 片；块；段<br>v. 拼合；拼凑     | n. She gave me a piece of cake. <br>(她给了我一块蛋糕。)<br>n. This puzzle has 1,000 pieces. <br>(这个拼图有1000块。)<br>v. He pieced the broken vase back together. <br>(他把打碎的花瓶拼凑回去。) |
+| moose         | `/muːs/`          | n. 驼鹿(单复数同形)             | n. We spotted a moose near the lake. <br>(我们在湖边发现了一只驼鹿。) |
+| muffin        | `/ˈmʌfɪn/`        | n. 松饼                    | n. She baked a batch of blueberry muffins. <br>(她烤了一批蓝莓松饼。) |
+| kernel        | `/ˈkɜːrnl/`       | n. 核心；果仁                 | n. The kernel of the argument is based on truth. <br>(这个论点的核心基于事实。)<br>n. He ate a handful of corn kernels. <br>(他吃了一把玉米粒。) |
+| spot          | `/spɑːt/`         | n. 斑点；地点<br>v. 发现；满是斑点   | n. The leopard has distinctive spots. <br>(这只豹子有明显的斑点。)<br>n. This is a good spot for a picnic. <br>(这是个野餐的好地方。)<br>v. She spotted a mistake in the report. <br>(她在报告中发现了一个错误。)<br>v. His shirt was spotted with ink. <br>(他的衬衫上满是墨水斑点。) |
+| roam          | `/roʊm/`          | v. 漫游；闲逛<br>n. 漫游        | v. He loves to roam around the city. <br>(他喜欢在城市里闲逛。)<br>n. They went for a roam in the countryside. <br>(他们在乡间漫游了一番。) |
+| sunshine      | `/ˈsʌnʃaɪn/`      | n. 阳光                    | n. The sunshine was warm and inviting. <br>(阳光温暖宜人。) |
+| canyon        | `/ˈkænjən/`       | n. 峡谷                    | n. The Grand Canyon is a popular tourist destination. <br>(大峡谷是一个受欢迎的旅游胜地。) |
+| gorge         | `/ɡɔːrdʒ/`        | n. 峡谷<br>v. 狼吞虎咽         | n. The river flowed through a deep gorge. <br>(河流穿过一个深峡谷。)<br>v. He gorged himself on the delicious food. <br>(他狼吞虎咽地吃着美味的食物。) |
+| ravine        | `/rəˈviːn/`       | n. 峡谷 (1)                | n. They hiked through the narrow ravine. <br>(他们徒步穿过狭窄的峡谷。) |
+| gully         | `/ˈɡʌli/`         | n. (山坡上被雨水冲成的) 沟壑        | n. After the storm, the gully was filled with water. <br>(暴风雨过后，沟壑里充满了水。) |
+| valley        | `/ˈvæli/`         | n. 山谷                    | n. The valley was surrounded by high mountains. <br>(山谷四周被高山环绕。) |
+
+请检查并告知是否有任何需要进一步修改的地方。
 注：
 - (1) canyon, gorge, ravine 的区别见：同级目录的 `readme.md`
 
