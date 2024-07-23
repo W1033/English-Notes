@@ -3,7 +3,17 @@
 
 > 全文提示：单词右上角红色的星号($\color{red}{^*}$)代表为生词.
 
+ 
+
 ##  New Words
+
+| 单词          | 美式发音                     | 词性 + 汉语释义                     |
+|-------------|--------------------------|-------------------------------|
+| mile        | `/maɪl/`                 | n. 英里                         |
+| kilometer   | `/kɪˈlɑːmɪtər/`          | n. 千米；公里                      |
+| kilometre   | `/kɪˈlɑːmɪtər/`          | n. 千米；公里（英式拼写）                |
+| per         | `/pər/`                  | prep. 每，每一；按照，根据              |
+
 
 > **triple `/'trɪp(ə)l/`**
 
@@ -26,7 +36,7 @@
 │   ├── (2) 〔滑冰﹑体操中的〕转体三周
 ```
 
-> **miles `/maɪl/`**
+> **mile `/maɪl/`**
 ```css
 ├── noun [countable]
 │   ├── (1) (written abbreviation M) 英里〔距离的计量单位﹐等于1,760码或约1,609米〕:
@@ -102,23 +112,23 @@
 
 ### 1.1 基本基数词
 
-#### (1) 1-20 基数词:
+#### (1) 1-19 基数词:
 
-| 1. one  | 2. two | 3. three |
-| :----: | :----: | :---: |
-| 4. four | 5. five `/faɪv/` | 6. six |
-| 7. seven | 8. eight | 9. nine `/naɪn/`|
-| 10. ten | 11. eleven | 12. twelve`/twelv/` |
-| 13. thirteen | 14. fourteen | 15. fifteen |
-| 16. sixteen | 17. seventeen | 18. eighteen |
-| 19. nineteen | 20. twenty | |
+
 
 #### (2) 20 - 90  整十数倍
 
-| twenty`/'twentɪ/` | thirty`/'θɜːtɪ/` | forty`/'fɔːtɪ/` |
-| :----: | :----: | :---: | 
-| fifty`/'fɪftɪ/` | sixty`/'sɪkstɪ/` | seventy`/'sev(ə)ntɪ/` | 
-| eighty`/'eɪtɪ/` | ninety`/'naɪntɪ/` | |
+| 单词          | 美式发音          | 词性 + 汉语释义       |
+|-------------|---------------|------------------------|
+| twenty        | `/ˈtwenti/`   | num. 二十          |
+| thirty        | `/ˈθɜːrti/`   | num. 三十          |
+| forty         | `/ˈfɔːrti/`   | num. 四十          |
+| fifty         | `/ˈfɪfti/`    | num. 五十          |
+| sixty         | `/ˈsɪksti/`   | num. 六十          |
+| seventy       | `/ˈsevnti/`   | num. 七十          |
+| eighty        | `/ˈeɪti/`     | num. 八十          |
+| ninety        | `/ˈnaɪnti/`   | num. 九十          |
+
 
 #### (3) 数字的整数单位：
 

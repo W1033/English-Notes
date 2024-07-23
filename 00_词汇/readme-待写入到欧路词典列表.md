@@ -1,5 +1,79 @@
 
 
+| 单词            | 美式发音                                     | 词性 + 汉语释义                     |
+|---------------|------------------------------------------|-------------------------------|
+| rocket        | `/ˈrɑːkɪt/`                              | n. 火箭<br>v. 迅速上升              |
+| racket        | `/ˈrækɪt/`                               | n. 球拍；喧嚣                      |
+| rod           | `/rɑːd/`                                 | n. 杆；棒                        |
+| nano          | `/ˈnænoʊ/`                               | adj. 纳米的；极小的                  |
+| flare         | `/fler/`                                 | v. 闪耀；燃烧<br>n. 闪光；燃烧          |
+| curve         | `/kɜːrv/`                                | n. 曲线；弯曲<br>v. 弯曲             |
+| animate       | `/ˈænɪmət/` (adj.)<br>`/ˈænɪˌmeɪt/` (v.) | adj. 有生命的；活泼的<br>v. 使有生气；使活泼  |
+| host          | `/hoʊst/`                                | n. 主人；主持人；（寄生动植物的）宿主<br>v. 主办；主持 |
+| loan          | `/loʊn/`                                 | n. 贷款；借款<br>v. 借出             |
+| prime         | `/praɪm/`                                | adj. 主要的；最好的<br>n. 全盛期        |
+| rate          | `/reɪt/`                                 | n. 比率；速度<br>v. 评价；评估          |
+| battle        | `/ˈbætəl/`                               | n. 战斗；斗争<br>v. 战斗             |
+| moist         | `/mɔɪst/`                                | adj. 潮湿的                      |
+| chap          | `/ʧæp/`                                  | n. 小伙子(口语)；皲裂                 |
+| dimension     | `/dɪˈmenʃən/`                            | n. 尺寸；维度；方面                   |
+| astronomy     | `/əˈstrɑːnəmi/`                          | n. 天文学                        |
+| explanation   | `/ˌekspləˈneɪʃən/`                       | n. 解释；说明                      |
+| triple        | `/ˈtrɪpəl/`                              | adj. 三倍的；三重的<br>v. (使)增加两倍    |
+| mile          | `/maɪl/`                                 | n. 英里                         |
+| kilometer     | `/kɪˈlɑːmɪtər/`                          | n. 千米；公里                      |
+| kilometre     | `/kɪˈlɑːmɪtər/`                          | n. 千米；公里（英式拼写）                |
+| per           | `/pər/`                                  | prep. 每，每一；按照，根据              |
+| pupil         | `/ˈpjuːpəl/`                             | n. 学生；瞳孔                      |
+| ritual        | `/ˈrɪtʃuəl/`                             | n. 仪式；惯例<br>adj. 仪式的；例行的  |
+| stir          | `/stɜːr/`                                | v. 搅拌；激起<br>n. 激动（情绪）；搅拌  |
+| bullock       | `/ˈbʊlək/`                               | n. 阉牛                     |
+| fortune       | `/ˈfɔːrtʃən/`                            | n. 财富；运气；命运               |
+| handiwork     | `/ˈhændiˌwɜːrk/`                         | n. 手工艺品；技艺                |
+| craft         | `/kræft/`                                | n. 手艺；工艺<br>v. 精心制作       |
+| craftsmanship | `/ˈkræftsmənʃɪp/`                        | n. 工艺；技艺                  |
+| squire        | `/ˈskwaɪər/`                             | n. （英）乡绅；大地主              |
+| linen         | `/ˈlɪnən/`                               | n. 亚麻布                    |
+| slum          | `/slʌm/`                                 | n. 贫民窟                    |
+| flap          | `/flæp/`                                 | v. 拍动；摆动<br>n. 拍动；垂下物     |
+| fabulous      | `/ˈfæbjələs/`                            | adj. 极好的；传说中的             |
+| exquisite     | `/ˈekskwɪzət/`                           | adj. 精美的；敏锐的              |
+| shave         | `/ʃeɪv/`                                 | v. 刮；剃<br>n. 刮胡子          |
+| hourglass     | `/ˈaʊrɡlæs/`                             | n. 沙漏                     |
+| frenzy        | `/ˈfrenzi/`                              | n. 狂热；狂乱                  |
+| public        | `/ˈpʌblɪk/`                              | adj. 公众的；公共的；公开的<br>n. 公众 |
+| publicly      | `/ˈpʌblɪkli/`                            | adv. 公开地                  |
+| conundrum     | `/kəˈnʌndrəm/`                           | n. 难题；谜语                  |
+| one           | `/wʌn/`                                  | num. 一        |
+| two           | `/tuː/`                                  | num. 二        |
+| three         | `/θriː/`                                 | num. 三        |
+| four          | `/fɔːr/`                                 | num. 四        |
+| five          | `/faɪv/`                                 | num. 五        |
+| six           | `/sɪks/`                                 | num. 六        |
+| seven         | `/ˈsevən/`                               | num. 七        |
+| eight         | `/eɪt/`                                  | num. 八        |
+| nine          | `/naɪn/`                                 | num. 九        |
+| ten           | `/ten/`                                  | num. 十        |
+| eleven        | `/ɪˈlevən/`                              | num. 十一       |
+| twelve        | `/twelv/`                                | num. 十二       |
+| thirteen      | `/ˈθɜːrˈtiːn/`                           | num. 十三       |
+| fourteen      | `/ˌfɔːrˈtiːn/`                           | num. 十四       |
+| fifteen       | `/ˌfɪfˈtiːn/`                            | num. 十五       |
+| sixteen       | `/ˌsɪkˈstiːn/`                           | num. 十六       |
+| seventeen     | `/ˌsevənˈtiːn/`                          | num. 十七       |
+| eighteen      | `/ˌeɪˈtiːn/`                             | num. 十八       |
+| nineteen      | `/ˌnaɪnˈtiːn/`                           | num. 十九       |
+| twenty        | `/ˈtwenti/`                              | num. 二十       |
+| thirty        | `/ˈθɜːrti/`                              | num. 三十       |
+| forty         | `/ˈfɔːrti/`                              | num. 四十       |
+| fifty         | `/ˈfɪfti/`                               | num. 五十       |
+| sixty         | `/ˈsɪksti/`                              | num. 六十       |
+| seventy       | `/ˈsevnti/`                              | num. 七十       |
+| eighty        | `/ˈeɪti/`                                | num. 八十       |
+| ninety        | `/ˈnaɪnti/`                              | num. 九十       |
+
+
+
 
 
 
