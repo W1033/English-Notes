@@ -5,9 +5,6 @@
 ## ▲ 待编辑生词
 
 
-
-
-
 ### Add: 2024.07.XX
 
 #### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
@@ -17,11 +14,57 @@ Translator: ChatGPT 4o
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 
-#### Second Table - ~~已校对~~ - ~~已写入 GoodNotes~~
 
-Translator: ChatGPT 4o
+
+### Add: 2024.07.24
+
+#### First Table - 已校对 - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o & Claude 3.5 Sonnet
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词        | 美式发音             | 词性 + 汉语释义                              |
+|-------------|------------------|----------------------------------------|
+| first       | `/fɜːrst/`       | num. 第一<br>adj. 第一的<br>n. 首位           |
+| second      | `/ˈsekənd/`      | num. 第二<br>n. 秒；一会儿，片刻；<br>adj. 第二的    |
+| third       | `/θɜːrd/`        | num. 第三<br>adj. 第三（个）的<br>n. 三分之一      |
+| fourth      | `/fɔːrθ/`        | num. 第四<br>adj. 第四（个）的<br>n. 四分之一      |
+| fifth       | `/fɪfθ/`         | num. 第五<br>adj. 第五（个）的<br>n. 五分之一      |
+| sixth       | `/sɪksθ/`        | num. 第六<br>adj. 第六（个）的<br>n. 六分之一      |
+| seventh     | `/ˈsevənθ/`      | num. 第七<br>adj. 第七（个）的<br>n. 七分之一      |
+| eighth      | `/eɪtθ/`         | num. 第八<br>adj. 第八（个）的<br>n. 八分之一      |
+| ninth       | `/naɪnθ/`        | num. 第九<br>adj. 第九（个）的<br>n. 九分之一      |
+| tenth       | `/tenθ/`         | num. 第十<br>adj. 第十（个）的<br>n. 十分之一      |
+| eleventh    | `/ɪˈlevənθ/`     | num. 第十一<br>adj. 第十一（个）的<br>n. 十一分之一   |
+| twelfth     | `/twelfθ/`       | num. 第十二<br>adj. 第十二（个）的<br>n. 十二分之一   |
+| thirteenth  | `/ˌθɜːrˈtiːnθ/`  | num. 第十三<br>adj. 第十三（个）的<br>n. 十三分之一   |
+| fourteenth  | `/ˌfɔːrˈtiːnθ/`  | num. 第十四<br>adj. 第十四（个）的<br>n. 十四分之一   |
+| fifteenth   | `/ˌfɪfˈtiːnθ/`   | num. 第十五<br>adj. 第十五（个）的<br>n. 十五分之一   |
+| sixteenth   | `/ˌsɪksˈtiːnθ/`  | num. 第十六<br>adj. 第十六（个）的<br>n. 十六分之一   |
+| seventeenth | `/ˌsevənˈtiːnθ/` | num. 第十七<br>adj. 第十七（个）的<br>n. 十七分之一   |
+| eighteenth  | `/ˌeɪˈtiːnθ/`    | num. 第十八<br>adj. 第十八（个）的<br>n. 十八分之一   |
+| twentieth   | `/ˈtwentiəθ/`    | num. 第二十<br>adj. 第二十的<br>n. 二十分之一   |
+| thirtieth   | `/ˈθɜːrtiəθ/`    | num. 第三十<br>adj. 第三十的<br>n. 三十分之一   |
+| fortieth    | `/ˈfɔːrtiəθ/`    | num. 第四十<br>adj. 第四十的<br>n. 四十分之一   |
+| fiftieth    | `/ˈfɪftiəθ/`     | num. 第五十<br>adj. 第五十的<br>n. 五十分之一   |
+| sixtieth    | `/ˈsɪkstiəθ/`    | num. 第六十<br>adj. 第六十的<br>n. 六十分之一   |
+| seventieth  | `/ˈsevntiəθ/`    | num. 第七十<br>adj. 第七十的<br>n. 七十分之一   |
+| eightieth   | `/ˈeɪtiəθ/`      | num. 第八十<br>adj. 第八十的<br>n. 八十分之一   |
+| ninetieth   | `/ˈnaɪntiəθ/`    | num. 第九十<br>adj. 第九十的<br>n. 九十分之一   |
+| hundredth   | `/ˈhʌndrədθ/`    | num. 第一百<br>adj. 第一百（个）的<br>n. 百分之一    |
+| thousandth  | `/ˈθaʊzəndθ/`    | num. 第一千<br>adj. 第一千（个）的<br>n. 千分之一    |
+| millionth   | `/ˈmɪljənθ/`     | num. 第一百万<br>adj. 第一百万（个）的<br>n. 百万分之一 |
+| billionth   | `/ˈbɪljənθ/`     | num. 第十亿<br>adj. 第十亿（个）的<br>n. 十亿分之一   |
+
+注释 (1):
+- **num.**：表示顺序。
+- **adj.**：表示第几的。
+- **n.**：表示几分之一。
+- **adv.**：表示第二地（仅适用于second）。
+
+
+
 
 
 
@@ -87,35 +130,35 @@ Translator: ChatGPT 4o
 | recipe         | `/ˈrɛsɪpi/`                 | n. 食谱；秘诀                            |
 
 
-#### Third Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+#### Third Table - 已-校对-中 - ~~已写入 GoodNotes~~
 
 Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词            | 美式发音                    | 词性 + 汉语释义                      |
-|-----------------|-----------------------------|---------------------------------------|
-| stuff           | `/stʌf/`                    | n. 东西；材料<br>v. 填塞              |
-| cliff           | `/klɪf/`                    | n. 悬崖                              |
-| cot             | `/kɑt/`                     | n. 简易床；婴儿床                    |
-| beautiful       | `/ˈbjutɪfəl/`               | adj. 美丽的                          |
-| wash            | `/wɑʃ/`                     | v. 洗；冲洗<br>n. 洗涤                |
-| jigsaw          | `/ˈdʒɪɡˌsɔ/`                | n. 拼图；线锯                        |
-| symptom         | `/ˈsɪmptəm/`                | n. 症状                              |
-| floss           | `/flɔs/`                    | n. 牙线；丝线<br>v. 用牙线清洁牙齿       |
-| funnel          | `/ˈfʌnəl/`                  | n. 漏斗；烟囱<br>v. 通过漏斗输送        |
-| ahead           | `/əˈhɛd/`                   | adv. 在前面；提前                     |
-| tower           | `/ˈtaʊər/`                  | n. 塔；高楼<br>v. 高耸                |
-| confine         | `/kənˈfaɪn/`                | v. 限制；禁闭<br>n. 边界，范围         |
-| swift           | `/swɪft/`                   | adj. 迅速的<br>n. 雨燕                 |
-| rugged          | `/ˈrʌɡɪd/`                  | adj. 崎岖的；坚固的                   |
-| vastness        | `/ˈvæstnɪs/`                | n. 广大；辽阔                         |
-| arid            | `/ˈærɪd/`                   | adj. 干旱的；贫瘠的                   |
-| turquoise       | `/ˈtɜrˌkɔɪz/`               | n. 绿松石；青绿色<br>adj. 青绿色的      |
-| steep           | `/stip/`                    | adj. 陡峭的；急剧的<br>v. 浸泡         |
-| trick           | `/trɪk/`                    | n. 诡计；把戏<br>v. 欺骗            |
-| expense         | `/ɪkˈspɛns/`                | n. 费用；开支                         |
-| expensive       | `/ɪkˈspɛnsɪv/`              | adj. 昂贵的                           |
+| 单词            | 美式发音           | 词性 + 汉语释义            |
+|---------------|----------------|----------------------|
+| stuff         | `/stʌf/`       | n. 东西；材料<br>v. 填塞    |
+| cliff         | `/klɪf/`       | n. 悬崖                |
+| cot           | `/kɑːt/`       | n. 简易床；婴儿床           |
+| beautiful     | `/ˈbjuːtəfəl/` | adj. 美丽的             |
+| wash          | `/wɑːʃ/`       | v. 洗；冲洗<br>n. 洗涤     |
+| jigsaw        | `/ˈdʒɪɡsɔː/`   | n. 拼图             |
+| symptom       | `/ˈsɪmptəm/`   | n. 症状                |
+| floss         | `/flɑːs/`      | n. 牙线<br>v. 用牙线清洁牙齿  |
+| funnel        | `/ˈfʌnəl/`     | n. 漏斗<br>v. 通过漏斗输送   |
+| ahead         | `/əˈhed/`      | adv. 在前面；提前          |
+| tower         | `/ˈtaʊər/`     | n. 塔；高楼<br>v. 高耸     |
+| confine       | `/kənˈfaɪn/`   | v. 限制；禁闭             |
+| swift         | `/swɪft/`      | adj. 迅速的<br>n. 雨燕    |
+| rugged        | `/ˈrʌɡɪd/`     | adj. 崎岖的；坚固的         |
+| vastness      | `/ˈvæstnəs/`   | n. 广大；辽阔             |
+| arid          | `/ˈærɪd/`      | adj. 干旱的；贫瘠的         |
+| turquoise     | `/ˈtɜːrkɔɪz/`  | n. 绿松石；青绿色<br>adj. 青绿色的 |
+| steep         | `/stiːp/`      | adj. 陡峭的；急剧的<br>v. 浸泡 |
+| trick         | `/trɪk/`       | n. 诡计；把戏<br>v. 欺骗    |
+| expense       | `/ɪkˈspens/`   | n. 费用；开支             |
+| expensive     | `/ɪkˈspensɪv/` | adj. 昂贵的             |
 
 
 #### Fourth Table - 已校对 - ~~已写入 GoodNotes~~
@@ -186,35 +229,39 @@ Translator: ChatGPT 4o & Claude 3.5 Sonnet
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词          | 美式发音            | 词性 + 汉语释义 |
-|-------------|-----------------|---------------|
-| one         | `/wʌn/`         | num. 一        |
-| two         | `/tuː/`         | num. 二        |
-| three       | `/θriː/`        | num. 三        |
-| four        | `/fɔːr/`        | num. 四        |
-| five        | `/faɪv/`        | num. 五        |
-| six         | `/sɪks/`        | num. 六        |
-| seven       | `/ˈsevən/`      | num. 七        |
-| eight       | `/eɪt/`         | num. 八        |
-| nine        | `/naɪn/`        | num. 九        |
-| ten         | `/ten/`         | num. 十        |
-| eleven      | `/ɪˈlevən/`     | num. 十一       |
-| twelve      | `/twelv/`       | num. 十二       |
-| thirteen    | `/ˈθɜːrˈtiːn/`  | num. 十三       |
-| fourteen    | `/ˌfɔːrˈtiːn/`  | num. 十四       |
-| fifteen     | `/ˌfɪfˈtiːn/`   | num. 十五       |
-| sixteen     | `/ˌsɪkˈstiːn/`  | num. 十六       |
-| seventeen   | `/ˌsevənˈtiːn/` | num. 十七       |
-| eighteen    | `/ˌeɪˈtiːn/`    | num. 十八       |
-| nineteen    | `/ˌnaɪnˈtiːn/`  | num. 十九       |
-| twenty      | `/ˈtwenti/`     | num. 二十       |
-| thirty      | `/ˈθɜːrti/`     | num. 三十       |
-| forty       | `/ˈfɔːrti/`     | num. 四十       |
-| fifty       | `/ˈfɪfti/`      | num. 五十       |
-| sixty       | `/ˈsɪksti/`     | num. 六十       |
-| seventy     | `/ˈsevnti/`     | num. 七十       |
-| eighty      | `/ˈeɪti/`       | num. 八十       |
-| ninety      | `/ˈnaɪnti/`     | num. 九十       |
+| 单词        | 美式发音            | 词性 + 汉语释义 |
+|-----------|-----------------|---------------|
+| one       | `/wʌn/`         | num. 一        |
+| two       | `/tuː/`         | num. 二        |
+| three     | `/θriː/`        | num. 三        |
+| four      | `/fɔːr/`        | num. 四        |
+| five      | `/faɪv/`        | num. 五        |
+| six       | `/sɪks/`        | num. 六        |
+| seven     | `/ˈsevən/`      | num. 七        |
+| eight     | `/eɪt/`         | num. 八        |
+| nine      | `/naɪn/`        | num. 九        |
+| ten       | `/ten/`         | num. 十        |
+| eleven    | `/ɪˈlevən/`     | num. 十一       |
+| twelve    | `/twelv/`       | num. 十二       |
+| thirteen  | `/ˈθɜːrˈtiːn/`  | num. 十三       |
+| fourteen  | `/ˌfɔːrˈtiːn/`  | num. 十四       |
+| fifteen   | `/ˌfɪfˈtiːn/`   | num. 十五       |
+| sixteen   | `/ˌsɪkˈstiːn/`  | num. 十六       |
+| seventeen | `/ˌsevənˈtiːn/` | num. 十七       |
+| eighteen  | `/ˌeɪˈtiːn/`    | num. 十八       |
+| nineteen  | `/ˌnaɪnˈtiːn/`  | num. 十九       |
+| twenty    | `/ˈtwenti/`     | num. 二十       |
+| thirty    | `/ˈθɜːrti/`     | num. 三十       |
+| forty     | `/ˈfɔːrti/`     | num. 四十       |
+| fifty     | `/ˈfɪfti/`      | num. 五十       |
+| sixty     | `/ˈsɪksti/`     | num. 六十       |
+| seventy   | `/ˈsevnti/`     | num. 七十       |
+| eighty    | `/ˈeɪti/`       | num. 八十       |
+| ninety    | `/ˈnaɪnti/`     | num. 九十       |
+| hundred   | `/ˈhʌndrəd/`    | num. 百         |
+| thousand  | `/ˈθaʊzənd/`    | num. 千         |
+| million   | `/ˈmɪljən/`     | num. 百万       |
+| billion   | `/ˈbɪljən/`     | num. 十亿       |
 
 
 
@@ -262,7 +309,6 @@ Translator: ChatGPT 4o
 | brilliant       | `/ˈbrɪljənt/`             | adj. 杰出的；辉煌的                   |
 | mistral         | `/ˈmɪstrəl/`              | n. 密史特拉风                         |
 | Danube          | `/ˈdænjuːb/`              | n. 多瑙河                             |
-| floss           | `/flɔs/`                  | n. 牙线<br>v. 用牙线清洁               |
 | toothpick       | `/ˈtuːθˌpɪk/`             | n. 牙签                               |
 | separator       | `/ˈsɛpəˌreɪtər/`          | n. 分离器；分隔符                     |
 | chorus          | `/ˈkɔrəs/`                | n. 合唱团；副歌<br>v. 合唱             |
@@ -294,7 +340,6 @@ Translator: ChatGPT 4o
 | introvertive | `/ˌɪntrəˈvɜrtɪv/` | adj. 内向的                           |
 | intuitive    | `/ɪnˈtuɪtɪv/`     | adj. 直觉的                           |
 | intuition    | `/ˌɪntuˈɪʃən/`    | n. 直觉                               |
-| expense      | `/ɪkˈspɛns/`      | n. 花费；开支                         |
 | interlude    | `/ˈɪntərˌlud/`    | n. 插曲；间奏                         |
 | pretty       | `/ˈprɪti/`        | adj. 漂亮的；相当的<br>adv. 相当；很   |
 | adrift       | `/əˈdrɪft/`       | adj. 漂浮的；无目的的                  |
@@ -424,7 +469,6 @@ Translator: ChatGPT 4o
 | exorcist     | `/ˈɛksɔrsɪst/`          | n. 驱魔人                               |
 | witness      | `/ˈwɪtnəs/`             | n. 目击者；证人<br>v. 目击；见证           |
 | neat         | `/nit/`                 | adj. 整洁的；巧妙的                      |
-| trick        | `/trɪk/`                | n. 诡计；把戏<br>v. 欺骗；戏弄            |
 | foul         | `/faʊl/`                | adj. 恶臭的；污秽的<br>n. 犯规<br>v. 犯规；弄脏 |
 | slaughter    | `/ˈslɔtər/`             | n. 屠宰；大屠杀<br>v. 屠宰；屠杀          |
 | embodiment   | `/ɪmˈbɑdimənt/`         | n. 化身；体现                            |
@@ -447,7 +491,6 @@ Translator: ChatGPT 4o
 | Rome             | `/roʊm/`                | n. 罗马                               |
 | gaze             | `/ɡeɪz/`                | v. 凝视<br>n. 凝视                      |
 | rose             | `/roʊz/`                | n. 玫瑰；玫瑰色                       |
-| turquoise        | `/ˈtɜrˌkwɔɪz/`          | n. 绿松石；青绿色                     |
 | bound            | `/baʊnd/`               | adj. 很有可能的；受约束的<br>v. 跳跃<br>n. 界限 |
 | seamless         | `/ˈsimləs/`             | adj. 无缝的；无痕的                   |
 | elegant          | `/ˈɛləɡənt/`            | adj. 优雅的；高雅的                   |
@@ -629,7 +672,6 @@ Translator: ChatGPT 4o
 | 单词          | 美式发音                   | 词性 + 汉语释义                         |
 |---------------|----------------------------|----------------------------------------|
 | proof         | `/pruf/`                  | n. 证据；证明<br>v. 校对               |
-| wash          | `/wɑʃ/`                   | v. 洗；冲洗<br>n. 洗涤                  |
 | obscure       | `/əbˈskjʊr/`              | adj. 模糊的；鲜为人知的<br>v. 掩盖       |
 | keen          | `/kin/`                   | adj. 敏锐的；热衷的                     |
 | restaurant    | `/ˈrɛstərɑnt/`            | n. 餐馆                                 |
@@ -840,7 +882,6 @@ Translator: ChatGPT 4o
 | Rome            | `/roʊm/`                  | n. 罗马                        |
 | daylight        | `/ˈdeɪˌlaɪt/`             | n. 日光                        |
 | rose            | `/roʊz/`                  | n. 玫瑰                        |
-| turquoise       | `/ˈtɜrˌkwɔɪz/`            | n. 绿松石                       |
 | seamless        | `/ˈsimləs/`               | adj. 无缝的                     |
 | elegant         | `/ˈɛlɪɡənt/`              | adj. 优雅的                     |
 | reconciliation  | `/ˌrɛkənˌsɪliˈeɪʃən/`     | n. 和解                        |
@@ -875,7 +916,6 @@ Translator: ChatGPT 4o
 | exorcist       | `/ˈɛksɔrsɪst/`             | n. 驱魔人                              |
 | witness        | `/ˈwɪtnəs/`                | n. 目击者；证人<br>v. 目击；见证         |
 | neat           | `/nit/`                    | adj. 整洁的；巧妙的                     |
-| trick          | `/trɪk/`                   | n. 诡计；把戏<br>v. 欺骗；戏弄          |
 | foul           | `/faʊl/`                   | adj. 恶臭的；污秽的<br>n. 犯规<br>v. 犯规；弄脏 |
 | slaughter      | `/ˈslɔtər/`                | n. 屠宰；大屠杀<br>v. 屠宰；屠杀        |
 | embodiment     | `/ɪmˈbɑdimənt/`            | n. 化身；体现                           |
@@ -901,7 +941,6 @@ Translator: ChatGPT 4o
 | exorcist       | `/ˈɛksɔrsɪst/`             | n. 驱魔人                               |
 | witness        | `/ˈwɪtnəs/`                | n. 目击者；证人<br>v. 见证             |
 | neat           | `/nit/`                    | adj. 整洁的                             |
-| trick          | `/trɪk/`                   | n. 把戏<br>v. 欺骗                      |
 | foul           | `/faʊl/`                   | adj. 恶臭的<br>n. 犯规                  |
 | slaughter      | `/ˈslɔtər/`                | n. 屠宰；大屠杀<br>v. 屠杀             |
 | embodiment     | `/ɪmˈbɑdimənt/`            | n. 化身                                 |
@@ -1158,7 +1197,6 @@ Translator: ChatGPT 4o
 | calibrate      | `/ˈkælɪˌbreɪt/`       | v. 校准；调整                         |
 | train          | `/treɪn/`             | n. 火车；队伍<br>v. 训练；培养         |
 | internal       | `/ɪnˈtɜrnəl/`         | adj. 内部的；国内的                    |
-| steep          | `/stip/`              | adj. 陡峭的；急剧的<br>v. 浸泡         |
 | hunt           | `/hʌnt/`              | v. 狩猎；寻找<br>n. 狩猎              |
 | salvation      | `/sælˈveɪʃən/`        | n. 拯救；救赎                          |
 | oblivious      | `/əˈblɪviəs/`         | adj. 遗忘的；未察觉的                  |
@@ -1177,7 +1215,6 @@ Translator: ChatGPT 4o
 | tin            | `/tɪn/`               | n. 锡；罐头                           |
 | teen           | `/tin/`               | n. 青少年<br>adj. 青少年的            |
 | internal       | `/ɪnˈtɜrnəl/`         | adj. 内部的                          |
-| steep          | `/stip/`              | adj. 陡峭的<br>v. 浸泡                |
 | hunt           | `/hʌnt/`              | v. 狩猎<br>n. 狩猎                   |
 | hydrant        | `/ˈhaɪdrənt/`         | n. 消防栓                            |
 | patriot        | `/ˈpeɪtriət/`         | n. 爱国者                            |
@@ -1711,7 +1748,6 @@ Translator: ChatGPT 4o
 | anti-inflammatory  | `/ˌæntaɪɪnˈflæmətɔri/`   | adj. 抗炎的                          |
 | antioxidant        | `/ˌæntiˈɑksɪdənt/`       | n. 抗氧化剂                          |
 | alleviate          | `/əˈliviˌeɪt/`           | v. 减轻；缓解                        |
-| symptom            | `/ˈsɪmptəm/`             | n. 症状                              |
 | arthritis          | `/ɑrˈθraɪtɪs/`           | n. 关节炎                            |
 | inflammatory       | `/ɪnˈflæmətɔri/`         | adj. 炎症的；煽动性的                 |
 | herbal             | `/ˈɜrbəl/`               | adj. 草药的；草本的                   |
@@ -2015,7 +2051,6 @@ Translator: ChatGPT 4o
 | idiom      | `/ˈɪdiəm/`       | n. 成语；习语                 | "Break the ice" is a common idiom. <br>(“打破僵局”是一个常见的成语。) |
 | proverb    | `/ˈprɑvərb/`     | n. 谚语；格言                 | "A stitch in time saves nine" is an old proverb. <br>(“及时行事省九针”是一句古老的谚语。) |
 | park       | `/pɑrk/`         | n. 公园；停车场<br>v. 停车       | n. They took a walk in the park. <br>(他们在公园散步。)<br>v. He parked the car near the entrance. <br>(他把车停在入口附近。) |
-| beautiful  | `/ˈbjutɪfəl/`    | adj. 美丽的                 | The sunset was beautiful. <br>(日落很美丽。) |
 | intuitive  | `/ɪnˈtuɪtɪv/`    | adj. 直觉的；凭直觉的            | She had an intuitive understanding of the problem.
 | intuitive  | `/ɪnˈtuɪtɪv/`    | adj. 直觉的；凭直觉的            | She had an intuitive understanding of the problem. <br>(她对问题有直觉的理解。) |
 | vivid      | `/ˈvɪvɪd/`       | adj. 生动的；鲜艳的             | He gave a vivid description of the scene. <br>(他对现场进行了生动的描述。) |
@@ -2968,7 +3003,6 @@ Translator: ChatGPT XX
 | mimic            | `/ˈmɪmɪk/             | v. 模仿<br>n. 模仿者     | v. She can mimic her teacher's voice perfectly. <br>(她能完美模仿老师的声音。)<br>n. He is a talented mimic. <br>(他是个有才华的模仿者。) |
 | notorious        | `/noʊˈtɔriəs/         | adj. 臭名昭著的         | The city is notorious for its traffic jams. <br>(这座城市因交通堵塞而臭名昭著。) |
 | naked            | `/ˈneɪkɪd/            | adj. 裸体的；裸露的       | He was naked from the waist up. <br>(他上半身赤裸。)           |
-| wash             | `/wɑʃ/                | v. 洗<br>n. 洗涤         | v. She washed the dishes. <br>(她洗了碗。)<br>n. Give your hands a good wash. <br>(好好洗一下你的手。) |
 | divinity         | `/dɪˈvɪnɪti/          | n. 神性；神学           | They discussed the divinity of Christ. <br>(他们讨论了基督的神性。) |
 | future           | `/ˈfjutʃər/           | n. 未来<br>adj. 未来的   | n. We need to plan for the future. <br>(我们需要为未来做计划。)<br>adj. Future generations will benefit. <br>(未来的几代人会受益。) |
 | beer             | `/bɪr/                | n. 啤酒                 | He ordered a beer at the bar. <br>(他在酒吧点了一杯啤酒。)     |

@@ -1,21 +1,21 @@
 # Unit 5 -- 数词
 
 
+
+
 > 全文提示：单词右上角红色的星号($\color{red}{^*}$)代表为生词.
 
  
 
 ##  New Words
 
-| 单词          | 美式发音                     | 词性 + 汉语释义                     |
-|-------------|--------------------------|-------------------------------|
-| mile        | `/maɪl/`                 | n. 英里                         |
-| kilometer   | `/kɪˈlɑːmɪtər/`          | n. 千米；公里                      |
-| kilometre   | `/kɪˈlɑːmɪtər/`          | n. 千米；公里（英式拼写）                |
-| per         | `/pər/`                  | prep. 每，每一；按照，根据              |
+```md
+Update: 2024.07.24
+```
 
-
-> **triple `/'trɪp(ə)l/`**
+| 单词          | 美式发音        | 词性 + 汉语释义                 |
+|-------------|------------------|---------------------------|
+| **triple**  | `/ˈtrɪpəl/`      | adj. 三倍的；三重的<br>v. (使)增加两倍 |
 
 ```css
 ├── adj
@@ -36,7 +36,11 @@
 │   ├── (2) 〔滑冰﹑体操中的〕转体三周
 ```
 
-> **mile `/maɪl/`**
+
+| 单词          | 美式发音        | 词性 + 汉语释义                 |
+|-------------|------------------|---------------------------|
+| **mile**    | `/maɪl/`         | n. 英里                     |
+
 ```css
 ├── noun [countable]
 │   ├── (1) (written abbreviation M) 英里〔距离的计量单位﹐等于1,760码或约1,609米〕:
@@ -55,7 +59,12 @@
 │   │   │   你不能去纽约，那地方太远了。
 ```
 
-> **kilometre/kilometer `/'kiləmi:tə(r)/`**
+
+| 单词          | 美式发音        | 词性 + 汉语释义                 |
+|-------------|------------------|---------------------------|
+| **kilometer** | `/kɪˈlɑːmɪtər/`  | n. 千米；公里                  |
+| **kilometre** | `/kɪˈlɑːmɪtər/`  | n. 千米；公里（英式拼写）            |
+
 ```css
 ├── noun [countable]
 │   ├── 千米，公里 (a unit for measuring distance, equal to 1,000 metres) 
@@ -63,7 +72,11 @@
 │   │   ├── One thousand metres go to the kilometre. 一千米为一公里。
 ```
 
-> **per `/pə/` & `/pɜːr/`**
+
+| 单词          | 美式发音        | 词性 + 汉语释义                 |
+|-------------|------------------|---------------------------|
+| **per**     | `/pər/`          | prep. 每，每一；按照，根据          |
+
 ```css
 ├── prep(preposition) 介词，前置词
 │   ├── (1) 每小时/天/星期等:
@@ -84,7 +97,11 @@
 │   │   ├── Jenny was late, as per usual. 珍妮照例迟到了.
 ```
 
-> **pupil `/'pjuːpɪl/`**
+
+| 单词          | 美式发音        | 词性 + 汉语释义                 |
+|-------------|------------------|---------------------------|
+| **pupil**   | `/ˈpjuːpəl/`             | n. 学生；瞳孔                      |
+
 ```css
 ├── noun [countable]
 │   ├── (1) 学生，（尤指）小学生
@@ -114,9 +131,37 @@
 
 #### (1) 1-19 基数词:
 
+```md
+Update: 2024.07.24
+```
 
+| 单词          | 美式发音            | 词性 + 汉语释义 |
+|-------------|-----------------|---------------|
+| one         | `/wʌn/`         | num. 一<br>det. 一个   |
+| two         | `/tuː/`         | num. 二        |
+| three       | `/θriː/`        | num. 三        |
+| four        | `/fɔːr/`        | num. 四        |
+| five        | `/faɪv/`        | num. 五        |
+| six         | `/sɪks/`        | num. 六        |
+| seven       | `/ˈsevən/`      | num. 七        |
+| eight       | `/eɪt/`         | num. 八        |
+| nine        | `/naɪn/`        | num. 九        |
+| ten         | `/ten/`         | num. 十        |
+| eleven      | `/ɪˈlevən/`     | num. 十一       |
+| twelve      | `/twelv/`       | num. 十二       |
+| thirteen    | `/ˈθɜːrˈtiːn/`  | num. 十三       |
+| fourteen    | `/ˌfɔːrˈtiːn/`  | num. 十四       |
+| fifteen     | `/ˌfɪfˈtiːn/`   | num. 十五       |
+| sixteen     | `/ˌsɪkˈstiːn/`  | num. 十六       |
+| seventeen   | `/ˌsevənˈtiːn/` | num. 十七       |
+| eighteen    | `/ˌeɪˈtiːn/`    | num. 十八       |
+| nineteen    | `/ˌnaɪnˈtiːn/`  | num. 十九       |
 
 #### (2) 20 - 90  整十数倍
+
+```md
+Update: 2024.07.24
+```
 
 | 单词          | 美式发音          | 词性 + 汉语释义       |
 |-------------|---------------|------------------------|
@@ -129,12 +174,18 @@
 | eighty        | `/ˈeɪti/`     | num. 八十          |
 | ninety        | `/ˈnaɪnti/`   | num. 九十          |
 
-
 #### (3) 数字的整数单位：
 
-| hundred`/'hʌndrəd/`（百）| thousand`/'θaʊz(ə)nd/`（千）| million（百万）|billion（十亿）|
-| :----: | :----: | :---: | :---: |
+```md
+Update: 2024.07.24
+```
 
+| 单词    | 美式发音         | 词性 + 汉语释义 |
+|---------|------------------|----------------|
+| hundred | `/ˈhʌndrəd/`     | num. 百         |
+| thousand| `/ˈθaʊzənd/`     | num. 千         |
+| million | `/ˈmɪljən/`      | num. 百万       |
+| billion | `/ˈbɪljən/`      | num. 十亿       |
 
 ### 1.2 其他基数词
 
@@ -142,9 +193,12 @@
 
 由十位数和个位数合成，中间由连字符(`-`)连接. 
 
-| 21 | twenty-one | 34 | thirty-four |
-| :---- | :---- | :---- | :---- |
-| 58 | fifty-eight | 99 | ninety-nine |
+| 基数词 | 写法       |
+|:----|:------------|
+| 21  | twenty-one  | 
+| 34  | thirty-four |
+| 58  | fifty-eight |
+| 99  | ninety-nine |
 
 #### (2) 101-999:
 
@@ -327,35 +381,69 @@
 
 ## ▲ 2. 序数词
 
-表示顺序, 如: 第一 、 第二 、 第三等的词, 称为序数词 。
+表示顺序, 如: 第一 、 第二 、 第三等的词, 称为序数词。
 
 ### 2.1 序数词的基本形式
 
 #### (1) 第 1 至第 19:
 
-| first     | second      | third      | 
-| :------- | :--------- | :-------- |
-| fourth     | fifth      | sixth     |
-| seventh   | eighth `/eɪtθ/` | ninth   |
-| tenth      | eleventh   |  twelfth   |
-| thirteenth | fourteenth | fifteenth | 
-| sixteenth | seventeenth | eighteenth `/'eɪ'tiːnθ/` |
-| nineteenth `/'naɪn'tiːnθ/` |       | 
+```md
+Update: 2024.07.24
+```
+
+| 单词        | 美式发音             | 词性 + 汉语释义                              |
+|-------------|------------------|----------------------------------------|
+| first       | `/fɜːrst/`       | num. 第一<br>adj. 第一的<br>n. 首位           |
+| second      | `/ˈsekənd/`      | num. 第二<br>n. 秒；一会儿，片刻；<br>adj. 第二的    |
+| third       | `/θɜːrd/`        | num. 第三<br>adj. 第三（个）的<br>n. 三分之一      |
+| fourth      | `/fɔːrθ/`        | num. 第四<br>adj. 第四（个）的<br>n. 四分之一      |
+| fifth       | `/fɪfθ/`         | num. 第五<br>adj. 第五（个）的<br>n. 五分之一      |
+| sixth       | `/sɪksθ/`        | num. 第六<br>adj. 第六（个）的<br>n. 六分之一      |
+| seventh     | `/ˈsevənθ/`      | num. 第七<br>adj. 第七（个）的<br>n. 七分之一      |
+| eighth      | `/eɪtθ/`         | num. 第八<br>adj. 第八（个）的<br>n. 八分之一      |
+| ninth       | `/naɪnθ/`        | num. 第九<br>adj. 第九（个）的<br>n. 九分之一      |
+| tenth       | `/tenθ/`         | num. 第十<br>adj. 第十（个）的<br>n. 十分之一      |
+| eleventh    | `/ɪˈlevənθ/`     | num. 第十一<br>adj. 第十一（个）的<br>n. 十一分之一   |
+| twelfth     | `/twelfθ/`       | num. 第十二<br>adj. 第十二（个）的<br>n. 十二分之一   |
+| thirteenth  | `/ˌθɜːrˈtiːnθ/`  | num. 第十三<br>adj. 第十三（个）的<br>n. 十三分之一   |
+| fourteenth  | `/ˌfɔːrˈtiːnθ/`  | num. 第十四<br>adj. 第十四（个）的<br>n. 十四分之一   |
+| fifteenth   | `/ˌfɪfˈtiːnθ/`   | num. 第十五<br>adj. 第十五（个）的<br>n. 十五分之一   |
+| sixteenth   | `/ˌsɪksˈtiːnθ/`  | num. 第十六<br>adj. 第十六（个）的<br>n. 十六分之一   |
+| seventeenth | `/ˌsevənˈtiːnθ/` | num. 第十七<br>adj. 第十七（个）的<br>n. 十七分之一   |
+| eighteenth  | `/ˌeɪˈtiːnθ/`    | num. 第十八<br>adj. 第十八（个）的<br>n. 十八分之一   |
 
 #### (2) 第 20 -  90 的整十位数:
 
-| twentieth`/'twentɪɪθ/`   | thirtieth`/'θɜːtɪɪθ/` | fortieth`/'fɔːtɪɪθ/`  | 
-| --------- | ----------- | ---------- |
-| fiftieth`/'fɪftɪɪθ/`  | sixtieth`/'sɪkstɪθ/`  | seventieth`/'sevəntɪɪθ/`  |
-| eightieth`/'etɪɪθ/` |   ninetieth`/'naɪntɪɪθ/`  |  |
+```md
+Update: 2024.07.24
+```
+
+| 单词        | 美式发音             | 词性 + 汉语释义                              |
+|-------------|------------------|----------------------------------------|
+| twentieth   | `/ˈtwentiəθ/`    | num. 第二十<br>adj. 第二十的<br>n. 二十分之一   |
+| thirtieth   | `/ˈθɜːrtiəθ/`    | num. 第三十<br>adj. 第三十的<br>n. 三十分之一   |
+| fortieth    | `/ˈfɔːrtiəθ/`    | num. 第四十<br>adj. 第四十的<br>n. 四十分之一   |
+| fiftieth    | `/ˈfɪftiəθ/`     | num. 第五十<br>adj. 第五十的<br>n. 五十分之一   |
+| sixtieth    | `/ˈsɪkstiəθ/`    | num. 第六十<br>adj. 第六十的<br>n. 六十分之一   |
+| seventieth  | `/ˈsevntiəθ/`    | num. 第七十<br>adj. 第七十的<br>n. 七十分之一   |
+| eightieth   | `/ˈeɪtiəθ/`      | num. 第八十<br>adj. 第八十的<br>n. 八十分之一   |
+| ninetieth   | `/ˈnaɪntiəθ/`    | num. 第九十<br>adj. 第九十的<br>n. 九十分之一   |
 
 #### (3) 序数词的整数单位:
 
-| hundredth `/'hʌndrədθ/`  | thousandth`/'θaʊzəntθ/` | 
-| --------- | ----------- | 
-| millionth | billionth |
+```md
+Update: 2024.07.24
+```
+
+| 单词        | 美式发音             | 词性 + 汉语释义                              |
+|-------------|------------------|----------------------------------------|
+| hundredth   | `/ˈhʌndrədθ/`    | num. 第一百<br>adj. 第一百（个）的<br>n. 百分之一    |
+| thousandth  | `/ˈθaʊzəndθ/`    | num. 第一千<br>adj. 第一千（个）的<br>n. 千分之一    |
+| millionth   | `/ˈmɪljənθ/`     | num. 第一百万<br>adj. 第一百万（个）的<br>n. 百万分之一 |
+| billionth   | `/ˈbɪljənθ/`     | num. 第十亿<br>adj. 第十亿（个）的<br>n. 十亿分之一   |
 
 ### 2.2 其他序数词的表达方式
+
 其他序数词的构成方法是**只将个位数改成序数词**, 十 、 百 、 千位上的数仍用基数词.
 
 | twenty-seventh  第 27 | thirty-eighth  第 38 |
@@ -363,7 +451,7 @@
 | forty-third  第 43 | ninety-fifth  第 95 |
 | one hundred and sixty-fourth  第 164 | two thousand three hundred and the first  第 2,301 |
 
-### 2.3 序数词的缩写: 
+### 2.3 序数词的缩写:
 
 序数词在实际应用中, 经常以缩写形式出现。其缩写形式是阿拉伯数字加该序数词的最后两个字母 。
 
