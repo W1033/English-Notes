@@ -27,41 +27,42 @@
 23. ~~role~~
 24. ~~signal~~
 25. ~~introvert~~
-26. ~~introvertive ~~
-27. ~~intuitive ~~
-28. ~~intuition ~~
-29. ~~expense ~~
-30. ~~turmoil ~~
-31. ~~concentrate ~~
-32. ~~neither ~~
-33. ~~relieve ~~
-34. ~~fourth ~~
-35. ~~millennium ~~
-36. ~~disaster ~~
-37. ~~mere ~~
-38. ~~vehicle ~~
-39. ~~frenzy ~~
-40. ~~flare ~~
-41. ~~host ~~
-42. ~~prime ~~
-43. ~~astronomy ~~
-44. ~~explanation ~~
-45. ~~mile ~~
-46. ~~six ~~
-47. ~~completion ~~
-48. ~~significant ~~
-49. ~~separator ~~
-50. ~~pin ~~
-51. ~~retire ~~
-52. ~~retrieval ~~
-53. ~~pretty ~~
-54. ~~celeste ~~
-55. ~~aggressive ~~
-56. ~~relentless ~~
-57. ~~chill ~~
-58. ~~mizuno ~~
-59. ~~mutable ~~
-60. ~~quarter ~~
+26. ~~introvertive~~
+27. ~~intuitive~~
+28. ~~intuition~~
+29. ~~expense~~
+30. ~~turmoil~~
+31. ~~concentrate~~
+32. ~~neither~~
+33. ~~relieve~~
+34. ~~fourth~~
+35. ~~millennium~~
+36. ~~disaster~~
+37. ~~mere~~
+38. ~~vehicle~~
+39. ~~frenzy~~
+40. ~~flare~~
+41. ~~host~~
+42. ~~prime~~
+43. ~~astronomy~~
+44. ~~explanation~~
+45. ~~mile~~
+46. ~~six~~
+47. ~~completion~~
+48. ~~significant~~
+49. ~~separator~~
+50. ~~pin~~
+51. ~~retire~~
+52. ~~retrieval~~
+53. ~~pretty~~
+54. ~~celeste~~
+55. ~~aggressive~~
+56. ~~relentless~~
+57. ~~chill~~
+58. ~~mizuno~~
+59. ~~mutable~~
+60. ~~quarter~~
+
 61. ~~gossip ~~
 62. ~~vague ~~
 63. ~~infra ~~
@@ -273,7 +274,6 @@
 | exquisite     | `/ˈekskwɪzət/`     | adj. 精美的；敏锐的                         |
 | shave         | `/ʃeɪv/`           | v. 刮；剃<br>n. 刮胡子                     |
 | hourglass     | `/ˈaʊrɡlæs/`       | n. 沙漏                                |
-| frenzy        | `/ˈfrenzi/`        | n. 狂热；狂乱                             |
 | public        | `/ˈpʌblɪk/`        | adj. 公众的；公共的；公开的<br>n. 公众            |
 | publicly      | `/ˈpʌblɪkli/`      | adv. 公开地                             |
 | conundrum     | `/kəˈnʌndrəm/`     | n. 难题；谜语                             |
