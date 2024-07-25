@@ -2,8 +2,7 @@
 
 
 
-## ▲ 待编辑生词
-
+```
 
 ### Add: 2024.07.XX
 
@@ -12,6 +11,188 @@
 Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+
+```
+
+
+
+
+
+
+
+
+
+
+## ▲ 待编辑生词
+
+
+### Add: 2024.07.25
+
+#### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词         | 美式发音             | 词性 + 汉语释义                   |
+|--------------|---------------------|-----------------------------------|
+| plateau      | `/plæˈtoʊ/`         | n. 高原；平稳期<br>v. 达到平稳状态 |
+| volcanic     | `/vɑlˈkænɪk/`       | adj. 火山的                       |
+| glacial      | `/ˈɡleɪʃəl/`        | adj. 冰川的；冷漠的               |
+| movement     | `/ˈmuvmənt/`        | n. 运动；移动                     |
+| treasure     | `/ˈtrɛʒər/`         | n. 宝藏；珍宝<br>v. 珍惜           |
+| trove        | `/troʊv/`           | n. 宝藏；收藏品                   |
+| natural      | `/ˈnætʃrəl/`        | adj. 自然的；天生的               |
+| expansive    | `/ɪkˈspænsɪv/`      | adj. 广阔的；扩张的               |
+| geothermal   | `/ˌdʒioʊˈθɜrməl/`   | adj. 地热的                       |
+| spring       | `/sprɪŋ/`           | n. 春天；弹簧；泉<br>v. 跳跃       |
+| ice cap      | `/aɪskæp/`          | n. 冰盖                           |
+| stark        | `/stɑrk/`           | adj. 荒凉的；完全的               |
+| beauty       | `/ˈbjuti/`          | n. 美丽；美人                     |
+| showcase     | `/ˈʃoʊˌkeɪs/`       | n. 展示；陈列<br>v. 展示           |
+| delicate     | `/ˈdɛlɪkət/`        | adj. 精致的；脆弱的               |
+
+
+#### Second Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词         | 美式发音             | 词性 + 汉语释义                   |
+|--------------|----------------------|-----------------------------------|
+| ecosystem    | `/ˈikoʊˌsɪstəm/`     | n. 生态系统                       |
+| hardy        | `/ˈhɑrdi/`           | adj. 强壮的；耐寒的               |
+| wildlife     | `/ˈwaɪldˌlaɪf/`      | n. 野生动植物                     |
+| pink-footed  | `/ˈpɪŋkˈfʊtɪd/`      | adj. 粉脚的                       |
+| goose        | `/ɡus/`              | n. 鹅                             |
+| gyrfalcon    | `/ˈdʒɜrˌfælkən/`     | n. 白隼                           |
+| thrive       | `/θraɪv/`            | v. 兴旺；茁壮成长                 |
+| challenging  | `/ˈtʃælɪndʒɪŋ/`      | adj. 有挑战性的                   |
+| environment  | `/ɪnˈvaɪrənmənt/`    | n. 环境                           |
+| flora        | `/ˈflɔrə/`           | n. 植物群                         |
+| resilient    | `/rɪˈzɪliənt/`       | adj. 有弹性的；适应力强的         |
+| lichen       | `/ˈlaɪkən/`          | n. 地衣                           |
+| alpine       | `/ˈælˌpaɪn/`         | adj. 高山的                       |
+| paint        | `/peɪnt/`            | v. 画；涂<br>n. 颜料              |
+| barren       | `/ˈbærən/`           | adj. 贫瘠的；无用的               |
+| patch        | `/pætʃ/`             | n. 斑点；小块<br>v. 修补          |
+| vibrant      | `/ˈvaɪbrənt/`        | adj. 充满生气的；明亮的           |
+| adventurous  | `/ədˈvɛntʃərəs/`     | adj. 爱冒险的；大胆的             |
+
+
+#### Third Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词         | 美式发音             | 词性 + 汉语释义                   |
+|--------------|----------------------|-----------------------------------|
+| curb         | `/kɜrb/`             | n. 路缘；抑制<br>v. 抑制          |
+| confidential | `/ˌkɑnfɪˈdɛnʃəl/`   | adj. 机密的                       |
+| corrupt      | `/kəˈrʌpt/`          | adj. 腐败的；堕落的<br>v. 腐蚀    |
+| subsequent   | `/ˈsʌbsɪkwənt/`     | adj. 随后的                       |
+| randomise    | `/ˈrændəˌmaɪz/`      | v. 使随机化                       |
+| crossover    | `/ˈkrɔsˌoʊvər/`     | n. 转型；交叉                     |
+| suspicion    | `/səˈspɪʃən/`        | n. 怀疑；疑心                     |
+| event        | `/ɪˈvɛnt/`           | n. 事件；活动                     |
+| venue        | `/ˈvɛnju/`           | n. 场地；地点                     |
+| pitch        | `/pɪʧ/`              | n. 场地；音调<br>v. 投掷；定音    |
+| tournament   | `/ˈtʊrnəmənt/`       | n. 锦标赛                         |
+| anniversary  | `/ˌænɪˈvɜrsəri/`     | n. 周年纪念                       |
+| folding      | `/ˈfoʊldɪŋ/`         | adj. 可折叠的<br>n. 折叠          |
+| sportsman    | `/ˈspɔrtsmən/`       | n. 运动员                         |
+| versus       | `/ˈvɜrsəs/`          | prep. 对抗；与...相对             |
+| bedrock      | `/ˈbɛdˌrɑk/`         | n. 基岩；基础                     |
+| puzzle       | `/ˈpʌzəl/`           | n. 谜；难题<br>v. 使困惑          |
+| droplet      | `/ˈdrɑplɪt/`         | n. 小滴                           |
+| hassle       | `/ˈhæsəl/`           | n. 麻烦；争论<br>v. 找麻烦        |
+| apologist    | `/əˈpɑlədʒɪst/`      | n. 辩护者                         |
+| reckon       | `/ˈrɛkən/`           | v. 认为；计算                     |
+
+
+#### Fourth Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词         | 美式发音             | 词性 + 汉语释义                   |
+|--------------|----------------------|-----------------------------------|
+| hike         | `/haɪk/`             | n. 远足；徒步旅行<br>v. 徒步旅行；提高 |
+| reveal       | `/rɪˈvil/`           | v. 揭示；显示                     |
+| feature      | `/ˈfitʃər/`          | n. 特征；特点<br>v. 以...为特色   |
+| rhyolite     | `/ˈraɪəˌlaɪt/`       | n. 流纹岩                         |
+| crater       | `/ˈkreɪtər/`         | n. 火山口；弹坑                   |
+| immense      | `/ɪˈmɛns/`           | adj. 巨大的                       |
+| view         | `/vju/`              | n. 视野；观点<br>v. 看待；考虑    |
+| opportunity  | `/ˌɑpərˈtunɪti/`     | n. 机会                           |
+| research     | `/rɪˈsɜrtʃ/`         | n. 研究<br>v. 研究                |
+| geological   | `/ˌdʒiəˈlɑdʒɪkəl/`   | adj. 地质的                       |
+| insight      | `/ˈɪnˌsaɪt/`         | n. 洞察力；见解                   |
+| dynamic      | `/daɪˈnæmɪk/`        | adj. 动态的；有活力的             |
+| process      | `/ˈprɑsɛs/`          | n. 过程；处理<br>v. 处理；加工    |
+| shape        | `/ʃeɪp/`             | n. 形状；状态<br>v. 使成形；塑造  |
+| conservation | `/ˌkɑnsərˈveɪʃən/`   | n. 保护；保存                     |
+| effort       | `/ˈɛfərt/`           | n. 努力                           |
+
+
+#### Fifth Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词         | 美式发音             | 词性 + 汉语释义                   |
+|--------------|----------------------|-----------------------------------|
+| bit          | `/bɪt/`              | n. 位；一点                       |
+| byte         | `/baɪt/`             | n. 字节                           |
+| kilobyte     | `/ˈkɪləˌbaɪt/`       | n. 千字节                         |
+| megabyte     | `/ˈmɛɡəˌbaɪt/`       | n. 兆字节                         |
+| gigabyte     | `/ˈɡɪɡəˌbaɪt/`       | n. 千兆字节                       |
+| terabyte     | `/ˈtɛrəˌbaɪt/`       | n. 太字节                         |
+| renowned     | `/rɪˈnaʊnd/`         | adj. 著名的                       |
+| suspense     | `/səˈspɛns/`         | n. 悬念                           |
+| component    | `/kəmˈpoʊnənt/`      | n. 组件；成分                     |
+| svelte       | `/svɛlt/`            | adj. 苗条的                       |
+| migrant      | `/ˈmaɪɡrənt/`        | n. 移民；候鸟                     |
+| temperate    | `/ˈtɛmpərət/`        | adj. 温和的；有节制的             |
+| confident    | `/ˈkɑnfɪdənt/`       | adj. 自信的                       |
+| role         | `/roʊl/`             | n. 角色；作用                     |
+| ability      | `/əˈbɪləti/`         | n. 能力                           |
+| capacity     | `/kəˈpæsɪti/`        | n. 容量；能力                     |
+| workflow     | `/ˈwɜrkˌfloʊ/`       | n. 工作流程                       |
+
+
+#### Sixth Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词         | 美式发音             | 词性 + 汉语释义                   |
+|--------------|----------------------|-----------------------------------|
+| signal       | `/ˈsɪɡnəl/`          | n. 信号；标志<br>v. 发信号；表示  |
+| introvertive | `/ˌɪntrəˈvɜrtɪv/`    | adj. 内向的                       |
+| intuitive    | `/ɪnˈtuɪtɪv/`        | adj. 直觉的                       |
+| intuition    | `/ˌɪntuˈɪʃən/`       | n. 直觉                           |
+| expense      | `/ɪkˈspɛns/`         | n. 费用；开支                     |
+| discount     | `/ˈdɪskaʊnt/`        | n. 折扣<br>v. 打折；忽视          |
+| steepen      | `/ˈstiːpən/`         | v. 变陡峭                         |
+| ascent       | `/əˈsɛnt/`           | n. 上升；攀登                     |
+| turmoil      | `/ˈtɜrmɔɪl/`         | n. 混乱                           |
+| distress     | `/dɪˈstrɛs/`         | n. 悲痛；困境<br>v. 使痛苦        |
+| reel         | `/ril/`              | n. 卷轴；旋转<br>v. 卷；旋转      |
+| prioritize   | `/praɪˈɔrəˌtaɪz/`    | v. 优先处理                       |
+| plough       | `/plaʊ/`             | n. 犁<br>v. 耕犁                   |
+| concentrate  | `/ˈkɑnsənˌtreɪt/`    | v. 集中；浓缩                     |
+| concentration| `/ˌkɑnsənˈtreɪʃən/` | n. 集中；浓度                     |
+| neither      | `/ˈniːðər/`          | adv. 也不<br>conj. 既不...也不   |
+| manor        | `/ˈmænər/`           | n. 庄园；领地                     |
+| relieve      | `/rɪˈliv/`           | v. 缓解；解除                     |
+| wound        | `/wund/`             | n. 伤口<br>v. 使受伤              |
 
 
 
@@ -112,7 +293,6 @@ Translator: ChatGPT 4o
 | perspective    | `/pərˈspɛktɪv/`             | n. 观点；透视                            |
 | rational       | `/ˈræʃənl/`                 | adj. 理性的；合理的                      |
 | pip            | `/pɪp/`                     | n. 果核；[俚]极好的事物                  |
-| renown         | `/rɪˈnaʊn/`                 | n. 名声；声望                            |
 | split          | `/splɪt/`                   | v. 分裂；分开<br>n. 裂缝；分歧            |
 | reduce         | `/rɪˈdus/`                  | v. 减少；缩小                            |
 | autonomous     | `/ɔˈtɑnəməs/`               | adj. 自治的；自主的                      |
@@ -334,20 +514,19 @@ Translator: ChatGPT 4o
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词           | 美式发音              | 词性 + 汉语释义                       |
-|--------------|-------------------|---------------------------------------|
-| signal       | `/ˈsɪɡnəl/`       | n. 信号；标志<br>v. 发信号；标志着     |
-| introvert    | `/ˈɪntrəˌvɜrt/`   | n. 内向的人<br>v. 使内向               |
-| introvertive | `/ˌɪntrəˈvɜrtɪv/` | adj. 内向的                           |
-| intuitive    | `/ɪnˈtuɪtɪv/`     | adj. 直觉的                           |
-| intuition    | `/ˌɪntuˈɪʃən/`    | n. 直觉                               |
+|--------------|-------------------|--------------------------------------|
+| introvert    | `/ˈɪntrəˌvɜrt/`   | n. 内向的人               |
+| introvertive | `/ˌɪntrəˈvɜrtɪv/` | adj. 内向的                          |
+| intuitive    | `/ɪnˈtuɪtɪv/`     | adj. 直觉的                          |
+| intuition    | `/ˌɪntuˈɪʃən/`    | n. 直觉                              |
 | interlude    | `/ˈɪntərˌlud/`    | n. 插曲；间奏                         |
 | pretty       | `/ˈprɪti/`        | adj. 漂亮的；相当的<br>adv. 相当；很   |
 | adrift       | `/əˈdrɪft/`       | adj. 漂浮的；无目的的                  |
 | celeste      | `/səˈlɛst/`       | n. 天青石；钢片琴                      |
 | rushing      | `/ˈrʌʃɪŋ/`        | n. 急流<br>v. 匆忙；急速进行           |
 | blueth       | `/bluθ/`          | n. 蓝色；蓝色的                        |
-| athlete      | `/ˈæθlit/`        | n. 运动员                              |
-| castle       | `/ˈkæsl/`         | n. 城堡                               |
+| athlete      | `/ˈæθlit/`        | n. 运动员                             |
+| castle       | `/ˈkæsl/`         | n. 城堡                              |
 | mean         | `/miːn/`          | v. 意思是；打算<br>adj. 吝啬的；刻薄的<br>n. 平均值 |
 | means        | `/minz/`          | n. 方法；手段                         |
 
@@ -559,11 +738,9 @@ Translator: ChatGPT 4o
 | pristine      | `/ˈprɪstin/`       | adj. 原始的；未受损的                 |
 | stretch       | `/strɛtʃ/`         | v. 伸展；拉紧<br>n. 伸展；一段时间        |
 | bareback      | `/ˈbɛrˌbæk/`       | adj. 不用马鞍的<br>adv. 不用马鞍地      |
-| confident     | `/ˈkɑnfɪdənt/`     | adj. 自信的                      |
 | host          | `/hoʊst/`          | n. 主人；主持人<br>v. 主持；招待         |
 | thought       | `/θɒːt/`           | n. 思想；想法；关心<br>v. think 的过去式和过去分词                     |
 | desire        | `/dɪˈzaɪər/`       | v. 渴望；想要<br>n. 欲望；渴望          |
-| role          | `/roʊl/`           | n. 角色；作用                      |
 | simplicity    | `/sɪmˈplɪsɪti/`    | n. 简单；朴素                      |
 | eliminate     | `/ɪˈlɪməˌneɪt/`    | v. 消除；淘汰                      |
 | disown        | `/dɪsˈoʊn/`        | v. 否认；与...断绝关系                |
@@ -656,39 +833,38 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词          | 美式发音                   | 词性 + 汉语释义                         |
-|---------------|----------------------------|----------------------------------------|
+| 单词          | 美式发音                   | 词性 + 汉语释义                             |
+|---------------|----------------------------|---------------------------------------|
 | proof         | `/pruf/`                  | n. 证据；证明<br>adj. 防...的；耐...的<br>v. 校对 |
-| brew          | `/bru/`                   | v. 酿造；冲泡<br>n. 酿造物；啤酒         |
-| process       | `/ˈprɑsɛs/`               | n. 过程；工序<br>v. 处理；加工           |
-| processe      | `/prəˈsɛs/`               | n. 处理 (processe 的拼写)                |
-| leaves        | `/livz/`                  | n. 叶子（复数）；离开                    |
-| flat          | `/flæt/`                  | adj. 平的；单调的<br>n. 公寓；平面        |
-| tabloid       | `/ˈtæblɔɪd/`              | n. 小报<br>adj. 通俗小报的                |
-| distinguish   | `/dɪˈstɪŋɡwɪʃ/`           | v. 区分；辨别                           |
+| brew          | `/bru/`                   | v. 酿造；冲泡<br>n. 酿造物；啤酒                 |
+| processe      | `/prəˈsɛs/`               | n. 处理 (processe 的拼写)                  |
+| leaves        | `/livz/`                  | n. 叶子（复数）；离开                          |
+| flat          | `/flæt/`                  | adj. 平的；单调的<br>n. 公寓；平面               |
+| tabloid       | `/ˈtæblɔɪd/`              | n. 小报<br>adj. 通俗小报的                   |
+| distinguish   | `/dɪˈstɪŋɡwɪʃ/`           | v. 区分；辨别                              |
 
 根据“简洁性”和“全面性”之间的平衡原则，以下是更新后的版本：
 
-| 单词          | 美式发音                   | 词性 + 汉语释义                         |
-|---------------|----------------------------|----------------------------------------|
-| proof         | `/pruf/`                  | n. 证据；证明<br>v. 校对               |
+| 单词          | 美式发音                   | 词性 + 汉语释义                     |
+|---------------|----------------------------|-------------------------------|
+| proof         | `/pruf/`                  | n. 证据；证明<br>v. 校对             |
 | obscure       | `/əbˈskjʊr/`              | adj. 模糊的；鲜为人知的<br>v. 掩盖       |
-| keen          | `/kin/`                   | adj. 敏锐的；热衷的                     |
-| restaurant    | `/ˈrɛstərɑnt/`            | n. 餐馆                                 |
-| brew          | `/bru/`                   | v. 酿造；冲泡<br>n. 酿造物              |
-| process       | `/ˈprɑsɛs/`               | n. 过程；工序<br>v. 处理               |
-| duo           | `/ˈduoʊ/`                 | n. 二重唱；二人组                       |
-| leave         | `/liv/`                   | v. 离开；留下<br>n. 休假                |
-| leaves        | `/livz/`                  | n. 叶子（复数）                         |
+| keen          | `/kin/`                   | adj. 敏锐的；热衷的                  |
+| restaurant    | `/ˈrɛstərɑnt/`            | n. 餐馆                         |
+| brew          | `/bru/`                   | v. 酿造；冲泡<br>n. 酿造物            |
+| process       | `/ˈprɑsɛs/`               | n. 过程；工序<br>v. 加工；处理；         |
+| duo           | `/ˈduoʊ/`                 | n. 二重唱；二人组                    |
+| leave         | `/liv/`                   | v. 离开；留下<br>n. 休假             |
+| leaves        | `/livz/`                  | n. 叶子（复数）                     |
 | advance       | `/ədˈvæns/`               | v. 前进；提前<br>n. 进步<br>adj. 预先的 |
-| flat          | `/flæt/`                  | adj. 平的<br>n. 公寓                     |
-| fictional     | `/ˈfɪkʃənəl/`             | adj. 虚构的                             |
-| Nederland     | `/ˈnɛðərlənd/`            | n. 荷兰                                 |
-| disconcerting | `/ˌdɪskənˈsɜrtɪŋ/`        | adj. 令人不安的                         |
-| lobby         | `/ˈlɑbi/`                 | n. 大厅；游说团<br>v. 游说              |
-| hysteria      | `/hɪˈstɪəriə/`            | n. 歇斯底里                             |
-| tabloid       | `/ˈtæblɔɪd/`              | n. 小报<br>adj. 通俗小报的               |
-| distinguish   | `/dɪˈstɪŋɡwɪʃ/`           | v. 区分                                |
+| flat          | `/flæt/`                  | adj. 平的<br>n. 公寓              |
+| fictional     | `/ˈfɪkʃənəl/`             | adj. 虚构的                      |
+| Nederland     | `/ˈnɛðərlənd/`            | n. 荷兰                         |
+| disconcerting | `/ˌdɪskənˈsɜrtɪŋ/`        | adj. 令人不安的                    |
+| lobby         | `/ˈlɑbi/`                 | n. 大厅；游说团<br>v. 游说            |
+| hysteria      | `/hɪˈstɪəriə/`            | n. 歇斯底里                       |
+| tabloid       | `/ˈtæblɔɪd/`              | n. 小报<br>adj. 通俗小报的           |
+| distinguish   | `/dɪˈstɪŋɡwɪʃ/`           | v. 区分                         |
 
 
 #### Fourth Table - ~~已校对~~ - ~~已写入 GoodNotes~~
@@ -1477,7 +1653,6 @@ Translator: ChatGPT 4o
 | modification  | `/ˌmɑdəfəˈkeɪʃən/` | n. 修改                                |
 | accurate      | `/ˈækjərət/`       | adj. 准确的                            |
 | leaf          | `/lif/`            | n. 叶子<br>v. 翻页                      |
-| gigabyte      | `/ˈɡɪɡəˌbaɪt/`     | n. 千兆字节                            |
 | forum         | `/ˈfɔrəm/`         | n. 论坛                                |
 | curtain       | `/ˈkɜrtən/`        | n. 窗帘                                |
 | divorce       | `/dɪˈvɔrs/`        | n. 离婚<br>v. 离婚                       |
@@ -1638,7 +1813,6 @@ Translator: ChatGPT 4o
 
 | 单词           | 美式发音                   | 词性 + 汉语释义                    |
 |----------------|------------------------|------------------------------------|
-| immense        | `/ɪˈmɛns/`             | adj. 巨大的；极大的                 |
 | disregard      | `/ˌdɪsrɪˈɡɑrd/`        | v. 忽视；不理会<br>n. 忽视；漠视       |
 | rove           | `/roʊv/`               | v. 漫游；流浪<br>n. 漫游；流浪        |
 | identify       | `/aɪˈdɛntɪˌfaɪ/`       | v. 识别；认出；鉴定                 |
@@ -1714,7 +1888,6 @@ Translator: ChatGPT 4o
 | toothpaste     | `/ˈtuθˌpeɪst/`                 | n. 牙膏                             |
 | ain‘t          | `/eɪnt/`                       | contraction. 不是；没有               |
 | northern       | `/ˈnɔrðərn/`                   | adj. 北方的                          |
-| patch          | `/pæʧ/`                        | n. 补丁；小块土地<br>v. 修补           |
 | absurd         | `/əbˈsɜrd/`                    | adj. 荒谬的；可笑的                   |
 | tumble         | `/ˈtʌmbəl/`                    | v. 摔倒；翻滚<br>n. 摔倒；混乱          |
 | tumble over    | `/ˈtʌmbəl ˈoʊvər/`             | phr. 摔倒；跌倒                      |
@@ -1742,7 +1915,6 @@ Translator: ChatGPT 4o
 | earthy             | `/ˈɜrθi/`                | adj. 泥土的；质朴的                   |
 | aroma              | `/əˈroʊmə/`              | n. 芳香                              |
 | curry              | `/ˈkʌri/`                | n. 咖喱                              |
-| vibrant            | `/ˈvaɪbrənt/`            | adj. 充满生机的；鲜艳的               |
 | renown             | `/rɪˈnaʊn/`              | n. 名望；声誉                        |
 | potent             | `/ˈpoʊtnt/`              | adj. 强有力的；有效的                 |
 | anti-inflammatory  | `/ˌæntaɪɪnˈflæmətɔri/`   | adj. 抗炎的                          |
@@ -1893,7 +2065,6 @@ Translator: ChatGPT 4o
 |---------------|----------------------|-----------------------------|
 | against       | `/əˈɡɛnst/`          | prep. 反对；对抗；倚靠       |
 | novelty       | `/ˈnɑvəlti/`         | n. 新颖；新奇事物            |
-| natural       | `/ˈnætʃərəl/`        | adj. 自然的；天生的；正常的   |
 | naturally     | `/ˈnætʃərəli/`       | adv. 自然地；天生地          |
 | silly         | `/ˈsɪli/`            | adj. 愚蠢的；可笑的          |
 | dummy         | `/ˈdʌmi/`            | n. 假人；傀儡                |
@@ -2384,7 +2555,6 @@ Translator: ChatGPT 4o
 
 | 单词          | 美式发音          | 词性 + 汉语释义             | 示例                                                 |
 |---------------|-------------------|-----------------------|------------------------------------------------------|
-| confidential  | `/ˌkɑnfɪˈdɛnʃəl/` | adj. 机密的，保密的          | The documents are confidential. (这些文件是机密的。) |
 | retrieval     | `/rɪˈtriːvəl/`    | n. 检索，取回              | Data retrieval is quick and easy. (数据检索快速且方便。) |
 | restaurant    | `/ˈrɛst(ə)ˌrɑnt/` | n. 餐馆，饭店              | We had dinner at a nice restaurant. <br>(我们在一家不错的餐馆吃了晚餐。) |
 | lively        | `/ˈlaɪvli/`       | adj. 活泼的，生动的          | The city has a lively nightlife. <br>(这座城市的夜生活很活跃。) |
@@ -5563,32 +5733,32 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词          | 美式发音            | 词类 + 汉语释义            | 示例 |
-| ----------- |-----------------|----------------------|---|
-| suppress    | `/səˈpres/`     | v. 镇压；抑制             | The government tried to suppress the protests. <br>(政府试图镇压抗议。)<br>She couldn't suppress her laughter. <br>(她无法抑制住笑声。) |
-| adapt       | `/əˈdæpt/`      | v. 适应；改编             | He had to adapt to the new environment. <br>(他不得不适应新环境。)<br>The book was adapted into a movie. <br>(这本书被改编成电影。) |
-| uncomment   | `/ʌnˈkɑːment/`  | v. 去掉注释              | Please uncomment the code to enable the feature. <br>(请去掉注释以启用该功能。) |
-| squash      | `/skwɑːʃ/`      | v. 压扁；镇压<br>n. 壁球    | v. She squashed the bug with her shoe. <br>(她用鞋子压扁了那只虫子。)<br>v. The regime squashed the rebellion. <br>(政权镇压了叛乱。)<br>n. He plays squash every Saturday. <br>(他每周六打壁球。) |
-| sleep       | `/sliːp/`       | v. 睡觉<br>n. 睡眠       | v. I usually sleep eight hours a night. <br>(我通常每晚睡八个小时。)<br>n. Lack of sleep can affect your health. <br>(缺乏睡眠会影响健康。) |
-| marble      | `/ˈmɑːrbəl/`    | n. 大理石；弹珠            | The statue is made of marble. <br>(这座雕像是用大理石做的。)<br>Children played with marbles in the yard. <br>(孩子们在院子里玩弹珠。) |
-| dug         | `/dʌɡ/`         | v. dig 的过去式和过去分词：挖   | He dug a hole in the backyard. <br>(他在后院挖了一个洞。) |
+| 单词          | 美式发音            | 词类 + 汉语释义         | 示例 |
+| ----------- |-----------------|-------------------|---|
+| suppress    | `/səˈpres/`     | v. 镇压；抑制          | The government tried to suppress the protests. <br>(政府试图镇压抗议。)<br>She couldn't suppress her laughter. <br>(她无法抑制住笑声。) |
+| adapt       | `/əˈdæpt/`      | v. 适应；改编          | He had to adapt to the new environment. <br>(他不得不适应新环境。)<br>The book was adapted into a movie. <br>(这本书被改编成电影。) |
+| uncomment   | `/ʌnˈkɑːment/`  | v. 去掉注释           | Please uncomment the code to enable the feature. <br>(请去掉注释以启用该功能。) |
+| squash      | `/skwɑːʃ/`      | v. 压扁；镇压<br>n. 壁球 | v. She squashed the bug with her shoe. <br>(她用鞋子压扁了那只虫子。)<br>v. The regime squashed the rebellion. <br>(政权镇压了叛乱。)<br>n. He plays squash every Saturday. <br>(他每周六打壁球。) |
+| sleep       | `/sliːp/`       | v. 睡觉<br>n. 睡眠    | v. I usually sleep eight hours a night. <br>(我通常每晚睡八个小时。)<br>n. Lack of sleep can affect your health. <br>(缺乏睡眠会影响健康。) |
+| marble      | `/ˈmɑːrbəl/`    | n. 大理石；弹珠         | The statue is made of marble. <br>(这座雕像是用大理石做的。)<br>Children played with marbles in the yard. <br>(孩子们在院子里玩弹珠。) |
+| dug         | `/dʌɡ/`         | v. dig 的过去式和过去分词：挖 | He dug a hole in the backyard. <br>(他在后院挖了一个洞。) |
 | deposit     | `/dɪˈpɑːzɪt/`   | n. 订金；押金；存款<br>v. 存放；沉积 | n. We paid a deposit on the house. <br>(我们付了房子的订金。)<br>n. They asked for a security deposit. <br>(他们要求支付保证金。)<br>n. I have a savings deposit in the bank. <br>(我在银行有一笔储蓄存款。)<br>v. She deposited the check into her account. <br>(她将支票存入了账户。)<br>v. Sediment was deposited at the river mouth. <br>(沉积物在河口沉积。) |
-| technical   | `/ˈtɛknɪkəl/`   | adj. 技术的；工艺的         | He has excellent technical skills. <br>(他有出色的技术技能。)<br>The project requires technical expertise. <br>(这个项目需要技术专长。) |
-| continue    | `/kənˈtɪnjuː/`  | v. 继续；连续             | The meeting will continue after lunch. <br>(会议将在午餐后继续。)<br>The rain continued all day. <br>(雨整天下个不停。) |
-| able        | `/ˈeɪbəl/`      | adj. 能够的；有能力的        | She is able to solve complex problems. <br>(她能够解决复杂问题。)<br>He is an able and efficient worker. <br>(他是一个有能力且高效的工人。) |
-| balance     | `/ˈbæləns/`     | n. 平衡；余额<br>v. 平衡；结算 | n. She lost her balance and fell. <br>(她失去平衡摔倒了。)<br>n. The balance in your account is $500. <br>(你账户中的余额是500美元。)<br>v. She balanced the tray on her hand. <br>(她用手端平托盘。)<br>v. They need to balance their budget. <br>(他们需要平衡预算。) |
-| beak        | `/biːk/`        | n. 鸟嘴                | The bird has a long, curved beak. <br>(这只鸟有一个长而弯的嘴。) |
-| bird        | `/bɜːrd/`       | n. 鸟                 | The bird flew away quickly. <br>(那只鸟很快飞走了。) |
+| technical   | `/ˈtɛknɪkəl/`   | adj. 技术的；工艺的      | He has excellent technical skills. <br>(他有出色的技术技能。)<br>The project requires technical expertise. <br>(这个项目需要技术专长。) |
+| continue    | `/kənˈtɪnjuː/`  | v. 继续；连续          | The meeting will continue after lunch. <br>(会议将在午餐后继续。)<br>The rain continued all day. <br>(雨整天下个不停。) |
+| able        | `/ˈeɪbəl/`      | adj. 能够的；有能力的     | She is able to solve complex problems. <br>(她能够解决复杂问题。)<br>He is an able and efficient worker. <br>(他是一个有能力且高效的工人。) |
+| balance     | `/ˈbæləns/`     | n. 平衡；余额<br>v. 平衡 | n. She lost her balance and fell. <br>(她失去平衡摔倒了。)<br>n. The balance in your account is $500. <br>(你账户中的余额是500美元。)<br>v. She balanced the tray on her hand. <br>(她用手端平托盘。)<br>v. They need to balance their budget. <br>(他们需要平衡预算。) |
+| beak        | `/biːk/`        | n. 鸟嘴             | The bird has a long, curved beak. <br>(这只鸟有一个长而弯的嘴。) |
+| bird        | `/bɜːrd/`       | n. 鸟              | The bird flew away quickly. <br>(那只鸟很快飞走了。) |
 | blame       | `/bleɪm/`       | v. 责备；归咎于<br>n. 责任；责备 | v. Don't blame me for your mistakes. <br>(不要把你的错误归咎于我。)<br>n. He took the blame for the accident. <br>(他为这次事故承担了责任。)<br>n. The blame was unfairly placed on her. <br>(责任不公平地落在她身上。) |
-| blossoms    | `/ˈblɑːsəmz/`   | n. 花（复数）             | The trees are covered in blossoms. <br>(树上开满了花。) |
-| cushion     | `/ˈkʊʃən/`      | n. 垫子；缓冲<br>v. 缓和冲击  | n. She sat on a soft cushion. <br>(她坐在一个软垫子上。)<br>v. The airbags cushioned the impact. <br>(安全气囊缓和了冲击。) |
-| dangle      | `/ˈdæŋɡəl/`     | v. 悬挂；摆动             | The earrings dangled from her ears. <br>(耳环在她的耳朵上摆动。) |
-| decorate    | `/ˈdekəreɪt/`   | v. 装饰；布置             | They decorated the room for the party. <br>(他们为聚会装饰了房间。)<br>She likes to decorate cakes. <br>(她喜欢装饰蛋糕。) |
-| delighted   | `/dɪˈlaɪtɪd/`   | adj. 愉快的；高兴的         | She was delighted with the gift. <br>(她对这份礼物非常高兴。) |
-| demonstrate | `/ˈdemənstreɪt/` | v. 演示；证明             | He demonstrated how to use the machine. <br>(他演示了如何使用这台机器。)<br>The results demonstrate the effectiveness of the new method. <br>(结果证明了新方法的有效性。) |
-| den         | `/den/`         | n. 兽穴；书斋             | The lion returned to its den. <br>(狮子回到了它的巢穴。)<br>He reads in his den every evening. <br>(他每天晚上在书斋读书。) |
-| destroy     | `/dɪˈstrɔɪ/`    | v. 破坏；毁灭             | The fire destroyed the building. <br>(大火烧毁了这座建筑。)<br>The evidence was destroyed. <br>(证据被销毁了。) |
-| dew         | `/duː/`         | n. 露水                | The grass was wet with morning dew. <br>(草地上有早晨的露水。) |
+| blossoms    | `/ˈblɑːsəmz/`   | n. 花（复数）          | The trees are covered in blossoms. <br>(树上开满了花。) |
+| cushion     | `/ˈkʊʃən/`      | n. 垫子；缓冲<br>v. 缓和冲击 | n. She sat on a soft cushion. <br>(她坐在一个软垫子上。)<br>v. The airbags cushioned the impact. <br>(安全气囊缓和了冲击。) |
+| dangle      | `/ˈdæŋɡəl/`     | v. 悬挂；摆动          | The earrings dangled from her ears. <br>(耳环在她的耳朵上摆动。) |
+| decorate    | `/ˈdekəreɪt/`   | v. 装饰；布置          | They decorated the room for the party. <br>(他们为聚会装饰了房间。)<br>She likes to decorate cakes. <br>(她喜欢装饰蛋糕。) |
+| delighted   | `/dɪˈlaɪtɪd/`   | adj. 愉快的；高兴的      | She was delighted with the gift. <br>(她对这份礼物非常高兴。) |
+| demonstrate | `/ˈdemənstreɪt/` | v. 演示；证明          | He demonstrated how to use the machine. <br>(他演示了如何使用这台机器。)<br>The results demonstrate the effectiveness of the new method. <br>(结果证明了新方法的有效性。) |
+| den         | `/den/`         | n. 兽穴；书斋          | The lion returned to its den. <br>(狮子回到了它的巢穴。)<br>He reads in his den every evening. <br>(他每天晚上在书斋读书。) |
+| destroy     | `/dɪˈstrɔɪ/`    | v. 破坏；毁灭          | The fire destroyed the building. <br>(大火烧毁了这座建筑。)<br>The evidence was destroyed. <br>(证据被销毁了。) |
+| dew         | `/duː/`         | n. 露水             | The grass was wet with morning dew. <br>(草地上有早晨的露水。) |
 
 
 #### Third Table - 已校对 - ~~已写入 GoodNotes~~
