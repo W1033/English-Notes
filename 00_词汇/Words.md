@@ -27,6 +27,44 @@ Translator: ChatGPT 4o
 ## ▲ 待编辑生词
 
 
+
+
+
+### Add: 2024.07.29
+
+#### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+### 校正和最终确认版本
+
+| 单词         | 美式发音             | 词性 + 汉语释义                      |
+|--------------|----------------------|--------------------------------------|
+| seasoning    | `/ˈsizənɪŋ/`         | n. 调味料                            |
+| reasoning    | `/ˈrizənɪŋ/`         | n. 推理；论证                        |
+| appreciate   | `/əˈpriʃiˌeɪt/`      | v. 欣赏；感激                        |
+| wick         | `/wɪk/`              | n. 灯芯                              |
+| wicked       | `/ˈwɪkɪd/`           | adj. 邪恶的；淘气的                  |
+| abominable   | `/əˈbɑmɪnəbəl/`      | adj. 令人憎恶的                      |
+| inclement    | `/ɪnˈklɛmɛnt/`       | adj. 天气恶劣的                      |
+| harsh        | `/hɑrʃ/`             | adj. 严厉的；粗糙的                  |
+| nether       | `/ˈnɛðər/`           | adj. 下面的；地下的                  |
+| belongings   | `/bɪˈlɔŋɪŋz/`        | n. 财物；所有物                      |
+| off          | `/ɔf/`               | adv. 关闭；离开 <br>prep. 离开        |
+| appointment  | `/əˈpɔɪntmənt/`      | n. 约会；任命                        |
+| argument     | `/ˈɑrɡjəmənt/`       | n. 争论；论点                        |
+| sprout       | `/spraʊt/`           | v. 发芽；迅速成长 <br>n. 芽；苗      |
+| longest      | `/ˈlɔŋɪst/`          | adj. 最长的                          |
+| pint         | `/paɪnt/`            | n. 品脱                              |
+| formalize    | `/ˈfɔrməˌlaɪz/`      | v. 使正式化                          |
+| scandal      | `/ˈskændəl/`         | n. 丑闻；流言蜚语                    |
+
+
+
+
+
 ### Add: 2024.07.25
 
 #### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
