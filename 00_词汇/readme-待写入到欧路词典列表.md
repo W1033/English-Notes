@@ -113,37 +113,42 @@
 109. ~~affair~~
 
 
-110. ~~offer ~~
-111. ~~engagement ~~
-112. ~~mung ~~
-113. ~~convince ~~
-114. ~~proof ~~
-115. ~~brew ~~
-116. ~~leaves ~~
-117. ~~flat ~~
-118. ~~tabloid ~~
-119. ~~distinguish ~~
+110. ~~offer~~
+111. ~~engagement~~
+112. ~~mung~~
+113. ~~convince~~
+114. ~~proof~~
+115. ~~brew~~
+116. ~~leaves~~
+117. ~~flat~~
+118. ~~tabloid~~
+119. ~~distinguish~~
 
-120. ~~restaurant ~~
-121. ~~leave ~~
-122. ~~advance ~~
-123. ~~goof ~~
-124. ~~receipt ~~
-125. ~~resilience ~~
-126. ~~mad ~~
-127. ~~plant ~~
-128. ~~coalition ~~
-129. ~~freight ~~
-130. ~~warrant ~~
-131. ~~carnival ~~
-132. ~~stout ~~
-133. ~~profession ~~
-134. ~~worth ~~
-135. ~~joint ~~
-136. ~~knitting ~~
-137. ~~dilemma ~~
-138. ~~janitor ~~
-139. ~~irony ~~
+120. ~~restaurant~~
+121. ~~leave~~
+122. ~~advance~~
+123. ~~goof~~
+124. ~~receipt~~
+125. ~~resilience~~
+126. ~~mad~~
+127. ~~plant~~
+128. ~~coalition~~
+129. ~~freight~~
+
+130. ~~warrant~~
+131. ~~carnival~~
+132. ~~stout~~
+133. ~~profession~~
+134. ~~worth~~
+135. ~~joint~~
+136. ~~knitting~~
+137. ~~dilemma~~
+138. ~~janitor~~
+139. ~~irony~~
+
+
+
+
 140. ~~fella ~~
 141. ~~peep ~~
 142. ~~religion ~~
@@ -154,6 +159,7 @@
 147. ~~conventional ~~
 148. ~~occasional ~~
 149. ~~crux ~~
+
 150. ~~creep ~~
 151. ~~prey ~~
 152. ~~jam ~~
@@ -164,6 +170,7 @@
 157. ~~specialty ~~
 158. ~~special ~~
 159. ~~detail ~~
+
 160. ~~lead ~~
 161. ~~said ~~
 162. ~~reassure ~~
