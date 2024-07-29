@@ -111,8 +111,6 @@
 107. ~~stupidity~~
 108. ~~shrimp~~
 109. ~~affair~~
-
-
 110. ~~offer~~
 111. ~~engagement~~
 112. ~~mung~~
@@ -123,7 +121,6 @@
 117. ~~flat~~
 118. ~~tabloid~~
 119. ~~distinguish~~
-
 120. ~~restaurant~~
 121. ~~leave~~
 122. ~~advance~~
@@ -134,7 +131,6 @@
 127. ~~plant~~
 128. ~~coalition~~
 129. ~~freight~~
-
 130. ~~warrant~~
 131. ~~carnival~~
 132. ~~stout~~
@@ -145,20 +141,16 @@
 137. ~~dilemma~~
 138. ~~janitor~~
 139. ~~irony~~
-
-
-
-
-140. ~~fella ~~
-141. ~~peep ~~
-142. ~~religion ~~
-143. ~~sexual ~~
-144. ~~ethnicity ~~
-145. ~~comedian ~~
-146. ~~clutch ~~
-147. ~~conventional ~~
-148. ~~occasional ~~
-149. ~~crux ~~
+140. ~~fella~~
+141. ~~peep~~
+142. ~~religion~~
+143. ~~sexual~~
+144. ~~ethnicity~~
+145. ~~comedian~~
+146. ~~clutch~~
+147. ~~conventional~~
+148. ~~occasional~~
+149. ~~crux~~
 
 150. ~~creep ~~
 151. ~~prey ~~
