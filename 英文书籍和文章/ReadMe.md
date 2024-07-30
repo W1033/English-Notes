@@ -4,9 +4,10 @@
 
 ## ▲ 英文名集合
 
-Answer: ChatGPT 4.0
-
-Added: 2024.04.21
+```md
+Add: 2024.04.21
+Translate:ChatGPT 4o
+```
 
 以下是您提供的英文名字列表的翻译，包括中文名称（如果适用）和美式发音：
 
@@ -14,7 +15,6 @@ Added: 2024.04.21
 |-----------------------|-------------------------------------|----------------------|
 | Andreas Egger         | `/ˈændriəs ˈɛɡər/`                  | 安德烈亚斯·埃格尔      |
 | Robert Seethaler      | `/ˈrɒbərt ˈsiːθələr/`               | 罗伯特·塞特纳          |
-| Jane Eyre             | `/ˈdʒeɪn ˈɛər/`                     | 简·爱                |
 | Colin Firth           | `/ˈkɒlɪn ˈfɜrθ/`                    | 科林·费尔斯            |
 | Jennifer Ehle         | `/ˈdʒɛnɪfər ˈiːli/`                 | 珍妮弗·埃尔            |
 | Andrew Davies         | `/ˈændruː ˈdeɪvɪs/`                 | 安德鲁·戴维斯          |
@@ -36,6 +36,32 @@ Added: 2024.04.21
 
 
 
+### △ Charlotte's Web 《夏洛特的网》
+
+```md
+Add: 2024.07.30
+Translate:ChatGPT 4o
+```
+
+*Q： GPT 可以帮我以下面表格的的形式来罗列一下 《夏洛特的网》 中出现的人物吗？谢谢啦。 示例表格为下面 窗边的小豆豆 的表格。*
+
+当然可以！以下是《夏洛特的网》中主要人物的列表：
+
+| 英文人名              | 美式发音               | 汉语人名          |
+| --------------------- | ---------------------- | ----------------- |
+| Fern Arable           | `/fɜrn ˈærəbəl/`       | 弗恩·艾瑞布尔     |
+| Wilbur                | `/ˈwɪlbər/`            | 威尔伯            |
+| Charlotte A. Cavatica | `/ˈʃɑrlət ˈkeɪvætɪkə/` | 夏洛特·A·卡瓦蒂卡 |
+| Templeton             | `/ˈtɛmpəltən/`         | 坦普尔顿          |
+| Homer Zuckerman       | `/ˈhoʊmər ˈzʌkərmən/`  | 霍默·朱克曼       |
+| Avery Arable          | `/ˈeɪvəri ˈærəbəl/`    | 艾弗里·艾瑞布尔   |
+| John Arable           | `/dʒɑn ˈærəbəl/`       | 约翰·艾瑞布尔     |
+| Mrs. Arable           | `/mɪs ˈærəbəl/`        | 艾瑞布尔夫人      |
+| Lurvy                 | `/ˈlɜrvi/`             | 勒维              |
+| Uncle                 | `/ˈʌŋkəl/`             | 大伯              |
+
+
+
 ### △ Totto-chan: The Little Girl at the Window 《窗边的小豆豆》
 
 Answer: ChatGPT 4.0
@@ -52,6 +78,8 @@ Answer: ChatGPT 4.0
 | Mother          | `/ˈmʌðər/`                 | 妈妈         |
 | Father          | `/ˈfɑːðər/`                | 爸爸         |
 | Headmaster      | `/ˈhɛdˌmæstər/`            | 校长         |
+
+
 
 ### △ Jane Eyre 《简爱》
 
@@ -85,13 +113,12 @@ Answer: ChatGPT 4.0
 
 
 
-
-
 ### △ The Painted Veil 《面纱》
 
-Answer: ChatGPT 4.0
-
-Added: 2024.04.21
+```md
+Add: 2024.04.21
+Translate: ChatGPT 4.0
+```
 
 毛姆（W. Somerset Maugham）的小说《面纱》的英文名叫 "The Painted Veil"。这是一部描写情感和道德探索的作品，书中的几个主要人物如下所列：
 
@@ -107,3 +134,4 @@ Added: 2024.04.21
 | Sister St. Joseph        | `/ˈsɪstər seɪnt ˈdʒoʊzɪf/`  | 圣约瑟夫修女       |
 | Mr. Garstin              | `/ˈmɪstər ˈɡɑrstɪn/`        | 加斯丁先生         |
 | Mrs. Garstin             | `/ˈmɪsɪz ˈɡɑrstɪn/`         | 加斯丁夫人         |
+
