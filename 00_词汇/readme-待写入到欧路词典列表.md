@@ -1,354 +1,137 @@
 
-
-以下是文档中出现两次及以上的单词列表：
-
-1. ~~unique~~
-2. ~~rugged~~
-3. ~~activity~~
-4. ~~natural~~
-5. ~~wonder~~
-6. ~~balance~~
-7. ~~species~~
-8. ~~moss~~
-9. ~~patch~~
-10. ~~vibrant~~
-11. ~~confidential~~
-12. ~~stunning~~
-13. ~~immense~~
-14. ~~scientific~~
-15. ~~study~~
-16. ~~insight ~~
-17. ~~process~~
-18. ~~planet~~
-19. ~~gigabyte~~
-20. ~~renown~~
-21. ~~serve~~
-22. ~~confident~~
-23. ~~role~~
-24. ~~signal~~
-25. ~~introvert~~
-26. ~~introvertive~~
-27. ~~intuitive~~
-28. ~~intuition~~
-29. ~~expense~~
-30. ~~turmoil~~
-31. ~~concentrate~~
-32. ~~neither~~
-33. ~~relieve~~
-34. ~~fourth~~
-35. ~~millennium~~
-36. ~~disaster~~
-37. ~~mere~~
-38. ~~vehicle~~
-39. ~~frenzy~~
-40. ~~flare~~
-41. ~~host~~
-42. ~~prime~~
-43. ~~astronomy~~
-44. ~~explanation~~
-45. ~~mile~~
-46. ~~six~~
-47. ~~completion~~
-48. ~~significant~~
-49. ~~separator~~
-50. ~~pin~~
-51. ~~retire~~
-52. ~~retrieval~~
-53. ~~pretty~~
-54. ~~celeste~~
-55. ~~aggressive~~
-56. ~~relentless~~
-57. ~~chill~~
-58. ~~mizuno~~
-59. ~~mutable~~
-60. ~~quarter~~
-61. ~~gossip~~
-62. ~~vague~~
-63. ~~infra~~
-64. ~~ticket~~
-65. ~~formality~~
-66. ~~voluntary~~
-67. ~~voluntarily~~
-68. ~~exorcist~~
-69. ~~witness~~
-70. ~~neat~~
-71. ~~foul~~
-72. ~~slaughter~~
-73. ~~embodiment~~
-74. ~~petty~~
-75. ~~damnation~~
-76. ~~sociopath~~
-77. ~~purity~~
-78. ~~realm~~
-79. ~~splendor~~
-80. ~~rome~~
-81. ~~gaze~~
-82. ~~rose~~
-83. ~~seamless~~
-84. ~~elegant~~
-85. ~~reconciliation~~
-86. ~~bang~~
-87. ~~presentation~~
-88. ~~bundle~~
-89. ~~sin~~
-90. ~~attitude~~
-91. ~~figurative~~
-92. ~~ribosome~~
-93. ~~stretch~~
-94. ~~thought~~
-95. ~~desire~~
-96. ~~simplicity~~
-97. ~~eliminate~~
-98. ~~longing~~
-99. ~~section~~
-100. ~~dialogue~~
-101. ~~spirituality~~
-102. ~~idle~~
-103. ~~latency~~
-104. ~~accurate~~
-105. ~~cocktail~~
-106. ~~caesar~~
-107. ~~stupidity~~
-108. ~~shrimp~~
-109. ~~affair~~
-110. ~~offer~~
-111. ~~engagement~~
-112. ~~mung~~
-113. ~~convince~~
-114. ~~proof~~
-115. ~~brew~~
-116. ~~leaves~~
-117. ~~flat~~
-118. ~~tabloid~~
-119. ~~distinguish~~
-120. ~~restaurant~~
-121. ~~leave~~
-122. ~~advance~~
-123. ~~goof~~
-124. ~~receipt~~
-125. ~~resilience~~
-126. ~~mad~~
-127. ~~plant~~
-128. ~~coalition~~
-129. ~~freight~~
-130. ~~warrant~~
-131. ~~carnival~~
-132. ~~stout~~
-133. ~~profession~~
-134. ~~worth~~
-135. ~~joint~~
-136. ~~knitting~~
-137. ~~dilemma~~
-138. ~~janitor~~
-139. ~~irony~~
-140. ~~fella~~
-141. ~~peep~~
-142. ~~religion~~
-143. ~~sexual~~
-144. ~~ethnicity~~
-145. ~~comedian~~
-146. ~~clutch~~
-147. ~~conventional~~
-148. ~~occasional~~
-149. ~~crux~~
-150. ~~creep~~
-151. ~~prey~~
-152. ~~jam~~
-153. ~~johnny~~
-154. ~~bate~~
-155. ~~con~~
-156. ~~slam~~
-157. ~~specialty~~
-158. ~~special~~
-159. ~~detail~~
-160. ~~lead~~
-161. ~~said~~
-162. ~~reassure~~
-163. ~~intent~~
-164. ~~entire~~
-165. ~~ray~~
-166. ~~needy~~
-167. ~~sadly~~
-168. ~~yard~~
-169. ~~stays~~
-170. ~~try~~
-171. ~~corner~~
-172. ~~credit~~
-173. ~~attraction~~
-174. ~~condition~~
-175. ~~curiosity~~
-176. ~~gate~~
-177. ~~enter~~
-178. ~~tag~~
-179. ~~stress~~
+**重要提示：编辑当前文件最好在 VSCode 中编辑，IDEA 中编辑格式不友好，无法发现编辑错误**
 
 
-180. ~~scroll ~~
-181. ~~inherit ~~
-182. ~~hierarchy ~~
-183. ~~signature ~~
-184. ~~legal ~~
-185. ~~letter ~~
-186. ~~calibrate ~~
-187. ~~train ~~
-188. ~~internal ~~
-189. ~~hunt ~~
-190. ~~salvation ~~
-191. ~~oblivious ~~
-192. ~~provision ~~
-193. ~~trial ~~
-194. ~~retail ~~
-195. ~~tie ~~
-196. ~~tin ~~
-197. ~~teenager ~~
-198. ~~resort ~~
-199. ~~insistent ~~
+| 单词              | 美式发音                 | 词性 + 汉语释义           |
+|-------------------|----------------------|---------------------|
+| tap               | `/tæp/`              | n. 龙头；轻敲<br>v. 轻敲；开发 |
+| faucet            | `/ˈfɔsɪt/`           | n. 水龙头              |
+| tangent           | `/ˈtændʒənt/`        | n. 正切（数学）；切线；突然转移话题 |
+| process           | `/ˈprɑːses/`         | n. 过程；工序<br>v. 加工；处理 |
+| embellish         | `/ɪmˈbelɪʃ/`         | v. 装饰；美化            |
+| instruction       | `/ɪnˈstrʌkʃən/`      | n. 指示；说明            |
+| fortress          | `/ˈfɔːrtrəs/`        | n. 堡垒；要塞            |
+| troop             | `/truːp/`            | n. 部队；一群<br>v. 成群结队 |
+| bloke             | `/bloʊk/`            | n. 小伙子              |
+| factorial         | `/fækˈtɔːriəl/`      | n. 阶乘               |
+| consideration     | `/kənˌsɪdəˈreɪʃən/`  | n. 考虑；体谅            |
+| think about       | `/θɪŋk əˈbaʊt/`      | v. 考虑               |
+| think over        | `/θɪŋk ˈoʊvər/`      | v. 仔细考虑             |
+| torture           | `/ˈtɔːrtʃər/`        | n. 拷打；折磨<br>v. 拷打；折磨 |
+| grip              | `/ɡrɪp/`             | n. 紧握；控制<br>v. 紧握；控制 |
+| gluten            | `/ˈɡluːtn/`          | n. 面筋               |
+| regain            | `/rɪˈɡeɪn/`          | v. 重新获得；恢复          |
+| gene              | `/dʒiːn/`            | n. 基因               |
+| participate       | `/pɑːrˈtɪsəpeɪt/`    | v. 参与；参加            |
+| screening         | `/ˈskriːnɪŋ/`        | n. 筛查；放映            |
+| cognitive         | `/ˈkɑːɡnətɪv/`       | adj. 认知的            |
+| enslave           | `/ɪnˈsleɪv/`         | v. 奴役               |
+| close-at-hand     | `/kloʊs æt hænd/`    | adj. 近在手边的          |
+| intimate          | `/ˈɪntəmət/`         |	adj. 亲密的；隐私的 <br>n. 密友 |
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-| 单词            | 美式发音               | 词性 + 汉语释义                            |
-|---------------|--------------------|--------------------------------------|
-| rocket        | `/ˈrɑːkɪt/`        | n. 火箭<br>v. 迅速上升                     |  
-| racket        | `/ˈrækɪt/`         | n. 球拍；喧嚣                             |
-| rod           | `/rɑːd/`           | n. 杆；棒                               |
-| nano          | `/ˈnænoʊ/`         | adj. 纳米的；极小的                         |
-| flare         | `/fler/`           | v. 闪耀；燃烧<br>n. 闪光；燃烧                 |
-| curve         | `/kɜːrv/`          | n. 曲线；弯曲<br>v. 弯曲                    |
-| host          | `/hoʊst/`          | n. 主人；主持人；（寄生动植物的）宿主<br>v. 主办；主持     |
-| loan          | `/loʊn/`           | n. 贷款；借款<br>v. 借出                    |
-| prime         | `/praɪm/`          | adj. 主要的；最好的<br>n. 全盛期               |
-| rate          | `/reɪt/`           | n. 比率；速度<br>v. 评价；评估                 |
-| battle        | `/ˈbætəl/`         | n. 战斗；斗争<br>v. 战斗                    |
-| moist         | `/mɔɪst/`          | adj. 潮湿的                             |
-| chap          | `/ʧæp/`            | n. 小伙子(口语)；皲裂                        |
-| dimension     | `/dɪˈmenʃən/`      | n. 尺寸；维度；方面                          |
-| astronomy     | `/əˈstrɑːnəmi/`    | n. 天文学                               |
-| explanation   | `/ˌekspləˈneɪʃən/` | n. 解释；说明                             |
-| triple        | `/ˈtrɪpəl/`        | adj. 三倍的；三重的<br>v. (使)增加两倍           |
-| mile          | `/maɪl/`           | n. 英里                                |
-| kilometer     | `/kɪˈlɑːmɪtər/`    | n. 千米；公里                             |
-| kilometre     | `/kɪˈlɑːmɪtər/`    | n. 千米；公里（英式拼写）                       |
-| per           | `/pər/`            | prep. 每，每一；按照，根据                     |
-| pupil         | `/ˈpjuːpəl/`       | n. 学生；瞳孔                             |
-| ritual        | `/ˈrɪtʃuəl/`       | n. 仪式；惯例<br>adj. 仪式的；例行的             |
-| stir          | `/stɜːr/`          | v. 搅拌；激起<br>n. 激动（情绪）；搅拌             |
-| bullock       | `/ˈbʊlək/`         | n. 阉牛                                |
-| fortune       | `/ˈfɔːrtʃən/`      | n. 财富；运气；命运                          |
-| handiwork     | `/ˈhændiˌwɜːrk/`   | n. 手工艺品；技艺                           |
-| craft         | `/kræft/`          | n. 手艺；工艺<br>v. 精心制作                  |
-| craftsmanship | `/ˈkræftsmənʃɪp/`  | n. 工艺；技艺                             |
-| squire        | `/ˈskwaɪər/`       | n. （英）乡绅；大地主                         |
-| linen         | `/ˈlɪnən/`         | n. 亚麻布                               |
-| slum          | `/slʌm/`           | n. 贫民窟                               |
-| flap          | `/flæp/`           | v. 拍动；摆动<br>n. 拍动；垂下物                |
-| fabulous      | `/ˈfæbjələs/`      | adj. 极好的；传说中的                        |
-| exquisite     | `/ˈekskwɪzət/`     | adj. 精美的；敏锐的                         |
-| shave         | `/ʃeɪv/`           | v. 刮；剃<br>n. 刮胡子                     |
-| hourglass     | `/ˈaʊrɡlæs/`       | n. 沙漏                                |
-| public        | `/ˈpʌblɪk/`        | adj. 公众的；公共的；公开的<br>n. 公众            |
-| publicly      | `/ˈpʌblɪkli/`      | adv. 公开地                             |
-| conundrum     | `/kəˈnʌndrəm/`     | n. 难题；谜语                             |
-| one           | `/wʌn/`            | num. 一<br>det. 一个                    |
-| two           | `/tuː/`            | num. 二                               |
-| three         | `/θriː/`           | num. 三                               |
-| four          | `/fɔːr/`           | num. 四                               |
-| five          | `/faɪv/`           | num. 五                               |
-| six           | `/sɪks/`           | num. 六                               |
-| seven         | `/ˈsevən/`         | num. 七                               |
-| eight         | `/eɪt/`            | num. 八                               |
-| nine          | `/naɪn/`           | num. 九                               |
-| ten           | `/ten/`            | num. 十                               |
-| eleven        | `/ɪˈlevən/`        | num. 十一                              |
-| twelve        | `/twelv/`          | num. 十二                              |
-| thirteen      | `/ˈθɜːrˈtiːn/`     | num. 十三                              |
-| fourteen      | `/ˌfɔːrˈtiːn/`     | num. 十四                              |
-| fifteen       | `/ˌfɪfˈtiːn/`      | num. 十五                              |
-| sixteen       | `/ˌsɪkˈstiːn/`     | num. 十六                              |
-| seventeen     | `/ˌsevənˈtiːn/`    | num. 十七                              |
-| eighteen      | `/ˌeɪˈtiːn/`       | num. 十八                              |
-| nineteen      | `/ˌnaɪnˈtiːn/`     | num. 十九                              |
-| twenty        | `/ˈtwenti/`        | num. 二十                              |
-| thirty        | `/ˈθɜːrti/`        | num. 三十                              |
-| forty         | `/ˈfɔːrti/`        | num. 四十                              |
-| fifty         | `/ˈfɪfti/`         | num. 五十                              |
-| sixty         | `/ˈsɪksti/`        | num. 六十                              |
-| seventy       | `/ˈsevnti/`        | num. 七十                              |
-| eighty        | `/ˈeɪti/`          | num. 八十                              |
-| ninety        | `/ˈnaɪnti/`        | num. 九十                              |
-| hundred       | `/ˈhʌndrəd/`       | num. 百                               |
-| thousand      | `/ˈθaʊzənd/`       | num. 千                               |
-| million       | `/ˈmɪljən/`        | num. 百万                              |
-| billion       | `/ˈbɪljən/`        | num. 十亿                              |
-| first         | `/fɜːrst/`         | num. 第一<br>adj. 第一的<br>n. 首位         |
-| second        | `/ˈsekənd/`        | num. 第二<br>n. 秒；一会儿，片刻；<br>adj. 第二的  |
-| third         | `/θɜːrd/`          | num. 第三<br>adj. 第三（个）的<br>n. 三分之一    |
-| fourth        | `/fɔːrθ/`          | num. 第四<br>adj. 第四（个）的<br>n. 四分之一    |
-| fifth         | `/fɪfθ/`           | num. 第五<br>adj. 第五（个）的<br>n. 五分之一    |
-| sixth         | `/sɪksθ/`          | num. 第六<br>adj. 第六（个）的<br>n. 六分之一    |
-| seventh       | `/ˈsevənθ/`        | num. 第七<br>adj. 第七（个）的<br>n. 七分之一    |
-| eighth        | `/eɪtθ/`           | num. 第八<br>adj. 第八（个）的<br>n. 八分之一    |
-| ninth         | `/naɪnθ/`          | num. 第九<br>adj. 第九（个）的<br>n. 九分之一    |
-| tenth         | `/tenθ/`           | num. 第十<br>adj. 第十（个）的<br>n. 十分之一    |
-| eleventh      | `/ɪˈlevənθ/`       | num. 第十一<br>adj. 第十一（个）的<br>n. 十一分之一 |
-| twelfth       | `/twelfθ/`         | num. 第十二<br>adj. 第十二（个）的<br>n. 十二分之一 |
-| thirteenth    | `/ˌθɜːrˈtiːnθ/`    | num. 第十三<br>adj. 第十三（个）的<br>n. 十三分之一 |
-| fourteenth    | `/ˌfɔːrˈtiːnθ/`    | num. 第十四<br>adj. 第十四（个）的<br>n. 十四分之一 |
-| fifteenth     | `/ˌfɪfˈtiːnθ/`     | num. 第十五<br>adj. 第十五（个）的<br>n. 十五分之一 |
-| sixteenth     | `/ˌsɪksˈtiːnθ/`    | num. 第十六<br>adj. 第十六（个）的<br>n. 十六分之一 |
-| seventeenth   | `/ˌsevənˈtiːnθ/`   | num. 第十七<br>adj. 第十七（个）的<br>n. 十七分之一 |
-| eighteenth    | `/ˌeɪˈtiːnθ/`      | num. 第十八<br>adj. 第十八（个）的<br>n. 十八分之一 |
-| twentieth     | `/ˈtwentiəθ/`      | num. 第二十<br>adj. 第二十的<br>n. 二十分之一    |
-| thirtieth     | `/ˈθɜːrtiəθ/`      | num. 第三十<br>adj. 第三十的<br>n. 三十分之一    |
-| fortieth      | `/ˈfɔːrtiəθ/`      | num. 第四十<br>adj. 第四十的<br>n. 四十分之一    |
-| fiftieth      | `/ˈfɪftiəθ/`       | num. 第五十<br>adj. 第五十的<br>n. 五十分之一    |
-| sixtieth      | `/ˈsɪkstiəθ/`      | num. 第六十<br>adj. 第六十的<br>n. 六十分之一    |
-| seventieth    | `/ˈsevntiəθ/`      | num. 第七十<br>adj. 第七十的<br>n. 七十分之一    |
-| eightieth     | `/ˈeɪtiəθ/`        | num. 第八十<br>adj. 第八十的<br>n. 八十分之一    |
-| ninetieth     | `/ˈnaɪntiəθ/`      | num. 第九十<br>adj. 第九十的<br>n. 九十分之一    |
-| hundredth     | `/ˈhʌndrədθ/`      | num. 第一百<br>adj. 第一百（个）的<br>n. 百分之一  |
-| thousandth    | `/ˈθaʊzəndθ/`      | num. 第一千<br>adj. 第一千（个）的<br>n. 千分之一  |
-| millionth     | `/ˈmɪljənθ/`       | num. 第一百万<br>adj. 第一百万（个）的<br>n. 百万分之一 |
-| billionth     | `/ˈbɪljənθ/`       | num. 第十亿<br>adj. 第十亿（个）的<br>n. 十亿分之一 |
-
-
-
-
-
-
-
-
-
-
+rocket, `/ˈrɑːkɪt/`<br/><br/> n. 火箭<br><br>v. 迅速上升                       
+racket, `/ˈrækɪt/`<br/><br/> n. 球拍；喧嚣                             
+rod, `/rɑːd/`<br/><br/> n. 杆；棒                               
+nano, `/ˈnænoʊ/`<br/><br/> adj. 纳米的；极小的                         
+flare, `/fler/`<br/><br/> v. 闪耀；燃烧<br><br>n. 闪光；燃烧                 
+curve, `/kɜːrv/`<br/><br/> n. 曲线；弯曲<br><br>v. 弯曲                    
+host, `/hoʊst/`<br/><br/> n. 主人；主持人；（寄生动植物的）宿主<br><br>v. 主办；主持     
+loan, `/loʊn/`<br/><br/> n. 贷款；借款<br><br>v. 借出                    
+prime, `/praɪm/`<br/><br/> adj. 主要的；最好的<br><br>n. 全盛期               
+rate, `/reɪt/`<br/><br/> n. 比率；速度<br><br>v. 评价；评估                 
+battle, `/ˈbætəl/`<br/><br/> n. 战斗；斗争<br><br>v. 战斗                    
+moist, `/mɔɪst/`<br/><br/> adj. 潮湿的                             
+chap, `/ʧæp/`<br/><br/> n. 小伙子(口语)；皲裂                        
+dimension, `/dɪˈmenʃən/`<br/><br/> n. 尺寸；维度；方面                          
+astronomy, `/əˈstrɑːnəmi/`<br/><br/> n. 天文学                               
+explanation, `/ˌekspləˈneɪʃən/`<br/><br/> n. 解释；说明                             
+triple, `/ˈtrɪpəl/`<br/><br/> adj. 三倍的；三重的<br><br>v. (使)增加两倍           
+mile, `/maɪl/`<br/><br/> n. 英里                                
+kilometer, `/kɪˈlɑːmɪtər/`<br/><br/> n. 千米；公里                             
+kilometre, `/kɪˈlɑːmɪtər/`<br/><br/> n. 千米；公里（英式拼写）                       
+per, `/pər/`<br/><br/> prep. 每，每一；按照，根据                     
+pupil, `/ˈpjuːpəl/`<br/><br/> n. 学生；瞳孔                             
+ritual, `/ˈrɪtʃuəl/`<br/><br/> n. 仪式；惯例<br><br>adj. 仪式的；例行的             
+stir, `/stɜːr/`<br/><br/> v. 搅拌；激起<br><br>n. 激动（情绪）；搅拌             
+bullock, `/ˈbʊlək/`<br/><br/> n. 阉牛                                
+fortune, `/ˈfɔːrtʃən/`<br/><br/> n. 财富；运气；命运                          
+handiwork, `/ˈhændiˌwɜːrk/`<br/><br/> n. 手工艺品；技艺                           
+craft, `/kræft/`<br/><br/> n. 手艺；工艺<br><br>v. 精心制作                  
+craftsmanship, `/ˈkræftsmənʃɪp/`<br/><br/> n. 工艺；技艺                             
+squire, `/ˈskwaɪər/`<br/><br/> n. （英）乡绅；大地主                         
+linen, `/ˈlɪnən/`<br/><br/> n. 亚麻布                               
+slum, `/slʌm/`<br/><br/> n. 贫民窟                               
+flap, `/flæp/`<br/><br/> v. 拍动；摆动<br><br>n. 拍动；垂下物                
+fabulous, `/ˈfæbjələs/`<br/><br/> adj. 极好的；传说中的                        
+exquisite, `/ˈekskwɪzət/`<br/><br/> adj. 精美的；敏锐的                         
+shave, `/ʃeɪv/`<br/><br/> v. 刮；剃<br><br>n. 刮胡子                     
+hourglass, `/ˈaʊrɡlæs/`<br/><br/> n. 沙漏                                
+public, `/ˈpʌblɪk/`<br/><br/> adj. 公众的；公共的；公开的<br><br>n. 公众            
+publicly, `/ˈpʌblɪkli/`<br/><br/> adv. 公开地                             
+conundrum, `/kəˈnʌndrəm/`<br/><br/> n. 难题；谜语                             
+one, `/wʌn/`<br/><br/> num. 一<br><br>det. 一个                    
+two, `/tuː/`<br/><br/> num. 二                               
+three, `/θriː/`<br/><br/> num. 三                               
+four, `/fɔːr/`<br/><br/> num. 四                               
+five, `/faɪv/`<br/><br/> num. 五                               
+six, `/sɪks/`<br/><br/> num. 六                               
+seven, `/ˈsevən/`<br/><br/> num. 七                               
+eight, `/eɪt/`<br/><br/> num. 八                               
+nine, `/naɪn/`<br/><br/> num. 九                               
+ten, `/ten/`<br/><br/> num. 十                               
+eleven, `/ɪˈlevən/`<br/><br/> num. 十一                              
+twelve, `/twelv/`<br/><br/> num. 十二                              
+thirteen, `/ˈθɜːrˈtiːn/`<br/><br/> num. 十三                              
+fourteen, `/ˌfɔːrˈtiːn/`<br/><br/> num. 十四                              
+fifteen, `/ˌfɪfˈtiːn/`<br/><br/> num. 十五                              
+sixteen, `/ˌsɪkˈstiːn/`<br/><br/> num. 十六                              
+seventeen, `/ˌsevənˈtiːn/`<br/><br/> num. 十七                              
+eighteen, `/ˌeɪˈtiːn/`<br/><br/> num. 十八                              
+nineteen, `/ˌnaɪnˈtiːn/`<br/><br/> num. 十九                              
+twenty, `/ˈtwenti/`<br/><br/> num. 二十                              
+thirty, `/ˈθɜːrti/`<br/><br/> num. 三十                              
+forty, `/ˈfɔːrti/`<br/><br/> num. 四十                              
+fifty, `/ˈfɪfti/`<br/><br/> num. 五十                              
+sixty, `/ˈsɪksti/`<br/><br/> num. 六十                              
+seventy, `/ˈsevnti/`<br/><br/> num. 七十                              
+eighty, `/ˈeɪti/`<br/><br/> num. 八十                              
+ninety, `/ˈnaɪnti/`<br/><br/> num. 九十                              
+hundred, `/ˈhʌndrəd/`<br/><br/> num. 百                               
+thousand, `/ˈθaʊzənd/`<br/><br/> num. 千                               
+million, `/ˈmɪljən/`<br/><br/> num. 百万                              
+billion, `/ˈbɪljən/`<br/><br/> num. 十亿                              
+first, `/fɜːrst/`<br/><br/> num. 第一<br><br>adj. 第一的<br><br>n. 首位         
+second, `/ˈsekənd/`<br/><br/> num. 第二<br><br>n. 秒；一会儿，片刻；<br><br>adj. 第二的  
+third, `/θɜːrd/`<br/><br/> num. 第三<br><br>adj. 第三（个）的<br><br>n. 三分之一    
+fourth, `/fɔːrθ/`<br/><br/> num. 第四<br><br>adj. 第四（个）的<br><br>n. 四分之一    
+fifth, `/fɪfθ/`<br/><br/> num. 第五<br><br>adj. 第五（个）的<br><br>n. 五分之一    
+sixth, `/sɪksθ/`<br/><br/> num. 第六<br><br>adj. 第六（个）的<br><br>n. 六分之一    
+seventh, `/ˈsevənθ/`<br/><br/> num. 第七<br><br>adj. 第七（个）的<br><br>n. 七分之一    
+eighth, `/eɪtθ/`<br/><br/> num. 第八<br><br>adj. 第八（个）的<br><br>n. 八分之一    
+ninth, `/naɪnθ/`<br/><br/> num. 第九<br><br>adj. 第九（个）的<br><br>n. 九分之一    
+tenth, `/tenθ/`<br/><br/> num. 第十<br><br>adj. 第十（个）的<br><br>n. 十分之一    
+eleventh, `/ɪˈlevənθ/`<br/><br/> num. 第十一<br><br>adj. 第十一（个）的<br><br>n. 十一分之一 
+twelfth, `/twelfθ/`<br/><br/> num. 第十二<br><br>adj. 第十二（个）的<br><br>n. 十二分之一 
+thirteenth, `/ˌθɜːrˈtiːnθ/`<br/><br/> num. 第十三<br><br>adj. 第十三（个）的<br><br>n. 十三分之一 
+fourteenth, `/ˌfɔːrˈtiːnθ/`<br/><br/> num. 第十四<br><br>adj. 第十四（个）的<br><br>n. 十四分之一 
+fifteenth, `/ˌfɪfˈtiːnθ/`<br/><br/> num. 第十五<br><br>adj. 第十五（个）的<br><br>n. 十五分之一 
+sixteenth, `/ˌsɪksˈtiːnθ/`<br/><br/> num. 第十六<br><br>adj. 第十六（个）的<br><br>n. 十六分之一 
+seventeenth, `/ˌsevənˈtiːnθ/`<br/><br/> num. 第十七<br><br>adj. 第十七（个）的<br><br>n. 十七分之一 
+eighteenth, `/ˌeɪˈtiːnθ/`<br/><br/> num. 第十八<br><br>adj. 第十八（个）的<br><br>n. 十八分之一 
+twentieth, `/ˈtwentiəθ/`<br/><br/> num. 第二十<br><br>adj. 第二十的<br><br>n. 二十分之一    
+thirtieth, `/ˈθɜːrtiəθ/`<br/><br/> num. 第三十<br><br>adj. 第三十的<br><br>n. 三十分之一    
+fortieth, `/ˈfɔːrtiəθ/`<br/><br/> num. 第四十<br><br>adj. 第四十的<br><br>n. 四十分之一    
+fiftieth, `/ˈfɪftiəθ/`<br/><br/> num. 第五十<br><br>adj. 第五十的<br><br>n. 五十分之一    
+sixtieth, `/ˈsɪkstiəθ/`<br/><br/> num. 第六十<br><br>adj. 第六十的<br><br>n. 六十分之一    
+seventieth, `/ˈsevntiəθ/`<br/><br/> num. 第七十<br><br>adj. 第七十的<br><br>n. 七十分之一    
+eightieth, `/ˈeɪtiəθ/`<br/><br/> num. 第八十<br><br>adj. 第八十的<br><br>n. 八十分之一    
+ninetieth, `/ˈnaɪntiəθ/`<br/><br/> num. 第九十<br><br>adj. 第九十的<br><br>n. 九十分之一    
+hundredth, `/ˈhʌndrədθ/`<br/><br/> num. 第一百<br><br>adj. 第一百（个）的<br><br>n. 百分之一  
+thousandth, `/ˈθaʊzəndθ/`<br/><br/> num. 第一千<br><br>adj. 第一千（个）的<br><br>n. 千分之一  
+millionth, `/ˈmɪljənθ/`<br/><br/> num. 第一百万<br><br>adj. 第一百万（个）的<br><br>n. 百万分之一 
+billionth, `/ˈbɪljənθ/`<br/><br/> num. 第十亿<br><br>adj. 第十亿（个）的<br><br>n. 十亿分之一
 cock, `/kɑːk/`<br/><br/> n. 公鸡；[俗]阴茎                             
 rooster, `/ˈruːstər/`<br/><br/> n. 公鸡                                   
 crow, `/kroʊ/`<br/><br/> n. 乌鸦；(雄鸡的)啼叫<br><br>v. (雄鸡)啼叫              
