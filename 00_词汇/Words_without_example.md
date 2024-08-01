@@ -4393,8 +4393,16 @@ Translator: ChatGPT 4 & 4o
 
 
 
+
+
+### ------ ------ ------ 笔记标记线 ------ ------ ------
+
+
+
+
 ### Added: 2024.03.30
 
+```md
 #### First Table - ~~已校对~~ - ~~已写入：GoodNotes~~
 
 Translator: ChatGPT 4 & 4o
@@ -4440,53 +4448,47 @@ Translator: ChatGPT 4 & 4o
 | jungle     | `/ˈdʒʌŋɡəl/`     | n. 丛林                |
 | adventure  | `/ədˈvɛntʃər/`   | n. 冒险                |
 | ponder     | `/ˈpɑːndər/`     | v. 沉思；考虑       |
-
-
-
-
-### ------ ------ ------ 笔记标记线 ------ ------ ------
+```
 
 
 
 
 ### Added: 2024.03.29
 
-```md
 #### First Table - 校对中 - ~~已写入：GoodNotes~~
 
 Translator: ChatGPT 4
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词              | 美式发音             | 词性 + 汉语释义             |
-|-------------------|---------------------|-----------------------|
-| tap               | `/tæp/`             | n. 龙头；轻敲<br>v. 轻敲；开发  |
-| faucet            | `/ˈfɔsɪt/`          | n. 水龙头                |
-| tangent           | `/ˈtændʒənt/`       | n. 正切（数学）；切线；突然转移话题   |
-| process           | `/ˈprɑːses/`        | n. 过程；工序<br>v. 加工；处理  |
-| embellish         | `/ɪmˈbelɪʃ/`        | v. 装饰；美化              |
-| instruction       | `/ɪnˈstrʌkʃən/`     | n. 指示；说明              |
-| fortress          | `/ˈfɔːrtrəs/`       | n. 堡垒；要塞              |
-| troop             | `/truːp/`           | n. 部队；一群<br>v. 成群结队   |
-| bloke             | `/bloʊk/`           | n. 小伙子                |
-| factorial         | `/fækˈtɔːriəl/`     | n. 阶乘                 |
-| consider          | `/kənˈsɪdər/`       | v. 考虑；认为              |
-| consideration     | `/kənˌsɪdəˈreɪʃən/` | n. 考虑；体谅              |
-| think about       | `/θɪŋk əˈbaʊt/`     | v. 考虑                 |
-| think over        | `/θɪŋk ˈoʊvər/`     | v. 仔细考虑               |
-| torture           | `/ˈtɔːrtʃər/`       | n. 拷问；折磨<br>v. 拷问；折磨  |
-| grip              | `/ɡrɪp/`            | n. 紧握；控制<br>v. 紧握；控制  |
-| gluten            | `/ˈɡlutn/`          | n. 面筋                 |
-| regain            | `/rɪˈɡeɪn/`         | v. 重新获得               |
-| gene              | `/dʒin/`            | n. 基因                 |
-| participate       | `/pɑrˈtɪsəˌpeɪt/`   | v. 参与；参加              |
-| screening         | `/ˈskrinɪŋ/`        | n. 筛查；放映              |
-| cognitive         | `/ˈkɑɡnɪtɪv/`       | adj. 认知的              |
-| enslave           | `/ɪnˈsleɪv/`        | v. 奴役                 |
-| close-at-hand     | `/kloʊs æt hænd/`   | adj. 近在手边的            |
-| intimate          | `/ˈɪntɪmət/`        | adj. 亲密的；详尽的<br>n. 密友 |
+| 单词              | 美式发音                 | 词性 + 汉语释义              |
+|-------------------|----------------------|------------------------|
+| tap               | `/tæp/`              | n. 龙头；轻敲<br>v. 轻敲；开发   |
+| faucet            | `/ˈfɔsɪt/`           | n. 水龙头                 |
+| tangent           | `/ˈtændʒənt/`        | n. 正切（数学）；切线；突然转移话题    |
+| process           | `/ˈprɑːses/`         | n. 过程；工序<br>v. 加工；处理   |
+| embellish         | `/ɪmˈbelɪʃ/`         | v. 装饰；美化               |
+| instruction       | `/ɪnˈstrʌkʃən/`      | n. 指示；说明               |
+| fortress          | `/ˈfɔːrtrəs/`        | n. 堡垒；要塞               |
+| troop             | `/truːp/`            | n. 部队；一群<br>v. 成群结队    |
+| bloke             | `/bloʊk/`            | n. 小伙子                 |
+| factorial         | `/fækˈtɔːriəl/`      | n. 阶乘                  |
+| consideration     | `/kənˌsɪdəˈreɪʃən/`  | n. 考虑；体谅               |
+| think about       | `/θɪŋk əˈbaʊt/`      | v. 考虑                  |
+| think over        | `/θɪŋk ˈoʊvər/`      | v. 仔细考虑                |
+| torture           | `/ˈtɔːrtʃər/`        | n. 拷打；折磨<br>v. 拷打；折磨   |
+| grip              | `/ɡrɪp/`             | n. 紧握；控制<br>v. 紧握；控制   |
+| gluten            | `/ˈɡluːtn/`          | n. 面筋                  |
+| regain            | `/rɪˈɡeɪn/`          | v. 重新获得；恢复             |
+| gene              | `/dʒiːn/`            | n. 基因                  |
+| participate       | `/pɑːrˈtɪsəpeɪt/`    | v. 参与；参加               |
+| screening         | `/ˈskriːnɪŋ/`        | n. 筛查；放映               |
+| cognitive         | `/ˈkɑːɡnətɪv/`       | adj. 认知的               |
+| enslave           | `/ɪnˈsleɪv/`         | v. 奴役                  |
+| close-at-hand     | `/kloʊs æt hænd/`    | adj. 近在手边的             |
+| intimate          | `/ˈɪntəmət/`         | adj. 亲密的；隐私的 <br>n. 密友 |
 
-```
+
 
 
 
