@@ -28,6 +28,39 @@ Translator: ChatGPT 4o
 
 
 
+### Add: 2024.08.02
+
+#### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词            | 美式发音                  | 词性 + 汉语释义                     |
+|-----------------|-----------------------|--------------------------------------|
+| leopard         | `/ˈlɛpərd/`           | n. 豹                               |
+| distinctive     | `/dɪˈstɪŋktɪv/`       | adj. 独特的；有特色的               |
+| rebuttal        | `/rɪˈbʌtəl/`          | n. 反驳；辩驳                       |
+| ease            | `/iːz/`               | n. 容易；舒适<br>v. 减轻；缓和      |
+| appendix        | `/əˈpɛndɪks/`         | n. 附录；阑尾                       |
+| multilingual    | `/ˌmʌltiˈlɪŋɡwəl/`    | adj. 多语言的                       |
+| multilinguality | `/ˌmʌltiˌlɪŋɡwæləti/` | n. 多语言性                        |
+| plethora        | `/ˈplɛθərə/`          | n. 过多；过剩                       |
+| composite       | `/kəmˈpɑːzɪt/`        | adj. 复合的；合成的<br>n. 合成物    |
+| composition     | `/ˌkɑːmpəˈzɪʃən/`     | n. 作文；构成                       |
+| compositional   | `/ˌkɑːmpəˈzɪʃənəl/`   | adj. 作曲的；组成的                 |
+| opt             | `/ɑpt/`               | v. 选择                             |
+| supervise       | `/ˈsuːpərˌvaɪz/`      | v. 监督                             |
+| reinforce       | `/ˌriɪnˈfɔrs/`        | v. 加强；强化                       |
+| reinforcement   | `/ˌriɪnˈfɔrsmənt/`    | n. 加强；加固                       |
+| benchmark       | `/ˈbɛnʧˌmɑrk/`        | n. 基准；标杆                       |
+| overfit         | `/ˈoʊvərˌfɪt/`        | v. 过拟合                           |
+| flagship        | `/ˈflæɡˌʃɪp/`         | n. 旗舰；最重要产品                 |
+| mistral         | `/ˈmɪstrəl/`          | n. 密史脱拉风（法国南部的寒冷干风）|
+| versus          | `/ˈvɜrsəs/`           | prep. 对抗；与...相对               |
+
+
+
 
 
 ### Add: 2024.07.31
@@ -2224,7 +2257,6 @@ Translator: ChatGPT 4o
 | frustrate   | `/ˈfrʌˌstreɪt/`    | v. 挫败；使沮丧         | The delays really frustrated her. <br>(延误让她非常沮丧。)                                                     |
 | engage      | `/ɪnˈɡeɪdʒ/`       | v. 参与；吸引；订婚       | She is engaged in a new project. <br>(她参与了一个新项目。)                                                     |
 | protein     | `/ˈproʊtin/`       | n. 蛋白质            | Chicken is a good source of protein. <br>(鸡肉是蛋白质的良好来源。)                                               |
-| species     | `/ˈspiʃiz/`        | n. 物种             | There are many species of birds in this area. <br>(这个地区有许多种类的鸟。)                                      |
 | page        | `/peɪdʒ/`          | n. 页；呼叫           | n. Please turn to page 20. <br>(请翻到第20页。)<br>v. The doctor was paged for an emergency. <br>(医生因紧急情况被呼叫。) |
 | bulge       | `/bʌldʒ/`          | v. 膨胀；凸出<br>n. 凸起 | v. His pockets were bulging with candy. <br>(他的口袋里塞满了糖果。)<br>n. There was a bulge in the carpet. <br>(地毯上有一个凸起。) |
 | badge       | `/bædʒ/`           | n. 徽章             | He wore a badge with his name on it. <br>(他戴着一个带有他名字的徽章。)                                             |
@@ -4280,6 +4312,12 @@ Translator: ChatGPT 4
 
 
 
+
+### ------ ------ ------ 笔记编辑线 ------ ------ ------
+
+
+
+
 ### Added: 2024.04.04
 
 #### First Table - ~~已校对~~ - ~~已写入：GoodNotes~~
@@ -4288,51 +4326,40 @@ Translator: ChatGPT 4
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词         | 美式发音          | 词类 + 汉语释义            | 示例                                                         |
-| ----------- | -----------------| ------------------------ | ------------------------------------------------------------ |
-| desiccate   | `/ˈdɛsɪkeɪt/     | v. 使脱水，使干燥          | The machine desiccates the fruit for storage.<br />(这台机器使水果脱水以便储存。) |
-| desiccative | `/ˈdɛsɪˌkeɪtɪv/  | adj. 使干燥的             | The desiccative agent is used in packaging to prevent moisture.<br />(这种干燥剂用于包装以防潮湿。) |
-| desiccator  | `/ˈdɛsɪkeɪtər/   | n. 干燥剂，干燥器          | The chemical samples were stored in a desiccator.<br />(化学样品被储存在干燥器中。) |
-| cult        | `/kʌlt/          | n. 邪教；狂热崇拜          | The book examines the psychology behind cult movements.<br />(这本书检视了邪教运动背后的心理学。) |
-| decimate    | `/ˈdɛsɪˌmeɪt/    | v. 大量毁灭；严重削弱       | The population was decimated by the plague.<br />(瘟疫大量毁灭了人口。) |
-| pussy       | `/ˈpʊsi/         | n. 猫咪；[俚]女性生殖器     | She has a cute little pussy cat.<br />(她有一只可爱的小猫。) |
-| delusion    | `/dɪˈluʒən/      | n. 错觉；妄想              | He is under the delusion that he is invincible.<br />(他妄想自己是不可战胜的。) |
-| delusional  | `/dɪˈluʒənəl/    | adj. 妄想的，幻觉的         | The patient has delusional thoughts about his power.<br />(这位患者对自己的力量有妄想。) |
-| sort        | `/sɔːrt/         | n. 种类；v. 分类           | n. We have all sorts of books here.<br />(我们这里有各种各样的书。)<br />v. Sort the papers by date.<br />(按日期对文件进行分类。) |
-| respite     | `/ˈrɛspɪt/       | n. 暂缓；喘息              | The vacation was a welcome respite from work.<br />(假期是从工作中得来的喘息。) |
-| catalogue   | `/ˈkætəˌlɔɡ/     | n. 目录；v. 编目录         | n. She found the book in the library catalogue.<br />(她在图书馆目录中找到了这本书。)<br />v. We need to catalogue the new arrivals.<br />(我们需要为新到的书编目录。) |
-| pasture     | `/ˈpæstʃər/      | n. 牧场；v. 放牧           | n. The cows are grazing in the pasture.<br />(奶牛正在牧场上吃草。)<br />v. They pasture their sheep on the hillside.<br />(他们在山坡上放牧羊。) |
-| cow         | `/kaʊ/           | n. 奶牛                   | The cow is grazing in the field.<br />(奶牛正在田野上吃草。) |
-| convergence | `/kənˈvɜrdʒəns/  | n. 汇聚；收敛              | The convergence of the rivers creates a powerful current.<br />(河流的汇聚形成了强大的水流。) |
-| convergent  | `/kənˈvɜrdʒənt/  | adj. 收敛的               | Convergent lines meet at a point.<br />(收敛线在一点相交。)  |
-| word        | `/wɜrd/          | n. 单词；话语              | Choose your words carefully.<br />(仔细选择你的措辞。)       |
-
-
-#### Second Table - ~~已校对~~ - ~~已写入：GoodNotes~~
-
-Translator: ChatGPT 4
-
-~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
-
-| 单词         | 美式发音          | 词类 + 汉语释义            | 示例                                                         |
-| ----------- | -----------------| ------------------------ | ------------------------------------------------------------ |
-| world       | `/wɜrld/         | n. 世界                   | He has traveled around the world.<br />(他已经环游了世界。)  |
-| dose        | `/doʊs/          | n. 剂量；v. 给...服药      | n. The doctor prescribed a dose of medicine.<br />(医生开了一剂药。)<br />v. She dosed the child with cough syrup.<br />(她给这个孩子服用了咳嗽糖浆。) |
-| impression  | `/ɪmˈprɛʃən/     | n. 印象；感觉              | His first impression of the city was positive.<br />(他对这座城市的第一印象是积极的。) |
-| serial      | `/ˈsɪriəl/       | adj. 连续的；n. 连续剧      | adj. She writes for a serial publication.<br />(她为一份连续出版物写作。)<br />n. The new serial is popular on television.<br />(新的电视连续剧很受欢迎。) |
-| tributary   | `/ˈtrɪbjʊtɛri/   | n. 支流                   | The river has several tributaries.<br />(这条河有几条支流。) |
-| semester    | `/səˈmɛstər/     | n. 学期                   | The course lasts for one semester.<br />(这门课程持续一个学期。) |
-| Ergenbright | `/ˈɜːrɡənˌbraɪt/ | n. 专有名词（人名）         | Ergenbright is likely a surname and does not have a translation. |
-| counsel     | `/ˈkaʊnsəl/      | n. 咨询，建议；v. 提供专业咨询或建议 | n. She sought counsel from her lawyer.<br />(她向律师征询了意见。)<br />v. He counseled the student on career choices.<br />(他就职业选择向学生提供了咨询。) |
-| counsellor  | `/ˈkaʊnsələr/    | n. 顾问，辅导员            | The school counsellor helps students with their problems.<br />(学校辅导员帮助学生解决问题。) |
-| counselor   | `/ˈkaʊnsələr/    | n. 顾问，辅导员（美式拼写）  | The counselor offered guidance on college applications.<br />(辅导员提供了关于大学申请的指导。) |
-| nightmare   | `/ˈnaɪtˌmɛr/     | n. 噩梦                   | She woke up from a terrible nightmare.<br />(她从一场可怕的噩梦中醒来。) |
-| Satanic     | `/səˈtænɪk/      | adj. 魔鬼的，撒旦的         | The movie features a Satanic cult.<br />(这部电影展示了一个魔鬼的邪教。) |
-| worship     | `/ˈwɜrʃɪp/       | v. 崇拜；n. 崇拜，敬仰      | v. People worship in temples, churches, and mosques.<br />(人们在寺庙、教堂和清真寺崇拜。)<br />n. His worship of money led him astray.<br />(他对金钱的崇拜使他误入歧途。) |
-| rev         | `/rɛv/           | v. 加速，提高转速          | He revved the engine before starting the race.<br />(他在赛前加速了引擎。) |
-| casual      | `/ˈkæʒuəl/       | adj. 随意的，非正式的      | He dresses in a casual style.<br />(他的着装风格很随意。)    |
-| postpone    | `/poʊstˈpoʊn/    | v. 推迟                  | The meeting was postponed until next week.<br />(会议被推迟到下周。) |
-| sadistic    | `/səˈdɪstɪk/     | adj. 虐待狂的             | He showed a sadistic pleasure in teasing others.<br />(他在折磨别人时表现出虐待狂的乐趣。) |
+| 单词         | 美式发音          | 词类 + 汉语释义            |
+| ----------- | -----------------| ------------------------ |
+| desiccate   | `/ˈdɛsɪkeɪt/     | v. 使脱水，使干燥          |
+| desiccative | `/ˈdɛsɪˌkeɪtɪv/  | adj. 使干燥的             |
+| desiccator  | `/ˈdɛsɪkeɪtər/   | n. 干燥剂，干燥器          |
+| cult        | `/kʌlt/          | n. 邪教；狂热崇拜          |
+| decimate    | `/ˈdɛsɪˌmeɪt/    | v. 大量毁灭；严重削弱       |
+| pussy       | `/ˈpʊsi/         | n. 猫咪；[俚]女性生殖器     |
+| delusion    | `/dɪˈluʒən/      | n. 错觉；妄想              |
+| delusional  | `/dɪˈluʒənəl/    | adj. 妄想的，幻觉的         |
+| sort        | `/sɔːrt/         | n. 种类；v. 分类           |
+| respite     | `/ˈrɛspɪt/       | n. 暂缓；喘息              |
+| catalogue   | `/ˈkætəˌlɔɡ/     | n. 目录；v. 编目录         |
+| pasture     | `/ˈpæstʃər/      | n. 牧场；v. 放牧           |
+| cow         | `/kaʊ/           | n. 奶牛                   |
+| convergence | `/kənˈvɜrdʒəns/  | n. 汇聚；收敛              |
+| convergent  | `/kənˈvɜrdʒənt/  | adj. 收敛的               |
+| word        | `/wɜrd/          | n. 单词；话语              |
+| world       | `/wɜrld/         | n. 世界                   |
+| dose        | `/doʊs/          | n. 剂量；v. 给...服药      |
+| serial      | `/ˈsɪriəl/       | adj. 连续的；n. 连续剧      |
+| tributary   | `/ˈtrɪbjʊtɛri/   | n. 支流                   |
+| semester    | `/səˈmɛstər/     | n. 学期                   |
+| Ergenbright | `/ˈɜːrɡənˌbraɪt/ | n. 专有名词（人名）         |
+| counsel     | `/ˈkaʊnsəl/      | n. 咨询，建议；v. 提供专业咨询或建议 |
+| counsellor  | `/ˈkaʊnsələr/    | n. 顾问，辅导员            |
+| counselor   | `/ˈkaʊnsələr/    | n. 顾问，辅导员（美式拼写）  |
+| nightmare   | `/ˈnaɪtˌmɛr/     | n. 噩梦                   |
+| Satanic     | `/səˈtænɪk/      | adj. 魔鬼的，撒旦的         |
+| worship     | `/ˈwɜrʃɪp/       | v. 崇拜；n. 崇拜，敬仰      |
+| rev         | `/rɛv/           | v. 加速，提高转速          |
+| casual      | `/ˈkæʒuəl/       | adj. 随意的，非正式的      |
+| postpone    | `/poʊstˈpoʊn/    | v. 推迟                  |
+| sadistic    | `/səˈdɪstɪk/     | adj. 虐待狂的             |
 
 单词解释：
 - **Ergenbright** 作为专有名词，通常是个人姓氏或公司名称，其准确的发音可能因地区或个人而异。不过，基于英语发音规则，我们可以做出一个近似的音标表示：`/ˈɜːrɡənˌbraɪt/`。请注意，这个发音是根据单词的拼写推测的，并可能不完全反映某个特定人或实体的实际发音。在实际应用中，最好能听到该名词的持有者或相关人士的发音。
@@ -4434,84 +4461,41 @@ Translator: ChatGPT 4 & 4o
 
 
 
-### ------ ------ ------ 笔记编辑线 ------ ------ ------
-
-
-
-
 ### Added: 2024.03.30
 
 #### First Table - 校对中 - ~~已写入：GoodNotes~~
 
-Translator: ChatGPT 4 & 4o
+Translator: ChatGPT 4o
 
-Update: 2024.08.01
+Update: 2024.08.02
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词                 | 美式发音               | 词性 + 汉语释义       |
-|--------------------|--------------------|------------------|
-| minimum            | `/ˈmɪnəməm/`       | adj. 最小的；最低的<br>n. 最小值；最低限度 |
-| cement             | `/səˈment/`        | n. 水泥<br>v. 巩固  |
-| ==sprig==          | `/sprɪɡ/`          | n. 小枝           |
-| perch              | `/pɜrtʃ/`          | n. 栖息处<br>v. 栖息，停留 |
-| estimate           | `/ˈɛstɪmət/`       | v. 估计<br>n. 估价  |
-| glamorous          | `/ˈɡlæmərəs/`      | adj. 迷人的        |
-| chaff              | `/tʃæf/`           | n. 糠            |
-| impression         | `/ɪmˈprɛʃən/`      | n. 印象           |
-| ridge              | `/rɪdʒ/`           | n. 山脊           |
-| relief             | `/rɪˈlif/`         | n. 解脱           |
-| occupation         | `/ˌɑkjəˈpeɪʃən/`   | n. 职业           |
-| holocaust          | `/ˈhɑləkɔst/`      | n. 大屠杀          |
-| semitism           | `/ˈsɛmɪˌtɪzəm/`    | n. 闪米特人的特性      |
-| summon             | `/ˈsʌmən/`         | v. 召唤           |
-| offscreen          | `/ˌɔfˈskrin/`      | adj. 幕后的        |
-| extensive          | `/ɪkˈstɛnsɪv/`     | adj. 广泛的；大量的    |
-| species            | `/ˈspiːʃiːz/`      | n. 物种           |
-| primeval           | `/praɪˈmiːvəl/`    | adj. 原始的；远古的    |
-| necktie            | `/ˈnektaɪ/`        | n. 领带           |
-| dishearten         | `/dɪsˈhɑːrtən/`    | v. 使沮丧，使气馁      |
-| disheartened       | `/dɪsˈhɑːrtənd/`   | adj. 沮丧的；气馁的    |
-| arithmetic         | `/əˈrɪθmətɪk/`     | n. 算术           |
-| devote             | `/dɪˈvoʊt/`        | v. 奉献；致力于       |
-| jungle             | `/ˈdʒʌŋɡəl/`       | n. 丛林           |
-| adventure          | `/ədˈvɛntʃər/`     | n. 冒险           |
-| ponder             | `/ˈpɑːndər/`       | v. 沉思；考虑       |
-
-
-### 最终确认版本
-
-| 单词            | 美式发音             | 词性 + 汉语释义                    |
-|-----------------|----------------------|------------------------------------|
-| minimum         | `/ˈmɪnɪməm/`         | n. 最小值；最低限度<br>adj. 最小的   |
-| cement          | `/səˈmɛnt/`          | n. 水泥；粘合剂<br>v. 巩固；粘合    |
-| sprig           | `/sprɪɡ/`            | n. 小枝；嫩枝                      |
-| perch           | `/pɜrtʃ/`            | n. 栖木；高处<br>v. 栖息；坐落      |
-| estimate        | `/ˈɛstɪˌmeɪt/`       | v. 估计；评估<br>n. 估计；估价      |
-| glamorous       | `/ˈɡlæmərəs/`        | adj. 迷人的；富有魅力的             |
-| chaff           | `/ʧæf/`              | n. 谷壳；无价值的东西               |
-| impression      | `/ɪmˈprɛʃən/`        | n. 印象；感想                      |
-| ridge           | `/rɪdʒ/`             | n. 山脊；屋脊                      |
-| relief          | `/rɪˈlif/`           | n. 救济；减轻                      |
-| occupation      | `/ˌɑkjəˈpeɪʃən/`     | n. 职业；占领                      |
-| holocaust       | `/ˈhoʊləˌkɔst/`      | n. 大屠杀；浩劫                    |
-| semitism        | `/ˈsɛməˌtɪzəm/`      | n. 犹太教义；犹太特性               |
-| summon          | `/ˈsʌmən/`           | v. 召唤；召集                      |
-| offscreen       | `/ˌɔfˈskrin/`        | adj. 屏幕外的；实际生活中的         |
-| extensive       | `/ɪkˈstɛnsɪv/`       | adj. 广泛的；大量的                |
-| species         | `/ˈspiʃiz/`          | n. 物种；种类                      |
-| primeval        | `/praɪˈmivəl/`       | adj. 原始的；远古的                |
-| necktie         | `/ˈnɛkˌtaɪ/`         | n. 领带                            |
-| dishearten      | `/dɪsˈhɑrtən/`       | v. 使沮丧                         |
-| disheartened    | `/dɪsˈhɑrtənd/`      | adj. 灰心的；沮丧的                 |
-| arithmetic      | `/əˈrɪθmətɪk/`       | n. 算术                            |
-| devote          | `/dɪˈvoʊt/`          | v. 奉献；致力于                     |
-| jungle          | `/ˈdʒʌŋɡəl/`         | n. 丛林                            |
-| adventure       | `/ædˈvɛntʃər/`       | n. 冒险；奇遇<br>v. 冒险             |
-| ponder          | `/ˈpɑndər/`          | v. 深思；考虑                      |
-
-请确认这些翻译是否符合您的需求，如有其他单词需要校对或进一步修改，请告诉我。
-
+| 单词           | 美式发音                                | 词性 + 汉语释义               |
+|--------------|-------------------------------------|-------------------------|
+| minimum      | `/ˈmɪnɪməm/`                        | n. 最小值；最低限度<br>adj. 最小的 |
+| cement       | `/səˈmɛnt/`                         | n. 水泥 <br>v. 巩固         |
+| sprig        | `/sprɪɡ/`                           | n. （带叶[花]的）小枝；嫩枝        |
+| perch        | `/pɜrtʃ/`                           | n. 栖息处；高位<br>v. 栖息；坐落   |
+| estimate     | `/ˈestəmət/` (n.)<br>`/ˈestɪmeɪt/` (v.) | n. 估计；估算<br>v. 估计；估算    |
+| glamorous    | `/ˈɡlæmərəs/`                       | adj. 迷人的，富有魅力的          |
+| chaff        | `/tʃæf/`                            | n. 糠；谷壳                 |
+| ridge        | `/rɪdʒ/`                            | n. 山脊；脊梁；屋脊             |
+| occupation   | `/ˌɑːkjuˈpeɪʃən/`                   | n. 职业；占领                |
+| holocaust    | `/ˈhɑːləkɒːst/`                     | n. 大屠杀；浩劫               |
+| semitism     | `/ˈsɛmɪˌtɪzəm/`                     | n. 犹太主义；亲犹主义            |
+| offscreen    | `/ˌɔfˈskrin/`                       | adj. 屏幕外的；幕后的           |
+| extensive    | `/ɪkˈstensɪv/`                      | adj. 广泛的；广阔的；大量的        |
+| species      | `/ˈspiːʃiːz/`                       | n. 物种                   |
+| primeval     | `/praɪˈmiːvəl/`                     | adj. 原始的；早期的            |
+| necktie      | `/ˈnektaɪ/`                         | n. 领带                   |
+| dishearten   | `/dɪsˈhɑːrtən/`                     | v. 使沮丧；使灰心              |
+| disheartened | `/dɪsˈhɑːrtənd/`                    | adj. 沮丧的；灰心的            |
+| arithmetic   | `/əˈrɪθmətɪk/` (n.)<br>`/ˌærɪθˈmɛtɪk/` (adj.) | n. 算术<br>adj. 算术的       |
+| devote       | `/dɪˈvoʊt/`                         | v. 奉献；致力于               |
+| jungle       | `/ˈdʒʌŋɡəl/`                        | n. 丛林                   |
+| adventure    | `/ədˈventʃər/`                      | n. 冒险；奇遇                |
+| ponder       | `/ˈpɑːndər/`                        | v. 沉思；考虑                |
 
 
 
