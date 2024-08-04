@@ -28,6 +28,72 @@ Translator: ChatGPT 4o
 
 
 
+### Add: 2024.08.03
+
+#### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o & Claude 3.5 sonnet
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词          | 美式发音                   | 词性 + 汉语释义            |
+|---------------|-------------------------|----------------------|
+| purify        | `/ˈpjʊrəˌfaɪ/`          | v. 净化；提纯             |
+| polyvinyl     | `/ˌpɒliˈvaɪnəl/`        | n. 聚乙烯；聚乙烯树脂         |
+| dimethicone   | `/ˌdaɪˈmɛθɪˌkoʊn/`      | n. 聚二甲基硅氧烷           |
+| glycerin      | `/ˈɡlɪsərɪn/`           | n. 甘油                |
+| phenoxyethanol| `/fɪˌnɒksiˈɛθənɒl/`     | n. 苯氧乙醇              |
+| polysorbate   | `/ˌpɒliˈsɔːrbeɪt/`      | n. 聚山梨醇酯             |
+| commence      | `/kəˈmɛns/`             | v. 开始；着手             |
+| cheque        | `/tʃɛk/`                | n. 支票                |
+| swarm         | `/swɔrm/`               | n. 群；一大群<br>v. 成群移动；蜂拥 |
+| surge         | `/sɜrdʒ/`               | n. 激增；波动<br>v. 激增；涌动 |
+| arcade        | `/ɑrˈkeɪd/`             | n. 拱廊；商业街            |
+| foundry       | `/ˈfaʊndri/`            | n. 铸造厂               |
+| infernal      | `/ɪnˈfɜrnəl/`           | adj. 地狱的；可恶的         |
+| primarily     | `/praɪˈmɛrəli/`         | adv. 主要地             |
+| exhibit       | `/ɪɡˈzɪbɪt/`            | v. 展示；表现<br>n. 展览；展品 |
+| cosy          | `/ˈkoʊzi/`              | adj. 舒适的；亲密的         |
+| rag           | `/ræɡ/`                 | n. 抹布；破布<br>v. 戏弄；嘲笑 |
+| graph         | `/ɡræf/`                | n. 图表<br>v. 用图表表示    |
+| augment       | `/ɔɡˈmɛnt/`             | v. 增强；增加             |
+| generation    | `/ˌdʒɛnəˈreɪʃən/`       | n. 一代；产生             |
+| chunk         | `/tʃʌŋk/`               | n. 大块；大量 ✅           |
+
+
+#### Second Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o & Claude 3.5 sonnet
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词       | 美式发音                   | 词性 + 汉语释义                           |
+|------------|----------------------------|-------------------------------------------|
+| immortal   | `/ɪˈmɔːrtl/`               | adj. 不朽的；永生的<br>n. 不朽的人物      |
+| heavenly   | `/ˈhevənli/`               | adj. 天上的；神圣的；极好的              |
+| glue       | `/ɡluː/`                   | n. 胶水<br>v. 粘合                        |
+| favourite  | `/ˈfeɪvərɪt/`              | adj. 最喜欢的<br>n. 特别喜欢的人或物      |
+| ridicule   | `/ˈrɪdɪkjuːl/`             | n. 嘲笑<br>v. 嘲笑                         |
+| twig       | `/twɪɡ/`                   | n. 小枝；细枝<br>v. 察觉                  |
+| parsley    | `/ˈpɑːrsli/`               | n. 欧芹                                   |
+| flake      | `/fleɪk/`                  | n. 薄片；小片<br>v. 剥落；成片状剥落      |
+| pushpin    | `/ˈpʊʃpɪn/`                | n. 图钉                                   |
+| thumbtack  | `/ˈθʌmtæk/`                | n. 图钉                                   |
+| tack       | `/tæk/`                    | n. 大头钉；行动方针<br>v. 用钉钉住        |
+| spin       | `/spɪn/`                   | v. 旋转；纺纱<br>n. 旋转                 |
+| alignment  | `/əˈlaɪnmənt/`             | n. 对齐；校准                             |
+| state      | `/steɪt/`                  | n. 状态；国家；州<br>v. 陈述              |
+| pesticide  | `/ˈpestɪsaɪd/`             | n. 杀虫剂                                 |
+| bluebell   | `/ˈbluːbel/`               | n. 蓝铃花                                 |
+| crystal    | `/ˈkrɪstl/`                | n. 水晶；晶体<br>adj. 水晶的；透明的      |
+| silence    | `/ˈsaɪləns/`               | n. 寂静；沉默<br>v. 使沉默                |
+| melancholy | `/ˈmelənkɑːli/`            | n. 忧郁；悲哀<br>adj. 忧郁的              |
+| ballerina  | `/ˌbæləˈriːnə/`            | n. 芭蕾舞女演员                           |
+
+
+
+
+
 ### Add: 2024.08.02
 
 #### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
@@ -657,48 +723,38 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词             | 美式发音                  | 词性 + 汉语释义                       |
-|-----------------|---------------------------|---------------------------------------|
-| brilliant       | `/ˈbrɪljənt/`             | adj. 杰出的；辉煌的                   |
-| mistral         | `/ˈmɪstrəl/`              | n. 密史特拉风                         |
-| Danube          | `/ˈdænjuːb/`              | n. 多瑙河                             |
-| toothpick       | `/ˈtuːθˌpɪk/`             | n. 牙签                               |
-| separator       | `/ˈsɛpəˌreɪtər/`          | n. 分离器；分隔符                     |
-| chorus          | `/ˈkɔrəs/`                | n. 合唱团；副歌<br>v. 合唱             |
-| flock           | `/flɑk/`                  | n. 群；一群人<br>v. 聚集              |
-| tarry           | `/ˈtæri/`                 | v. 逗留；耽搁                         |
-| pin             | `/pɪn/`                   | n. 大头针；别针<br>v. 别住；固定       |
-| jail            | `/dʒeɪl/`                 | n. 监狱<br>v. 监禁                    |
-| bind            | `/baɪnd/`                 | v. 捆绑；约束<br>n. 捆绑              |
-| array           | `/əˈreɪ/`                 | n. 阵列；一系列<br>v. 排列            |
-| retire          | `/rɪˈtaɪər/`              | v. 退休；退役                         |
-| retrieve        | `/rɪˈtriv/`               | v. 找回；检索<br>n. 找回；检索         |
-| semiconductor   | `/ˌsɛmɪkənˈdʌktər/`       | n. 半导体                             |
-| interfere       | `/ˌɪntərˈfɪr/`            | v. 干涉；妨碍                         |
-| regard          | `/rɪˈɡɑrd/`               | v. 看待；尊重<br>n. 关注；尊重        |
-
-
-#### Thrid Table - ~~已校对~~ - ~~已写入 GoodNotes~~
-
-Translator: ChatGPT 4o
-
-~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
-
-| 单词           | 美式发音              | 词性 + 汉语释义                       |
-|--------------|-------------------|--------------------------------------|
-| introvert    | `/ˈɪntrəˌvɜrt/`   | n. 内向的人               |
-| introvertive | `/ˌɪntrəˈvɜrtɪv/` | adj. 内向的                          |
-| intuitive    | `/ɪnˈtuɪtɪv/`     | adj. 直觉的                          |
-| intuition    | `/ˌɪntuˈɪʃən/`    | n. 直觉                              |
-| interlude    | `/ˈɪntərˌlud/`    | n. 插曲；间奏                         |
-| adrift       | `/əˈdrɪft/`       | adj. 漂浮的；无目的的                  |
-| celeste      | `/səˈlɛst/`       | n. 天青石                      |
-| rushing      | `/ˈrʌʃɪŋ/`        | n. 急流<br>v. 匆忙；急速进行           |
-| blueth       | `/bluθ/`          | n. 蓝色；蓝色的                        |
-| athlete      | `/ˈæθlit/`        | n. 运动员                             |
-| castle       | `/ˈkæsl/`         | n. 城堡                              |
-| mean         | `/miːn/`          | v. 意思是；打算<br>adj. 吝啬的；刻薄的<br>n. 平均值 |
-| means        | `/minz/`          | n. 方法；手段                         |
+| 单词             | 美式发音                | 词性 + 汉语释义                       |
+|----------------|---------------------|---------------------------------------|
+| brilliant      | `/ˈbrɪljənt/`       | adj. 杰出的；辉煌的                   |
+| mistral        | `/ˈmɪstrəl/`        | n. 密史特拉风                         |
+| Danube         | `/ˈdænjuːb/`        | n. 多瑙河                             |
+| toothpick      | `/ˈtuːθˌpɪk/`       | n. 牙签                               |
+| separator      | `/ˈsɛpəˌreɪtər/`    | n. 分离器；分隔符                     |
+| chorus         | `/ˈkɔrəs/`          | n. 合唱团；副歌<br>v. 合唱             |
+| flock          | `/flɑk/`            | n. 群；一群人<br>v. 聚集              |
+| tarry          | `/ˈtæri/`           | v. 逗留；耽搁                         |
+| pin            | `/pɪn/`             | n. 大头针；别针<br>v. 别住；固定       |
+| jail           | `/dʒeɪl/`           | n. 监狱<br>v. 监禁                    |
+| bind           | `/baɪnd/`           | v. 捆绑；约束<br>n. 捆绑              |
+| array          | `/əˈreɪ/`           | n. 阵列；一系列<br>v. 排列            |
+| retire         | `/rɪˈtaɪər/`        | v. 退休；退役                         |
+| retrieve       | `/rɪˈtriv/`         | v. 找回；检索<br>n. 找回；检索         |
+| semiconductor  | `/ˌsɛmɪkənˈdʌktər/` | n. 半导体                             |
+| interfere      | `/ˌɪntərˈfɪr/`      | v. 干涉；妨碍                         |
+| regard         | `/rɪˈɡɑrd/`         | v. 看待；尊重<br>n. 关注；尊重        |
+| introvert      | `/ˈɪntrəˌvɜrt/`     | n. 内向的人               |
+| introvertive   | `/ˌɪntrəˈvɜrtɪv/`   | adj. 内向的                          |
+| intuitive      | `/ɪnˈtuɪtɪv/`       | adj. 直觉的                          |
+| intuition      | `/ˌɪntuˈɪʃən/`      | n. 直觉                              |
+| interlude      | `/ˈɪntərˌlud/`      | n. 插曲；间奏                         |
+| adrift         | `/əˈdrɪft/`         | adj. 漂浮的；无目的的                  |
+| celeste        | `/səˈlɛst/`         | n. 天青石                      |
+| rushing        | `/ˈrʌʃɪŋ/`          | n. 急流<br>v. 匆忙；急速进行           |
+| blueth         | `/bluθ/`            | n. 蓝色；蓝色的                        |
+| athlete        | `/ˈæθliːt/`         | n. 运动员                             |
+| castle         | `/ˈkæsl/`           | n. 城堡                              |
+| mean           | `/miːn/`            | v. 意思是；打算<br>adj. 吝啬的；刻薄的<br>n. 平均值 |
+| means          | `/minz/`            | n. 方法；手段                         |
 
 
 
@@ -1587,7 +1643,6 @@ Translator: ChatGPT 4o
 | cloud         | `/klaʊd/`          | n. 云；阴影<br>v. 使模糊；遮蔽            |
 | dwindle       | `/ˈdwɪndəl/`       | v. 逐渐减少；变小                        |
 | modification  | `/ˌmɑdəfəˈkeɪʃən/` | n. 修改；改变                           |
-| accurate      | `/ˈækjərət/`       | adj. 准确的；精确的                      |
 | forum         | `/ˈfɔrəm/`         | n. 论坛；讨论会                         |
 | curtain       | `/ˈkɜrtən/`        | n. 窗帘；幕布                           |
 | gradual       | `/ˈɡrædʒuəl/`      | adj. 逐渐的；渐进的                      |
@@ -1931,7 +1986,6 @@ Translator: ChatGPT 4o
 | audible          | `/ˈɔːdəbl/`           | adj. 听得见的                      |
 | maximize         | `/ˈmæksɪˌmaɪz/`       | v. 最大化                         |
 | crisp            | `/krɪsp/`             | adj. 脆的；清新的                  |
-| generation       | `/ˌdʒɛnəˈreɪʃən/`     | n. 一代；产生                     |
 | functional       | `/ˈfʌŋkʃənl/`         | adj. 功能的；实用的                |
 | mouse            | `/maʊs/`              | n. 鼠标；老鼠                      |
 | mice             | `/maɪs/`              | n. 老鼠（复数）；鼠标（复数）       |
@@ -2868,28 +2922,28 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词            | 美式发音               | 词性 + 汉语释义                     | 示例                                                         |
-|---------------|--------------------|-------------------------------|--------------------------------------------------------------|
-| trance        | `/træns/`          | n. 出神；恍惚                      | She was in a trance during the performance. <br>(她在表演期间出神了。) |
-| nightmare     | `/ˈnaɪtmɛr/`       | n. 噩梦                         | I had a nightmare last night. <br>(我昨晚做了一个噩梦。)      |
-| dungeon       | `/ˈdʌndʒən/`       | n. 地牢                         | The prisoner was thrown into the dungeon. <br>(囚犯被扔进了地牢。) |
-| cheat         | `/tʃiːt/`          | v. 欺骗<br>n. 骗子                | v. He cheated on the exam. <br>(他考试作弊。)<br>n. He is known as a cheat. <br>(他被称为骗子。) |
-| cheater       | `/ˈtʃiːtər/`       | n. 骗子                         | He was known as a cheater in school. <br>(他在学校里是个骗子。) |
-| texture       | `/ˈtɛkstʃər/`      | n. 质地；纹理                      | The texture of the fabric is soft. <br>(这块布的质地很柔软。)  |
+| 单词            | 美式发音               | 词性 + 汉语释义               | 示例                                                         |
+|---------------|--------------------|-------------------------|--------------------------------------------------------------|
+| trance        | `/træns/`          | n. 出神；恍惚                | She was in a trance during the performance. <br>(她在表演期间出神了。) |
+| nightmare     | `/ˈnaɪtmɛr/`       | n. 噩梦                   | I had a nightmare last night. <br>(我昨晚做了一个噩梦。)      |
+| dungeon       | `/ˈdʌndʒən/`       | n. 地牢                   | The prisoner was thrown into the dungeon. <br>(囚犯被扔进了地牢。) |
+| cheat         | `/tʃiːt/`          | v. 欺骗<br>n. 骗子          | v. He cheated on the exam. <br>(他考试作弊。)<br>n. He is known as a cheat. <br>(他被称为骗子。) |
+| cheater       | `/ˈtʃiːtər/`       | n. 骗子                   | He was known as a cheater in school. <br>(他在学校里是个骗子。) |
+| texture       | `/ˈtɛkstʃər/`      | n. 质地；纹理                | The texture of the fabric is soft. <br>(这块布的质地很柔软。)  |
 | trim          | `/trɪm/`           | v. 修剪；削减<br>adj. 整齐的<br>n. 修剪 | v. She trimmed the hedges. <br>(她修剪了树篱。)<br>adj. He has a trim figure. <br>(他身材整齐。)<br>n. The trim needs some paint. <br>(装饰线条需要涂些油漆。) |
-| course        | `/kɔːrs/`          | n. 课程；过程<br>v. 流动             | n. He is taking a French course. <br>(他在上法语课。)<br>n. **Over the course of** the next few years, the steel industry was reorganized.<br />在接下来的几年里﹐钢铁工业进行了重组。<br />v. Tears coursed down her cheeks. <br>(眼泪顺着她的脸颊流下来。) |
-| hold          | `/hoʊld/`          | v. 持有；握住<br>n. 抓住；控制          | v. Can you hold this for me? <br>(你能帮我拿一下这个吗？)<br>n. He has a strong hold on the situation. <br>(他对局势有很强的控制力。) |
-| dignity       | `/ˈdɪɡnəti/`       | n. 尊严                         | She faced the crisis with dignity. <br>(她以尊严面对危机。)    |
-| fantastic     | `/fænˈtæstɪk/`     | adj. 极好的；奇异的                  | The view from the top is fantastic. <br>(从顶上看下去的景色极好。) |
-| asylum        | `/əˈsaɪləm/`       | n. 庇护；精神病院                    | He sought asylum in the embassy. <br>(他在大使馆寻求庇护。)    |
-| thesis        | `/ˈθiːsɪs/`        | n. 论文；论点                      | She is writing her master's thesis. <br>(她在写硕士论文。)    |
-| paranoid      | `/ˈpɛrənɔɪd/`      | adj. 偏执的；多疑的                  | He is paranoid about people watching him. <br>(他多疑地认为别人都在看着他。) |
-| schizophrenic | `/ˌskɪtsəˈfrɛnɪk/` | adj. 精神分裂症的<br>n. 精神分裂症患者     | adj. He has schizophrenic tendencies. <br>(他有精神分裂症倾向。)<br>n. The schizophrenic is receiving treatment. <br>(这位精神分裂症患者正在接受治疗。) |
-| outta         | `/ˈaʊtə/`          | 缩略语. 出自（out of 的非正式用法）        | I'm outta here. <br>(我要走了。)                              |
-| fellow        | `/ˈfɛloʊ/`         | n. 同事；家伙                      | research fellow: 研究员，研究人员<br/>young fellow: 小伙子<br/>little fellow: 小家伙，小鬼<br/>fellow countrymen: 同胞<br />He is a good fellow. <br>(他是个好人。) |
-| jam           | `/dʒæm/`           | n. 果酱；拥堵<br>v. 塞满；卡住          | n. starwberry jam. 草莓酱。<br />n. a jam sanwich. 果酱三明治。<br />n. She spread strawberry jam on her toast. <br>(她在烤面包上涂了草莓果酱。)<br>n. We were stuck in a traffic jam. <br>(我们被堵在交通拥挤中。)<br>v. He jammed his clothes into the suitcase. <br/>(他把衣服塞进了行李箱。)<br />v. The printer jammed again. <br>(打印机又卡住了。) |
-| jar           | `/dʒɑːr/`          | n. 罐；广口瓶<br>v. 震动             | a jam jar. 果酱罐。<br />a large storage jar. 一个大储物罐。<br />n. half a jar of peanut butter. <br />半瓶花生酱。<br />n. She put the cookies in a jar. <br>(她把饼干放在罐子里。)<br>v. The loud noise jarred me awake. <br>(巨大的噪音把我震醒了。) |
-| jug           | `/dʒʌɡ/`           | n. 壶；罐                        | a milk jug. 牛奶罐。<br />a jug of water. 一壶水<br />He poured water from the jug. <br>(他从壶里倒水。) |
+| course        | `/kɔrs/`           | n. 课程；过程；航线；一道菜<br>v. 流动 | n. She is taking a French course this semester. <br>(她这个学期在修法语课。)<br>n. The course of events changed rapidly. <br>(事件的发展过程变化迅速。)<br>n. The ship's course was altered due to the storm. <br>(由于风暴，船只的航线被改变了。)<br>n. The main course was delicious. <br>(主菜非常美味。)<br>v. Tears coursed down her cheeks. <br>(泪水顺着她的脸颊流下来。) |
+| hold          | `/hoʊld/`          | v. 持有；握住<br>n. 抓住；控制    | v. Can you hold this for me? <br>(你能帮我拿一下这个吗？)<br>n. He has a strong hold on the situation. <br>(他对局势有很强的控制力。) |
+| dignity       | `/ˈdɪɡnəti/`       | n. 尊严                   | She faced the crisis with dignity. <br>(她以尊严面对危机。)    |
+| fantastic     | `/fænˈtæstɪk/`     | adj. 极好的；奇异的            | The view from the top is fantastic. <br>(从顶上看下去的景色极好。) |
+| asylum        | `/əˈsaɪləm/`       | n. 庇护；精神病院              | He sought asylum in the embassy. <br>(他在大使馆寻求庇护。)    |
+| thesis        | `/ˈθiːsɪs/`        | n. 论文；论点                | She is writing her master's thesis. <br>(她在写硕士论文。)    |
+| paranoid      | `/ˈpɛrənɔɪd/`      | adj. 偏执的；多疑的            | He is paranoid about people watching him. <br>(他多疑地认为别人都在看着他。) |
+| schizophrenic | `/ˌskɪtsəˈfrɛnɪk/` | adj. 精神分裂症的<br>n. 精神分裂症患者 | adj. He has schizophrenic tendencies. <br>(他有精神分裂症倾向。)<br>n. The schizophrenic is receiving treatment. <br>(这位精神分裂症患者正在接受治疗。) |
+| outta         | `/ˈaʊtə/`          | 缩略语. 出自（out of 的非正式用法）  | I'm outta here. <br>(我要走了。)                              |
+| fellow        | `/ˈfɛloʊ/`         | n. 同事；家伙                | research fellow: 研究员，研究人员<br/>young fellow: 小伙子<br/>little fellow: 小家伙，小鬼<br/>fellow countrymen: 同胞<br />He is a good fellow. <br>(他是个好人。) |
+| jam           | `/dʒæm/`           | n. 果酱；拥堵<br>v. 塞满；卡住    | n. starwberry jam. 草莓酱。<br />n. a jam sanwich. 果酱三明治。<br />n. She spread strawberry jam on her toast. <br>(她在烤面包上涂了草莓果酱。)<br>n. We were stuck in a traffic jam. <br>(我们被堵在交通拥挤中。)<br>v. He jammed his clothes into the suitcase. <br/>(他把衣服塞进了行李箱。)<br />v. The printer jammed again. <br>(打印机又卡住了。) |
+| jar           | `/dʒɑːr/`          | n. 罐；广口瓶<br>v. 震动       | a jam jar. 果酱罐。<br />a large storage jar. 一个大储物罐。<br />n. half a jar of peanut butter. <br />半瓶花生酱。<br />n. She put the cookies in a jar. <br>(她把饼干放在罐子里。)<br>v. The loud noise jarred me awake. <br>(巨大的噪音把我震醒了。) |
+| jug           | `/dʒʌɡ/`           | n. 壶；罐                  | a milk jug. 牛奶罐。<br />a jug of water. 一壶水<br />He poured water from the jug. <br>(他从壶里倒水。) |
 
 
 #### Fourth Table - 已校对 - ~~已写入 GoodNotes~~
@@ -3239,7 +3293,6 @@ Translator: ChatGPT 4 + 4o
 
 | 单词            | 美式发音            | 词类 + 汉语释义          | 示例                                                         |
 | -------------- | ------------------ | --------------------- | ------------------------------------------------------------ |
-| word           | `/wɜrd/`           | n. 单词                | Choose your words carefully. <br>(仔细选择你的用词。)        |
 | hint           | `/hɪnt/`           | n. 暗示；提示<br>v. 暗示 | n. He gave me a hint about his plans. <br>(他给了我一些关于他计划的暗示。)<br>v. She hinted that she might leave. <br>(她暗示她可能会离开。) |
 | lush           | `/lʌʃ/`            | adj. 茂盛的             | The garden was lush and green. <br>(花园郁郁葱葱。)           |
 | greenery       | `/ˈɡriːnəri/`      | n. 绿色植物             | The room was decorated with fresh greenery. <br>(房间里装饰着新鲜的绿色植物。)<br />The rich greenery of grass and trees.<br />(草木茂盛的绿色植物) |
@@ -4133,8 +4186,7 @@ Translator: ChatGPT 4
 | graduation     | `/ˌɡrædʒuˈeɪʃən/`    | n. 毕业               | The graduation ceremony will take place in June.<br />(毕业典礼将于六月举行。)<br />The graduation ceremony is next month.<br />(毕业典礼是下个月。) |
 | postgraduate   | `/ˌpoʊstˈɡrædʒuət/`  | adj. 研究生的；<br />n. 研究生 | adj. He is studying for his postgraduate degree.<br />(他正在攻读他的研究生学位。)<br />n. He is a postgraduate studying economics.<br />(他是一名研究经济学的研究生。) |
 | treaty         | `/ˈtriːti/`          | n. 条约               | The two countries signed a peace treaty.<br />(这两个国家签署了一项和平条约。)<br />They signed a treaty to end the conflict.<br />(他们签署了一项条约以结束冲突。) |
-| rag            | `/ræɡ/`              | n. 抹布               | She used a rag to clean the window.<br />(她用一块抹布/破布清洁窗户。)<br />He used a rag to clean the spill.<br />(他用一块破布清理溢出的液体。) |
-| hug            | `/hʌɡ/`              | v. 拥抱               | They hugged each other tightly.<br />(他们紧紧地拥抱了对方。)<br />They hugged each other in farewell.<br />(他们在告别时拥抱了对方。) |
+| hug            | `/hʌɡ/`        retrieval      | v. 拥抱               | They hugged each other tightly.<br />(他们紧紧地拥抱了对方。)<br />They hugged each other in farewell.<br />(他们在告别时拥抱了对方。) |
 | infrastructure | `/ˈɪnfrəˌstrʌktʃər/` | n. 基础设施             | The storm caused severe damage to the city's infrastructure.<br />(暴风雨对城市的基础设施造成了严重破坏。)<br />The earthquake damaged the city's infrastructure.<br />(地震损坏了城市的基础设施。) |
 | coefficient    | `/ˌkoʊɪˈfɪʃənt/`     | n. 系数               | The coefficient of friction determines how easily one object slides over another.<br />(摩擦系数决定了一个物体在另一个物体上滑动的难易程度。) |
 | parlance       | `/ˈpɑːrləns/`        | n. 说法；(习惯)用语        | In legal parlance, that term has a specific meaning.<br />(在法律术语中，那个词有特定的含义。)<br />In medical parlance, the condition is known as hypotension.<br />(在医学术语中，这种情况被称为低血压。) |
@@ -4312,7 +4364,6 @@ Translator: ChatGPT 4
 
 
 
-
 ### ------ ------ ------ 笔记编辑线 ------ ------ ------
 
 
@@ -4320,49 +4371,47 @@ Translator: ChatGPT 4
 
 ### Added: 2024.04.04
 
-#### First Table - ~~已校对~~ - ~~已写入：GoodNotes~~
+#### First Table - 校对中 - ~~已写入：GoodNotes~~
 
-Translator: ChatGPT 4
+Translator: ChatGPT 4o & Claude 3.5 sonnet （注：claude 主要是纠正 gpt 4o 翻译后的音标错误）
+
+Edit: 2024.08.02、03
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词         | 美式发音          | 词类 + 汉语释义            |
-| ----------- | -----------------| ------------------------ |
-| desiccate   | `/ˈdɛsɪkeɪt/     | v. 使脱水，使干燥          |
-| desiccative | `/ˈdɛsɪˌkeɪtɪv/  | adj. 使干燥的             |
-| desiccator  | `/ˈdɛsɪkeɪtər/   | n. 干燥剂，干燥器          |
-| cult        | `/kʌlt/          | n. 邪教；狂热崇拜          |
-| decimate    | `/ˈdɛsɪˌmeɪt/    | v. 大量毁灭；严重削弱       |
-| pussy       | `/ˈpʊsi/         | n. 猫咪；[俚]女性生殖器     |
-| delusion    | `/dɪˈluʒən/      | n. 错觉；妄想              |
-| delusional  | `/dɪˈluʒənəl/    | adj. 妄想的，幻觉的         |
-| sort        | `/sɔːrt/         | n. 种类；v. 分类           |
-| respite     | `/ˈrɛspɪt/       | n. 暂缓；喘息              |
-| catalogue   | `/ˈkætəˌlɔɡ/     | n. 目录；v. 编目录         |
-| pasture     | `/ˈpæstʃər/      | n. 牧场；v. 放牧           |
-| cow         | `/kaʊ/           | n. 奶牛                   |
-| convergence | `/kənˈvɜrdʒəns/  | n. 汇聚；收敛              |
-| convergent  | `/kənˈvɜrdʒənt/  | adj. 收敛的               |
-| word        | `/wɜrd/          | n. 单词；话语              |
-| world       | `/wɜrld/         | n. 世界                   |
-| dose        | `/doʊs/          | n. 剂量；v. 给...服药      |
-| serial      | `/ˈsɪriəl/       | adj. 连续的；n. 连续剧      |
-| tributary   | `/ˈtrɪbjʊtɛri/   | n. 支流                   |
-| semester    | `/səˈmɛstər/     | n. 学期                   |
-| Ergenbright | `/ˈɜːrɡənˌbraɪt/ | n. 专有名词（人名）         |
-| counsel     | `/ˈkaʊnsəl/      | n. 咨询，建议；v. 提供专业咨询或建议 |
-| counsellor  | `/ˈkaʊnsələr/    | n. 顾问，辅导员            |
-| counselor   | `/ˈkaʊnsələr/    | n. 顾问，辅导员（美式拼写）  |
-| nightmare   | `/ˈnaɪtˌmɛr/     | n. 噩梦                   |
-| Satanic     | `/səˈtænɪk/      | adj. 魔鬼的，撒旦的         |
-| worship     | `/ˈwɜrʃɪp/       | v. 崇拜；n. 崇拜，敬仰      |
-| rev         | `/rɛv/           | v. 加速，提高转速          |
-| casual      | `/ˈkæʒuəl/       | adj. 随意的，非正式的      |
-| postpone    | `/poʊstˈpoʊn/    | v. 推迟                  |
-| sadistic    | `/səˈdɪstɪk/     | adj. 虐待狂的             |
-
-单词解释：
-- **Ergenbright** 作为专有名词，通常是个人姓氏或公司名称，其准确的发音可能因地区或个人而异。不过，基于英语发音规则，我们可以做出一个近似的音标表示：`/ˈɜːrɡənˌbraɪt/`。请注意，这个发音是根据单词的拼写推测的，并可能不完全反映某个特定人或实体的实际发音。在实际应用中，最好能听到该名词的持有者或相关人士的发音。
+| 单词          | 美式发音                | 词性 + 汉语释义              |
+|---------------|---------------------|------------------------|
+| desiccate     | `/ˈdesɪˌkeɪt/`      | v. 使干燥；使脱水             |
+| desiccative   | `/ˈdesɪˌkeɪtɪv/`    | adj. 干燥的；脱水的           |
+| desiccator    | `/ˈdesɪˌkeɪtər/`    | n. 干燥器                 |
+| cult          | `/kʌlt/`            | n. 邪教；狂热崇拜       |
+| decimate      | `/ˈdesəmeɪt/`       | v. 大量毁灭；使人口骤减          |
+| pussy         | `/ˈpʊsi/`           | n. 猫咪（非正式用语）；阴部（粗俗用语）  |
+| delusion      | `/dɪˈluːʒən/`       | n. 幻觉；错觉；妄想            |
+| delusional    | `/dɪˈluːʒənəl/`     | adj. 幻觉的；妄想的           |
+| sort          | `/sɔːrt/`           | n. 种类；类别<br>v. 分类      |
+| respite       | `/ˈrespɪt/`         | n. 喘息；暂缓               |
+| catalogue     | `/ˈkætəlɔːɡ/`       | n. 目录<br>v. 编入目录       |
+| pasture       | `/ˈpæstʃər/`        | n. 牧场；草地<br>v. 放牧      |
+| cow           | `/kaʊ/`             | n. 母牛<br>v. 恐吓         |
+| convergence   | `/kənˈvɜːrdʒəns/`   | n. 汇聚；会合               |
+| convergent    | `/kənˈvɜːrdʒənt/`   | adj. 汇聚的；趋同的           |
+| world         | `/wɜːrld/`          | n. 世界；地球               |
+| dose          | `/doʊs/`            | n. 剂量<br>v. 给药；服药      |
+| serial        | `/ˈsɪriəl/`         | n. 连载小说；连续剧<br>adj. 连续的 |
+| tributary     | `/ˈtrɪbjəteri/`     | n. 支流<br>adj. 纳贡的；附属的  |
+| semester      | `/səˈmestər/`       | n. 学期                  |
+| Ergenbright   | `/ˈɜːrdʒənbraɪt/`   | n. 人名（埃根布赖特）           |
+| counsel       | `/ˈkaʊnsəl/`        | n. 律师；建议<br>v. 劝告      |
+| counsellor    | `/ˈkaʊnsələr/`      | n. 顾问；辅导员              |
+| counselor     | `/ˈkaʊnsələr/`      | n. 顾问；辅导员              |
+| nightmare     | `/ˈnaɪtmer/`        | n. 噩梦；梦魇               |
+| Satanic       | `/səˈtænɪk/`        | adj. 撒旦的；恶魔的           |
+| worship       | `/ˈwɜːrʃɪp/`        | n. 崇拜<br>v. 崇拜         |
+| rev           | `/rev/`             | n. 一转<br>v. 旋转         |
+| casual        | `/ˈkæʒuəl/`         | adj. 随意的；偶然的           |
+| postpone      | `/poʊˈspoʊn/`       | v. 推迟；延期               |
+| sadistic      | `/səˈdɪstɪk/`       | adj. 施虐的；虐待狂的          |
 
 
 
@@ -4463,7 +4512,7 @@ Translator: ChatGPT 4 & 4o
 
 ### Added: 2024.03.30
 
-#### First Table - 校对中 - ~~已写入：GoodNotes~~
+#### First Table - 已校对 - ~~已写入：GoodNotes~~
 
 Translator: ChatGPT 4o
 
@@ -4496,7 +4545,6 @@ Update: 2024.08.02
 | jungle       | `/ˈdʒʌŋɡəl/`                        | n. 丛林                   |
 | adventure    | `/ədˈventʃər/`                      | n. 冒险；奇遇                |
 | ponder       | `/ˈpɑːndər/`                        | v. 沉思；考虑                |
-
 
 
 

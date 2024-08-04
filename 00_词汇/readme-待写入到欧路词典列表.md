@@ -2,6 +2,34 @@
 **重要提示：编辑当前文件最好在 VSCode 中编辑，IDEA 中编辑格式不友好，无法发现编辑错误**
 
 
+
+| 单词           | 美式发音                                | 词性 + 汉语释义               |
+|--------------|-------------------------------------|-------------------------|
+| minimum      | `/ˈmɪnɪməm/`                        | n. 最小值；最低限度<br>adj. 最小的 |
+| cement       | `/səˈmɛnt/`                         | n. 水泥 <br>v. 巩固         |
+| sprig        | `/sprɪɡ/`                           | n. （带叶[花]的）小枝；嫩枝        |
+| perch        | `/pɜrtʃ/`                           | n. 栖息处；高位<br>v. 栖息；坐落   |
+| estimate     | `/ˈestəmət/` (n.)<br>`/ˈestɪmeɪt/` (v.) | n. 估计；估算<br>v. 估计；估算    |
+| glamorous    | `/ˈɡlæmərəs/`                       | adj. 迷人的，富有魅力的          |
+| chaff        | `/tʃæf/`                            | n. 糠；谷壳                 |
+| ridge        | `/rɪdʒ/`                            | n. 山脊；脊梁；屋脊             |
+| occupation   | `/ˌɑːkjuˈpeɪʃən/`                   | n. 职业；占领                |
+| holocaust    | `/ˈhɑːləkɒːst/`                     | n. 大屠杀；浩劫               |
+| semitism     | `/ˈsɛmɪˌtɪzəm/`                     | n. 犹太主义；亲犹主义            |
+| offscreen    | `/ˌɔfˈskrin/`                       | adj. 屏幕外的；幕后的           |
+| extensive    | `/ɪkˈstensɪv/`                      | adj. 广泛的；广阔的；大量的        |
+| species      | `/ˈspiːʃiːz/`                       | n. 物种                   |
+| primeval     | `/praɪˈmiːvəl/`                     | adj. 原始的；早期的            |
+| necktie      | `/ˈnektaɪ/`                         | n. 领带                   |
+| dishearten   | `/dɪsˈhɑːrtən/`                     | v. 使沮丧；使灰心              |
+| disheartened | `/dɪsˈhɑːrtənd/`                    | adj. 沮丧的；灰心的            |
+| arithmetic   | `/əˈrɪθmətɪk/` (n.)<br>`/ˌærɪθˈmɛtɪk/` (adj.) | n. 算术<br>adj. 算术的       |
+| devote       | `/dɪˈvoʊt/`                         | v. 奉献；致力于               |
+| jungle       | `/ˈdʒʌŋɡəl/`                        | n. 丛林                   |
+| adventure    | `/ədˈventʃər/`                      | n. 冒险；奇遇                |
+| ponder       | `/ˈpɑːndər/`                        | v. 沉思；考虑                |
+
+
 | 单词              | 美式发音                 | 词性 + 汉语释义           |
 |-------------------|----------------------|---------------------|
 | tap               | `/tæp/`              | n. 龙头；轻敲<br>v. 轻敲；开发 |
@@ -28,6 +56,12 @@
 | enslave           | `/ɪnˈsleɪv/`         | v. 奴役               |
 | close-at-hand     | `/kloʊs æt hænd/`    | adj. 近在手边的          |
 | intimate          | `/ˈɪntəmət/`         |	adj. 亲密的；隐私的 <br>n. 密友 |
+
+
+
+
+
+
 
 
 
