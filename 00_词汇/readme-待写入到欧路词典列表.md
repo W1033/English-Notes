@@ -3,59 +3,70 @@
 
 
 
-| 单词           | 美式发音                                | 词性 + 汉语释义               |
-|--------------|-------------------------------------|-------------------------|
-| minimum      | `/ˈmɪnɪməm/`                        | n. 最小值；最低限度<br>adj. 最小的 |
-| cement       | `/səˈmɛnt/`                         | n. 水泥 <br>v. 巩固         |
-| sprig        | `/sprɪɡ/`                           | n. （带叶[花]的）小枝；嫩枝        |
-| perch        | `/pɜrtʃ/`                           | n. 栖息处；高位<br>v. 栖息；坐落   |
-| estimate     | `/ˈestəmət/` (n.)<br>`/ˈestɪmeɪt/` (v.) | n. 估计；估算<br>v. 估计；估算    |
-| glamorous    | `/ˈɡlæmərəs/`                       | adj. 迷人的，富有魅力的          |
-| chaff        | `/tʃæf/`                            | n. 糠；谷壳                 |
-| ridge        | `/rɪdʒ/`                            | n. 山脊；脊梁；屋脊             |
-| occupation   | `/ˌɑːkjuˈpeɪʃən/`                   | n. 职业；占领                |
-| holocaust    | `/ˈhɑːləkɒːst/`                     | n. 大屠杀；浩劫               |
-| semitism     | `/ˈsɛmɪˌtɪzəm/`                     | n. 犹太主义；亲犹主义            |
-| offscreen    | `/ˌɔfˈskrin/`                       | adj. 屏幕外的；幕后的           |
-| extensive    | `/ɪkˈstensɪv/`                      | adj. 广泛的；广阔的；大量的        |
-| species      | `/ˈspiːʃiːz/`                       | n. 物种                   |
-| primeval     | `/praɪˈmiːvəl/`                     | adj. 原始的；早期的            |
-| necktie      | `/ˈnektaɪ/`                         | n. 领带                   |
-| dishearten   | `/dɪsˈhɑːrtən/`                     | v. 使沮丧；使灰心              |
-| disheartened | `/dɪsˈhɑːrtənd/`                    | adj. 沮丧的；灰心的            |
-| arithmetic   | `/əˈrɪθmətɪk/` (n.)<br>`/ˌærɪθˈmɛtɪk/` (adj.) | n. 算术<br>adj. 算术的       |
-| devote       | `/dɪˈvoʊt/`                         | v. 奉献；致力于               |
-| jungle       | `/ˈdʒʌŋɡəl/`                        | n. 丛林                   |
-| adventure    | `/ədˈventʃər/`                      | n. 冒险；奇遇                |
-| ponder       | `/ˈpɑːndər/`                        | v. 沉思；考虑                |
+
+| 单词             | 美式发音                   | 词类 + 汉语释义            |
+|----------------|------------------------|----------------------|
+| tough          | `/tʌf/`                | adj. 坚韧的；强硬的；困难的；    |
+| cater          | `/ˈkeɪtər/`            | v. 提供饮食服务；迎合         |
+| catering       | `/ˈkeɪtərɪŋ/`          | n. 餐饮服务              |
+| graduation     | `/ˌɡrædʒuˈeɪʃən/`      | n. 毕业                |
+| postgraduate   | `/ˌpoʊstˈɡrædʒuət/`    | n. 研究生 <br>adj. 研究生的 |
+| treaty         | `/ˈtriːti/`            | n. 条约                |
+| hug            | `/hʌɡ/`                | v. 拥抱 <br>n. 拥抱      |
+| infrastructure | `/ˈɪnfrəˌstrʌktʃər/`   | n. 基础设施              |
+| coefficient    | `/ˌkoʊəˈfɪʃənt/`       | n. 系数                |
+| parlance       | `/ˈpɑːrləns/`          | n. 说法；(习惯)用语         |
+| plan           | `/plæn/`               | n. 计划；<br />v. 规划    |
+| plane          | `/pleɪn/`              | n. 飞机；平面<br/>adj. 平坦的<br/>v. 刨平 |
+| daffy          | `/ˈdæfi/`              | adj. 愚蠢的             |
+| fell           | `/fɛl/`                | v. 砍伐；击倒；fall 的过去式 <br>adj. 凶猛的 |
+| shipwreck      | `/ˈʃɪprɛk/`            | n. 船难                |
+| mendicant      | `/ˈmendəkənt/`         | n. 乞丐                |
+| isometry       | `/aɪˈsɑmətri/`         | n. 等距；等高             |
+| diversity      | `/daɪˈvɜːrsəti/`       | n. 多样性               |
+
+| 单词           | 美式发音                    | 词性 + 汉语释义         |
+|----------------|-------------------------|-------------------|
+| limitation     | `/ˌlɪmɪˈteɪʃən/`        | n. 限制；局限          |
+| furnish        | `/ˈfɜːrnɪʃ/`            | v. 提供；布置家具        |
+| interstitial   | `/ˌɪntərˈstɪʃəl/`       | adj. 间质的；空隙的      |
+| pneumonia      | `/nuˈmoʊniə/`           | n. 肺炎             |
+| cerebral       | `/səˈriːbrəl/`          | adj. 大脑的；理智的      |
+| ependymitis    | `/ˌepənˌdɪˈmaɪtɪs/`     | n. 脑室管膜炎          |
+| vascular       | `/ˈvæskjələr/`          | adj. 血管的          |
+| infiltration   | `/ˌɪnfɪlˈtreɪʃən/`      | n. 渗透；浸润          |
+| hemodialysis   | `/hɪˈmoʊdaɪ'ælɪsɪs/`    | n. 血液透析           |
+| lysis          | `/ˈlaɪsɪs/`             | n. 溶解；分解          |
+| peritoneal     | `/ˌperɪtəˈniːəl/`       | adj. 腹膜的          |
+| dialysis       | `/daɪˈæləsɪs/`          | n. 透析             |
+| uremia         | `/jʊˈriːmiə/`           | n. 尿毒症            |
+| babysitter     | `/ˈbeɪbiˌsɪtər/`        | n. 临时保姆           |
+| note           | `/noʊt/`                | n. 笔记；便签；注释 <br>v. 注意；记录 |
+| interviewer    | `/ˈɪntərvjuːər/`        | n. 面试官            |
+| portfolio      | `/pɔːrtˈfoʊlioʊ/`       | n. 作品集；投资组合       |
+| immediate      | `/ɪˈmiːdiət/`           | adj. 立即的；直接的      |
+| highest        | `/ˈhaɪɪst/`             | adj. 最高的          |
+| asphyxia       | `/æsˈfɪksiə/`           | n. 窒息             |
+| neonatorum     | `/ˌniːoʊnəˈtɔːrəm/`     | n. (用于医学术语) 新生儿的  |
+| occurrence     | `/əˈkɜːrəns/`           | n. 发生；事件          |
+| radius         | `/ˈreɪdiəs/`            | n. 半径             |
 
 
-| 单词              | 美式发音                 | 词性 + 汉语释义           |
-|-------------------|----------------------|---------------------|
-| tap               | `/tæp/`              | n. 龙头；轻敲<br>v. 轻敲；开发 |
-| faucet            | `/ˈfɔsɪt/`           | n. 水龙头              |
-| tangent           | `/ˈtændʒənt/`        | n. 正切（数学）；切线；突然转移话题 |
-| process           | `/ˈprɑːses/`         | n. 过程；工序<br>v. 加工；处理 |
-| embellish         | `/ɪmˈbelɪʃ/`         | v. 装饰；美化            |
-| instruction       | `/ɪnˈstrʌkʃən/`      | n. 指示；说明            |
-| fortress          | `/ˈfɔːrtrəs/`        | n. 堡垒；要塞            |
-| troop             | `/truːp/`            | n. 部队；一群<br>v. 成群结队 |
-| bloke             | `/bloʊk/`            | n. 小伙子              |
-| factorial         | `/fækˈtɔːriəl/`      | n. 阶乘               |
-| consideration     | `/kənˌsɪdəˈreɪʃən/`  | n. 考虑；体谅            |
-| think about       | `/θɪŋk əˈbaʊt/`      | v. 考虑               |
-| think over        | `/θɪŋk ˈoʊvər/`      | v. 仔细考虑             |
-| torture           | `/ˈtɔːrtʃər/`        | n. 拷打；折磨<br>v. 拷打；折磨 |
-| grip              | `/ɡrɪp/`             | n. 紧握；控制<br>v. 紧握；控制 |
-| gluten            | `/ˈɡluːtn/`          | n. 面筋               |
-| regain            | `/rɪˈɡeɪn/`          | v. 重新获得；恢复          |
-| gene              | `/dʒiːn/`            | n. 基因               |
-| participate       | `/pɑːrˈtɪsəpeɪt/`    | v. 参与；参加            |
-| screening         | `/ˈskriːnɪŋ/`        | n. 筛查；放映            |
-| cognitive         | `/ˈkɑːɡnətɪv/`       | adj. 认知的            |
-| enslave           | `/ɪnˈsleɪv/`         | v. 奴役               |
-| close-at-hand     | `/kloʊs æt hænd/`    | adj. 近在手边的          |
-| intimate          | `/ˈɪntəmət/`         |	adj. 亲密的；隐私的 <br>n. 密友 |
+| 单词           | 美式发音             | 词类 + 汉语释义               |
+|-------------- |------------------|-------------------------|
+| blind         | `/blaɪnd/`       | adj. 瞎的；<br />n. 百叶窗    |
+| draw          | `/drɔː/`         | v. 画；拉；吸引<br/>n. 抽签；平局  |
+| urgent        | `/ˈɜrdʒənt/      | adj. 紧急的                |
+| variety       | `/vəˈraɪəti/     | n. 多样性；种类               |
+| comment       | `/ˈkɑːmɛnt/`     | n. 评论；意见；<br />v. 评论；发表意见 |
+| collision     | `/kəˈlɪʒən/      | n. 碰撞                   |
+| existential   | `/ˌɛɡzɪˈstɛnʃəl/ | adj. 存在主义的；存在的          |
+| route         | `/ruːt/`         | n. 路线                   |
+| euphony       | `/ˈjuːfəni/      | n. 悦耳的声音                |
+| boa           | `/ˈboʊə/         | n. 蟒蛇；女用长围巾             |
+| constrictor   | `/kənˈstrɪktər/  | n. 大蟒；括约肌               |
+| essential     | `/ɪˈsɛnʃəl/      | adj. 必要的；本质的 <br>n. 必需品 |
+| volcano       | `/vɒlˈkeɪnoʊ/    | n. 火山                   |
 
 
 
@@ -65,6 +76,94 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+desiccate, `/ˈdesɪˌkeɪt/`<br/><br/> v. 使干燥；使脱水        
+desiccative, `/ˈdesɪˌkeɪtɪv/`<br/><br/> adj. 干燥的；脱水的      
+desiccator, `/ˈdesɪˌkeɪtər/`<br/><br/> n. 干燥器            
+cult, `/kʌlt/`<br/><br/> n. 邪教；狂热崇拜      
+decimate, `/ˈdesəmeɪt/`<br/><br/> v. 大量毁灭；使人口骤减     
+pussy, `/ˈpʊsi/`<br/><br/> n. 猫咪（非正式用语）；阴部（粗俗用语） 
+delusion, `/dɪˈluːʒən/`<br/><br/> n. 错觉；妄想          
+delusional, `/dɪˈluːʒənəl/`<br/><br/> adj. 错觉的；妄想的      
+sort, `/sɔːrt/`<br/><br/> n. 种类；类别 <br><br>v. 分类；解决（问题或困难） 
+respite, `/ˈrespɪt/`<br/><br/> n. 喘息；暂缓          
+catalogue, `/ˈkætəlɔːɡ/`<br/><br/> n. 目录；一系列（坏事、事件）<br><br>v. 将… 编入目录 
+pasture, `/ˈpæstʃər/`<br/><br/> n. 牧场；草地<br><br>v. 放牧 
+pastureland, `/ˈpɑːstʃərlænd/`<br/><br/> n. 牧场      
+cow, `/kaʊ/`<br/><br/> n. 母牛<br><br>v. 恐吓    
+convergence, `/kənˈvɜːrdʒəns/`<br/><br/> n. 汇聚；会合          
+convergent, `/kənˈvɜːrdʒənt/`<br/><br/> adj. [数] 收敛的；汇聚的  
+world, `/wɜːrld/`<br/><br/> n. 世界；地球；人类社会    
+dose, `/doʊs/`<br/><br/> n. 剂量<br><br>v. 给〔某人〕服药    
+tributary, `/ˈtrɪbjəteri/`<br/><br/> n. 支流<br><br>adj. 纳贡的；附属的 
+semester, `/səˈmestər/`<br/><br/> n. 〔尤指美国中学和大学的〕一学期﹐半学年  
+Ergenbright, `/ˈɜːrdʒənbraɪt/`<br/><br/> n. 人名（埃根布赖特）      
+counsel, `/ˈkaʊnsəl/`<br/><br/> n. 律师；建议<br><br>v. 劝告 
+counsellor, `/ˈkaʊnsələr/`<br/><br/> n. 顾问；辅导员         
+Satanic, `/səˈtænɪk/`<br/><br/> adj. 撒旦的；恶魔的      
+worship, `/ˈwɜːrʃɪp/`<br/><br/> n. 崇拜<br><br>v. 崇拜    
+rev, `/rev/`<br/><br/> n. 一转<br><br>v. 旋转    
+postpone, `/poʊsˈpoʊn/`<br/><br/> v. 推迟；延期          
+sadistic, `/səˈdɪstɪk/`<br/><br/> adj. 施虐的；虐待狂的     
+minimum, `/ˈmɪnɪməm/`<br/><br/> n. 最小值；最低限度<br><br>adj. 最小的 
+cement, `/səˈmɛnt/`<br/><br/> n. 水泥 <br><br>v. 巩固         
+sprig, `/sprɪɡ/`<br/><br/> n. （带叶[花]的）小枝；嫩枝        
+perch, `/pɜrtʃ/`<br/><br/> n. 栖息处；高位<br><br>v. 栖息；坐落   
+glamorous, `/ˈɡlæmərəs/`<br/><br/> adj. 迷人的，富有魅力的          
+chaff, `/tʃæf/`<br/><br/> n. 糠；谷壳                 
+ridge, `/rɪdʒ/`<br/><br/> n. 山脊；脊梁；屋脊             
+occupation, `/ˌɑːkjuˈpeɪʃən/`<br/><br/> n. 职业；占领                
+holocaust, `/ˈhɑːləkɒːst/`<br/><br/> n. 大屠杀；浩劫               
+semitism, `/ˈsɛmɪˌtɪzəm/`<br/><br/> n. 犹太主义；亲犹主义            
+offscreen, `/ˌɔfˈskrin/`<br/><br/> adj. 屏幕外的；幕后的           
+extensive, `/ɪkˈstensɪv/`<br/><br/> adj. 广泛的；广阔的；大量的        
+species, `/ˈspiːʃiːz/`<br/><br/> n. 物种                   
+primeval, `/praɪˈmiːvəl/`<br/><br/> adj. 原始的；早期的            
+necktie, `/ˈnektaɪ/`<br/><br/> n. 领带                   
+dishearten, `/dɪsˈhɑːrtən/`<br/><br/> v. 使沮丧；使灰心              
+disheartened, `/dɪsˈhɑːrtənd/`<br/><br/> adj. 沮丧的；灰心的            
+devote, `/dɪˈvoʊt/`<br/><br/> v. 奉献；致力于               
+jungle, `/ˈdʒʌŋɡəl/`<br/><br/> n. 丛林                   
+adventure, `/ədˈventʃər/`<br/><br/> n. 冒险；奇遇                
+ponder, `/ˈpɑːndər/`<br/><br/> v. 沉思；考虑                
+tap, `/tæp/`<br/><br/> n. 龙头；轻敲<br><br>v. 轻敲；开发 
+faucet, `/ˈfɔsɪt/`<br/><br/> n. 水龙头              
+tangent, `/ˈtændʒənt/`<br/><br/> n. 正切（数学）；切线；突然转移话题 
+process, `/ˈprɑːses/`<br/><br/> n. 过程；工序<br><br>v. 加工；处理 
+embellish, `/ɪmˈbelɪʃ/`<br/><br/> v. 装饰；美化            
+instruction, `/ɪnˈstrʌkʃən/`<br/><br/> n. 指示；说明            
+fortress, `/ˈfɔːrtrəs/`<br/><br/> n. 堡垒；要塞            
+troop, `/truːp/`<br/><br/> n. 部队；一群<br><br>v. 成群结队 
+bloke, `/bloʊk/`<br/><br/> n. 小伙子              
+factorial, `/fækˈtɔːriəl/`<br/><br/> n. 阶乘               
+consideration, `/kənˌsɪdəˈreɪʃən/`<br/><br/> n. 考虑；体谅            
+torture, `/ˈtɔːrtʃər/`<br/><br/> n. 拷打；折磨<br><br>v. 拷打；折磨 
+grip, `/ɡrɪp/`<br/><br/> n. 紧握；控制<br><br>v. 紧握；控制 
+gluten, `/ˈɡluːtn/`<br/><br/> n. 面筋               
+regain, `/rɪˈɡeɪn/`<br/><br/> v. 重新获得；恢复          
+gene, `/dʒiːn/`<br/><br/> n. 基因               
+participate, `/pɑːrˈtɪsəpeɪt/`<br/><br/> v. 参与；参加            
+screening, `/ˈskriːnɪŋ/`<br/><br/> n. 筛查；放映            
+cognitive, `/ˈkɑːɡnətɪv/`<br/><br/> adj. 认知的            
+enslave, `/ɪnˈsleɪv/`<br/><br/> v. 奴役               
+intimate, `/ˈɪntəmət/`<br/><br/>	adj. 亲密的；隐私的 <br><br>n. 密友
 rocket, `/ˈrɑːkɪt/`<br/><br/> n. 火箭<br><br>v. 迅速上升                       
 racket, `/ˈrækɪt/`<br/><br/> n. 球拍；喧嚣                             
 rod, `/rɑːd/`<br/><br/> n. 杆；棒                               
