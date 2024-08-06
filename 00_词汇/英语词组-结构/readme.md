@@ -1,9 +1,57 @@
 # 英语短语词组
 
 
+
+## ▲ 量词
+
+### 1. 英语常用量词
+
+> **量词**（英语： measure word，quantifier）[[1\]](https://zh.wikipedia.org/zh-cn/量词#cite_note-1) 又称 **分类词**（ classifier）、 **单位词** [[2\]](https://zh.wikipedia.org/zh-cn/量词#cite_note-2)，是词的一种分类，用来区分由 [可数名词](https://zh.wikipedia.org/wiki/可数名词)指代的不同事物。
+>
+> 分类词常用于名词[计数](https://zh.wikipedia.org/wiki/计数)或特指的情况（例如与[数词](https://zh.wikipedia.org/wiki/數詞)或[指示词](https://zh.wikipedia.org/wiki/指示词)连用的时候），例如[汉语](https://zh.wikipedia.org/wiki/汉语)中 “三个人” 的 “个”，“两头牛” 的 “头”。分类词不应与[名词类别](https://zh.wikipedia.org/wiki/名詞類別)混淆，后者通常不是根据词的含义分类，而是根据诸如[词法](https://zh.wikipedia.org/wiki/词法学)来分类。
+>
+> - 笔记来源：https://zh.wikipedia.org/zh-cn/%E9%87%8F%E8%AF%8D
+
+表格笔记来源：[一阵风，一束光，一群鱼用英语怎么说？](https://www.bilibili.com/video/BV1W1421t7SQ/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=e92153ec1930505e455be52646a78b7c) 和 [一瓣蒜，一粒米，一盒牛奶用英语怎么说？](https://www.bilibili.com/video/BV14UiwevEvm/?spm_id_from=333.999.0.0&vd_source=e92153ec1930505e455be52646a78b7c)
+
+| 图片                                                         | 量词    | 例句                                                         |
+| ------------------------------------------------------------ | ------- | ------------------------------------------------------------ |
+| <img src="./readme.assets/image-20240806134520114.png" alt="image-20240806134520114" style="zoom: 25%;" /> | **beam**    | This is a **beam** of light. 一**束**光。                    |
+| <img src="./readme.assets/image-20240806134605302.png" alt="image-20240806134605302" style="zoom: 25%;" /> | **ray**     | This is a **ray** of sunshine. 一**缕**阳光。                |
+| <img src="./readme.assets/image-20240806141359208.png" alt="image-20240806141359208" style="zoom:25%;" /> | **bottle**  | This is a bottle of water.  这是一**瓶**水。                 |
+| <img src="./readme.assets/image-20240806141449178.png" alt="image-20240806141449178" style="zoom:25%;" /> | **handful** | This is a **handful** of nuts. 一**把**坚果                  |
+| <img src="./readme.assets/image-20240806141549776.png" alt="image-20240806141549776" style="zoom:25%;" /> | **bar**     | Thi is a **bar** of soap. 一**块**肥皂                       |
+| <img src="./readme.assets/image-20240806141632704.png" alt="image-20240806141632704" style="zoom:25%;" /> | **roll**    | Thi is a **roll** of toilet paper. 一**卷**厕纸。            |
+| <img src="./readme.assets/image-20240806141712374.png" alt="image-20240806141712374" style="zoom:25%;" /> | **school**  | Thi is a **school** of fish. 一**群**鱼<br /><br />a school of whales. 一群鲸鱼 |
+| <img src="./readme.assets/image-20240806141753285.png" alt="image-20240806141753285" style="zoom:25%;" /> | **flock**   | This is a **flock** of birds. 一**群**鸟                     |
+| <img src="./readme.assets/image-20240806143750710.png" alt="image-20240806143750710" style="zoom:25%;" /> | **head** | This is a **head** of garlic. 一**头**蒜。 |
+| <img src="./readme.assets/image-20240806143904171.png" alt="image-20240806143904171" style="zoom:25%;" /> | **clove** | This is a **clove** of garlic. 一**瓣**蒜。 |
+| <img src="./readme.assets/image-20240806144003450.png" alt="image-20240806144003450" style="zoom:25%;" /> | **bunch** | This is a **bunch** of grapes. 一**串**葡萄。 |
+| <img src="./readme.assets/image-20240806144045272.png" alt="image-20240806144045272" style="zoom:25%;" /> | **can** | This is a **can** of coke. 一**听**可乐。 |
+| <img src="./readme.assets/image-20240806144133132.png" alt="image-20240806144133132" style="zoom:22%;" /> | **bar** | This is a **bar** of chocolate. 一**块**巧克力。 |
+| <img src="./readme.assets/image-20240806144216502.png" alt="image-20240806144216502" style="zoom:25%;" /> | **grain** | This is a **grain** of rice. 一**粒**米。 |
+| <img src="./readme.assets/image-20240806144306340.png" alt="image-20240806144306340" style="zoom:25%;" /> | **carton** | This is a **carton** of milk. 一**盒**牛奶。 |
+| <img src="./readme.assets/image-20240806144349655.png" alt="image-20240806144349655" style="zoom:25%;" /> | **drop** | This is a **drop** of water. 一**滴**水。 |
+| <img src="./readme.assets/image-20240806144516971.png" alt="image-20240806144516971" style="zoom:20%;" /> | **loaf** | This is a **loaf** of bread. 一条**面包**。 |
+| 从这开始来自 ChatGPT 4o 扩充 | **cup** | This is a **cup** of coffee. 一**杯**咖啡。 |
+|  | **slice** | This is a **slice** of bread. 一**片**面包。 |
+|  | **piece** | This is a **piece** of cake. 一**块**蛋糕。 |
+|  | **pair** | This is a **pair** of shoes. 一**双**鞋。 |
+|  | **pinch** | This is a **pinch** of salt. 一**撮**盐。 |
+|  | **set** | This is a **set** of tools. 一**套**工具。 |
+|  | **spoonful** | This is a **spoonful** of sugar. 一**匙**糖。 |
+|  | **tube** | This is a **tube** of toothpaste. 一**管**牙膏。 |
+|  | **pack** | This is a **pack** of cards. 一**副**牌。 |
+|  | **jar** | This is a **jar** of jam. 一**罐**果酱。 |
+
+
+
+
+
+
 ## ▲ 结构
 
-### too...to... 句型 （太...而不能...）
+### △  too...to... 句型 （太...而不能...）
 
 > 笔记来源：https://www.en998.com/gs/writing/020191022.html
 
@@ -59,21 +107,13 @@
 
 
 
-
-
-
-
-
-
-
-
 ## ▲ 词组
 
-###   "更不用说"、"更别提" 英文怎么说
+###  △ "更不用说"、"更别提" 英文怎么说
 
 > 笔记来源：https://www.en998.com/gs/writing/020191025.html
 
-英文中表示“更不用说”，“更别提”的常用短语有: ==**let alone**, **much less**, **still less**== 等。
+英文中表示“更不用说”，“更别提”的常用短语有: ==**let alone**==, ==**much less**==, ==**still less**== 等。
 
 “更不用说”表示的是一种递进关系。它所表达的意思是：因为前一件事不是真的或可能的，下一件事也不可能是真的或可能的。所以这种句子通常主句会是否定句，如：
 
