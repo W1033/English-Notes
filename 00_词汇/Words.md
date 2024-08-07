@@ -914,7 +914,6 @@ Translator: ChatGPT 4o
 | toggle           | `/ˈtɑɡəl/`                | n. 切换；开关<br>v. 切换              |
 | recession        | `/rɪˈsɛʃən/`              | n. 经济衰退；退却                    |
 | condemn          | `/kənˈdɛm/`               | v. 谴责；判刑                        |
-| president        | `/ˈprɛzɪdənt/`            | n. 总统；主席                        |
 | nationality      | `/ˌnæʃəˈnælɪti/`          | n. 国籍；民族                        |
 | paranormal       | `/ˌpærəˈnɔrməl/`          | adj. 超自然的                        |
 | relentless       | `/rɪˈlɛntlɪs/`            | adj. 无情的；不懈的                  |
@@ -926,23 +925,23 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词              | 美式发音                 | 词性 + 汉语释义               |
-|-------------------|--------------------------|-----------------------------|
-| luminary          | `/ˈluːmɪˌnɛri/`          | n. 杰出人物；名人            |
-| property          | `/ˈprɑːpərti/`           | n. 财产；性质                |
-| terrible          | `/ˈtɛrɪbəl/`             | adj. 可怕的；糟糕的          |
-| terribly          | `/ˈtɛrɪbli/`             | adv. 非常；可怕地             |
-| dove              | `/doʊv/`                 | n. 鸽子；和平的象征          |
-| fare              | `/fɛr/`                  | n. 票价；食物<br>v. 进展     |
-| pretence          | `/prɪˈtɛns/`             | n. 假装；借口                |
+| 单词              | 美式发音                 | 词性 + 汉语释义                |
+|-------------------|--------------------------|--------------------------|
+| luminary          | `/ˈluːmɪˌnɛri/`          | n. 杰出人物；名人               |
+| property          | `/ˈprɑːpərti/`           | n. 财产；属性；房地产 ✅       |
+| terrible          | `/ˈtɛrɪbəl/`             | adj. 可怕的；糟糕的             |
+| terribly          | `/ˈtɛrɪbli/`             | adv. 非常；可怕地              |
+| dove              | `/doʊv/`                 | n. 鸽子；和平的象征              |
+| fare              | `/fɛr/`                  | n. 票价；食物<br>v. 进展        |
+| pretence          | `/prɪˈtɛns/`             | n. 假装；借口                 |
 | interrelationship | `/ˌɪntərɪˈleɪʃənˌʃɪp/`  | n. 相互关系                  |
 | tequila           | `/təˈkiːlə/`             | n. 龙舌兰酒                  |
-| compassion        | `/kəmˈpæʃən/`            | n. 同情；怜悯                |
-| compass           | `/ˈkʌmpəs/`              | n. 指南针；圆规              |
-| sophisticate      | `/səˈfɪstɪˌkeɪt/`        | v. 使复杂；使世故<br>n. 久经世故的人 |
-| sophistication    | `/səˌfɪstɪˈkeɪʃən/`      | n. 复杂；精明                |
-| circle            | `/ˈsɜrkəl/`              | n. 圆圈；圈子<br>v. 环绕     |
-| rough             | `/rʌf/`                  | adj. 粗糙的；艰难的<br>v. 使变粗糙 |
+| compassion        | `/kəmˈpæʃən/`            | n. 同情；怜悯                 |
+| compass           | `/ˈkʌmpəs/`              | n. 指南针；圆规                |
+| sophisticate      | `/səˈfɪstɪˌkeɪt/`        | v. 使复杂；使世故<br>n. 久经世故的人  |
+| sophistication    | `/səˌfɪstɪˈkeɪʃən/`      | n. 复杂；精明                 |
+| circle            | `/ˈsɜrkəl/`              | n. 圆圈；圈子<br>v. 环绕        |
+| rough             | `/rʌf/`                  | adj. 粗糙的；艰难的<br>v. 使变粗糙  |
 | approximate       | `/əˈprɑksəmət/`(adj.)<br>`/əˈprɑksəˌmeɪt/`(v.) | adj. 大约的；近似的<br>v. 接近；近似 |
 
 
@@ -4195,6 +4194,12 @@ Translator: ChatGPT 4
 
 
 
+### ------ ------ ------ 笔记编辑线 ------ ------ ------
+### ------ ------ ------ 笔记编辑线 ------ ------ ------
+### ------ ------ ------ 笔记编辑线 ------ ------ ------
+
+
+
 ### Added: 2024.04.09
 
 #### First Table - ~~已校对~~ - ~~已写入：GoodNotes~~
@@ -4203,28 +4208,28 @@ Translator: ChatGPT 4
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词            | 美式发音               | 词类 + 汉语释义          | 示例 |
-|---------------|--------------------|----------------------|------|
-| friction      | `/ˈfrɪkʃən/`       | n. 摩擦                | Friction between the two surfaces caused heat. |
-| fell          | `/fɛl/`            | v. 砍倒；过去式 of fall | He fell a tree to clear the path. |
-| commercial    | `/kəˈmɜːrʃəl/`     | adj. 商业的；n. 商业广告 | adj. The commercial product was a success.<br /> n. They aired a new commercial during the show. |
-| shipwreck     | `/ˈʃɪprɛk/`        | n. 船难                | The old shipwreck was discovered off the coast. |
-| mendicant     | `/ˈmɛndɪkənt/`     | n. 乞丐                | The mendicant asked for food on the street. |
-| limitation    | `/ˌlɪmɪˈteɪʃən/`   | n. 限制                | The contract has several limitations on usage. |
-| furnish       | `/ˈfɜːrnɪʃ/`       | v. 提供；装备           | They furnished the house with new furniture. |
-| turbo         | `/ˈtɜːrboʊ/        | n. 涡轮增压器             | The sports car has a turbo engine.<br />(这辆跑车有一个涡轮增压引擎。) |
-| oolong        | `/ˈoʊˌlɒŋ/         | n. 乌龙茶                 | Oolong tea has a unique flavor.<br />(乌龙茶有一种独特的风味。) |
-| either        | `/ˈiːðər/          | conj. 任一的；<br />adj. 两者之一的 | You can choose either option.<br />(你可以选择其中任一选项。) |
-| conjecture    | `/kənˈdʒɛktʃər/    | n. 推测，猜想             | His conjecture about the outcome was incorrect.<br />(他对结果的猜测是不正确的。) |
-| originally    | `/əˈrɪdʒənəli/     | adv. 最初，原先地          | The house was originally a barn.<br />(这座房子最初是个谷仓。) |
-| quantum       | `/ˈkwɑːntəm/       | n. 量子；<br />adj. 量子的 | n. Quantum physics is a complex field.<br />(量子物理是一个  |
-| billow        | `/ˈbɪloʊ/`         | v. 翻腾；膨胀<br/>n. 巨浪   | v. Smoke billowed from the chimney.<br />(烟雾从烟囱中涌出。)<br />v. The smoke billowed into the sky.<br />(烟雾腾向天空。)<br />n. The boat struggled against the billows.<br />(船只在巨浪中挣扎。)<br />n. The billows of the sea were mesmerizing.<br />(海的波浪令人着迷。)<br />n. The ship sailed through the billows. <br/>(船驶过巨浪。) |
-| commercial    | `/kəˈmɜːrʃəl/`     | adj. 商业的；<br />n. 商业广告 | adj. The commercial interests were prioritized.<br />(商业利益被优先考虑。)<br />adj. The commercial sector is expanding rapidly.<br />(商业部门正在迅速扩张。)<br />n. The commercial break is too long.<br />(商业广告时间太长。) |
-| pillow        | `/ˈpɪloʊ/`         | n. 枕头                | She fluffed the pillow before going to bed.<br />(她在上床睡觉前拍打枕头。)<br />I'll be sleep as soon as my head hits the pillow. <br />(我头一碰到枕头就会睡着。) |
-| towel         | `/ˈtaʊəl/`         | n. 毛巾；<br />v. 用毛巾擦  | n. He grabbed a towel to dry off.<br />(他抓起一条毛巾擦干。)<br />n. Have you got a clean towel I could use? <br />(你有没有干净毛巾给我用？)<br />v. Towel your hair after the shower.<br />(洗澡后用毛巾擦头发。) |
-| infect        | `/ɪnˈfɛkt/`        | v. 感染                | He was infected with a rare virus.<br />(他被一种罕见的病毒感染。)<br />The virus can infect humans and animals.<br />(这种病毒能感染人类和动物。) |
-| virus         | `/ˈvaɪrəs/`        | n. 病毒                | The virus spreads through the air.<br />(病毒通过空气传播。) |
-| disinfect     | `/ˌdɪsɪnˈfɛkt/`    | v. 消毒                | They need to disinfect the wound to prevent infection.<br />(他们需要对伤口进行消毒以防感染。) |
+| 单词        | 美式发音            | 词性 + 汉语释义                          |
+|-------------|---------------------|------------------------------------------|
+| friction    | `/ˈfrɪkʃən/`        | n. 摩擦；冲突                             |
+| fell        | `/fɛl/`             | v. 砍伐；击倒；fall 的过去式<br>adj. 凶猛的 |
+| commercial  | `/kəˈmɜrʃəl/`       | adj. 商业的；营利的<br>n. 商业广告        |
+| shipwreck   | `/ˈʃɪprɛk/`         | n. 船只失事；海难<br>v. 遇难              |
+| mendicant   | `/ˈmɛndɪkənt/`      | n. 乞丐<br>adj. 行乞的                    |
+| limitation  | `/ˌlɪmɪˈteɪʃən/`    | n. 限制；局限                             |
+| furnish     | `/ˈfɜrnɪʃ/`         | v. 提供；布置                             |
+| turbo       | `/ˈtɜrboʊ/`         | n. 涡轮增压器                             |
+| oolong      | `/ˈuˌlɔŋ/`          | n. 乌龙茶                                 |
+| either      | `/ˈiðər/`           | adj. 任一的<br>adv. 也（用于否定句）       |
+| conjecture  | `/kənˈdʒɛktʃər/`    | n. 推测；猜想<br>v. 推测；猜想            |
+| originally  | `/əˈrɪdʒɪnəli/`     | adv. 起初；原本                             |
+| quantum     | `/ˈkwɑntəm/`        | n. 量子；大量                             |
+| billow      | `/ˈbɪloʊ/`          | n. 巨浪<br>v. 翻腾                        |
+| pillow      | `/ˈpɪloʊ/`          | n. 枕头                                   |
+| towel       | `/ˈtaʊəl/`          | n. 毛巾                                   |
+| infect      | `/ɪnˈfɛkt/`         | v. 感染                                   |
+| virus       | `/ˈvaɪrəs/`         | n. 病毒                                   |
+| disinfect   | `/ˌdɪsɪnˈfɛkt/`     | v. 消毒                                   |
+
 
 
 #### Second Table - ~~已校对~~ - ~~已写入：GoodNotes~~
@@ -4252,20 +4257,30 @@ Translator: ChatGPT 4
 | international | `/ˌɪntərˈnæʃənl/       | adj. 国际的            | The company expanded its international presence.<br />(该公司扩大了其国际存在。) |
 | friction      | `/ˈfrɪkʃən/            | n. 摩擦               | Friction between the two groups caused the conflict.<br />(两个团体之间的摩擦引发了冲突。) |
 
-单词简单解释
+根据LDOCE释义和翻译规则，以下是对你提供的单词列表的详细翻译：
 
-- "situate" 作为动词，常用于描述物体或地点的位置，意指“位于”或“坐落于”某个地方。
-- "situation" 是名词，指的是特定时刻或事件中的状态、环境或一系列事件，常用来描述“情况”或“形势”。
-- **fall (v.)**
-    - fall 描述从较高位置到较低位置的移动，意指 **`落下`** 。例如：秋天时，树叶会从树上落下。此外，fall 也用于形容某种状态或事件的到来，即 **`降临`** ，比如说：夜幕的降临。在更广义的用法中，fall 还可以表示在社会、经济或道德方面的 **`失败`** 或下降，例如：公司可能会因经济危机而失败。
+### 最终翻译：
 
+| 单词            | 美式发音            | 词性 + 汉语释义                          |
+|-----------------|---------------------|------------------------------------------|
+| classy          | `/ˈklæsi/`          | adj. 时髦的；优雅的                       |
+| tony            | `/ˈtoʊni/`          | adj. 高雅的；豪华的                       |
+| cute            | `/kjut/`            | adj. 可爱的；漂亮的                       |
+| indestructible  | `/ˌɪndɪˈstrʌktəbəl/`| adj. 不可摧毁的                           |
+| mast            | `/mæst/`            | n. 桅杆                                  |
+| overboard       | `/ˈoʊvərˌbɔrd/`     | adv. 越过船边落入水中                      |
+| grant           | `/ɡrænt/`           | v. 授予；同意<br>n. 补助金                 |
+| alternative     | `/ɔlˈtɜrnətɪv/`     | n. 替代方案<br>adj. 替代的                 |
+| johnny          | `/ˈdʒɑni/`          | n. 短袖无领病号服                         |
+| allegory        | `/ˈælɪˌɡɔri/`       | n. 寓言；象征                             |
+| situate         | `/ˈsɪtʃueɪt/`       | v. 使位于；使处于                         |
+| situation       | `/ˌsɪtʃuˈeɪʃən/`    | n. 情况；位置                             |
+| cave            | `/keɪv/`            | n. 洞穴<br>v. 塌陷                         |
+| down            | `/daʊn/`            | adv. 向下<br>n. 绒毛                       |
+| international   | `/ˌɪntərˈnæʃənəl/`  | adj. 国际的                               |
+| friction        | `/ˈfrɪkʃən/`        | n. 摩擦；冲突                             |
 
-
-
-
-### ------ ------ ------ 笔记编辑线 ------ ------ ------
-
-
+请检查是否符合你的要求，如果有任何需要进一步调整的地方，请告知我。    
 
 
 
@@ -4279,27 +4294,38 @@ Update: 2024.08.05
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词             | 美式发音                                | 词类 + 汉语释义            |
-|----------------|-------------------------------------|----------------------|
-| tough          | `/tʌf/`                             | adj. 坚韧的；强硬的；困难的；    |
-| cater          | `/ˈkeɪtər/`                         | v. 提供饮食服务；迎合         |
-| catering       | `/ˈkeɪtərɪŋ/`                       | n. 餐饮服务              |
-| graduate       | `/ˈɡrædʒuət/` (n.) <br> `/ˈɡrædʒueɪt/` (vi.) | n. 毕业生 vi. 毕业   |
-| graduation     | `/ˌɡrædʒuˈeɪʃən/`                   | n. 毕业                |
-| postgraduate   | `/ˌpoʊstˈɡrædʒuət/`                 | n. 研究生 <br>adj. 研究生的 |
-| treaty         | `/ˈtriːti/`                         | n. 条约                |
-| hug            | `/hʌɡ/`                             | v. 拥抱 <br>n. 拥抱      |
-| infrastructure | `/ˈɪnfrəˌstrʌktʃər/`                | n. 基础设施              |
-| coefficient    | `/ˌkoʊəˈfɪʃənt/`                    | n. 系数                |
-| parlance       | `/ˈpɑːrləns/`                       | n. 说法；(习惯)用语         |
-| plan           | `/plæn/`                            | n. 计划；<br />v. 规划    |
-| plane          | `/pleɪn/`                           | n. 飞机；平面<br/>adj. 平坦的<br/>v. 刨平 |
-| daffy          | `/ˈdæfi/`                           | adj. 愚蠢的             |
-| fell           | `/fɛl/`                             | v. 砍伐；击倒；fall 的过去式 <br>adj. 凶猛的 |
-| shipwreck      | `/ˈʃɪprɛk/`                         | n. 船难                |
-| mendicant      | `/ˈmendəkənt/`                      | n. 乞丐                |
-| isometry       | `/aɪˈsɑmətri/`                      | n. 等距；等高             |
-| diversity      | `/daɪˈvɜːrsəti/`                    | n. 多样性               |
+| 单词              | 美式发音                              | 词类 + 汉语释义            |
+|-----------------|-----------------------------------|----------------------|
+| tough           | `/tʌf/`                           | adj. 坚韧的；强硬的；困难的；    |
+| cater           | `/ˈkeɪtər/`                       | v. 提供饮食服务；迎合         |
+| catering        | `/ˈkeɪtərɪŋ/`                     | n. 餐饮服务              |
+| graduate        | `/ˈɡrædʒuət/` (n.) <br> `/ˈɡrædʒueɪt/` (vi.) | n. 毕业生 vi. 毕业   |
+| graduation      | `/ˌɡrædʒuˈeɪʃən/`                 | n. 毕业                |
+| postgraduate    | `/ˌpoʊstˈɡrædʒuət/`               | n. 研究生 <br>adj. 研究生的 |
+| treaty          | `/ˈtriːti/`                       | n. 条约                |
+| hug             | `/hʌɡ/`                           | v. 拥抱 <br>n. 拥抱      |
+| infrastructure  | `/ˈɪnfrəˌstrʌktʃər/`              | n. 基础设施              |
+| coefficient     | `/ˌkoʊəˈfɪʃənt/`                  | n. 系数                |
+| parlance        | `/ˈpɑːrləns/`                     | n. 说法；(习惯)用语         |
+| plan            | `/plæn/`                          | n. 计划；<br />v. 规划    |
+| plane           | `/pleɪn/`                         | n. 飞机；平面<br/>adj. 平坦的<br/>v. 刨平 |
+| daffy           | `/ˈdæfi/`                         | adj. 愚蠢的             |
+| fell            | `/fɛl/`                           | v. 砍伐；击倒；fall 的过去式 <br>adj. 凶猛的 |
+| shipwreck       | `/ˈʃɪprɛk/`                       | n. 船难                |
+| mendicant       | `/ˈmendəkənt/`                    | n. 乞丐                |
+| isometry        | `/aɪˈsɑmətri/`                    | n. 等距；等高             |
+| diversity       | `/daɪˈvɜːrsəti/`                  | n. 多样性               |
+| tender          | `/ˈtɛndər/`                       | adj. 温柔的；嫩的；<br />n. 投标（书）<br />v. 提出 |
+| tenderness      | `/ˈtɛndərnəs/`                    | n. 温柔；柔软                         |
+| bond            | `/bɑːnd/`                         | n. 债券；纽带<br />v. 结合             |
+| concern         | `/kənˈsɜrn/`                      | n. 关心；忧虑；<br />v. 涉及           |
+| raise           | `/reɪz/`                          | v. 提高；筹集；养育 |
+| boarding school | `/ˈbɔrdɪŋ ˌskuːl/`                | n. 寄宿学校                          |
+| board           | `/bɔːrd/`                         | n. 木板，董事会；<br />v. 登上（飞机﹑火车等） |
+| through         | `/θruː/`                          | prep. 通过；<br />adv. 从头到尾；<br />adj. 直通的 |
+| industrial      | `/ɪnˈdʌstriəl/`                   | adj. 工业的；产业的                   |
+| subscribe       | `/səbˈskraɪb/`                    | v. 订阅；同意                        |
+| different       | `/ˈdɪfərənt/`                     | adj. 不同的                          |
 
 
 #### Second Table - 已校对 - ~~已写入：GoodNotes~~
@@ -4341,28 +4367,8 @@ Update: 2024.08.05
 
 ### Added: 2024.04.06
 
-#### First Table - 已校对 - ~~已写入：GoodNotes~~
 
-Translator: ChatGPT 4
-
-注：下面的表格单词已写到 Goodnotes - 笔记日期：2024.04.02、06 - 04.06
-
-| 单词              | 美式发音              | 词类 + 汉语释义                       | 示例                                        |
-|------------------|----------------------|-------------------------------------|--------------------------------------------|
-| tender           | `/ˈtɛndər/`          | adj. 温柔的；嫩的；<br />n. 投标（书）<br />v. 提出 | adj. The meat is very tender.<br />(这肉非常嫩。)<br />n. The company is tendering for a construction project. <br />(公司正在投标一个建筑项目。)<br />v. He tendered his resignation.<br />(他提交了辞职信。) |
-| tenderness       | `/ˈtɛndərnəs/`       | n. 温柔；柔软                         | She felt a tenderness in her heart.<br />(她心中感到一阵温柔。) |
-| bond             | `/bɑːnd/`            | n. 债券；纽带<br />v. 结合             | n. My father put all his money into stock market bonds. <br />(我父亲把他所有的钱都投在上市债券上。)<br />n. The bond between them is very strong.<br />(他们之间的联系非常紧密。)<br />n. The bond of friendship is strong.<br />(友谊的纽带很牢固。)<br />n. Government bonds are considered safe investments.<br />(政府债券被认为是安全的投资。)<br />v. The team bonded during the trip.<br />(团队在旅行中建立了密切的关系。)<br />v. She bonded with her new puppy.<br />(她与新的小狗建立了感情。) |
-| concern          | `/kənˈsɜrn/`         | n. 关心；忧虑；<br />v. 涉及           | n. Health is a major concern.<br />(健康是一个主要的关心点。)<br />n. our concern for human right. <br />(我们对人权的关注。) <br />n. the rise of concern about the environment. <br />(对环境越来越多的关注)<br />v. The issue concerns all of us.<br />(这个问题涉及我们所有人。) |
-| raise            | `/reɪz/`             | v. 提高；筹集；养育 | We need to raise our standards.<br />(我们需要提高我们的标准。)<br />He raised the flag.<br />(他升起了旗帜。)<br />The charity event helped to raise funds.<br />(慈善活动帮助筹集了资金。)<br />They raised three children.<br />(他们养育了三个孩子。) |
-| boarding school  | `/ˈbɔrdɪŋ ˌskuːl/`   | n. 寄宿学校                          | She attended a boarding school in Switzerland.<br />(她在瑞士上了一所寄宿学校。) |
-| board            | `/bɔːrd/`            | n. 木板，董事会；<br />v. 登上（飞机﹑火车等） | n. He nailed the notice to the board.<br />(他把通知钉在木板上。)<br />v. We will board the plane soon.<br />(我们很快就要登机了。) |
-| through          | `/θruː/`             | prep. 通过；<br />adv. 从头到尾；<br />adj. 直通的 | prep. We walked through the park.<br />(我们穿过了公园。)<br />adv. I read the report through.<br />(我从头到尾读了这份报告。)<br />adv. He worked through the night.<br />(他彻夜工作。)<br />adj. The train is a through service.<br />(这列火车是直通服务。) |
-| industrial       | `/ɪnˈdʌstriəl/`      | adj. 工业的；产业的                   | The city is known for its industrial development.<br />(这个城市以其工业发展而闻名。) |
-| subscribe        | `/səbˈskraɪb/`       | v. 订阅；同意                        | I subscribe to several magazines.<br />(我订阅了几本杂志。) |
-| different        | `/ˈdɪfərənt/`        | adj. 不同的                          | This painting is different from the others.<br />(这幅画与其他的不同。) |
-
-
-#### Second Table - 已校对 - 已写入：GoodNotes
+#### First Table - 已校对 - 已写入：GoodNotes
 
 Translator: ChatGPT 4
 
@@ -4398,48 +4404,49 @@ Translator: ChatGPT 4
 | shrivel      | `/ˈʃrɪvəl/`      | v. （使）枯萎，（使）皱缩      | The leaves shrivel up in the hot sun.<br />(树叶在炎热的阳光下枯萎。)<br />a shrivelled apple. 一个干瘪的苹果 |
 
 
-#### Third Table - 已校对 - ~~已写入：GoodNotes~~
+#### Second Table - 已校对 - ~~已写入：GoodNotes~~
 
 Translator: ChatGPT 4  & 4o
 
+Edit: 2024.08.06、07
+
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词           | 美式发音                | 词类 + 汉语释义                       |
-|-------------- |---------------------|---------------------------------|
-| blind         | `/blaɪnd/`          | adj. 瞎的；<br />n. 百叶窗            |
-| draw          | `/drɔː/`            | v. 画；拉；吸引<br/>n. 抽签；平局          |
-| urgent        | `/ˈɜrdʒənt/         | adj. 紧急的                        |
-| variety       | `/vəˈraɪəti/        | n. 多样性；种类                       |
-| comment       | `/ˈkɑːmɛnt/`        | n. 评论；意见；<br />v. 评论；发表意见       |
-| collision     | `/kəˈlɪʒən/         | n. 碰撞                           |
-| existential   | `/ˌɛɡzɪˈstɛnʃəl/    | adj. 存在主义的；存在的                  |
-| route         | `/ruːt/`            | n. 路线                           |
-| euphony       | `/ˈjuːfəni/         | n. 悦耳的声音                        |
-| boa           | `/ˈboʊə/            | n. 蟒蛇；女用长围巾                     |
-| constrictor   | `/kənˈstrɪktər/     | n. 大蟒；括约肌                       |
-| essential     | `/ɪˈsɛnʃəl/         | adj. 必要的；本质的 <br>n. 必需品         |
-| volcano       | `/vɒlˈkeɪnoʊ/       | n. 火山                           |
-| charm         | `/tʃɑːrm/`          | n. 魅力；魔力 <br>v. 吸引              |
-| charming      | `/ˈtʃɑːrmɪŋ/`       | adj. 迷人的；有魅力的                   |
-| examine       | `/ɪɡˈzæmɪn/`        | v. 检查；考核                        |
-| extraordinary | `/ɪkˈstrɔːrdəneri/` | adj. 非凡的；特别的                    |
-| cut           | `/kʌt/`             | v. 切；削减<br>n. 切口；削减        |
-| bright        | `/braɪt/`           | adj. 明亮的；聪明的                    |
-| flight        | `/flaɪt/`           | n. 航班；飞行                        |
-| dying         | `/ˈdaɪɪŋ/`          | adj. 垂死的；临终的<br>v. 死（die 的现在分词） |
-| sally         | `/ˈsæli/`           | n. 突围<br>v. 突围                  |
-| dictation     | `/dɪkˈteɪʃən/`      | n. 听写；口述                        |
-| ordinary      | `/ˈɔːrdəneri/`      | adj. 普通的；平凡的                    |
-| bid           | `/bɪd/`             | v. 出价；投标<br>n. 出价；投标            |
-| construction  | `/kənˈstrʌkʃən/`    | n. 建造；建筑物                       |
-| investment    | `/ɪnˈvestmənt/`     | n. 投资                           |
-| lifelong      | `/ˈlaɪfˌlɔːŋ/`      | adj. 终生的                        |
-| furious       | `/ˈfjʊriəs/`        | adj. 狂怒的；激烈的                    |
-| cheer         | `/tʃɪr/`            | v. 欢呼<br>n. 愉快                  |
-| cheers        | `/tʃɪrz/`           | n. 干杯                           |
-| spoil         | `/spɔɪl/`           | v. 破坏；宠坏<br>n. 战利品              |
-| haggard       | `/ˈhæɡərd/`         | adj. 憔悴的                        |
-| sneer         | `/snɪr/`            | v. 嘲笑<br>n. 嘲笑                  |
+| 单词           | 美式发音               | 词类 + 汉语释义                          |
+|-------------- |--------------------|------------------------------------|
+| blind         | `/blaɪnd/`         | adj. 失明的；盲目的 <br>v. 使失明 <br>n. 百叶窗 |
+| draw          | `/drɔː/`           | v. 画；拉；吸引<br/>n. 抽签；平局             |
+| urgent        | `/ˈɜrdʒənt/`       | adj. 紧急的                           |
+| variety       | `/vəˈraɪəti/`      | n. 多样性；(动植物的)种类；综艺节目               |
+| comment       | `/ˈkɑːmɛnt/`       | n. 评论；意见；<br />v. 评论；发表意见          |
+| collision     | `/kəˈlɪʒən/`       | n. 碰撞；冲突                           |
+| existential   | `/ˌɛɡzɪˈstɛnʃəl/`   | adj. 存在主义的；存在的                     |
+| route         | `/ruːt/`           | n. 路线；途径 <br>v. 按特定路线运送            |
+| euphony       | `/ˈjuːfəni/`        | n. 悦耳的声音                           |
+| boa           | `/ˈboʊə/`           | n. 蟒蛇；女用长围巾                        |
+| essential     | `/ɪˈsɛnʃəl/`        | adj. 必要的；本质的 <br>n. 必需品            |
+| volcano       | `/vɑːlˈkeɪnoʊ/      | n. 火山                              |
+| charm         | `/tʃɑːrm/`         | n. 魅力；魔力 <br>v. 吸引                 |
+| charming      | `/ˈtʃɑːrmɪŋ/`      | adj. 迷人的；有魅力的                      |
+| examine       | `/ɪɡˈzæmɪn/`       | v. 检查；考核                           |
+| extraordinary | `/ɪkˈstrɔːrdəneri/` | adj. 非凡的；特别的                       |
+| cut           | `/kʌt/`            | v. 切；削减<br>n. 切口；削减                |
+| bright        | `/braɪt/`          | adj. 明亮的；聪明的                       |
+| flight        | `/flaɪt/`          | n. 航班；飞行                           |
+| dying         | `/ˈdaɪɪŋ/`         | adj. 垂死的；临终的<br>v. 死（die 的现在分词）    |
+| sally         | `/ˈsæli/`          | n. 突围<br>v. 突围                     |
+| dictation     | `/dɪkˈteɪʃən/`     | n. 听写；口述                           |
+| ordinary      | `/ˈɔːrdəneri/`     | adj. 普通的；平凡的                       |
+| bid           | `/bɪd/`            | v. 出价；投标<br>n. 出价；投标               |
+| construction  | `/kənˈstrʌkʃən/`   | n. 建造；建筑物                          |
+| investment    | `/ɪnˈvestmənt/`    | n. 投资（款项、对象）；〔大量时间﹑精力﹑情感等的〕投入      |
+| lifelong      | `/ˈlaɪfˌlɒːŋ/`     | adj. 终生的                           |
+| furious       | `/ˈfjʊriəs/`       | adj. 愤怒的；激烈的                       |
+| cheer         | `/tʃɪr/`           | n. 欢呼；喝彩 <br>v. 欢呼；鼓舞              |
+| cheers        | `/tʃɪrz/`          | 	interj. 干杯                        |
+| spoil         | `/spɔɪl/`          | v. 破坏；宠坏<br>n. 战利品                 |
+| haggard       | `/ˈhæɡərd/`        | adj. (面容)憔悴的                       |
+| sneer         | `/snɪr/`           | v. 嘲笑<br>n. 嘲笑                     |
 
 
 
@@ -5079,7 +5086,6 @@ Translator: ChatGPT 4
 | ------------- | -------------------- | --------------------------------- | ------------------------------------------------------------ |
 | heave         | `/hiːv/`             | v. 举起；呕吐；起伏               | He heaved the heavy box onto the shelf. <br />(他把那个重箱子举到了架子上。) <br />She felt nauseous and heaved. <br />(她感到恶心并呕吐了。) <br />The ground heaved during the earthquake. <br />(地震期间，地面发生了起伏。) |
 | nauseous      | `/ˈnɔːʃəs/`          | adj. 恶心的                       | The smell of spoiled food made her feel nauseous. <br />(腐烂食物的气味让她感到恶心。) |
-| spoil         | `/spɔɪl/`            | v. 破坏；宠坏；腐败               | Overwatering can spoil the plants. <br />(浇水过多会破坏植物。) <br />She spoils her cat with too many treats. <br />(她用太多零食宠坏了她的猫。) <br />The meat will spoil if left out of the refrigerator. <br />(肉如果不放冰箱会腐败。) |
 | greasy        | `/ˈɡriːsi/`          | adj. 油腻的                       | He avoided greasy food to stay healthy. <br />(为了保持健康，他避免吃油腻的食物。) |
 | count         | `/kaʊnt/`            | v. 计数<br />n. 数量              | v. She can count from one to ten in Spanish. <br />(她能用西班牙语从一数到十。)<br />v. Count the number of people in the room. <br />(计算房间里的人数。)<br/>n. The final count of votes was in his favor. <br />(最终的投票数对他有利。)<br />n. The final count showed that 300 people attended the event. <br />(最终的计数显示有300人参加了活动。) |
 | stimulate     | `/ˈstɪmjəleɪt/`      | v. 刺激；激励                     | His speech stimulated interest in the subject. <br />(他的演讲激发了对这个主题的兴趣。) |
@@ -5095,28 +5101,6 @@ Translator: ChatGPT 4
 | icon          | `/ˈaɪkɒn/`           | n. 图标；偶像                     | n. The app icon is easy to recognize. <br />(这个应用程序的图标很容易识别。)<br />He is an icon in the music industry. <br />(他是音乐行业的偶像。) |
 | anal          | `/ˈeɪnəl/`           | adj. 肛门的；吹毛求疵的〔含贬义〕 | The anal stage is an important phase in Freudian psychology. <br />(在弗洛伊德心理学中，肛门期是一个重要阶段。) <br />He is known for his anal attention to detail. <br />(他以对细节的吹毛求疵而闻名。) |
 | empathy       | `/ˈempəθi/`          | n. 同理心                         | n. She showed great empathy towards the children.<br> (她对孩子们表现出了极大的同理心。) |
-
-单词解释
-- **heave (v.)**：
-  - 作为动词，heave 有多种含义；它用于描述用力 **`举起`** 重物的行为，或因身体不适导致的 **`呕吐`** 反应，以及如海浪或地面的 **`起伏`** 等的自然动作。这个词在不同的上下文中可以有截然不同的应用，通常通过上下文来确定其确切含义。
-- **nauseous (adj.)**：
-  - 当形容某物或某情况为 **`恶心的`** 时，指的是它们引起恶心或呕吐的感觉，通常与不适的胃部感觉相关。
-- **spoil (v.)**：
-  - 作为动词，spoil 有多种含义；它用于描述用力 **`破坏`** 某物的品质或状况，通过过度的关爱或奖赏来 **`宠坏`** 某人或某物，或描述食物和物质的 **`腐败`** 过程。这个词在不同的上下文中可以有截然不同的应用，通常通过上下文来确定其确切含义。
-- **greasy (adj.)**：
-    - 形容词 **`油腻的`** 用来描述含有过多油脂的物质，常用于食物，也可以形容物体表面滑腻或油润的质感。
-- **count**：
-    - 作为动词，count 用于表示 **`计数`(计算数量)** 或 **数数**，用来确定某物的数目。
-    - 作为名词，count 表示 **`数量`** 或计数的结果，值某个特定的数目。
-- **stimulate (v.)**：
-    - 作为动词，stimulate 表示 **`刺激`** 或 **`激励`** 。它用于描述促使某事物活跃或增强的行为，如刺激经济增长、激发创意或鼓舞人心。
-- **executive (adj. & n.)**：
-    - 作为形容词，executive 指的是与 **`执行的`** 或管理相关的事务，常用于描述那些具有决策权和执行力的职位或活动。
-    - 作为名词，executive 指 **`主管`**(高级管理人员)，这些人负责组织或公司的日常管理和决策过程。
-- **interest**：
-    - 作为名词，interest 表示对某事物的 **`兴趣`**，或者指金融领域的 **`利息`**。
-    - 作为动词，它用于描述某事物吸引某人的注意或好奇心，即 **`使感兴趣`**。
-
 
 
 

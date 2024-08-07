@@ -4,69 +4,6 @@
 
 
 
-| 单词             | 美式发音                   | 词类 + 汉语释义            |
-|----------------|------------------------|----------------------|
-| tough          | `/tʌf/`                | adj. 坚韧的；强硬的；困难的；    |
-| cater          | `/ˈkeɪtər/`            | v. 提供饮食服务；迎合         |
-| catering       | `/ˈkeɪtərɪŋ/`          | n. 餐饮服务              |
-| graduation     | `/ˌɡrædʒuˈeɪʃən/`      | n. 毕业                |
-| postgraduate   | `/ˌpoʊstˈɡrædʒuət/`    | n. 研究生 <br>adj. 研究生的 |
-| treaty         | `/ˈtriːti/`            | n. 条约                |
-| hug            | `/hʌɡ/`                | v. 拥抱 <br>n. 拥抱      |
-| infrastructure | `/ˈɪnfrəˌstrʌktʃər/`   | n. 基础设施              |
-| coefficient    | `/ˌkoʊəˈfɪʃənt/`       | n. 系数                |
-| parlance       | `/ˈpɑːrləns/`          | n. 说法；(习惯)用语         |
-| plan           | `/plæn/`               | n. 计划；<br />v. 规划    |
-| plane          | `/pleɪn/`              | n. 飞机；平面<br/>adj. 平坦的<br/>v. 刨平 |
-| daffy          | `/ˈdæfi/`              | adj. 愚蠢的             |
-| fell           | `/fɛl/`                | v. 砍伐；击倒；fall 的过去式 <br>adj. 凶猛的 |
-| shipwreck      | `/ˈʃɪprɛk/`            | n. 船难                |
-| mendicant      | `/ˈmendəkənt/`         | n. 乞丐                |
-| isometry       | `/aɪˈsɑmətri/`         | n. 等距；等高             |
-| diversity      | `/daɪˈvɜːrsəti/`       | n. 多样性               |
-
-| 单词           | 美式发音                    | 词性 + 汉语释义         |
-|----------------|-------------------------|-------------------|
-| limitation     | `/ˌlɪmɪˈteɪʃən/`        | n. 限制；局限          |
-| furnish        | `/ˈfɜːrnɪʃ/`            | v. 提供；布置家具        |
-| interstitial   | `/ˌɪntərˈstɪʃəl/`       | adj. 间质的；空隙的      |
-| pneumonia      | `/nuˈmoʊniə/`           | n. 肺炎             |
-| cerebral       | `/səˈriːbrəl/`          | adj. 大脑的；理智的      |
-| ependymitis    | `/ˌepənˌdɪˈmaɪtɪs/`     | n. 脑室管膜炎          |
-| vascular       | `/ˈvæskjələr/`          | adj. 血管的          |
-| infiltration   | `/ˌɪnfɪlˈtreɪʃən/`      | n. 渗透；浸润          |
-| hemodialysis   | `/hɪˈmoʊdaɪ'ælɪsɪs/`    | n. 血液透析           |
-| lysis          | `/ˈlaɪsɪs/`             | n. 溶解；分解          |
-| peritoneal     | `/ˌperɪtəˈniːəl/`       | adj. 腹膜的          |
-| dialysis       | `/daɪˈæləsɪs/`          | n. 透析             |
-| uremia         | `/jʊˈriːmiə/`           | n. 尿毒症            |
-| babysitter     | `/ˈbeɪbiˌsɪtər/`        | n. 临时保姆           |
-| note           | `/noʊt/`                | n. 笔记；便签；注释 <br>v. 注意；记录 |
-| interviewer    | `/ˈɪntərvjuːər/`        | n. 面试官            |
-| portfolio      | `/pɔːrtˈfoʊlioʊ/`       | n. 作品集；投资组合       |
-| immediate      | `/ɪˈmiːdiət/`           | adj. 立即的；直接的      |
-| highest        | `/ˈhaɪɪst/`             | adj. 最高的          |
-| asphyxia       | `/æsˈfɪksiə/`           | n. 窒息             |
-| neonatorum     | `/ˌniːoʊnəˈtɔːrəm/`     | n. (用于医学术语) 新生儿的  |
-| occurrence     | `/əˈkɜːrəns/`           | n. 发生；事件          |
-| radius         | `/ˈreɪdiəs/`            | n. 半径             |
-
-
-| 单词           | 美式发音             | 词类 + 汉语释义               |
-|-------------- |------------------|-------------------------|
-| blind         | `/blaɪnd/`       | adj. 瞎的；<br />n. 百叶窗    |
-| draw          | `/drɔː/`         | v. 画；拉；吸引<br/>n. 抽签；平局  |
-| urgent        | `/ˈɜrdʒənt/      | adj. 紧急的                |
-| variety       | `/vəˈraɪəti/     | n. 多样性；种类               |
-| comment       | `/ˈkɑːmɛnt/`     | n. 评论；意见；<br />v. 评论；发表意见 |
-| collision     | `/kəˈlɪʒən/      | n. 碰撞                   |
-| existential   | `/ˌɛɡzɪˈstɛnʃəl/ | adj. 存在主义的；存在的          |
-| route         | `/ruːt/`         | n. 路线                   |
-| euphony       | `/ˈjuːfəni/      | n. 悦耳的声音                |
-| boa           | `/ˈboʊə/         | n. 蟒蛇；女用长围巾             |
-| constrictor   | `/kənˈstrɪktər/  | n. 大蟒；括约肌               |
-| essential     | `/ɪˈsɛnʃəl/      | adj. 必要的；本质的 <br>n. 必需品 |
-| volcano       | `/vɒlˈkeɪnoʊ/    | n. 火山                   |
 
 
 
@@ -78,22 +15,80 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+blind, `/blaɪnd/`<br/><br/> adj. 失明的；盲目的<br><br>v. 使失明；<br><br>n. 百叶窗
+draw, `/drɔː/`<br/><br/> v. 画；拉；吸引<br><br>n. 抽签；平局 
+urgent, `/ˈɜrdʒənt/`<br/><br/> adj. 紧急的               
+variety, `/vəˈraɪəti/`<br/><br/> n. 多样性；(动植物的)种类；综艺节目             
+comment, `/ˈkɑːmɛnt/`<br/><br/> n. 评论；意见；<br><br>v. 评论；发表意见 
+collision, `/kəˈlɪʒən/`<br/><br/> n. 碰撞                  
+existential, `/ˌɛɡzɪˈstɛnʃəl/`<br/><br/> adj. 存在主义的；存在的         
+route, `/ruːt/`<br/><br/> n. 路线；途径 <br><br>v. 按特定路线运送                  
+euphony, `/ˈjuːfəni/`<br/><br/> n. 悦耳的声音               
+boa, `/ˈboʊə/`<br/><br/> n. 蟒蛇；女用长围巾            
+essential, `/ɪˈsɛnʃəl/`<br/><br/> adj. 必要的；本质的 <br><br>n. 必需品 
+volcano, `/vɑːlˈkeɪnoʊ/`<br/><br/> n. 火山                  
+charm, `/tʃɑːrm/`<br/><br/> n. 魅力；魔力 <br><br>v. 吸引     
+charming, `/ˈtʃɑːrmɪŋ/`<br/><br/> adj. 迷人的；有魅力的          
+examine, `/ɪɡˈzæmɪn/`<br/><br/> v. 检查；考核               
+extraordinary, `/ɪkˈstrɔːrdəneri/`<br/><br/> adj. 非凡的；特别的           
+cut, `/kʌt/`<br/><br/> v. 切；削减<br><br>n. 切口；削减    
+bright, `/braɪt/`<br/><br/> adj. 明亮的；聪明的           
+flight, `/flaɪt/`<br/><br/> n. 航班；飞行               
+dying, `/ˈdaɪɪŋ/`<br/><br/> adj. 垂死的；临终的<br><br>v. 死（die 的现在分词） 
+sally, `/ˈsæli/`<br/><br/> n. 突围<br><br>v. 突围         
+dictation, `/dɪkˈteɪʃən/`<br/><br/> n. 听写；口述               
+ordinary, `/ˈɔːrdəneri/`<br/><br/> adj. 普通的；平凡的           
+bid, `/bɪd/`<br/><br/> v. 出价；投标<br><br>n. 出价；投标   
+construction, `/kənˈstrʌkʃən/`<br/><br/> n. 建造；建筑物              
+investment, `/ɪnˈvestmənt/`<br/><br/> n. 投资（款项、对象）；〔大量时间﹑精力﹑情感等的〕投入 
+lifelong, `/ˈlaɪfˌlɒːŋ/`<br/><br/> adj. 终生的               
+furious, `/ˈfjʊriəs/`<br/><br/> adj. 愤怒的；激烈的           
+cheer, `/tʃɪr/`<br/><br/> n. 欢呼；喝彩 <br><br>v. 欢呼；鼓舞  
+cheers, `/tʃɪrz/`<br/><br/> interj. 干杯            
+spoil, `/spɔɪl/`<br/><br/> v. 破坏；宠坏<br><br>n. 战利品     
+haggard, `/ˈhæɡərd/`<br/><br/> adj. (面容)憔悴的           
+sneer, `/snɪr/`<br/><br/> v. 嘲笑<br><br>n. 嘲笑         
+tough, `/tʌf/`<br/><br/> adj. 坚韧的；强硬的；困难的；    
+cater, `/ˈkeɪtər/`<br/><br/> v. 提供饮食服务；迎合         
+catering, `/ˈkeɪtərɪŋ/`<br/><br/> n. 餐饮服务              
+graduation, `/ˌɡrædʒuˈeɪʃən/`<br/><br/> n. 毕业                
+postgraduate, `/ˌpoʊstˈɡrædʒuət/`<br/><br/> n. 研究生 <br><br>adj. 研究生的 
+treaty, `/ˈtriːti/`<br/><br/> n. 条约                
+hug, `/hʌɡ/`<br/><br/> v. 拥抱 <br><br>n. 拥抱      
+infrastructure, `/ˈɪnfrəˌstrʌktʃər/`<br/><br/> n. 基础设施              
+coefficient, `/ˌkoʊəˈfɪʃənt/`<br/><br/> n. 系数                
+parlance, `/ˈpɑːrləns/`<br/><br/> n. 说法；(习惯)用语         
+plan, `/plæn/`<br/><br/> n. 计划；<br />v. 规划    
+plane, `/pleɪn/`<br/><br/> n. 飞机；平面<br/>adj. 平坦的<br/>v. 刨平 
+daffy, `/ˈdæfi/`<br/><br/> adj. 愚蠢的             
+fell, `/fɛl/`<br/><br/> v. 砍伐；击倒；fall 的过去式 <br><br>adj. 凶猛的 
+shipwreck, `/ˈʃɪprɛk/`<br/><br/> n. 船难                
+mendicant, `/ˈmendəkənt/`<br/><br/> n. 乞丐                
+isometry, `/aɪˈsɑmətri/`<br/><br/> n. 等距；等高             
+diversity, `/daɪˈvɜːrsəti/`<br/><br/> n. 多样性               
+limitation, `/ˌlɪmɪˈteɪʃən/`<br/><br/> n. 限制；局限          
+furnish, `/ˈfɜːrnɪʃ/`<br/><br/> v. 提供；布置家具        
+interstitial, `/ˌɪntərˈstɪʃəl/`<br/><br/> adj. 间质的；空隙的      
+pneumonia, `/nuˈmoʊniə/`<br/><br/> n. 肺炎             
+cerebral, `/səˈriːbrəl/`<br/><br/> adj. 大脑的；理智的      
+ependymitis, `/ˌepənˌdɪˈmaɪtɪs/`<br/><br/> n. 脑室管膜炎          
+vascular, `/ˈvæskjələr/`<br/><br/> adj. 血管的          
+infiltration, `/ˌɪnfɪlˈtreɪʃən/`<br/><br/> n. 渗透；浸润          
+hemodialysis, `/hɪˈmoʊdaɪ'ælɪsɪs/`<br/><br/>n. 血液透析        
+lysis, `/ˈlaɪsɪs/`<br/><br/> n. 溶解；分解          
+peritoneal, `/ˌperɪtəˈniːəl/`<br/><br/> adj. 腹膜的          
+dialysis, `/daɪˈæləsɪs/`<br/><br/> n. 透析             
+uremia, `/jʊˈriːmiə/`<br/><br/> n. 尿毒症            
+babysitter, `/ˈbeɪbiˌsɪtər/`<br/><br/> n. 临时保姆           
+note, `/noʊt/`<br/><br/> n. 笔记；便签；注释 <br><br>v. 注意；记录 
+interviewer, `/ˈɪntərvjuːər/`<br/><br/> n. 面试官            
+portfolio, `/pɔːrtˈfoʊlioʊ/`<br/><br/> n. 作品集；投资组合       
+immediate, `/ɪˈmiːdiət/`<br/><br/> adj. 立即的；直接的      
+highest, `/ˈhaɪɪst/`<br/><br/> adj. 最高的          
+asphyxia, `/æsˈfɪksiə/`<br/><br/> n. 窒息             
+neonatorum, `/ˌniːoʊnəˈtɔːrəm/`<br/><br/> n. (用于医学术语) 新生儿的  
+occurrence, `/əˈkɜːrəns/`<br/><br/> n. 发生；事件          
+radius, `/ˈreɪdiəs/`<br/><br/> n. 半径             
 desiccate, `/ˈdesɪˌkeɪt/`<br/><br/> v. 使干燥；使脱水        
 desiccative, `/ˈdesɪˌkeɪtɪv/`<br/><br/> adj. 干燥的；脱水的      
 desiccator, `/ˈdesɪˌkeɪtər/`<br/><br/> n. 干燥器            
