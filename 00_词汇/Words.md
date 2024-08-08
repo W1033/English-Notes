@@ -4202,85 +4202,50 @@ Translator: ChatGPT 4
 
 ### Added: 2024.04.09
 
-#### First Table - ~~已校对~~ - ~~已写入：GoodNotes~~
+#### First Table - 校对中 - ~~已写入：GoodNotes~~
 
 Translator: ChatGPT 4
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词             | 美式发音            | 词性 + 汉语释义                                       |
+|----------------|---------------------|-------------------------------------------------|
+| classy         | `/ˈklæsi/`          | adj. 时髦的；优雅的                                    |
+| tony           | `/ˈtoʊni/`          | adj. 高雅的；豪华的                                    |
+| cute           | `/kjuːt/`           | adj. 可爱的；漂亮的                                    |
+| indestructible | `/ˌɪndɪˈstrʌktəbəl/`| adj. 不可摧毁的﹔坚不可摧的                                |
+| mast           | `/mæst/`            | n. 桅杆                                           |
+| overboard      | `/ˈoʊvərˌbɔːrd/`    | adv. 从船上落入水中；全身心投入；超出限度                         |
+| grant          | `/ɡrænt/`           | v. 授予；同意<br>n. 补助金                              |
+| alternative    | `/ɔːlˈtɜːrnətɪv/`   | n. 替代方案<br>adj. 替代的                             |
+| situate        | `/ˈsɪtʃueɪt/`       | v. 使位于；坐落于                                      |
+| situation      | `/ˌsɪtʃuˈeɪʃən/`    | n. 情况；形势；位置                                     |
+| cave           | `/keɪv/`            | n. 洞穴                                           |
+| down           | `/daʊn/`            | adv. 向下；减少<br>adj. 向下的；减少的<br>prep. 沿着；在...的下方<br>n. 绒毛；羽绒 |
+| international  | `/ˌɪntərˈnæʃənl/`   | adj. 国际的                                        |
+| friction       | `/ˈfrɪkʃən/`        | n. 摩擦；冲突                                        |
+
 
 | 单词        | 美式发音            | 词性 + 汉语释义                          |
 |-------------|---------------------|------------------------------------------|
-| friction    | `/ˈfrɪkʃən/`        | n. 摩擦；冲突                             |
-| fell        | `/fɛl/`             | v. 砍伐；击倒；fall 的过去式<br>adj. 凶猛的 |
-| commercial  | `/kəˈmɜrʃəl/`       | adj. 商业的；营利的<br>n. 商业广告        |
-| shipwreck   | `/ˈʃɪprɛk/`         | n. 船只失事；海难<br>v. 遇难              |
-| mendicant   | `/ˈmɛndɪkənt/`      | n. 乞丐<br>adj. 行乞的                    |
+| commercial  | `/kəˈmɜːrʃəl/`      | adj. 商业的；营利的<br>n. 商业广告        |
+| mendicant   | `/ˈmendɪkənt/`      | n. 乞丐                                  |
 | limitation  | `/ˌlɪmɪˈteɪʃən/`    | n. 限制；局限                             |
-| furnish     | `/ˈfɜrnɪʃ/`         | v. 提供；布置                             |
-| turbo       | `/ˈtɜrboʊ/`         | n. 涡轮增压器                             |
-| oolong      | `/ˈuˌlɔŋ/`          | n. 乌龙茶                                 |
-| either      | `/ˈiðər/`           | adj. 任一的<br>adv. 也（用于否定句）       |
-| conjecture  | `/kənˈdʒɛktʃər/`    | n. 推测；猜想<br>v. 推测；猜想            |
-| originally  | `/əˈrɪdʒɪnəli/`     | adv. 起初；原本                             |
-| quantum     | `/ˈkwɑntəm/`        | n. 量子；大量                             |
-| billow      | `/ˈbɪloʊ/`          | n. 巨浪<br>v. 翻腾                        |
+| furnish     | `/ˈfɜːrnɪʃ/`        | v. 提供；布置                             |
+| turbo       | `/ˈtɜːrboʊ/`        | n. 涡轮增压器                             |
+| oolong      | `/ˈuːˌlɒŋ/`         | n. 乌龙茶                                 |
+| either      | `/ˈiːðər/`          | adj. 任一的<br>adv. 也（用于否定句）       |
+| conjecture  | `/kənˈdʒektʃər/`    | n. 推测；猜想<br>v. 推测；猜想            |
+| originally  | `/əˈrɪdʒənəli/`     | adv. 起初；原本                             |
+| quantum     | `/ˈkwɒntəm/`        | n. 量子                                   |
+| billow      | `/ˈbɪloʊ/`          | v. 翻腾<br>n. 巨浪                         |
 | pillow      | `/ˈpɪloʊ/`          | n. 枕头                                   |
 | towel       | `/ˈtaʊəl/`          | n. 毛巾                                   |
-| infect      | `/ɪnˈfɛkt/`         | v. 感染                                   |
+| infect      | `/ɪnˈfekt/`         | v. 感染                                   |
 | virus       | `/ˈvaɪrəs/`         | n. 病毒                                   |
-| disinfect   | `/ˌdɪsɪnˈfɛkt/`     | v. 消毒                                   |
+| disinfect   | `/ˌdɪsɪnˈfekt/`     | v. 消毒                                   |
 
 
-
-#### Second Table - ~~已校对~~ - ~~已写入：GoodNotes~~
-
-Translator: ChatGPT 4
-
-~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
-
-| Word          | American Pronunciation | Part of Speech + Chinese Translation | Example |
-|---------------|------------------------|--------------------------|---------|
-| classy        | `/ˈklæsi/              | adj. 高档的，有品位的       | That restaurant is very classy.<br />(那家餐厅非常高档。) |
-| tony          | `/ˈtoʊni/              | adj. (俚)豪华的，时髦的     | She lives in a tony neighborhood.<br />(她住在一个豪华的社区。) |
-| cute          | `/kjuːt/               | adj. 可爱的              | The puppy is very cute.<br />(那只小狗非常可爱。) |
-| indestructible| `/ˌɪndɪˈstrʌktəbəl/    | adj. 坚不可摧的          | The material is almost indestructible.<br />(这种材料几乎坚不可摧。) |
-| mast          | `/mæst/                | n. 桅杆                  | The ship has three masts.<br />(这艘船有三根桅杆。) |
-| overboard     | `/ˌoʊvərˈbɔːrd/        | adv. 船外，过头          | He accidentally fell overboard.<br />(他不小心掉到船外。) |
-| grant         | `/ɡrænt/               | v. 授予，同意；n. 补助金     | v. They granted him permission.<br />(他们授予了他许可。)<br />n. She received a grant for her research.<br />(她获得了研究补助金。) |
-| alternative   | `/ɔlˈtɜrnətɪv/         | adj. 替代的；n. 替代品     | adj. We need an alternative plan.<br />(我们需要一个替代计划。)<br />n. This route is an alternative to the main road.<br />(这条路线是主路的一个替代选择。) |
-| johnny        | `/ˈdʒɑni/              | n. (口语)男人，小伙子       | Johnny did well in school today.<br />(约翰尼今天在学校表现很好。) |
-| allegory      | `/ˈæləɡɔːri/`          | n. 寓言               | The story was an allegory for the political situation.<br />(这个故事是对政治局势的寓言。) |
-| situate       | `/ˈsɪtʃueɪt/`          | v. 位于，坐落于           | The village is situated in a valley.<br />(这个村庄位于一个山谷中。) |
-| situation     | `/ˌsɪtʃuˈeɪʃən/`       | n. 情况，形势            | They are assessing the situation after the storm.<br />(暴风雨过后，他们正在评估情况。) |
-| cave          | `/keɪv/                | n. 洞穴；v. 屈服         | n. They explored the cave for archaeological research.<br />(他们为考古研究探索了这个洞穴。)<br />v. Under pressure, he finally caved.<br />(在压力下，他最终屈服了。) |
-| down          | `/daʊn/                | adv. 下；adj. 沮丧的     | adv. He walked down the stairs.<br />(他走下楼梯。)<br />adj. She felt down after losing the game.<br />(输掉比赛后，她感到沮丧。) |
-| international | `/ˌɪntərˈnæʃənl/       | adj. 国际的            | The company expanded its international presence.<br />(该公司扩大了其国际存在。) |
-| friction      | `/ˈfrɪkʃən/            | n. 摩擦               | Friction between the two groups caused the conflict.<br />(两个团体之间的摩擦引发了冲突。) |
-
-根据LDOCE释义和翻译规则，以下是对你提供的单词列表的详细翻译：
-
-### 最终翻译：
-
-| 单词            | 美式发音            | 词性 + 汉语释义                          |
-|-----------------|---------------------|------------------------------------------|
-| classy          | `/ˈklæsi/`          | adj. 时髦的；优雅的                       |
-| tony            | `/ˈtoʊni/`          | adj. 高雅的；豪华的                       |
-| cute            | `/kjut/`            | adj. 可爱的；漂亮的                       |
-| indestructible  | `/ˌɪndɪˈstrʌktəbəl/`| adj. 不可摧毁的                           |
-| mast            | `/mæst/`            | n. 桅杆                                  |
-| overboard       | `/ˈoʊvərˌbɔrd/`     | adv. 越过船边落入水中                      |
-| grant           | `/ɡrænt/`           | v. 授予；同意<br>n. 补助金                 |
-| alternative     | `/ɔlˈtɜrnətɪv/`     | n. 替代方案<br>adj. 替代的                 |
-| johnny          | `/ˈdʒɑni/`          | n. 短袖无领病号服                         |
-| allegory        | `/ˈælɪˌɡɔri/`       | n. 寓言；象征                             |
-| situate         | `/ˈsɪtʃueɪt/`       | v. 使位于；使处于                         |
-| situation       | `/ˌsɪtʃuˈeɪʃən/`    | n. 情况；位置                             |
-| cave            | `/keɪv/`            | n. 洞穴<br>v. 塌陷                         |
-| down            | `/daʊn/`            | adv. 向下<br>n. 绒毛                       |
-| international   | `/ˌɪntərˈnæʃənəl/`  | adj. 国际的                               |
-| friction        | `/ˈfrɪkʃən/`        | n. 摩擦；冲突                             |
-
-请检查是否符合你的要求，如果有任何需要进一步调整的地方，请告知我。    
 
 
 
