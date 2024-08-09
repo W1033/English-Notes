@@ -4121,6 +4121,18 @@ Translator: ChatGPT 4
 
 
 
+
+
+### ------ ------ ------ 笔记编辑线 ------ ------ ------
+
+### ------ ------ ------ 笔记编辑线 ------ ------ ------
+
+### ------ ------ ------ 笔记编辑线 ------ ------ ------
+
+
+
+
+
 ### Added: 2024.04.10
 
 #### First Table - ~~已校对~~ - ~~已写入：GoodNotes~~
@@ -4188,69 +4200,47 @@ Translator: ChatGPT 4
 
 ### Added: 2024.04.09
 
-#### First Table - ~~已校对~~ - ~~已写入：GoodNotes~~
+#### First Table - 已校对 - ~~已写入：GoodNotes~~
 
 Translator: ChatGPT 4
 
-~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
-
-| 单词            | 美式发音               | 词类 + 汉语释义          |
-|---------------|--------------------|----------------------|
-| friction      | `/ˈfrɪkʃən/`       | n. 摩擦                |
-| fell          | `/fɛl/`            | v. 砍倒；过去式 of fall |
-| commercial    | `/kəˈmɜːrʃəl/`     | adj. 商业的；n. 商业广告 |
-| shipwreck     | `/ˈʃɪprɛk/`        | n. 船难                |
-| mendicant     | `/ˈmɛndɪkənt/`     | n. 乞丐                |
-| limitation    | `/ˌlɪmɪˈteɪʃən/`   | n. 限制                |
-| furnish       | `/ˈfɜːrnɪʃ/`       | v. 提供；装备           |
-| turbo         | `/ˈtɜːrboʊ/        | n. 涡轮增压器             |
-| oolong        | `/ˈoʊˌlɒŋ/         | n. 乌龙茶                 |
-| either        | `/ˈiːðər/          | conj. 任一的；<br />adj. 两者之一的 |
-| conjecture    | `/kənˈdʒɛktʃər/    | n. 推测，猜想             |
-| originally    | `/əˈrɪdʒənəli/     | adv. 最初，原先地          |
-| quantum       | `/ˈkwɑːntəm/       | n. 量子；<br />adj. 量子的 |
-| billow        | `/ˈbɪloʊ/`         | v. 翻腾；膨胀<br/>n. 巨浪   |
-| commercial    | `/kəˈmɜːrʃəl/`     | adj. 商业的；<br />n. 商业广告 |
-| pillow        | `/ˈpɪloʊ/`         | n. 枕头                |
-| towel         | `/ˈtaʊəl/`         | n. 毛巾；<br />v. 用毛巾擦  |
-| infect        | `/ɪnˈfɛkt/`        | v. 感染                |
-| virus         | `/ˈvaɪrəs/`        | n. 病毒                |
-| disinfect     | `/ˌdɪsɪnˈfɛkt/`    | v. 消毒                |
-
-
-#### Second Table - ~~已校对~~ - ~~已写入：GoodNotes~~
-
-Translator: ChatGPT 4
+Edit: 2024.08.09
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| Word          | American Pronunciation | Part of Speech + Chinese Translation |
-|---------------|------------------------|--------------------------|
-| classy        | `/ˈklæsi/              | adj. 高档的，有品位的       |
-| tony          | `/ˈtoʊni/              | adj. (俚)豪华的，时髦的     |
-| cute          | `/kjuːt/               | adj. 可爱的              |
-| indestructible| `/ˌɪndɪˈstrʌktəbəl/    | adj. 坚不可摧的          |
-| mast          | `/mæst/                | n. 桅杆                  |
-| overboard     | `/ˌoʊvərˈbɔːrd/        | adv. 船外，过头          |
-| grant         | `/ɡrænt/               | v. 授予，同意；n. 补助金     |
-| alternative   | `/ɔlˈtɜrnətɪv/         | adj. 替代的；n. 替代品     |
-| johnny        | `/ˈdʒɑni/              | n. (口语)男人，小伙子       |
-| allegory      | `/ˈæləɡɔːri/`          | n. 寓言               |
-| situate       | `/ˈsɪtʃueɪt/`          | v. 位于，坐落于           |
-| situation     | `/ˌsɪtʃuˈeɪʃən/`       | n. 情况，形势            |
-| cave          | `/keɪv/                | n. 洞穴；v. 屈服         |
-| down          | `/daʊn/                | adv. 下；adj. 沮丧的     |
-| international | `/ˌɪntərˈnæʃənl/       | adj. 国际的            |
-| friction      | `/ˈfrɪkʃən/            | n. 摩擦               |
+| 单词             | 美式发音                | 词性 + 汉语释义                      |
+|----------------|---------------------|--------------------------------|
+| classy         | `/ˈklæsi/`          | adj. 时髦的；优雅的                   |
+| tony           | `/ˈtoʊni/`          | adj. 高雅的；豪华的                   |
+| cute           | `/kjuːt/`           | adj. 可爱的；漂亮的                   |
+| indestructible | `/ˌɪndɪˈstrʌktəbəl/` | adj. 不可摧毁的﹔坚不可摧的               |
+| mast           | `/mæst/`            | n. 桅杆                          |
+| overboard      | `/ˈoʊvərˌbɔːrd/`    | adv. 从船上落入水中；全身心投入；超出限度        |
+| grant          | `/ɡrænt/`           | v. 授予；同意<br>n. 补助金             |
+| alternative    | `/ɔːlˈtɜːrnətɪv/`   | n. 替代方案<br>adj. 替代的            |
+| situate        | `/ˈsɪtʃueɪt/`       | v. 使位于；坐落于                     |
+| situation      | `/ˌsɪtʃuˈeɪʃən/`    | n. 情况；形势；位置                    |
+| cave           | `/keɪv/`            | n. 洞穴                          |
+| down           | `/daʊn/`            | adv. 向下；减少<br>adj. 向下的；减少的<br>prep. 沿着；在...的下方<br>n. 绒毛；羽绒 |
+| international  | `/ˌɪntərˈnæʃənl/`   | adj. 国际的                       |
+| friction       | `/ˈfrɪkʃən/`        | n. 摩擦；冲突                       |
+| commercial     | `/kəˈmɜːrʃəl/`      | adj. 商业的；营利的<br>n. 商业广告        |
+| mendicant      | `/ˈmendɪkənt/`      | n. 乞丐                          |
+| limitation     | `/ˌlɪmɪˈteɪʃən/`    | n. 限制；局限                       |
+| furnish        | `/ˈfɜːrnɪʃ/`        | v. 提供；布置                       |
+| turbo          | `/ˈtɜːrboʊ/`        | n. 涡轮增压(器)                     |
+| oolong         | `/ˈuːˌlɒŋ/`         | n. 乌龙茶                         |
+| either         | `/ˈiðər/`           | conj. 或者…或者<br>adj. 任一的<br>pron. 任一；两者之一<br>adv. （用于否定句）也 |
+| conjecture     | `/kənˈdʒektʃər/`    | n. 推测；猜想<br>v. 推测；猜想           |
+| original       | `/əˈrɪdʒənəl/`      | adj. 原创的；独创的<br>n. 原件；原作       |
+| originally     | `/əˈrɪdʒənəli/`     | adv. 原先；最初                     |
+| quantum        | `/ˈkwɑːntəm/`       | n. 量子                          |
+| billow         | `/ˈbɪloʊ/`          | v. 翻腾<br>n. 巨浪                 |
+| towel          | `/ˈtaʊəl/`          | n. 毛巾<br>v. 用毛巾擦              |
+| infect         | `/ɪnˈfekt/`         | v. 感染；传染                      |
+| virus          | `/ˈvaɪrəs/`         | n. 病毒                          |
+| disinfect      | `/ˌdɪsɪnˈfekt/`     | v. 消毒                          |
 
-
-
-
-### ------ ------ ------ 笔记编辑线 ------ ------ ------
-
-### ------ ------ ------ 笔记编辑线 ------ ------ ------
-
-### ------ ------ ------ 笔记编辑线 ------ ------ ------
 
 
 

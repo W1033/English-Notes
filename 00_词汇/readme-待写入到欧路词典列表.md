@@ -15,6 +15,40 @@
 
 
 
+
+
+
+
+classy, `/ˈklæsi/`<br/><br/> adj. 时髦的；优雅的                   
+tony, `/ˈtoʊni/`<br/><br/> adj. 高雅的；豪华的                   
+cute, `/kjuːt/`<br/><br/> adj. 可爱的；漂亮的                   
+indestructible, `/ˌɪndɪˈstrʌktəbəl/`<br/><br/> adj. 不可摧毁的﹔坚不可摧的               
+mast, `/mæst/`<br/><br/> n. 桅杆                          
+overboard, `/ˈoʊvərˌbɔːrd/`<br/><br/> adv. 从船上落入水中；全身心投入；超出限度        
+grant, `/ɡrænt/`<br/><br/> v. 授予；同意<br><br>n. 补助金             
+alternative, `/ɔːlˈtɜːrnətɪv/`<br/><br/> n. 替代方案<br><br>adj. 替代的            
+situate, `/ˈsɪtʃueɪt/`<br/><br/> v. 使位于；坐落于                     
+situation, `/ˌsɪtʃuˈeɪʃən/`<br/><br/> n. 情况；形势；位置                    
+cave, `/keɪv/`<br/><br/> n. 洞穴                          
+down, `/daʊn/`<br/><br/> adv. 向下；减少<br><br>adj. 向下的；减少的<br><br>prep. 沿着；在...的下方<br><br>n. 绒毛；羽绒 
+international, `/ˌɪntərˈnæʃənl/`<br/><br/> adj. 国际的                       
+friction, `/ˈfrɪkʃən/`<br/><br/> n. 摩擦；冲突                       
+commercial, `/kəˈmɜːrʃəl/`<br/><br/> adj. 商业的；营利的<br><br>n. 商业广告        
+mendicant, `/ˈmendɪkənt/`<br/><br/> n. 乞丐                          
+limitation, `/ˌlɪmɪˈteɪʃən/`<br/><br/> n. 限制；局限                       
+furnish, `/ˈfɜːrnɪʃ/`<br/><br/> v. 提供；布置                       
+turbo, `/ˈtɜːrboʊ/`<br/><br/> n. 涡轮增压(器)                     
+oolong, `/ˈuːˌlɒŋ/`<br/><br/> n. 乌龙茶                         
+either, `/ˈiðər/`<br/><br/> conj. 或者…或者<br><br>adj. 任一的<br><br>pron. 任一；两者之一<br><br>adv. （用于否定句）也 
+conjecture, `/kənˈdʒektʃər/`<br/><br/> n. 推测；猜想<br><br>v. 推测；猜想           
+original, `/əˈrɪdʒənəl/`<br/><br/> adj. 原创的；独创的<br><br>n. 原件；原作       
+originally, `/əˈrɪdʒənəli/`<br/><br/> adv. 原先；最初                     
+quantum, `/ˈkwɑːntəm/`<br/><br/> n. 量子                          
+billow, `/ˈbɪloʊ/`<br/><br/> v. 翻腾<br><br>n. 巨浪                 
+towel, `/ˈtaʊəl/`<br/><br/> n. 毛巾<br><br>v. 用毛巾擦              
+infect, `/ɪnˈfekt/`<br/><br/> v. 感染；传染                      
+virus, `/ˈvaɪrəs/`<br/><br/> n. 病毒                          
+disinfect, `/ˌdɪsɪnˈfekt/`<br/><br/> v. 消毒                          
 blind, `/blaɪnd/`<br/><br/> adj. 失明的；盲目的<br><br>v. 使失明；<br><br>n. 百叶窗
 draw, `/drɔː/`<br/><br/> v. 画；拉；吸引<br><br>n. 抽签；平局 
 urgent, `/ˈɜrdʒənt/`<br/><br/> adj. 紧急的               
