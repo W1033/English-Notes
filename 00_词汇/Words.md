@@ -3,7 +3,6 @@
 
 
 ```
-
 ### Add: 2024.08.00
 
 #### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
@@ -12,13 +11,7 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-
 ```
-
-
-
-当然可以，以下是一些常见的厨房用品的英语表格：
-
 
 
 
@@ -27,6 +20,129 @@ Translator: ChatGPT 4o
 
 
 ## ▲ 待编辑生词
+
+
+
+
+### Add: 2024.08.09
+
+#### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o & Claude 3.5 sonnet （注：claude 主要是纠正 gpt 4o 翻译后的音标错误）
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词       | 美式发音            | 词性 + 汉语释义             |
+|------------|---------------------|-----------------------|
+| trait      | `/treɪt/`           | n. 特征；特点              |
+| criticism  | `/ˈkrɪtɪˌsɪzəm/`    | n. 批评；评论              |
+| expound    | `/ɪkˈspaʊnd/`       | v. 详细说明               |
+| polarity   | `/poʊˈlærɪti/`      | n. 两极性；对立             |
+| feast      | `/fiːst/`           | n. 盛宴<br>v. 享用（美食）    |
+| dinner     | `/ˈdɪnər/`          | n. 晚餐                 |
+| parse      | `/pɑrs/`            | v. 解析<br>n. 解析        |
+| ostensible | `/ɑːˈstensəbəl/`     | adj. 表面的           |
+| recursive  | `/rɪˈkɜrsɪv/`       | adj. 递归的              |
+| assistant  | `/əˈsɪstənt/`       | n. 助手<br>adj. 辅助的     |
+| updown     | `/ˈʌpˌdaʊn/`        | n. 上下起伏               |
+| award      | `/əˈwɔrd/`          | n. 奖品；奖励<br>v. 授予     |
+| snap       | `/snæp/`            | v. 突然折断；咔嚓一声<br>n. 啪嗒声 |
+| financial  | `/fəˈnænʃəl/`       | adj. 财务的；金融的          |
+| report     | `/rɪˈpɔrt/`         | n. 报告<br>v. 报告        |
+| gentle     | `/ˈdʒentəl/`         | adj. 温和的；轻柔的          |
+| condom     | `/ˈkɑːndəm/`        | n. 避孕套                |
+| subside    | `/səbˈsaɪd/`        | v. 减弱；下沉              |
+| quill      | `/kwɪl/`            | n. 羽毛笔；羽毛管            |
+| shoelace   | `/ˈʃuˌleɪs/`        | n. 鞋带                 |
+
+
+#### Second Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o & Claude 3.5 sonnet （注：claude 主要是纠正 gpt 4o 翻译后的音标错误）
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词         | 美式发音            | 词性 + 汉语释义                   |
+|--------------|---------------------|--------------------------------|
+| pelican      | `/ˈpelɪkən/`        | n. 鹈鹕                         |
+| quantify     | `/ˈkwɑntɪˌfaɪ/`     | v. 量化                         |
+| quantifier   | `/ˈkwɑntɪˌfaɪər/`   | n. 量词                         |
+| beam         | `/bim/`             | n. 光束；横梁<br>v. 照射；眉开眼笑      |
+| despair      | `/dɪˈsper/`         | n. 绝望<br>v. 感到绝望            |
+| baguette     | `/bæˈɡet/`          | n. 法棍面包                     |
+| quartal      | `/ˈkwɔrtəl/`        | adj. 四度音程的                  |
+| canonical    | `/kəˈnɑnɪkəl/`      | adj. 标准的；权威的                |
+| procedure    | `/prəˈsiʤər/`       | n. 程序；步骤                    |
+| quantization | `/ˌkwɑntəˈzeɪʃən/`  | n. 量化；量子化                   |
+| heal         | `/hil/`             | v. 治愈；痊愈                    |
+| intellectual | `/ˌɪntəˈlektʃuəl/`  | adj. 智力的<br>n. 知识分子         |
+| ensue        | `/ɪnˈsu/`           | v. 接着发生                      |
+| belong       | `/bɪˈlɔŋ/`          | v. 属于                          |
+| belongings   | `/bɪˈlɔŋɪŋz/`       | n. 财物；所有物                   |
+| feast        | `/fist/`            | n. 盛宴<br>v. 享用（美食）          |
+| objectivity  | `/ˌɑbdʒekˈtɪvəti/`  | n. 客观性                        |
+| causality    | `/kɔˈzæləti/`       | n. 因果关系                      |
+| singular     | `/ˈsɪŋɡjələr/`      | adj. 单数的；非凡的<br>n. 单数形式     |
+| objective    | `/əbˈdʒektɪv/`      | adj. 客观的<br>n. 目标           |
+
+
+#### Third Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o & Claude 3.5 sonnet （注：claude 主要是纠正 gpt 4o 翻译后的音标错误）
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词       | 美式发音            | 词性 + 汉语释义              |
+|------------|---------------------|---------------------------|
+| dairy      | `/ˈderi/`           | n. 牛奶场；乳制品             |
+| Greek      | `/ɡrik/`            | n. 希腊人；希腊语<br>adj. 希腊的；希腊语的 |
+| chatter    | `/ˈtʃætər/`         | v. 喋喋不休<br>n. 闲聊       |
+| retriever  | `/rɪˈtrivər/`       | n. 寻回犬                  |
+| stomp      | `/stɑmp/`           | v. 重踩；跺脚               |
+| submit     | `/səbˈmɪt/`         | v. 提交；屈服               |
+| subliminal | `/səbˈlɪmənl/`      | adj. 潜意识的；下意识的         |
+| extraction | `/ɪkˈstrækʃən/`     | n. 提取；拔出               |
+| dental     | `/ˈdentl/`          | adj. 牙科的；牙齿的           |
+| forceps    | `/ˈfɔrseps/`        | n. 镊子                     |
+| quarantine | `/ˈkwɔrənˌtin/`     | n. 隔离<br>v. 隔离          |
+| isolate    | `/ˈaɪsəˌleɪt/`      | v. 隔离；孤立               |
+| isolation  | `/ˌaɪsəˈleɪʃən/`    | n. 隔离；孤立               |
+| segregate  | `/ˈseɡrɪˌɡeɪt/`     | v. 分离；隔离               |
+| insulate   | `/ˈɪnsəˌleɪt/`      | v. 绝缘；隔离               |
+| pursuit    | `/pərˈsut/`         | n. 追求；追赶               |
+| rage       | `/reɪdʒ/`           | n. 狂怒<br>v. 发怒          |
+| pretend    | `/prɪˈtend/`        | v. 假装                    |
+
+
+#### Fourth Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o & Claude 3.5 sonnet （注：claude 主要是纠正 gpt 4o 翻译后的音标错误）
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词       | 美式发音           | 词性 + 汉语释义              |
+|------------|----------------|----------------------------|
+| moderator  | `/ˈmɑdəreɪtər/` | n. 调解人；版主              |
+| broke      | `/broʊk/`      | adj. 破产的；没钱的           |
+| revenue    | `/ˈrevəˌnuː/`    | n. 收入；税收               |
+| charity    | `/ˈtʃerəti/`   | n. 慈善；慈善机构             |
+| mull       | `/mʌl/`        | v. 仔细考虑                 |
+| spinoff    | `/ˈspɪnˌɔf/`   | n. 衍生品；副产品             |
+| harassment | `/həˈræsmənt/` | n. 骚扰                     |
+| blackout   | `/ˈblækˌaʊt/`  | n. 停电；断电               |
+| lifesaver  | `/ˈlaɪfˌseɪvər/` | n. 救命者；救生员             |
+| freak      | `/frik/`       | n. 怪人；怪事<br>adj. 反常的   |
+| cumulative | `/ˈkjumjələtɪv/` | adj. 累积的                 |
+| platitude  | `/ˈplætəˌtud/` | n. 陈词滥调                 |
+| silhouette | `/ˌsɪluˈet/`   | n. 轮廓；剪影               |
+| viola      | `/viˈoʊlə/`    | n. 中提琴                   |
+| saga       | `/ˈsɑɡə/`      | n. 长篇故事；英雄传说           |
+| pour       | `/pɔr/`        | v. 倒出；倾泻               |
+| poor       | `/pʊr/`        | adj. 贫穷的；差的            |
+| empty      | `/ˈempti/`     | adj. 空的<br>v. 使变空      |
+| initiate   | `/ɪˈnɪʃieɪt/`  | v. 开始；发起<br>n. 入会者     |
+
+
 
 
 
@@ -3071,22 +3187,22 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词            | 美式发音               | 词性 + 汉语释义           | 示例                                                         |
-|---------------|--------------------|------------------------|--------------------------------------------------------------|
-| politician    | `/ˌpɑːləˈtɪʃən/`  | n. 政治家，政客         | The politician gave a speech. <br>(政治家发表了演讲。)        |
-| balloon       | `/bəˈluːn/`        | n. 气球<br>v. 膨胀      | n. The balloon floated in the air. <br>(气球在空中飘浮。)<br>n. He burst the ballloon in my face. <br />他对着我的脸弄爆了气球。 <br />v. The company's profits ballooned last year. <br>(公司的利润去年膨胀了。)<br/>v. The sheet flapped and ballooned in the wind.<br />被单在风中飘动，被吹得鼓鼓的。 |
-| expand        | `/ɪkˈspænd/`       | v. 扩展；扩大            | Expand All. 全部展开。<br />Auto Expand. 自动扩展。<br />Water expands as it freezes. 水结冰时会膨胀。<br />The company plans to expand its operations. <br>(公司计划扩大业务。) |
-| expansion     | `/ɪkˈspænʃən/`     | n. 扩展；膨胀            | The expansion of the company created new jobs. <br>(公司的扩展创造了新的就业机会。)<br />The rapid **expansion of** cities can cause social and economic problems.<br />城市规模的迅速扩大会带来各种社会和经济问题。<br />an **expansion in** student numbers. 学生人数的增加。 |
-| extend        | `/ɪkˈstɛnd/`       | v. 延伸；扩展            | He extended his hand to greet me. <br>(他伸出手和我打招呼。)     |
-| extent        | `/ɪkˈstɛnt/`       | n. 程度；范围            | To what extent do you agree with this statement? <br>(你在多大程度上同意这句话？)<br />We all to some extent remember the good times and forget the bad.<br />我们在某种程度上都会记住美好时光而忘掉不愉快的事情。<br /> I do agree with him to an extent.<br />我在一定程度上确实同意他的意见。 |
-| vendor    | `/ˈvɛndər/`        | n. 小贩               | We bought ice cream from a street vendor. <br>(我们从街头小贩那里买了冰激凌。) |
-| garage        | `/ɡəˈrɑːʒ/`       | n. 车库；(公共场所的)停车场；汽车修理厂 | The car is parked in the garage. <br>(车停在车库里。)<br />We parked in an underground garage near the hotel.<br />我们把车停在酒店附近的一个地下车库里。<br />My car’s at the garage.<br />我的车正放在汽修厂修理。 |
-| lift          | `/lɪft/`           | v. 举起；提升<br>n. 电梯   | v. Can you lift this box? <br>(你能举起这个箱子吗？)<br>n. Take the lift to the fifth floor. <br>(坐电梯到五楼。) |
-| folio         | `/ˈfoʊlioʊ/`       | n. 对折本              | She stored her artwork in a folio. <br>(她把她的艺术作品放在一个册子里。) |
-| household     | `/ˈhaʊshoʊld/`     | n. 家庭<br>adj. 家庭的   | n. There are four people in my household. <br>(我的家庭有四个人。)<br>n. A growing number of households have at least one computer.<br />越来越多的家庭拥有至少一台电脑。<br />adj. They bought **household appliances**. <br>(他们买了家用电器。)<br />adj. Washing power and other **household products**.<br />洗衣粉及其他家用产品。 |
-| action | `/ˈækʃən/` | n. 行动；行为；战斗 | We need to **take** immediate **action**. <br>(我们需要立即采取行动。)<br>His actions speak louder than words. <br>(他的行为胜于言语。)<br>Her **prompt actions** probably saved my life.她敏捷的行动很可能救了我一命。<br />The movie is full of action scenes. <br>(这部电影充满了战斗场景。) |
-| appropriate | `/əˈproʊpriət/` | adj. 合适的；恰当的<br>v. 拨款；挪用 | adj. His response was **appropriate for** the situation. <br>(他的回应对于这种情况是合适的。)<br>adj. an education system which is more **appropriate to** the needs of the students.<br />更切合学生需求的教育制度。<br />v. The government appropriated funds for the project. <br>(政府为该项目拨款。)<br>He was accused of appropriating company funds. <br>(他被指控挪用公司资金。) |
-| hypnotic | `/hɪpˈnɑːtɪk/`   | adj. 催眠的<br>n. 安眠药（可数） | adj. The music had a hypnotic effect. <br>(音乐有催眠效果。)<br>n. He took a hypnotic to help him sleep. <br>(他服用了安眠药帮助入睡。) |
+| 单词          | 美式发音             | 词性 + 汉语释义                | 示例                                                         |
+|-------------|------------------|--------------------------|--------------------------------------------------------------|
+| politician  | `/ˌpɑːləˈtɪʃən/` | n. 政治家，政客                | The politician gave a speech. <br>(政治家发表了演讲。)        |
+| balloon     | `/bəˈluːn/`      | n. 气球<br>v. 膨胀           | n. The balloon floated in the air. <br>(气球在空中飘浮。)<br>n. He burst the ballloon in my face. <br />他对着我的脸弄爆了气球。 <br />v. The company's profits ballooned last year. <br>(公司的利润去年膨胀了。)<br/>v. The sheet flapped and ballooned in the wind.<br />被单在风中飘动，被吹得鼓鼓的。 |
+| expand      | `/ɪkˈspænd/`     | v. 扩展；扩大                 | Expand All. 全部展开。<br />Auto Expand. 自动扩展。<br />Water expands as it freezes. 水结冰时会膨胀。<br />The company plans to expand its operations. <br>(公司计划扩大业务。) |
+| expansion   | `/ɪkˈspænʃən/`   | n. 扩展；膨胀                 | The expansion of the company created new jobs. <br>(公司的扩展创造了新的就业机会。)<br />The rapid **expansion of** cities can cause social and economic problems.<br />城市规模的迅速扩大会带来各种社会和经济问题。<br />an **expansion in** student numbers. 学生人数的增加。 |
+| extend      | `/ɪkˈstɛnd/`     | v. 延伸；扩展                 | He extended his hand to greet me. <br>(他伸出手和我打招呼。)     |
+| extent      | `/ɪkˈstɛnt/`     | n. 程度；范围                 | To what extent do you agree with this statement? <br>(你在多大程度上同意这句话？)<br />We all to some extent remember the good times and forget the bad.<br />我们在某种程度上都会记住美好时光而忘掉不愉快的事情。<br /> I do agree with him to an extent.<br />我在一定程度上确实同意他的意见。 |
+| vendor      | `/ˈvɛndər/`      | n. 小贩                    | We bought ice cream from a street vendor. <br>(我们从街头小贩那里买了冰激凌。) |
+| garage      | `/ɡəˈrɑːʒ/`      | n. 车库；(公共场所的)停车场；汽车修理厂   | The car is parked in the garage. <br>(车停在车库里。)<br />We parked in an underground garage near the hotel.<br />我们把车停在酒店附近的一个地下车库里。<br />My car’s at the garage.<br />我的车正放在汽修厂修理。 |
+| lift        | `/lɪft/`         | v. 举起；提升<br>n. 电梯        | v. Can you lift this box? <br>(你能举起这个箱子吗？)<br>n. Take the lift to the fifth floor. <br>(坐电梯到五楼。) |
+| folio       | `/ˈfoʊlioʊ/`     | n. 对折本                   | She stored her artwork in a folio. <br>(她把她的艺术作品放在一个册子里。) |
+| household   | `/ˈhaʊshoʊld/`   | n. 家庭<br>adj. 家庭的        | n. There are four people in my household. <br>(我的家庭有四个人。)<br>n. A growing number of households have at least one computer.<br />越来越多的家庭拥有至少一台电脑。<br />adj. They bought **household appliances**. <br>(他们买了家用电器。)<br />adj. Washing power and other **household products**.<br />洗衣粉及其他家用产品。 |
+| action      | `/ˈækʃən/`       | n. 行动；行为；战斗              | We need to **take** immediate **action**. <br>(我们需要立即采取行动。)<br>His actions speak louder than words. <br>(他的行为胜于言语。)<br>Her **prompt actions** probably saved my life.她敏捷的行动很可能救了我一命。<br />The movie is full of action scenes. <br>(这部电影充满了战斗场景。) |
+| appropriate | `/əˈproʊpriət/`  | adj. 合适的；恰当的<br>v. 拨款；挪用 | adj. His response was **appropriate for** the situation. <br>(他的回应对于这种情况是合适的。)<br>adj. an education system which is more **appropriate to** the needs of the students.<br />更切合学生需求的教育制度。<br />v. The government appropriated funds for the project. <br>(政府为该项目拨款。)<br>He was accused of appropriating company funds. <br>(他被指控挪用公司资金。) |
+| hypnotic    | `/hɪpˈnɑːtɪk/`   | adj. 催眠的<br>n. 安眠药（可数）   | adj. The music had a hypnotic effect. <br>(音乐有催眠效果。)<br>n. He took a hypnotic to help him sleep. <br>(他服用了安眠药帮助入睡。) |
 
 
 
