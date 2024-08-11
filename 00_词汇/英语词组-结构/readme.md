@@ -109,7 +109,7 @@
 
 ## ▲ 词组
 
-###  △ "更不用说"、"更别提" 英文怎么说
+### △ "更不用说"、"更别提" 英文怎么说
 
 > 笔记来源：https://www.en998.com/gs/writing/020191025.html
 
@@ -158,4 +158,25 @@ much less, still less 与 let alone 的用法类似。
 ==**not to mention**== 这个短语也可以表达 **"更不用说"** 的意思。而且其主句常使用肯定句，意思与 let alone 稍有不同。如：
 
 >  He has a few houses in the central city, **not to mention** his huge deposit. 他在中心城市有几栋房子，更不用说他的巨额存款了。
+
+
+
+### △ 剪指甲，擤鼻涕，挤痘痘用英语怎么说？
+
+```md
+Source: https://www.bilibili.com/video/BV1WE4m1d7YN/?spm_id_from=333.1007.tianma.3-1-7.click&vd_source=e92153ec1930505e455be52646a78b7c
+Add: 2024.08.10
+```
+
+| 英文表达           | 中文表达 | 备注 |
+| ------------------ | -------- | ---- |
+| cut one's nail     | 剪指甲   |      |
+| blow one's nose    | 擤鼻涕   |      |
+| pick one's nose    | 抠鼻屎   |      |
+| wiggle one's hips  | 扭屁股   |      |
+| pop one's pimple   | 挤痘痘   |      |
+| rub one's eyes     | 揉眼睛   |      |
+| scratch one's head | 挠头     |      |
+| pick one's ear     | 掏耳朵   |      |
+| grind one's teeth  | 磨牙     |      |
 
