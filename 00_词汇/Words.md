@@ -4390,7 +4390,7 @@ Translator: ChatGPT 4
 
 Translator: ChatGPT 4 & 4o & Claude 3.5 sonnet
 
-Edit: 2024.08.09
+Edit: 2024.08.12
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
@@ -4422,7 +4422,7 @@ Edit: 2024.08.09
 |---------------|---------------------|--------------------|
 | discipline    | `/ˈdɪsəplɪn/`       | n. 纪律；学科           |
 | academic      | `/ˌækəˈdemɪk/`      | adj. 学术的<br>n. 学者  |
-| humanity      | `/hjuːˈmænəti/`     | n. 人类；人性           |
+| humanity      | `/hjuːˈmænəti/`     | n. 人类；人性；人文学科    |
 | compatibility | `/kəmˌpætəˈbɪləti/` | n. 兼容性；相容性         |
 | trend         | `/trend/`           | n. 趋势<br>v. 倾向     |
 | tile          | `/taɪl/`            | n. 瓦片；瓷砖<br>v. 铺瓦  |
