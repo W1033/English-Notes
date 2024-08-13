@@ -4418,27 +4418,27 @@ Edit: 2024.08.12
 
 
 
-| 单词          | 美式发音            | 词性 + 汉语释义          |
-|---------------|---------------------|--------------------|
-| discipline    | `/ˈdɪsəplɪn/`       | n. 纪律；学科           |
-| academic      | `/ˌækəˈdemɪk/`      | adj. 学术的<br>n. 学者  |
-| humanity      | `/hjuːˈmænəti/`     | n. 人类；人性；人文学科    |
-| compatibility | `/kəmˌpætəˈbɪləti/` | n. 兼容性；相容性         |
-| trend         | `/trend/`           | n. 趋势<br>v. 倾向     |
-| tile          | `/taɪl/`            | n. 瓦片；瓷砖<br>v. 铺瓦  |
-| chimney       | `/ˈtʃɪmni/`         | n. 烟囱              |
-| curtain       | `/ˈkɜrtən/`         | n. 窗帘；幕布           |
-| chop          | `/tʃɑp/`            | v. 砍；剁<br>n. 砍；肉块  |
-| procurement   | `/prəˈkjʊrmənt/`    | n. 采购；获得           |
-| sector        | `/ˈsektər/`         | n. 部门；领域           |
-| fluff         | `/flʌf/`            | n. 绒毛；轻软物<br>v. 拍松 |
-| fry           | `/fraɪ/`            | v. 油炸<br>n. 炸物     |
-| significance  | `/sɪɡˈnɪfɪkəns/`    | n. 重要性；意义          |
-| constrict     | `/kənˈstrɪkt/`      | v. 收缩；压缩           |
-| primer        | `/ˈpraɪmər/`        | n. 底漆；入门书          |
-| walk          | `/wɔk/`             | v. 走路<br>n. 步行     |
-| work          | `/wɜrk/`            | v. 工作<br>n. 工作     |
-| innocence     | `/ˈɪnəsəns/`        | n. 无辜；纯真           |
+| 单词          | 美式发音            | 词性 + 汉语释义            |
+|---------------|---------------------|----------------------|
+| discipline    | `/ˈdɪsəplɪn/`       | n. 纪律；学科             |
+| academic      | `/ˌækəˈdemɪk/`      | adj. 学术的<br>n. 学者    |
+| humanity      | `/hjuːˈmænəti/`     | n. 人类；人性；人文学科        |
+| compatibility | `/kəmˌpætəˈbɪləti/` | n. 兼容性；相容性           |
+| trend         | `/trend/`           | n. 趋势<br>v. 倾向       |
+| tile          | `/taɪl/`            | n. 瓦片；瓷砖<br>v. 铺瓦    |
+| chimney       | `/ˈtʃɪmni/`         | n. 烟囱                |
+| curtain       | `/ˈkɜrtən/`         | n. 窗帘；幕布             |
+| chop          | `/tʃɑp/`            | v. 砍，切；消减<br>n. 砍；排骨 |
+| procurement   | `/prəˈkjʊrmənt/`    | n. 采购；获得             |
+| sector        | `/ˈsektər/`         | n. 部门；领域             |
+| fluff         | `/flʌf/`            | n. 绒毛；轻软物<br>v. 拍松   |
+| fry           | `/fraɪ/`            | v. 油炸<br>n. 炸物       |
+| significance  | `/sɪɡˈnɪfɪkəns/`    | n. 重要性；意义            |
+| constrict     | `/kənˈstrɪkt/`      | v. 收缩；压缩             |
+| primer        | `/ˈpraɪmər/`        | n. 底漆；入门书            |
+| walk          | `/wɔk/`             | v. 走路<br>n. 步行       |
+| work          | `/wɜrk/`            | v. 工作<br>n. 工作       |
+| innocence     | `/ˈɪnəsəns/`        | n. 无辜；纯真             |
 
 
 
