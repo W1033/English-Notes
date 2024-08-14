@@ -4422,10 +4422,10 @@ Edit: 2024.08.12
 |---------------|---------------------|--------------------|
 | discipline    | `/ˈdɪsəplɪn/`       | n. 纪律；学科           |
 | academic      | `/ˌækəˈdemɪk/`      | adj. 学术的<br>n. 学者  |
-| humanity      | `/hjuːˈmænəti/`     | n. 人类；人性；人文学科    |
+| humanity      | `/hjuːˈmænəti/`     | n. 人类；人性；人文学科      |
 | compatibility | `/kəmˌpætəˈbɪləti/` | n. 兼容性；相容性         |
-| trend         | `/trend/`           | n. 趋势<br>v. 倾向     |
-| tile          | `/taɪl/`            | n. 瓦片；瓷砖<br>v. 铺瓦  |
+| trend         | `/trend/`           | n. 趋势；倾向<br>v. 倾向  |
+| tile          | `/taɪl/`            | n. 瓷砖；瓦片<br>v. 铺砖；铺瓦  |
 | chimney       | `/ˈtʃɪmni/`         | n. 烟囱              |
 | curtain       | `/ˈkɜrtən/`         | n. 窗帘；幕布           |
 | chop          | `/tʃɑp/`            | v. 砍；剁<br>n. 砍；肉块  |
