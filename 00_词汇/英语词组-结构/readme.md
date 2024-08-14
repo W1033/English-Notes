@@ -161,6 +161,29 @@ much less, still less 与 let alone 的用法类似。
 
 
 
+### △ Walk 常见组词
+
+```md
+Add: 2024.08.14
+Answer: ChatGPT 4o
+```
+
+| 单词         | 美式发音   | 词性 + 汉语释义                                    |
+| ------------ | ---------- | -------------------------------------------------- |
+| walk away    | `/wɔːk əˈweɪ/`  | v. 走开；离开（某事）<br>n. （比赛中）不战而胜   |
+| walk off     | `/wɔːk ɒf/`     | v. 走掉；摆脱（不快或疼痛）                         |
+| walk out     | `/wɔːk aʊt/`    | v. 罢工；离开（会议、演出等）抗议                  |
+| walk through | `/wɔːk θruː/`   | v. 排练；练习                                     |
+| walk into    | `/wɔːk ˈɪntu/`  | v. 意外碰到；轻松找到（工作等）                    |
+| walk over    | `/wɔːk ˈoʊvər/` | v. 轻松战胜（某人）；欺负                         |
+| walk up      | `/wɔːk ʌp/`     | v. 走近；走到（某人或某物）前                      |
+
+
+
+
+
+
+
 ### △ 剪指甲，擤鼻涕，挤痘痘用英语怎么说？
 
 ```md
@@ -179,4 +202,3 @@ Add: 2024.08.10
 | scratch one's head | 挠头     |      |
 | pick one's ear     | 掏耳朵   |      |
 | grind one's teeth  | 磨牙     |      |
-

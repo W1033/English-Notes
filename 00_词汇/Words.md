@@ -1337,7 +1337,6 @@ Translator: ChatGPT 4o
 
 | 单词          | 美式发音                | 词性 + 汉语释义             |
 |---------------|---------------------|-----------------------|
-| section       | `/ˈsɛkʃən/`         | n. 部分；章节<br>v. 分割     |
 | dialogue      | `/ˈdaɪəˌlɔɡ/`       | n. 对话；对白              |
 | spirituality  | `/ˌspɪrɪtʃuˈælɪti/` | n. 灵性                 |
 | idle          | `/ˈaɪdəl/`          | adj. 空闲的；闲置的<br>v. 虚度 |
@@ -4386,64 +4385,35 @@ Translator: ChatGPT 4
 
 ### Added: 2024.04.10
 
-#### First Table - 校对中 - ~~已写入：GoodNotes~~
+#### First Table - 已校对 - ~~已写入：GoodNotes~~
 
 Translator: ChatGPT 4 & 4o & Claude 3.5 sonnet
 
-Edit: 2024.08.12
+Edit: 2024.08.12 & 13 & 14
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词             | 美式发音            | 词类 + 汉语释义            |
-|----------------|---------------------|----------------------|
-| discipline     | `/ˈdɪsəplɪn/`       | n. 纪律；学科；<br />v. 训练，惩罚 |
-| academic       | `/ˌækəˈdɛmɪk/`       | adj. 学术的；<br />n. 学者 |
-| humanity       | `/hjuːˈmænɪti/`      | n. 人类；人文学科           |
-| compatibility  | `/ˌkɑːmpætəˈbɪlɪti/` | n. 兼容性               |
-| trend          | `/trɛnd/`            | n. 趋势                |
-| tile           | `/taɪl/`             | n. 瓷砖；<br />v. 铺瓷砖   |
-| chimney        | `/ˈtʃɪmni/`          | n. 烟囱                |
-| curtain        | `/ˈkɜːrtən/`         | n. 窗帘                |
-| chop           | `/tʃɑːp/`            | v. 砍；n. 排骨           |
-| procurement    | `/prəˈkjʊrmənt/`     | n. 采购                |
-| sector         | `/ˈsɛktər/`          | n. 部门；行业             |
-| fluff          | `/flʌf/`             | n. 絮状物；v. 使蓬松        |
-| fry            | `/fraɪ/`             | v. 炸；n. 炸物           |
-| significance   | `/sɪɡˈnɪfɪkəns/`    | n. 重要性，意义            |
-| constrict      | `/kənˈstrɪkt/`       | v. 收缩，压缩             |
-| primer         | `/ˈpraɪmər/`         | n. 入门书，基础读物          |
-| walk           | `/wɒːk/`            | v. 走路；散步；<br />n. 步行；散步 |
-| work           | `/wɜːrk/`           | v. 工作；运作；<br />n. 工作；作品 |
-| innocence      | `/ˈɪnəsəns/`         | n. 无辜，纯洁             |
-
-
-
-| 单词          | 美式发音            | 词性 + 汉语释义          |
-|---------------|---------------------|--------------------|
-| discipline    | `/ˈdɪsəplɪn/`       | n. 纪律；学科           |
-| academic      | `/ˌækəˈdemɪk/`      | adj. 学术的<br>n. 学者  |
-| humanity      | `/hjuːˈmænəti/`     | n. 人类；人性；人文学科      |
-| compatibility | `/kəmˌpætəˈbɪləti/` | n. 兼容性；相容性         |
-| trend         | `/trend/`           | n. 趋势；倾向<br>v. 倾向  |
-| tile          | `/taɪl/`            | n. 瓷砖；瓦片<br>v. 铺砖；铺瓦  |
-| chimney       | `/ˈtʃɪmni/`         | n. 烟囱              |
-| curtain       | `/ˈkɜrtən/`         | n. 窗帘；幕布           |
-| chop          | `/tʃɑp/`            | v. 砍；剁<br>n. 砍；肉块  |
-| procurement   | `/prəˈkjʊrmənt/`    | n. 采购；获得           |
-| sector        | `/ˈsektər/`         | n. 部门；领域           |
-| fluff         | `/flʌf/`            | n. 绒毛；轻软物<br>v. 拍松 |
-| fry           | `/fraɪ/`            | v. 油炸<br>n. 炸物     |
-| significance  | `/sɪɡˈnɪfɪkəns/`    | n. 重要性；意义          |
-| constrict     | `/kənˈstrɪkt/`      | v. 收缩；压缩           |
-| primer        | `/ˈpraɪmər/`        | n. 底漆；入门书          |
-| walk          | `/wɔk/`             | v. 走路<br>n. 步行     |
-| work          | `/wɜrk/`            | v. 工作<br>n. 工作     |
-| innocence     | `/ˈɪnəsəns/`        | n. 无辜；纯真           |
-
-
-
-
-
+| 单词          | 美式发音            | 词性 + 汉语释义               |
+|---------------|-------------------|-------------------------|
+| discipline    | `/ˈdɪsəplɪn/`     | n. 纪律；学科                |
+| academic      | `/ˌækəˈdemɪk/`    | adj. 学术的<br>n. 学者       |
+| humanity      | `/hjuːˈmænəti/`   | n. 人类；人性；人文学科           |
+| compatibility | `/kəmˌpætəˈbɪləti/` | n. 兼容性；相容性              |
+| trend         | `/trend/`         | n. 趋势；倾向<br>v. 倾向       |
+| tile          | `/taɪl/`          | n. 瓷砖；瓦片<br>v. 铺砖；铺瓦    |
+| chimney       | `/ˈtʃɪmni/`       | n. 烟囱                   |
+| curtain       | `/ˈkɜrtən/`       | n. 窗帘；幕布                |
+| chop          | `/tʃɑp/`          | v. 砍，切；消减<br>n. 砍；排骨    |
+| sector        | `/ˈsektər/`       | n. 部门；扇形；区域             |
+| section       | `/ˈsekʃən/`       | n. 部分；章节<br>v. 切开       |
+| fluff         | `/flʌf/`          | n. 绒毛<br>v. 使蓬松         |
+| fry           | `/fraɪ/`          | v. 油炸；油煎<br>n. 炸物       |
+| significance  | `/sɪɡˈnɪfɪkəns/`  | n. 重要性；意义               |
+| constrict     | `/kənˈstrɪkt/`    | v. 收缩；压缩                |
+| primer        | `/ˈpraɪmər/`      | n. 底漆；入门书               |
+| walk          | `/wɒːk/`          | v. 走路；步行<br>n. 步行；行程    |
+| work          | `/wɜːrk/`         | v. 工作；运作<br>n. 工作；作品；劳动 |
+| innocence     | `/ˈɪnəsəns/`      | n. 无辜；天真                |
 
 
 #### Second Table - ~~已校对~~ - ~~已写入：GoodNotes~~
@@ -4452,34 +4422,30 @@ Translator: ChatGPT 4 & 4o & Claude 3.5 sonnet
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词             | 美式发音                 | 词类 + 汉语释义              |
-|----------------|----------------------|----------------------------|
-| erupt          | `/ɪˈrʌpt/`            | v. 爆发                |
-| giggle         | `/ˈɡɪɡəl/`            | v. 咯咯笑               |
-| channel        | `/ˈtʃænəl/`           | n. 频道；渠道；<br />v. 引导，传输 |
+| 单词             | 美式发音                 | 词类 + 汉语释义                    |
+|----------------|----------------------|------------------------------|
+| erupt          | `/ɪˈrʌpt/`            | v. 爆发；喷发；      |
+| giggle         | `/ˈɡɪɡəl/`            | v. 咯咯笑                       |
+| channel        | `/ˈtʃænəl/`           | n. 频道；渠道；<br />v. 引导，传输      |
 | channeling     | `/ˈtʃænəlɪŋ/`         | v. 引导，传输<br />（channel的ing形式） |
-| laboratory     | `/ˈlæbərəˌtɔːri/`     | n. 实验室               |
-| resonate       | `/ˈrɛzəˌneɪt/`        | v. 共鸣，回响             |
-| resonant       | `/ˈrɛzənənt/`         | adj. 共鸣的，共振的         |
-| creek          | `/kriːk/`             | n. 小溪，小河                   |
-| guardian       | `/ˈɡɑːrdiən/`         | n. 监护人；保护者               |
-| consideration  | `/ˌkɒnsɪdəˈreɪʃən/`   | n. 考虑，思考；体谅             |
-| conclude       | `/kənˈkluːd/`         | v. 结束，总结                   |
-| stall          | `/stɔːl/`             | n. 摊位；畜栏；<br />v. 使停止，延迟 |
-| conduct        | `/ˈkɑːndʌkt/`         | v. 进行，实施；<br />n. 行为，举止 |
-| beneficial     | `/ˌbenəˈfɪʃəl/`       | adj. 有益的                   |
-| sue            | `/suː/`               | v. 起诉，控告                   |
-| scheme         | `/skiːm/`             | n. 计划，方案；<br />v. 密谋     |
-| gentleman      | `/ˈdʒentəlmən/`       | n. 绅士                      |
-| limp           | `/lɪmp/`              | v. 跛行；<br />adj. 无力的       |
-| digest         | `/ˈdaɪdʒɛst/`         | v. 消化；<br />n. 摘要           |
-| generally      | `/ˈdʒɛnərəli/`        | adv. 通常，一般地                |
-| major          | `/ˈmeɪdʒər/`          | adj. 主要的，重大的；<br />n. 主修   |
-| tire           | `/ˈtaɪər/`            | v. 使疲劳；<br />n. 轮胎         |
-
-
-
-
+| laboratory     | `/ˈlæbərəˌtɔːri/`     | n. 实验室                       |
+| resonate       | `/ˈrɛzəˌneɪt/`        | v. 共鸣，回响                     |
+| resonant       | `/ˈrɛzənənt/`         | adj. 共鸣的，共振的                 |
+| creek          | `/kriːk/`             | n. 小溪，小河                     |
+| guardian       | `/ˈɡɑːrdiən/`         | n. 监护人；保护者                   |
+| consideration  | `/ˌkɒnsɪdəˈreɪʃən/`   | n. 考虑，思考；体谅                  |
+| conclude       | `/kənˈkluːd/`         | v. 结束，总结                     |
+| stall          | `/stɔːl/`             | n. 摊位；畜栏；<br />v. 使停止，延迟     |
+| conduct        | `/ˈkɑːndʌkt/`         | v. 进行，实施；<br />n. 行为，举止      |
+| beneficial     | `/ˌbenəˈfɪʃəl/`       | adj. 有益的                     |
+| sue            | `/suː/`               | v. 起诉，控告                     |
+| scheme         | `/skiːm/`             | n. 计划，方案；<br />v. 密谋         |
+| gentleman      | `/ˈdʒentəlmən/`       | n. 绅士                        |
+| limp           | `/lɪmp/`              | v. 跛行；<br />adj. 无力的         |
+| digest         | `/ˈdaɪdʒɛst/`         | v. 消化；<br />n. 摘要            |
+| generally      | `/ˈdʒɛnərəli/`        | adv. 通常，一般地                  |
+| major          | `/ˈmeɪdʒər/`          | adj. 主要的，重大的；<br />n. 主修     |
+| tire           | `/ˈtaɪər/`            | v. 使疲劳；<br />n. 轮胎           |
 
 
 
