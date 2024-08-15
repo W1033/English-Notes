@@ -4229,64 +4229,40 @@ Translator: ChatGPT 4
 
 ### Added: 2024.04.21
 
-#### First Table - ~~已校对~~ - ~~已写入：GoodNotes~~
+#### First Table - 已校对 - ~~已写入：GoodNotes~~
 
-Translator: ChatGPT 4
+Translator: ChatGPT 4 & 4o
+
+Edit: 2024.08.15
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词           | 美式发音           | 词类 + 汉语释义              |
-|---------------|-------------------|------------------------|
-| post          | `/poʊst/`         | n. 邮件；柱子<br>v. 发布，张贴   |
-| compilation   | `/ˌkɒmpɪˈleɪʃn/`   | n. 编辑，汇编               |
-| note          | `/noʊt/`           | n. 笔记；便条<br>v. 注意，记录   |
-| herring       | `/ˈhɛrɪŋ/`         | n. 鲱鱼                  |
-| presume       | `/prɪˈzum/`        | v. 假设，推测               |
-| afar          | `/əˈfɑr/`          | adv. 从远处，遥远地           |
-| subsist       | `/səbˈsɪst/`       | v. 维持生计                |
-| trespass      | `/ˈtrɛspəs/`       | v. 侵犯，非法侵入             |
-| thrill        | `/θrɪl/`           | n. 兴奋，激动<br>v. 使激动     |
-| destine       | `/ˈdɛstɪn/`        | v. 注定，预定               |
-| genetical     | `/dʒəˈnɛtɪkəl/`    | adj. 基因的，遗传的           |
-| previous      | `/ˈpriːviəs/`      | adj. 之前的，先前的           |
-| hate          | `/heɪt/`           | v. 憎恨<br>n. 憎恨         |
-| tribute       | `/ˈtrɪbjuːt/`      | n. 贡品；赞颂，致敬            |
-| distraction   | `/dɪˈstrækʃn/`     | n. 分心，注意力分散            |
-| soundtrack    | `/ˈsaʊndtræk/`     | n. 原声带                 |
-| fusion        | `/ˈfjuːʒən/`       | n. 融合                  |
-| brake         | `/breɪk/`          | n. 制动器；v. 刹车           |
-| exposure      | `/ɪkˈspoʊʒər/`     | n. 暴露，曝光               |
-
-```
-尚未通过 claude 纠正发音
-
-| 单词        | 美式发音         | 词性 + 汉语释义                          |
-|-------------|------------------|------------------------------------------|
-| post        | `/poʊst/`        | n. 邮件；职位<br>v. 邮寄；张贴             |
-| compilation | `/ˌkɑmpɪˈleɪʃən/` | n. 汇编；编辑                             |
-| note        | `/noʊt/`         | n. 笔记；便条；音符<br>v. 注意；记录       |
-| herring     | `/ˈhɛrɪŋ/`       | n. 鲱鱼                                   |
-| presume     | `/prɪˈzum/`      | v. 假设；推测                             |
-| afar        | `/əˈfɑr/`        | adv. 遥远地；在远处                       |
-| subsist     | `/səbˈsɪst/`     | v. 生存；维持生活                         |
-| trespass    | `/ˈtrɛspæs/`     | v. 侵入；侵犯<br>n. 侵入；罪过             |
-| thrill      | `/θrɪl/`         | n. 兴奋；激动<br>v. 使激动；使兴奋         |
-| destine     | `/ˈdɛstɪn/`      | v. 注定                                   |
-| genetical   | `/dʒəˈnɛtɪkəl/`  | adj. 遗传的                               |
-| previous    | `/ˈpriːviəs/`    | adj. 以前的                               |
-| hate        | `/heɪt/`         | v. 憎恨；讨厌<br>n. 仇恨                  |
-| tribute     | `/ˈtrɪbjut/`     | n. 贡品；敬意                             |
-| distraction | `/dɪˈstrækʃən/`  | n. 分心；消遣                             |
-| soundtrack  | `/ˈsaʊndˌtræk/`  | n. 电影原声带                             |
-| fusion      | `/ˈfjuʒən/`      | n. 融合；核聚变                           |
-| brake       | `/breɪk/`        | n. 刹车<br>v. 刹车                       |
-| exposure    | `/ɪkˈspoʊʒər/`   | n. 暴露；曝光                             |
-```
+| 单词        | 美式发音              | 词性 + 汉语释义           |
+|-------------|-------------------|---------------------|
+| post        | `/poʊst/`         | n. 邮件；职位<br>v. 邮寄；张贴 |
+| compilation | `/ˌkɑmpəˈleɪʃən/` | n. 汇编；编辑            |
+| note        | `/noʊt/`          | n. 笔记；便签；注释；音符<br>v. 注意；记录 |
+| herring     | `/ˈherɪŋ/`        | n. 鲱鱼               |
+| presume     | `/prɪˈzuːm/`      | v. 假设；推测            |
+| afar        | `/əˈfɑr/`         | adv. 遥远地；在远处        |
+| subsist     | `/səbˈsɪst/`      | v. 生存；维持生活          |
+| trespass    | `/ˈtrespæs/`      | v. 非法入侵；侵犯<br>n. 非法入侵；侵犯 |
+| thrill      | `/θrɪl/`          | n. 兴奋；激动<br>v. 使激动  |
+| destine     | `/ˈdɛstɪn/`       | v. 注定               |
+| genetical   | `/dʒəˈnetɪkəl/`   | adj. 遗传的            |
+| previous    | `/ˈpriːviəs/`     | adj. 以前的；前一个的       |
+| hate        | `/heɪt/`          | v. 憎恨；讨厌<br>n. 憎恨   |
+| tribute     | `/ˈtrɪbjuːt/`     | n. 贡品；敬意            |
+| distraction | `/dɪˈstrækʃən/`   | n. 分心；消遣            |
+| soundtrack  | `/ˈsaʊndtræk/`    | n. 电影配乐             |
+| fusion      | `/ˈfjuːʒən/`      | n. 融合；核聚变           |
+| brake       | `/breɪk/`         | n. 刹车<br>v. 刹车      |
+| exposure    | `/ɪkˈspoʊʒər/`    | n. 曝光；暴露            |
 
 
 #### Second Table - ~~已校对~~ - ~~已写入：GoodNotes~~
 
-Translator: ChatGPT 4
+Translator: ChatGPT 4 & 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
@@ -4358,7 +4334,7 @@ Translator: ChatGPT 4
 
 #### Third Table - ~~已校对~~ - ~~已写入：GoodNotes~~
 
-Translator: ChatGPT 4
+Translator: ChatGPT 4 & 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
@@ -4430,34 +4406,73 @@ Translator: ChatGPT 4
 
 #### Fourth Table - ~~已校对~~ - ~~已写入：GoodNotes~~
 
-Translator: ChatGPT 4
+Translator: ChatGPT 4 & 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词           | 美式发音           | 词类 + 汉语释义              |
-|---------------|-------------------|------------------------|
-| recollection  | `/ˌrekəˈlekʃən/`   | n. 回忆，记忆               |
-| dunce         | `/dʌns/`           | n. 笨蛋，学习迟钝的人           |
-| low           | `/loʊ/`            | adj. 低的；adv. 低地        |
-| lowest        | `/ˈloʊɪst/`        | adj. 最低的               |
-| as long as    | N/A               | conj. 只要               |
-| too...to      | N/A               | 太...而不能...             |
-| notion        | `/ˈnoʊʃən/`        | n. 概念，想法               |
-| immediate     | `/ɪˈmiːdiət/`      | adj. 立即的，直接的           |
-| mate          | `/meɪt/`           | n. 伙伴，配偶；v. 配对         |
-| rotation      | `/roʊˈteɪʃən/`     | n. 旋转，轮换               |
-| albatross     | `/ˈælbətrɒs/`      | n. 信天翁，重负              |
-| ever          | `/ˈɛvər/`          | adv. 曾经                |
-| speed         | `/spiːd/`          | n. 速度；v. 加速            |
-| bracelet      | `/ˈbreɪslɪt/`      | n. 手镯                  |
-| near          | `/nɪər/`           | adj. 近的；adv. 近地；prep. 靠近 |
-| nearly        | `/ˈnɪərli/`        | adv. 几乎，差不多            |
-| tourist       | `/ˈtʊərɪst/`       | n. 旅游者，游客              |
-| rental        | `/ˈrɛntəl/`        | n. 租赁，出租物              |
-| deal          | `/diːl/`           | n. 交易；v. 处理            |
+| 单词           | 美式发音            | 词类 + 汉语释义              |
+|---------------|-----------------|------------------------|
+| recollection  | `/ˌrekəˈlekʃən/` | n. 回忆，记忆               |
+| dunce         | `/dʌns/`        | n. 笨蛋，学习迟钝的人           |
+| low           | `/loʊ/`         | adj. 低的；adv. 低地        |
+| lowest        | `/ˈloʊɪst/`     | adj. 最低的               |
+| as long as    | N/A             | conj. 只要               |
+| too...to      | N/A             | 太...而不能...             |
+| notion        | `/ˈnoʊʃən/`     | n. 概念，想法               |
+| immediate     | `/ɪˈmiːdiət/`   | adj. 立即的，直接的           |
+| mate          | `/meɪt/`        | n. 伙伴，配偶；v. 配对         |
+| rotation      | `/roʊˈteɪʃən/`  | n. 旋转，轮换               |
+| albatross     | `/ˈælbətrɒs/`   | n. 信天翁，重负              |
+| ever          | `/ˈɛvər/`       | adv. 曾经                |
+| speed         | `/spiːd/`       | n. 速度；v. 加速            |
+| bracelet      | `/ˈbreɪslɪt/`   | n. 手镯                  |
+| near          | `/nɪər/`        | adj. 近的；adv. 近地；prep. 靠近 |
+| nearly        | `/ˈnɪərli/`     | adv. 几乎，差不多            |
+| tourist       | `/ˈtʊərɪst/`    | n. 旅游者，游客              |
+| rental        | `/ˈrɛntəl/`     | n. 租赁，出租物              |
+| deal          | `/diːl/`        | n. 交易；v. 处理            |
 
 ```
 尚未通过 claude 纠正发音
+
+根据翻译规则和LDOCE的释义，以下是你提供的单词列表的详细翻译：
+
+### 最终翻译：
+
+| 单词          | 美式发音          | 词性 + 汉语释义                          |
+|---------------|-------------------|------------------------------------------|
+| recollection  | `/ˌrɛkəˈlɛkʃən/`  | n. 回忆；记忆力                          |
+| dunce         | `/dʌns/`          | n. 笨蛋；蠢材                            |
+| low           | `/loʊ/`           | adj. 低的；少的<br>adv. 低声地；低下     |
+| lowest        | `/loʊɪst/`        | adj. 最低的                              |
+| as long as    | `/æz lɔŋ æz/`     | phrase 只要；由于                         |
+| too...to      | `/tuː...tu/`      | phrase 太...而不能                       |
+| notion        | `/ˈnoʊʃən/`       | n. 概念；观念                            |
+| immediate     | `/ɪˈmidiɪt/`      | adj. 立即的；直接的                      |
+| mate          | `/meɪt/`          | n. 伙伴；配偶<br>v. 交配                |
+| rotation      | `/roʊˈteɪʃən/`    | n. 旋转；轮换                            |
+| albatross     | `/ˈælbəˌtrɔs/`    | n. 信天翁                                |
+| ever          | `/ˈɛvər/`         | adv. 曾经；总是                          |
+| speed         | `/spid/`          | n. 速度<br>v. 加速                       |
+| bracelet      | `/ˈbreɪslɪt/`     | n. 手镯；手链                            |
+| near          | `/nɪr/`           | adj. 近的<br>adv. 近地<br>v. 接近       |
+| nearly        | `/ˈnɪrli/`        | adv. 几乎；差不多                        |
+| tourist       | `/ˈtʊrɪst/`       | n. 游客                                 |
+| rental        | `/ˈrɛntəl/`       | n. 租金；租赁                            |
+| deal          | `/dil/`           | n. 交易<br>v. 处理；交易                |
+
+### 解释：
+- **low** 和 **lowest**：分别保留了“低的”及“最低的”作为形容词释义，确保涵盖不同程度的表达。
+- **as long as** 和 **too...to**：这两个词组常用于表示条件和程度，因此保留其主要释义。
+- **near** 和 **nearly**：分别保留了形容词、动词、以及副词释义，确保涵盖近距离的各种表达方式。
+- **mate**：保留了名词“伙伴”和“配偶”，以及动词“交配”两个主要释义。
+- **speed**：动词和名词释义都有较高使用频率，因此保留。
+- **deal**：保留了名词“交易”以及动词“处理”的主要释义。
+
+### 调整说明：
+- 翻译遵循了简洁性与全面性的平衡原则，删除了重复或相似的释义，保留了每个单词的主要用法。
+
+请检查这个版本是否符合你的需求。如果有任何进一步的建议或需要讨论的地方，请随时告诉我。
 
 ```
 
@@ -4465,7 +4480,7 @@ Translator: ChatGPT 4
 
 #### Firth Table - ~~已校对~~ - ~~已写入：GoodNotes~~
 
-Translator: ChatGPT 4
+Translator: ChatGPT 4 & 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
@@ -4493,13 +4508,63 @@ Translator: ChatGPT 4
 | communal      | `/ˈkɒmjənəl/`      | adj. 公共的，共享的           |
 | reciprocal    | `/rɪˈsɪprəkəl/`    | adj. 互惠的，相互的           |
 | rolled out    | `/roʊld aʊt/`      | v. 推出，展开               |
-| up their game | N/A               | 短语 提高标准，加强努力           |
+| up their game | `N/A               | 短语 提高标准，加强努力           |
 
 
 ```
 尚未通过 claude 纠正发音
 
+根据翻译规则和LDOCE的释义，以下是你提供的单词列表的详细翻译：
+
+### 最终翻译：
+
+| 单词          | 美式发音          | 词性 + 汉语释义                          |
+|---------------|-------------------|------------------------------------------|
+| gossip        | `/ˈɡɑsɪp/`        | n. 闲话；八卦<br>v. 说闲话              |
+| lock          | `/lɑk/`           | n. 锁<br>v. 锁上；固定                   |
+| ethnic        | `/ˈɛθnɪk/`        | adj. 民族的；种族的                      |
+| handout       | `/ˈhændˌaʊt/`     | n. 讲义；施舍品                          |
+| earn          | `/ɜrn/`           | v. 赚取；赢得                            |
+| earner        | `/ˈɜrnər/`        | n. 赚钱者；挣钱的工作                   |
+| bleak         | `/blik/`          | adj. 荒凉的；黯淡的                      |
+| backdoor      | `/ˈbækˌdɔr/`      | adj. 秘密的；不正当的                    |
+| notable       | `/ˈnoʊtəbəl/`     | adj. 显著的；值得注意的                  |
+| scent         | `/sɛnt/`          | n. 气味；香味<br>v. 嗅到；察觉          |
+| single        | `/ˈsɪŋɡəl/`       | adj. 单一的；单身的<br>n. 单曲          |
+| afloat        | `/əˈfloʊt/`       | adj. 漂浮的；经济上周转得开的            |
+| insane        | `/ɪnˈseɪn/`       | adj. 疯狂的；精神失常的                  |
+| insanely      | `/ɪnˈseɪnli/`     | adv. 疯狂地；极度地                      |
+| insanity      | `/ɪnˈsænɪti/`     | n. 疯狂；精神错乱                        |
+| laugh         | `/læf/`           | v. 笑<br>n. 笑声                         |
+| love          | `/lʌv/`           | n. 爱；喜爱<br>v. 爱；喜欢               |
+| ambitious     | `/æmˈbɪʃəs/`      | adj. 有雄心的；有抱负的                  |
+| chunky        | `/ˈʧʌŋki/`        | adj. 矮胖的；厚实的                      |
+| communal      | `/ˈkɑmjənəl/`     | adj. 公共的；共有的                      |
+| reciprocal    | `/rɪˈsɪprəkəl/`   | adj. 互惠的；相互的                      |
+| rolled out    | `/roʊld aʊt/`     | phrase 推出；开展                         |
+| up their game | `/ʌp ðɛr ɡeɪm/`  | phrase 提高水平                          |
+
+### 解释：
+- **gossip**：保留了名词和动词释义，涵盖了“闲话”和“说闲话”的常见用法。
+- **lock**：动词和名词释义都有较高使用频率，因此保留。
+- **handout**：保留“讲义”和“施舍品”作为主要释义。
+- **earner**：保留了“赚钱者”和“挣钱的工作”这两个释义。
+- **backdoor**：作为形容词保留“秘密的”或“不正当的”这两个常见释义。
+- **scent**：动词和名词释义都很常用，因此保留。
+- **single**：保留了“单一的”和“单曲”这两个释义。
+- **afloat**：保留“漂浮的”和“经济上周转得开的”这两个释义。
+- **insane**，**insanely**，**insanity**：这三个词的释义相互关联，因此分别保留其常见释义。
+- **rolled out** 和 **up their game**：作为短语动词和短语表达保留，分别表示“推出”和“提高水平”。
+
+### 调整说明：
+- 这个翻译版本在确保简洁的同时，涵盖了每个单词的主要用法，删除了重复或相似的释义，符合简洁性与全面性的平衡原则。
+
+请检查这个版本是否符合你的需求。如果有任何进一步的建议或需要讨论的地方，请随时告诉我。
+
 ```
+
+
+
 
 
 ------ ------ ------ 以下已编辑 ------ ------ ------

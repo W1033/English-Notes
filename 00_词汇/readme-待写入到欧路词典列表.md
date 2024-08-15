@@ -5,6 +5,31 @@
 
 
 
+| 单词        | 美式发音              | 词性 + 汉语释义           |
+|-------------|-------------------|---------------------|
+| post        | `/poʊst/`         | n. 邮件；职位<br>v. 邮寄；张贴 |
+| compilation | `/ˌkɑmpəˈleɪʃən/` | n. 汇编；编辑            |
+| note        | `/noʊt/`          | n. 笔记；便签；注释；音符<br>v. 注意；记录 |
+| herring     | `/ˈherɪŋ/`        | n. 鲱鱼               |
+| presume     | `/prɪˈzuːm/`      | v. 假设；推测            |
+| afar        | `/əˈfɑr/`         | adv. 遥远地；在远处        |
+| subsist     | `/səbˈsɪst/`      | v. 生存；维持生活          |
+| trespass    | `/ˈtrespæs/`      | v. 非法入侵；侵犯<br>n. 非法入侵；侵犯 |
+| thrill      | `/θrɪl/`          | n. 兴奋；激动<br>v. 使激动  |
+| destine     | `/ˈdɛstɪn/`       | v. 注定               |
+| genetical   | `/dʒəˈnetɪkəl/`   | adj. 遗传的            |
+| previous    | `/ˈpriːviəs/`     | adj. 以前的；前一个的       |
+| hate        | `/heɪt/`          | v. 憎恨；讨厌<br>n. 憎恨   |
+| tribute     | `/ˈtrɪbjuːt/`     | n. 贡品；敬意            |
+| distraction | `/dɪˈstrækʃən/`   | n. 分心；消遣            |
+| soundtrack  | `/ˈsaʊndtræk/`    | n. 电影配乐             |
+| fusion      | `/ˈfjuːʒən/`      | n. 融合；核聚变           |
+| brake       | `/breɪk/`         | n. 刹车<br>v. 刹车      |
+| exposure    | `/ɪkˈspoʊʒər/`    | n. 曝光；暴露            |
+
+
+
+
 
 
 
