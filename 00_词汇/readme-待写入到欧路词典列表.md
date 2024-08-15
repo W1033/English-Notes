@@ -9,16 +9,47 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
+discipline, `/ˈdɪsəplɪn/`<br/><br/> n. 纪律；学科                
+academic, `/ˌækəˈdemɪk/`<br/><br/> adj. 学术的<br><br>n. 学者       
+humanity, `/hjuːˈmænəti/`<br/><br/> n. 人类；人性；人文学科           
+compatibility, `/kəmˌpætəˈbɪləti/`<br/><br/> n. 兼容性；相容性              
+trend, `/trend/`<br/><br/> n. 趋势；倾向<br><br>v. 倾向       
+tile, `/taɪl/`<br/><br/> n. 瓷砖；瓦片<br><br>v. 铺砖；铺瓦    
+chimney, `/ˈtʃɪmni/`<br/><br/> n. 烟囱                   
+curtain, `/ˈkɜrtən/`<br/><br/> n. 窗帘；幕布                
+chop, `/tʃɑːp/`<br/><br/> v. 砍，切；消减<br><br>n. 砍；排骨    
+sector, `/ˈsektər/`<br/><br/> n. 部门；扇形；区域             
+section, `/ˈsekʃən/`<br/><br/> n. 部分；章节<br><br>v. 切开       
+fluff, `/flʌf/`<br/><br/> n. 绒毛<br><br>v. 使蓬松         
+fry, `/fraɪ/`<br/><br/> v. 油炸；油煎<br><br>n. 炸物       
+significance, `/sɪɡˈnɪfɪkəns/`<br/><br/> n. 重要性；意义               
+constrict, `/kənˈstrɪkt/`<br/><br/> v. 收缩；压缩                
+primer, `/ˈpraɪmər/`<br/><br/> n. 底漆；入门书               
+walk, `/wɒːk/`<br/><br/> v. 走路；步行<br><br>n. 步行；行程    
+work, `/wɜːrk/`<br/><br/> v. 工作；运作<br><br>n. 工作；作品；劳动 
+innocence, `/ˈɪnəsəns/`<br/><br/> n. 无辜；天真                
+erupt, `/ɪˈrʌpt/`<br/><br/> v. 爆发；喷发；                    
+giggle, `/ˈɡɪɡəl/`<br/><br/> v. 咯咯笑                       
+channel, `/ˈtʃænəl/`<br/><br/> n. 频道；渠道；海峡<br><br>v. 引导；传送      
+channeling, `/ˈtʃænəlɪŋ/`<br/><br/> v. 引导，传送<br />（channel的ing形式） 
+laboratory, `/ˈlæbrətɔːri/`<br/><br/> n. 实验室                       
+resonate, `/ˈrezəneɪt/`<br/><br/> v. 共鸣；共振；回响                  
+resonance, `/ˈrezənəns/`<br/><br/> n. 共鸣；共振；回响                  
+resonant, `/ˈrezənənt/`<br/><br/> adj. 洪亮的；共鸣的；共振的             
+creek, `/kriːk/`<br/><br/> n. 小溪，小河                     
+guardian, `/ˈɡɑːrdiən/`<br/><br/> n. 监护人；守护者                   
+conclude, `/kənˈkluːd/`<br/><br/> v. 结束，总结                     
+stall, `/stɔːl/`<br/><br/> n. 摊位；畜栏；<br />v. 使失速；拖延     
+beneficial, `/ˌbenɪˈfɪʃəl/`<br/><br/> adj. 有益的                     
+sue, `/suː/`<br/><br/> v. （尤指为要求赔偿金而）起诉；（尤因别无选择而）求和 
+scheme, `/skiːm/`<br/><br/> n. （造福他人的）计划；阴谋<br><br>v. 策划；密谋  
+gentleman, `/ˈdʒentəlmən/`<br/><br/> n. 绅士；有教养的人                  
+limp, `/lɪmp/`<br/><br/> v. 跛行<br><br>n. 跛行<br><br>adj. 无力的   
+generally, `/ˈdʒɛnərəli/`<br/><br/> adv. 通常；总体上                  
+major, `/ˈmeɪdʒər/`<br/><br/> adj. 主要的<br><br>n. 专业；少校<br><br>v. 主修 
+tire, `/taɪr/`<br/><br/> v. 使疲倦；厌倦<br><br>n. 轮胎（同 tyre） 
+conduct, `/kənˈdʌkt/` (v.)<br>`/ˈkɑndʌkt/` (n.)<br><br> v. 进行；指挥<br><br>n. 行为；管理   
+digest , `/daɪˈdʒɛst/` (v.)<br>`/ˈdaɪdʒɛst/` (n.)<br><br> v. 消化；理解<br><br>n. 摘要；文摘
 classy, `/ˈklæsi/`<br/><br/> adj. 时髦的；优雅的                   
 tony, `/ˈtoʊni/`<br/><br/> adj. 高雅的；豪华的                   
 cute, `/kjuːt/`<br/><br/> adj. 可爱的；漂亮的                   
