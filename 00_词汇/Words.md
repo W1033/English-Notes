@@ -4268,10 +4268,6 @@ Translator: ChatGPT 4 & 4o
 
 | 单词           | 美式发音           | 词类 + 汉语释义              |
 |---------------|-------------------|------------------------|
-| arcade        | `/ɑːrˈkeɪd/`       | n. 拱廊；电子游戏厅            |
-| defeat        | `/dɪˈfiːt/`        | n. 失败；v. 击败            |
-| establish     | `/ɪˈstæblɪʃ/`      | v. 建立，设立               |
-| established   | `/ɪˈstæblɪʃt/`     | adj. 确定的，已被认可的         |
 | gradient      | `/ˈɡreɪdiənt/`     | n. 坡度，梯度               |
 | personality   | `/ˌpɜːrsəˈnælɪti/` | n. 个性，性格               |
 | dainty        | `/ˈdeɪnti/`        | adj. 精致的，优雅的           |
@@ -4289,47 +4285,31 @@ Translator: ChatGPT 4 & 4o
 | dock          | `/dɑk/`            | n. 码头；v. 对接，进港         |
 | deck          | `/dɛk/`            | n. 甲板；v. 装饰            |
 
-```
-尚未通过 claude 纠正发音
 
-根据翻译规则和LDOCE的释义，以下是你提供的单词列表的详细翻译：
+| 单词          | 美式发音              | 词性 + 汉语释义       |
+|---------------|-------------------|-----------------|
+| arcade        | `/ɑːrˈkeɪd/`      | n. 拱廊；电子游戏厅     |
+| defeat        | `/dɪˈfiːt/`       | v. 击败<br>n. 失败  |
+| establish     | `/ɪˈstæblɪʃ/`     | v. 建立；确立        |
+| established   | `/ɪˈstæblɪʃt/`    | adj. 已建立的；已确立的  |
+| gradient      | `/ˈɡreɪdiənt/`    | n. 梯度；渐变；坡度；斜率  |
+| personality   | `/ˌpɜːrsəˈnæləti/` | n. 个性；人格        |
 
-### 最终翻译：
+| dainty        | `/ˈdeɪnti/`        | adj. 娇小的；精致的    |
+| disheartened  | `/dɪsˈhɑrtnd/`     | adj. 灰心的        |
+| expectation   | `/ˌɛkspɛkˈteɪʃən/` | n. 期待；预期        |
+| intimacy      | `/ˈɪntɪməsi/`      | n. 亲密；密切        |
+| insecurity    | `/ˌɪnsɪˈkjʊrɪti/`  | n. 不安全；不稳定      |
+| collide       | `/kəˈlaɪd/`        | v. 碰撞；冲突        |
+| insane        | `/ɪnˈseɪn/`        | adj. 疯狂的；精神失常的  |
+| compilation   | `/ˌkɑmpɪˈleɪʃən/`  | n. 汇编；编辑        |
+| reality       | `/riˈælɪti/`       | n. 现实；真实        |
+| circumstance  | `/ˈsɜrkəmˌstæns/`  | n. 情况；环境        |
+| emphatic      | `/ɪmˈfætɪk/`       | adj. 强调的；显著的    |
+| emphatically  | `/ɪmˈfætɪkli/`     | adv. 强调地；断然地    |
+| dock          | `/dɑk/`            | n. 码头<br>v. 靠码头 |
+| deck          | `/dɛk/`            | n. 甲板；层         |
 
-| 单词          | 美式发音         | 词性 + 汉语释义                          |
-|---------------|------------------|------------------------------------------|
-| arcade        | `/ɑrˈkeɪd/`      | n. 拱廊；街机厅                           |
-| defeat        | `/dɪˈfit/`       | v. 击败<br>n. 失败                        |
-| establish     | `/ɪˈstæblɪʃ/`    | v. 建立；确立                             |
-| established   | `/ɪˈstæblɪʃt/`   | adj. 已建立的；已确立的                   |
-| gradient      | `/ˈɡreɪdiənt/`   | n. 梯度；坡度                             |
-| personality   | `/ˌpɜrsəˈnælɪti/` | n. 个性；人格                             |
-| dainty        | `/ˈdeɪnti/`      | adj. 娇小的；精致的                       |
-| disheartened  | `/dɪsˈhɑrtnd/`   | adj. 灰心的                               |
-| expectation   | `/ˌɛkspɛkˈteɪʃən/` | n. 期待；预期                            |
-| intimacy      | `/ˈɪntɪməsi/`    | n. 亲密；密切                             |
-| insecurity    | `/ˌɪnsɪˈkjʊrɪti/` | n. 不安全；不稳定                        |
-| collide       | `/kəˈlaɪd/`      | v. 碰撞；冲突                             |
-| insane        | `/ɪnˈseɪn/`      | adj. 疯狂的；精神失常的                   |
-| compilation   | `/ˌkɑmpɪˈleɪʃən/` | n. 汇编；编辑                            |
-| reality       | `/riˈælɪti/`     | n. 现实；真实                             |
-| circumstance  | `/ˈsɜrkəmˌstæns/` | n. 情况；环境                            |
-| emphatic      | `/ɪmˈfætɪk/`     | adj. 强调的；显著的                       |
-| emphatically  | `/ɪmˈfætɪkli/`   | adv. 强调地；断然地                       |
-| dock          | `/dɑk/`          | n. 码头<br>v. 靠码头                      |
-| deck          | `/dɛk/`          | n. 甲板；层                                |
-
-### 解释：
-- **defeat**：保留了“击败”和“失败”两个主要释义，分别对应动词和名词的用法。
-- **arcade**：涵盖了“拱廊”和“街机厅”两个常见释义，分别适用于不同的场景。
-- **emphatic** 和 **emphatically**：分别保留了“强调的”和“强调地”的释义，强调了这两个单词的核心含义。
-- **dock** 和 **deck**：保留了动词和名词的主要释义，确保涵盖主要用法。
-
-### 调整说明：
-- 这个版本在确保简洁的同时，涵盖了每个单词的主要用法，避免了不必要的重复。
-
-请检查这个版本是否符合你的需求。如果有任何进一步的建议或需要讨论的地方，请随时告诉我。
-```
 
 
 #### Third Table - ~~已校对~~ - ~~已写入：GoodNotes~~
