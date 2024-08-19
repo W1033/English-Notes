@@ -19,6 +19,18 @@ Translator: ChatGPT 4o
 ## ▲ 待编辑生词
 
 
+### Add: 2024.08.19
+
+#### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+
+
+
+
 
 
 
@@ -4260,131 +4272,64 @@ Edit: 2024.08.15
 | exposure    | `/ɪkˈspoʊʒər/`    | n. 曝光；暴露            |
 
 
-#### Second Table - ~~已校对~~ - ~~已写入：GoodNotes~~
+#### Second Table - 已校对 - ~~已写入：GoodNotes~~
 
 Translator: ChatGPT 4 & 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词           | 美式发音           | 词类 + 汉语释义              |
-|---------------|-------------------|------------------------|
-| gradient      | `/ˈɡreɪdiənt/`     | n. 坡度，梯度               |
-| personality   | `/ˌpɜːrsəˈnælɪti/` | n. 个性，性格               |
-| dainty        | `/ˈdeɪnti/`        | adj. 精致的，优雅的           |
-| disheartened  | `/dɪsˈhɑːrtənd/`   | adj. 气馁的，失去勇气的         |
-| expectation   | `/ˌɛkspɛkˈteɪʃn/`  | n. 期望，预期               |
-| intimacy      | `/ˈɪntɪməsi/`      | n. 亲密，密切               |
-| insecurity    | `/ˌɪnsɪˈkjʊərɪti/` | n. 不安全，不稳定             |
-| collide       | `/kəˈlaɪd/`        | v. 碰撞，冲突               |
-| insane        | `/ɪnˈseɪn/`        | adj. 疯狂的，精神病的          |
-| compilation   | `/ˌkɒmpɪˈleɪʃn/`   | n. 编辑，汇编               |
-| reality       | `/rɪˈæləti/`       | n. 现实                  |
-| circumstance  | `/ˈsɜrkəmˌstæns/`  | n. 环境，情况               |
-| emphatic      | `/ɛmˈfætɪk/`       | adj. 强调的，着重的           |
-| emphatically  | `/ɛmˈfætɪkli/`     | adv. 断然地，强调地           |
-| dock          | `/dɑk/`            | n. 码头；v. 对接，进港         |
-| deck          | `/dɛk/`            | n. 甲板；v. 装饰            |
+| 单词            | 美式发音               | 词性 + 汉语释义          |
+|---------------|--------------------|--------------------|
+| arcade        | `/ɑːrˈkeɪd/`       | n. 拱廊；电子游戏厅        |
+| defeat        | `/dɪˈfiːt/`        | v. 击败<br>n. 失败     |
+| establish     | `/ɪˈstæblɪʃ/`      | v. 建立；确立           |
+| established   | `/ɪˈstæblɪʃt/`     | adj. 已建立的；已确立的     |
+| gradient      | `/ˈɡreɪdiənt/`     | n. 梯度；渐变；坡度；斜率     |
+| personality   | `/ˌpɜːrsəˈnæləti/` | n. 个性；人格           |
+| dainty        | `/ˈdeɪnti/`        | adj. 美味的；精致的       |
+| expectation   | `/ˌekspekˈteɪʃən/` | n. 期望；预期           |
+| intimacy      | `/ˈɪntəməsi/`      | n. 亲密；亲近           |
+| insecurity    | `/ˌɪnsɪˈkjʊrɪti/`  | n. 不安全；不稳定         |
+| collide       | `/kəˈlaɪd/`        | v. 碰撞；冲突           |
+| insane        | `/ɪnˈseɪn/`        | adj. 疯狂的；精神失常的     |
+| insanely      | `/ɪnˈseɪnli/`      | adv. 疯狂地；      |
+| compilation   | `/ˌkɑmpɪˈleɪʃən/`  | n. 编译；汇编           |
+| reality       | `/riˈæləti/`       | n. 现实；事实           |
+| circumstance  | `/ˈsɜrkəmˌstæns/`  | n. 情况；环境           |
+| emphatic      | `/ɪmˈfætɪk/`       | adj. 强调的；显著的       |
+| emphatically  | `/ɪmˈfætɪkli/`     | adv. 强调地；断然地       |
+| dock          | `/dɑːk/`           | n. 码头<br>v. 停靠码头   |
+| deck          | `/dɛk/`            | n. 甲板；层            |
 
 
-| 单词          | 美式发音              | 词性 + 汉语释义       |
-|---------------|-------------------|-----------------|
-| arcade        | `/ɑːrˈkeɪd/`      | n. 拱廊；电子游戏厅     |
-| defeat        | `/dɪˈfiːt/`       | v. 击败<br>n. 失败  |
-| establish     | `/ɪˈstæblɪʃ/`     | v. 建立；确立        |
-| established   | `/ɪˈstæblɪʃt/`    | adj. 已建立的；已确立的  |
-| gradient      | `/ˈɡreɪdiənt/`    | n. 梯度；渐变；坡度；斜率  |
-| personality   | `/ˌpɜːrsəˈnæləti/` | n. 个性；人格        |
-
-| dainty        | `/ˈdeɪnti/`        | adj. 娇小的；精致的    |
-| disheartened  | `/dɪsˈhɑrtnd/`     | adj. 灰心的        |
-| expectation   | `/ˌɛkspɛkˈteɪʃən/` | n. 期待；预期        |
-| intimacy      | `/ˈɪntɪməsi/`      | n. 亲密；密切        |
-| insecurity    | `/ˌɪnsɪˈkjʊrɪti/`  | n. 不安全；不稳定      |
-| collide       | `/kəˈlaɪd/`        | v. 碰撞；冲突        |
-| insane        | `/ɪnˈseɪn/`        | adj. 疯狂的；精神失常的  |
-| compilation   | `/ˌkɑmpɪˈleɪʃən/`  | n. 汇编；编辑        |
-| reality       | `/riˈælɪti/`       | n. 现实；真实        |
-| circumstance  | `/ˈsɜrkəmˌstæns/`  | n. 情况；环境        |
-| emphatic      | `/ɪmˈfætɪk/`       | adj. 强调的；显著的    |
-| emphatically  | `/ɪmˈfætɪkli/`     | adv. 强调地；断然地    |
-| dock          | `/dɑk/`            | n. 码头<br>v. 靠码头 |
-| deck          | `/dɛk/`            | n. 甲板；层         |
-
-
-
-#### Third Table - ~~已校对~~ - ~~已写入：GoodNotes~~
+#### Third Table - 已校对 - ~~已写入：GoodNotes~~
 
 Translator: ChatGPT 4 & 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词           | 美式发音           | 词类 + 汉语释义              |
-|---------------|-------------------|------------------------|
-| compel        | `/kəmˈpɛl/`        | v. 强迫，迫使               |
-| constrain     | `/kənˈstreɪn/`     | v. 约束，限制               |
-| conjugate     | `/ˈkɑndʒəˌɡeɪt/`   | v. （语法）使...成对，共轭       |
-| imperfect     | `/ɪmˈpɜrfɪkt/`     | adj. 不完美的              |
-| cost          | `/kɔst/`           | n. 成本；v. 花费            |
-| sunny         | `/ˈsʌni/`          | adj. 晴朗的               |
-| clear         | `/klɪr/`           | adj. 清晰的；晴朗的           |
-| scorching     | `/ˈskɔrtʃɪŋ/`      | adj. 酷热的               |
-| sweltering    | `/ˈswɛltərɪŋ/`     | adj. 闷热的               |
-| hot           | `/hɑt/`            | adj.热的                 |
-| frequent      | `/ˈfrikwənt/`      | adj. 频繁的；v. 常去         |
-| insane        | `/ɪnˈseɪn/`        | adj. 疯狂的               |
-| insanely      | `/ɪnˈseɪnli/`      | adv. 疯狂地               |
-| service       | `/ˈsɜrvɪs/`        | n. 服务；v. 维修            |
-| physician     | `/fɪˈzɪʃən/`       | n. 医生，内科医生             |
-| amateur       | `/ˈæmətər/`        | n. 业余爱好者               |
-| hum           | `/hʌm/`            | n. 嗡嗡声；v. 哼歌           |
-| spontaneous   | `/spɒnˈteɪniəs/`   | adj. 自发的，自然的           |
-| pail          | `/peɪl/`           | n. 桶                   |
-
-```
-尚未通过 claude 纠正发音
-
-根据翻译规则和LDOCE的释义，以下是你提供的单词列表的详细翻译：
-
-### 最终翻译：
-
-| 单词        | 美式发音         | 词性 + 汉语释义                          |
-|-------------|------------------|------------------------------------------|
-| compel      | `/kəmˈpɛl/`      | v. 强迫；迫使                             |
-| constrain   | `/kənˈstreɪn/`   | v. 限制；约束                             |
-| conjugate   | `/ˈkɑndʒəˌɡeɪt/` | v. 结合；变形                             |
-| imperfect   | `/ɪmˈpɜrfɪkt/`   | adj. 不完美的；未完成的                   |
-| cost        | `/kɔst/`         | n. 费用；代价<br>v. 花费                 |
-| sunny       | `/ˈsʌni/`        | adj. 晴朗的；阳光明媚的                   |
-| clear       | `/klɪr/`         | adj. 清楚的；明亮的<br>v. 清除            |
-| scorching   | `/ˈskɔrtʃɪŋ/`    | adj. 灼热的；极热的                       |
-| sweltering  | `/ˈswɛltərɪŋ/`   | adj. 闷热的                               |
-| hot         | `/hɑt/`          | adj. 热的；辣的                           |
-| frequent    | `/ˈfrikwənt/`    | adj. 频繁的<br>v. 经常光顾                |
-| insane      | `/ɪnˈseɪn/`      | adj. 疯狂的；精神失常的                   |
-| insanely    | `/ɪnˈseɪnli/`    | adv. 疯狂地；非常                         |
-| service     | `/ˈsɜrvɪs/`      | n. 服务；维修<br>v. 维护；提供服务        |
-| physician   | `/fɪˈzɪʃən/`     | n. 医生                                   |
-| amateur     | `/ˈæməˌtɜr/`     | n. 业余爱好者；外行<br>adj. 业余的        |
-| hum         | `/hʌm/`          | v. 哼唱；发出嗡嗡声<br>n. 嗡嗡声           |
-| spontaneous | `/spɑnˈteɪniəs/` | adj. 自发的；自然的                       |
-| pail        | `/peɪl/`         | n. 桶                                     |
-
-### 解释：
-- **constrain** 和 **compel**：分别保留了“限制”和“强迫”的释义，涵盖了这两个动词的主要用法。
-- **frequent**：保留了“频繁的”作为形容词释义，同时保留了动词释义“经常光顾”。
-- **insane** 和 **insanely**：分别保留了“疯狂的”和“疯狂地”作为主要释义，涵盖了精神状态和极端程度的表达。
-- **service**：保留了动词和名词的主要释义，确保涵盖其在服务业和维护中的常见用法。
-- **hum**：保留了动词和名词的释义，涵盖了发出声音和嗡嗡声的表达。
-
-### 调整说明：
-- 确保翻译简洁且涵盖了每个单词的主要用法，避免了重复或相似的释义。
-
-请检查这个版本是否符合你的需求。如果有任何进一步的建议或需要讨论的地方，请随时告诉我。
-```
+| 单词          | 美式发音          | 词性 + 汉语释义                       |
+|-------------|---------------|---------------------------------|
+| compel      | `/kəmˈpel/`   | v. 强迫；迫使                        |
+| constrain   | `/kənˈstreɪn/` | v. 强迫；约束；限制                     |
+| conjugate   | `/ˈkɑːndʒəɡeɪt/` | v. 结合；（动词）变位<br>adj. 共轭的        |
+| imperfect   | `/ɪmˈpɜːrfɪkt/` | adj. 不完美的；未完成的                  |
+| cost        | `/kɒːst/`     | n. 成本；费用<br>v. 花费；付出代价          |
+| sunny       | `/ˈsʌni/`     | adj. 晴朗的；阳光明媚的                  |
+| clear       | `/klɪr/`      | adj. 清楚的；明确的；透明的<br>v. 清除<br>adv. 远离 |
+| scorching   | `/ˈskɔːrtʃɪŋ/` | adj. 炎热的                        |
+| sweltering  | `/ˈsweltərɪŋ/` | adj. 闷热的                        |
+| hot         | `/hɑːt/`      | adj. 热的；辣的                      |
+| frequent    | `/ˈfriːkwənt/` | adj. 频繁的<br>v. 经常光顾             |
+| service     | `/ˈsɜːrvɪs/`    | n. 服务；维修<br>v. 维休；提供服务          |
+| physician   | `/fɪˈzɪʃən/`  | n. 医生；（尤指）内科医生                  |
+| amateur     | `/ˈæmətʃər/`    | n. 业余爱好者；外行<br>adj. 业余的         |
+| hum         | `/hʌm/`       | v. 哼唱；发出嗡嗡声<br>n. 嗡嗡声           |
+| spontaneous | `/spɑːnˈteɪniəs/` | adj. 自发的；自然的；本能的                |
+| pail        | `/peɪl/`      | n. 桶                            |
 
 
-
-#### Fourth Table - ~~已校对~~ - ~~已写入：GoodNotes~~
+#### Fourth Table - 已校对 - ~~已写入：GoodNotes~~
 
 Translator: ChatGPT 4 & 4o
 
@@ -4392,69 +4337,32 @@ Translator: ChatGPT 4 & 4o
 
 | 单词           | 美式发音            | 词类 + 汉语释义              |
 |---------------|-----------------|------------------------|
-| recollection  | `/ˌrekəˈlekʃən/` | n. 回忆，记忆               |
-| dunce         | `/dʌns/`        | n. 笨蛋，学习迟钝的人           |
-| low           | `/loʊ/`         | adj. 低的；adv. 低地        |
-| lowest        | `/ˈloʊɪst/`     | adj. 最低的               |
-| as long as    | N/A             | conj. 只要               |
-| too...to      | N/A             | 太...而不能...             |
-| notion        | `/ˈnoʊʃən/`     | n. 概念，想法               |
-| immediate     | `/ɪˈmiːdiət/`   | adj. 立即的，直接的           |
-| mate          | `/meɪt/`        | n. 伙伴，配偶；v. 配对         |
-| rotation      | `/roʊˈteɪʃən/`  | n. 旋转，轮换               |
 | albatross     | `/ˈælbətrɒs/`   | n. 信天翁，重负              |
 | ever          | `/ˈɛvər/`       | adv. 曾经                |
-| speed         | `/spiːd/`       | n. 速度；v. 加速            |
-| bracelet      | `/ˈbreɪslɪt/`   | n. 手镯                  |
 | near          | `/nɪər/`        | adj. 近的；adv. 近地；prep. 靠近 |
-| nearly        | `/ˈnɪərli/`     | adv. 几乎，差不多            |
-| tourist       | `/ˈtʊərɪst/`    | n. 旅游者，游客              |
 | rental        | `/ˈrɛntəl/`     | n. 租赁，出租物              |
-| deal          | `/diːl/`        | n. 交易；v. 处理            |
 
-```
-尚未通过 claude 纠正发音
 
-根据翻译规则和LDOCE的释义，以下是你提供的单词列表的详细翻译：
-
-### 最终翻译：
-
-| 单词          | 美式发音          | 词性 + 汉语释义                          |
-|---------------|-------------------|------------------------------------------|
-| recollection  | `/ˌrɛkəˈlɛkʃən/`  | n. 回忆；记忆力                          |
-| dunce         | `/dʌns/`          | n. 笨蛋；蠢材                            |
-| low           | `/loʊ/`           | adj. 低的；少的<br>adv. 低声地；低下     |
-| lowest        | `/loʊɪst/`        | adj. 最低的                              |
-| as long as    | `/æz lɔŋ æz/`     | phrase 只要；由于                         |
-| too...to      | `/tuː...tu/`      | phrase 太...而不能                       |
-| notion        | `/ˈnoʊʃən/`       | n. 概念；观念                            |
-| immediate     | `/ɪˈmidiɪt/`      | adj. 立即的；直接的                      |
-| mate          | `/meɪt/`          | n. 伙伴；配偶<br>v. 交配                |
-| rotation      | `/roʊˈteɪʃən/`    | n. 旋转；轮换                            |
-| albatross     | `/ˈælbəˌtrɔs/`    | n. 信天翁                                |
-| ever          | `/ˈɛvər/`         | adv. 曾经；总是                          |
-| speed         | `/spid/`          | n. 速度<br>v. 加速                       |
-| bracelet      | `/ˈbreɪslɪt/`     | n. 手镯；手链                            |
-| near          | `/nɪr/`           | adj. 近的<br>adv. 近地<br>v. 接近       |
-| nearly        | `/ˈnɪrli/`        | adv. 几乎；差不多                        |
-| tourist       | `/ˈtʊrɪst/`       | n. 游客                                 |
-| rental        | `/ˈrɛntəl/`       | n. 租金；租赁                            |
-| deal          | `/dil/`           | n. 交易<br>v. 处理；交易                |
-
-### 解释：
-- **low** 和 **lowest**：分别保留了“低的”及“最低的”作为形容词释义，确保涵盖不同程度的表达。
-- **as long as** 和 **too...to**：这两个词组常用于表示条件和程度，因此保留其主要释义。
-- **near** 和 **nearly**：分别保留了形容词、动词、以及副词释义，确保涵盖近距离的各种表达方式。
-- **mate**：保留了名词“伙伴”和“配偶”，以及动词“交配”两个主要释义。
-- **speed**：动词和名词释义都有较高使用频率，因此保留。
-- **deal**：保留了名词“交易”以及动词“处理”的主要释义。
-
-### 调整说明：
-- 翻译遵循了简洁性与全面性的平衡原则，删除了重复或相似的释义，保留了每个单词的主要用法。
-
-请检查这个版本是否符合你的需求。如果有任何进一步的建议或需要讨论的地方，请随时告诉我。
-
-```
+| 单词          | 美式发音          | 词性 + 汉语释义                   |
+|---------------|------------------|-----------------------------|
+| recollection  | `/ˌrekəˈlekʃən/`  | n. 回忆；记起                    |
+| dunce         | `/dʌns/`         | n. 笨蛋；蠢材                    |
+| low           | `/loʊ/`          | adj. 低的；矮的；少的<br>adv.低地；向下   |
+| lowest        | `/loʊɪst/`       | adj. 最低的                    |
+| as long as    | `/æz lɔŋ æz/`    | phrase 只要                |
+| too...to      | `/tuː...tu/`     | phrase 太...而不能              |
+| notion        | `/ˈnoʊʃən/`      | n. 概念；想法                   |
+| mate          | `/meɪt/`         | n. 伙伴；配偶<br>v. 交配           |
+| rotation      | `/roʊˈteɪʃən/`   | n. 旋转；轮换                    |
+| albatross     | `/ˈælbəˌtrɔs/`   | n. 信天翁                      |
+| ever          | `/ˈɛvər/`        | adv. 曾经；总是                  |
+| speed         | `/spid/`         | n. 速度<br>v. 加速              |
+| bracelet      | `/ˈbreɪslɪt/`    | n. 手镯；手链                    |
+| near          | `/nɪr/`          | adj. 近的<br>adv. 近地<br>v. 接近 |
+| nearly        | `/ˈnɪrli/`       | adv. 几乎；差不多                 |
+| tourist       | `/ˈtʊrɪst/`      | n. 游客                       |
+| rental        | `/ˈrɛntəl/`      | n. 租金；租赁                    |
+| deal          | `/dil/`          | n. 交易<br>v. 处理；交易           |
 
 
 
@@ -4478,7 +4386,6 @@ Translator: ChatGPT 4 & 4o
 | scent         | `/sɛnt/`           | n. 气味；v. 嗅出            |
 | single        | `/ˈsɪŋɡl/`         | adj. 单一的；未婚的；n. 单曲     |
 | afloat        | `/əˈfloʊt/`        | adj. & adv. 漂浮的        |
-| insane        | `/ɪnˈseɪn/`        | adj. 疯狂的               |
 | insanely      | `/ɪnˈseɪnli/`      | adv. 疯狂地               |
 | insanity      | `/ɪnˈsænɪti/`      | n. 疯狂，精神错乱             |
 | laugh         | `/læf/`            | v. 笑；n. 笑声             |
@@ -4512,7 +4419,6 @@ Translator: ChatGPT 4 & 4o
 | scent         | `/sɛnt/`          | n. 气味；香味<br>v. 嗅到；察觉          |
 | single        | `/ˈsɪŋɡəl/`       | adj. 单一的；单身的<br>n. 单曲          |
 | afloat        | `/əˈfloʊt/`       | adj. 漂浮的；经济上周转得开的            |
-| insane        | `/ɪnˈseɪn/`       | adj. 疯狂的；精神失常的                  |
 | insanely      | `/ɪnˈseɪnli/`     | adv. 疯狂地；极度地                      |
 | insanity      | `/ɪnˈsænɪti/`     | n. 疯狂；精神错乱                        |
 | laugh         | `/læf/`           | v. 笑<br>n. 笑声                         |
@@ -5120,7 +5026,6 @@ Edit: 2024.07.18
 | buck          | `/bʌk/`              | n. 雄鹿; 美元 (口语)<br>v. 弓背跃起; 反抗 | n. We saw a buck in the forest. <br>(我们在森林里看到了一个雄鹿。)<br>n. It costs five bucks. <br>(这要花五美元。)<br>v. The horse bucked and threw the rider off. <br>(马弓背跃起，把骑手甩了下来。)<br>v. He decided to buck the trend and start his own business. <br>(他决定反抗潮流，开始自己的生意。) |
 | prod          | `/prɑːd/`            | v. 〔用手指或尖物〕戳；督促<br>n. 戳；提醒 | v. She prodded him with her finger to wake him up. <br>(她用手指戳他，把他叫醒。)<br>v. The teacher prodded the students to finish their work. <br>(老师督促学生完成他们的作业。)<br>n. He gave me a gentle prod to get my attention. <br>(他轻轻地戳了我一下以引起我的注意。) |
 | autobiography | `/ˌɒːtəbaɪˈɑːɡrəfi/` | n. 自传                 | n. She wrote an autobiography about her life as a musician. <br>(她写了一本关于她作为音乐家的生活的自传。) |
-| recollection  | `/ˌrekəˈlekʃən/`     | n. 回忆；记忆              | n. My recollection of the event is vivid. <br>(我对这件事的回忆非常清晰。) |
 | hush          | `/hʌʃ/`              | v. 使安静<br>n. 安静       | v. She hushed the children during the movie. <br>(她在电影放映时让孩子们安静下来。)<br>n. There was a hush in the room when the teacher entered. <br>(老师进来时，房间里一片安静。) |
 | lullaby       | `/ˈlʌləbaɪ/`         | n. 摇篮曲                | n. She sang a lullaby to put the baby to sleep. <br>(她唱了一首摇篮曲哄宝宝入睡。) |
 | piece         | `/piːs/`             | n. 片；块；段<br>v. 拼合     | n. She gave me a piece of cake. <br>(她给了我一块蛋糕。)<br>n. This puzzle has 1,000 pieces. <br>(这个拼图有1000块。)<br>v. He pieced the broken vase back together. <br>(他把打碎的花瓶拼凑回去。) |
@@ -6324,7 +6229,6 @@ Translator: ChatGPT 4 & 4o
 | cottage   | `/ˈkɑːtɪdʒ/`   | n. 小屋；别墅              | They stayed in a cozy cottage by the lake. <br>(他们住在湖边的一间舒适的小屋里。) |
 | crash     | `/kræʃ/`       | v. 碰撞；崩溃<br>n. 碰撞；崩溃  | v. The car crashed into the tree. <br/>(车撞上了树。)<br/>The system crashed and all data was lost. <br/>(系统崩溃，所有数据都丢失了。)<br/>n. There was a loud crash. <br/>(传来一声巨响。)<br/>The market crash affected many investors. <br/>(市场崩溃影响了许多投资者。) |
 | smash     | `/smæʃ/`       | v. 打碎；猛撞<br>n. 撞击；扣杀  |  v. He accidentally smashed the vase. <br>(他不小心打碎了花瓶。)<br>v. The car smashed into the wall. <br>(汽车猛撞上了墙。)<br>n. The crash produced a loud smash. <br>(撞击产生了巨大的撞击声。)<br>n. He won the point with a powerful smash. <br>(他用有力的扣杀赢得了这一分。) |
-| collide   | `/kəˈlaɪd/`    | v. 碰撞；相撞              | The two cars collided at the intersection. <br/>(两辆车在交叉口相撞。)<br/>The ideas of the two leaders collided. <br/>(两位领导人的想法发生了冲突。) |
 | wreck     | `/rek/`        | v. 破坏；使失事<br/>n. 残骸；失事 | v. The storm wrecked several buildings. <br/>(风暴破坏了几座建筑。)<br/>The scandal wrecked his career. <br/>(丑闻毁了他的事业。)<br/>n. The ship was a total wreck. <br/>(那艘船完全成了一堆残骸。)<br/>They salvaged items from the car wreck. <br/>(他们从车祸残骸中打捞出物品。) |
 | fiction   | `/ˈfɪkʃən/`    | n. 小说；虚构              | She enjoys reading science fiction. <br/>(她喜欢读科幻小说。)<br/>The story is pure fiction. <br/>(这个故事纯属虚构。) |
 
