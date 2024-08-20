@@ -2767,7 +2767,6 @@ Translator: ChatGPT 4o
 | long   | `/lɒːŋ/`   | adj. 长的；长时间的；<br>adv. 长久地 | adj. The table is very long. <br>(桌子很长。)<br>adv. They have waited long for this moment. <br>(他们为这一刻等待了很长时间。) |
 | look   | `/lʊk/`    | v. 看；寻找；显得<br>n. 看；外观   | v. Look at the beautiful view. <br>(看看这美丽的景色。)<br>v. She is looking for her keys. <br>(她在找她的钥匙。)<br>v. You look tired. <br>(你看起来很累。)<br>n. He gave her a quick look. <br>(他迅速看了她一眼。)<br>She has a unique look. <br>(她有独特的外观。) |
 | lose   | `/luːz/`   | v. 失去；迷失                | He lost his keys. <br>(他丢了钥匙。) |
-| love   | `/lʌv/`    | v. 爱<br>n. 爱情           | v. I love spending time with my family. <br>(我爱和家人在一起。)<br>n. Their love for each other is evident. <br>(他们对彼此的爱是显而易见的。) |
 | make   | `/meɪk/`   | v. 制作；使得                | She made a cake for his birthday. <br>(她为他的生日做了一个蛋糕。) |
 | man    | `/mæn/`    | n. 男人；人类                | He is a kind man. <br>(他是一个善良的男人。) |
 
@@ -4077,6 +4076,11 @@ Translator: ChatGPT 4
 
 
 
+### ------ ------ ------ 笔记编辑线 ------ ------ ------
+### ------ ------ ------ 笔记编辑线 ------ ------ ------
+### ------ ------ ------ 笔记编辑线 ------ ------ ------
+
+
 
 ### Added: 2024.04.22
 
@@ -4086,31 +4090,31 @@ Translator: ChatGPT 4
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词               | 美式发音            |   词类 + 汉语释义        |   示例  |
-|-------------------|--------------------|------------------------| ------ |
-| slipup            | `/ˈslɪpˌʌp/       | n. 失误                 | His slipup in calculations caused a delay.<br>(他计算上的失误导致了延误。) |
-| toxic             | `/ˈtɑksɪk/        | adj. 有毒的             | Toxic waste must be handled carefully.<br>(有毒废物必须小心处理。) |
-| reversal          | `/rɪˈvɜrsəl/      | n. 翻转，逆转            | The court ordered a reversal of the previous decision.<br>(法院命令撤销之前的决定。) |
-| revest            | `/rɪˈvɛst/        | v. 重新装备，再授予       | The authority was revested in the new agency.<br>(权力被重新授予新机构。) |
-| cub               | `/kʌb/            | n. 幼兽                 | The bear cub followed its mother closely.<br>(熊幼崽紧紧跟随其母亲。) |
-| cube              | `/kjuːb/          | n. 立方体；v. 切成立方体  | n. A sugar cube is often used in tea.<br>(糖块经常用于茶中。)<br>v. Cube the potatoes for the stew.<br>(为炖菜切土豆块。) |
-| cubic             | `/ˈkjuːbɪk/       | adj. 立方的             | The cubic capacity of the engine is noted.<br>(引擎的立方容量被记录下来。) |
-| cubicle           | `/ˈkjuːbɪkl/      | n. 小隔间               | He works in a small cubicle in the office.<br>(他在办公室的一个小隔间工作。) |
-| pragmatist        | `/ˈpræɡmətɪst/    | n. 实用主义者           | As a pragmatist, he focuses on results rather than theories.<br>(作为一个实用主义者，他关注结果而非理论。) |
-| pragmatism        | `/ˈpræɡməˌtɪzəm/  | n. 实用主义              | His approach to management shows pragmatism.<br>(他的管理方式体现了实用主义。) |
-| impressionable    | `/ɪmˈprɛʃənəbl/   | adj. 易受影响的          | Young minds are often very impressionable.<br>(年轻的心智通常非常易受影响。) |
-| accept            | `/əkˈsɛpt/        | v. 接受                 | He decided to accept the job offer.<br>(他决定接受工作邀请。) |
-| far from it       | N/A                | 短语 远非如此            | He is not happy, far from it.<br>(他不开心，远非如此。) |
-| hit the streets   | N/A                | 短语 上街，流行           | As soon as the product hit the streets, it was a success.<br>(产品一上市，就大获成功。) |
-| contentious       | `/kənˈtɛnʃəs/     | adj. 有争议的            | The discussion became contentious.<br>(讨论变得有争议。) |
-| dyslexia          | `/dɪsˈlɛksiə/     | n. 阅读障碍，诵读困难      | She has been diagnosed with dyslexia.<br>(她被诊断出有阅读障碍。) |
-| dyslectic         | `/dɪsˈlɛktɪk/     | adj. 有阅读障碍的        | Dyslectic students often require special teaching methods.<br>(有阅读障碍的学生通常需要特殊的教学方法。) |
-| variability       | `/ˌvɛəriəˈbɪlɪti/ | n. 可变性               | The variability of the weather makes planning difficult.<br>(天气的可变性使得计划难以制定。) |
-| companion         | `/kəmˈpænjən/     | n. 伙伴，同伴            | She travelled with a companion.<br>(她和一位伙伴一起旅行。) |
-| seaman            | `/ˈsiːmən/        | n. 海员，水手            | He worked as a seaman for many years.<br>(他多年作为水手工作。) |
-| sow               | `/soʊ/            | v. 播种                 | They sow the seeds in early spring.<br>(他们在早春播种。) |
-| reap              | `/riːp/           | v. 收割，收获            | You reap what you sow.<br>(种瓜得瓜，种豆得豆。) |
-| backward          | `/ˈbækwərd/       | adj. 向后的，落后的；adv. 向后地  | adj. He took a few backward steps.<br>(他向后退了几步。)<br>adv. He looked backward.<br>(他向后看。) |
+| 单词               | 美式发音            |   词类 + 汉语释义        |
+|-------------------|--------------------|------------------------|
+| slipup            | `/ˈslɪpˌʌp/       | n. 失误                 |
+| toxic             | `/ˈtɑksɪk/        | adj. 有毒的             |
+| reversal          | `/rɪˈvɜrsəl/      | n. 翻转，逆转            |
+| revest            | `/rɪˈvɛst/        | v. 重新装备，再授予       |
+| cub               | `/kʌb/            | n. 幼兽                 |
+| cube              | `/kjuːb/          | n. 立方体；v. 切成立方体  |
+| cubic             | `/ˈkjuːbɪk/       | adj. 立方的             |
+| cubicle           | `/ˈkjuːbɪkl/      | n. 小隔间               |
+| pragmatist        | `/ˈpræɡmətɪst/    | n. 实用主义者           |
+| pragmatism        | `/ˈpræɡməˌtɪzəm/  | n. 实用主义              |
+| impressionable    | `/ɪmˈprɛʃənəbl/   | adj. 易受影响的          |
+| accept            | `/əkˈsɛpt/        | v. 接受                 |
+| far from it       | N/A                | 短语 远非如此            |
+| hit the streets   | N/A                | 短语 上街，流行           |
+| contentious       | `/kənˈtɛnʃəs/     | adj. 有争议的            |
+| dyslexia          | `/dɪsˈlɛksiə/     | n. 阅读障碍，诵读困难      |
+| dyslectic         | `/dɪsˈlɛktɪk/     | adj. 有阅读障碍的        |
+| variability       | `/ˌvɛəriəˈbɪlɪti/ | n. 可变性               |
+| companion         | `/kəmˈpænjən/     | n. 伙伴，同伴            |
+| seaman            | `/ˈsiːmən/        | n. 海员，水手            |
+| sow               | `/soʊ/            | v. 播种                 |
+| reap              | `/riːp/           | v. 收割，收获            |
+| backward          | `/ˈbækwərd/       | adj. 向后的，落后的；adv. 向后地  |
 
 
 #### Second Table - ~~已校对~~ - ~~已写入：GoodNotes~~
@@ -4119,30 +4123,30 @@ Translator: ChatGPT 4
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词             | 美式发音            | 词类 + 汉语释义              | 示例 |
-|------------------|-------------------|----------------------------|------|
-| transgress       | `/trænsˈɡrɛs/    | v. 违反，越界               | He was punished for transgressing the rules.<br>(他因违反规则而受到惩罚。) |
-| transgression    | `/trænsˈɡrɛʃən/ | n. 违法，罪行                | His transgressions were eventually forgiven.<br>(他的罪行最终被原谅。) |
-| transgenic       | `/trænsˈdʒɛnɪk/  | adj. 转基因的              | Transgenic crops are common in some regions.<br>(在某些地区，转基因作物很常见。) |
-| lander           | `/ˈlændər/       | n. 着陆器                  | The Mars lander transmitted data back to Earth.<br>(火星着陆器向地球传回数据。) |
-| specialise       | `/ˈspɛʃəˌlaɪz/  | v. 专门研究                 | He specialises in heart surgery.<br>(他专门研究心脏手术。) |
-| ceil             | `/siːl/          | v. 给（天花板）装天花板      | They decided to ceil the room with wood.<br>(他们决定用木头给房间装上天花板。) |
-| difficult        | `/ˈdɪfɪkəlt/     | adj. 困难的                | The test was more difficult than expected.<br>(测试比预期的更困难。) |
-| avoid            | `/əˈvɔɪd/        | v. 避免                    | He avoided making any serious commitments.<br>(他避免做出任何重大承诺。) |
-| adjectival       | `/ˌædʒɪkˈtaɪvəl/ | adj. 形容词的              | Adjectival forms are used to describe nouns.<br>(形容词形式用来描述名词。) |
-| anxious          | `/ˈæŋkʃəs/       | adj. 焦虑的                | She felt anxious about the upcoming exam.<br>(她对即将到来的考试感到焦虑。) |
-| soul             | `/soʊl/          | n. 灵魂                    | Music is good for the soul.<br>(音乐有益于灵魂。) |
-| never            | `/ˈnɛvər/        | adv. 从不                  | He said he would never do it again.<br>(他说他再也不会那么做了。) |
-| amiable          | `/ˈeɪmiəbəl/     | adj. 和蔼的，亲切的         | He is known for his amiable disposition.<br>(他以其和蔼的性情而闻名。) |
-| sideway          | `/ˈsaɪdˌweɪ/     | n. 侧面，侧道              | The car slid off the road into the sideway.<br>(汽车从道路上滑到了侧道。) |
-| contact          | `/ˈkɒntækt/      | n. 接触；v. 联系           | n. Avoid contact with toxic substances.<br>(避免接触有毒物质。)<br>v. Contact me when you arrive.<br>(你到达时联系我。) |
-| committee        | `/kəˈmɪti/       | n. 委员会                 | She serves on the budget committee.<br>(她在预算委员会任职。) |
-| philosophy       | `/fɪˈlɒsəfi/     | n. 哲学                   | His philosophy on life is quite intriguing.<br>(他的人生哲学非常吸引人。) |
-| bombardment      | `/bɒmˈbɑrdmənt/  | n. 轰炸                   | The city endured a heavy bombardment.<br>(这座城市经受了猛烈的轰炸。) |
-| policy           | `/ˈpɑləsi/       | n. 政策                   | The government introduced a new economic policy.<br>(政府推出了一项新的经济政策。) |
-| gingerly         | `/ˈdʒɪndʒərli/   | adv. 小心翼翼地            | He walked gingerly on the icy path.<br>(他小心翼翼地走在冰冷的小径上。) |
-| merit            | `/ˈmɛrɪt/        | n. 优点，价值；v. 值得      | n. The plan has considerable merit.<br>(这个计划具有相当的优点。)<br>v. The idea merits consideration.<br>(这个想法值得考虑。) |
-| utterly          | `/ˈʌtərli/        | adv. 完全地，彻底地        | He was utterly convinced of her innocence.<br>(他完全相信她的清白。) |
+| 单词             | 美式发音            | 词类 + 汉语释义              |
+|------------------|-------------------|----------------------------|
+| transgress       | `/trænsˈɡrɛs/    | v. 违反，越界               |
+| transgression    | `/trænsˈɡrɛʃən/ | n. 违法，罪行                |
+| transgenic       | `/trænsˈdʒɛnɪk/  | adj. 转基因的              |
+| lander           | `/ˈlændər/       | n. 着陆器                  |
+| specialise       | `/ˈspɛʃəˌlaɪz/  | v. 专门研究                 |
+| ceil             | `/siːl/          | v. 给（天花板）装天花板      |
+| difficult        | `/ˈdɪfɪkəlt/     | adj. 困难的                |
+| avoid            | `/əˈvɔɪd/        | v. 避免                    |
+| adjectival       | `/ˌædʒɪkˈtaɪvəl/ | adj. 形容词的              |
+| anxious          | `/ˈæŋkʃəs/       | adj. 焦虑的                |
+| soul             | `/soʊl/          | n. 灵魂                    |
+| never            | `/ˈnɛvər/        | adv. 从不                  |
+| amiable          | `/ˈeɪmiəbəl/     | adj. 和蔼的，亲切的         |
+| sideway          | `/ˈsaɪdˌweɪ/     | n. 侧面，侧道              |
+| contact          | `/ˈkɒntækt/      | n. 接触；v. 联系           |
+| committee        | `/kəˈmɪti/       | n. 委员会                 |
+| philosophy       | `/fɪˈlɒsəfi/     | n. 哲学                   |
+| bombardment      | `/bɒmˈbɑrdmənt/  | n. 轰炸                   |
+| policy           | `/ˈpɑləsi/       | n. 政策                   |
+| gingerly         | `/ˈdʒɪndʒərli/   | adv. 小心翼翼地            |
+| merit            | `/ˈmɛrɪt/        | n. 优点，价值；v. 值得      |
+| utterly          | `/ˈʌtərli/        | adv. 完全地，彻底地        |
 
 
 #### Third Table - ~~已校对~~ - ~~已写入：GoodNotes~~
@@ -4151,25 +4155,25 @@ Translator: ChatGPT 4
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词              | 美式发音              |  词类 + 汉语释义      | 示例 |
-|-------------------|---------------------|---------------------|------|
-| passage           | `/ˈpæsɪdʒ/         | n. 通道；段落         | He read a passage from his favorite book.<br>(他朗读了他最喜欢的书中的一段。) |
-| disaster          | `/dɪˈzæstər/       | n. 灾难               | The earthquake was a natural disaster.<br>(地震是一场自然灾难。) |
-| conductor         | `/kənˈdʌktər/      | n. 指挥；导体         | He works as a conductor on the train.<br>(他在火车上担任列车员。) |
-| grain             | `/ɡreɪn/           | n. 谷物；颗粒         | A grain of sand stuck in my shoe.<br>(一粒沙子卡在我的鞋里。) |
-| throughout        | `/θruˈaʊt/         | prep. & adv. 遍及     | She was known throughout the world.<br>(她在全世界都很有名。) |
-| thought           | `/θɔːt/            | n. 思考，想法         | He paused for a moment of thought.<br>(他停下来思考了一会儿。) |
-| nonthought        | N/A                 | n. 无思想             | This concept is an example of nonthought.<br>(这一概念是无思想的一个例子。) |
-| forethought       | `/ˈfɔrˌθɔt/        | n. 深谋远虑           | She showed great forethought in her preparations.<br>(她在准备中表现出了极大的深谋远虑。) |
-| awareness         | `/əˈwɛrˌnɪs/       | n. 意识，认知         | There is a growing awareness of the importance of diet.<br>(人们越来越意识到饮食的重要性。) |
-| oblivion          | `/əˈblɪviən/       | n. 遗忘               | His name sank into oblivion.<br>(他的名字逐渐被人遗忘。) |
-| ride              | `/raɪd/            | v. 骑，乘            | They went for a ride in the countryside.<br>(他们去乡下兜风。) |
-| rider             | `/ˈraɪdər/         | n. 骑士；乘客         | The rider galloped across the field.<br>(骑士在田野中疾驰。) |
-| chrysalis         | `/ˈkrɪsəlɪs/       | n. 蝶蛹               | The butterfly emerged from its chrysalis.<br>(蝴蝶从蛹中出现。) |
-| twist             | `/twɪst/           | v. 扭转；n. 旋转     | v. She twisted her ankle during the hike.<br>(她在远足时扭伤了脚踝。)<br>n. He gave the jar a firm twist.<br>(他用力旋转了罐子。) |
-| indistinguishable | `/ˌɪndɪˈstɪŋɡwɪʃəbl/ | adj. 无法区分的      | The twins were virtually indistinguishable.<br>(这对双胞胎几乎无法区分。) |
-| feign             | `/feɪn/            | v. 假装               | He feigned illness to avoid going to school.<br>(他假装生病以避免去上学。) |
-| pluralistic       | `/ˌplʊərəˈlɪstɪk/  | adj. 多元论的         | The country's pluralistic society includes many cultural groups.<br>(这个国家的多元社会包括许多文化群体。) |
+| 单词              | 美式发音              |  词类 + 汉语释义      |
+|-------------------|---------------------|---------------------|
+| passage           | `/ˈpæsɪdʒ/         | n. 通道；段落         |
+| disaster          | `/dɪˈzæstər/       | n. 灾难               |
+| conductor         | `/kənˈdʌktər/      | n. 指挥；导体         |
+| grain             | `/ɡreɪn/           | n. 谷物；颗粒         |
+| throughout        | `/θruˈaʊt/         | prep. & adv. 遍及     |
+| thought           | `/θɔːt/            | n. 思考，想法         |
+| nonthought        | N/A                 | n. 无思想             |
+| forethought       | `/ˈfɔrˌθɔt/        | n. 深谋远虑           |
+| awareness         | `/əˈwɛrˌnɪs/       | n. 意识，认知         |
+| oblivion          | `/əˈblɪviən/       | n. 遗忘               |
+| ride              | `/raɪd/            | v. 骑，乘            |
+| rider             | `/ˈraɪdər/         | n. 骑士；乘客         |
+| chrysalis         | `/ˈkrɪsəlɪs/       | n. 蝶蛹               |
+| twist             | `/twɪst/           | v. 扭转；n. 旋转     |
+| indistinguishable | `/ˌɪndɪˈstɪŋɡwɪʃəbl/ | adj. 无法区分的      |
+| feign             | `/feɪn/            | v. 假装               |
+| pluralistic       | `/ˌplʊərəˈlɪstɪk/  | adj. 多元论的         |
 
 
 #### Fourth Table - ~~已校对~~ - ~~已写入：GoodNotes~~
@@ -4178,27 +4182,27 @@ Translator: ChatGPT 4
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词              | 美式发音              | 词类 + 汉语释义               |    示例    |
-|-------------------|---------------------|-----------------------------|  ------   |
-| veil              | `/veɪl/            | n. 面纱；v. 遮盖              | n. She wore a beautiful veil on her wedding day.<br>(她在婚礼那天戴了一条美丽的面纱。)<br>v. The mountains were veiled in mist.<br>(山峦被雾气遮盖。) |
-| bliss             | `/blɪs/            | n. 极乐，幸福                 | Their marriage was pure bliss.<br>(他们的婚姻非常幸福。) |
-| bounteous         | `/ˈbaʊntiəs/       | adj. 慷慨的；丰富的            | The harvest was bounteous.<br>(收成是丰富的。) |
-| shoot             | `/ʃuːt/            | v. 射击；拍摄；n. 新芽         | v. He learned to shoot a bow and arrow.<br>(他学会了射箭。)<br>n. The plant is putting out new shoots.<br>(植物正在长出新芽。) |
-| shift             | `/ʃɪft/            | v. 转移；n. 转变；班次         | v. She shifted her position slightly.<br>(她轻微地改变了自己的位置。)<br>n. He works the night shift.<br>(他上夜班。) |
-| metamorphosis     | `/ˌmɛtəˈmɔːrfəsɪs/ | n. 形态变化                   | The metamorphosis of the caterpillar into a butterfly is fascinating.<br>(毛毛虫变成蝴蝶的过程令人着迷。) |
-| stasis            | `/ˈsteɪsɪs/        | n. 停滞状态                   | The country is in economic stasis.<br>(该国经济处于停滞状态。) |
-| stability         | `/stəˈbɪlɪti/      | n. 稳定                      | The new policy will ensure greater stability in the market.<br>(新政策将确保市场更大的稳定性。) |
-| constancy         | `/ˈkɒnstənsi/      | n. 坚定，恒久                 | His constancy was a major factor in their relationship success.<br>(他的坚定是他们关系成功的重要因素。) |
-| utter             | `/ˈʌtər/           | adj. 完全的；v. 发出（声音）    | adj. It was an utter disaster.<br>(那是彻底的灾难。)<br>v. He uttered a loud cry.<br>(他发出了一声响亮的喊叫。) |
-| summation         | `/sʌˈmeɪʃən/       | n. 总结                      | His summation of the arguments was clear.<br>(他对论点的总结非常清晰。) |
-| beard             | `/bɪərd/           | n. 胡须                      | He stroked his beard thoughtfully.<br>(他若有所思地抚摸着自己的胡须。) |
-| adjustment        | `/əˈdʒʌstmənt/     | n. 调整                      | The machine needs a minor adjustment.<br>(这台机器需要微调。) |
-| turn              | `/tɜrn/            | v. 转动；n. 转变              | v. She turned the key in the lock.<br>(她在锁孔中转动钥匙。)<br>n. It's my turn to cook dinner.<br>(轮到我做晚餐了。) |
-| migration         | `/maɪˈɡreɪʃən/     | n. 迁移                      | The annual migration of birds is a natural phenomenon.<br>(鸟类的年度迁徙是一种自然现象。) |
-| grow              | `/ɡroʊ/            | v. 生长，增长                 | Plants grow quickly in the right conditions.<br>(在适当的条件下，植物生长迅速。) |
-| resist            | `/rɪˈzɪst/         | v. 抵抗                      | He could not resist the temptation.<br>(他无法抵抗诱惑。) |
-| tip               | `/tɪp/`            | n. 尖端；小费；建议<br>v. 倾斜；给小费 | n. Be careful of the sharp tip of the knife.<br>(小心刀尖。)<br>n. He left a generous tip for the waiter.<br>(他给服务员留了丰厚的小费。)<br>n. Can you give me a tip on how to use this software?<br>(你能给我一些关于如何使用这个软件的建议吗？)<br>v. The boat tipped as we got on.<br>(我们上船时，船身倾斜了。)<br>v. She tipped the taxi driver.<br>(她给出租车司机小费。) |
-| invocation        | `/ˌɪnvəˈkeɪʃən/    | n. 祈祷                      | The ceremony opened with an invocation for peace.<br>(仪式以祈求和平的祷告开始。) |
+| 单词              | 美式发音              | 词类 + 汉语释义               |
+|-------------------|---------------------|-----------------------------|
+| veil              | `/veɪl/            | n. 面纱；v. 遮盖              |
+| bliss             | `/blɪs/            | n. 极乐，幸福                 |
+| bounteous         | `/ˈbaʊntiəs/       | adj. 慷慨的；丰富的            |
+| shoot             | `/ʃuːt/            | v. 射击；拍摄；n. 新芽         |
+| shift             | `/ʃɪft/            | v. 转移；n. 转变；班次         |
+| metamorphosis     | `/ˌmɛtəˈmɔːrfəsɪs/ | n. 形态变化                   |
+| stasis            | `/ˈsteɪsɪs/        | n. 停滞状态                   |
+| stability         | `/stəˈbɪlɪti/      | n. 稳定                      |
+| constancy         | `/ˈkɒnstənsi/      | n. 坚定，恒久                 |
+| utter             | `/ˈʌtər/           | adj. 完全的；v. 发出（声音）    |
+| summation         | `/sʌˈmeɪʃən/       | n. 总结                      |
+| beard             | `/bɪərd/           | n. 胡须                      |
+| adjustment        | `/əˈdʒʌstmənt/     | n. 调整                      |
+| turn              | `/tɜrn/            | v. 转动；n. 转变              |
+| migration         | `/maɪˈɡreɪʃən/     | n. 迁移                      |
+| grow              | `/ɡroʊ/            | v. 生长，增长                 |
+| resist            | `/rɪˈzɪst/         | v. 抵抗                      |
+| tip               | `/tɪp/`            | n. 尖端；小费；建议<br>v. 倾斜；给小费 |
+| invocation        | `/ˌɪnvəˈkeɪʃən/    | n. 祈祷                      |
 
 
 #### Fifth Table - ~~已校对~~ - ~~已写入：GoodNotes~~
@@ -4207,34 +4211,32 @@ Translator: ChatGPT 4
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词         | 美式发音              | 词类 + 汉语释义                | 示例 |
-|--------------|-------------------- |------------------------------|------|
-| specify      | `/ˈspɛsɪˌfaɪ/      | v. 指定；具体说明               | Please specify the changes you want in the document.<br>(请指定您希望在文档中进行的具体修改。) |
-| reconcile    | `/ˈrɛkənˌsaɪl/     | v. 和解；调和                  | They tried to reconcile their differences.<br>(他们试图调和他们之间的分歧。) |
-| divergent    | `/dɪˈvɜrdʒənt/     | adj. 发散的；不同的             | Their opinions are divergent.<br>(他们的意见不同。) |
-| squelch      | `/skwɛltʃ/         | v. 压制；镇压                  | The police squelched the disturbance quickly.<br>(警方迅速镇压了骚乱。) |
-| terminal     | `/ˈtɜrmɪnəl/       | adj. 末端的；终点的<br>n. 终端   | adj. Terminal illness is heartbreaking.<br>(终末期疾病令人心碎。)<br>n. She waited at the bus terminal.<br>(她在公交车终站等候。) |
-| ostensible   | `/ɑˈstɛnsəbəl/     | adj. 表面上的；假装的           | His ostensible reason was to help, but he had ulterior motives.<br>(他表面上的理由是帮忙，但他有不可告人的动机。) |
-| recursive    | `/rɪˈkɜrsɪv/       | adj. 递归的                    | Recursive functions are common in computer programming.<br>(在计算机编程中，递归函数很常见。) |
-| twin         | `/twɪn/            | n. 双胞胎之一<br>v. 成对，成双   | n. She has a twin brother.<br>(她有一个双胞胎兄弟。)<br>v. The two events twinned to create a major crisis.<br>(这两个事件合并导致了一场重大危机。) |
-| irritate     | `/ˈɪrɪˌteɪt/       | v. 激怒；刺激                  | Loud noise can irritate anyone.<br>(嘈杂的声音可以激怒任何人。) |
-| comeback     | `/ˈkʌmˌbæk/        | n. 复出；恢复                  | Her comeback in the tennis world was spectacular.<br>(她在网球界的复出非常壮观。) |
-| withstand    | `/wɪθˈstænd/       | v. 抵抗；承受                  | The structure was designed to withstand earthquakes.<br>(这个结构被设计用来抵抗地震。) |
-| windblown    | `/ˈwɪndˌbloʊn/     | adj. 风吹的                   | The windblown sand covered the paths.<br>(风吹过的沙子覆盖了小径。) |
-| dune         | `/duːn/            | n. 沙丘                       | The desert landscape is dominated by large dunes.<br>(沙漠景观以大型沙丘为主。) |
-| dense        | `/dɛns/            | adj. 密集的；浓厚的             | The forest is too dense to walk through.<br>(森林太密集，无法穿行。) |
-| count on     | `/kaʊnt ˈɑn/       | v. 依靠；指望                  | You can always count on me for support.<br>(你总是可以依靠我支持。) |
-| gear         | `/ɡɪr/             | n. 齿轮；装备<br>v. 配备，调整（以适应） | n. He shifted the car into high gear.<br>(他将车换成高速档。)<br>v. They geared up for the big game.<br>(他们为大赛做好了准备。) |
-| apparel      | `/əˈpɛrəl/         | n. 服装                        | The store offers a wide range of women's apparel.<br>(这家店提供各种女性服装。) |
-| footwear     | `/ˈfʊtˌwɛr/        | n. 鞋类                        | Good footwear is crucial for hiking.<br>(适合的鞋类对于徒步旅行至关重要。) |
-| moral        | `/ˈmɔrəl/          | adj. 道德的；n. 寓意            | adj. He faced a moral dilemma.<br>(他面临道德困境。)<br>n. The moral of the story is to be honest.<br>(这个故事的寓意是要诚实。) |
+| 单词         | 美式发音              | 词类 + 汉语释义                |
+|--------------|-------------------- |------------------------------|
+| specify      | `/ˈspɛsɪˌfaɪ/      | v. 指定；具体说明               |
+| reconcile    | `/ˈrɛkənˌsaɪl/     | v. 和解；调和                  |
+| divergent    | `/dɪˈvɜrdʒənt/     | adj. 发散的；不同的             |
+| squelch      | `/skwɛltʃ/         | v. 压制；镇压                  |
+| terminal     | `/ˈtɜrmɪnəl/       | adj. 末端的；终点的<br>n. 终端   |
+| ostensible   | `/ɑˈstɛnsəbəl/     | adj. 表面上的；假装的           |
+| recursive    | `/rɪˈkɜrsɪv/       | adj. 递归的                    |
+| twin         | `/twɪn/            | n. 双胞胎之一<br>v. 成对，成双   |
+| irritate     | `/ˈɪrɪˌteɪt/       | v. 激怒；刺激                  |
+| comeback     | `/ˈkʌmˌbæk/        | n. 复出；恢复                  |
+| withstand    | `/wɪθˈstænd/       | v. 抵抗；承受                  |
+| windblown    | `/ˈwɪndˌbloʊn/     | adj. 风吹的                   |
+| dune         | `/duːn/            | n. 沙丘                       |
+| dense        | `/dɛns/            | adj. 密集的；浓厚的             |
+| count on     | `/kaʊnt ˈɑn/       | v. 依靠；指望                  |
+| gear         | `/ɡɪr/             | n. 齿轮；装备<br>v. 配备，调整（以适应） |
+| apparel      | `/əˈpɛrəl/         | n. 服装                        |
+| footwear     | `/ˈfʊtˌwɛr/        | n. 鞋类                        |
+| moral        | `/ˈmɔrəl/          | adj. 道德的；n. 寓意            |
 
 
 
 
-### ------ ------ ------ 笔记编辑线 ------ ------ ------
-### ------ ------ ------ 笔记编辑线 ------ ------ ------
-### ------ ------ ------ 笔记编辑线 ------ ------ ------
+------ ------ ------ 以下已编辑 ------ ------ ------
 
 
 
@@ -4335,125 +4337,55 @@ Translator: ChatGPT 4 & 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词           | 美式发音            | 词类 + 汉语释义              |
-|---------------|-----------------|------------------------|
-| albatross     | `/ˈælbətrɒs/`   | n. 信天翁，重负              |
-| ever          | `/ˈɛvər/`       | adv. 曾经                |
-| near          | `/nɪər/`        | adj. 近的；adv. 近地；prep. 靠近 |
-| rental        | `/ˈrɛntəl/`     | n. 租赁，出租物              |
+| 单词           | 美式发音              | 词性 + 汉语释义             |
+|--------------|-------------------|-----------------------|
+| recollection | `/ˌrekəˈlekʃən/`  | n. 回忆；记起              |
+| dunce        | `/dʌns/`          | n. 笨蛋；蠢材              |
+| low          | `/loʊ/`           | adj. 低的；矮的；少的<br>adv.低地；向下 |
+| lowest       | `/loʊɪst/`        | adj. 最低的              |
+| as long as   | `/æz lɔŋ æz/`     | phrase 只要             |
+| too...to     | `/tuː...tu/`      | phrase 太...而不能        |
+| notion       | `/ˈnoʊʃən/`       | n. 概念；想法              |
+| mate         | `/meɪt/`          | n. 伙伴；配偶<br>v. 交配     |
+| rotation     | `/roʊˈteɪʃən/`    | n. 旋转；自转；轮换           |
+| albatross    | `/ˈælbətrɑːs/`    | n. 信天翁                |
+| ever         | `/ˈevər/`         | adv. 任何时候；曾经    |
+| speed        | `/spiːd/`         | n. 速度<br>v. 加速        |
+| bracelet     | `/ˈbreɪslət/`     | n. 手镯；手链              |
+| near         | `/nɪr/`           | adv. & prep. 接近；靠近<br>adj. 近的；即将到来的<br>v. 接近；临近 |
+| nearly       | `/ˈnɪrli/`        | adv. 几乎；差不多           |
+| tourist      | `/ˈtʊrɪst/`       | n. 游客                 |
+| rental       | `/ˈrɛntəl/`       | n. 租金；租赁              |
+| deal         | `/diːl/`          | n. 交易；协议<br>v. 处理；分发      |
 
 
-| 单词          | 美式发音          | 词性 + 汉语释义                   |
-|---------------|------------------|-----------------------------|
-| recollection  | `/ˌrekəˈlekʃən/`  | n. 回忆；记起                    |
-| dunce         | `/dʌns/`         | n. 笨蛋；蠢材                    |
-| low           | `/loʊ/`          | adj. 低的；矮的；少的<br>adv.低地；向下   |
-| lowest        | `/loʊɪst/`       | adj. 最低的                    |
-| as long as    | `/æz lɔŋ æz/`    | phrase 只要                |
-| too...to      | `/tuː...tu/`     | phrase 太...而不能              |
-| notion        | `/ˈnoʊʃən/`      | n. 概念；想法                   |
-| mate          | `/meɪt/`         | n. 伙伴；配偶<br>v. 交配           |
-| rotation      | `/roʊˈteɪʃən/`   | n. 旋转；轮换                    |
-| albatross     | `/ˈælbəˌtrɔs/`   | n. 信天翁                      |
-| ever          | `/ˈɛvər/`        | adv. 曾经；总是                  |
-| speed         | `/spid/`         | n. 速度<br>v. 加速              |
-| bracelet      | `/ˈbreɪslɪt/`    | n. 手镯；手链                    |
-| near          | `/nɪr/`          | adj. 近的<br>adv. 近地<br>v. 接近 |
-| nearly        | `/ˈnɪrli/`       | adv. 几乎；差不多                 |
-| tourist       | `/ˈtʊrɪst/`      | n. 游客                       |
-| rental        | `/ˈrɛntəl/`      | n. 租金；租赁                    |
-| deal          | `/dil/`          | n. 交易<br>v. 处理；交易           |
-
-
-
-#### Firth Table - ~~已校对~~ - ~~已写入：GoodNotes~~
+#### Firth Table - 已校对 - ~~已写入：GoodNotes~~
 
 Translator: ChatGPT 4 & 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词           | 美式发音           | 词类 + 汉语释义              |
-|---------------|-------------------|------------------------|
-| gossip        | `/ˈɡɑːsɪp/`        | n. 八卦，闲聊；v. 闲聊    |
-| lock          | `/lɑk/`            | n. 锁；v. 锁定             |
-| ethnic        | `/ˈɛθnɪk/`         | adj. 种族的，民族的           |
-| handout       | `/ˈhændˌaʊt/`      | n. 讲义，散发材料             |
-| earn          | `/ɜrn/`            | v. 赚得，挣得               |
-| earner        | `/ˈɜrnər/`         | n. 收入者，赚钱者             |
-| bleak         | `/blik/`           | adj. 阴冷的；凄凉的           |
-| backdoor      | `/ˈbækˌdɔr/`       | n. 后门；adj. 秘密的，非公开的    |
-| notable       | `/ˈnoʊtəbl/`       | adj. 显著的，著名的           |
-| scent         | `/sɛnt/`           | n. 气味；v. 嗅出            |
-| single        | `/ˈsɪŋɡl/`         | adj. 单一的；未婚的；n. 单曲     |
-| afloat        | `/əˈfloʊt/`        | adj. & adv. 漂浮的        |
-| insanely      | `/ɪnˈseɪnli/`      | adv. 疯狂地               |
-| insanity      | `/ɪnˈsænɪti/`      | n. 疯狂，精神错乱             |
-| laugh         | `/læf/`            | v. 笑；n. 笑声             |
-| love          | `/lʌv/`            | n. 爱；v. 爱慕             |
-| ambitious     | `/æmˈbɪʃəs/`       | adj. 有野心的，雄心壮志的        |
-| chunky        | `/ˈtʃʌŋki/`        | adj. 厚重的，矮胖的           |
-| communal      | `/ˈkɒmjənəl/`      | adj. 公共的，共享的           |
-| reciprocal    | `/rɪˈsɪprəkəl/`    | adj. 互惠的，相互的           |
-| rolled out    | `/roʊld aʊt/`      | v. 推出，展开               |
-| up their game | `N/A               | 短语 提高标准，加强努力           |
-
-
-```
-尚未通过 claude 纠正发音
-
-根据翻译规则和LDOCE的释义，以下是你提供的单词列表的详细翻译：
-
-### 最终翻译：
-
-| 单词          | 美式发音          | 词性 + 汉语释义                          |
-|---------------|-------------------|------------------------------------------|
-| gossip        | `/ˈɡɑsɪp/`        | n. 闲话；八卦<br>v. 说闲话              |
-| lock          | `/lɑk/`           | n. 锁<br>v. 锁上；固定                   |
-| ethnic        | `/ˈɛθnɪk/`        | adj. 民族的；种族的                      |
-| handout       | `/ˈhændˌaʊt/`     | n. 讲义；施舍品                          |
-| earn          | `/ɜrn/`           | v. 赚取；赢得                            |
-| earner        | `/ˈɜrnər/`        | n. 赚钱者；挣钱的工作                   |
-| bleak         | `/blik/`          | adj. 荒凉的；黯淡的                      |
-| backdoor      | `/ˈbækˌdɔr/`      | adj. 秘密的；不正当的                    |
-| notable       | `/ˈnoʊtəbəl/`     | adj. 显著的；值得注意的                  |
-| scent         | `/sɛnt/`          | n. 气味；香味<br>v. 嗅到；察觉          |
-| single        | `/ˈsɪŋɡəl/`       | adj. 单一的；单身的<br>n. 单曲          |
-| afloat        | `/əˈfloʊt/`       | adj. 漂浮的；经济上周转得开的            |
-| insanely      | `/ɪnˈseɪnli/`     | adv. 疯狂地；极度地                      |
-| insanity      | `/ɪnˈsænɪti/`     | n. 疯狂；精神错乱                        |
-| laugh         | `/læf/`           | v. 笑<br>n. 笑声                         |
-| love          | `/lʌv/`           | n. 爱；喜爱<br>v. 爱；喜欢               |
-| ambitious     | `/æmˈbɪʃəs/`      | adj. 有雄心的；有抱负的                  |
-| chunky        | `/ˈʧʌŋki/`        | adj. 矮胖的；厚实的                      |
-| communal      | `/ˈkɑmjənəl/`     | adj. 公共的；共有的                      |
-| reciprocal    | `/rɪˈsɪprəkəl/`   | adj. 互惠的；相互的                      |
-| rolled out    | `/roʊld aʊt/`     | phrase 推出；开展                         |
-| up their game | `/ʌp ðɛr ɡeɪm/`  | phrase 提高水平                          |
-
-### 解释：
-- **gossip**：保留了名词和动词释义，涵盖了“闲话”和“说闲话”的常见用法。
-- **lock**：动词和名词释义都有较高使用频率，因此保留。
-- **handout**：保留“讲义”和“施舍品”作为主要释义。
-- **earner**：保留了“赚钱者”和“挣钱的工作”这两个释义。
-- **backdoor**：作为形容词保留“秘密的”或“不正当的”这两个常见释义。
-- **scent**：动词和名词释义都很常用，因此保留。
-- **single**：保留了“单一的”和“单曲”这两个释义。
-- **afloat**：保留“漂浮的”和“经济上周转得开的”这两个释义。
-- **insane**，**insanely**，**insanity**：这三个词的释义相互关联，因此分别保留其常见释义。
-- **rolled out** 和 **up their game**：作为短语动词和短语表达保留，分别表示“推出”和“提高水平”。
-
-### 调整说明：
-- 这个翻译版本在确保简洁的同时，涵盖了每个单词的主要用法，删除了重复或相似的释义，符合简洁性与全面性的平衡原则。
-
-请检查这个版本是否符合你的需求。如果有任何进一步的建议或需要讨论的地方，请随时告诉我。
-
-```
-
-
-
-
-
------- ------ ------ 以下已编辑 ------ ------ ------
+| 单词          | 美式发音             | 词性 + 汉语释义                 |
+|---------------|------------------|---------------------------|
+| gossip        | `/ˈɡɑːsɪp/`      | n. 八卦，闲话<br>v. 说闲话        |
+| lock          | `/lɑːk/`         | n. 锁<br>v. 锁住；固定          |
+| ethnic        | `/ˈeθnɪk/`       | adj. 种族的；民族的              |
+| handout       | `/ˈhændaʊt/`     | n. 讲义；施舍品                 |
+| earn          | `/ɜːrn/`         | v. 赚取；获得                  |
+| earner        | `/ˈɜːrnər/`      | n. 赚钱者；收入者                |
+| bleak         | `/bliːk/`        | adj. 荒凉的；黯淡的              |
+| backdoor      | `/ˈbækˌdɔr/`     | adj. 秘密的                  |
+| notable       | `/ˈnoʊtəbəl/`    | adj. 显著的；值得注意的            |
+| scent         | `/sɛnt/`         | n. 气味；香味<br>v. 嗅出         |
+| single        | `/ˈsɪŋɡəl/`      | adj. 单一的；单身的<br>n. 单曲     |
+| afloat        | `/əˈfloʊt/`      | adj. 漂浮的；经济上周转得开的         |
+| insanity      | `/ɪnˈsænəti/`    | n. 疯狂；精神错乱                |
+| love          | `/lʌv/`          | v. 爱；喜欢<br>n. 爱；爱情        |
+| ambitious     | `/æmˈbɪʃəs/`     | adj. 有抱负的﹐有野心的            |
+| chunky        | `/ˈʧʌŋki/`       | adj. 矮胖的；厚实的              |
+| communal      | `/ˈkɑːmjənəl/`   | adj. 公共的；公有的              |
+| reciprocal    | `/rɪˈsɪprəkəl/`  | adj. 互惠的；相互的<br>n. [数] 倒数 |
+| rolled out    | `/roʊld aʊt/`    | phrase 推出；发布；展开           |
 
 
 

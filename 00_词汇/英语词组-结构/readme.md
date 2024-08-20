@@ -51,7 +51,7 @@
 
 ## ▲ 结构
 
-### △  too...to... 句型 （太...而不能...）
+### ★  too...to... 句型 （太...而不能...）
 
 > 笔记来源：https://www.en998.com/gs/writing/020191022.html
 
@@ -109,11 +109,17 @@
 
 ## ▲ 词组
 
-### △ "更不用说"、"更别提" 英文怎么说
+### ★ "更不用说"、"更别提" 英文怎么说
 
 > 笔记来源：https://www.en998.com/gs/writing/020191025.html
 
-英文中表示“更不用说”，“更别提”的常用短语有: ==**let alone**==, ==**much less**==, ==**still less**== 等。
+英文中表示“更不用说”，“更别提”的常用短语有: **let alone**, **much less**, **still less** 等。
+
+| 短语                       | 英文           |
+| -------------------------- | -------------- |
+| “更不用说”，<br />“更别提” | **let alone**  |
+|                            | **much less**  |
+|                            | **still less** |
 
 “更不用说”表示的是一种递进关系。它所表达的意思是：因为前一件事不是真的或可能的，下一件事也不可能是真的或可能的。所以这种句子通常主句会是否定句，如：
 
@@ -161,7 +167,7 @@ much less, still less 与 let alone 的用法类似。
 
 
 
-### △ Walk 常见组词
+### ★ Walk 常见词组
 
 ```md
 Add: 2024.08.14
@@ -180,11 +186,46 @@ Answer: ChatGPT 4o
 
 
 
+### ★ ever 常见词组
+
+```md
+Add: 2024.08.20
+Source: LDOCE 6 & GPT 4o
+Answer: ChatGPT 4o
+```
+
+
+| 单词          | 美式发音             | 词性 + 汉语释义              |
+|---------------|------------------|------------------------|
+| ever          | `/ˈevər/`        | adv. 任何时候；曾经    |
+
+
+<img src="./readme.assets/image-20240820104505228.png" alt="image-20240820104505228" style="zoom:54%;" />
+
+| 短语                  | 英式发音          | 短语 + 汉语释义                                          |
+|---------------------|-------------------|---------------------------------------------------------|
+| hardly ever         | `/ˈhɑrdli ˈɛvər/` | 几乎从不                                                |
+| never ever          | `/ˈnɛvər ˈɛvər/`  | 绝对不；从不                                             |
+| for ever            | `/fɔr ˈɛvər/`     | 永远                                                    |
+| as ever             | `/æz ˈɛvər/`      | 同往常一样；一如既往                                     |
+| ever since          | `/ˈɛvər sɪns/`    | 从…以后一直                                             |
+| ever after          | `/ˈɛvər ˈæftər/`  | 从此以后                                                 |
+| hotter/colder/better etc than ever | `/ˈhɒtər/ˈkoʊldər/ˈbɛtər/ˈɛt ˈsɛt/ðæn ˈɛvər/` | 比以往任何时候都更热/冷/好等           |
+| as friendly/cheerful/miserable etc as ever | `/æz ˈfrɛndli/ˈʧɪrfəl/ˈmɪzərəbəl/ˈɛt ˈsɛt/æz ˈɛvər/` | 与往常一样友好/快乐/痛苦等         |
+| ever so cold/wet/nice etc | `/ˈɛvər soʊ kəʊld/wɛt/naɪs/ˈɛt sɛt/` | 非常冷/湿/好等                    |
+| ever such           | `/ˈɛvər sʌtʃ/`    | 非常；很                                                  |
+
+| 短语                             | 英式发音                           | 短语 + 汉语释义                          |
+| -------------------------------- | ---------------------------------- | ---------------------------------------- |
+| ever-increasing/ever-present etc | `/ˈɛvər ɪnˈkrisɪŋ/ˈɛvər ˈprɛzənt/` | 不断增加的/始终存在的等                  |
+| Yours ever/Ever yours            | `/ˈjʊrz ˈɛvər/ˈɛvər jʊrz/`         | 你永远的（书信末尾的套语）               |
+| if ever there was one            | `/ɪf ˈɛvər ðɛr wəz wʌn/`           | 确实（用于表示某人或某物是个典型的例子） |
 
 
 
 
-### △ 剪指甲，擤鼻涕，挤痘痘用英语怎么说？
+
+### ★ 剪指甲，擤鼻涕，挤痘痘用英语怎么说？
 
 ```md
 Source: https://www.bilibili.com/video/BV1WE4m1d7YN/?spm_id_from=333.1007.tianma.3-1-7.click&vd_source=e92153ec1930505e455be52646a78b7c
