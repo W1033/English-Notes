@@ -5,100 +5,6 @@
 
 
 
-| 单词           | 美式发音               | 词性 + 汉语释义           |
-|--------------|--------------------|---------------------|
-| post         | `/poʊst/`          | n. 邮件；职位<br>v. 邮寄；张贴 |
-| compilation  | `/ˌkɑmpəˈleɪʃən/`  | n. 汇编；编辑            |
-| note         | `/noʊt/`           | n. 笔记；便签；注释；音符<br>v. 注意；记录 |
-| herring      | `/ˈherɪŋ/`         | n. 鲱鱼               |
-| presume      | `/prɪˈzuːm/`       | v. 假设；推测            |
-| afar         | `/əˈfɑr/`          | adv. 遥远地；在远处        |
-| subsist      | `/səbˈsɪst/`       | v. 生存；维持生活          |
-| trespass     | `/ˈtrespæs/`       | v. 非法入侵；侵犯<br>n. 非法入侵；侵犯 |
-| thrill       | `/θrɪl/`           | n. 兴奋；激动<br>v. 使激动  |
-| destine      | `/ˈdɛstɪn/`        | v. 注定               |
-| genetical    | `/dʒəˈnetɪkəl/`    | adj. 遗传的            |
-| previous     | `/ˈpriːviəs/`      | adj. 以前的；前一个的       |
-| hate         | `/heɪt/`           | v. 憎恨；讨厌<br>n. 憎恨   |
-| tribute      | `/ˈtrɪbjuːt/`      | n. 贡品；敬意            |
-| distraction  | `/dɪˈstrækʃən/`    | n. 分心；消遣            |
-| soundtrack   | `/ˈsaʊndtræk/`     | n. 电影配乐             |
-| fusion       | `/ˈfjuːʒən/`       | n. 融合；核聚变           |
-| brake        | `/breɪk/`          | n. 刹车<br>v. 刹车      |
-| exposure     | `/ɪkˈspoʊʒər/`     | n. 曝光；暴露            |
-| arcade       | `/ɑːrˈkeɪd/`       | n. 拱廊；电子游戏厅        |
-| defeat       | `/dɪˈfiːt/`        | v. 击败<br>n. 失败     |
-| establish    | `/ɪˈstæblɪʃ/`      | v. 建立；确立           |
-| established  | `/ɪˈstæblɪʃt/`     | adj. 已建立的；已确立的     |
-| gradient     | `/ˈɡreɪdiənt/`     | n. 梯度；渐变；坡度；斜率     |
-| personality  | `/ˌpɜːrsəˈnæləti/` | n. 个性；人格           |
-| dainty       | `/ˈdeɪnti/`        | adj. 美味的；精致的       |
-| expectation  | `/ˌekspekˈteɪʃən/` | n. 期望；预期           |
-| intimacy     | `/ˈɪntəməsi/`      | n. 亲密；亲近           |
-| insecurity   | `/ˌɪnsɪˈkjʊrɪti/`  | n. 不安全；不稳定         |
-| collide      | `/kəˈlaɪd/`        | v. 碰撞；冲突           |
-| insane       | `/ɪnˈseɪn/`        | adj. 疯狂的；精神失常的     |
-| insanely     | `/ɪnˈseɪnli/`      | adv. 疯狂地；      |
-| compilation  | `/ˌkɑmpɪˈleɪʃən/`  | n. 编译；汇编           |
-| reality      | `/riˈæləti/`       | n. 现实；事实           |
-| circumstance | `/ˈsɜrkəmˌstæns/`  | n. 情况；环境           |
-| emphatic     | `/ɪmˈfætɪk/`       | adj. 强调的；显著的       |
-| emphatically | `/ɪmˈfætɪkli/`     | adv. 强调地；断然地       |
-| dock         | `/dɑːk/`           | n. 码头<br>v. 停靠码头   |
-| deck         | `/dɛk/`            | n. 甲板；层            |
-| compel       | `/kəmˈpel/`        | v. 强迫；迫使                        |
-| constrain    | `/kənˈstreɪn/`     | v. 强迫；约束；限制                     |
-| conjugate    | `/ˈkɑːndʒəɡeɪt/`   | v. 结合；（动词）变位<br>adj. 共轭的        |
-| imperfect    | `/ɪmˈpɜːrfɪkt/`    | adj. 不完美的；未完成的                  |
-| cost         | `/kɒːst/`          | n. 成本；费用<br>v. 花费；付出代价          |
-| sunny        | `/ˈsʌni/`          | adj. 晴朗的；阳光明媚的                  |
-| clear        | `/klɪr/`           | adj. 清楚的；明确的；透明的<br>v. 清除<br>adv. 远离 |
-| scorching    | `/ˈskɔːrtʃɪŋ/`     | adj. 炎热的                        |
-| sweltering   | `/ˈsweltərɪŋ/`     | adj. 闷热的                        |
-| hot          | `/hɑːt/`           | adj. 热的；辣的                      |
-| frequent     | `/ˈfriːkwənt/`     | adj. 频繁的<br>v. 经常光顾             |
-| service      | `/ˈsɜːrvɪs/`       | n. 服务；维修<br>v. 维休；提供服务          |
-| physician    | `/fɪˈzɪʃən/`       | n. 医生；（尤指）内科医生                  |
-| amateur      | `/ˈæmətʃər/`       | n. 业余爱好者；外行<br>adj. 业余的         |
-| hum          | `/hʌm/`            | v. 哼唱；发出嗡嗡声<br>n. 嗡嗡声           |
-| spontaneous  | `/spɑːnˈteɪniəs/`  | adj. 自发的；自然的；本能的                |
-| pail         | `/peɪl/`           | n. 桶                            |
-| recollection | `/ˌrekəˈlekʃən/`   | n. 回忆；记起              |
-| dunce        | `/dʌns/`           | n. 笨蛋；蠢材              |
-| low          | `/loʊ/`            | adj. 低的；矮的；少的<br>adv.低地；向下 |
-| lowest       | `/loʊɪst/`         | adj. 最低的              |
-| as long as   | `/æz lɔŋ æz/`      | phrase 只要             |
-| too...to     | `/tuː...tu/`       | phrase 太...而不能        |
-| notion       | `/ˈnoʊʃən/`        | n. 概念；想法              |
-| mate         | `/meɪt/`           | n. 伙伴；配偶<br>v. 交配     |
-| rotation     | `/roʊˈteɪʃən/`     | n. 旋转；自转；轮换           |
-| albatross    | `/ˈælbətrɑːs/`     | n. 信天翁                |
-| ever         | `/ˈevər/`          | adv. 任何时候；曾经    |
-| speed        | `/spiːd/`          | n. 速度<br>v. 加速        |
-| bracelet     | `/ˈbreɪslət/`      | n. 手镯；手链              |
-| near         | `/nɪr/`            | adv. & prep. 接近；靠近<br>adj. 近的；即将到来的<br>v. 接近；临近 |
-| nearly       | `/ˈnɪrli/`         | adv. 几乎；差不多           |
-| tourist      | `/ˈtʊrɪst/`        | n. 游客                 |
-| rental       | `/ˈrɛntəl/`        | n. 租金；租赁              |
-| deal         | `/diːl/`           | n. 交易；协议<br>v. 处理；分发      |
-| gossip       | `/ˈɡɑːsɪp/`        | n. 八卦，闲话<br>v. 说闲话        |
-| lock         | `/lɑːk/`           | n. 锁<br>v. 锁住；固定          |
-| ethnic       | `/ˈeθnɪk/`         | adj. 种族的；民族的              |
-| handout      | `/ˈhændaʊt/`       | n. 讲义；施舍品                 |
-| earn         | `/ɜːrn/`           | v. 赚取；获得                  |
-| earner       | `/ˈɜːrnər/`        | n. 赚钱者；收入者                |
-| bleak        | `/bliːk/`          | adj. 荒凉的；黯淡的              |
-| backdoor     | `/ˈbækˌdɔr/`       | adj. 秘密的                  |
-| notable      | `/ˈnoʊtəbəl/`      | adj. 显著的；值得注意的            |
-| scent        | `/sɛnt/`           | n. 气味；香味<br>v. 嗅出         |
-| single       | `/ˈsɪŋɡəl/`        | adj. 单一的；单身的<br>n. 单曲     |
-| afloat       | `/əˈfloʊt/`        | adj. 漂浮的；经济上周转得开的         |
-| insanity     | `/ɪnˈsænəti/`      | n. 疯狂；精神错乱                |
-| love         | `/lʌv/`            | v. 爱；喜欢<br>n. 爱；爱情        |
-| ambitious    | `/æmˈbɪʃəs/`       | adj. 有抱负的﹐有野心的            |
-| chunky       | `/ˈʧʌŋki/`         | adj. 矮胖的；厚实的              |
-| communal     | `/ˈkɑːmjənəl/`     | adj. 公共的；公有的              |
-| reciprocal   | `/rɪˈsɪprəkəl/`    | adj. 互惠的；相互的<br>n. [数] 倒数 |
 
 
 
@@ -108,6 +14,109 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+post, `/poʊst/`<br/><br/> n. 邮件；职位<br><br>v. 邮寄；张贴 
+compilation, `/ˌkɑmpəˈleɪʃən/`<br/><br/> n. 汇编；编辑            
+note, `/noʊt/`<br/><br/> n. 笔记；便签；注释；音符<br><br>v. 注意；记录 
+herring, `/ˈherɪŋ/`<br/><br/> n. 鲱鱼               
+presume, `/prɪˈzuːm/`<br/><br/> v. 假设；推测            
+afar, `/əˈfɑr/`<br/><br/> adv. 遥远地；在远处        
+subsist, `/səbˈsɪst/`<br/><br/> v. 生存；维持生活          
+trespass, `/ˈtrespæs/`<br/><br/> v. 非法入侵；侵犯<br><br>n. 非法入侵；侵犯 
+thrill, `/θrɪl/`<br/><br/> n. 兴奋；激动<br><br>v. 使激动  
+destine, `/ˈdɛstɪn/`<br/><br/> v. 注定               
+genetical, `/dʒəˈnetɪkəl/`<br/><br/> adj. 遗传的            
+previous, `/ˈpriːviəs/`<br/><br/> adj. 以前的；前一个的       
+hate, `/heɪt/`<br/><br/> v. 憎恨；讨厌<br><br>n. 憎恨   
+tribute, `/ˈtrɪbjuːt/`<br/><br/> n. 贡品；敬意            
+distraction, `/dɪˈstrækʃən/`<br/><br/> n. 分心；消遣            
+soundtrack, `/ˈsaʊndtræk/`<br/><br/> n. 电影配乐             
+fusion, `/ˈfjuːʒən/`<br/><br/> n. 融合；核聚变           
+brake, `/breɪk/`<br/><br/> n. 刹车<br><br>v. 刹车      
+exposure, `/ɪkˈspoʊʒər/`<br/><br/> n. 曝光；暴露            
+arcade, `/ɑːrˈkeɪd/`<br/><br/> n. 拱廊；电子游戏厅        
+defeat, `/dɪˈfiːt/`<br/><br/> v. 击败<br><br>n. 失败     
+establish, `/ɪˈstæblɪʃ/`<br/><br/> v. 建立；确立           
+established, `/ɪˈstæblɪʃt/`<br/><br/> adj. 已建立的；已确立的     
+gradient, `/ˈɡreɪdiənt/`<br/><br/> n. 梯度；渐变；坡度；斜率     
+personality, `/ˌpɜːrsəˈnæləti/`<br/><br/> n. 个性；人格           
+dainty, `/ˈdeɪnti/`<br/><br/> adj. 美味的；精致的       
+expectation, `/ˌekspekˈteɪʃən/`<br/><br/> n. 期望；预期           
+intimacy, `/ˈɪntəməsi/`<br/><br/> n. 亲密；亲近           
+insecurity, `/ˌɪnsɪˈkjʊrɪti/`<br/><br/> n. 不安全；不稳定         
+collide, `/kəˈlaɪd/`<br/><br/> v. 碰撞；冲突           
+insane, `/ɪnˈseɪn/`<br/><br/> adj. 疯狂的；精神失常的     
+insanely, `/ɪnˈseɪnli/`<br/><br/> adv. 疯狂地；      
+compilation, `/ˌkɑmpɪˈleɪʃən/`<br/><br/> n. 编译；汇编           
+reality, `/riˈæləti/`<br/><br/> n. 现实；事实           
+circumstance, `/ˈsɜrkəmˌstæns/`<br/><br/> n. 情况；环境           
+emphatic, `/ɪmˈfætɪk/`<br/><br/> adj. 强调的；显著的       
+emphatically, `/ɪmˈfætɪkli/`<br/><br/> adv. 强调地；断然地       
+dock, `/dɑːk/`<br/><br/> n. 码头<br><br>v. 停靠码头   
+deck, `/dɛk/`<br/><br/> n. 甲板；层            
+compel, `/kəmˈpel/`<br/><br/> v. 强迫；迫使                        
+constrain, `/kənˈstreɪn/`<br/><br/> v. 强迫；约束；限制                     
+conjugate, `/ˈkɑːndʒəɡeɪt/`<br/><br/> v. 结合；（动词）变位<br><br>adj. 共轭的        
+imperfect, `/ɪmˈpɜːrfɪkt/`<br/><br/> adj. 不完美的；未完成的                  
+cost, `/kɒːst/`<br/><br/> n. 成本；费用<br><br>v. 花费；付出代价          
+sunny, `/ˈsʌni/`<br/><br/> adj. 晴朗的；阳光明媚的                  
+clear, `/klɪr/`<br/><br/> adj. 清楚的；明确的；透明的<br><br>v. 清除<br><br>adv. 远离 
+scorching, `/ˈskɔːrtʃɪŋ/`<br/><br/> adj. 炎热的                        
+sweltering, `/ˈsweltərɪŋ/`<br/><br/> adj. 闷热的                        
+hot, `/hɑːt/`<br/><br/> adj. 热的；辣的                      
+frequent, `/ˈfriːkwənt/`<br/><br/> adj. 频繁的<br><br>v. 经常光顾             
+service, `/ˈsɜːrvɪs/`<br/><br/> n. 服务；维修<br><br>v. 维休；提供服务          
+physician, `/fɪˈzɪʃən/`<br/><br/> n. 医生；（尤指）内科医生                  
+amateur, `/ˈæmətʃər/`<br/><br/> n. 业余爱好者；外行<br><br>adj. 业余的         
+hum, `/hʌm/`<br/><br/> v. 哼唱；发出嗡嗡声<br><br>n. 嗡嗡声           
+spontaneous, `/spɑːnˈteɪniəs/`<br/><br/> adj. 自发的；自然的；本能的                
+pail, `/peɪl/`<br/><br/> n. 桶                            
+recollection, `/ˌrekəˈlekʃən/`<br/><br/> n. 回忆；记起              
+dunce, `/dʌns/`<br/><br/> n. 笨蛋；蠢材              
+low, `/loʊ/`<br/><br/> adj. 低的；矮的；少的<br><br>adv.低地；向下 
+lowest, `/loʊɪst/`<br/><br/> adj. 最低的                   
+notion, `/ˈnoʊʃən/`<br/><br/> n. 概念；想法              
+mate, `/meɪt/`<br/><br/> n. 伙伴；配偶<br><br>v. 交配     
+rotation, `/roʊˈteɪʃən/`<br/><br/> n. 旋转；自转；轮换           
+albatross, `/ˈælbətrɑːs/`<br/><br/> n. 信天翁                
+ever, `/ˈevər/`<br/><br/> adv. 任何时候；曾经    
+speed, `/spiːd/`<br/><br/> n. 速度<br><br>v. 加速        
+bracelet, `/ˈbreɪslət/`<br/><br/> n. 手镯；手链              
+near, `/nɪr/`<br/><br/> adv. & prep. 接近；靠近<br><br>adj. 近的；即将到来的<br><br>v. 接近；临近 
+nearly, `/ˈnɪrli/`<br/><br/> adv. 几乎；差不多           
+tourist, `/ˈtʊrɪst/`<br/><br/> n. 游客                 
+rental, `/ˈrɛntəl/`<br/><br/> n. 租金；租赁              
+deal, `/diːl/`<br/><br/> n. 交易；协议<br><br>v. 处理；分发      
+gossip, `/ˈɡɑːsɪp/`<br/><br/> n. 八卦，闲话<br><br>v. 说闲话        
+lock, `/lɑːk/`<br/><br/> n. 锁<br><br>v. 锁住；固定          
+ethnic, `/ˈeθnɪk/`<br/><br/> adj. 种族的；民族的              
+handout, `/ˈhændaʊt/`<br/><br/> n. 讲义；施舍品                 
+earn, `/ɜːrn/`<br/><br/> v. 赚取；获得                  
+earner, `/ˈɜːrnər/`<br/><br/> n. 赚钱者；收入者                
+bleak, `/bliːk/`<br/><br/> adj. 荒凉的；黯淡的              
+backdoor, `/ˈbækˌdɔr/`<br/><br/> adj. 秘密的                  
+notable, `/ˈnoʊtəbəl/`<br/><br/> adj. 显著的；值得注意的            
+scent, `/sɛnt/`<br/><br/> n. 气味；香味<br><br>v. 嗅出         
+single, `/ˈsɪŋɡəl/`<br/><br/> adj. 单一的；单身的<br><br>n. 单曲     
+afloat, `/əˈfloʊt/`<br/><br/> adj. 漂浮的；经济上周转得开的         
+insanity, `/ɪnˈsænəti/`<br/><br/> n. 疯狂；精神错乱                
+love, `/lʌv/`<br/><br/> v. 爱；喜欢<br><br>n. 爱；爱情        
+ambitious, `/æmˈbɪʃəs/`<br/><br/> adj. 有抱负的﹐有野心的            
+chunky, `/ˈʧʌŋki/`<br/><br/> adj. 矮胖的；厚实的              
+communal, `/ˈkɑːmjənəl/`<br/><br/> adj. 公共的；公有的              
+reciprocal, `/rɪˈsɪprəkəl/`<br/><br/> adj. 互惠的；相互的<br><br>n. [数] 倒数 
 discipline, `/ˈdɪsəplɪn/`<br/><br/> n. 纪律；学科                
 academic, `/ˌækəˈdemɪk/`<br/><br/> adj. 学术的<br><br>n. 学者       
 humanity, `/hjuːˈmænəti/`<br/><br/> n. 人类；人性；人文学科           
