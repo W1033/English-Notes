@@ -32,7 +32,7 @@ compilation, `/ˌkɑmpəˈleɪʃən/`<br/><br/> n. 汇编；编辑
 note, `/noʊt/`<br/><br/> n. 笔记；便签；注释；音符<br><br>v. 注意；记录 
 herring, `/ˈherɪŋ/`<br/><br/> n. 鲱鱼               
 presume, `/prɪˈzuːm/`<br/><br/> v. 假设；推测            
-afar, `/əˈfɑr/`<br/><br/> adv. 遥远地；在远处        
+afar, `/əˈfɑːr/`<br/><br/> adv. 遥远地；在远处        
 subsist, `/səbˈsɪst/`<br/><br/> v. 生存；维持生活          
 trespass, `/ˈtrespæs/`<br/><br/> v. 非法入侵；侵犯<br><br>n. 非法入侵；侵犯 
 thrill, `/θrɪl/`<br/><br/> n. 兴奋；激动<br><br>v. 使激动  

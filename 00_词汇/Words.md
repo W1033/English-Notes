@@ -4258,7 +4258,7 @@ Edit: 2024.08.15
 | note        | `/noʊt/`          | n. 笔记；便签；注释；音符<br>v. 注意；记录 |
 | herring     | `/ˈherɪŋ/`        | n. 鲱鱼               |
 | presume     | `/prɪˈzuːm/`      | v. 假设；推测            |
-| afar        | `/əˈfɑr/`         | adv. 遥远地；在远处        |
+| afar        | `/əˈfɑːr/`         | adv. 遥远地；在远处        |
 | subsist     | `/səbˈsɪst/`      | v. 生存；维持生活          |
 | trespass    | `/ˈtrespæs/`      | v. 非法入侵；侵犯<br>n. 非法入侵；侵犯 |
 | thrill      | `/θrɪl/`          | n. 兴奋；激动<br>v. 使激动  |
