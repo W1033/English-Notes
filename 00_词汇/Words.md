@@ -19,7 +19,7 @@ Translator: ChatGPT 4o
 ## ▲ 待编辑生词
 
 
-### Add: 2024.08.19
+### Add: 2024.08.22
 
 #### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
 
@@ -27,10 +27,119 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
+| 单词         | 美式发音             | 词性 + 汉语释义                  |
+|--------------|----------------------|---------------------------------|
+| detect       | `/dɪˈtɛkt/`           | v. 发现；察觉                    |
+| solvent      | `/ˈsɑlvənt/`          | n. 溶剂<br>adj. 有偿付能力的       |
+| bankrupt     | `/ˈbæŋkrʌpt/`         | adj. 破产的<br>v. 使破产<br>n. 破产者 |
+| conceive     | `/kənˈsiv/`           | v. 构思；怀孕                    |
+| constant     | `/ˈkɑnstənt/`         | adj. 不变的；持续的<br>n. 常量      |
+| acquit       | `/əˈkwɪt/`            | v. 宣告无罪                     |
+| affective    | `/əˈfɛktɪv/`          | adj. 情感的                     |
+| engineering  | `/ˌɛndʒəˈnɪrɪŋ/`      | n. 工程；工程学                  |
+| necessity    | `/nəˈsɛsəti/`         | n. 必需品；必要性                 |
+| stroke       | `/stroʊk/`            | n. 中风；一击<br>v. 抚摸          |
+| equity       | `/ˈɛkwɪti/`           | n. 公平；股本                    |
+| inequity     | `/ɪnˈɛkwɪti/`         | n. 不公平                      |
+| inclusion    | `/ɪnˈkluʒən/`         | n. 包含；包容                    |
+| squeal       | `/skwil/`             | n. 尖叫<br>v. 尖叫               |
+| immense      | `/ɪˈmɛns/`            | adj. 巨大的                     |
+| sodden       | `/ˈsɑdən/`            | adj. 湿透的<br>v. 使湿透         |
+| intuition    | `/ˌɪntuˈɪʃən/`        | n. 直觉                         |
+| outcry       | `/ˈaʊtˌkraɪ/`         | n. 强烈抗议                     |
+| prominent    | `/ˈprɑmɪnənt/`        | adj. 突出的；显著的               |
+| hut          | `/hʌt/`               | n. 小屋；棚屋                    |
 
 
+#### Second Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词            | 美式发音              | 词性 + 汉语释义                   |
+|-----------------|-----------------------|---------------------------------|
+| van             | `/væn/`               | n. 厢式货车                     |
+| motorway        | `/ˈmoʊtərˌweɪ/`       | n. 高速公路                     |
+| dinner          | `/ˈdɪnər/`            | n. 晚餐                         |
+| sheet           | `/ʃit/`               | n. 床单；薄片<br>v. 覆盖           |
+| hurl            | `/hɜrl/`              | v. 猛投；大声叫骂                  |
+| machinery       | `/məˈʃinəri/`         | n. 机械；机构                    |
+| thereby         | `/ˌðɛrˈbaɪ/`          | adv. 从而；因此                  |
+| specification   | `/ˌspɛsɪfɪˈkeɪʃən/`  | n. 规格；说明书                   |
+| visual          | `/ˈvɪʒuəl/`           | adj. 视觉的<br>n. 视觉资料         |
+| registry        | `/ˈrɛdʒɪstri/`        | n. 登记处；注册簿                  |
+| tropical        | `/ˈtrɑpɪkəl/`         | adj. 热带的                     |
+| guilt           | `/ɡɪlt/`              | n. 罪责；内疚                    |
+| steer           | `/stɪr/`              | v. 驾驶；引导                    |
+| nearby          | `/ˈnɪrˌbaɪ/`          | adv. & adj. 在附近；附近的         |
+| distant         | `/ˈdɪstənt/`          | adj. 遥远的；冷淡的                |
+| bend            | `/bɛnd/`              | v. 弯曲；使屈服<br>n. 弯曲          |
+| job             | `/dʒɑb/`              | n. 工作；任务                    |
+| axis            | `/ˈæksɪs/`            | n. 轴；轴线                      |
+| paramedic       | `/ˌpærəˈmɛdɪk/`       | n. 护理人员；急救医务人员              |
+| bust            | `/bʌst/`              | v. 打碎；突袭搜捕<br>n. 半身像；突击搜捕  |
+| buster          | `/ˈbʌstər/`           | n. 破坏者；小伙子                  |
 
 
+#### Third Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词            | 美式发音              | 词性 + 汉语释义                      |
+|-----------------|-----------------------|------------------------------------|
+| reflect         | `/rɪˈflɛkt/`          | v. 反映；反射                       |
+| simplify        | `/ˈsɪmplɪˌfaɪ/`       | v. 简化                            |
+| memorize        | `/ˈmɛməˌraɪz/`        | v. 记住                            |
+| memorization    | `/ˌmɛmərəˈzeɪʃən/`    | n. 记忆                            |
+| redundancy      | `/rɪˈdʌndənsi/`       | n. 冗余                            |
+| convey          | `/kənˈveɪ/`           | v. 传达；运输                       |
+| proximity       | `/prɑkˈsɪmɪti/`       | n. 接近；邻近                       |
+| completion      | `/kəmˈpliʃən/`        | n. 完成                            |
+| participle      | `/ˈpɑrtəˌsɪpl/`       | n. 分词                            |
+| shake           | `/ʃeɪk/`              | v. 摇动；颤抖<br>n. 摇动              |
+| elsewhere       | `/ˈɛlsˌwɛr/`          | adv. 在别处                         |
+| wage            | `/weɪdʒ/`             | n. 工资；报酬<br>v. 进行（战争、运动等） |
+| liable          | `/ˈlaɪəbəl/`          | adj. 有责任的；可能的                  |
+| tourism         | `/ˈtʊrɪzəm/`          | n. 旅游业                          |
+| recipient       | `/rɪˈsɪpiənt/`        | n. 接受者                          |
+| landscape       | `/ˈlændˌskeɪp/`       | n. 风景；景观<br>v. 美化环境            |
+| outlook         | `/ˈaʊtˌlʊk/`          | n. 前景；景色                       |
+| furtive         | `/ˈfɜrtɪv/`           | adj. 鬼鬼祟祟的；秘密的                 |
+| underhand       | `/ˈʌndərˌhænd/`       | adj. 卑鄙的；偷偷摸摸的                 |
+| clandestine     | `/klænˈdɛstɪn/`       | adj. 秘密的；暗中的                   |
+
+
+#### Fourth Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词                | 美式发音               | 词性 + 汉语释义                    |
+|---------------------|------------------------|---------------------------------|
+| ward                | `/wɔrd/`               | n. 病房；区；受监护人                 |
+| chain               | `/tʃeɪn/`              | n. 链条；一连串<br>v. 用链子锁住        |
+| yoke                | `/joʊk/`               | n. 轭；束缚<br>v. 连接；束缚          |
+| shackle             | `/ˈʃækəl/`             | n. 镣铐；束缚<br>v. 给...上镣铐；束缚    |
+| shed                | `/ʃɛd/`                | v. 流出；脱落<br>n. 棚子            |
+| infidelity          | `/ˌɪnfɪˈdɛləti/`       | n. 不忠；背信                     |
+| debrief             | `/diˈbrif/`            | v. 盘问；汇报                     |
+| particle            | `/ˈpɑrtɪkl/`           | n. 颗粒；粒子                     |
+| distinct            | `/dɪˈstɪŋkt/`          | adj. 明显的；独特的                 |
+| adhere              | `/ədˈhɪr/`             | v. 遵守；粘附                     |
+| adher               | `/ˈædər/`              | v. 坚持                          |
+| conciseness         | `/kənˈsaɪsnɪs/`        | n. 简洁；简明                     |
+| comprehensive       | `/ˌkɑmprɪˈhɛnsɪv/`     | adj. 综合的；全面的                 |
+| comprehensiveness   | `/ˌkɑmprɪˈhɛnsɪvnɪs/`  | n. 综合性；全面性                   |
+| proximity           | `/prɑkˈsɪmɪti/`        | n. 接近；邻近                     |
+| address             | `/əˈdrɛs/`             | n. 地址；演讲<br>v. 处理；称呼         |
+| prepositional       | `/ˌprɛpəˈzɪʃənl/`      | adj. 介词的                      |
+| emphasize           | `/ˈɛmfəˌsaɪz/`         | v. 强调                          |
+| siege               | `/sidʒ/`               | n. 围攻；包围                     |
+| entry               | `/ˈɛntri/`             | n. 入口；进入；条目                  |
 
 
 
