@@ -142,6 +142,36 @@ Translator: ChatGPT 4o
 | entry               | `/ˈɛntri/`             | n. 入口；进入；条目                  |
 
 
+#### Fifth Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词         | 美式发音            | 词性 + 汉语释义                      |
+|--------------|---------------------|--------------------------------------|
+| vigil        | `/ˈvɪdʒɪl/`         | n. 守夜；监视                        |
+| unite        | `/juˈnaɪt/`         | v. 联合；团结                        |
+| markedly     | `/ˈmɑrkɪdli/`       | adv. 显著地；明显地                   |
+| traverse     | `/trəˈvɜrs/`        | v. 横跨；穿过                         |
+| mud          | `/mʌd/`             | n. 泥；泥浆                           |
+| instigate    | `/ˈɪnstɪˌɡeɪt/`     | v. 煽动；唆使                         |
+| instigator   | `/ˈɪnstɪˌɡeɪtər/`   | n. 煽动者；唆使者                    |
+| anticipate   | `/ænˈtɪsɪˌpeɪt/`    | v. 预期；期待                        |
+| mut          | `/mʌt/`             | n. 杂种狗；杂交动物                   |
+| immobile     | `/ɪˈmoʊbəl/`        | adj. 不动的；固定的                   |
+| overwhelm    | `/ˌoʊvərˈhwɛlm/`    | v. 压倒；使不知所措                  |
+| advertise    | `/ˈædvərˌtaɪz/`     | v. 做广告；宣传                      |
+| teaser       | `/ˈtiːzər/`         | n. 预告片；戏弄者                    |
+| duel         | `/ˈdjuəl/`          | n. 决斗；v. 决斗                     |
+| mantra       | `/ˈmæntrə/`         | n. 咒语；口号                        |
+| Ecuador      | `/ˈɛkwəˌdɔr/`       | n. 厄瓜多尔                          |
+| unyielding   | `/ʌnˈjiːldɪŋ/`      | adj. 坚定的；不屈的                   |
+| valor        | `/ˈvælər/`          | n. 勇气；英勇                        |
+| series       | `/ˈsɪriz/`          | n. 系列；连续                        |
+| acronym      | `/ˈækrənɪm/`        | n. 首字母缩略词                      |
+
+
 
 
 
@@ -4345,37 +4375,37 @@ Translator: ChatGPT 4
 
 根据翻译规则和参考 LDOCE，以下是这些单词的翻译表格：
 
-| 单词         | 美式发音               | 词性 + 汉语释义              |
-|------------|--------------------|------------------------|
-| specify    | `/ˈspesɪfaɪ/`      | v. 指定；详细说明             |
-| reconcile  | `/ˈrekənsaɪl/`     | v. 调和；和解               |
-| diverge    | `/daɪˈvɜːrdʒ/`     | v. 分歧；偏离          |
-| divergence | `/daɪˈvɜːrdʒəns/`  | n. 分歧；偏离            |
-| divergent  | `/daɪˈvɜːrdʒənt/`  | adj. 分歧的；不同的           |
-| squelch    | `/skweltʃ/`        | v. 压制；消除               |
-| terminal   | `/ˈtɜrmənəl/`      | n. 终端；终点站<br>adj. 晚期的；终端的 |
-| ostensible | `/ɑːˈstɛnsəbəl/`   | adj. 表面的；貌似真实的         |
-| recursive  | `/rɪˈkɜrsɪv/`      | adj. 递归的               |
-| twin       | `/twɪn/`           | n. 双胞胎之一<br>adj. 双胞胎的；成对的 |
-| irritate   | `/ˈɪrɪˌteɪt/`      | v. 刺激；激怒               |
-| comeback   | `/ˈkʌmˌbæk/`       | n. 东山再起；回归             |
-| withstand  | `/wɪðˈstænd/`      | v. 承受；抵挡               |
-| windblown  | `/ˈwɪndˌbloʊn/`    | adj. 被风吹的              |
-| dune       | `/djun/`           | n. 沙丘                  |
-| dense      | `/dɛns/`           | adj. 稠密的；密集的           |
-| count on   | `/kaʊnt ɒn/`       | v. 依靠；指望               |
-| gear       | `/ɡɪr/`            | n. 齿轮；设备               |
-| apparel    | `/əˈpærəl/`        | n. 服装                  |
-| footwear   | `/ˈfʊtˌwɛr/`       | n. 鞋类                  |
-| moral      | `/ˈmɔrəl/`         | adj. 道德的；有道德的<br>n. 道德寓意 |
+| 单词         | 美式发音             | 词性 + 汉语释义              |
+|------------|------------------|------------------------|
+| specify    | `/ˈspesɪfaɪ/`    | v. 指定；详细说明             |
+| reconcile  | `/ˈrekənsaɪl/`   | v. 调和；和解               |
+| diverge    | `/daɪˈvɜːrdʒ/`   | v. 分歧；偏离               |
+| divergence | `/daɪˈvɜːrdʒəns/` | n. 分歧；偏离               |
+| divergent  | `/daɪˈvɜːrdʒənt/` | adj. 分歧的；不同的           |
+| squelch    | `/skweltʃ/`      | v. 发出吧唧声；压制；镇压         |
+| terminal   | `/ˈtɜːrmənəl/`   | n. 终端；航站楼；终点站<br>adj. 晚期的；终点的 |
+| ostensible | `/ɑːˈstensəbəl/` | adj. 表面的；假装的           |
+| recursive  | `/rɪˈkɜrsɪv/`    | adj. 递归的               |
+| twin       | `/twɪn/`         | n. 双胞胎之一<br>adj. 双胞胎的；成对的 |
 
-请确认这个翻译是否符合您的预期，或者是否需要进一步调整。
+| irritate   | `/ˈɪrɪteɪt/`     | v. 刺激；激怒               |
+| comeback   | `/ˈkʌmˌbæk/`     | n. 东山再起；回归             |
+| withstand  | `/wɪðˈstænd/`    | v. 承受；抵挡               |
+| windblown  | `/ˈwɪndˌbloʊn/`  | adj. 被风吹的              |
+| dune       | `/djun/`         | n. 沙丘                  |
+| dense      | `/dɛns/`         | adj. 稠密的；密集的           |
+| count on   | `/kaʊnt ɒn/`     | v. 依靠；指望               |
+| gear       | `/ɡɪr/`          | n. 齿轮；设备               |
+| apparel    | `/əˈpærəl/`      | n. 服装                  |
+| footwear   | `/ˈfʊtˌwɛr/`     | n. 鞋类                  |
+| moral      | `/ˈmɔrəl/`       | adj. 道德的；有道德的<br>n. 道德寓意 |
 
 
 
 
 
 ### ------ ------ ------ 以下已编辑 ------ ------ ------
+
 
 
 
