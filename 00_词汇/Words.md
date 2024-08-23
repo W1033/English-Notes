@@ -2100,7 +2100,6 @@ Translator: ChatGPT 4o
 | voyage     | `/ˈvɔɪɪʤ/`       | n. 航行；旅程<br>v. 航行     |
 | cab        | `/kæb/`          | n. 出租车；驾驶室            |
 | flat       | `/flæt/`         | adj. 平坦的；扁平的<br>n. 公寓 |
-| gear       | `/ɡɪr/`          | n. 齿轮；设备<br>v. 使适应；装备 |
 | armor      | `/ˈɑrmər/`       | n. 盔甲；装甲              |
 | luxuriate  | `/ləɡˈzjʊrieɪt/` | v. 奢侈享受；纵情享乐          |
 | devour     | `/dɪˈvaʊr/`      | v. 吞食；狼吞虎咽            |
@@ -4348,57 +4347,33 @@ Translator: ChatGPT 4
 
 Translator: ChatGPT 4
 
+Edit: 2024.08.23
+
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词         | 美式发音              | 词类 + 汉语释义                |
-|--------------|-------------------- |------------------------------|
-| specify      | `/ˈspɛsɪˌfaɪ/      | v. 指定；具体说明               |
-| reconcile    | `/ˈrɛkənˌsaɪl/     | v. 和解；调和                  |
-| divergent    | `/dɪˈvɜrdʒənt/     | adj. 发散的；不同的             |
-| squelch      | `/skwɛltʃ/         | v. 压制；镇压                  |
-| terminal     | `/ˈtɜrmɪnəl/       | adj. 末端的；终点的<br>n. 终端   |
-| ostensible   | `/ɑˈstɛnsəbəl/     | adj. 表面上的；假装的           |
-| recursive    | `/rɪˈkɜrsɪv/       | adj. 递归的                    |
-| twin         | `/twɪn/            | n. 双胞胎之一<br>v. 成对，成双   |
-| irritate     | `/ˈɪrɪˌteɪt/       | v. 激怒；刺激                  |
-| comeback     | `/ˈkʌmˌbæk/        | n. 复出；恢复                  |
-| withstand    | `/wɪθˈstænd/       | v. 抵抗；承受                  |
-| windblown    | `/ˈwɪndˌbloʊn/     | adj. 风吹的                   |
-| dune         | `/duːn/            | n. 沙丘                       |
-| dense        | `/dɛns/            | adj. 密集的；浓厚的             |
-| count on     | `/kaʊnt ˈɑn/       | v. 依靠；指望                  |
-| gear         | `/ɡɪr/             | n. 齿轮；装备<br>v. 配备，调整（以适应） |
-| apparel      | `/əˈpɛrəl/         | n. 服装                        |
-| footwear     | `/ˈfʊtˌwɛr/        | n. 鞋类                        |
-| moral        | `/ˈmɔrəl/          | adj. 道德的；n. 寓意            |
-
-
-根据翻译规则和参考 LDOCE，以下是这些单词的翻译表格：
-
-| 单词         | 美式发音             | 词性 + 汉语释义              |
-|------------|------------------|------------------------|
-| specify    | `/ˈspesɪfaɪ/`    | v. 指定；详细说明             |
-| reconcile  | `/ˈrekənsaɪl/`   | v. 调和；和解               |
-| diverge    | `/daɪˈvɜːrdʒ/`   | v. 分歧；偏离               |
-| divergence | `/daɪˈvɜːrdʒəns/` | n. 分歧；偏离               |
-| divergent  | `/daɪˈvɜːrdʒənt/` | adj. 分歧的；不同的           |
-| squelch    | `/skweltʃ/`      | v. 发出吧唧声；压制；镇压         |
+| 单词         | 美式发音             | 词性 + 汉语释义                     |
+|------------|------------------|-------------------------------|
+| specify    | `/ˈspesɪfaɪ/`    | v. 指定；详细说明                    |
+| reconcile  | `/ˈrekənsaɪl/`   | v. 调和；和解                      |
+| diverge    | `/daɪˈvɜːrdʒ/`   | v. 分歧；偏离                      |
+| divergence | `/daɪˈvɜːrdʒəns/` | n. 分歧；偏离                      |
+| divergent  | `/daɪˈvɜːrdʒənt/` | adj. 分歧的；不同的                  |
+| squelch    | `/skweltʃ/`      | v. 发出吧唧声；压制；镇压                |
 | terminal   | `/ˈtɜːrmənəl/`   | n. 终端；航站楼；终点站<br>adj. 晚期的；终点的 |
-| ostensible | `/ɑːˈstensəbəl/` | adj. 表面的；假装的           |
-| recursive  | `/rɪˈkɜrsɪv/`    | adj. 递归的               |
-| twin       | `/twɪn/`         | n. 双胞胎之一<br>adj. 双胞胎的；成对的 |
-
-| irritate   | `/ˈɪrɪteɪt/`     | v. 刺激；激怒               |
-| comeback   | `/ˈkʌmˌbæk/`     | n. 东山再起；回归             |
-| withstand  | `/wɪðˈstænd/`    | v. 承受；抵挡               |
-| windblown  | `/ˈwɪndˌbloʊn/`  | adj. 被风吹的              |
-| dune       | `/djun/`         | n. 沙丘                  |
-| dense      | `/dɛns/`         | adj. 稠密的；密集的           |
-| count on   | `/kaʊnt ɒn/`     | v. 依靠；指望               |
-| gear       | `/ɡɪr/`          | n. 齿轮；设备               |
-| apparel    | `/əˈpærəl/`      | n. 服装                  |
-| footwear   | `/ˈfʊtˌwɛr/`     | n. 鞋类                  |
-| moral      | `/ˈmɔrəl/`       | adj. 道德的；有道德的<br>n. 道德寓意 |
+| ostensible | `/ɑːˈstensəbəl/` | adj. 表面的；假装的                  |
+| recursive  | `/rɪˈkɜrsɪv/`    | adj. 递归的                      |
+| twin       | `/twɪn/`         | n. 双胞胎之一<br>adj. 双胞胎的；成对的     |
+| irritate   | `/ˈɪrɪteɪt/`     | v. 刺激；激怒                      |
+| comeback   | `/ˈkʌmˌbæk/`     | n. 东山再起；回归                    |
+| withstand  | `/wɪθˈstænd/`    | v. 承受；抵挡                      |
+| windblown  | `/ˈwɪndˌbloʊn/`  | adj. 被风吹的                     |
+| dune       | `/duːn/`         | n. 沙丘                         |
+| dense      | `/dɛns/`         | adj. 稠密的；密集的                  |
+| count on   | `/kaʊnt ɒn/`     | v. 依靠；指望                      |
+| gear       | `/ɡɪr/`          | n. 档位；齿轮；装备                   |
+| apparel    | `/əˈpærəl/`      | n. 服装                         |
+| footwear   | `/ˈfʊtwɛr/`      | n. 鞋类                         |
+| moral      | `/ˈmɔrəl/`       | adj. 道德的；有道德的<br>n. 道德寓意      |
 
 
 
