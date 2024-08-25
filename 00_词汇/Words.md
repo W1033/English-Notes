@@ -271,6 +271,7 @@ Translator: ChatGPT 4o
 | gnaw          | `/nɔ/`              | v. 啃；咬                                 |
 | precaution    | `/prɪˈkɔʃən/`       | n. 预防措施                               |
 | evacuate      | `/ɪˈvækjueɪt/`      | v. 撤离；疏散                             |
+| evacuation    |      |                              |
 | civvy         | `/ˈsɪvi/`           | n. 平民；便服                             |
 | waver         | `/ˈweɪvər/`         | v. 动摇；犹豫                             |
 | veal          | `/vil/`             | n. 小牛肉                                 |
@@ -1426,7 +1427,6 @@ Translator: ChatGPT 4o
 |----------------|----------------------|----------------------------------------|
 | ribeye         | `/ˈrɪbaɪ/`           | n. 肋眼牛排                             |
 | vogue          | `/voʊɡ/`             | n. 时尚；流行                           |
-| evacuate       | `/ɪˈvækjueɪt/`       | v. 疏散；撤离                           |
 | neck           | `/nɛk/`              | n. 脖子；颈部<br>v. 拥抱                |
 | journalist     | `/ˈdʒɜrnəlɪst/`      | n. 记者                                 |
 | journalistic   | `/ˌdʒɜrnəˈlɪstɪk/`   | adj. 新闻的；新闻工作的                 |
@@ -2695,7 +2695,6 @@ Translator: ChatGPT 4o
 | idiom      | `/ˈɪdiəm/`       | n. 成语；习语                 | "Break the ice" is a common idiom. <br>(“打破僵局”是一个常见的成语。) |
 | proverb    | `/ˈprɑvərb/`     | n. 谚语；格言                 | "A stitch in time saves nine" is an old proverb. <br>(“及时行事省九针”是一句古老的谚语。) |
 | park       | `/pɑrk/`         | n. 公园；停车场<br>v. 停车       | n. They took a walk in the park. <br>(他们在公园散步。)<br>v. He parked the car near the entrance. <br>(他把车停在入口附近。) |
-| intuitive  | `/ɪnˈtuɪtɪv/`    | adj. 直觉的；凭直觉的            | She had an intuitive understanding of the problem.
 | intuitive  | `/ɪnˈtuɪtɪv/`    | adj. 直觉的；凭直觉的            | She had an intuitive understanding of the problem. <br>(她对问题有直觉的理解。) |
 | vivid      | `/ˈvɪvɪd/`       | adj. 生动的；鲜艳的             | He gave a vivid description of the scene. <br>(他对现场进行了生动的描述。) |
 | realism    | `/ˈriəlɪzəm/`    | n. 现实主义；逼真               | The artist is known for his realism. <br>(这位艺术家以他的现实主义作品闻名。) |
@@ -4314,7 +4313,7 @@ Translator: ChatGPT 4
 | pluralistic       | `/ˌplʊərəˈlɪstɪk/  | adj. 多元论的         |
 
 
-#### Fourth Table - ~~已校对~~ - ~~已写入：GoodNotes~~
+#### Fourth Table - 已校对 - ~~已写入：GoodNotes~~
 
 Translator: ChatGPT 4
 
@@ -4339,41 +4338,68 @@ Translator: ChatGPT 4
 | migration         | `/maɪˈɡreɪʃən/     | n. 迁移                      |
 | grow              | `/ɡroʊ/            | v. 生长，增长                 |
 | resist            | `/rɪˈzɪst/         | v. 抵抗                      |
-| tip               | `/tɪp/`            | n. 尖端；小费；建议<br>v. 倾斜；给小费 |
 | invocation        | `/ˌɪnvəˈkeɪʃən/    | n. 祈祷                      |
+
+
+以下是根据翻译规则处理的这些单词的翻译表格：
+
+| 单词              | 美式发音               | 词性 + 汉语释义                |
+|-------------------|--------------------|--------------------------|
+| veil              | `/veɪl/`           | n. 面纱；遮盖物<br>v. 遮盖；掩饰    |
+| bliss             | `/blɪs/`           | n. 极乐；幸福                 |
+| bounteous         | `/ˈbaʊntiəs/`      | adj. 慷慨的；丰富的             |
+| shift             | `/ʃɪft/`           | v. 转移；改变<br>n. 改变；轮班     |
+| metamorphosis     | `/ˌmetəˈmɔːrfəsɪs/` | n. 变形；蜕变                 |
+
+| stasis            | `/ˈsteɪsɪs/`       | n. 停滞；静止                 |
+| stability         | `/stəˈbɪləti/`     | n. 稳定性                   |
+| constancy         | `/ˈkɑnstənsi/`     | n. 坚定；不变                 |
+| utter             | `/ˈʌtər/`          | v. 说出；表达<br>adj. 完全的；彻底的 |
+| summation         | `/ˌsʌˈmeɪʃən/`     | n. 总结；总和                 |
+| beard             | `/bɪrd/`           | n. 胡须<br>v. 公然反对         |
+| adjustment        | `/əˈdʒʌstmənt/`    | n. 调整；调节                 |
+| turn              | `/tɜrn/`           | v. 转动；变成<br>n. 转变；机会     |
+| migration         | `/maɪˈɡreɪʃən/`    | n. 迁徙；移民                 |
+| grow              | `/ɡroʊ/`           | v. 成长；种植                 |
+| resist            | `/rɪˈzɪst/`        | v. 抵抗；抗拒                 |
+| tip               | `/tɪp/`            | n. 小费；尖端<br>v. 倾斜；给小费    |
+| invocation        | `/ˌɪnvəˈkeɪʃən/`   | n. 祈祷；调用                 |
+
+这个表格旨在遵循“简洁性”与“全面性”之间的平衡原则，确保每个单词的汉语释义既全面又便于记忆。如果有任何需要调整的地方，请告诉我！
+
 
 
 #### Fifth Table - 已校对 - ~~已写入：GoodNotes~~
 
 Translator: ChatGPT 4
 
-Edit: 2024.08.23
+Edit: 2024.08.23、25
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词         | 美式发音             | 词性 + 汉语释义                     |
-|------------|------------------|-------------------------------|
-| specify    | `/ˈspesɪfaɪ/`    | v. 指定；详细说明                    |
-| reconcile  | `/ˈrekənsaɪl/`   | v. 调和；和解                      |
-| diverge    | `/daɪˈvɜːrdʒ/`   | v. 分歧；偏离                      |
-| divergence | `/daɪˈvɜːrdʒəns/` | n. 分歧；偏离                      |
-| divergent  | `/daɪˈvɜːrdʒənt/` | adj. 分歧的；不同的                  |
-| squelch    | `/skweltʃ/`      | v. 发出吧唧声；压制；镇压                |
+| 单词         | 美式发音             | 词性 + 汉语释义                    |
+|------------|------------------|------------------------------|
+| specify    | `/ˈspesɪfaɪ/`    | v. 指定；详细说明                   |
+| reconcile  | `/ˈrekənsaɪl/`   | v. 调和；和解                     |
+| diverge    | `/daɪˈvɜːrdʒ/`   | v. 分歧；偏离                     |
+| divergence | `/daɪˈvɜːrdʒəns/` | n. 分歧；偏离                     |
+| divergent  | `/daɪˈvɜːrdʒənt/` | adj. 分歧的；不同的                 |
+| squelch    | `/skweltʃ/`      | v. 发出吧唧声；压制；镇压               |
 | terminal   | `/ˈtɜːrmənəl/`   | n. 终端；航站楼；终点站<br>adj. 晚期的；终点的 |
-| ostensible | `/ɑːˈstensəbəl/` | adj. 表面的；假装的                  |
-| recursive  | `/rɪˈkɜrsɪv/`    | adj. 递归的                      |
-| twin       | `/twɪn/`         | n. 双胞胎之一<br>adj. 双胞胎的；成对的     |
-| irritate   | `/ˈɪrɪteɪt/`     | v. 刺激；激怒                      |
-| comeback   | `/ˈkʌmˌbæk/`     | n. 东山再起；回归                    |
-| withstand  | `/wɪθˈstænd/`    | v. 承受；抵挡                      |
-| windblown  | `/ˈwɪndˌbloʊn/`  | adj. 被风吹的                     |
-| dune       | `/duːn/`         | n. 沙丘                         |
-| dense      | `/dɛns/`         | adj. 稠密的；密集的                  |
-| count on   | `/kaʊnt ɒn/`     | v. 依靠；指望                      |
-| gear       | `/ɡɪr/`          | n. 档位；齿轮；装备                   |
-| apparel    | `/əˈpærəl/`      | n. 服装                         |
-| footwear   | `/ˈfʊtwɛr/`      | n. 鞋类                         |
-| moral      | `/ˈmɔrəl/`       | adj. 道德的；有道德的<br>n. 道德寓意      |
+| ostensible | `/ɑːˈstensəbəl/` | adj. 表面的；假装的                 |
+| recursive  | `/rɪˈkɜrsɪv/`    | adj. 递归的                     |
+| twin       | `/twɪn/`         | n. 双胞胎之一<br>adj. 双胞胎的；成对的    |
+| irritate   | `/ˈɪrɪteɪt/`     | v. 刺激；激怒                     |
+| comeback   | `/ˈkʌmˌbæk/`     | n. 东山再起；回归                   |
+| withstand  | `/wɪθˈstænd/`    | v. 承受；抵挡                     |
+| windblown  | `/ˈwɪndˌbloʊn/`  | adj. 被风吹的                    |
+| dune       | `/duːn/`         | n. 沙丘                        |
+| dense      | `/dɛns/`         | adj. 稠密的；密集的                 |
+| count on   | `/kaʊnt ɒn/`     | v. 依靠；指望                     |
+| gear       | `/ɡɪr/`          | n. 档位；齿轮；装备                  |
+| apparel    | `/əˈpærəl/`      | n. 服装                        |
+| footwear   | `/ˈfʊtwɛr/`      | n. 鞋类                        |
+| moral      | `/ˈmɔrəl/`       | adj. 道德的<br>n. 道德准则      |
 
 
 

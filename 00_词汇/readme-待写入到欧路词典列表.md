@@ -3,7 +3,29 @@
 
 
 
-
+| 单词         | 美式发音             | 词性 + 汉语释义                    |
+|------------|------------------|------------------------------|
+| specify    | `/ˈspesɪfaɪ/`    | v. 指定；详细说明                   |
+| reconcile  | `/ˈrekənsaɪl/`   | v. 调和；和解                     |
+| diverge    | `/daɪˈvɜːrdʒ/`   | v. 分歧；偏离                     |
+| divergence | `/daɪˈvɜːrdʒəns/` | n. 分歧；偏离                     |
+| divergent  | `/daɪˈvɜːrdʒənt/` | adj. 分歧的；不同的                 |
+| squelch    | `/skweltʃ/`      | v. 发出吧唧声；压制；镇压               |
+| terminal   | `/ˈtɜːrmənəl/`   | n. 终端；航站楼；终点站<br>adj. 晚期的；终点的 |
+| ostensible | `/ɑːˈstensəbəl/` | adj. 表面的；假装的                 |
+| recursive  | `/rɪˈkɜrsɪv/`    | adj. 递归的                     |
+| twin       | `/twɪn/`         | n. 双胞胎之一<br>adj. 双胞胎的；成对的    |
+| irritate   | `/ˈɪrɪteɪt/`     | v. 刺激；激怒                     |
+| comeback   | `/ˈkʌmˌbæk/`     | n. 东山再起；回归                   |
+| withstand  | `/wɪθˈstænd/`    | v. 承受；抵挡                     |
+| windblown  | `/ˈwɪndˌbloʊn/`  | adj. 被风吹的                    |
+| dune       | `/duːn/`         | n. 沙丘                        |
+| dense      | `/dɛns/`         | adj. 稠密的；密集的                 |
+| count on   | `/kaʊnt ɒn/`     | v. 依靠；指望                     |
+| gear       | `/ɡɪr/`          | n. 档位；齿轮；装备                  |
+| apparel    | `/əˈpærəl/`      | n. 服装                        |
+| footwear   | `/ˈfʊtwɛr/`      | n. 鞋类                        |
+| moral      | `/ˈmɔrəl/`       | adj. 道德的<br>n. 道德准则      |
 
 
 
