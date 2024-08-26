@@ -44,7 +44,8 @@ Translator: ChatGPT 4o
 | inclusion    | `/ɪnˈkluʒən/`         | n. 包含；包容                    |
 | squeal       | `/skwil/`             | n. 尖叫<br>v. 尖叫               |
 | immense      | `/ɪˈmɛns/`            | adj. 巨大的                     |
-| sodden       | `/ˈsɑdən/`            | adj. 湿透的<br>v. 使湿透         |
+| sodden       | `/ˈsɑːdən/`            | adj. 湿透的<br>v. 使湿透         |
+| sudden       | `/ˈsʌdən/`            |          |
 | intuition    | `/ˌɪntuˈɪʃən/`        | n. 直觉                         |
 | outcry       | `/ˈaʊtˌkraɪ/`         | n. 强烈抗议                     |
 | prominent    | `/ˈprɑmɪnənt/`        | adj. 突出的；显著的               |
@@ -4288,88 +4289,57 @@ Translator: ChatGPT 4
 
 #### Third Table - ~~已校对~~ - ~~已写入：GoodNotes~~
 
-Translator: ChatGPT 4
+Translator: ChatGPT 4o
+
+Edit: 2024.08.26
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词              | 美式发音              |  词类 + 汉语释义      |
-|-------------------|---------------------|---------------------|
-| passage           | `/ˈpæsɪdʒ/         | n. 通道；段落         |
-| disaster          | `/dɪˈzæstər/       | n. 灾难               |
-| conductor         | `/kənˈdʌktər/      | n. 指挥；导体         |
-| grain             | `/ɡreɪn/           | n. 谷物；颗粒         |
-| throughout        | `/θruˈaʊt/         | prep. & adv. 遍及     |
-| thought           | `/θɔːt/            | n. 思考，想法         |
-| nonthought        | N/A                 | n. 无思想             |
-| forethought       | `/ˈfɔrˌθɔt/        | n. 深谋远虑           |
-| awareness         | `/əˈwɛrˌnɪs/       | n. 意识，认知         |
-| oblivion          | `/əˈblɪviən/       | n. 遗忘               |
-| ride              | `/raɪd/            | v. 骑，乘            |
-| rider             | `/ˈraɪdər/         | n. 骑士；乘客         |
-| chrysalis         | `/ˈkrɪsəlɪs/       | n. 蝶蛹               |
-| twist             | `/twɪst/           | v. 扭转；n. 旋转     |
-| indistinguishable | `/ˌɪndɪˈstɪŋɡwɪʃəbl/ | adj. 无法区分的      |
-| feign             | `/feɪn/            | v. 假装               |
-| pluralistic       | `/ˌplʊərəˈlɪstɪk/  | adj. 多元论的         |
+| 单词              | 美式发音               | 词性 + 汉语释义              |
+|-------------------|--------------------|------------------------|
+| stasis            | `/ˈsteɪsɪs/`       | n. 停滞；静止               |
+| stability         | `/stəˈbɪləti/`     | n. 稳定；稳定性              |
+| constancy         | `/ˈkɑːnstənsi/`    | n. 坚定；恒定               |
+| utter             | `/ˈʌtər/`          | adj. 完全的；彻底的<br>v. 说出；发出 |
+| summation         | `/ˌsəˈmeɪʃən/`      | n. 总和；总结               |
+| beard             | `/bɪrd/`           | n. 胡须<br>v. 公然反对       |
+| adjustment        | `/əˈdʒʌstmənt/`    | n. 调整；调节               |
+| turn              | `/tɜːrn/`           | v. 转动；变成<br>n. 转变；轮流；机会 |
+| migration         | `/maɪˈɡreɪʃən/`    | n. 迁移；迁徙；移民            |
+| grow              | `/ɡroʊ/`           | v. （人或动物）成长；种植；增长      |
+| resist            | `/rɪˈzɪst/`        | v. 抵抗；抗拒               |
+| invocation        | `/ˌɪnvəˈkeɪʃən/`   | n. 祈祷；调用               |
+| passage           | `/ˈpæsɪdʒ/`         | n. 通道；段落               |
+| disaster          | `/dɪˈzæstər/`       | n. 灾难；不幸               |
+| conductor         | `/kənˈdʌktər/`      | n. 指挥（家）；售票员；导体    |
+| grain             | `/ɡreɪn/`           | n. 谷物；颗粒               |
+
+| forethought       | `/ˈfɔrˌθɔt/        | n. 深谋远虑                |
+| awareness         | `/əˈwɛrˌnɪs/       | n. 意识，认知               |
+| oblivion          | `/əˈblɪviən/       | n. 遗忘                  |
+| ride              | `/raɪd/            | v. 骑，乘                 |
+| rider             | `/ˈraɪdər/         | n. 骑士；乘客               |
+| chrysalis         | `/ˈkrɪsəlɪs/       | n. 蝶蛹                  |
+| twist             | `/twɪst/           | v. 扭转；n. 旋转            |
+| indistinguishable | `/ˌɪndɪˈstɪŋɡwɪʃəbl/ | adj. 无法区分的             |
+| feign             | `/feɪn/            | v. 假装                  |
+| pluralistic       | `/ˌplʊərəˈlɪstɪk/  | adj. 多元论的              |
+
+
+| forethought           | `/ˈfɔrˌθɔt/`         | n. 预见；深谋远虑                          |
+| awareness             | `/əˈwɛrnəs/`         | n. 意识；认识                             |
+| oblivion              | `/əˈblɪviən/`        | n. 遗忘；湮没                             |
+| ride                  | `/raɪd/`             | v. 骑；乘坐<br>n. 乘车；骑行             |
+| rider                 | `/ˈraɪdər/`          | n. 骑手；附加条款                         |
+| chrysalis             | `/ˈkrɪsəlɪs/`        | n. 蛹；蛹壳                              |
+| twist                 | `/twɪst/`            | v. 扭转；曲解<br>n. 扭曲；转折           |
+| indistinguishable     | `/ˌɪndɪˈstɪŋɡwɪʃəbl/`| adj. 难以区分的；无法辨别的               |
+| feign                 | `/feɪn/`             | v. 假装；伪装                             |
+| pluralistic           | `/ˌplʊrəˈlɪstɪk/`    | adj. 多元化的                             |
+
 
 
 #### Fourth Table - 已校对 - ~~已写入：GoodNotes~~
-
-Translator: ChatGPT 4
-
-~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
-
-| 单词              | 美式发音              | 词类 + 汉语释义               |
-|-------------------|---------------------|-----------------------------|
-| veil              | `/veɪl/            | n. 面纱；v. 遮盖              |
-| bliss             | `/blɪs/            | n. 极乐，幸福                 |
-| bounteous         | `/ˈbaʊntiəs/       | adj. 慷慨的；丰富的            |
-| shoot             | `/ʃuːt/            | v. 射击；拍摄；n. 新芽         |
-| shift             | `/ʃɪft/            | v. 转移；n. 转变；班次         |
-| metamorphosis     | `/ˌmɛtəˈmɔːrfəsɪs/ | n. 形态变化                   |
-| stasis            | `/ˈsteɪsɪs/        | n. 停滞状态                   |
-| stability         | `/stəˈbɪlɪti/      | n. 稳定                      |
-| constancy         | `/ˈkɒnstənsi/      | n. 坚定，恒久                 |
-| utter             | `/ˈʌtər/           | adj. 完全的；v. 发出（声音）    |
-| summation         | `/sʌˈmeɪʃən/       | n. 总结                      |
-| beard             | `/bɪərd/           | n. 胡须                      |
-| adjustment        | `/əˈdʒʌstmənt/     | n. 调整                      |
-| turn              | `/tɜrn/            | v. 转动；n. 转变              |
-| migration         | `/maɪˈɡreɪʃən/     | n. 迁移                      |
-| grow              | `/ɡroʊ/            | v. 生长，增长                 |
-| resist            | `/rɪˈzɪst/         | v. 抵抗                      |
-| invocation        | `/ˌɪnvəˈkeɪʃən/    | n. 祈祷                      |
-
-
-以下是根据翻译规则处理的这些单词的翻译表格：
-
-| 单词              | 美式发音               | 词性 + 汉语释义                |
-|-------------------|--------------------|--------------------------|
-| veil              | `/veɪl/`           | n. 面纱；遮盖物<br>v. 遮盖；掩饰    |
-| bliss             | `/blɪs/`           | n. 极乐；幸福                 |
-| bounteous         | `/ˈbaʊntiəs/`      | adj. 慷慨的；丰富的             |
-| shift             | `/ʃɪft/`           | v. 转移；改变<br>n. 改变；轮班     |
-| metamorphosis     | `/ˌmetəˈmɔːrfəsɪs/` | n. 变形；蜕变                 |
-
-| stasis            | `/ˈsteɪsɪs/`       | n. 停滞；静止                 |
-| stability         | `/stəˈbɪləti/`     | n. 稳定性                   |
-| constancy         | `/ˈkɑnstənsi/`     | n. 坚定；不变                 |
-| utter             | `/ˈʌtər/`          | v. 说出；表达<br>adj. 完全的；彻底的 |
-| summation         | `/ˌsʌˈmeɪʃən/`     | n. 总结；总和                 |
-| beard             | `/bɪrd/`           | n. 胡须<br>v. 公然反对         |
-| adjustment        | `/əˈdʒʌstmənt/`    | n. 调整；调节                 |
-| turn              | `/tɜrn/`           | v. 转动；变成<br>n. 转变；机会     |
-| migration         | `/maɪˈɡreɪʃən/`    | n. 迁徙；移民                 |
-| grow              | `/ɡroʊ/`           | v. 成长；种植                 |
-| resist            | `/rɪˈzɪst/`        | v. 抵抗；抗拒                 |
-| tip               | `/tɪp/`            | n. 小费；尖端<br>v. 倾斜；给小费    |
-| invocation        | `/ˌɪnvəˈkeɪʃən/`   | n. 祈祷；调用                 |
-
-这个表格旨在遵循“简洁性”与“全面性”之间的平衡原则，确保每个单词的汉语释义既全面又便于记忆。如果有任何需要调整的地方，请告诉我！
-
-
-
-#### Fifth Table - 已校对 - ~~已写入：GoodNotes~~
 
 Translator: ChatGPT 4
 
@@ -4377,30 +4347,34 @@ Edit: 2024.08.23、25
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词         | 美式发音             | 词性 + 汉语释义                    |
-|------------|------------------|------------------------------|
-| specify    | `/ˈspesɪfaɪ/`    | v. 指定；详细说明                   |
-| reconcile  | `/ˈrekənsaɪl/`   | v. 调和；和解                     |
-| diverge    | `/daɪˈvɜːrdʒ/`   | v. 分歧；偏离                     |
-| divergence | `/daɪˈvɜːrdʒəns/` | n. 分歧；偏离                     |
-| divergent  | `/daɪˈvɜːrdʒənt/` | adj. 分歧的；不同的                 |
-| squelch    | `/skweltʃ/`      | v. 发出吧唧声；压制；镇压               |
-| terminal   | `/ˈtɜːrmənəl/`   | n. 终端；航站楼；终点站<br>adj. 晚期的；终点的 |
-| ostensible | `/ɑːˈstensəbəl/` | adj. 表面的；假装的                 |
-| recursive  | `/rɪˈkɜrsɪv/`    | adj. 递归的                     |
-| twin       | `/twɪn/`         | n. 双胞胎之一<br>adj. 双胞胎的；成对的    |
-| irritate   | `/ˈɪrɪteɪt/`     | v. 刺激；激怒                     |
-| comeback   | `/ˈkʌmˌbæk/`     | n. 东山再起；回归                   |
-| withstand  | `/wɪθˈstænd/`    | v. 承受；抵挡                     |
-| windblown  | `/ˈwɪndˌbloʊn/`  | adj. 被风吹的                    |
-| dune       | `/duːn/`         | n. 沙丘                        |
-| dense      | `/dɛns/`         | adj. 稠密的；密集的                 |
-| count on   | `/kaʊnt ɒn/`     | v. 依靠；指望                     |
-| gear       | `/ɡɪr/`          | n. 档位；齿轮；装备                  |
-| apparel    | `/əˈpærəl/`      | n. 服装                        |
-| footwear   | `/ˈfʊtwɛr/`      | n. 鞋类                        |
-| moral      | `/ˈmɔrəl/`       | adj. 道德的<br>n. 道德准则      |
-
+| 单词            | 美式发音                | 词性 + 汉语释义                    |
+|---------------|---------------------|------------------------------|
+| specify       | `/ˈspesɪfaɪ/`       | v. 指定；详细说明                   |
+| reconcile     | `/ˈrekənsaɪl/`      | v. 调和；和解                     |
+| diverge       | `/daɪˈvɜːrdʒ/`      | v. 分歧；偏离                     |
+| divergence    | `/daɪˈvɜːrdʒəns/`   | n. 分歧；偏离                     |
+| divergent     | `/daɪˈvɜːrdʒənt/`   | adj. 分歧的；不同的                 |
+| squelch       | `/skweltʃ/`         | v. 发出吧唧声；压制；镇压               |
+| terminal      | `/ˈtɜːrmənəl/`      | n. 终端；航站楼；终点站<br>adj. 晚期的；终点的 |
+| ostensible    | `/ɑːˈstensəbəl/`    | adj. 表面的；假装的                 |
+| recursive     | `/rɪˈkɜrsɪv/`       | adj. 递归的                     |
+| twin          | `/twɪn/`            | n. 双胞胎之一<br>adj. 双胞胎的；成对的    |
+| irritate      | `/ˈɪrɪteɪt/`        | v. 刺激；激怒                     |
+| comeback      | `/ˈkʌmˌbæk/`        | n. 东山再起；回归                   |
+| withstand     | `/wɪθˈstænd/`       | v. 承受；抵挡                     |
+| windblown     | `/ˈwɪndˌbloʊn/`     | adj. 被风吹的                    |
+| dune          | `/duːn/`            | n. 沙丘                        |
+| dense         | `/dɛns/`            | adj. 稠密的；密集的                 |
+| count on      | `/kaʊnt ɒn/`        | v. 依靠；指望                     |
+| gear          | `/ɡɪr/`             | n. 档位；齿轮；装备                  |
+| apparel       | `/əˈpærəl/`         | n. 服装                        |
+| footwear      | `/ˈfʊtwɛr/`         | n. 鞋类                        |
+| moral         | `/ˈmɔrəl/`          | adj. 道德的<br>n. 道德准则      |
+| veil          | `/veɪl/`            | n. 面纱；遮盖物<br>v. 遮盖；掩饰    |
+| bliss         | `/blɪs/`            | n. 极乐；幸福                 |
+| bounteous     | `/ˈbaʊntiəs/`       | adj. 慷慨的；丰富的             |
+| shift         | `/ʃɪft/`            | v. 转移；改变<br>n. 改变；轮班     |
+| metamorphosis | `/ˌmetəˈmɔːrfəsɪs/` | n. 变形；蜕变                 |
 
 
 
@@ -5318,7 +5292,6 @@ Translator: ChatGPT 4
 | beard       | `/bɪrd/`           | n. 胡须                  | full beard. (大胡子)<br />He has had his beard shaved off. <br />(他把胡子刮掉了。) - 现在完成时。<br />He grew a beard during the lockdown. <br>(在封锁期间，他留了胡须。) |
 | bear        | `/ber/`            | v. 承担；忍受 <br />n. 熊 | v. It's hard to bear the pain. <br />(很难忍受这种痛苦。) <br />n. We saw a bear in the woods. <br />(我们在树林里看到了一只熊。) |
 | adjustment  | `/əˈdʒʌstmənt/`    | n. 调整；调节            | Making small adjustments to your diet can improve your health. <br>(对饮食进行小的调整可以改善你的健康。) |
-| turn        | `/tɜrn/`           | v. 转动；转变<br>n. 转弯；机会 | v. She turned the knob and opened the door. <br>(她转动旋钮并打开了门。)<br>n. It's your turn to play the game. <br>(轮到你玩游戏了。) |
 | migration   | `/maɪˈɡreɪʃən/`    | n. 迁移；移民            | The annual migration of the wildebeest`/ˈwɪldəbiːst/` is a spectacular sight. <br>(年度的角马迁徙是壮观的景象。) |
 | grow        | `/ɡroʊ/`           | v. 生长；增长            | Plants grow faster in the right conditions. <br>(在适宜的条件下，植物生长得更快。) |
 | resist      | `/rɪˈzɪst/`        | v. 抵抗；抗拒            | It's hard to resist the temptation of sweets. <br>(很难抗拒甜食的诱惑。) |
