@@ -3,6 +3,38 @@
 
 
 
+
+| 单词                | 美式发音                    | 词性 + 汉语释义              |
+|-------------------|-------------------------|------------------------|
+| stasis            | `/ˈsteɪsɪs/`            | n. 停滞；静止               |
+| stability         | `/stəˈbɪləti/`          | n. 稳定；稳定性              |
+| constancy         | `/ˈkɑːnstənsi/`         | n. 坚定；恒定               |
+| utter             | `/ˈʌtər/`               | adj. 完全的；彻底的<br>v. 说出；发出 |
+| summation         | `/ˌsəˈmeɪʃən/`          | n. 总和；总结               |
+| beard             | `/bɪrd/`                | n. 胡须<br>v. 公然反对       |
+| adjustment        | `/əˈdʒʌstmənt/`         | n. 调整；调节               |
+| turn              | `/tɜːrn/`               | v. 转动；变成<br>n. 转变；轮流；机会 |
+| migration         | `/maɪˈɡreɪʃən/`         | n. 迁移；迁徙；移民            |
+| grow              | `/ɡroʊ/`                | v. （人或动物）成长；种植；增长      |
+| resist            | `/rɪˈzɪst/`             | v. 抵抗；抗拒               |
+| invocation        | `/ˌɪnvəˈkeɪʃən/`        | n. 祈祷；调用               |
+| passage           | `/ˈpæsɪdʒ/`             | n. 通道；段落               |
+| disaster          | `/dɪˈzæstər/`           | n. 灾难；不幸               |
+| conductor         | `/kənˈdʌktər/`          | n. 指挥（家）；售票员；导体        |
+| grain             | `/ɡreɪn/`               | n. 谷物；颗粒               |
+| forethought       | `/ˈfɔrˌθɔt/`            | n. 预见；深谋远虑             |
+| oblivion          | `/əˈblɪviən/`           | n. 遗忘；湮没               |
+| ride              | `/raɪd/`                | v. 骑；乘坐<br>n. 乘车；骑行    |
+| rider             | `/ˈraɪdər/`             | n. 骑手；附加条款             |
+| chrysalis         | `/ˈkrɪsəlɪs/`           | n. 蝶蛹                  |
+| twist             | `/twɪst/`               | v. 扭转；曲解<br>n. 扭动；转折   |
+| indistinguishable | `/ˌɪndɪˈstɪŋɡwɪʃəbəl/`  | adj. 不能辨别的；难以区分的       |
+| feign             | `/feɪn/`                | v. 假装；伪装               |
+| pluralism         | `/ˈplʊrəlɪzəm/`         | n. 多元化；多元主义            |
+| pluralistic       | `/plʊrəˈlɪstɪk/`        | adj. 多元化的              |
+
+
+
 | 单词            | 美式发音                | 词性 + 汉语释义                    |
 |---------------|---------------------|------------------------------|
 | specify       | `/ˈspesɪfaɪ/`       | v. 指定；详细说明                   |
