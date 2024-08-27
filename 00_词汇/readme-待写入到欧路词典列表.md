@@ -2,7 +2,28 @@
 **重要提示：编辑当前文件最好在 VSCode 中编辑，IDEA 中编辑格式不友好，无法发现编辑错误**
 
 
-
+| 单词            | 美式发音             | 词性 + 汉语释义              |
+|-----------------|------------------|--------------------------|
+| transgress      | `/trænzˈɡres/`   | v. 违反；越界               |
+| transgression   | `/trænzˈɡreʃən/` | n. 违背；罪过               |
+| transgenic      | `/trænsˈdʒenɪk/` | adj. 转基因的              |
+| lander          | `/ˈlændər/`      | n. 登陆器                 |
+| ceil            | `/sil/`          | vt. 装天花板               |
+| difficult       | `/ˈdɪfɪkəlt/`    | adj. 困难的               |
+| avoid           | `/əˈvɔɪd/`       | v. 避免；回避               |
+| adjectival      | `/ˌædʒəkˈtaɪvəl/` | adj. 形容词的              |
+| anxious         | `/ˈæŋkʃəs/`      | adj. 焦虑的；渴望的           |
+| soul            | `/soʊl/`         | n. 灵魂；心灵               |
+| amiable         | `/ˈeɪmiəbəl/`    | adj. 友善的               |
+| sideway         | `/ˈsaɪdweɪ/`     | n. 人行道；侧面              |
+| contact         | `/ˈkɑːntækt/`     | n. 接触；联系<br>v. 接触；联系   |
+| committee       | `/kəˈmɪti/`      | n. 委员会                 |
+| philosophy      | `/fɪˈlɑːsəfi/`    | n. 哲学；人生观              |
+| bombardment     | `/bɑmˈbɑːrdmənt/` | n. 轰炸；炮击               |
+| policy          | `/ˈpɑləsi/`      | n. 政策；方针               |
+| gingerly        | `/ˈdʒɪndʒərli/`  | adv. 小心翼翼地             |
+| merit           | `/ˈmɛrɪt/`       | n. 优点；价值<br>v. 值得      |
+| utterly         | `/ˈʌtərli/`      | adv. 完全地；彻底地           |
 
 | 单词                | 美式发音                    | 词性 + 汉语释义              |
 |-------------------|-------------------------|------------------------|
@@ -32,7 +53,6 @@
 | feign             | `/feɪn/`                | v. 假装；伪装               |
 | pluralism         | `/ˈplʊrəlɪzəm/`         | n. 多元化；多元主义            |
 | pluralistic       | `/plʊrəˈlɪstɪk/`        | adj. 多元化的              |
-
 
 
 | 单词            | 美式发音                | 词性 + 汉语释义                    |

@@ -2925,26 +2925,26 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词       | 美式发音       | 词性 + 汉语释义                  | 示例                                          |
-|----------|------------|--------------------------------|----------------------------------------------|
-| many     | `/ˈmɛni/`  | adj. 许多的<br>pron. 许多       | adj. She has many friends. (她有许多朋友。)<br>pron. Many are called, but few are chosen. (被召的人多，选中的人少。) |
+| 单词       | 美式发音       | 词性 + 汉语释义               | 示例                                          |
+|----------|------------|-------------------------|----------------------------------------------|
+| many     | `/ˈmɛni/`  | adj. 许多的<br>pron. 许多    | adj. She has many friends. (她有许多朋友。)<br>pron. Many are called, but few are chosen. (被召的人多，选中的人少。) |
 | mark     | `/mɑrk/`   | v. 标记；评分；表明<br>n. 记号；分数 | v. Please mark your answers clearly. (请清楚地标记你的答案。)<br>The teacher marked the exams. (老师给试卷打分。)<br>This event marks a significant change. (这一事件表明了一个重要的变化。)<br>n. He put a mark on the map. (他在地图上做了一个记号。)<br>She got a high mark on her test. (她考试得了高分。) |
-| may      | `/meɪ/`    | modal verb. 可能；可以          | You may leave early if you have finished your work. (如果你完成了工作，可以早点离开。) |
-| meet     | `/miːt/`   | v. 遇见；满足                   | She met her friend at the coffee shop. (她在咖啡店遇见了朋友。) |
-| melt     | `/melt/`   | v. 融化；消失                   | The ice cream melted in the sun. (冰淇淋在阳光下融化了。) |
-| mix      | `/mɪks/`   | v. 混合<br>n. 混合物            | v. Mix the flour with water. (将面粉与水混合。)<br>n. This cake mix is easy to make. (这种蛋糕混合料很容易做。) |
-| move     | `/muːv/`   | v. 移动；搬家<br>n. 移动          | v. They moved to a new city last year. (他们去年搬到一个新城市。)<br>n. Her dance moves are impressive. (她的舞步令人印象深刻。) |
-| much     | `/mʌtʃ/`   | adv. 非常<br>pron. 许多         | adv. She is much happier now. (她现在快乐多了。)<br>pron. Much has been said about the topic. (关于这个话题已经说了很多。) |
-| must     | `/mʌst/`   | modal verb. 必须                | You must finish your homework before you go out. (你必须完成作业才能出去。) |
-| near     | `/nɪr/`    | prep. 靠近<br>adv. 几乎         | prep. The school is near the park. (学校在公园附近。)<br>adv. He was near crying. (他几乎要哭了。) |
-| need     | `/niːd/`   | v. 需要<br>n. 需求              | v. I need to buy some groceries. (我需要买些杂货。)<br>n. There is a need for more volunteers. (需要更多的志愿者。) |
-| never    | `/ˈnevər/` | adv. 从不                       | He never eats vegetables. (他从不吃蔬菜。) |
-| new      | `/njuː/`   | adj. 新的                       | She bought a new car. (她买了一辆新车。) |
-| next     | `/nekst/`  | adj. 下一个的<br>adv. 然后       | adj. I'll see you next week. (下周见。)<br>adv. First, we went to the museum; next, we visited the park. (首先，我们去了博物馆；然后，我们参观了公园。) |
-| night    | `/naɪt/`   | n. 夜晚                        | It was a cold and dark night. (那是一个寒冷而黑暗的夜晚。) |
+| may      | `/meɪ/`    | modal verb. 可能；可以       | You may leave early if you have finished your work. (如果你完成了工作，可以早点离开。) |
+| meet     | `/miːt/`   | v. 遇见；满足                | She met her friend at the coffee shop. (她在咖啡店遇见了朋友。) |
+| melt     | `/melt/`   | v. 融化；消失                | The ice cream melted in the sun. (冰淇淋在阳光下融化了。) |
+| mix      | `/mɪks/`   | v. 混合<br>n. 混合物         | v. Mix the flour with water. (将面粉与水混合。)<br>n. This cake mix is easy to make. (这种蛋糕混合料很容易做。) |
+| move     | `/muːv/`   | v. 移动；搬家<br>n. 移动       | v. They moved to a new city last year. (他们去年搬到一个新城市。)<br>n. Her dance moves are impressive. (她的舞步令人印象深刻。) |
+| much     | `/mʌtʃ/`   | adv. 非常<br>pron. 许多     | adv. She is much happier now. (她现在快乐多了。)<br>pron. Much has been said about the topic. (关于这个话题已经说了很多。) |
+| must     | `/mʌst/`   | modal verb. 必须          | You must finish your homework before you go out. (你必须完成作业才能出去。) |
+| near     | `/nɪr/`    | prep. 靠近<br>adv. 几乎     | prep. The school is near the park. (学校在公园附近。)<br>adv. He was near crying. (他几乎要哭了。) |
+| need     | `/niːd/`   | v. 需要<br>n. 需求          | v. I need to buy some groceries. (我需要买些杂货。)<br>n. There is a need for more volunteers. (需要更多的志愿者。) |
+| never    | `/ˈnevər/` | adv. 从不；决不              | He never eats vegetables. (他从不吃蔬菜。) |
+| new      | `/njuː/`   | adj. 新的                 | She bought a new car. (她买了一辆新车。) |
+| next     | `/nekst/`  | adj. 下一个的<br>adv. 然后    | adj. I'll see you next week. (下周见。)<br>adv. First, we went to the museum; next, we visited the park. (首先，我们去了博物馆；然后，我们参观了公园。) |
+| night    | `/naɪt/`   | n. 夜晚                   | It was a cold and dark night. (那是一个寒冷而黑暗的夜晚。) |
 | part     | `/pɑrt/`   | n. 部分；零件；角色<br>v. 分开；分离 | n. The book is divided into three parts. (这本书分为三个部分。)<br>He ordered a replacement part for his car. (他为他的车订购了一个替换零件。)<br>She played a minor part in the movie. (她在电影中扮演了一个小角色。)<br>v. They parted ways after the meeting. (会议后他们分开了。)<br>He parted the curtains to look outside. (他拉开窗帘向外看。) |
-| pass     | `/pæs/`    | v. 通过；传递<br>n. 通行证         | v. She passed the exam with flying colors. (她以优异的成绩通过了考试。)<br>n. You need a pass to enter the building. (你需要通行证才能进入大楼。) |
-| people   | `/ˈpiːpəl/` | n. 人；人们；民族                 | Many people attended the concert. (许多人参加了音乐会。) |
+| pass     | `/pæs/`    | v. 通过；传递<br>n. 通行证      | v. She passed the exam with flying colors. (她以优异的成绩通过了考试。)<br>n. You need a pass to enter the building. (你需要通行证才能进入大楼。) |
+| people   | `/ˈpiːpəl/` | n. 人；人们；民族              | Many people attended the concert. (许多人参加了音乐会。) |
 
 
 #### Fourth Table - 已校对 - ~~已写入 GoodNotes~~
@@ -4171,33 +4171,53 @@ Edit: 2024.07.17
 
 #### First Table - ~~已校对~~ - ~~已写入：GoodNotes~~
 
-Translator: ChatGPT 4
+Translator: ChatGPT 4 & 4o
+
+Edit: 2024.08.27、28
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词               | 美式发音            |   词类 + 汉语释义        |
 |-------------------|--------------------|------------------------|
-| slipup            | `/ˈslɪpˌʌp/       | n. 失误                 |
 | toxic             | `/ˈtɑksɪk/        | adj. 有毒的             |
 | reversal          | `/rɪˈvɜrsəl/      | n. 翻转，逆转            |
 | revest            | `/rɪˈvɛst/        | v. 重新装备，再授予       |
-| cub               | `/kʌb/            | n. 幼兽                 |
-| cube              | `/kjuːb/          | n. 立方体；v. 切成立方体  |
-| cubic             | `/ˈkjuːbɪk/       | adj. 立方的             |
 | cubicle           | `/ˈkjuːbɪkl/      | n. 小隔间               |
-| pragmatist        | `/ˈpræɡmətɪst/    | n. 实用主义者           |
-| pragmatism        | `/ˈpræɡməˌtɪzəm/  | n. 实用主义              |
-| impressionable    | `/ɪmˈprɛʃənəbl/   | adj. 易受影响的          |
 | accept            | `/əkˈsɛpt/        | v. 接受                 |
 | contentious       | `/kənˈtɛnʃəs/     | adj. 有争议的            |
 | dyslexia          | `/dɪsˈlɛksiə/     | n. 阅读障碍，诵读困难      |
 | dyslectic         | `/dɪsˈlɛktɪk/     | adj. 有阅读障碍的        |
 | variability       | `/ˌvɛəriəˈbɪlɪti/ | n. 可变性               |
-| companion         | `/kəmˈpænjən/     | n. 伙伴，同伴            |
 | seaman            | `/ˈsiːmən/        | n. 海员，水手            |
-| sow               | `/soʊ/            | v. 播种                 |
 | reap              | `/riːp/           | v. 收割，收获            |
 | backward          | `/ˈbækwərd/       | adj. 向后的，落后的；adv. 向后地  |
+
+以下是根据翻译规则处理的这些单词的翻译表格：
+
+| 单词              | 美式发音            | 词性 + 汉语释义                          |
+|-------------------|---------------------|------------------------------------------|
+| slipup            | `/ˈslɪpˌʌp/`        | n. 失误                                  |
+| toxic             | `/ˈtɑksɪk/`         | adj. 有毒的；有害的                        |
+| reversal          | `/rɪˈvɜrsəl/`       | n. 逆转；倒退                             |
+| revest            | `/rɪˈvɛst/`         | v. 恢复；重新穿上                         |
+| cub               | `/kʌb/`             | n. 幼兽                                  |
+| cubic             | `/ˈkjubɪk/`         | adj. 立方的                               |
+| cubicle           | `/ˈkjubɪkəl/`       | n. 小隔间；工作间                           |
+| pragmatist        | `/ˈpræɡmətɪst/`     | n. 实用主义者                             |
+| pragmatism        | `/ˈpræɡməˌtɪzəm/`   | n. 实用主义                               |
+| impressionable    | `/ɪmˈprɛʃənəbəl/`   | adj. 易受影响的                           |
+| accept            | `/ækˈsɛpt/`         | v. 接受；承认                             |
+| contentious       | `/kənˈtɛnʃəs/`      | adj. 有争议的；好争吵的                     |
+| dyslexia          | `/dɪsˈlɛksiə/`      | n. 诵读困难                               |
+| dyslectic         | `/dɪsˈlɛktɪk/`      | adj. 诵读困难的                           |
+| variability       | `/ˌvɛriəˈbɪlɪti/`   | n. 变化性；可变性                           |
+| companion         | `/kəmˈpænjən/`      | n. 伙伴；同伴                             |
+| seaman            | `/ˈsiːmən/`         | n. 水手                                   |
+| sow               | `/soʊ/`             | v. 播种                                   |
+| reap              | `/riːp/`             | v. 收获                                   |
+| backward          | `/ˈbækwərd/`        | adj. 向后的；落后的<br>adv. 向后          |
+
+
 
 
 #### Second Table - 已校对 - ~~已写入：GoodNotes~~
@@ -4208,45 +4228,28 @@ Edit: 2024.08.27
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词             | 美式发音            | 词类 + 汉语释义              |
-|------------------|------------------|----------------------------|
-| transgression    | `/trænsˈɡrɛʃən/ | n. 违法，罪行                |
-| lander           | `/ˈlændər/       | n. 着陆器                  |
-| ceil             | `/siːl/          | v. 给（天花板）装天花板      |
-| amiable          | `/ˈeɪmiəbəl/     | adj. 和蔼的，亲切的         |
-| sideway          | `/ˈsaɪdˌweɪ/     | n. 侧面，侧道              |
-| merit            | `/ˈmɛrɪt/        | n. 优点，价值；v. 值得      |
-
-
-以下是根据翻译规则处理的这些单词的翻译表格：
-
-| 单词            | 美式发音              | 词性 + 汉语释义                          |
-|-----------------|-------------------|------------------------------------------|
-| transgress      | `/trænzˈɡres/`    | v. 违反；越界                            |
-| transgression   | `/trænzˈɡrɛʃən/`  | n. 违背；罪过                            |
-
-| transgenic      | `/trænsˈdʒɛnɪk/`  | adj. 转基因的                            |
-| lander          | `/ˈlændər/`       | n. 登陆器                                |
-| specialise      | `/ˈspɛʃəˌlaɪz/`   | v. 专门研究；专攻                        |
-| ceil            | `/siːl/`          | v. 定义上限                              |
-| difficult       | `/ˈdɪfɪˌkəlt/`    | adj. 困难的                              |
-| avoid           | `/əˈvɔɪd/`        | v. 避免；回避                            |
-| adjectival      | `/ˌædʒɪkˈtaɪvəl/` | adj. 形容词的                            |
-| anxious         | `/ˈæŋkʃəs/`       | adj. 焦虑的；渴望的                      |
-| soul            | `/soʊl/`          | n. 灵魂；心灵                            |
-| never           | `/ˈnɛvər/`        | adv. 从不；绝不                            |
-| amiable         | `/ˈeɪmiəbəl/`     | adj. 和蔼可亲的                          |
-| sideway         | `/ˈsaɪdˌweɪ/`     | n. 人行道；侧面                           |
-| contact         | `/ˈkɑntækt/`      | n. 接触；联系<br>v. 接触；联系            |
-| committee       | `/kəˈmɪti/`       | n. 委员会                                |
-| philosophy      | `/fɪˈlɑsəfi/`     | n. 哲学；人生观                           |
-| bombardment     | `/bɑmˈbɑrdmənt/`  | n. 轰炸；攻击                            |
-| policy          | `/ˈpɑləsi/`       | n. 政策；方针                            |
-| gingerly        | `/ˈdʒɪndʒərli/`   | adv. 小心翼翼地                           |
-| merit           | `/ˈmɛrɪt/`        | n. 优点；功绩<br>v. 值得；应得            |
-| utterly         | `/ˈʌtərli/`       | adv. 完全地；彻底地                       |
-
-
+| 单词            | 美式发音             | 词性 + 汉语释义              |
+|-----------------|------------------|--------------------------|
+| transgress      | `/trænzˈɡres/`   | v. 违反；越界               |
+| transgression   | `/trænzˈɡreʃən/` | n. 违背；罪过               |
+| transgenic      | `/trænsˈdʒenɪk/` | adj. 转基因的              |
+| lander          | `/ˈlændər/`      | n. 登陆器                 |
+| ceil            | `/sil/`          | vt. 装天花板               |
+| difficult       | `/ˈdɪfɪkəlt/`    | adj. 困难的               |
+| avoid           | `/əˈvɔɪd/`       | v. 避免；回避               |
+| adjectival      | `/ˌædʒəkˈtaɪvəl/` | adj. 形容词的              |
+| anxious         | `/ˈæŋkʃəs/`      | adj. 焦虑的；渴望的           |
+| soul            | `/soʊl/`         | n. 灵魂；心灵               |
+| amiable         | `/ˈeɪmiəbəl/`    | adj. 友善的               |
+| sideway         | `/ˈsaɪdweɪ/`     | n. 人行道；侧面              |
+| contact         | `/ˈkɑːntækt/`     | n. 接触；联系<br>v. 接触；联系   |
+| committee       | `/kəˈmɪti/`      | n. 委员会                 |
+| philosophy      | `/fɪˈlɑːsəfi/`    | n. 哲学；人生观              |
+| bombardment     | `/bɑmˈbɑːrdmənt/` | n. 轰炸；炮击               |
+| policy          | `/ˈpɑləsi/`      | n. 政策；方针               |
+| gingerly        | `/ˈdʒɪndʒərli/`  | adv. 小心翼翼地             |
+| merit           | `/ˈmɛrɪt/`       | n. 优点；价值<br>v. 值得      |
+| utterly         | `/ˈʌtərli/`      | adv. 完全地；彻底地           |
 
 
 #### Third Table - 已校对 - ~~已写入：GoodNotes~~
