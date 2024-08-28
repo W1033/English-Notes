@@ -2,108 +2,103 @@
 **重要提示：编辑当前文件最好在 VSCode 中编辑，IDEA 中编辑格式不友好，无法发现编辑错误**
 
 
-| 单词            | 美式发音             | 词性 + 汉语释义              |
-|-----------------|------------------|--------------------------|
-| transgress      | `/trænzˈɡres/`   | v. 违反；越界               |
-| transgression   | `/trænzˈɡreʃən/` | n. 违背；罪过               |
-| transgenic      | `/trænsˈdʒenɪk/` | adj. 转基因的              |
-| lander          | `/ˈlændər/`      | n. 登陆器                 |
-| ceil            | `/sil/`          | vt. 装天花板               |
-| difficult       | `/ˈdɪfɪkəlt/`    | adj. 困难的               |
-| avoid           | `/əˈvɔɪd/`       | v. 避免；回避               |
-| adjectival      | `/ˌædʒəkˈtaɪvəl/` | adj. 形容词的              |
-| anxious         | `/ˈæŋkʃəs/`      | adj. 焦虑的；渴望的           |
-| soul            | `/soʊl/`         | n. 灵魂；心灵               |
-| amiable         | `/ˈeɪmiəbəl/`    | adj. 友善的               |
-| sideway         | `/ˈsaɪdweɪ/`     | n. 人行道；侧面              |
-| contact         | `/ˈkɑːntækt/`     | n. 接触；联系<br>v. 接触；联系   |
-| committee       | `/kəˈmɪti/`      | n. 委员会                 |
-| philosophy      | `/fɪˈlɑːsəfi/`    | n. 哲学；人生观              |
-| bombardment     | `/bɑmˈbɑːrdmənt/` | n. 轰炸；炮击               |
-| policy          | `/ˈpɑləsi/`      | n. 政策；方针               |
-| gingerly        | `/ˈdʒɪndʒərli/`  | adv. 小心翼翼地             |
-| merit           | `/ˈmɛrɪt/`       | n. 优点；价值<br>v. 值得      |
-| utterly         | `/ˈʌtərli/`      | adv. 完全地；彻底地           |
-
-| 单词                | 美式发音                    | 词性 + 汉语释义              |
-|-------------------|-------------------------|------------------------|
-| stasis            | `/ˈsteɪsɪs/`            | n. 停滞；静止               |
-| stability         | `/stəˈbɪləti/`          | n. 稳定；稳定性              |
-| constancy         | `/ˈkɑːnstənsi/`         | n. 坚定；恒定               |
-| utter             | `/ˈʌtər/`               | adj. 完全的；彻底的<br>v. 说出；发出 |
-| summation         | `/ˌsəˈmeɪʃən/`          | n. 总和；总结               |
-| beard             | `/bɪrd/`                | n. 胡须<br>v. 公然反对       |
-| adjustment        | `/əˈdʒʌstmənt/`         | n. 调整；调节               |
-| turn              | `/tɜːrn/`               | v. 转动；变成<br>n. 转变；轮流；机会 |
-| migration         | `/maɪˈɡreɪʃən/`         | n. 迁移；迁徙；移民            |
-| grow              | `/ɡroʊ/`                | v. （人或动物）成长；种植；增长      |
-| resist            | `/rɪˈzɪst/`             | v. 抵抗；抗拒               |
-| invocation        | `/ˌɪnvəˈkeɪʃən/`        | n. 祈祷；调用               |
-| passage           | `/ˈpæsɪdʒ/`             | n. 通道；段落               |
-| disaster          | `/dɪˈzæstər/`           | n. 灾难；不幸               |
-| conductor         | `/kənˈdʌktər/`          | n. 指挥（家）；售票员；导体        |
-| grain             | `/ɡreɪn/`               | n. 谷物；颗粒               |
-| forethought       | `/ˈfɔrˌθɔt/`            | n. 预见；深谋远虑             |
-| oblivion          | `/əˈblɪviən/`           | n. 遗忘；湮没               |
-| ride              | `/raɪd/`                | v. 骑；乘坐<br>n. 乘车；骑行    |
-| rider             | `/ˈraɪdər/`             | n. 骑手；附加条款             |
-| chrysalis         | `/ˈkrɪsəlɪs/`           | n. 蝶蛹                  |
-| twist             | `/twɪst/`               | v. 扭转；曲解<br>n. 扭动；转折   |
-| indistinguishable | `/ˌɪndɪˈstɪŋɡwɪʃəbəl/`  | adj. 不能辨别的；难以区分的       |
-| feign             | `/feɪn/`                | v. 假装；伪装               |
-| pluralism         | `/ˈplʊrəlɪzəm/`         | n. 多元化；多元主义            |
-| pluralistic       | `/plʊrəˈlɪstɪk/`        | adj. 多元化的              |
 
 
-| 单词            | 美式发音                | 词性 + 汉语释义                    |
-|---------------|---------------------|------------------------------|
-| specify       | `/ˈspesɪfaɪ/`       | v. 指定；详细说明                   |
-| reconcile     | `/ˈrekənsaɪl/`      | v. 调和；和解                     |
-| diverge       | `/daɪˈvɜːrdʒ/`      | v. 分歧；偏离                     |
-| divergence    | `/daɪˈvɜːrdʒəns/`   | n. 分歧；偏离                     |
-| divergent     | `/daɪˈvɜːrdʒənt/`   | adj. 分歧的；不同的                 |
-| squelch       | `/skweltʃ/`         | v. 发出吧唧声；压制；镇压               |
-| terminal      | `/ˈtɜːrmənəl/`      | n. 终端；航站楼；终点站<br>adj. 晚期的；终点的 |
-| ostensible    | `/ɑːˈstensəbəl/`    | adj. 表面的；假装的                 |
-| recursive     | `/rɪˈkɜrsɪv/`       | adj. 递归的                     |
-| twin          | `/twɪn/`            | n. 双胞胎之一<br>adj. 双胞胎的；成对的    |
-| irritate      | `/ˈɪrɪteɪt/`        | v. 刺激；激怒                     |
-| comeback      | `/ˈkʌmˌbæk/`        | n. 东山再起；回归                   |
-| withstand     | `/wɪθˈstænd/`       | v. 承受；抵挡                     |
-| windblown     | `/ˈwɪndˌbloʊn/`     | adj. 被风吹的                    |
-| dune          | `/duːn/`            | n. 沙丘                        |
-| dense         | `/dɛns/`            | adj. 稠密的；密集的                 |
-| count on      | `/kaʊnt ɒn/`        | v. 依靠；指望                     |
-| gear          | `/ɡɪr/`             | n. 档位；齿轮；装备                  |
-| apparel       | `/əˈpærəl/`         | n. 服装                        |
-| footwear      | `/ˈfʊtwɛr/`         | n. 鞋类                        |
-| moral         | `/ˈmɔrəl/`          | adj. 道德的<br>n. 道德准则      |
-| veil          | `/veɪl/`            | n. 面纱；遮盖物<br>v. 遮盖；掩饰    |
-| bliss         | `/blɪs/`            | n. 极乐；幸福                 |
-| bounteous     | `/ˈbaʊntiəs/`       | adj. 慷慨的；丰富的             |
-| shift         | `/ʃɪft/`            | v. 转移；改变<br>n. 改变；轮班     |
-| metamorphosis | `/ˌmetəˈmɔːrfəsɪs/` | n. 变形；蜕变                 |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+slipup, `/ˈslɪpˌʌp/`<br/><br/> n. 失误                  
+toxic, `/ˈtɑːksɪk/`<br/><br/> adj. 有毒的；有害的           
+reverse, `/rɪˈvɜːrs/`<br/><br/> v. 逆转；倒车<br><br>n. 逆转；反面<br><br>adj. 相反的 
+reversal, `/rɪˈvɜːrsəl/`<br/><br/> n. 逆转；倒退               
+revest, `/rɪˈvɛst/`<br/><br/> v. 重新授予                
+cub, `/kʌb/`<br/><br/> n. 幼兽                  
+cube, `/kjuːb/`<br/><br/> n. 立方体；立方(数学)；<br />v. 求...的立方，切成方块 
+cubic, `/ˈkjuːbɪk/`<br/><br/> adj. 立方的               
+cubicle, `/ˈkjuːbɪkəl/`<br/><br/> n. 小隔间                 
+pragmatist, `/ˈpræɡmətɪst/`<br/><br/> n. 实用主义者               
+pragmatism, `/ˈpræɡmətɪzəm/`<br/><br/> n. 实用主义                
+impressionable, `/ɪmˈpreʃənəbəl/`<br/><br/> adj. (尤因年轻而)易受影响的      
+accept, `/ækˈsɛpt/`<br/><br/> v. 接受；承认               
+accepted, `/əkˈsɛptɪd/`<br/><br/> v. 接受；承认（accept 的过去式和过去分词）<br><br>adj. 公认的；被认可的 
+contentious, `/kənˈtenʃəs/`<br/><br/> adj. 有争议的；好争吵的         
+dyslexia, `/dɪsˈleksiə/`<br/><br/> n. 阅读障碍                
+dyslectic, `/dɪsˈlektɪk/`<br/><br/> adj. 阅读障碍的             
+variable, `/ˈveriəbəl/`<br/><br/> adj. 可变的；多变的<br><br>n. 变量  
+variability, `/ˌveriəˈbɪləti/`<br/><br/> n. 可变性                 
+companion, `/kəmˈpænjən/`<br/><br/> n. 伙伴；同伴               
+seaman, `/ˈsiːmən/`<br/><br/> n. 水手                  
+sow, `/soʊ/`<br/><br/> v. 播种                  
+reap, `/riːp/`<br/><br/> v. 收获                  
+backward, `/ˈbækwərd/`<br/><br/> adj. 向后的；落后的<br><br>adv. 向后 
+transgress, `/trænzˈɡres/`<br/><br/> v. 违反；越界               
+transgression, `/trænzˈɡreʃən/`<br/><br/> n. 违背；罪过               
+transgenic, `/trænsˈdʒenɪk/`<br/><br/> adj. 转基因的              
+lander, `/ˈlændər/`<br/><br/> n. 登陆器                 
+ceil, `/sil/`<br/><br/> vt. 装天花板               
+difficult, `/ˈdɪfɪkəlt/`<br/><br/> adj. 困难的               
+avoid, `/əˈvɔɪd/`<br/><br/> v. 避免；回避               
+adjectival, `/ˌædʒəkˈtaɪvəl/`<br/><br/> adj. 形容词的              
+anxious, `/ˈæŋkʃəs/`<br/><br/> adj. 焦虑的；渴望的           
+soul, `/soʊl/`<br/><br/> n. 灵魂；心灵               
+amiable, `/ˈeɪmiəbəl/`<br/><br/> adj. 友善的               
+sideway, `/ˈsaɪdweɪ/`<br/><br/> n. 人行道；侧面              
+contact, `/ˈkɑːntækt/`<br/><br/> n. 接触；联系<br><br>v. 接触；联系   
+committee, `/kəˈmɪti/`<br/><br/> n. 委员会                 
+philosophy, `/fɪˈlɑːsəfi/`<br/><br/> n. 哲学；人生观              
+bombardment, `/bɑmˈbɑːrdmənt/`<br/><br/> n. 轰炸；炮击               
+policy, `/ˈpɑləsi/`<br/><br/> n. 政策；方针               
+gingerly, `/ˈdʒɪndʒərli/`<br/><br/> adv. 小心翼翼地             
+merit, `/ˈmɛrɪt/`<br/><br/> n. 优点；价值<br><br>v. 值得      
+utterly, `/ˈʌtərli/`<br/><br/> adv. 完全地；彻底地           
+stasis, `/ˈsteɪsɪs/`<br/><br/> n. 停滞；静止               
+stability, `/stəˈbɪləti/`<br/><br/> n. 稳定；稳定性              
+constancy, `/ˈkɑːnstənsi/`<br/><br/> n. 坚定；恒定               
+utter, `/ˈʌtər/`<br/><br/> adj. 完全的；彻底的<br><br>v. 说出；发出 
+summation, `/ˌsəˈmeɪʃən/`<br/><br/> n. 总和；总结               
+beard, `/bɪrd/`<br/><br/> n. 胡须<br><br>v. 公然反对       
+adjustment, `/əˈdʒʌstmənt/`<br/><br/> n. 调整；调节               
+turn, `/tɜːrn/`<br/><br/> v. 转动；变成<br><br>n. 转变；轮流；机会 
+migration, `/maɪˈɡreɪʃən/`<br/><br/> n. 迁移；迁徙；移民            
+grow, `/ɡroʊ/`<br/><br/> v. （人或动物）成长；种植；增长      
+resist, `/rɪˈzɪst/`<br/><br/> v. 抵抗；抗拒               
+invocation, `/ˌɪnvəˈkeɪʃən/`<br/><br/> n. 祈祷；调用               
+passage, `/ˈpæsɪdʒ/`<br/><br/> n. 通道；段落               
+disaster, `/dɪˈzæstər/`<br/><br/> n. 灾难；不幸               
+conductor, `/kənˈdʌktər/`<br/><br/> n. 指挥（家）；售票员；导体        
+grain, `/ɡreɪn/`<br/><br/> n. 谷物；颗粒               
+forethought, `/ˈfɔrˌθɔt/`<br/><br/> n. 预见；深谋远虑             
+oblivion, `/əˈblɪviən/`<br/><br/> n. 遗忘；湮没               
+ride, `/raɪd/`<br/><br/> v. 骑；乘坐<br><br>n. 乘车；骑行    
+rider, `/ˈraɪdər/`<br/><br/> n. 骑手；附加条款             
+chrysalis, `/ˈkrɪsəlɪs/`<br/><br/> n. 蝶蛹                  
+twist, `/twɪst/`<br/><br/> v. 扭转；曲解<br><br>n. 扭动；转折   
+indistinguishable, `/ˌɪndɪˈstɪŋɡwɪʃəbəl/`<br/><br/> adj. 不能辨别的；难以区分的       
+feign, `/feɪn/`<br/><br/> v. 假装；伪装               
+pluralism, `/ˈplʊrəlɪzəm/`<br/><br/> n. 多元化；多元主义            
+pluralistic, `/plʊrəˈlɪstɪk/`<br/><br/> adj. 多元化的              
+specify, `/ˈspesɪfaɪ/`<br/><br/> v. 指定；详细说明             
+reconcile, `/ˈrekənsaɪl/`<br/><br/> v. 调和；和解               
+diverge, `/daɪˈvɜːrdʒ/`<br/><br/> v. 分歧；偏离               
+divergence, `/daɪˈvɜːrdʒəns/`<br/><br/> n. 分歧；偏离               
+divergent, `/daɪˈvɜːrdʒənt/`<br/><br/> adj. 分歧的；不同的           
+squelch, `/skweltʃ/`<br/><br/> v. 发出吧唧声；压制；镇压         
+terminal, `/ˈtɜːrmənəl/`<br/><br/> n. 终端；航站楼；终点站<br><br>adj. 晚期的；终点的 
+ostensible, `/ɑːˈstensəbəl/`<br/><br/> adj. 表面的；假装的           
+recursive, `/rɪˈkɜrsɪv/`<br/><br/> adj. 递归的               
+twin, `/twɪn/`<br/><br/> n. 双胞胎之一<br><br>adj. 双胞胎的；成对的 
+irritate, `/ˈɪrɪteɪt/`<br/><br/> v. 刺激；激怒               
+comeback, `/ˈkʌmˌbæk/`<br/><br/> n. 东山再起；回归             
+withstand, `/wɪθˈstænd/`<br/><br/> v. 承受；抵挡               
+windblown, `/ˈwɪndˌbloʊn/`<br/><br/> adj. 被风吹的              
+dune, `/duːn/`<br/><br/> n. 沙丘                  
+dense, `/dɛns/`<br/><br/> adj. 稠密的；密集的                        
+gear, `/ɡɪr/`<br/><br/> n. 档位；齿轮；装备            
+apparel, `/əˈpærəl/`<br/><br/> n. 服装                  
+footwear, `/ˈfʊtwɛr/`<br/><br/> n. 鞋类                  
+moral, `/ˈmɔrəl/`<br/><br/> adj. 道德的<br><br>n. 道德准则    
+veil, `/veɪl/`<br/><br/> n. 面纱；遮盖物<br><br>v. 遮盖；掩饰  
+bliss, `/blɪs/`<br/><br/> n. 极乐；幸福               
+bounteous, `/ˈbaʊntiəs/`<br/><br/> adj. 慷慨的；丰富的           
+shift, `/ʃɪft/`<br/><br/> v. 转移；改变<br><br>n. 改变；轮班   
+metamorphosis, `/ˌmetəˈmɔːrfəsɪs/`<br/><br/> n. 变形；蜕变               
 post, `/poʊst/`<br/><br/> n. 邮件；职位<br><br>v. 邮寄；张贴 
 compilation, `/ˌkɑmpəˈleɪʃən/`<br/><br/> n. 汇编；编辑            
 note, `/noʊt/`<br/><br/> n. 笔记；便签；注释；音符<br><br>v. 注意；记录 

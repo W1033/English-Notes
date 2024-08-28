@@ -19,6 +19,256 @@ Translator: ChatGPT 4o
 ## ▲ 待编辑生词
 
 
+
+### Add: 2024.08.28
+
+#### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词          | 美式发音            | 词性 + 汉语释义                          |
+|---------------|---------------------|------------------------------------------|
+| level         | `/ˈlɛvəl/`          | n. 水平；等级<br>adj. 平的；水平的<br>v. 使平坦；使对等 |
+| foam          | `/foʊm/`            | n. 泡沫<br>v. 起泡沫                     |
+| cage          | `/keɪdʒ/`           | n. 笼子<br>v. 关进笼子                   |
+| vibe          | `/vaɪb/`            | n. 气氛；氛围                             |
+| marketing     | `/ˈmɑrkɪtɪŋ/`       | n. 市场营销                               |
+| tickle        | `/ˈtɪkəl/`          | v. 使发痒；逗乐<br>n. 痒感               |
+| inflation     | `/ɪnˈfleɪʃən/`      | n. 通货膨胀                               |
+| somersault    | `/ˈsʌmərˌsɔlt/`     | n. 翻筋斗<br>v. 翻筋斗                    |
+| ankle         | `/ˈæŋkəl/`          | n. 脚踝                                   |
+| which         | `/wɪtʃ/`            | pron. 哪一个；哪个                        |
+| niece         | `/nis/`             | n. 侄女；外甥女                           |
+| anger         | `/ˈæŋɡər/`          | n. 愤怒<br>v. 使愤怒                     |
+| angry         | `/ˈæŋɡri/`          | adj. 愤怒的                               |
+| forbearance   | `/fɔrˈbɛrəns/`      | n. 忍耐；宽容                             |
+| relative      | `/ˈrɛlətɪv/`        | n. 亲戚<br>adj. 相对的                     |
+| cross         | `/krɔs/`            | v. 穿过；交叉<br>n. 十字架；交叉          |
+| dictionary    | `/ˈdɪkʃənɛri/`      | n. 字典                                   |
+| directory     | `/dəˈrɛktəri/`      | n. 名录；目录                             |
+| cucumber      | `/ˈkjuˌkʌmbər/`     | n. 黄瓜                                   |
+
+
+#### Second Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词            | 美式发音            | 词性 + 汉语释义                          |
+|-----------------|---------------------|------------------------------------------|
+| line            | `/laɪn/`            | n. 线；排<br>v. 排队；画线                |
+| lining          | `/ˈlaɪnɪŋ/`         | n. 衬里；内层                             |
+| irritable       | `/ˈɪrɪtəbəl/`       | adj. 易怒的；急躁的                        |
+| irritability    | `/ˌɪrɪtəˈbɪlɪti/`   | n. 易怒；过敏性                           |
+| allergy         | `/ˈælɚdʒi/`         | n. 过敏症；反感                           |
+| penalty         | `/ˈpɛnəlti/`        | n. 罚款；处罚                             |
+| hazard          | `/ˈhæzərd/`         | n. 危险；冒险<br>v. 冒险                  |
+| kerchief        | `/ˈkɜrtʃɪf/`        | n. 头巾；围巾                             |
+| exclusively     | `/ɪkˈskluːsɪvli/`   | adv. 仅仅；专门地                         |
+| typical         | `/ˈtɪpɪkəl/`        | adj. 典型的；特有的                       |
+| typically       | `/ˈtɪpɪkli/`        | adv. 通常；典型地                         |
+| augmentation    | `/ˌɔɡmɛnˈteɪʃən/`   | n. 增加；扩大                             |
+| unwavering      | `/ʌnˈweɪvərɪŋ/`     | adj. 坚定的；不动摇的                      |
+| contempt        | `/kənˈtɛmpt/`       | n. 轻视；蔑视                             |
+| swing           | `/swɪŋ/`            | v. 摇摆；转动<br>n. 摇摆；秋千            |
+| carpentry       | `/ˈkɑrpəntri/`      | n. 木工活；木匠手艺                        |
+| wrestle         | `/ˈrɛsəl/`          | v. 摔跤；斗争<br>n. 摔跤；斗争            |
+| alter           | `/ˈɔltər/`          | v. 改变；修改                             |
+| push            | `/pʊʃ/`             | v. 推动；催促<br>n. 推动；决心            |
+| strategy        | `/ˈstrætədʒi/`      | n. 战略；策略                             |
+
+
+#### Third Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词            | 美式发音            | 词性 + 汉语释义                          |
+|-----------------|---------------------|------------------------------------------|
+| tulip           | `/ˈtuːlɪp/`         | n. 郁金香                                 |
+| recitation      | `/ˌrɛsɪˈteɪʃən/`    | n. 背诵；朗诵                              |
+| bible           | `/ˈbaɪbəl/`         | n. 圣经；权威著作                          |
+| ankle           | `/ˈæŋkəl/`          | n. 脚踝                                   |
+| contort         | `/kənˈtɔrt/`        | v. 扭曲；歪曲                             |
+| distort         | `/dɪˈstɔrt/`        | v. 扭曲；曲解                             |
+| cruel           | `/ˈkruəl/`          | adj. 残酷的；无情的                        |
+| unexpected      | `/ˌʌnɪkˈspɛktɪd/`  | adj. 意外的；突然的                        |
+| cudgel          | `/ˈkʌdʒəl/`         | n. 棍棒；粗棒                              |
+| eerie           | `/ˈɪri/`            | adj. 怪异的；可怕的                        |
+| stair           | `/stɛr/`            | n. 楼梯；阶梯                              |
+| summit          | `/ˈsʌmɪt/`          | n. 顶峰；峰会                              |
+| morality        | `/məˈrælɪti/`       | n. 道德；伦理                              |
+| avid            | `/ˈævɪd/`           | adj. 渴望的；热衷的                        |
+| norm            | `/nɔrm/`            | n. 标准；规范                              |
+| artillery       | `/ɑrˈtɪləri/`       | n. 火炮；炮兵                              |
+| insurance       | `/ɪnˈʃʊrəns/`       | n. 保险；保障                              |
+| monetary        | `/ˈmɑnɪˌtɛri/`      | adj. 货币的；金融的                        |
+| its             | `/ɪts/`             | pron. 它的                                 |
+| burn            | `/bɜrn/`            | v. 燃烧；灼伤<br>n. 烧伤；灼伤            |
+| burning         | `/ˈbɜrnɪŋ/`         | adj. 燃烧的；强烈的<br>n. 燃烧            |
+| completely      | `/kəmˈplitli/`      | adv. 完全地；彻底地                        |
+
+
+#### Fourth Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词            | 美式发音            | 词性 + 汉语释义                          |
+|-----------------|---------------------|------------------------------------------|
+| sunbeam         | `/ˈsʌnˌbiːm/`       | n. 阳光；光束                             |
+| tranquility     | `/træŋˈkwɪlɪti/`    | n. 宁静；平静                             |
+| ambassador      | `/æmˈbæsədər/`      | n. 大使；代表                             |
+| scribble        | `/ˈskrɪbəl/`        | v. 潦草地写<br>n. 潦草的字迹               |
+| polar           | `/ˈpoʊlər/`         | adj. 极地的；正好相反的                    |
+| gametophyte     | `/ɡəˈmitəˌfaɪt/`    | n. 配子体                                 |
+| precedent       | `/ˈprɛsɪdənt/`      | n. 先例；前例                             |
+| unprecedented   | `/ʌnˈprɛsɪˌdɛntɪd/` | adj. 前所未有的；史无前例的                |
+| collarless      | `/ˈkɔlərˌlɪs/`      | adj. 无领的                               |
+| cause           | `/kɔz/`             | n. 原因；事业<br>v. 引起；导致            |
+| fail            | `/feɪl/`            | v. 失败；未能做到<br>n. 失败              |
+| venture         | `/ˈvɛntʃər/`        | v. 冒险；敢于<br>n. 冒险事业              |
+| lip             | `/lɪp/`             | n. 嘴唇                                   |
+| plug            | `/plʌɡ/`            | v. 塞住；插入<br>n. 插头；塞子            |
+| popsicle        | `/ˈpɑpsɪkəl/`       | n. 冰棍                                   |
+| bikini          | `/bɪˈkini/`         | n. 比基尼泳装                              |
+| cone            | `/koʊn/`            | n. 圆锥体；蛋筒冰淇淋                      |
+| mosquito        | `/məˈskitoʊ/`       | n. 蚊子                                   |
+| sundae          | `/ˈsʌnˌdeɪ/`        | n. 圣代冰淇淋                              |
+| swimsuit        | `/ˈswɪmˌsut/`       | n. 泳衣                                   |
+
+
+#### Fifth Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词            | 美式发音            | 词性 + 汉语释义                          |
+|-----------------|---------------------|------------------------------------------|
+| sale            | `/seɪl/`            | n. 销售；减价                             |
+| vandal          | `/ˈvændl/`          | n. 破坏公物者                            |
+| putative        | `/ˈpjutətɪv/`       | adj. 推定的；假定的                        |
+| legacy          | `/ˈlɛɡəsi/`         | n. 遗产；遗留问题                          |
+| strait          | `/streɪt/`          | n. 海峡；困境                         |
+| plaque          | `/plæk/`            | n. 匾；牙斑                               |
+| senile          | `/ˈsinaɪl/`         | adj. 年老的；衰老的                        |
+| pharmacy        | `/ˈfɑrməsi/`        | n. 药房；药剂学                            |
+| confine         | `/kənˈfaɪn/`        | v. 限制；禁闭                             |
+| choke           | `/tʃoʊk/`           | v. 窒息；堵塞<br>n. 窒息；阻塞             |
+| inexperience    | `/ˌɪnɪkˈspɪriəns/`  | n. 缺乏经验                               |
+| inexperienced   | `/ˌɪnɪkˈspɪriənst/` | adj. 无经验的                              |
+| delay           | `/dɪˈleɪ/`          | v. 延迟；耽搁<br>n. 延误；耽搁             |
+| rotten          | `/ˈrɑtn/`           | adj. 腐烂的；糟糕的                        |
+| column          | `/ˈkɑləm/`          | n. 柱子；专栏                              |
+| straw           | `/strɔ/`            | n. 稻草；吸管                              |
+| demeanor        | `/dɪˈminər/`        | n. 行为；举止                              |
+| undergo         | `/ˌʌndərˈɡoʊ/`      | v. 经历；遭受                              |
+| climb           | `/klaɪm/`           | v. 攀登；上升<br>n. 攀登；上升             |
+| climber         | `/ˈklaɪmər/`        | n. 攀登者；登山者                          |
+| sooner          | `/ˈsunər/`          | adv. 更早；宁愿                              |
+| tyre            | `/taɪr/`            | n. 轮胎                                  |
+
+
+#### Sixth Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词            | 美式发音            | 词性 + 汉语释义                          |
+|-----------------|---------------------|------------------------------------------|
+| overripe        | `/ˌoʊvərˈraɪp/`     | adj. 熟过头的；过熟的                      |
+| expired         | `/ɪkˈspaɪərd/`      | adj. 过期的                               |
+| withered        | `/ˈwɪðərd/`         | adj. 枯萎的；憔悴的                        |
+| soggy           | `/ˈsɔɡi/`           | adj. 湿透的；沉闷的                        |
+| mealy           | `/ˈmili/`           | adj. 面粉状的；松软的                      |
+| bitter          | `/ˈbɪtər/`          | adj. 苦的；痛苦的                          |
+| silky           | `/ˈsɪlki/`          | adj. 丝绸般的；柔滑的                      |
+| sour            | `/saʊər/`           | adj. 酸的；酸腐的                          |
+| creamy          | `/ˈkrimi/`          | adj. 奶油般的；光滑的                      |
+| bulb            | `/bʌlb/`            | n. 灯泡；球茎                              |
+| fan             | `/fæn/`             | n. 扇子；风扇；粉丝<br>v. 扇风；煽动      |
+| embarrass       | `/ɪmˈbærəs/`        | v. 使尴尬；使困窘                          |
+| replicate       | `/ˈrɛplɪˌkeɪt/`     | v. 复制；重复<br>n. 复制品                 |
+| clash           | `/klæʃ/`            | v. 冲突；碰撞<br>n. 冲突；不协调           |
+| incognito       | `/ˌɪnkɑgˈnitoʊ/`    | adv. & adj. 隐姓埋名地；化名的             |
+| suspicious      | `/səˈspɪʃəs/`       | adj. 可疑的；怀疑的                        |
+| coherent        | `/koʊˈhɪrənt/`      | adj. 连贯的；一致的                        |
+| computing       | `/kəmˈpjutɪŋ/`      | n. 计算；计算机科学                         |
+| civilization    | `/ˌsɪvələˈzeɪʃən/`  | n. 文明；文化                              |
+| singularity     | `/ˌsɪŋɡjəˈlærɪti/`  | n. 奇点；独特性                             |
+
+
+#### Seventh Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词            | 美式发音            | 词性 + 汉语释义                          |
+|-----------------|---------------------|------------------------------------------|
+| resolve         | `/rɪˈzɑːlv/`        | v. 解决；决心<br>n. 决心                  |
+| procure         | `/prəˈkjʊr/`        | v. 获得；取得                              |
+| procurement     | `/prəˈkjʊrmənt/`    | n. 采购；获得                              |
+| purchase        | `/ˈpɜrtʃəs/`        | v. 购买<br>n. 购买；采购                   |
+| fillip          | `/ˈfɪlɪp/`          | n. 激励；弹指                              |
+| meringue        | `/məˈræŋ/`          | n. 蛋白甜饼；蛋白酥皮                       |
+| chick           | `/tʃɪk/`            | n. 小鸡；小鸟                              |
+| fault           | `/fɔlt/`            | n. 故障；过失<br>v. 指责                   |
+| ruin            | `/ˈruːɪn/`          | v. 毁灭；破坏<br>n. 废墟；毁灭             |
+| mess            | `/mɛs/`             | n. 混乱；脏乱<br>v. 弄乱                   |
+| motivate        | `/ˈmoʊtəˌveɪt/`     | v. 激励；促使                              |
+| revenge         | `/rɪˈvɛndʒ/`        | n. 复仇；报复<br>v. 报复                  |
+| mister          | `/ˈmɪstər/`         | n. 先生                                    |
+| field           | `/fild/`            | n. 领域；田地<br>v. 处理；应对              |
+| wake            | `/weɪk/`            | v. 醒来；唤醒<br>n. 尾迹；守夜             |
+| futurist        | `/ˈfjuːtʃərɪst/`    | n. 未来学家                                |
+| futurism        | `/ˈfjuːtʃəˌrɪzəm/`  | n. 未来主义                                |
+| shatter         | `/ˈʃætər/`          | v. 粉碎；破坏<br>n. 破碎；粉碎             |
+| persist         | `/pərˈsɪst/`        | v. 坚持；持续                              |
+
+
+#### Eighth Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+以下是你提供的单词的翻译，遵循简洁性与全面性的平衡原则，并参考了 LDOCE：
+
+| 单词           | 美式发音           | 词性 + 汉语释义                                      |
+|----------------|--------------------|------------------------------------------------------|
+| mare           | `/mɛr/`            | n. 母马；母驴                                         |
+| stare          | `/stɛr/`           | v. 凝视；盯着看<br>n. 凝视                            |
+| romance        | `/roʊˈmæns/`       | n. 浪漫；爱情故事                                     |
+| fussy          | `/ˈfʌsi/`          | adj. 挑剔的；过分装饰的                               |
+| feminine       | `/ˈfɛmənɪn/`       | adj. 女性的；娇柔的                                   |
+| plaintiff      | `/ˈpleɪntɪf/`      | n. 原告                                               |
+| exchange       | `/ɪksˈʧeɪndʒ/`     | n. 交换；交易所<br>v. 交换；兑换                      |
+| political      | `/pəˈlɪtɪkəl/`     | adj. 政治的                                           |
+| instability    | `/ˌɪnstəˈbɪlɪti/` | n. 不稳定；动荡                                       |
+| wold           | `/woʊld/`          | n. 丘陵地带                                           |
+| compelling     | `/kəmˈpɛlɪŋ/`      | adj. 引人注目的；强迫性的                             |
+| wight          | `/waɪt/`           | n. 生物（旧或文学用语）                               |
+| interactive    | `/ˌɪntəˈræktɪv/`  | adj. 互动的；相互作用的                               |
+| baron          | `/ˈbærən/`         | n. 男爵                                               |
+| pearl          | `/pɜrl/`           | n. 珍珠                                               |
+| philosophical  | `/ˌfɪləsəˈfɪkəl/` | adj. 哲学的；豁达的                                   |
+| punk           | `/pʌŋk/`           | n. 朋克；小流氓<br>adj. 朋克风格的                     |
+| content        | `/ˈkɑntɛnt/`       | n. 内容；满足<br>adj. 满意的<br>v. 使满足              |
+| astern         | `/əˈstɜrn/`        | adv. 在船尾；向后                                      |
+| cuddle         | `/ˈkʌdl/`          | v. 拥抱；搂抱<br>n. 拥抱                              |
+
+
+
+
+
 ### Add: 2024.08.22
 
 #### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
@@ -2005,7 +2255,6 @@ Translator: ChatGPT 4o
 | resign       | `/rɪˈzaɪn/`             | v. 辞职；放弃                          |
 | fright       | `/fraɪt/`               | n. 惊吓；恐怖                          |
 | frighten     | `/ˈfraɪtn/`             | v. 使惊吓；吓唬                        |
-| variable     | `/ˈvɛriəbl/`            | adj. 可变的；变量的<br>n. 变量          |
 | optimal      | `/ˈɑptəməl/`            | adj. 最佳的                            |
 | wrap         | `/ræp/`                 | v. 包装；裹<br>n. 包裹物                |
 | mercurial    | `/mərˈkjʊriəl/`         | adj. 多变的；水银的                    |
@@ -2092,6 +2341,7 @@ Translator: ChatGPT 4o
 | eager      | `/ˈiɡər/`        | adj. 渴望的；热切的           |
 | chemistry  | `/ˈkɛmɪstri/`    | n. 化学；化学反应             |
 | tube       | `/tub/`          | n. 管子；地铁               |
+| tubeless   |           |                |
 | sharpen    | `/ˈʃɑrpən/`      | v. 削尖；使敏锐              |
 | sharpening |                  |                  |
 | audit      | `/ˈɔdɪt/`        | n. 审计；旁听<br>v. 审计；旁听   |
@@ -4089,6 +4339,13 @@ Translator: ChatGPT 4
 
 
 
+### ------ ------ ------ 笔记编辑线 ------ ------ ------
+### ------ ------ ------ 笔记编辑线 ------ ------ ------
+### ------ ------ ------ 笔记编辑线 ------ ------ ------
+
+
+
+
 
 ### Added: 2024.04.23
 
@@ -4121,12 +4378,38 @@ Translator: ChatGPT 4
 | bagel          | `/ˈbeɪɡəl/          | n. 贝果            |
 | blow           | `/bloʊ/             | v. 吹             |
 
+以下是你提供的单词的翻译，遵循简洁性与全面性的平衡原则，并参考了 LDOCE：
+
+| 单词           | 美式发音           | 词性 + 汉语释义                                      |
+|----------------|--------------------|------------------------------------------------------|
+| problematic    | `/ˌprɑbləˈmætɪk/`  | adj. 有问题的；成问题的                               |
+| anecdotal      | `/ˌænɪkˈdoʊtəl/`   | adj. 轶事的；道听途说的                               |
+| achieve        | `/əˈtʃiv/`         | v. 达成；实现                                       |
+| downside       | `/ˈdaʊnˌsaɪd/`     | n. 缺点；不利方面                                    |
+| authority      | `/əˈθɔrɪti/`       | n. 权威；权力                                       |
+| irrelevant     | `/ɪˈrɛləvənt/`     | adj. 不相关的；无关紧要的                            |
+| conventional   | `/kənˈvɛnʃənl/`    | adj. 传统的；习惯的                                  |
+| speculation    | `/ˌspɛkjəˈleɪʃən/` | n. 推测；投机                                       |
+| prediction     | `/prɪˈdɪkʃən/`     | n. 预言；预测                                       |
+| lecture        | `/ˈlɛkʧər/`        | n. 讲座；演讲<br>v. 讲课；训斥                       |
+| cite           | `/saɪt/`           | v. 引用；引证                                       |
+| cutoff         | `/ˈkʌtˌɔf/`        | n. 截止点；截止日期                                  |
+| disclose       | `/dɪsˈkloʊz/`      | v. 透露；揭露                                       |
+| anticipate     | `/ænˈtɪsɪˌpeɪt/`   | v. 预期；预见                                       |
+| proactive      | `/proʊˈæktɪv/`     | adj. 积极主动的；预防性的                            |
+| downfall       | `/ˈdaʊnˌfɔl/`      | n. 垮台；衰落                                       |
+| distraction    | `/dɪˈstrækʃən/`    | n. 分心；分散注意力的事物                             |
+| fraud          | `/frɔd/`           | n. 欺诈；骗子                                       |
+| bagel          | `/ˈbeɪɡəl/`        | n. 百吉饼                                           |
+| blow           | `/bloʊ/`           | v. 吹；打击<br>n. 打击；吹                           |
+
+
 
 #### Second Table - ~~已校对~~ - ~~已写入：GoodNotes~~
 
 Translator: ChatGPT 4o
 
-Edit: 2024.07.17
+Edit: 2024.0X.XX
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
@@ -4155,13 +4438,38 @@ Edit: 2024.07.17
 | dandy         | `/ˈdændi/`             | n. 花花公子<br>adj. 极好的            |
 | voila         | `/vwɑˈlɑ/`             | interj. 瞧；看                        |
 
+以下是你提供的单词的翻译，遵循简洁性与全面性的平衡原则，并参考了 LDOCE：
+
+| 单词           | 美式发音           | 词性 + 汉语释义                                      |
+|----------------|--------------------|------------------------------------------------------|
+| blow away      | `/bloʊ əˈweɪ/`     | v. 吹走；使大为惊讶                                   |
+| dynasty        | `/ˈdaɪnəsti/`      | n. 朝代；王朝                                         |
+| fascinate      | `/ˈfæsɪˌneɪt/`     | v. 使着迷；吸引                                       |
+| degree         | `/dɪˈɡri/`         | n. 程度；学位                                         |
+| lean           | `/lin/`            | v. 倾斜；依靠<br>adj. 瘦的；精干的                     |
+| humble         | `/ˈhʌmbl/`         | adj. 谦逊的；卑微的<br>v. 使谦卑                       |
+| depart         | `/dɪˈpɑrt/`        | v. 离开；启程                                         |
+| departure      | `/dɪˈpɑrtʃər/`     | n. 离开；启程                                         |
+| cope           | `/koʊp/`           | v. 应对；处理                                         |
+| communicate    | `/kəˈmjunɪˌkeɪt/`  | v. 交流；传达                                         |
+| kind           | `/kaɪnd/`          | n. 种类；类别<br>adj. 和蔼的；亲切的                   |
+| significant    | `/sɪɡˈnɪfɪkənt/`   | adj. 重要的；显著的                                   |
+| interminable   | `/ɪnˈtɜrmɪnəbl/`   | adj. 无休止的；冗长的                                 |
+| recruit        | `/rɪˈkrut/`        | v. 招募；征兵<br>n. 新兵；新成员                       |
+| recruitment    | `/rɪˈkrutmənt/`    | n. 招募；征兵                                         |
+| objection      | `/əbˈdʒɛkʃən/`     | n. 反对；异议                                         |
+| stalk          | `/stɔk/`           | v. 跟踪；潜行<br>n. 茎；梗                            |
+| proton         | `/ˈproʊtɑn/`       | n. 质子                                               |
+| pack           | `/pæk/`            | v. 打包；压紧<br>n. 包裹；一组                          |
+| handy          | `/ˈhændi/`         | adj. 便利的；手巧的                                   |
+| dandy          | `/ˈdændi/`         | n. 好打扮的人；花花公子<br>adj. 极好的                |
+| voila          | `/vwɑˈlɑ/`         | interj. 瞧！                                           |
 
 
 
 
-### ------ ------ ------ 笔记编辑线 ------ ------ ------
-### ------ ------ ------ 笔记编辑线 ------ ------ ------
-### ------ ------ ------ 笔记编辑线 ------ ------ ------
+
+### ------ ------ ------ 以下已编辑 ------ ------ ------
 
 
 
@@ -4169,7 +4477,7 @@ Edit: 2024.07.17
 
 ### Added: 2024.04.22
 
-#### First Table - ~~已校对~~ - ~~已写入：GoodNotes~~
+#### First Table - 已校对 - ~~已写入：GoodNotes~~
 
 Translator: ChatGPT 4 & 4o
 
@@ -4177,47 +4485,32 @@ Edit: 2024.08.27、28
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词               | 美式发音            |   词类 + 汉语释义        |
-|-------------------|--------------------|------------------------|
-| toxic             | `/ˈtɑksɪk/        | adj. 有毒的             |
-| reversal          | `/rɪˈvɜrsəl/      | n. 翻转，逆转            |
-| revest            | `/rɪˈvɛst/        | v. 重新装备，再授予       |
-| cubicle           | `/ˈkjuːbɪkl/      | n. 小隔间               |
-| accept            | `/əkˈsɛpt/        | v. 接受                 |
-| contentious       | `/kənˈtɛnʃəs/     | adj. 有争议的            |
-| dyslexia          | `/dɪsˈlɛksiə/     | n. 阅读障碍，诵读困难      |
-| dyslectic         | `/dɪsˈlɛktɪk/     | adj. 有阅读障碍的        |
-| variability       | `/ˌvɛəriəˈbɪlɪti/ | n. 可变性               |
-| seaman            | `/ˈsiːmən/        | n. 海员，水手            |
-| reap              | `/riːp/           | v. 收割，收获            |
-| backward          | `/ˈbækwərd/       | adj. 向后的，落后的；adv. 向后地  |
-
-以下是根据翻译规则处理的这些单词的翻译表格：
-
-| 单词              | 美式发音            | 词性 + 汉语释义                          |
-|-------------------|---------------------|------------------------------------------|
-| slipup            | `/ˈslɪpˌʌp/`        | n. 失误                                  |
-| toxic             | `/ˈtɑksɪk/`         | adj. 有毒的；有害的                        |
-| reversal          | `/rɪˈvɜrsəl/`       | n. 逆转；倒退                             |
-| revest            | `/rɪˈvɛst/`         | v. 恢复；重新穿上                         |
-| cub               | `/kʌb/`             | n. 幼兽                                  |
-| cubic             | `/ˈkjubɪk/`         | adj. 立方的                               |
-| cubicle           | `/ˈkjubɪkəl/`       | n. 小隔间；工作间                           |
-| pragmatist        | `/ˈpræɡmətɪst/`     | n. 实用主义者                             |
-| pragmatism        | `/ˈpræɡməˌtɪzəm/`   | n. 实用主义                               |
-| impressionable    | `/ɪmˈprɛʃənəbəl/`   | adj. 易受影响的                           |
-| accept            | `/ækˈsɛpt/`         | v. 接受；承认                             |
-| contentious       | `/kənˈtɛnʃəs/`      | adj. 有争议的；好争吵的                     |
-| dyslexia          | `/dɪsˈlɛksiə/`      | n. 诵读困难                               |
-| dyslectic         | `/dɪsˈlɛktɪk/`      | adj. 诵读困难的                           |
-| variability       | `/ˌvɛriəˈbɪlɪti/`   | n. 变化性；可变性                           |
-| companion         | `/kəmˈpænjən/`      | n. 伙伴；同伴                             |
-| seaman            | `/ˈsiːmən/`         | n. 水手                                   |
-| sow               | `/soʊ/`             | v. 播种                                   |
-| reap              | `/riːp/`             | v. 收获                                   |
-| backward          | `/ˈbækwərd/`        | adj. 向后的；落后的<br>adv. 向后          |
-
-
+| 单词             | 美式发音              | 词性 + 汉语释义                             |
+|----------------|-------------------|---------------------------------------|
+| slipup         | `/ˈslɪpˌʌp/`      | n. 失误                                 |
+| toxic          | `/ˈtɑːksɪk/`      | adj. 有毒的；有害的                          |
+| reverse        | `/rɪˈvɜːrs/`      | v. 逆转；倒车<br>n. 逆转；反面<br>adj. 相反的      |
+| reversal       | `/rɪˈvɜːrsəl/`    | n. 逆转；倒退                              |
+| revest         | `/rɪˈvɛst/`       | v. 重新授予                               |
+| cub            | `/kʌb/`           | n. 幼兽                                 |
+| cube           | `/kjuːb/`         | n. 立方体；立方(数学)；<br />v. 求...的立方，切成方块   |
+| cubic          | `/ˈkjuːbɪk/`      | adj. 立方的                              |
+| cubicle        | `/ˈkjuːbɪkəl/`    | n. 小隔间                                |
+| pragmatist     | `/ˈpræɡmətɪst/`   | n. 实用主义者                              |
+| pragmatism     | `/ˈpræɡmətɪzəm/`  | n. 实用主义                               |
+| impressionable | `/ɪmˈpreʃənəbəl/` | adj. (尤因年轻而)易受影响的                     |
+| accept         | `/ækˈsɛpt/`       | v. 接受；承认                              |
+| accepted       | `/əkˈsɛptɪd/`     | v. 接受；承认（accept 的过去式和过去分词）<br>adj. 公认的；被认可的 |
+| contentious    | `/kənˈtenʃəs/`    | adj. 有争议的；好争吵的                        |
+| dyslexia       | `/dɪsˈleksiə/`    | n. 阅读障碍                               |
+| dyslectic      | `/dɪsˈlektɪk/`    | adj. 阅读障碍的                            |
+| variable       | `/ˈveriəbəl/`      | adj. 可变的；多变的<br>n. 变量                 |
+| variability    | `/ˌveriəˈbɪləti/`  | n. 可变性                                |
+| companion      | `/kəmˈpænjən/`    | n. 伙伴；同伴                              |
+| seaman         | `/ˈsiːmən/`       | n. 水手                                 |
+| sow            | `/soʊ/`           | v. 播种                                 |
+| reap           | `/riːp/`          | v. 收获                                 |
+| backward       | `/ˈbækwərd/`      | adj. 向后的；落后的<br>adv. 向后               |
 
 
 #### Second Table - 已校对 - ~~已写入：GoodNotes~~
@@ -4245,6 +4538,7 @@ Edit: 2024.08.27
 | contact         | `/ˈkɑːntækt/`     | n. 接触；联系<br>v. 接触；联系   |
 | committee       | `/kəˈmɪti/`      | n. 委员会                 |
 | philosophy      | `/fɪˈlɑːsəfi/`    | n. 哲学；人生观              |
+| philosophical   |                  |                  |
 | bombardment     | `/bɑmˈbɑːrdmənt/` | n. 轰炸；炮击               |
 | policy          | `/ˈpɑləsi/`      | n. 政策；方针               |
 | gingerly        | `/ˈdʒɪndʒərli/`  | adv. 小心翼翼地             |
@@ -4330,11 +4624,6 @@ Edit: 2024.08.23、25
 
 
 
-### ------ ------ ------ 以下已编辑 ------ ------ ------
-
-
-
-
 
 ### Added: 2024.04.21
 
@@ -4408,6 +4697,7 @@ Translator: ChatGPT 4 & 4o
 | 单词          | 美式发音          | 词性 + 汉语释义                       |
 |-------------|---------------|---------------------------------|
 | compel      | `/kəmˈpel/`   | v. 强迫；迫使                        |
+| compelling  |               |                         |
 | constrain   | `/kənˈstreɪn/` | v. 强迫；约束；限制                     |
 | conjugate   | `/ˈkɑːndʒəɡeɪt/` | v. 结合；（动词）变位<br>adj. 共轭的        |
 | imperfect   | `/ɪmˈpɜːrfɪkt/` | adj. 不完美的；未完成的                  |
@@ -4610,38 +4900,38 @@ Update: 2024.08.05
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词              | 美式发音                              | 词类 + 汉语释义            |
-|-----------------|-----------------------------------|----------------------|
-| tough           | `/tʌf/`                           | adj. 坚韧的；强硬的；困难的；    |
-| cater           | `/ˈkeɪtər/`                       | v. 提供饮食服务；迎合         |
-| catering        | `/ˈkeɪtərɪŋ/`                     | n. 餐饮服务              |
+| 单词              | 美式发音                     | 词类 + 汉语释义            |
+|-----------------|--------------------------|----------------------|
+| tough           | `/tʌf/`                  | adj. 坚韧的；强硬的；困难的；    |
+| cater           | `/ˈkeɪtər/`              | v. 提供饮食服务；迎合         |
+| catering        | `/ˈkeɪtərɪŋ/`            | n. 餐饮服务              |
 | graduate        | `/ˈɡrædʒuət/` (n.) <br> `/ˈɡrædʒueɪt/` (vi.) | n. 毕业生 vi. 毕业   |
-| graduation      | `/ˌɡrædʒuˈeɪʃən/`                 | n. 毕业                |
-| postgraduate    | `/ˌpoʊstˈɡrædʒuət/`               | n. 研究生 <br>adj. 研究生的 |
-| treaty          | `/ˈtriːti/`                       | n. 条约                |
-| hug             | `/hʌɡ/`                           | v. 拥抱 <br>n. 拥抱      |
-| infrastructure  | `/ˈɪnfrəˌstrʌktʃər/`              | n. 基础设施              |
-| coefficient     | `/ˌkoʊəˈfɪʃənt/`                  | n. 系数                |
-| parlance        | `/ˈpɑːrləns/`                     | n. 说法；(习惯)用语         |
-| plan            | `/plæn/`                          | n. 计划；<br />v. 规划    |
-| plane           | `/pleɪn/`                         | n. 飞机；平面<br/>adj. 平坦的<br/>v. 刨平 |
-| daffy           | `/ˈdæfi/`                         | adj. 愚蠢的             |
-| fell            | `/fɛl/`                           | v. 砍伐；击倒；fall 的过去式 <br>adj. 凶猛的 |
-| shipwreck       | `/ˈʃɪprɛk/`                       | n. 船难                |
-| mendicant       | `/ˈmendəkənt/`                    | n. 乞丐                |
-| isometry        | `/aɪˈsɑmətri/`                    | n. 等距；等高             |
-| diversity       | `/daɪˈvɜːrsəti/`                  | n. 多样性               |
-| tender          | `/ˈtɛndər/`                       | adj. 温柔的；嫩的；<br />n. 投标（书）<br />v. 提出 |
-| tenderness      | `/ˈtɛndərnəs/`                    | n. 温柔；柔软                         |
-| bond            | `/bɑːnd/`                         | n. 债券；纽带<br />v. 结合             |
-| concern         | `/kənˈsɜrn/`                      | n. 关心；忧虑；<br />v. 涉及           |
-| raise           | `/reɪz/`                          | v. 提高；筹集；养育 |
-| boarding school | `/ˈbɔrdɪŋ ˌskuːl/`                | n. 寄宿学校                          |
-| board           | `/bɔːrd/`                         | n. 木板，董事会；<br />v. 登上（飞机﹑火车等） |
-| through         | `/θruː/`                          | prep. 通过；<br />adv. 从头到尾；<br />adj. 直通的 |
-| industrial      | `/ɪnˈdʌstriəl/`                   | adj. 工业的；产业的                   |
-| subscribe       | `/səbˈskraɪb/`                    | v. 订阅；同意                        |
-| different       | `/ˈdɪfərənt/`                     | adj. 不同的                          |
+| graduation      | `/ˌɡrædʒuˈeɪʃən/`        | n. 毕业                |
+| postgraduate    | `/ˌpoʊstˈɡrædʒuət/`      | n. 研究生 <br>adj. 研究生的 |
+| treaty          | `/ˈtriːti/`              | n. 条约                |
+| hug             | `/hʌɡ/`                  | v. 拥抱 <br>n. 拥抱      |
+| infrastructure  | `/ˈɪnfrəˌstrʌktʃər/`     | n. 基础设施              |
+| coefficient     | `/ˌkoʊəˈfɪʃənt/`         | n. 系数                |
+| parlance        | `/ˈpɑːrləns/`            | n. 说法；(习惯)用语         |
+| plan            | `/plæn/`                 | n. 计划；<br />v. 规划    |
+| plane           | `/pleɪn/`                | n. 飞机；平面<br/>adj. 平坦的<br/>v. 刨平 |
+| daffy           | `/ˈdæfi/`                | adj. 愚蠢的             |
+| fell            | `/fɛl/`                  | v. 砍伐；击倒；fall 的过去式 <br>adj. 凶猛的 |
+| shipwreck       | `/ˈʃɪprɛk/`              | n. 船难                |
+| mendicant       | `/ˈmendəkənt/`           | n. 乞丐                |
+| isometry        | `/aɪˈsɑmətri/`           | n. 等距；等高             |
+| diversity       | `/daɪˈvɜːrsəti/`         | n. 多样性               |
+| tender          | `/ˈtɛndər/`              | adj. 温柔的；嫩的；<br />n. 投标（书）<br />v. 提出 |
+| tenderness      | `/ˈtɛndərnəs/`           | n. 温柔；柔软                         |
+| bond            | `/bɑːnd/`                | n. 债券；纽带<br />v. 结合             |
+| concern         | `/kənˈsɜrn/`             | n. 关心；忧虑；<br />v. 涉及           |
+| raise           | `/reɪz/`                 | v. 提高；筹集；养育 |
+| boarding school | `/ˈbɔrdɪŋ ˌskuːl/`       | n. 寄宿学校                          |
+| board           | `/bɔːrd/`                | n. 木板，董事会；<br />v. 登上（飞机﹑火车等） |
+| through         | `/θruː/`                 | prep. 通过；<br />adv. 从头到尾；<br />adj. 直通的 |
+| industrial      | `/ɪnˈdʌstriəl/`          | adj. 工业的；产业的                   |
+| subscribe       | `/səbˈskraɪb/`           | v. 订阅；同意                        |
+| different       | `/ˈdɪfərənt/`            | adj. 不同的；各种各样的                 |
 
 
 #### Second Table - 已校对 - ~~已写入：GoodNotes~~
@@ -6339,25 +6629,6 @@ Translator: ChatGPT 4
 | socialize    | `/ˈsoʊʃəlaɪz/`     | v. 社交            | It's important to socialize with your colleagues. <br />(与同事社交很重要。)<br />You don't socialize enough. <br />你交际不广 |
 | negotiate    | `/nɪˈgoʊʃieɪt/`    | v. 谈判，协商         | They are negotiating a new contract.<br /> (他们正在谈判一份新合同。)<br />The two countries are negotiating a trade agreement. <br />这两个国家正在谈判一项贸易协议。<br />They negotiated a new contract. <br/>(他们协商了一份新合同。) |
 | theoretical  | `/ˌθiːəˈretɪkəl/`  | adj. 理论的         | His knowledge is purely theoretical. <br />(他的知识纯粹是理论上的。)<br />theoretical physics. 理论物理（学） |
-| cube         | `/kjuːb/`          | n. 立方体；立方(数学)；<br />v. 求...的立方，切成方块 | n. The puzzle was in the shape of a cube. <br />(这个难题是立方体形状的。)<br/>v. To find the volume, cube the length of each side. <br />(要找出体积，求每边长度的立方。)<br />v. 4 cubed is 64. 4 的立方是 64.<br />v. She cubed the potatoes for the stew.<br /> (她把土豆切成方块做炖菜。) |
-
-单词列表的解释：
-1. **inward**: 指向内部的或内在的，通常用来描述向内部方向的动作或感受。
-2. **quarrel**: 争吵或争论，可以是口头上的争执或意见不合。
-3. **pavement**: 通常指街道旁的人行道，是行人走路的硬化地面。
-4. **stray**:  作为形容词，"stray" 指迷路的或偏离正轨的，常用来描述动物（如狗或猫）。作为动词，"stray" 描述偏离预定路线或主题，或思想的漂流。
-5. **observation**: 观察的行为，指注意观察并记录下的信息。
-6. **ladder**: 一种用于攀登的设备，通常由一系列横档构成，用于上下移动。
-7. **dialectic**: 辩证法，是一种逻辑论证的方法，通过对立面的辩论来达到真理。
-8. **swish**: 描述快速移动时产生的声音，如布料或尾巴的挥动声。
-9. **cluster**: 一群紧密聚集在一起的人、物或现象。
-10. **compulsory**: 强制性的，意味着必须做的，没有选择余地。
-11. **moron**: 贬义词，用来形容一个人非常愚蠢或缺乏常识。
-12. **solitude**: 独处或孤独，指一个人独自一人的状态。
-13. **socialize**: 社交，指与他人进行交流和互动。
-14. **negotiate**: 谈判或协商，通常用于达成协议或解决冲突的过程。
-15. **theoretical**: 理论上的，与实际操作或实践相对，更侧重于理论或思想层面。
-16. **cube**: 作为名词，"cube" 指的是六面都是正方形的立方体形状，或在数学中指一个数的三次幂。作为动词时，一方面指将物体切成立方体状，常见于烹饪过程中；另一方面，它还指计算某个数的立方。
 
 
 #### Second Table - 已校对 - 已写入 GoodNotes
