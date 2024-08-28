@@ -4357,16 +4357,9 @@ Translator: ChatGPT 4
 
 | 单词             | 美式发音                | 词类 + 汉语释义        |
 |----------------|---------------------|------------------|
-| problematic    | `/ˌprɑːbləˈmætɪk/`  | adj. 有问题的        |
 | anecdotal      | `/ˌænɪkˈdoʊtl/`     | adj. 轶事的；传闻的     |
 | achieve        | `/əˈtʃiːv/`         | v. 实现；达到         |
-| downside       | `/ˈdaʊnˌsaɪd/`      | n. 缺点；不利方面       |
-| authority      | `/əˈθɔːrəti/`       | n. 权威；权力         |
-| irrelevant     | `/ɪˈrɛləvənt/`      | adj. 不相关的        |
 | conventional   | `/kənˈvɛnʃənl/`     | adj. 传统的；常规的     |
-| speculation    | `/ˌspɛkjʊˈleɪʃən/`  | n. 推测；投机         |
-| prediction     | `/prɪˈdɪkʃən/       | n. 预测；预言         |
-| lecture        | `/ˈlɛkʧər/          | n. 讲座；演讲         |
 | cite           | `/saɪt/             | v. 引用；举例         |
 | cutoff         | `/ˈkʌtˌɔf/          | n. 截止；限制         |
 | disclose       | `/dɪˈskloʊz/        | v. 揭露；公开         |
@@ -4374,34 +4367,58 @@ Translator: ChatGPT 4
 | proactive      | `/proʊˈæktɪv/       | adj. 积极主动的；预先行动的 |
 | downfall       | `/ˈdaʊnˌfɔl/        | n. 衰败；垮台         |
 | distraction    | `/dɪˈstrækʃən/      | n. 分心；消遣         |
-| fraud          | `/frɔd/             | n. 欺诈；骗子         |
 | bagel          | `/ˈbeɪɡəl/          | n. 贝果            |
-| blow           | `/bloʊ/             | v. 吹             |
 
 以下是你提供的单词的翻译，遵循简洁性与全面性的平衡原则，并参考了 LDOCE：
 
-| 单词           | 美式发音           | 词性 + 汉语释义                                      |
-|----------------|--------------------|------------------------------------------------------|
-| problematic    | `/ˌprɑbləˈmætɪk/`  | adj. 有问题的；成问题的                               |
-| anecdotal      | `/ˌænɪkˈdoʊtəl/`   | adj. 轶事的；道听途说的                               |
-| achieve        | `/əˈtʃiv/`         | v. 达成；实现                                       |
-| downside       | `/ˈdaʊnˌsaɪd/`     | n. 缺点；不利方面                                    |
-| authority      | `/əˈθɔrɪti/`       | n. 权威；权力                                       |
-| irrelevant     | `/ɪˈrɛləvənt/`     | adj. 不相关的；无关紧要的                            |
-| conventional   | `/kənˈvɛnʃənl/`    | adj. 传统的；习惯的                                  |
-| speculation    | `/ˌspɛkjəˈleɪʃən/` | n. 推测；投机                                       |
-| prediction     | `/prɪˈdɪkʃən/`     | n. 预言；预测                                       |
-| lecture        | `/ˈlɛkʧər/`        | n. 讲座；演讲<br>v. 讲课；训斥                       |
-| cite           | `/saɪt/`           | v. 引用；引证                                       |
-| cutoff         | `/ˈkʌtˌɔf/`        | n. 截止点；截止日期                                  |
-| disclose       | `/dɪsˈkloʊz/`      | v. 透露；揭露                                       |
-| anticipate     | `/ænˈtɪsɪˌpeɪt/`   | v. 预期；预见                                       |
-| proactive      | `/proʊˈæktɪv/`     | adj. 积极主动的；预防性的                            |
-| downfall       | `/ˈdaʊnˌfɔl/`      | n. 垮台；衰落                                       |
-| distraction    | `/dɪˈstrækʃən/`    | n. 分心；分散注意力的事物                             |
-| fraud          | `/frɔd/`           | n. 欺诈；骗子                                       |
-| bagel          | `/ˈbeɪɡəl/`        | n. 百吉饼                                           |
-| blow           | `/bloʊ/`           | v. 吹；打击<br>n. 打击；吹                           |
+| 单词           | 美式发音           | 词性 + 汉语释义                     |
+|----------------|--------------------|-------------------------------------|
+| problematic    | `/ˌprɑbləˈmætɪk/`  | adj. 有问题的；成问题的              |
+| anecdotal      | `/ˌænɪkˈdoʊtəl/`   | adj. 轶事的；道听途说的              |
+| achieve        | `/əˈtʃiv/`         | v. 达成；实现                      |
+| downside       | `/ˈdaʊnˌsaɪd/`     | n. 缺点；不利方面                   |
+| authority      | `/əˈθɔrɪti/`       | n. 权威；权力                      |
+| irrelevant     | `/ɪˈrɛləvənt/`     | adj. 不相关的；无关紧要的             |
+| conventional   | `/kənˈvɛnʃənl/`    | adj. 传统的；习惯的                 |
+| speculation    | `/ˌspɛkjəˈleɪʃən/` | n. 推测；投机                      |
+| prediction     | `/prɪˈdɪkʃən/`     | n. 预言；预测                      |
+| lecture        | `/ˈlɛkʧər/`        | n. 讲座；演讲<br>v. 讲课；训斥        |
+| cite           | `/saɪt/`           | v. 引用；引证                      |
+| cutoff         | `/ˈkʌtˌɔf/`        | n. 截止点；截止日期                 |
+| disclose       | `/dɪsˈkloʊz/`      | v. 透露；揭露                      |
+| anticipate     | `/ænˈtɪsɪˌpeɪt/`   | v. 预期；预见                      |
+| proactive      | `/proʊˈæktɪv/`     | adj. 积极主动的；预防性的             |
+| downfall       | `/ˈdaʊnˌfɔl/`      | n. 垮台；衰落                      |
+| distraction    | `/dɪˈstrækʃən/`    | n. 分心；分散注意力的事物              |
+| fraud          | `/frɔd/`           | n. 欺诈；骗子                      |
+| bagel          | `/ˈbeɪɡəl/`        | n. 百吉饼                          |
+| blow           | `/bloʊ/`           | v. 吹；打击<br>n. 打击；吹          |
+
+以下是根据翻译规则修改后的表格：
+
+| 单词           | 美式发音               | 词性 + 汉语释义            |
+|--------------|--------------------|----------------------|
+| problematic  | `/ˌprɑːbləˈmætɪk/` | adj. 有问题的；成问题的       |
+| anecdotal    | `/ˌænɪkˈdoʊtəl/`   | adj. 轶事的；传闻的         |
+| achieve      | `/əˈtʃiːv/`        | v. 实现；达成             |
+| downside     | `/ˈdaʊnˌsaɪd/`     | n. 缺点；不利方面           |
+| authority    | `/əˈθɔːrəti/`      | n. 权威；权力             |
+| irrelevant   | `/ɪˈreləvənt/`     | adj. 不相关的；无关紧要的      |
+| conventional | `/kənˈvenʃənl/`    | adj. 传统的；常规的         |
+| speculation  | `/ˌspekjəˈleɪʃən/` | n. 推测；猜测             |
+| prediction   | `/prɪˈdɪkʃən/`     | n. 预测；预言             |
+| lecture      | `/ˈlektʃər/`       | n. 讲座；演讲<br>v. 讲课；训斥 |
+| cite         | `/saɪt/`           | v. 引用；举例             |
+| cutoff       | `/ˈkʌtˌɔːf/`       | n. 截止；切断             |
+| disclose     | `/dɪsˈkloʊz/`      | v. 揭露；公开             |
+| anticipate   | `/ænˈtɪsɪpeɪt/`    | v. 预期；预料             |
+| proactive    | `/proʊˈæktɪv/`     | adj. 积极主动的；先发制人的     |
+| downfall     | `/ˈdaʊnfɔːl/`      | n. 衰落；垮台             |
+| distraction  | `/dɪˈstrækʃən/`    | n. 分心；使人分心的事物        |
+| fraud        | `/frɔːd/`          | n. 欺诈；诈骗             |
+| bagel        | `/ˈbeɪɡəl/`        | n. 百吉饼（面包圈）          |
+| blow         | `/bloʊ/`           | v. 吹；打击<br>n. 打击；吹   |
+
 
 
 
@@ -4415,24 +4432,10 @@ Edit: 2024.0X.XX
 
 | 单词          | 美式发音                | 词性 + 汉语释义                      |
 |---------------|-------------------------|-------------------------------------|
-| blown away    | `/bloʊn əˈweɪ/`        | phr. 震惊；惊讶                      |
-| dynasty       | `/ˈdaɪnəsti/`          | n. 王朝；朝代                        |
 | fascinate     | `/ˈfæsəˌneɪt/`         | v. 迷住；吸引                        |
-| degree        | `/dɪˈɡri/`             | n. 程度；学位                        |
-| lean          | `/lin/`                | adj. 瘦的；贫乏的<br>v. 倾斜；依靠      |
-| humble        | `/ˈhʌmbəl/`            | adj. 谦逊的；卑微的<br>v. 使谦逊      |
-| depart        | `/dɪˈpɑrt/`            | v. 离开；出发                        |
-| departure     | `/dɪˈpɑrtʃər/`         | n. 离开；出发                        |
-| cope          | `/koʊp/`               | v. 应对；处理                        |
-| communicate   | `/kəˈmjunɪˌkeɪt/`      | v. 交流；传达                        |
 | kind          | `/kaɪnd/`              | adj. 善良的；友好的<br>n. 种类        |
-| significant   | `/sɪɡˈnɪfɪkənt/`      | adj. 重要的；显著的                  |
 | interminable  | `/ɪnˈtɜrmɪnəbəl/`     | adj. 无尽的；冗长的                  |
-| recruit       | `/rɪˈkrut/`            | v. 招募；吸收<br>n. 新兵；新成员       |
-| recruitment   | `/rɪˈkruːtmənt/`      | n. 招募；招聘                        |
-| objection     | `/əbˈdʒɛkʃən/`        | n. 反对；异议                        |
 | stalk         | `/stɔk/`               | n. 茎；秆<br>v. 跟踪；潜近            |
-| proton        | `/ˈproʊtɑn/`           | n. 质子                             |
 | pack          | `/pæk/`                | n. 包裹；一群<br>v. 打包；塞满         |
 | handy         | `/ˈhændi/`             | adj. 方便的；灵巧的                  |
 | dandy         | `/ˈdændi/`             | n. 花花公子<br>adj. 极好的            |
@@ -4440,30 +4443,30 @@ Edit: 2024.0X.XX
 
 以下是你提供的单词的翻译，遵循简洁性与全面性的平衡原则，并参考了 LDOCE：
 
-| 单词           | 美式发音           | 词性 + 汉语释义                                      |
-|----------------|--------------------|------------------------------------------------------|
-| blow away      | `/bloʊ əˈweɪ/`     | v. 吹走；使大为惊讶                                   |
-| dynasty        | `/ˈdaɪnəsti/`      | n. 朝代；王朝                                         |
-| fascinate      | `/ˈfæsɪˌneɪt/`     | v. 使着迷；吸引                                       |
-| degree         | `/dɪˈɡri/`         | n. 程度；学位                                         |
-| lean           | `/lin/`            | v. 倾斜；依靠<br>adj. 瘦的；精干的                     |
-| humble         | `/ˈhʌmbl/`         | adj. 谦逊的；卑微的<br>v. 使谦卑                       |
-| depart         | `/dɪˈpɑrt/`        | v. 离开；启程                                         |
-| departure      | `/dɪˈpɑrtʃər/`     | n. 离开；启程                                         |
-| cope           | `/koʊp/`           | v. 应对；处理                                         |
-| communicate    | `/kəˈmjunɪˌkeɪt/`  | v. 交流；传达                                         |
-| kind           | `/kaɪnd/`          | n. 种类；类别<br>adj. 和蔼的；亲切的                   |
-| significant    | `/sɪɡˈnɪfɪkənt/`   | adj. 重要的；显著的                                   |
-| interminable   | `/ɪnˈtɜrmɪnəbl/`   | adj. 无休止的；冗长的                                 |
-| recruit        | `/rɪˈkrut/`        | v. 招募；征兵<br>n. 新兵；新成员                       |
-| recruitment    | `/rɪˈkrutmənt/`    | n. 招募；征兵                                         |
-| objection      | `/əbˈdʒɛkʃən/`     | n. 反对；异议                                         |
-| stalk          | `/stɔk/`           | v. 跟踪；潜行<br>n. 茎；梗                            |
-| proton         | `/ˈproʊtɑn/`       | n. 质子                                               |
-| pack           | `/pæk/`            | v. 打包；压紧<br>n. 包裹；一组                          |
-| handy          | `/ˈhændi/`         | adj. 便利的；手巧的                                   |
-| dandy          | `/ˈdændi/`         | n. 好打扮的人；花花公子<br>adj. 极好的                |
-| voila          | `/vwɑˈlɑ/`         | interj. 瞧！                                           |
+| 单词           | 美式发音           | 词性 + 汉语释义                    |
+|----------------|--------------------|----------------------------------|
+| blow away      | `/bloʊ əˈweɪ/`     | v. 吹走；使大为惊讶                  |
+| dynasty        | `/ˈdaɪnəsti/`      | n. 朝代；王朝                     |
+| fascinate      | `/ˈfæsɪˌneɪt/`     | v. 使着迷；吸引                    |
+| degree         | `/dɪˈɡri/`         | n. 程度；学位                     |
+| lean           | `/lin/`            | v. 倾斜；依靠<br>adj. 瘦的；精干的      |
+| humble         | `/ˈhʌmbl/`         | adj. 谦逊的；卑微的<br>v. 使谦卑       |
+| depart         | `/dɪˈpɑrt/`        | v. 离开；启程                     |
+| departure      | `/dɪˈpɑrtʃər/`     | n. 离开；启程                     |
+| cope           | `/koʊp/`           | v. 应对；处理                     |
+| communicate    | `/kəˈmjunɪˌkeɪt/`  | v. 交流；传达                     |
+| kind           | `/kaɪnd/`          | n. 种类；类别<br>adj. 和蔼的；亲切的     |
+| significant    | `/sɪɡˈnɪfɪkənt/`   | adj. 重要的；显著的                 |
+| interminable   | `/ɪnˈtɜrmɪnəbl/`   | adj. 无休止的；冗长的                |
+| recruit        | `/rɪˈkrut/`        | v. 招募；征兵<br>n. 新兵；新成员        |
+| recruitment    | `/rɪˈkrutmənt/`    | n. 招募；征兵                     |
+| objection      | `/əbˈdʒɛkʃən/`     | n. 反对；异议                     |
+| stalk          | `/stɔk/`           | v. 跟踪；潜行<br>n. 茎；梗           |
+| proton         | `/ˈproʊtɑn/`       | n. 质子                           |
+| pack           | `/pæk/`            | v. 打包；压紧<br>n. 包裹；一组         |
+| handy          | `/ˈhændi/`         | adj. 便利的；手巧的                 |
+| dandy          | `/ˈdændi/`         | n. 好打扮的人；花花公子<br>adj. 极好的    |
+| voila          | `/vwɑˈlɑ/`         | interj. 瞧！                       |
 
 
 
