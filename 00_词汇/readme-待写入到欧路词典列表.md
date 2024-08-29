@@ -3,6 +3,64 @@
 
 
 
+| 单词              | 美式发音               | 词性 + 汉语释义            |
+|-----------------|--------------------|----------------------|
+| problematic     | `/ˌprɑːbləˈmætɪk/` | adj. 有问题的            |
+| anecdotal       | `/ˌænɪkˈdoʊtəl/`   | adj. 轶事的；传闻的         |
+| achieve         | `/əˈtʃiːv/`        | v. 实现；达到             |
+| downside        | `/ˈdaʊnˌsaɪd/`     | n. 下降；缺点             |
+| authority       | `/əˈθɔːrəti/`      | n. 权威；权力             |
+| irrelevant      | `/ɪˈreləvənt/`     | adj. 不相干的；无关紧要的      |
+| conventional    | `/kənˈvenʃənl/`    | adj. 常规的；传统的         |
+| speculate       | `/ˈspekjəleɪt/`    | v. 推测；投机             |
+| speculation     | `/ˌspekjəˈleɪʃən/` | n. 推测；投机             |
+| prediction      | `/prɪˈdɪkʃən/`     | n. 预测；预言             |
+| lecture         | `/ˈlektʃər/`       | n. 讲座；演讲<br>v. 讲课；训斥 |
+| cite            | `/saɪt/`           | v. 引用；举例             |
+| cutoff          | `/ˈkʌtˌɔːf/`       | n. 截止；切断             |
+| disclose        | `/dɪsˈkloʊz/`      | v. 揭露；公开             |
+| anticipate      | `/ænˈtɪsəpeɪt/`    | v. 预期；预料             |
+| proactive       | `/proʊˈæktɪv/`     | adj. 积极主动的；先发制人的     |
+| downfall        | `/ˈdaʊnfɔːl/`      | n. 垮台；衰败             |
+| distraction     | `/dɪˈstrækʃən/`    | n. 分心；干扰             |
+| fraud           | `/frɒːd/`          | n. 欺诈；欺骗             |
+| bagel           | `/ˈbeɪɡəl/`        | n. 贝果；百吉饼（面包圈）       |
+| blow            | `/bloʊ/`           | v. 吹；打击<br>n. 吹；打击     |
+| blow away       | `/bloʊ əˈweɪ/`     | v. 吹走；使大为惊讶            |
+| dynasty         | `/ˈdaɪnəsti/`      | n. 朝代；王朝               |
+| fascinate       | `/ˈfæsəneɪt/`      | v. 使着迷；吸引              |
+| fascinating     | `/ˈfæsɪneɪtɪŋ/`    | adj. 迷人的；有趣的           |
+| degree          | `/dɪˈɡriː/`        | n. 度数(温度、角度等)；程度；学位    |
+| lean            | `/liːn/`           | v. 倾斜；依靠<br>adj. 精瘦的   |
+| humble          | `/ˈhʌmbl/`         | adj. 谦逊的；卑微的<br>v. 使谦卑 |
+| depart          | `/dɪˈpɑːrt/`       | v. 离开；出发               |
+| departure       | `/dɪˈpɑːrtʃər/`    | n. 离开；出发               |
+| cope            | `/koʊp/`           | v. 应对；处理               |
+| kind            | `/kaɪnd/`          | n. 种类；类别<br>adj. 善良的；友好的 |
+| significant     | `/sɪɡˈnɪfɪkənt/`   | adj. 重要的；显著的           |
+| interminable    | `/ɪnˈtɜːrmənəbəl/` | adj. 冗长的；无止尽的          |
+| recruit         | `/rɪˈkruːt/`       | v. 招募；招聘<br>n. 新兵      |
+| recruitment     | `/rɪˈkruːtmənt/`   | n. 招募；招聘               |
+| objection       | `/əbˈdʒekʃən/`     | n. 反对；异议               |
+| stalk           | `/stɔːk/`          | n. 茎；秆<br>v. 悄悄跟踪      |
+| proton          | `/ˈproʊtɑːn/`      | n. 质子                  |
+| pack            | `/pæk/`            | v. 打包；压紧；塞满<br>n. 包裹；一副；一组 |
+| handy           | `/ˈhændi/`         | adj. 方便的；灵巧的           |
+| dandy           | `/ˈdændi/`         | n. 花花公子<br>adj. 极好的    |
+| voila           | `/vwɑˈlɑ/`         | interj. 瞧；看            |
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 slipup, `/ˈslɪpˌʌp/`<br/><br/> n. 失误                  
 toxic, `/ˈtɑːksɪk/`<br/><br/> adj. 有毒的；有害的           
