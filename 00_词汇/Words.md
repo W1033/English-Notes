@@ -4319,9 +4319,11 @@ Translator: ChatGPT 4o
 
 ### Added: 2024.04.24
 
-#### First Table - ~~已校对~~ - ~~已写入：GoodNotes~~
+#### First Table - 已校对 - ~~已写入：GoodNotes~~
 
 Translator: ChatGPT 4
+
+Edit: 2024.08.29、30
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
