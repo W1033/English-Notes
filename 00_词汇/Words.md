@@ -4321,111 +4321,79 @@ Translator: ChatGPT 4o
 
 #### First Table - 已校对 - ~~已写入：GoodNotes~~
 
-Translator: ChatGPT 4
+Translator: ChatGPT 4 & 4o
 
-Edit: 2024.08.29、30
+Edit: 2024.08.29、30、31
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词               | 美式发音           | 词性 + 汉语释义                   |
-|--------------------|--------------------|----------------------------------|
-| tactful            | `/ˈtæktfəl/`       | adj. 机智的；圆滑的                |
-| preliminary        | `/prɪˈlɪmɪˌnɛri/`  | adj. 初步的；预备的<br>n. 预赛；初步行动  |
-| certificate        | `/sərˈtɪfɪkət/`    | n. 证书；执照<br>v. 颁发证书         |
-| admission          | `/ədˈmɪʃən/`       | n. 允许进入；承认                  |
-| delineate          | `/dɪˈlɪniˌeɪt/`    | v. 描绘；勾画                    |
-| readily            | `/ˈrɛdɪli/`        | adv. 容易地；乐意地                |
-| characterization   | `/ˌkærɪktəraɪˈzeɪʃən/` | n. 特性描述；性格刻画                |
-| synoptic           | `/sɪˈnɑptɪk/`      | adj. 摘要的；概要的                |
-| pathway            | `/ˈpæθˌweɪ/`       | n. 路径；道路                    |
-| presumptuous       | `/prɪˈzʌmpʧuəs/`   | adj. 放肆的；冒昧的                |
-
-------
-
-| 单词               | 美式发音           | 词性 + 汉语释义                  |
-|--------------------|-------------------|---------------------------------|
-| learner            | `/ˈlɜːrnər/`      | n. 学习者；初学者                 |
-| criticism          | `/ˈkrɪtɪsɪzəm/`   | n. 批评；评论                   |
-| tactful            | `/ˈtæktfəl/`      | adj. 机智的；圆滑的              |
-| precise            | `/prɪˈsaɪs/`      | adj. 精确的；准确的               |
-| preliminary        | `/prɪˈlɪməneri/`  | adj. 初步的；预备的<br>n. 预赛；初步行动    |
-| certificate        | `/sərˈtɪfɪkət/`   | n. 证书；执照<br>v. 发证书         |
-| proficiency        | `/prəˈfɪʃənsi/`   | n. 熟练；精通                   |
-
-| scholastic         | `/skəˈlæstɪk/`    | adj. 学术的；学校的               |
-| admission          | `/ədˈmɪʃən/`      | n. 准入；承认                   |
-| record             | `/ˈrekərd/`       | n. 记录；档案<br>v. 记录；录音     |
-| delineate          | `/dɪˈlɪnieɪt/`    | v. 描述；勾勒                   |
-| readily            | `/ˈredɪli/`       | adv. 乐意地；轻易地               |
-| transcend          | `/trænˈsend/`     | v. 超越；胜过                   |
-| characterization   | `/ˌkærəktəraɪˈzeɪʃən/` | n. 描述；刻画                 |
-| synoptic           | `/sɪˈnɑːptɪk/`    | adj. 概要的；梗概的               |
-| resistant          | `/rɪˈzɪstənt/`    | adj. 抵抗的；耐...的             |
-| perfection         | `/pərˈfekʃən/`    | n. 完美；完善                   |
-| pathway            | `/ˈpæθweɪ/`       | n. 路径；途径                   |
-| presumptuous       | `/prɪˈzʌmptʃuəs/` | adj. 自负的；冒昧的               |
-| maple              | `/ˈmeɪpəl/`       | n. 枫树                        |
+| 单词               | 美式发音                  | 词性 + 汉语释义                  |
+|------------------|-----------------------|----------------------------|
+| learner          | `/ˈlɜːrnər/`          | n. 学习者；初学者                 |
+| criticism        | `/ˈkrɪtɪsɪzəm/`       | n. 批评；评论                   |
+| tactful          | `/ˈtæktfəl/`          | adj. 机智的；圆滑的               |
+| precise          | `/prɪˈsaɪs/`          | adj. 精确的；准确的               |
+| preliminary      | `/prɪˈlɪməneri/`      | adj. 初步的；预备的<br>n. 预赛；初步行动 |
+| certificate      | `/sərˈtɪfɪkət/`       | n. 证书；执照<br>v. 发证书         |
+| proficiency      | `/prəˈfɪʃənsi/`       | n. 熟练；精通                   |
+| scholastic       | `/skəˈlæstɪk/`        | adj. 学术的；学校的               |
+| admission        | `/ədˈmɪʃən/`          | n. 允许进入；承认                 |
+| record           | `/ˈrekərd/`           | n. 记录；唱片；档案<br>v. 记录；录音    |
+| delineate        | `/dɪˈlɪnieɪt/`        | v. 描绘；勾画                   |
+| readily          | `/ˈredəli/`           | adv. 容易地；乐意地               |
+| characterization | `/ˌkærəktərəˈzeɪʃən/` | n. 描述；刻画                   |
+| synoptic         | `/sɪˈnɑːptɪk/`        | adj. 摘要的；概要的               |
+| synopsis         | `/sɪˈnɑːpsɪs/`        | n. 摘要；概要                   |
+| resistant        | `/rɪˈzɪstənt/`        | adj. 抵抗的；耐久的               |
+| perfection       | `/pərˈfekʃən/`        | n. 完美；完善                   |
+| pathway          | `/ˈpæθweɪ/`           | n. 路径；道路                   |
+| presumptuous     | `/prɪˈzʌmptʃuəs/`     | adj. 放肆的；冒昧的               |
+| maple            | `/ˈmeɪpəl/`           | n. 枫树                      |
 
 
+#### Second Table - 已校对 - ~~已写入：GoodNotes~~
 
+Translator: ChatGPT 4 & 4o
 
-
-#### Second Table - ~~已校对~~ - ~~已写入：GoodNotes~~
-
-Translator: ChatGPT 4
+Edit: 2024.08.31
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词                 | 美式发音                           | 词类 + 汉语释义            |
 |--------------------|--------------------------------|----------------------|
-| inhuman            | `/ɪnˈhjuːmən/                  | adj. 不人道的            |
-| impetuous          | `/ɪmˈpɛtʃuəs/                  | adj. 鲁莽的             |
-| aghast             | `/əˈɡæst/                      | adj. 惊骇的             |
-| alibi              | `/ˈælɪˌbaɪ/                    | n. 不在场证明；托辞          |
 | accuse             | `/əˈkjuːz/                     | v. 指控；控告             |
-| slandering         | `/ˈslændərɪŋ/                  | v. 诽谤                |
-| threatening        | `/ˈθrɛtənɪŋ/                   | adj. 威胁的             |
-| conspiracy         | `/kənˈspɪrəsi/                 | n. 阴谋                |
-| hick               | `/hɪk/                         | n. 乡下人               |
-| bonus              | `/ˈboʊnəs/                     | n. 奖金；额外津贴           |
 | track              | `/træk/                        | n. 跑道；轨道；v. 追踪       |
 | rot                | `/rɑːt/                        | v. 腐烂；n. 腐烂          |
 | lame               | `/leɪm/                        | adj. 跛的；无说服力的        |
-| duplicate          | `/ˈduːplɪkeɪt/`                | v. 复制；<br />adj. 完全相同的；<br />n. 副本 |
-| project            | `/ˈprɑːdʒekt/`(n.)<br>`/prəˈdʒekt/`(v.) | n. 项目；计划<br>v. 规划；投射 |
-| projection         | `/prəˈdʒɛkʃən/                 | n. 投影；预测             |
-| enthusiastic       | `/ɪnˌθuziˈæstɪk/               | adj. 热情的             |
-| problem            | `/ˈprɑːbləm/                   | n. 问题                |
-| chatty             | `/ˈʧæti/                       | adj. 健谈的             |
 | clatter            | `/ˈklætər/                     | n. 噼里啪啦声；v. 发出噼里啪啦声  |
 | muse               | `/mjuːz/                       | v. 沉思；n. 灵感之源        |
 
 
 以下是你提供的单词的翻译，遵循简洁性与全面性的平衡原则，并参考了 LDOCE：
 
-| 单词           | 美式发音           | 词性 + 汉语释义                                      |
-|----------------|--------------------|------------------------------------------------------|
-| inhuman        | `/ɪnˈhjumən/`      | adj. 残忍的；不人道的                                 |
-| impetuous      | `/ɪmˈpɛtʃuəs/`    | adj. 冲动的；鲁莽的                                   |
-| aghast         | `/əˈɡæst/`         | adj. 惊骇的；吓呆的                                   |
-| alibi          | `/ˈæləˌbaɪ/`       | n. 不在场证明；辩解                                   |
-| accuse         | `/əˈkjuz/`         | v. 指控；指责                                         |
-| slandering     | `/ˈslændərɪŋ/`     | n. 诽谤；中伤（slander 的现在分词）                   |
-| threatening    | `/ˈθrɛtənɪŋ/`      | adj. 威胁的；恐吓的                                   |
-| conspiracy     | `/kənˈspɪrəsi/`    | n. 阴谋；共谋                                         |
-| hick           | `/hɪk/`            | n. 乡巴佬；土包子                                     |
-| bonus          | `/ˈboʊnəs/`        | n. 奖金；额外津贴                                     |
-| track          | `/træk/`           | n. 轨道；踪迹<br>v. 跟踪；追踪                        |
-| rot            | `/rɑt/`            | v. 腐烂；腐败<br>n. 腐烂；腐败                         |
-| lame           | `/leɪm/`           | adj. 跛的；无说服力的<br>v. 使跛足                     |
-| duplicate      | `/ˈduplɪˌkeɪt/`    | v. 复制；重复<br>n. 复制品<br>adj. 复制的             |
-| project        | `/ˈprɑʤɛkt/`       | n. 项目；方案<br>v. 计划；投射                         |
-| projection     | `/prəˈʤɛkʃən/`     | n. 投影；预测                                         |
-| enthusiastic   | `/ɪnˌθuziˈæstɪk/` | adj. 热情的；热心的                                   |
-| problem        | `/ˈprɑbləm/`       | n. 问题；难题                                         |
-| chatty         | `/ˈʧæti/`          | adj. 健谈的；话多的                                   |
-| clatter        | `/ˈklætər/`        | n. 哐啷声<br>v. 发出哐啷声                            |
-| muse           | `/mjuz/`           | v. 沉思；冥想<br>n. 缪斯；灵感来源                     |
+| 单词           | 美式发音             | 词性 + 汉语释义                    |
+|----------------|------------------|------------------------------------|
+| inhuman        | `/ɪnˈhjuːmən/`   | adj. 残忍的；不人道的                |
+| impetuous      | `/ɪmˈpetʃuəs/`    | adj. 冲动的；鲁莽的                 |
+
+| aghast         | `/əˈɡæst/`       | adj. 惊骇的；吓呆的                 |
+| alibi          | `/ˈæləˌbaɪ/`     | n. 不在场证明；辩解                  |
+| accuse         | `/əˈkjuːz/`      | v. 指控；指责                       |
+| slandering     | `/ˈslændərɪŋ/`   | n. 诽谤；中伤（slander 的现在分词）      |
+| threatening    | `/ˈθrɛtənɪŋ/`    | adj. 威胁的；恐吓的                 |
+| conspiracy     | `/kənˈspɪrəsi/`  | n. 阴谋；共谋                       |
+| hick           | `/hɪk/`          | n. 乡巴佬；土包子                   |
+| bonus          | `/ˈboʊnəs/`      | n. 奖金；额外津贴                   |
+| track          | `/træk/`         | n. 轨道；踪迹<br>v. 跟踪；追踪         |
+| rot            | `/rɑːt/`         | v. 腐烂；腐败<br>n. 腐烂；腐败         |
+| lame           | `/leɪm/`         | adj. 跛的；无说服力的<br>v. 使跛足      |
+| projection     | `/prəˈdʒɛkʃən/`  | n. 投影；预测                       |
+| enthusiastic   | `/ɪnˌθuziˈæstɪk/` | adj. 热情的；热心的                 |
+| problem        | `/ˈprɑbləm/`     | n. 问题；难题                       |
+| chatty         | `/ˈtʃæti/`       | adj. 健谈的；话多的                 |
+| clatter        | `/ˈklætər/`      | n. 哐啷声<br>v. 发出哐啷声           |
+| muse           | `/mjuːz/`         | v. 沉思；冥想<br>n. 缪斯；灵感来源       |
+| project        | `/ˈprɑːdʒekt/`(n.)<br>`/prəˈdʒekt/`(v.) | n. 项目；计划<br>v. 计划；投射 |
 
 
 
