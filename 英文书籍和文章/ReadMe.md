@@ -34,6 +34,39 @@ Translate:ChatGPT 4o
 
 请注意，对于某些外国名字，直接翻译为中文时可能没有官方译名，特别是一些不那么知名的人物。而对于历史名人和文学作品中的角色，通常已有较为普及的中文译名。
 
+### 2024.09.01
+
+| 名字/术语          | 美式发音                     | 词性 + 汉语释义                    |
+| ------------------ | ---------------------------- | ---------------------------------- |
+| Redondo            | `/rɪˈdɒndoʊ/`                | n. 雷东多（地名或姓氏）            |
+| Duke Leto Atreides | `/djuːk ˈleɪtoʊ əˈtreɪdiːz/` | n. 莱托·厄崔迪公爵（《沙丘》角色） |
+| Bene Gesserit      | `/ˈbɛni ˈdʒɛsərɪt/`          | n. 贝尼·杰瑟里特（《沙丘》组织）   |
+| Usul               | `/ˈjuːsəl/`                  | n. 乌苏尔（《沙丘》角色名）        |
+| Argyle             | `/ˈɑːrɡaɪl/`                 | n. 阿盖尔（地名或图案）            |
+| Cornelius          | `/kɔːrˈniːliəs/`             | n. 科尼利厄斯（男性名）            |
+| Tanner             | `/ˈtænər/`                   | n. 坦纳（姓氏或名字）              |
+| Tatum              | `/ˈteɪtəm/`                  | n. 塔图姆（姓氏或名字）            |
+| Tabitha            | `/ˈtæbɪθə/`                  | n. 塔比莎（女性名）                |
+| Tristram           | `/ˈtrɪstrəm/`                | n. 特里斯坦（中世纪传说人物）      |
+| Jardin             | `/ʒɑːrˈdæn/`                 | n. 雅尔丹（法语中的“花园”或姓氏）  |
+| Alexei             | `/əˈlɛksi/`                  | n. 阿列克谢（俄语男性名）          |
+| Sergey             | `/ˈsɜːrɡeɪ/`                 | n. 谢尔盖（俄语男性名）            |
+| Troke              | `/troʊk/`                    | n. 特罗克（可能是姓氏）            |
+| Clair              | `/klɛər/`                    | n. 克莱尔（名字，男女皆有使用）    |
+| Edith Wharton      | `/ˈiːdɪθ ˈwɔːrtən/`          | n. 伊迪丝·华顿（美国作家）         |
+| Kremenek           | `/ˈkrɛmənɛk/`                | n. 克雷梅内克（可能是姓氏）        |
+| Donald Crowhurst   | `/ˈdɒnəld ˈkroʊhɜrst/`       | n. 唐纳德·克罗赫斯特（英国水手）   |
+| Stephen Hawking    | `/ˈstiːvən ˈhɔːkɪŋ/`         | n. 史蒂芬·霍金（物理学家）         |
+| Bernard Moitessier | `/bɛrˈnɑrd mwɑtɛsje/`        | n. 伯纳德·莫瓦捷（法国航海家）     |
+| Arthur Koestler    | `/ˈɑːrθər ˈkɛstlər/`         | n. 阿瑟·凯斯勒（作家）             |
+| Johannes Kepler    | `/joʊˈhænəs ˈkɛplər/`        | n. 约翰内斯·开普勒（天文学家）     |
+| Hamilton           | `/ˈhæmɪltən/`                | n. 汉密尔顿（姓氏，历史人物）      |
+| Seinfeld           | `/ˈsaɪnfɛld/`                | n. 塞恩菲尔德（情景喜剧）          |
+
+
+
+
+
 
 
 ### △ Charlotte's Web 《夏洛特的网》

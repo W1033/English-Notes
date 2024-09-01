@@ -1,53 +1,7 @@
-
 **重要提示：编辑当前文件最好在 VSCode 中编辑，IDEA 中编辑格式不友好，无法发现编辑错误**
 
 
 
-| 单词              | 美式发音               | 词性 + 汉语释义            |
-|-----------------|--------------------|----------------------|
-| problematic     | `/ˌprɑːbləˈmætɪk/` | adj. 有问题的            |
-| anecdotal       | `/ˌænɪkˈdoʊtəl/`   | adj. 轶事的；传闻的         |
-| achieve         | `/əˈtʃiːv/`        | v. 实现；达到             |
-| downside        | `/ˈdaʊnˌsaɪd/`     | n. 下降；缺点             |
-| authority       | `/əˈθɔːrəti/`      | n. 权威；权力             |
-| irrelevant      | `/ɪˈreləvənt/`     | adj. 不相干的；无关紧要的      |
-| conventional    | `/kənˈvenʃənl/`    | adj. 常规的；传统的         |
-| speculate       | `/ˈspekjəleɪt/`    | v. 推测；投机             |
-| speculation     | `/ˌspekjəˈleɪʃən/` | n. 推测；投机             |
-| prediction      | `/prɪˈdɪkʃən/`     | n. 预测；预言             |
-| lecture         | `/ˈlektʃər/`       | n. 讲座；演讲<br>v. 讲课；训斥 |
-| cite            | `/saɪt/`           | v. 引用；举例             |
-| cutoff          | `/ˈkʌtˌɔːf/`       | n. 截止；切断             |
-| disclose        | `/dɪsˈkloʊz/`      | v. 揭露；公开             |
-| anticipate      | `/ænˈtɪsəpeɪt/`    | v. 预期；预料             |
-| proactive       | `/proʊˈæktɪv/`     | adj. 积极主动的；先发制人的     |
-| downfall        | `/ˈdaʊnfɔːl/`      | n. 垮台；衰败             |
-| distraction     | `/dɪˈstrækʃən/`    | n. 分心；干扰             |
-| fraud           | `/frɒːd/`          | n. 欺诈；欺骗             |
-| bagel           | `/ˈbeɪɡəl/`        | n. 贝果；百吉饼（面包圈）       |
-| blow            | `/bloʊ/`           | v. 吹；打击<br>n. 吹；打击     |
-| blow away       | `/bloʊ əˈweɪ/`     | v. 吹走；使大为惊讶            |
-| dynasty         | `/ˈdaɪnəsti/`      | n. 朝代；王朝               |
-| fascinate       | `/ˈfæsəneɪt/`      | v. 使着迷；吸引              |
-| fascinating     | `/ˈfæsɪneɪtɪŋ/`    | adj. 迷人的；有趣的           |
-| degree          | `/dɪˈɡriː/`        | n. 度数(温度、角度等)；程度；学位    |
-| lean            | `/liːn/`           | v. 倾斜；依靠<br>adj. 精瘦的   |
-| humble          | `/ˈhʌmbl/`         | adj. 谦逊的；卑微的<br>v. 使谦卑 |
-| depart          | `/dɪˈpɑːrt/`       | v. 离开；出发               |
-| departure       | `/dɪˈpɑːrtʃər/`    | n. 离开；出发               |
-| cope            | `/koʊp/`           | v. 应对；处理               |
-| kind            | `/kaɪnd/`          | n. 种类；类别<br>adj. 善良的；友好的 |
-| significant     | `/sɪɡˈnɪfɪkənt/`   | adj. 重要的；显著的           |
-| interminable    | `/ɪnˈtɜːrmənəbəl/` | adj. 冗长的；无止尽的          |
-| recruit         | `/rɪˈkruːt/`       | v. 招募；招聘<br>n. 新兵      |
-| recruitment     | `/rɪˈkruːtmənt/`   | n. 招募；招聘               |
-| objection       | `/əbˈdʒekʃən/`     | n. 反对；异议               |
-| stalk           | `/stɔːk/`          | n. 茎；秆<br>v. 悄悄跟踪      |
-| proton          | `/ˈproʊtɑːn/`      | n. 质子                  |
-| pack            | `/pæk/`            | v. 打包；压紧；塞满<br>n. 包裹；一副；一组 |
-| handy           | `/ˈhændi/`         | adj. 方便的；灵巧的           |
-| dandy           | `/ˈdændi/`         | n. 花花公子<br>adj. 极好的    |
-| voila           | `/vwɑˈlɑ/`         | interj. 瞧；看            |
 
 
 
@@ -62,6 +16,92 @@
 
 
 
+
+learner, `/ˈlɜːrnər/`<br/><br/> n. 学习者；初学者                  
+criticism, `/ˈkrɪtɪsɪzəm/`<br/><br/> n. 批评；评论                    
+tactful, `/ˈtæktfəl/`<br/><br/> adj. 机智的；圆滑的                
+precise, `/prɪˈsaɪs/`<br/><br/> adj. 精确的；准确的                
+preliminary, `/prɪˈlɪməneri/`<br/><br/> adj. 初步的；预备的<br><br>n. 预赛；初步行动  
+certificate, `/sərˈtɪfɪkət/`<br/><br/> n. 证书；执照<br><br>v. 发证书          
+proficiency, `/prəˈfɪʃənsi/`<br/><br/> n. 熟练；精通                    
+scholastic, `/skəˈlæstɪk/`<br/><br/> adj. 学术的；学校的                
+admission, `/ədˈmɪʃən/`<br/><br/> n. 允许进入；承认                  
+record, `/ˈrekərd/`<br/><br/> n. 记录；唱片；档案<br><br>v. 记录；录音     
+delineate, `/dɪˈlɪnieɪt/`<br/><br/> v. 描绘；勾画                    
+readily, `/ˈredəli/`<br/><br/> adv. 容易地；乐意地                
+characterization, `/ˌkærəktərəˈzeɪʃən/`<br/><br/> n. 描述；刻画                    
+synoptic, `/sɪˈnɑːptɪk/`<br/><br/> adj. 摘要的；概要的                
+synopsis, `/sɪˈnɑːpsɪs/`<br/><br/> n. 摘要；概要                    
+resistant, `/rɪˈzɪstənt/`<br/><br/> adj. 抵抗的；耐久的                
+perfection, `/pərˈfekʃən/`<br/><br/> n. 完美；完善                    
+pathway, `/ˈpæθweɪ/`<br/><br/> n. 路径；道路                    
+presumptuous, `/prɪˈzʌmptʃuəs/`<br/><br/> adj. 放肆的；冒昧的                
+maple, `/ˈmeɪpəl/`<br/><br/> n. 枫树                       
+inhuman, `/ɪnˈhjuːmən/`<br/><br/> adj. 残忍的；不人道的               
+impetuous, `/ɪmˈpetʃuəs/`<br/><br/> adj. 冲动的；鲁莽的                
+aghast, `/əˈɡæst/`<br/><br/> adj. 吓呆的                    
+alibi, `/ˈæləbaɪ/`<br/><br/> n. 不在场证明；辩解                 
+accuse, `/əˈkjuːz/`<br/><br/> v. 指控；指责                    
+slander, `/ˈslændər/`<br/><br/> n. 诽谤；中伤<br><br>v. 诽谤；中伤        
+slandering, `/ˈslændərɪŋ/`<br/><br/> n. 诽谤；中伤（slander 的现在分词）     
+threat, `/θret/`<br/><br/> n. 威胁；恐吓                    
+threaten, `/ˈθretən/`<br/><br/> v. 威胁；恐吓                    
+threatening, `/ˈθretənɪŋ/`<br/><br/> adj. 威胁的；恐吓的<br><br>v. 威胁；恐吓（threaten 的现在分词） 
+conspiracy, `/kənˈspɪrəsi/`<br/><br/> n. 阴谋；同谋                    
+hick, `/hɪk/`<br/><br/> n. 乡巴佬；土包子                  
+track, `/træk/`<br/><br/> n. 轨道；小径；足迹<br><br>v. 追踪        
+rot, `/rɑːt/`<br/><br/> v. 腐烂；腐败<br><br>n. 腐烂；腐败        
+lame, `/leɪm/`<br/><br/> adj. 瘸的；无说服力的               
+projection, `/prəˈdʒɛkʃən/`<br/><br/> n. 投影；预测                    
+enthusiastic, `/ɪnˌθuːziˈæstɪk/`<br/><br/> adj. 热情的；热心的                
+problem, `/ˈprɑːbləm/`<br/><br/> n. 问题；难题                    
+chatty, `/ˈtʃæti/`<br/><br/> adj. 健谈的；爱说的                
+clatter, `/ˈklætər/`<br/><br/> n. 哐啷(lāng)声<br><br>v. 发出哐啷声    
+muse, `/mjuːz/`<br/><br/> v. 沉思<br><br>n. 灵感；缪斯女神         
+problematic, `/ˌprɑːbləˈmætɪk/`<br/><br/> adj. 有问题的                   
+anecdotal, `/ˌænɪkˈdoʊtəl/`<br/><br/> adj. 轶事的；传闻的                
+achieve, `/əˈtʃiːv/`<br/><br/> v. 实现；达到                    
+downside, `/ˈdaʊnˌsaɪd/`<br/><br/> n. 下降；缺点                    
+authority, `/əˈθɔːrəti/`<br/><br/> n. 权威；权力                    
+irrelevant, `/ɪˈreləvənt/`<br/><br/> adj. 不相干的；无关紧要的             
+conventional, `/kənˈvenʃənl/`<br/><br/> adj. 常规的；传统的                
+speculate, `/ˈspekjəleɪt/`<br/><br/> v. 推测；投机                    
+speculation, `/ˌspekjəˈleɪʃən/`<br/><br/> n. 推测；投机                    
+prediction, `/prɪˈdɪkʃən/`<br/><br/> n. 预测；预言                    
+lecture, `/ˈlektʃər/`<br/><br/> n. 讲座；演讲<br><br>v. 讲课；训斥        
+cite, `/saɪt/`<br/><br/> v. 引用；举例                    
+cutoff, `/ˈkʌtˌɔːf/`<br/><br/> n. 截止；切断                    
+disclose, `/dɪsˈkloʊz/`<br/><br/> v. 揭露；公开                    
+anticipate, `/ænˈtɪsəpeɪt/`<br/><br/> v. 预期；预料                    
+proactive, `/proʊˈæktɪv/`<br/><br/> adj. 积极主动的；先发制人的            
+downfall, `/ˈdaʊnfɔːl/`<br/><br/> n. 垮台；衰败                    
+distraction, `/dɪˈstrækʃən/`<br/><br/> n. 分心；干扰                    
+fraud, `/frɒːd/`<br/><br/> n. 欺诈；欺骗                    
+bagel, `/ˈbeɪɡəl/`<br/><br/> n. 贝果；百吉饼（面包圈）              
+blow, `/bloʊ/`<br/><br/> v. 吹；打击<br><br>n. 吹；打击          
+| bloaway, `/bloʊ əˈweɪ<br/><br/>        | v. 吹走；使大为惊讶                 
+dynasty, `/ˈdaɪnəsti/`<br/><br/> n. 朝代；王朝                    
+fascinate, `/ˈfæsəneɪt/`<br/><br/> v. 使着迷；吸引                   
+fascinating, `/ˈfæsɪneɪtɪŋ/`<br/><br/> adj. 迷人的；有趣的                
+degree, `/dɪˈɡriː/`<br/><br/> n. 度数(温度、角度等)；程度；学位         
+lean, `/liːn/`<br/><br/> v. 倾斜；依靠<br><br>adj. 精瘦的        
+humble, `/ˈhʌmbl/`<br/><br/> adj. 谦逊的；卑微的<br><br>v. 使谦卑      
+depart, `/dɪˈpɑːrt/`<br/><br/> v. 离开；出发                    
+departure, `/dɪˈpɑːrtʃər/`<br/><br/> n. 离开；出发                    
+cope, `/koʊp/`<br/><br/> v. 应对；处理                    
+kind, `/kaɪnd/`<br/><br/> n. 种类；类别<br><br>adj. 善良的；友好的    
+significant, `/sɪɡˈnɪfɪkənt/`<br/><br/> adj. 重要的；显著的                
+interminable, `/ɪnˈtɜːrmənəbəl/`<br/><br/> adj. 冗长的；无止尽的               
+recruit, `/rɪˈkruːt/`<br/><br/> v. 招募；招聘<br><br>n. 新兵           
+recruitment, `/rɪˈkruːtmənt/`<br/><br/> n. 招募；招聘                    
+objection, `/əbˈdʒekʃən/`<br/><br/> n. 反对；异议                    
+stalk, `/stɔːk/`<br/><br/> n. 茎；秆<br><br>v. 悄悄跟踪           
+proton, `/ˈproʊtɑːn/`<br/><br/> n. 质子                       
+pack, `/pæk/`<br/><br/> v. 打包；压紧；塞满<br><br>n. 包裹；一副；一组  
+handy, `/ˈhændi/`<br/><br/> adj. 方便的；灵巧的                
+dandy, `/ˈdændi/`<br/><br/> n. 花花公子<br><br>adj. 极好的         
+voila, `/vwɑˈlɑ/`<br/><br/> interj. 瞧；看                 
+project, `/ˈprɑːdʒekt/`(n.)<br>`/prəˈdʒekt/`(v.) <br/><br/>n. 项目；计划<br><br>v. 计划；投射
 slipup, `/ˈslɪpˌʌp/`<br/><br/> n. 失误                  
 toxic, `/ˈtɑːksɪk/`<br/><br/> adj. 有毒的；有害的           
 reverse, `/rɪˈvɜːrs/`<br/><br/> v. 逆转；倒车<br><br>n. 逆转；反面<br><br>adj. 相反的 

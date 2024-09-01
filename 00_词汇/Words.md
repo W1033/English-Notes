@@ -19,6 +19,43 @@ Translator: ChatGPT 4o
 ## ▲ 待编辑生词
 
 
+### Add: 2024.08.31
+
+#### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词      | 美式发音         | 词性 + 汉语释义                                      |
+|-----------|------------------|------------------------------------------------------|
+| positive  | `/ˈpɑːzətɪv/`    | adj. 积极的；肯定的                                  |
+| opposite  | `/ˈɑːpəzɪt/`     | adj. 相反的<br>n. 对立面；反义词<br>prep. 在...对面 |
+| thein     | `/ˈθeɪn/`        | n. 贵族；领主                                        |
+| Orion     | `/əˈraɪən/`      | n. 猎户座                                            |
+| puma      | `/ˈpjuːmə/`      | n. 美洲狮                                            |
+| dime      | `/daɪm/`         | n. 一角硬币                                          |
+| export    | `/ˈɛkspɔːrt/`    | v. 出口；输出<br>n. 出口；出口商品                   |
+| incipient | `/ɪnˈsɪpiənt/`   | adj. 初期的；起初的                                  |
+| guilty    | `/ˈɡɪlti/`       | adj. 有罪的；内疚的                                  |
+| find      | `/faɪnd/`        | v. 发现；找到<br>n. 发现物                            |
+| found     | `/faʊnd/`        | v. 建立；创立                                        |
+| lengthen  | `/ˈlɛŋθən/`      | v. 延长；加长                                        |
+| origin    | `/ˈɔːrɪdʒɪn/`    | n. 起源；来源                                        |
+| remain    | `/rɪˈmeɪn/`      | v. 保持；留下                                        |
+| passion   | `/ˈpæʃən/`       | n. 热情；激情                                        |
+| fulfil    | `/fʊlˈfɪl/`      | v. 实现；履行                                        |
+| mourn     | `/mɔːrn/`        | v. 哀悼；为...感到悲痛                               |
+| mourner   | `/ˈmɔːrnər/`     | n. 哀悼者；送葬者                                    |
+| tourney   | `/ˈtʊrni/`       | n. 比赛；锦标赛                                      |
+| terror    | `/ˈtɛrər/`       | n. 恐怖；惊骇                                        |
+| follow    | `/ˈfɑːloʊ/`      | v. 跟随；遵循                                        |
+
+
+
+
+
+
 ### Add: 2024.08.29
 
 #### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
@@ -3113,7 +3150,6 @@ Translator: ChatGPT 4o
 | announce        | `/əˈnaʊns/`        | v. 宣布；通告               |
 | pronounce       | `/prəˈnaʊns/`      | v. 发音；宣布               |
 | brief           | `/brif/`           | adj. 简短的<br>n. 摘要      |
-| track           | `/træk/`           | n. 轨道；小路<br>v. 追踪      |
 | checkout        | `/ˈtʃɛkˌaʊt/`      | n. 收银台；结账              |
 | unbelievable    | `/ˌʌnbɪˈlivəbəl/`  | adj. 难以置信的             |
 | emperor         | `/ˈɛmpərər/`       | n. 皇帝                  |
@@ -4355,45 +4391,34 @@ Edit: 2024.08.29、30、31
 
 Translator: ChatGPT 4 & 4o
 
-Edit: 2024.08.31
+Edit: 2024.08.31, 2024.09.01
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词                 | 美式发音                           | 词类 + 汉语释义            |
-|--------------------|--------------------------------|----------------------|
-| accuse             | `/əˈkjuːz/                     | v. 指控；控告             |
-| track              | `/træk/                        | n. 跑道；轨道；v. 追踪       |
-| rot                | `/rɑːt/                        | v. 腐烂；n. 腐烂          |
-| lame               | `/leɪm/                        | adj. 跛的；无说服力的        |
-| clatter            | `/ˈklætər/                     | n. 噼里啪啦声；v. 发出噼里啪啦声  |
-| muse               | `/mjuːz/                       | v. 沉思；n. 灵感之源        |
-
-
-以下是你提供的单词的翻译，遵循简洁性与全面性的平衡原则，并参考了 LDOCE：
-
-| 单词           | 美式发音             | 词性 + 汉语释义                    |
-|----------------|------------------|------------------------------------|
-| inhuman        | `/ɪnˈhjuːmən/`   | adj. 残忍的；不人道的                |
-| impetuous      | `/ɪmˈpetʃuəs/`    | adj. 冲动的；鲁莽的                 |
-
-| aghast         | `/əˈɡæst/`       | adj. 惊骇的；吓呆的                 |
-| alibi          | `/ˈæləˌbaɪ/`     | n. 不在场证明；辩解                  |
-| accuse         | `/əˈkjuːz/`      | v. 指控；指责                       |
-| slandering     | `/ˈslændərɪŋ/`   | n. 诽谤；中伤（slander 的现在分词）      |
-| threatening    | `/ˈθrɛtənɪŋ/`    | adj. 威胁的；恐吓的                 |
-| conspiracy     | `/kənˈspɪrəsi/`  | n. 阴谋；共谋                       |
-| hick           | `/hɪk/`          | n. 乡巴佬；土包子                   |
-| bonus          | `/ˈboʊnəs/`      | n. 奖金；额外津贴                   |
-| track          | `/træk/`         | n. 轨道；踪迹<br>v. 跟踪；追踪         |
-| rot            | `/rɑːt/`         | v. 腐烂；腐败<br>n. 腐烂；腐败         |
-| lame           | `/leɪm/`         | adj. 跛的；无说服力的<br>v. 使跛足      |
-| projection     | `/prəˈdʒɛkʃən/`  | n. 投影；预测                       |
-| enthusiastic   | `/ɪnˌθuziˈæstɪk/` | adj. 热情的；热心的                 |
-| problem        | `/ˈprɑbləm/`     | n. 问题；难题                       |
-| chatty         | `/ˈtʃæti/`       | adj. 健谈的；话多的                 |
-| clatter        | `/ˈklætər/`      | n. 哐啷声<br>v. 发出哐啷声           |
-| muse           | `/mjuːz/`         | v. 沉思；冥想<br>n. 缪斯；灵感来源       |
-| project        | `/ˈprɑːdʒekt/`(n.)<br>`/prəˈdʒekt/`(v.) | n. 项目；计划<br>v. 计划；投射 |
+| 单词           | 美式发音                     | 词性 + 汉语释义                        |
+|--------------|--------------------------|----------------------------------|
+| inhuman      | `/ɪnˈhjuːmən/`           | adj. 残忍的；不人道的                    |
+| impetuous    | `/ɪmˈpetʃuəs/`           | adj. 冲动的；鲁莽的                     |
+| aghast       | `/əˈɡæst/`               | adj. 吓呆的                         |
+| alibi        | `/ˈæləbaɪ/`              | n. 不在场证明；辩解                      |
+| accuse       | `/əˈkjuːz/`              | v. 指控；指责                         |
+| slander      | `/ˈslændər/`             | n. 诽谤；中伤<br>v. 诽谤；中伤             |
+| slandering   | `/ˈslændərɪŋ/`           | n. 诽谤；中伤（slander 的现在分词）          |
+| threat       | `/θret/`                 | n. 威胁；恐吓                         |
+| threaten     | `/ˈθretən/`              | v. 威胁；恐吓                         |
+| threatening  | `/ˈθretənɪŋ/`            | adj. 威胁的；恐吓的<br>v. 威胁；恐吓（threaten 的现在分词） |
+| conspiracy   | `/kənˈspɪrəsi/`          | n. 阴谋；同谋                         |
+| hick         | `/hɪk/`                  | n. 乡巴佬；土包子                       |
+| track        | `/træk/`                 | n. 轨道；小径；足迹<br>v. 追踪             |
+| rot          | `/rɑːt/`                 | v. 腐烂；腐败<br>n. 腐烂；腐败             |
+| lame         | `/leɪm/`                 | adj. 瘸的；无说服力的                    |
+| projection   | `/prəˈdʒɛkʃən/`          | n. 投影；预测                         |
+| enthusiastic | `/ɪnˌθuːziˈæstɪk/`       | adj. 热情的；热心的                     |
+| problem      | `/ˈprɑːbləm/`            | n. 问题；难题                         |
+| chatty       | `/ˈtʃæti/`               | adj. 健谈的；爱说的                     |
+| clatter      | `/ˈklætər/`              | n. 哐啷(lāng)声<br>v. 发出哐啷声           |
+| muse         | `/mjuːz/`                | v. 沉思<br>n. 灵感；缪斯女神                |
+| project      | `/ˈprɑːdʒekt/`(n.)<br>`/prəˈdʒekt/`(v.) | n. 项目；计划<br>v. 计划；投射             |
 
 
 
