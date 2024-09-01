@@ -904,7 +904,6 @@ Translator: ChatGPT 4o & Claude 3.5 sonnet
 | phenoxyethanol| `/fɪˌnɒksiˈɛθənɒl/`     | n. 苯氧乙醇              |
 | polysorbate   | `/ˌpɒliˈsɔːrbeɪt/`      | n. 聚山梨醇酯             |
 | commence      | `/kəˈmɛns/`             | v. 开始；着手             |
-| cheque        | `/tʃɛk/`                | n. 支票                |
 | swarm         | `/swɔrm/`               | n. 群；一大群<br>v. 成群移动；蜂拥 |
 | surge         | `/sɜrdʒ/`               | n. 激增；波动<br>v. 激增；涌动 |
 | arcade        | `/ɑrˈkeɪd/`             | n. 拱廊；商业街            |
@@ -4247,42 +4246,70 @@ Translator: ChatGPT 4o
 
 
 
+### ------ ------ ------ 笔记编辑线 ------ ------ ------
+### ------ ------ ------ 笔记编辑线 ------ ------ ------
+### ------ ------ ------ 笔记编辑线 ------ ------ ------
+
+
+
+
+
 ### Added: 2024.04.25
 
-#### First Table - ~~已校对~~ - ~~已写入：GoodNotes~~
+#### First Table - 已校对 - ~~已写入：GoodNotes~~
 
 Translator: ChatGPT 4o
+
+Edit: 2024.09.01、02
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词            | 美式发音               | 词性 + 汉语释义                     |
 |---------------|--------------------|-------------------------------|
-| based         | `/beɪst/`          | adj. 基于...的；以...为基础的          |
-| chequebook    | `/ˈtʃɛkˌbʊk/`      | n. 支票簿                        |
-| checkbook     | `/ˈtʃɛkˌbʊk/`      | n. 支票簿                        |
-| brainstorm    | `/ˈbreɪnˌstɔrm/`   | n. 头脑风暴<br>v. 集思广益            |
-| brainstorming | `/ˈbreɪnˌstɔrmɪŋ/` | n. 头脑风暴                       |
-| lurk          | `/lɜrk/`           | v. 潜伏；潜藏                      |
-| mope          | `/moʊp/`           | v. 闷闷不乐<br>n. 忧郁的人            |
-| hesitate      | `/ˈhɛzɪˌteɪt/`     | v. 犹豫                         |
-| attorney      | `/əˈtɜrni/`        | n. 律师                         |
-| fasten        | `/ˈfæsən/`         | v. 系紧；扣住                      |
-| seat          | `/sit/`            | n. 座位<br>v. 使就座               |
 | sign          | `/saɪn/`           | n. 标志；符号<br>v. 签署；做手势         |
 | jacket        | `/ˈdʒækɪt/`        | n. 夹克；书套                      |
 | mischievous   | `/ˈmɪstʃəvəs/`     | adj. 淘气的；（行为，事情）有害的           |
 | hitch         | `/hɪtʃ/`           | v. 搭便车；拴住<br>n. 故障；钩          |
-| utopian       | `/juˈtoʊpiən/`     | adj. 乌托邦的；理想化的                |
 | forward       | `/ˈfɔːrwərd/`      | adv. 向前地<br>adj. 向前的<br>v. 转发 |
 | government    | `/ˈɡʌvərnmənt/`    | n. 政府；治理                      |
-| seat          | `/sit/`            | n. 座位<br>v. 使就座               |
 | blip          | `/blɪp/            | n. 短暂现象            |
-| suburb        | `/ˈsʌbɜrb/         | n. 郊区               |
+
+
+以下是你提供的单词的翻译，遵循简洁性与全面性的平衡原则，并参考了 LDOCE：
+
+| 单词              | 美式发音            | 词性 + 汉语释义                |
+|-----------------|-----------------|--------------------------|
+| base            | `/beɪs/`        | n. 基础；基地<br>v. 以... 为基础  |
+| based           | `/beɪst/`       | adj. 以...为基础的            |
+| cheque          | `/tʃek/`        | n. 支票                |
+| chequebook      | `/ˈtʃekbʊk/`    | n. 支票簿（英式英语）             |
+| checkbook       | `/ˈtʃekbʊk/`    | n. 支票簿（美式英语）             |
+| brainstorm      | `/ˈbreɪnˌstɔrm/` | n. 头脑风暴<br>v. 集思广益       |
+| brainstorming   | `/ˈbreɪnˌstɔrmɪŋ/` | n. 头脑风暴                  |
+| lurk            | `/lɜːrk/`        | v. 潜伏；潜藏                 |
+| mope            | `/moʊp/`        | v. 闷闷不乐                  |
+| hesitate        | `/ˈhezɪteɪt/`   | v. 犹豫                    |
+| attorney        | `/əˈtɜːrni/`     | n. 律师                    |
+| fasten          | `/ˈfæsən/`      | v. 系紧；固定                 |
+
+| seat            | `/siːt/`        | n. 座位<br>v. 使就座          |
+| sign            | `/saɪn/`        | n. 标志；符号<br>v. 签名        |
+| jacket          | `/ˈdʒækɪt/`     | n. 夹克；外套                 |
+| mischievous     | `/ˈmɪstʃɪvəs/`  | adj. 淘气的；恶作剧的            |
+| hitch           | `/hɪtʃ/`        | n. 障碍<br>v. 搭便车          |
+| utopian         | `/juːˈtoʊpiən/` | adj. 乌托邦的；理想化的           |
+| forward         | `/ˈfɔrwərd/`    | adv. 向前<br>v. 转发<br>adj. 前面的 |
+| government      | `/ˈɡʌvərnmənt/` | n. 政府                    |
+| seat            | `/siːt/`        | n. 座位<br>v. 使就座          |
+| blip            | `/blɪp/`        | n. 短暂的波动；光点              |
+| suburb          | `/ˈsʌbɜrb/`     | n. 郊区                    |
 
 
 #### Second Table - ~~已校对~~ - ~~已写入：GoodNotes~~
 
 Translator: ChatGPT 4o
+
+Edit: 2024.09.01、02
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
@@ -4310,46 +4337,100 @@ Translator: ChatGPT 4o
 | halo             | `/ˈheɪloʊ/`       | n. 光环，晕圈               |
 | flash            | `/flæʃ/`          | v. 闪光，闪烁<br>n. 闪光      |
 
+以下是你提供的单词翻译，遵循简洁性与全面性的平衡原则，并参考了 LDOCE：
+
+| 单词              | 美式发音           | 词性 + 汉语释义                        |
+|-------------------|--------------------|-----------------------------------------|
+| motivation        | `/ˌmoʊtɪˈveɪʃən/` | n. 动机；动力                           |
+| vary              | `/ˈvɛri/`          | v. 变化；不同                           |
+| very              | `/ˈvɛri/`          | adv. 非常；极其<br>adj. 恰好的         |
+| occasional        | `/əˈkeɪʒənəl/`     | adj. 偶尔的                             |
+| involve           | `/ɪnˈvɑlv/`        | v. 包含；涉及                           |
+| certain           | `/ˈsɜrtən/`        | adj. 确定的；某些                       |
+| integration       | `/ˌɪntɪˈɡreɪʃən/` | n. 集成；融合                           |
+| catch up on       | `/kætʃ ʌp ɑn/`     | 短语. 补上；赶上                        |
+| accessible        | `/əkˈsɛsɪbəl/`     | adj. 可接近的；可获得的                 |
+| accessibility     | `/əkˌsɛsəˈbɪlɪti/` | n. 可接近性；无障碍                     |
+| infuse            | `/ɪnˈfjuz/`        | v. 注入；灌输                           |
+| massive           | `/ˈmæsɪv/`         | adj. 巨大的；大量的                     |
+| mass              | `/mæs/`            | n. 大量；块<br>adj. 大规模的            |
+| violence          | `/ˈvaɪələns/`      | n. 暴力                                 |
+| constrictor       | `/kənˈstrɪktər/`   | n. 大蟒；使压缩之物                     |
+| scratch           | `/skrætʃ/`         | v. 抓；划伤<br>n. 抓痕；划伤           |
+| site              | `/saɪt/`           | n. 地点；网站                           |
+| Columbus          | `/kəˈlʌmbəs/`      | n. 哥伦布（探险家）                     |
+| Columbia          | `/kəˈlʌmbiə/`      | n. 哥伦比亚（国家名或地名）             |
+| halo              | `/ˈheɪloʊ/`        | n. 光环；晕圈                           |
+| flash             | `/flæʃ/`           | v. 闪光；快速移动<br>n. 闪光           |
+
+
 
 #### Third Table - ~~已校对~~ - ~~已写入：GoodNotes~~
 
 Translator: ChatGPT 4o
 
+Edit: 2024.09.01、02
+
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词           | 美式发音         | 词性 + 汉语释义                |
-|--------------|------------------|--------------------------|
-| flesh        | `/flɛʃ/`          | n. 肉体，果肉               |
+| 单词           | 美式发音         | 词性 + 汉语释义               |
+|--------------|------------------|-------------------------|
+| flesh        | `/flɛʃ/`          | n. 肉体，果肉                |
 | peanut       | `/ˈpiˌnʌt/`       | n. 花生                   |
-| container    | `/kənˈteɪnər/`    | n. 容器，集装箱              |
-| suitcase     | `/ˈsutˌkeɪs/`     | n. 手提箱                 |
-| nest         | `/nɛst/           | n. 巢；v. 筑巢           |
-| slot         | `/slɑːt/          | n. 缝隙；v. 插入          |
-| **boost**    | `/buːst/`         | v. 提升；促进<br>n. 推动    |
-| warehouse    | `/ˈwɛrˌhaʊs/      | n. 仓库                |
-| roast        | `/roʊst/          | v. 烘烤；n. 烤肉          |
-| construction | `/kənˈstrʌkʃən/   | n. 建设；建筑             |
-| anarchy      | `/ˈænərki/        | n. 无政府状态             |
-| permanent    | `/ˈpɜrmənənt/     | adj. 永久的             |
-| rope         | `/roʊp/           | n. 绳；v. 捆绑           |
-| delusion     | `/dɪˈluʒən/       | n. 错觉；幻想             |
-| delusional   | `/dɪˈluʒənl/      | adj. 妄想的             |
-| flash        | `/flæʃ/           | v. 闪光；n. 闪光          |
-| base         | `/beɪs/           | n. 基地；基础；adj. 卑鄙的    |
-| douche       | `/duʃ/            | n. 灌肠；洗涤           |
-| miserable    | `/ˈmɪzərəbəl/     | adj. 痛苦的；悲惨的      |
-| settled      | `/ˈsɛtld/         | adj. 稳定的；已解决的    |
-| way off      | `/weɪ ˈɔf/        | adj. 远离的            |
-| beneath      | `/bɪˈniθ/         | prep. 在...之下        |
-| trance       | `/træns/          | n. 恍惚；出神           |
+| container    | `/kənˈteɪnər/`    | n. 容器，集装箱               |
+| suitcase     | `/ˈsutˌkeɪs/`     | n. 手提箱                  |
+| nest         | `/nɛst/           | n. 巢；v. 筑巢              |
+| slot         | `/slɑːt/          | n. 缝隙；v. 插入             |
+| **boost**    | `/buːst/`         | v. 提升；促进<br>n. 推动       |
+| warehouse    | `/ˈwɛrˌhaʊs/      | n. 仓库                   |
+| roast        | `/roʊst/          | v. 烘烤；n. 烤肉             |
+| construction | `/kənˈstrʌkʃən/   | n. 建设；建筑                |
+| anarchy      | `/ˈænərki/        | n. 无政府状态                |
+| permanent    | `/ˈpɜrmənənt/     | adj. 永久的                |
+| rope         | `/roʊp/           | n. 绳；v. 捆绑              |
+| delusion     | `/dɪˈluʒən/       | n. 错觉；幻想                |
+| delusional   | `/dɪˈluʒənl/      | adj. 妄想的                |
+| flash        | `/flæʃ/           | v. 闪光；n. 闪光             |
+| douche       | `/duʃ/            | n. 灌肠；洗涤                |
+| miserable    | `/ˈmɪzərəbəl/     | adj. 痛苦的；悲惨的            |
+| settled      | `/ˈsɛtld/         | adj. 稳定的；已解决的           |
+| way off      | `/weɪ ˈɔf/        | adj. 远离的                |
+| beneath      | `/bɪˈniθ/         | prep. 在...之下            |
+| trance       | `/træns/          | n. 恍惚；出神                |
+
+以下是你提供的单词翻译，遵循简洁性与全面性的平衡原则，并参考了 LDOCE：
+
+| 单词              | 美式发音           | 词性 + 汉语释义                        |
+|-------------------|--------------------|-----------------------------------------|
+| flesh             | `/flɛʃ/`           | n. 肉；果肉                             |
+| peanut            | `/ˈpinʌt/`         | n. 花生                                 |
+| container         | `/kənˈteɪnər/`     | n. 容器；集装箱                         |
+| suitcase          | `/ˈsutˌkeɪs/`      | n. 手提箱                               |
+| nest              | `/nɛst/`           | n. 巢；窝<br>v. 筑巢                    |
+| slot              | `/slɑt/`           | n. 狭缝；时段                           |
+| boost             | `/bust/`           | v. 增强；推动<br>n. 增强；推动          |
+| warehouse         | `/ˈwɛrˌhaʊs/`      | n. 仓库                                 |
+| roast             | `/roʊst/`          | v. 烤；炙<br>n. 烤肉                    |
+| construction      | `/kənˈstrʌkʃən/`   | n. 建造；建筑物                         |
+| anarchy           | `/ˈænərki/`        | n. 无政府状态；混乱                     |
+| permanent         | `/ˈpɜrmənənt/`     | adj. 永久的                             |
+| rope              | `/roʊp/`           | n. 绳索<br>v. 用绳索捆绑                |
+| delusion          | `/dɪˈluʒən/`       | n. 幻觉；错觉                           |
+| delusional        | `/dɪˈluʒənəl/`     | adj. 幻觉的；妄想的                     |
+| flash             | `/flæʃ/`           | v. 闪光；快速移动<br>n. 闪光           |
+| douche            | `/duʃ/`            | n. 冲洗器<br>v. 冲洗                    |
+| miserable         | `/ˈmɪzərəbəl/`     | adj. 悲惨的；痛苦的                     |
+| settled           | `/ˈsɛtəld/`        | adj. 稳定的；定居的                     |
+| way off           | `/weɪ ɔf/`         | 短语. 遥远；偏离                        |
+| beneath           | `/bɪˈniθ/`         | prep. 在...之下<br>adv. 在下面          |
+| trance            | `/træns/`          | n. 恍惚；出神                           |
 
 
 
 
+### ------ ------ ------ 以下已编辑 ------ ------ ------
 
-### ------ ------ ------ 笔记编辑线 ------ ------ ------
-### ------ ------ ------ 笔记编辑线 ------ ------ ------
-### ------ ------ ------ 笔记编辑线 ------ ------ ------
+
 
 
 
@@ -4420,11 +4501,6 @@ Edit: 2024.08.31, 2024.09.01
 | muse         | `/mjuːz/`                | v. 沉思<br>n. 灵感；缪斯女神                |
 | project      | `/ˈprɑːdʒekt/`(n.)<br>`/prəˈdʒekt/`(v.) | n. 项目；计划<br>v. 计划；投射             |
 
-
-
-
-
-### ------ ------ ------ 以下已编辑 ------ ------ ------
 
 
 
