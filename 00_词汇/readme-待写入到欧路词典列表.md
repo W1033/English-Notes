@@ -2,6 +2,31 @@
 
 
 
+| 单词             | 美式发音              | 词性 + 汉语释义                     |
+|----------------|-------------------|-------------------------------|
+| base           | `/beɪs/`          | n. 基础；底部；基地<br>v. 以... 为基础    |
+| based          | `/beɪst/`         | adj. 以...为基础的                 |
+| cheque         | `/tʃek/`          | n. 支票 （英式英语）                  |
+| chequebook     | `/ˈtʃekbʊk/`      | n. 支票簿（英式英语）                  |
+| checkbook      | `/ˈtʃekbʊk/`      | n. 支票簿（美式英语）                  |
+| brainstorm     | `/ˈbreɪnstɔrm/`   | n. 头脑风暴<br>v. 集思广益            |
+| brainstorming  | `/ˈbreɪnstɔrmɪŋ/` | n. 头脑风暴                       |
+| lurk           | `/lɜːrk/`         | v. 潜伏；潜藏                      |
+| mope           | `/moʊp/`          | v. 闷闷不乐                       |
+| hesitate       | `/ˈhezɪteɪt/`     | v. 犹豫                         |
+| attorney       | `/əˈtɜːrni/`      | n. 律师                         |
+| fasten         | `/ˈfæsən/`        | v. 系紧；固定                      |
+| seat           | `/siːt/`          | n. 座位<br>v. 使就座               |
+| sign           | `/saɪn/`          | n. 标志；符号<br>v. 签名；签约          |
+| jacket         | `/ˈdʒækɪt/`       | n. 夹克；外套                      |
+| mischievous    | `/ˈmɪstʃəvəs/`    | adj. 淘气的；恶作剧的                 |
+| hitch          | `/hɪtʃ/`          | v. 搭便车<br>n. 〔短暂的〕障碍          |
+| utopia         | `/juːˈtoʊpiə/`    | n. 乌托邦〔想象中的完美世界〕              |
+| utopian        | `/juːˈtoʊpiən/`   | adj. 乌托邦的；理想化的                |
+| forward        | `/ˈfɔːrwərd/`     | adv. 向前地<br>adj. 向前的<br>v. 转发 |
+| government     | `/ˈɡʌvərnmənt/`   | n. 政府                         |
+| blip           | `/blɪp/`          | n. 短暂的波动；〔电子仪器屏幕上的〕光点         |
+| suburb         | `/ˈsʌbɜːrb/`      | n. 郊区                         |
 
 
 
@@ -9,14 +34,22 @@
 
 
 
-
-
-
-
-
-
-
-
+philosophy, `/fəˈlɑːsəfi/`<br/><br/> n. 哲学；人生观<br><br> 辅助记忆：来自希腊语“philosophia”，philo- 表示“爱”，-sophy 表示“智慧”，合起来就是“爱智慧”，即哲学。
+philosophical, `/ˌfɪləˈsɑːfɪkəl/`<br/><br/> adj. 哲学的；豁达的<br><br> 辅助记忆：由 “philosophy” 派生，添加 -ical 表示形容词，指与哲学相关的。          
+psyche, `/ˈsaɪki/`<br/><br/> n. 心智；灵魂<br><br> 辅助记忆：源自希腊语“psyche”，意为“灵魂”或“心智”，常用于描述人类心灵。               
+psychic, `/ˈsaɪkɪk/`<br/><br/> adj. 心灵的；通灵的<br><br>n. 通灵者 <br><br> 辅助记忆：源自 “psyche”，-ic 表示形容词，指心灵的，或能感知心灵的能力（如灵媒）。         
+psychiatrist, `/saɪˈkaɪətrɪst/`<br/><br/> n. 精神病医生；精神科医师<br><br> 辅助记忆：来自 “psyche” 和 “-iatrist”（治疗），即“治疗心灵的人”，即精神科医生。     
+psychiatric, `/ˌsaɪkiˈætrɪk/`<br/><br/> adj. 精神病的；精神科的<br><br> 辅助记忆：源自 “psychiatry”，表示与精神病或精神科相关的。                     
+psycho, `/ˈsaɪkoʊ/`<br/><br/> n. 精神病患者<br><br> 辅助记忆：简写形式的 “psychopath”，通常指精神病患者。                       
+psychopath, `/ˈsaɪkəpæθ/`<br/><br/> n. 精神病患者<br><br> 辅助记忆：                                                   
+psychology, `/saɪˈkɑːlədʒi/`<br/><br/> n. 心理学<br><br> 辅助记忆：源自 “psyche” 和 “-logy”（学科），即“研究心灵的学科”，即心理学。         
+psychologist, `/saɪˈkɑːlədʒɪst/`<br/><br/> n. 心理学家<br><br> 辅助记忆：来自 “psychology” 和 “-ist”（从事某学科的人），即从事心理学的人。        
+psychotherapy, `/ˌsaɪkoʊˈθerəpi/`<br/><br/> n. 心理治疗<br><br> 辅助记忆：                                                   
+psychotherapist, `/ˌsaɪkoʊˈθerəpɪst/`<br/><br/> n. 心理治疗师<br><br> 辅助记忆：由 “psyche”和“therapist”（治疗师）组合而成，表示“治疗心灵的人”。        
+physical, `/ˈfɪzɪkəl/`<br/><br/> adj. 身体的；物理的<br><br> 辅助记忆：源自拉丁语“physica”，表示“自然的”或“身体的”，与“物理”相关。              
+physician, `/fɪˈzɪʃən/`<br/><br/> n. 医生；（尤指）内科医生<br><br> 辅助记忆：源自“physical”，原意是“研究身体的人”，即医生。                      
+physiology, `/ˌfɪziˈɑːlədʒi/`<br/><br/> n. 生理学<br><br> 辅助记忆：源自 “physio-”（自然的或身体的）和 “-logy”（学科），即研究身体功能的学科。     
+physiological, `/ˌfɪziəˈlɑːdʒɪkəl/`<br/><br/> adj. 生理的<br><br> 辅助记忆：由 “physiology” 派生，添加 -ical 表示形容词，指与生理相关的。          
 learner, `/ˈlɜːrnər/`<br/><br/> n. 学习者；初学者                  
 criticism, `/ˈkrɪtɪsɪzəm/`<br/><br/> n. 批评；评论                    
 tactful, `/ˈtæktfəl/`<br/><br/> adj. 机智的；圆滑的                
@@ -79,7 +112,7 @@ distraction, `/dɪˈstrækʃən/`<br/><br/> n. 分心；干扰
 fraud, `/frɒːd/`<br/><br/> n. 欺诈；欺骗                    
 bagel, `/ˈbeɪɡəl/`<br/><br/> n. 贝果；百吉饼（面包圈）              
 blow, `/bloʊ/`<br/><br/> v. 吹；打击<br><br>n. 吹；打击          
-| bloaway, `/bloʊ əˈweɪ<br/><br/>        | v. 吹走；使大为惊讶                 
+blow away, `/bloʊ əˈweɪ/`<br/><br/> v. 吹走；使大为惊讶                 
 dynasty, `/ˈdaɪnəsti/`<br/><br/> n. 朝代；王朝                    
 fascinate, `/ˈfæsəneɪt/`<br/><br/> v. 使着迷；吸引                   
 fascinating, `/ˈfæsɪneɪtɪŋ/`<br/><br/> adj. 迷人的；有趣的                

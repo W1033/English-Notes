@@ -19,6 +19,89 @@ Translator: ChatGPT 4o
 ## ▲ 待编辑生词
 
 
+### Add: 2024.09.02
+
+#### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 星座名称            | 美式发音           | 词性 + 汉语释义        |
+|-------------------|--------------------|------------------|
+| Aries             | `/ˈɛriz/`          | n. 白羊座           |
+| Taurus            | `/ˈtɔrəs/`         | n. 金牛座           |
+| Gemini            | `/ˈdʒɛmɪˌnaɪ/`     | n. 双子座           |
+| Cancer            | `/ˈkænsər/`        | n. 巨蟹座           |
+| Leo               | `/ˈlioʊ/`          | n. 狮子座           |
+| Virgo             | `/ˈvɜrɡoʊ/`        | n. 处女座           |
+| Libra             | `/ˈliːbrə/`        | n. 天秤座           |
+| Scorpio           | `/ˈskɔrpiˌoʊ/`     | n. 天蝎座           |
+| Sagittarius       | `/ˌsædʒɪˈtɛriəs/`  | n. 射手座           |
+| Capricorn         | `/ˈkæprɪˌkɔrn/`    | n. 摩羯座           |
+| Aquarius          | `/əˈkwɛriəs/`      | n. 水瓶座           |
+| Pisces            | `/ˈpaɪˌsiz/`       | n. 双鱼座           |
+
+
+#### Second Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词           | 美式发音           | 词性 + 汉语释义                   |
+|----------------|--------------------|---------------------------------|
+| woodwork       | `/ˈwʊdwɜrk/`       | n. 木工活；木制品                  |
+| analogy        | `/əˈnælədʒi/`      | n. 类比；比拟                    |
+| forecast       | `/ˈfɔrkæst/`       | n. 预测；预报<br>v. 预测；预报        |
+| retrospect     | `/ˈrɛtrəˌspɛkt/`   | n. 回顾；追溯                    |
+| hindsight      | `/ˈhaɪndˌsaɪt/`    | n. 事后聪明；后见之明                |
+| tackle         | `/ˈtækəl/`         | v. 处理；应对<br>n. 用具；阻截        |
+| initial        | `/ɪˈnɪʃəl/`        | adj. 最初的；开始的<br>n. 首字母      |
+| derive         | `/dɪˈraɪv/`        | v. 起源于；获得                   |
+| snitch         | `/snɪtʃ/`          | v. 告密<br>n. 告密者             |
+| traditional    | `/trəˈdɪʃənəl/`    | adj. 传统的                      |
+| accountant     | `/əˈkaʊntənt/`     | n. 会计师                        |
+| vile           | `/vaɪl/`           | adj. 卑鄙的；恶劣的                |
+| despicable     | `/dɪˈspɪkəbl/`     | adj. 可鄙的；卑劣的                |
+| depraved       | `/dɪˈpreɪvd/`      | adj. 堕落的；腐化的                |
+| figure         | `/ˈfɪɡjər/`        | n. 数字；人物<br>v. 认为；计算        |
+| obsequies      | `/ˈɑbsɪkwiz/`      | n. 葬礼（常用复数）                 |
+| stardust       | `/ˈstɑrdʌst/`      | n. 星尘；梦幻般的感觉                |
+| drug           | `/drʌɡ/`           | n. 药物；毒品<br>v. 使服药          |
+| druggy         | `/ˈdrʌɡi/`         | n. 吸毒者；瘾君子（同druggie）        |
+| druggie        | `/ˈdrʌɡi/`         | n. 吸毒者；瘾君子                  |
+
+
+#### Third Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词              | 美式发音                 | 词性 + 汉语释义             |
+|-----------------|----------------------|-----------------------|
+| radar           | `/ˈreɪˌdɑr/`         | n. 雷达                 |
+| intact          | `/ɪnˈtækt/`          | adj. 完好无损的            |
+| overdose        | `/ˈoʊvərˌdoʊs/`      | n. 过量用药；药物过量<br>v. 用药过量 |
+| alleyway        | `/ˈæliˌweɪ/`         | n. 小巷；巷道              |
+| tempo           | `/ˈtɛmpoʊ/`          | n. 速度；节奏              |
+| sense           | `/sɛns/`             | n. 感觉；意义<br>v. 感觉到；意识到 |
+| narcissism      | `/ˈnɑrsɪˌsɪzəm/`     | n. 自恋                 |
+| skiing          | `/ˈskiːɪŋ/`          | n. 滑雪         ✅       |
+| skating         | `/ˈskeɪtɪŋ/`         | n. 滑冰         ✅        |
+| comic           | `/ˈkɑmɪk/`           | adj. 滑稽的；喜剧的<br>n. 连环漫画；喜剧演员 |
+| amusing         | `/əˈmjuzɪŋ/`         | adj. 有趣的；好笑的          |
+| antonym         | `/ˈæntəˌnɪm/`        | n. 反义词                |
+| analytical      | `/ˌænəˈlɪtɪkəl/`     | adj. 分析的；善于分析的        |
+| prolific        | `/prəˈlɪfɪk/`        | adj. 多产的；富饶的          |
+| correspondent   | `/ˌkɔrəˈspɑndənt/`   | n. 记者；通讯员             |
+| controversial   | `/ˌkɑntrəˈvɜrʃəl/`   | adj. 有争议的             |
+
+
+
+
+
 ### Add: 2024.08.31
 
 #### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
@@ -30,7 +113,7 @@ Translator: ChatGPT 4o
 | 单词      | 美式发音         | 词性 + 汉语释义                                      |
 |-----------|------------------|------------------------------------------------------|
 | positive  | `/ˈpɑːzətɪv/`    | adj. 积极的；肯定的                                  |
-| opposite  | `/ˈɑːpəzɪt/`     | adj. 相反的<br>n. 对立面；反义词<br>prep. 在...对面 |
+| opposite  | `/ˈɑːpəzɪt/`     | adj. 相反的<br>n. 对立面；反义词<br>prep. 在...对面 ✅ |
 | thein     | `/ˈθeɪn/`        | n. 贵族；领主                                        |
 | Orion     | `/əˈraɪən/`      | n. 猎户座                                            |
 | puma      | `/ˈpjuːmə/`      | n. 美洲狮                                            |
@@ -334,7 +417,6 @@ Translator: ChatGPT 4o
 | interactive    | `/ˌɪntəˈræktɪv/`  | adj. 互动的；相互作用的                               |
 | baron          | `/ˈbærən/`         | n. 男爵                                               |
 | pearl          | `/pɜrl/`           | n. 珍珠                                               |
-| philosophical  | `/ˌfɪləsəˈfɪkəl/` | adj. 哲学的；豁达的                                   |
 | punk           | `/pʌŋk/`           | n. 朋克；小流氓<br>adj. 朋克风格的                     |
 | content        | `/ˈkɑntɛnt/`       | n. 内容；满足<br>adj. 满意的<br>v. 使满足              |
 | astern         | `/əˈstɜrn/`        | adv. 在船尾；向后                                      |
@@ -1399,7 +1481,6 @@ Translator: ChatGPT 4o
 | autonomous     | `/ɔˈtɑnəməs/`               | adj. 自治的；自主的                      |
 | vehicle        | `/ˈviɪkəl/`                 | n. 车辆；工具                            |
 | expel          | `/ɪkˈspɛl/`                 | v. 驱逐；排出                            |
-| philosophical  | `/ˌfɪləˈsɑfɪkl/`            | adj. 哲学的；达观的                      |
 | cease          | `/sis/`                     | v. 停止；终止<br>n. 停止                |
 | obscene        | `/əbˈsin/`                  | adj. 猥亵的；令人厌恶的                  |
 | emit           | `/ɪˈmɪt/`                   | v. 发出；放射                            |
@@ -1796,7 +1877,6 @@ Translator: ChatGPT 4o
 | petty         | `/ˈpɛti/`            | adj. 琐碎的；小气的                    |
 | damnation     | `/dæmˈneɪʃən/`       | n. 诅咒                          |
 | carving       | `/ˈkɑrvɪŋ/`         | n. 雕刻                    |
-| psychic       | `/ˈsaɪkɪk/`         | adj. 心灵的<br>n. 灵媒       |
 | gravitational | `/ˌɡrævɪˈteɪʃənəl/`  | adj. 重力的                |
 | obtain        | `/əbˈteɪn/`          | v. 获得                    |
 | foul          | `/faʊl/`             | adj. 恶臭的；污秽的<br>n. 犯规<br>v. 犯规；弄脏 |
@@ -2927,6 +3007,7 @@ Translator: ChatGPT 4o
 | stone       | `/stoʊn/`         | n. 石头；宝石<br>v. 向...投石头 |
 | stoned      | `/stoʊnd/`        | adj. 磕了药的；醉酒的          |
 | amuse       | `/əˈmjuz/`        | v. 娱乐；使发笑              |
+| amusing     |                   |              |
 | fiery       | `/ˈfaɪəri/`       | adj. 火的；热烈的            |
 | sentence    | `/ˈsɛntəns/`      | n. 句子；判决<br>v. 宣判      |
 | ahold       | `/əˈhoʊld/`       | n. 抓住                  |
@@ -3409,7 +3490,6 @@ Translator: ChatGPT 4o
 | musk          | `/mʌsk/`         | n. 麝香                  |
 | ethos         | `/ˈiːθɑs/`       | n. 精神；气质               |
 | ethics        | `/ˈɛθɪks/`       | n. 伦理学；道德规范            |
-| psyche        | `/ˈsaɪki/`       | n. 心灵；精神               |
 | martyr        | `/ˈmɑrtər/`      | n. 烈士；殉道者<br>v. 使殉难    |
 | apoptosis     | `/ˌeɪpəˈtoʊsɪs/` | n. 细胞凋亡                |
 | giver        | `/ˈɡɪvər/`       | n. 赠送者；给予者          |
@@ -3563,7 +3643,6 @@ Translator: ChatGPT 4o
 | implementation | `/ˌɪmplɪmənˈteɪʃən/` | n. 实施；执行               |
 | curfew         | `/ˈkɜrfju/`          | n. 宵禁；戒严               |
 | distinguish    | `/dɪˈstɪŋɡwɪʃ/`      | v. 区分；辨别               |
-| psychiatric    | `/ˌsaɪkiˈætrɪk/`     | adj. 精神病的；精神科的         |
 | dentist        | `/ˈdɛntɪst/`         | n. 牙医                  |
 | ransom         | `/ˈrænsəm/`          | n. 赎金<br>v. 赎回         |
 | gnarly         | `/ˈnɑrli/`           | adj. 扭曲的；极好的           |
@@ -4256,7 +4335,41 @@ Translator: ChatGPT 4o
 
 ### Added: 2024.04.25
 
-#### First Table - 已校对 - ~~已写入：GoodNotes~~
+#### First Table - 已校对 - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词              | 美式发音                 | 词性 + 汉语释义       | 记忆讲解                                                |
+|-----------------|----------------------|-----------------|-----------------------------------------------------|
+| philosophy      | `/fəˈlɑːsəfi/`       | n. 哲学；人生观       | 来自希腊语“philosophia”，philo- 表示“爱”，-sophy 表示“智慧”，合起来就是“爱智慧”，即哲学。 |
+| philosophical   | `/ˌfɪləˈsɑːfɪkəl/`   | adj. 哲学的；豁达的    | 由 “philosophy” 派生，添加 -ical 表示形容词，指与哲学相关的。           |
+| -               |                      |                 |                                                     |
+| psyche          | `/ˈsaɪki/`           | n. 心智；灵魂        | 源自希腊语“psyche”，意为“灵魂”或“心智”，常用于描述人类心灵。                |
+| psychic         | `/ˈsaɪkɪk/`          | adj. 心灵的；通灵的<br>n. 通灵者 | 源自 “psyche”，-ic 表示形容词，指心灵的，或能感知心灵的能力（如灵媒）。          |
+| -               |                      |                 |                                                     |
+| psychiatrist    | `/saɪˈkaɪətrɪst/`    | n. 精神病医生；精神科医师  | 来自 “psyche” 和 “-iatrist”（治疗），即“治疗心灵的人”，即精神科医生。      |
+| psychiatric     | `/ˌsaɪkiˈætrɪk/`     | adj. 精神病的；精神科的  | 源自 “psychiatry”，表示与精神病或精神科相关的。                      |
+| -               |                      |                 |                                                     |
+| psycho          | `/ˈsaɪkoʊ/`          | n. 精神病患者        | 简写形式的 “psychopath”，通常指精神病患者。                        |
+| psychopath      | `/ˈsaɪkəpæθ/`        | n. 精神病患者        |                                                     |
+| -               |                      |                 |                                                     |
+| psychology      | `/saɪˈkɑːlədʒi/`     | n. 心理学          | 源自 “psyche” 和 “-logy”（学科），即“研究心灵的学科”，即心理学。          |
+| psychologist    | `/saɪˈkɑːlədʒɪst/`   | n. 心理学家         | 来自 “psychology” 和 “-ist”（从事某学科的人），即从事心理学的人。         |
+| -               |                      |                 |                                                     |
+| psychotherapy   | `/ˌsaɪkoʊˈθerəpi/`   | n. 心理治疗         |                                                     |
+| psychotherapist | `/ˌsaɪkoʊˈθerəpɪst/` | n. 心理治疗师        | 由 “psyche”和“therapist”（治疗师）组合而成，表示“治疗心灵的人”。         |
+| -               |                      |                 |                                                     |
+| physical        | `/ˈfɪzɪkəl/`         | adj. 身体的；物理的    | 源自拉丁语“physica”，表示“自然的”或“身体的”，与“物理”相关。               |
+| -               |                      |                 |                                                     |
+| physician       | `/fɪˈzɪʃən/`         | n. 医生；（尤指）内科医生  | 源自“physical”，原意是“研究身体的人”，即医生。                       |
+| -               |                      |                 |                                                     |
+| physiology      | `/ˌfɪziˈɑːlədʒi/`    | n. 生理学          | 源自 “physio-”（自然的或身体的）和 “-logy”（学科），即研究身体功能的学科。      |
+| physiological   | `/ˌfɪziəˈlɑːdʒɪkəl/` | adj. 生理的        | 由 “physiology” 派生，添加 -ical 表示形容词，指与生理相关的。           |
+
+
+#### Second Table - 已校对 - ~~已写入：GoodNotes~~
 
 Translator: ChatGPT 4o
 
@@ -4264,108 +4377,83 @@ Edit: 2024.09.01、02
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词            | 美式发音               | 词性 + 汉语释义                     |
-|---------------|--------------------|-------------------------------|
-| sign          | `/saɪn/`           | n. 标志；符号<br>v. 签署；做手势         |
-| jacket        | `/ˈdʒækɪt/`        | n. 夹克；书套                      |
-| mischievous   | `/ˈmɪstʃəvəs/`     | adj. 淘气的；（行为，事情）有害的           |
-| hitch         | `/hɪtʃ/`           | v. 搭便车；拴住<br>n. 故障；钩          |
-| forward       | `/ˈfɔːrwərd/`      | adv. 向前地<br>adj. 向前的<br>v. 转发 |
-| government    | `/ˈɡʌvərnmənt/`    | n. 政府；治理                      |
-| blip          | `/blɪp/            | n. 短暂现象            |
+| 单词             | 美式发音              | 词性 + 汉语释义                     |
+|----------------|-------------------|-------------------------------|
+| base           | `/beɪs/`          | n. 基础；底部；基地<br>v. 以... 为基础    |
+| based          | `/beɪst/`         | adj. 以...为基础的                 |
+| cheque         | `/tʃek/`          | n. 支票 （英式英语）                  |
+| chequebook     | `/ˈtʃekbʊk/`      | n. 支票簿（英式英语）                  |
+| checkbook      | `/ˈtʃekbʊk/`      | n. 支票簿（美式英语）                  |
+| brainstorm     | `/ˈbreɪnstɔrm/`   | n. 头脑风暴<br>v. 集思广益            |
+| brainstorming  | `/ˈbreɪnstɔrmɪŋ/` | n. 头脑风暴                       |
+| lurk           | `/lɜːrk/`         | v. 潜伏；潜藏                      |
+| mope           | `/moʊp/`          | v. 闷闷不乐                       |
+| hesitate       | `/ˈhezɪteɪt/`     | v. 犹豫                         |
+| attorney       | `/əˈtɜːrni/`      | n. 律师                         |
+| fasten         | `/ˈfæsən/`        | v. 系紧；固定                      |
+| seat           | `/siːt/`          | n. 座位<br>v. 使就座               |
+| sign           | `/saɪn/`          | n. 标志；符号<br>v. 签名；签约          |
+| jacket         | `/ˈdʒækɪt/`       | n. 夹克；外套                      |
+| mischievous    | `/ˈmɪstʃəvəs/`    | adj. 淘气的；恶作剧的                 |
+| hitch          | `/hɪtʃ/`          | v. 搭便车<br>n. 〔短暂的〕障碍          |
+| utopia         | `/juːˈtoʊpiə/`    | n. 乌托邦〔想象中的完美世界〕              |
+| utopian        | `/juːˈtoʊpiən/`   | adj. 乌托邦的；理想化的                |
+| forward        | `/ˈfɔːrwərd/`     | adv. 向前地<br>adj. 向前的<br>v. 转发 |
+| government     | `/ˈɡʌvərnmənt/`   | n. 政府                         |
+| blip           | `/blɪp/`          | n. 短暂的波动；〔电子仪器屏幕上的〕光点         |
+| suburb         | `/ˈsʌbɜːrb/`      | n. 郊区                         |
 
 
-以下是你提供的单词的翻译，遵循简洁性与全面性的平衡原则，并参考了 LDOCE：
-
-| 单词              | 美式发音            | 词性 + 汉语释义                |
-|-----------------|-----------------|--------------------------|
-| base            | `/beɪs/`        | n. 基础；基地<br>v. 以... 为基础  |
-| based           | `/beɪst/`       | adj. 以...为基础的            |
-| cheque          | `/tʃek/`        | n. 支票                |
-| chequebook      | `/ˈtʃekbʊk/`    | n. 支票簿（英式英语）             |
-| checkbook       | `/ˈtʃekbʊk/`    | n. 支票簿（美式英语）             |
-| brainstorm      | `/ˈbreɪnˌstɔrm/` | n. 头脑风暴<br>v. 集思广益       |
-| brainstorming   | `/ˈbreɪnˌstɔrmɪŋ/` | n. 头脑风暴                  |
-| lurk            | `/lɜːrk/`        | v. 潜伏；潜藏                 |
-| mope            | `/moʊp/`        | v. 闷闷不乐                  |
-| hesitate        | `/ˈhezɪteɪt/`   | v. 犹豫                    |
-| attorney        | `/əˈtɜːrni/`     | n. 律师                    |
-| fasten          | `/ˈfæsən/`      | v. 系紧；固定                 |
-
-| seat            | `/siːt/`        | n. 座位<br>v. 使就座          |
-| sign            | `/saɪn/`        | n. 标志；符号<br>v. 签名        |
-| jacket          | `/ˈdʒækɪt/`     | n. 夹克；外套                 |
-| mischievous     | `/ˈmɪstʃɪvəs/`  | adj. 淘气的；恶作剧的            |
-| hitch           | `/hɪtʃ/`        | n. 障碍<br>v. 搭便车          |
-| utopian         | `/juːˈtoʊpiən/` | adj. 乌托邦的；理想化的           |
-| forward         | `/ˈfɔrwərd/`    | adv. 向前<br>v. 转发<br>adj. 前面的 |
-| government      | `/ˈɡʌvərnmənt/` | n. 政府                    |
-| seat            | `/siːt/`        | n. 座位<br>v. 使就座          |
-| blip            | `/blɪp/`        | n. 短暂的波动；光点              |
-| suburb          | `/ˈsʌbɜrb/`     | n. 郊区                    |
-
-
-#### Second Table - ~~已校对~~ - ~~已写入：GoodNotes~~
+#### Third Table - 已校对 - ~~已写入：GoodNotes~~
 
 Translator: ChatGPT 4o
 
-Edit: 2024.09.01、02
+Edit: 2024.09.02
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词               | 美式发音         | 词性 + 汉语释义                |
 |------------------|------------------|--------------------------|
-| motivation       | `/ˌmoʊtəˈveɪʃən/` | n. 动机；激励                 |
-| vary             | `/ˈvɛri/`        | v. 变化；不同                 |
 | very             | `/ˈvɛri/`        | adv. 非常；很                |
-| occasional       | `/əˈkeɪʒənəl/`   | adj. 偶尔的                 |
-| involve          | `/ɪnˈvɑlv/`      | v. 包含；涉及                 |
-| certain          | `/ˈsɜrtən/`      | adj. 确定的；某些的             |
 | integration      | `/ˌɪntəˈɡreɪʃən/` | n. 融合；整合                 |
-| catch up on      | `/kætʃ ʌp ɑn/`   | 短语. 补上；赶上                |
 | accessible       | `/əkˈsɛsəbəl/`   | adj. 可进入的；易接近的           |
 | accessibility    | `/əkˌsɛsəˈbɪlɪti/` | n. 无障碍；易接近               |
-| infuse           | `/ɪnˈfjuz/`      | v. 注入；灌输                 |
-| massive          | `/ˈmæsɪv/`       | adj. 巨大的                 |
 | mass             | `/mæs/`          | n. 质量；大量；群众<br>adj. 大规模的 |
-| violence         | `/ˈvaɪələns/`    | n. 暴力                    |
 | constrictor      | `/kənˈstrɪktər/` | n. 大蟒；压缩物                |
 | scratch          | `/skrætʃ/`        | v. 抓，挠<br>n. 划痕，抓痕     |
 | site             | `/saɪt/`          | n. 地点，场所<br>v. 选址      |
-| Columbus         | `/kəˈlʌmbəs/`     | n. 哥伦布（人名）             |
-| Columbia         | `/kəˈlʌmbiə/`     | n. 哥伦比亚（地名）            |
-| halo             | `/ˈheɪloʊ/`       | n. 光环，晕圈               |
 | flash            | `/flæʃ/`          | v. 闪光，闪烁<br>n. 闪光      |
 
 以下是你提供的单词翻译，遵循简洁性与全面性的平衡原则，并参考了 LDOCE：
 
-| 单词              | 美式发音           | 词性 + 汉语释义                        |
-|-------------------|--------------------|-----------------------------------------|
-| motivation        | `/ˌmoʊtɪˈveɪʃən/` | n. 动机；动力                           |
-| vary              | `/ˈvɛri/`          | v. 变化；不同                           |
-| very              | `/ˈvɛri/`          | adv. 非常；极其<br>adj. 恰好的         |
-| occasional        | `/əˈkeɪʒənəl/`     | adj. 偶尔的                             |
-| involve           | `/ɪnˈvɑlv/`        | v. 包含；涉及                           |
-| certain           | `/ˈsɜrtən/`        | adj. 确定的；某些                       |
-| integration       | `/ˌɪntɪˈɡreɪʃən/` | n. 集成；融合                           |
-| catch up on       | `/kætʃ ʌp ɑn/`     | 短语. 补上；赶上                        |
-| accessible        | `/əkˈsɛsɪbəl/`     | adj. 可接近的；可获得的                 |
-| accessibility     | `/əkˌsɛsəˈbɪlɪti/` | n. 可接近性；无障碍                     |
-| infuse            | `/ɪnˈfjuz/`        | v. 注入；灌输                           |
-| massive           | `/ˈmæsɪv/`         | adj. 巨大的；大量的                     |
-| mass              | `/mæs/`            | n. 大量；块<br>adj. 大规模的            |
-| violence          | `/ˈvaɪələns/`      | n. 暴力                                 |
-| constrictor       | `/kənˈstrɪktər/`   | n. 大蟒；使压缩之物                     |
-| scratch           | `/skrætʃ/`         | v. 抓；划伤<br>n. 抓痕；划伤           |
-| site              | `/saɪt/`           | n. 地点；网站                           |
-| Columbus          | `/kəˈlʌmbəs/`      | n. 哥伦布（探险家）                     |
-| Columbia          | `/kəˈlʌmbiə/`      | n. 哥伦比亚（国家名或地名）             |
-| halo              | `/ˈheɪloʊ/`        | n. 光环；晕圈                           |
-| flash             | `/flæʃ/`           | v. 闪光；快速移动<br>n. 闪光           |
+| 单词            | 美式发音                | 词性 + 汉语释义              |
+|---------------|---------------------|------------------------|
+| motivation    | `/ˌmoʊtəˈveɪʃən/`   | n. 动机；动力               |
+| vary          | `/ˈvɛri/`           | v. 变化；不同               |
+
+| very          | `/ˈvɛri/`           | adv. 非常；极其<br>adj. 恰好的 |
+| occasional    | `/əˈkeɪʒənəl/`      | adj. 偶尔的               |
+| involve       | `/ɪnˈvɑlv/`         | v. 包含；涉及               |
+| certain       | `/ˈsɜrtən/`         | adj. 确定的；某些            |
+| integration   | `/ˌɪntɪˈɡreɪʃən/`   | n. 集成；融合               |
+| catch up on   | `/kætʃ ʌp ɑn/`      | 短语. 补上；赶上              |
+| accessible    | `/əkˈsɛsɪbəl/`      | adj. 可接近的；可获得的         |
+| accessibility | `/əkˌsɛsəˈbɪlɪti/`  | n. 可接近性；无障碍            |
+| infuse        | `/ɪnˈfjuz/`         | v. 注入；灌输               |
+| massive       | `/ˈmæsɪv/`          | adj. 巨大的；大量的           |
+| mass          | `/mæs/`             | n. 大量；块，团<br>adj. 大规模的 ✅ |
+| violence      | `/ˈvaɪələns/`       | n. 暴力                  |
+| constrictor   | `/kənˈstrɪktər/`    | n. 大蟒；使压缩之物            |
+| scratch       | `/skrætʃ/`          | v. 抓，挠<br>n. 抓痕；划痕 ✅     |
+| site          | `/saɪt/`            | n. 地点；网站               |
+| Columbus      | `/kəˈlʌmbəs/`       | n. 哥伦布（探险家）            |
+| Columbia      | `/kəˈlʌmbiə/`       | n. 哥伦比亚（国家名或地名）        |
+| halo          | `/ˈheɪloʊ/`         | n. 光环；晕圈               |
+| flash         | `/flæʃ/`            | v. 闪光；快速移动<br>n. 闪光    |
+| therapist     | `/ˈθɛrəpɪst/`       | n. 治疗师                 |
 
 
-
-#### Third Table - ~~已校对~~ - ~~已写入：GoodNotes~~
+#### Fourth Table - ~~已校对~~ - ~~已写入：GoodNotes~~
 
 Translator: ChatGPT 4o
 
@@ -4639,8 +4727,6 @@ Edit: 2024.08.27
 | sideway         | `/ˈsaɪdweɪ/`     | n. 人行道；侧面              |
 | contact         | `/ˈkɑːntækt/`     | n. 接触；联系<br>v. 接触；联系   |
 | committee       | `/kəˈmɪti/`      | n. 委员会                 |
-| philosophy      | `/fɪˈlɑːsəfi/`    | n. 哲学；人生观              |
-| philosophical   |                  |                  |
 | bombardment     | `/bɑmˈbɑːrdmənt/` | n. 轰炸；炮击               |
 | policy          | `/ˈpɑləsi/`      | n. 政策；方针               |
 | gingerly        | `/ˈdʒɪndʒərli/`  | adv. 小心翼翼地             |
@@ -4811,7 +4897,6 @@ Translator: ChatGPT 4 & 4o
 | hot         | `/hɑːt/`      | adj. 热的；辣的                      |
 | frequent    | `/ˈfriːkwənt/` | adj. 频繁的<br>v. 经常光顾             |
 | service     | `/ˈsɜːrvɪs/`    | n. 服务；维修<br>v. 维休；提供服务          |
-| physician   | `/fɪˈzɪʃən/`  | n. 医生；（尤指）内科医生                  |
 | amateur     | `/ˈæmətʃər/`    | n. 业余爱好者；外行<br>adj. 业余的         |
 | hum         | `/hʌm/`       | v. 哼唱；发出嗡嗡声<br>n. 嗡嗡声           |
 | spontaneous | `/spɑːnˈteɪniəs/` | adj. 自发的；自然的；本能的                |
@@ -5825,8 +5910,6 @@ Translator: ChatGPT 4
 | hawk         | `/hɔːk/`          | n. 鹰；鹰派人物 <br />v. 叫卖 | n. A hawk was circling high in the sky. <br />(一只鹰在高空盘旋。) <br />v. He hawked his paintings in the art district. <br />(他在艺术区叫卖他的画作。) |
 | avenue       | `/ˈævənuː/`       | n. 大道；途径          | The city is known for its wide avenues lined with trees. <br />(这座城市以其两旁种满树木的宽阔大道而闻名。) <br />The main avenue was lined with shops and restaurants. <br />(主大道两旁林立着商店和餐馆。)<br />Exploring new technologies provides an avenue for business growth. <br />(探索新技术为业务增长提供了一种途径。)<br/>Exploring renewable energy sources is an important avenue for environmental sustainability. <br />(探索可再生能源是实现环境可持续性的重要途径。) |
 | imprint      | `/'ɪmprɪnt/` (n.) <br />`/ɪm'prɪnt/` (v.) | n. 印记 <br />v. 印刻；铭记<br />(<i style="color:red">备注</i>) | n. The incident left a deep imprint on her psyche. <br />(这个事件在她的心灵上留下了深刻的印记。)<br />n. The artist's imprint is evident in all his works. <br />(这位艺术家的印记在他的所有作品中都很明显。)<br />v. His teachings are imprinted in my mind. <br />(他的教诲铭记在我心中。) <br />v. The tragedy imprinted sorrow on her face. <br />(那场悲剧在她的脸上留下了悲伤的印记。) |
-| psyche       | `/ˈsaɪki/`        | n. 心智；灵魂          | The experiences shaped his psyche profoundly. <br />(这些经历深刻地塑造了他的心智和灵魂。) |
-| psycho       | `/ˈsaɪkoʊ/`       | adj. 精神病的；<br />n. 精神病患者 | adj. That was a psycho behavior. <br />(那是一种精神病态的行为。) <br />n. The movie "Psycho" was directed by Alfred Hitchcock. <br />(电影《惊魂记》是由阿尔弗雷德·希区柯克导演的。) |
 | evident      | `/ˈɛvɪdənt/`      | adj. 明显的；显而易见的    | It was evident that she was unhappy. <br />(她不高兴是显而易见的。)<br />The evidence was evident to all present. <br />(在场的所有人都明显看到了证据。)<br />The damage to the building was evident even from a distance. <br />(即使从远处也能明显看到建筑的损坏。) |
 | profound     | `/prəˈfaʊnd/`     | adj. 深刻的；深远的      | She has a profound understanding of the subject. <br />(她对这个主题有深刻的理解。) |
 | vaccinate    | `/ˈvæksəneɪt/`    | v. 接种疫苗           | Many parents choose to vaccinate their children against common diseases. <br />(许多父母选择给他们的孩子接种预防常见疾病的疫苗。) |
@@ -5856,12 +5939,7 @@ Translator: ChatGPT 4
     > **在英语中，有些单词的名词形式和动词形式在音节的重读上有所不同，这种现象称为重音迁移**。
     >
     > 对于“imprint”，作为名词时重音则放在第一个音节上（'imprint），而作为动词时重音通常放在第二个音节上（im'print）。
-    
-- **psyche (n.)**：
-    - “psyche”作为名词，描述了个体的 **`心智`** 和 **`灵魂`**，涉及到一个人的思维、感情和内在精神世界。它强调了个人的内心活动和情感状态，以及这些因素如何影响一个人的行为和人格。
-- **psycho (adj. & n.)**：
-    - 作为形容词，“psycho”指的是与**`精神病`**相关的或表现出精神病特征的。
-    - 作为名词，"psycho" 指的是一位**`精神病患者`**，通常用于非正式或俚语中，描述那些行为异常或患有精神疾病的人。
+
 - **evident (adj.)**：
     - 当我们说某事是 **`明显的`** 或 **`显而易见的`**（evident），我们指的是它很容易被观察到或理解，不需要进一步的解释或证明。
 - **profound (adj.)**：
@@ -6320,8 +6398,6 @@ Translator: ChatGPT 4o
 | regulating    | `/ˈrɛɡjəleɪtɪŋ/`     | v. 调节；控制（regulate 的现在分词） | The body is constantly regulating its temperature. <br>(身体在不断调节其温度。)                              |
 | regulate      | `/ˈrɛɡjəleɪt/`       | v. 调节；控制            | The government regulates the industry to ensure safety. <br>(政府调节行业以确保安全。)                        |
 | intensify     | `/ɪnˈtɛnsəfaɪ/`      | v. 加强；加剧            | The conflict intensified after the attack. <br>(袭击后冲突加剧。)                                         |
-| physiological | `/ˌfɪziəˈlɑːdʒɪkəl/` | adj. 生理的            | Exercise has many physiological benefits. <br>(锻炼有许多生理上的好处。)                                      |
-| physiology    | `/ˌfɪziˈɑːlədʒi/`    | n. 生理学              | She is studying physiology at university. <br>(她在大学学习生理学。)                                        |
 | biochemistry  | `/ˌbaɪoʊˈkɛmɪstri/`  | n. 生物化学             | Biochemistry explores the chemical processes within living organisms. <br>(生物化学研究生物体内的化学过程。)      |
 | nausea        | `/ˈnɔːziə/`          | n. 恶心；反胃            | The medication caused nausea. <br>(药物引起了恶心。)<br>He felt a wave of nausea. <br>(他感到一阵反胃。)          |
 | fatigue       | `/fəˈtiːɡ/`          | n. 疲劳                | He was suffering from fatigue after the long journey. <br>(长途旅行后他感到疲劳。)                           |
@@ -6699,7 +6775,6 @@ Translator: ChatGPT 4o
 | medical      | `/ˈmɛdɪkəl/`       | adj. 医学的；医疗的     | She needs medical attention. <br>(她需要医疗救助。)                                                                       |
 | locality     | `/loʊˈkæləti/`     | n. 地区；位置         | The locality of the event was not disclosed. <br>(事件的地点没有透露。)                                                     |
 | calculation  | `/ˌkælkjəˈleɪʃən/` | n. 计算；估算         | The calculation was incorrect. <br>(计算错误。)                                                                        |
-| physical     | `/ˈfɪzɪkəl/`       | adj. 身体的；物理的     | Physical exercise is important for health. <br>(体育锻炼对健康很重要。)                                                      |
 | experiment   | `/ɪkˈsperəmənt/`   | n. 实验<br>v. 实验   | n. The experiment was a success. <br>(实验取得了成功。)<br>v. They experimented with different methods. <br>(他们尝试了不同的方法。) |
 | material     | `/məˈtɪriəl/`      | n. 材料；素材<br>adj. 物质的；重要的 | n. The factory produces building materials. <br>(这家工厂生产建筑材料。)<br>n. The writer gathered material for her new book. <br>(作家收集了她新书的素材。)<br>adj. They studied the material aspects of the universe. <br>(他们研究了宇宙的物质方面。)<br>adj. Her contribution was material to the project's success. <br>(她的贡献对项目的成功至关重要。) |
 

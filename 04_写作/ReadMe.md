@@ -201,12 +201,10 @@ Remember that idioms are phrases that often have a figurative meaning that may n
 
 
 
+## ▲ 翻译技巧
 
-## 翻译技巧
 (1) Every time you commit, or save the state of your project in Git.(每次你提交或将项目状态保存在 Git 中时)
 + the state of your project, 先翻译 of 后面的名词, 再加上前面的修饰: "你项目的状态".
-
-
 
 
 ------
@@ -245,7 +243,7 @@ And you're good, Tony. (而你是好人, 托尼.)
 
 
 
-## 奥斯卡・王尔德（英国作家、诗人、散文家）
+##  ▲ 奥斯卡・王尔德（英国作家、诗人、散文家）
 
 ```md
 Source: https://www.cnblogs.com/intelwisd/p/7649298.html
@@ -277,7 +275,7 @@ Edite: ChatGPT 4o
 | 16、人生因为有美，所以最后一定是悲剧。                       | Life is beautiful, so it must be a tragedy.                  |                                                              |
 | 17、别人信仰看不见的东西，我信仰人可以触摸、看到的东西。     | Others believe in things that I can't see, I believe what people can touch and see. |                                                              |
 | 18、生活的一切都和性有关，除了性本身。因为性关乎权力。       | Everything in life is about sex, except sex itself. Because sex is power. |                                                              |
-| 19、每个圣人都有过去每个罪人都有未来。                       | Every saint has a past and every sinner has a future.        |                                                              |
+| 19、每个圣人都有过去，每个罪人都有未来。                     | Every saint has a past and every sinner has a future.        |                                                              |
 | 20、你知道的比你认为知道的多，但比你想知道的少。             | You know more than you think you know, but less than you want to know. |                                                              |
 | 21、这个世界上好看的脸蛋太多，有趣的灵魂太少。               | There are too many good faces in the world, too few interesting souls. |                                                              |
 | 22、心是用来碎的。                                           | The heart is broken.                                         |                                                              |
@@ -339,3 +337,105 @@ Edite: ChatGPT 4o
 | 78、书无所谓道德的或不道德的。书有写得好的或写的糟的。仅此而已。 | The book is not moral or immoral. The book is well written or badly written. That's it. | 标点符号错误，应为 "That's it."                              |
 | 79、说出真理是一件痛苦的事，但被迫说谎更痛苦。               | Telling the truth is a painful thing, but it is more painful to be lied to. |                                                              |
 | 80、给我们赦免的，是忏悔而不是牧师。                         | It is the confession, not the priest, that gives us absolution. |                                                              |
+
+
+
+
+
+## ▲ Carl Gustav Jung (卡尔・古斯塔夫・荣格)
+
+### 卡尔 · 荣格 简介
+
+```md
+Source： https://en.wikipedia.org/wiki/Carl_Jung
+```
+
+Carl Gustav Jung `/kɑːl ˈɡʊstɑːv jʊŋ/` ([/jʊŋ/](https://en.wikipedia.org/wiki/Help:IPA/English) [*YUUNG*](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key);[[1\]](https://en.wikipedia.org/wiki/Carl_Jung#cite_note-:2-1)[[2\]](https://en.wikipedia.org/wiki/Carl_Jung#cite_note-2) German: [[kaʁl ˈjʊŋ\]](https://en.wikipedia.org/wiki/Help:IPA/Standard_German); 26 July 1875 – 6 June 1961) was a Swiss [psychiatrist](https://en.wikipedia.org/wiki/Psychiatrist), [psychotherapist](https://en.wikipedia.org/wiki/Psychotherapist) and [psychologist](https://en.wikipedia.org/wiki/Psychologist) who founded the school of [analytical psychology](https://en.wikipedia.org/wiki/Analytical_psychology).[[a\]](https://en.wikipedia.org/wiki/Carl_Jung#cite_note-5) He was a prolific author, illustrator, and correspondent, and a complex and controversial character, perhaps best known through his "autobiography" *[Memories, Dreams, Reflections](https://en.wikipedia.org/wiki/Memories,_Dreams,_Reflections).*[[5\]](https://en.wikipedia.org/wiki/Carl_Jung#cite_note-6)
+**卡尔・古斯塔夫・荣格** （ [/jʊŋ/](https://en.wikipedia.org/wiki/Help:IPA/English) ; 1875 年 7 月 26 日至 1961 年 6 月 6 日）是一位瑞士 [精神病学家](https://en.wikipedia.org/wiki/Psychiatrist)、[心理治疗师](https://en.wikipedia.org/wiki/Psychotherapist)和[心理学家](https://en.wikipedia.org/wiki/Psychologist)，创立了[分析心理学](https://en.wikipedia.org/wiki/Analytical_psychology)派。 [[ a \]](https://en.wikipedia.org/wiki/Carl_Jung#cite_note-5) 他是一位多产的作家、插画家和通讯员，也是一个复杂而有争议的人物，也许最出名的是他的 “自传” *[《回忆、梦想、反思》](https://en.wikipedia.org/wiki/Memories,_Dreams,_Reflections) 。* [[ 5 \]](https://en.wikipedia.org/wiki/Carl_Jung#cite_note-6)
+
+Jung's work has been influential in the fields of [psychiatry](https://en.wikipedia.org/wiki/Psychiatry), [anthropology](https://en.wikipedia.org/wiki/Anthropology), [archaeology](https://en.wikipedia.org/wiki/Archaeology), [literature](https://en.wikipedia.org/wiki/Literature), [philosophy](https://en.wikipedia.org/wiki/Philosophy), [psychology](https://en.wikipedia.org/wiki/Psychology),[[6\]](https://en.wikipedia.org/wiki/Carl_Jung#cite_note-7) and [religious studies](https://en.wikipedia.org/wiki/Religious_studies). He worked as a research scientist at the [Burghölzli](https://en.wikipedia.org/wiki/Burghölzli) psychiatric hospital, in [Zurich](https://en.wikipedia.org/wiki/Zürich), under [Eugen Bleuler](https://en.wikipedia.org/wiki/Eugen_Bleuler). Jung established himself as an influential mind, developing a friendship with [Sigmund Freud](https://en.wikipedia.org/wiki/Sigmund_Freud), founder of [psychoanalysis](https://en.wikipedia.org/wiki/Psychoanalysis), conducting a [lengthy correspondence](https://en.wikipedia.org/wiki/The_Freud/Jung_Letters) paramount to their joint vision of human psychology. Jung is widely regarded as one of the most influential psychologists in history.[[7\]](https://en.wikipedia.org/wiki/Carl_Jung#cite_note-8)[[8\]](https://en.wikipedia.org/wiki/Carl_Jung#cite_note-9)
+荣格的著作在[精神病学](https://en.wikipedia.org/wiki/Psychiatry)、[人类学](https://en.wikipedia.org/wiki/Anthropology)、[考古学](https://en.wikipedia.org/wiki/Archaeology)、[文学](https://en.wikipedia.org/wiki/Literature)、[哲学](https://en.wikipedia.org/wiki/Philosophy)、[心理学](https://en.wikipedia.org/wiki/Psychology)[[ 6 \]](https://en.wikipedia.org/wiki/Carl_Jung#cite_note-7) 和 [宗教研究](https://en.wikipedia.org/wiki/Religious_studies)领域都具有影响力。他在[苏黎世](https://en.wikipedia.org/wiki/Zürich) [Burghölzli](https://en.wikipedia.org/wiki/Burghölzli) 精神病院担任研究科学家，师从 [Eugen Bleuler](https://en.wikipedia.org/wiki/Eugen_Bleuler) 。荣格确立了自己作为一个有影响力的思想家的地位，他与 [精神分析学](https://en.wikipedia.org/wiki/Psychoanalysis)创始人[西格蒙德・弗洛伊德](https://en.wikipedia.org/wiki/Sigmund_Freud)建立了友谊，并进行了[长篇通信](https://en.wikipedia.org/wiki/The_Freud/Jung_Letters)，这对他们对人类心理学的共同愿景至关重要。荣格被广泛认为是历史上最有影响力的心理学家之一。 [[ 7 \]](https://en.wikipedia.org/wiki/Carl_Jung#cite_note-8) [[ 8 \]](https://en.wikipedia.org/wiki/Carl_Jung#cite_note-9)
+
+Freud saw the younger Jung not only as the heir he had been seeking to take forward his "new science" of psychoanalysis, but as a means to legitimize his own work: Freud and other contemporary psychoanalysts were Jews facing rising antisemitism in Europe, and Jung was [Christian](https://en.wikipedia.org/wiki/Christians).[[9\]](https://en.wikipedia.org/wiki/Carl_Jung#cite_note-10) Freud secured Jung's appointment as president of Freud's newly founded [International Psychoanalytical Association](https://en.wikipedia.org/wiki/International_Psychoanalytical_Association). Jung's research and personal vision, however, made it difficult to follow his older colleague's doctrine and they parted ways. This division was painful for Jung and resulted in the establishment of Jung's analytical psychology, as a comprehensive system separate from psychoanalysis. Scholar [Yosef Hayim Yerushalmi](https://en.wikipedia.org/wiki/Yosef_Hayim_Yerushalmi) believed Jung's later antisemitic remarks may be a clue to the schism.[[10\]](https://en.wikipedia.org/wiki/Carl_Jung#cite_note-11)
+弗洛伊德不仅将年轻的荣格视为他一直在寻求的精神分析 “新科学” 的继承人，而且将其视为使自己的工作合法化的一种手段：弗洛伊德和其他当代精神分析学家都是面临欧洲反犹太主义抬头的犹太人，而荣格是[基督徒](https://en.wikipedia.org/wiki/Christians)。 [[ 9 \]](https://en.wikipedia.org/wiki/Carl_Jung#cite_note-10) 弗洛伊德确保荣格被任命为弗洛伊德新成立的 [国际精神分析协会](https://en.wikipedia.org/wiki/International_Psychoanalytical_Association)主席。然而，荣格的研究和个人愿景使得他很难遵循他年长同事的学说，于是他们分道扬镳。这种划分对荣格来说是痛苦的，并导致荣格分析心理学的建立，作为一个独立于精神分析的综合体系。学者[约瑟夫・哈伊姆・耶鲁沙米（Yosef Hayim Yerushalmi）](https://en.wikipedia.org/wiki/Yosef_Hayim_Yerushalmi)认为，荣格后来的反犹太主义言论可能是分裂的线索。 [[ 10 \]](https://en.wikipedia.org/wiki/Carl_Jung#cite_note-11)
+
+Among the central concepts of analytical psychology is [individuation](https://en.wikipedia.org/wiki/Individuation#Carl_Jung)—the lifelong psychological process of differentiation of the self out of each individual's conscious and unconscious elements. Jung considered it to be the main task of human development. He created some of the best known psychological concepts, including [synchronicity](https://en.wikipedia.org/wiki/Synchronicity), [archetypal phenomena](https://en.wikipedia.org/wiki/Jungian_archetypes), the [collective unconscious](https://en.wikipedia.org/wiki/Collective_unconscious), the [psychological complex](https://en.wikipedia.org/wiki/Complex_(psychology)), and [extraversion and introversion](https://en.wikipedia.org/wiki/Extraversion_and_introversion). His belief that some alcoholics may recover if they have a "spiritual or religious experience" led, in part, to the founding of [Alcoholics Anonymous](https://en.wikipedia.org/wiki/Alcoholics_Anonymous).[[11\]](https://en.wikipedia.org/wiki/Carl_Jung#cite_note-12) Jung was an [artist](https://en.wikipedia.org/wiki/Artist), [craftsman](https://en.wikipedia.org/wiki/Artisan), builder, and prolific writer. Many of his works were not published until after his death and some remain unpublished.[[12\]](https://en.wikipedia.org/wiki/Carl_Jung#cite_note-13)
+分析心理学的核心概念之一是[个体化](https://en.wikipedia.org/wiki/Individuation#Carl_Jung) —— 将自我从每个个体的有意识和无意识元素中分化出来的终生心理过程。荣格认为这是人类发展的主要任务。他创造了一些最著名的心理学概念，包括[同步性](https://en.wikipedia.org/wiki/Synchronicity)、[原型现象](https://en.wikipedia.org/wiki/Jungian_archetypes)、[集体无意识](https://en.wikipedia.org/wiki/Collective_unconscious)、[心理复合体](https://en.wikipedia.org/wiki/Complex_(psychology))以及[外向性和内向性](https://en.wikipedia.org/wiki/Extraversion_and_introversion)。他相信一些酗酒者如果有 “精神或宗教经历” 可能会康复，这在一定程度上促成了[戒酒互诫协会](https://en.wikipedia.org/wiki/Alcoholics_Anonymous)的成立。 [[ 11 \]](https://en.wikipedia.org/wiki/Carl_Jung#cite_note-12) 荣格是一位 [艺术家](https://en.wikipedia.org/wiki/Artist)、[工匠](https://en.wikipedia.org/wiki/Artisan)、建筑商和多产作家。他的许多作品直到他去世后才出版，有些作品至今仍未出版。 [[ 12 \]](https://en.wikipedia.org/wiki/Carl_Jung#cite_note-13)
+
+
+
+### 57 Inspirational Carl Jung Quotes
+
+```md
+Source: https://addicted2success.com/quotes/57-inspirational-carl-jung-quotes/
+```
+
+Carl Jung or C.G Jung was a psychiatrist and psychotherapist from Switzerland who was the founder of analytical psychology. Jung is best remembered for developing some of the best known psychological concepts, such as extroverted and introverted personalities. Other major influences of Carl Jung consists of anthropology, religious studies, archaeology, philosophy, and literature.
+
+![carl jung picture quote](./ReadMe.assets/carl-jung-picture-quote.jpg) 
+
+Until you make the unconscious conscious, it will direct your life, and you will call it fate. 
+只有当你将无意识转化为意识，它才会指导你的生活，而你将称之为命运。
+
+
+
+1. Who looks outside, dreams; who looks inside, awakes.
+2. We cannot change anything until we accept it. Condemnation does not liberate, it oppresses.
+3. There is no coming to consciousness without pain.
+4. The debt we owe to the play of imagination is incalculable.
+5. Knowledge rests not upon truth alone, but upon error also.
+6. Often the hands will solve a mystery that the intellect has struggled with in vain.
+7. It all depends on how we look at things, and not how they are in themselves.
+8. Great talents are the most lovely and often the most dangerous fruits on the tree of humanity. They hang upon the most slender twigs that are easily snapped off.
+9. A man who has not passed through the inferno of his passions has never overcome them.
+10. An understanding heart is everything in a teacher, and cannot be esteemed highly enough. One looks back with appreciation to the brilliant teachers, but with gratitude to those who touched our human feeling. The curriculum is so much necessary raw material, but warmth is the vital element for the growing plant and for the soul of the child.
+11. Where love rules, there is no will to power, and where power predominates, love is lacking. The one is the shadow of the other.
+12. The creation of something new is not accomplished by the intellect but by the play instinct acting from inner necessity. The creative mind plays with the objects it loves.
+13. Shame is a soul eating emotion.
+14. The rational attitude which permits us to declare objective values as valid at all is not the work of the individual subject, but the product of human history.
+15. Nothing has a stronger influence psychologically on their environment and especially on their children than the unlived life of the parent.” – Carl Jung
+16. The least of things with a meaning is worth more in life than the greatest of things without it.
+17. To ask the right question is already half the solution of a problem.
+18. To me dreams are part of nature, which harbors no intention to deceive but expresses something as best it can.
+19. The capacity for directed thinking I call intellect; the capacity for passive or undirected thinking I call intellectual intuition.
+20. Sometimes, indeed, there is such a discrepancy between the genius and his human qualities that one has to ask oneself whether a little less talent might not have been better.
+21. I have always been impressed by the fact that there are a surprising number of individuals who never use their minds if they can avoid it, and an equal number who do use their minds, but in an amazingly stupid way.
+21. Everything that irritates us about others can lead us to a better understanding of ourselves.
+23. Creative powers can just as easily turn out to be destructive. It rests solely with the moral personality.
+24. Whether they apply themselves to good things or to bad. And if this is lacking, no teacher can supply it or take its place.
+25. That which compels us to create a substitute for ourselves is not the external lack of objects, but our incapacity to lovingly include a thing outside of ourselves.
+26. A dream that is not understood remains a mere occurrence; understood it becomes a living experience.
+27. A special ability means a heavy expenditure of energy in a particular direction, with a consequent drain from some other side of life.
+28. We should not pretend to understand the world only by the intellect; we apprehend it just as much by feeling. Therefore, the judgment of the intellect is, at best, only the half of truth, and must, if it be honest, also come to an understanding of its inadequacy.
+29. If a man knows more than others, he becomes lonely.
+30. I regret many follies which sprang from my obstinacy; but without that trait I would not have reached my goal.
+31. “As any change must begin somewhere, it is the single individual who will experience it and carry it through. The change must indeed begin with an individual; it might be any one of us. Nobody can afford to look round and to wait for somebody else to do what he is loath to do himself.
+32. When we consider the infinite variety of dreams, it is difficult to conceive that there could ever be a method or a technical procedure which would lead to an infallible result. It is, indeed, a good thing that no valid method exists for otherwise the meaning of the dream would be limited in advance and would lose precisely that virtue which makes dreams so valuable for therapeutic purposes – their ability to offer new points of view.
+33. The greatest and most important problems of life are all fundamentally insoluble. They can never be solved but only outgrown.
+34. A man who has not passed through the inferno of his passions has never overcome them.
+35. Your vision will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.
+36. I am not what happened to me, I am what I choose to become.
+37. The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.
+38. It is often tragic to see how blatantly a man bungles his own life and the lives of others yet remains totally incapable of seeing how much the whole tragedy originates in himself, and how he continually feeds it and keeps it going.
+39. I shall not commit the fashionable stupidity of regarding everything I cannot explain as a fraud.
+40. Resistance to the organized mass can be effected only by the man who is as well organized in his individuality as the mass itself.
+41. The shoe that fits one person pinches another; there is no recipe for living that suits all cases.
+42. Knowing your own darkness is the best method for dealing with the darknesses of other people.
+43. The acceptance of oneself is the essence of the whole moral problem and the epitome of a whole outlook on life.
+44. We cannot change anything unless we accept it. Condemnation does not liberate, it oppresses.
+45. Find out what a person fears most and that is where he will develop next.
+46. The pendulum of the mind oscillates between sense and nonsense, not between right and wrong.
+47. No tree, it is said, can grow to heaven unless its roots reach down to hell.
+48. Where wisdom reigns, there is no conflict between thinking and feeling.
+49. Man needs difficulties; they are necessary for health.
+50. There are as many nights as days, and the one is just as long as the other in the year’s course. Even a happy life cannot be without a measure of darkness, and the word ‘happy’ would lose its meaning if it were not balanced by sadness.
+51. Nobody can fall so low unless he has a great depth.
+52. If such a thing can happen to a man, it challenges his best and highest on the other side; that is to say, this depth corresponds to a potential height, and the blackest darkness to a hidden light.
+53. In all chaos there is a cosmos, in all disorder a secret order.
+54. Nobody, as long as he moves about among the chaotic currents of life, is without trouble.
+55. Mistakes are, after all, the foundations of truth, and if a man does not know what a thing is, it is at least an increase in knowledge if he knows what it is not.
+56. As far as we can discern, the sole purpose of human existence is to kindle a light in the darkness of mere being.
+57. Faith, hope, love, and insight are the highest achievements of human effort. They are found-given-by experience.
+
+
+
