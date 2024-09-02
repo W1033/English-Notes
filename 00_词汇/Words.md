@@ -4341,32 +4341,32 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词              | 美式发音                 | 词性 + 汉语释义       | 记忆讲解                                                |
-|-----------------|----------------------|-----------------|-----------------------------------------------------|
-| philosophy      | `/fəˈlɑːsəfi/`       | n. 哲学；人生观       | 来自希腊语“philosophia”，philo- 表示“爱”，-sophy 表示“智慧”，合起来就是“爱智慧”，即哲学。 |
-| philosophical   | `/ˌfɪləˈsɑːfɪkəl/`   | adj. 哲学的；豁达的    | 由 “philosophy” 派生，添加 -ical 表示形容词，指与哲学相关的。           |
-| -               |                      |                 |                                                     |
-| psyche          | `/ˈsaɪki/`           | n. 心智；灵魂        | 源自希腊语“psyche”，意为“灵魂”或“心智”，常用于描述人类心灵。                |
+| 单词              | 美式发音                 | 词性 + 汉语释义              | 记忆讲解                                                |
+|-----------------|----------------------|------------------------|-----------------------------------------------------|
+| philosophy      | `/fəˈlɑːsəfi/`       | n. 哲学；人生观              | 来自希腊语“philosophia”，philo- 表示“爱”，-sophy 表示“智慧”，合起来就是“爱智慧”，即哲学。 |
+| philosophical   | `/ˌfɪləˈsɑːfɪkəl/`   | adj. 哲学的；豁达的           | 由 “philosophy” 派生，添加 -ical 表示形容词，指与哲学相关的。           |
+| -               |                      |                        |                                                     |
+| psyche          | `/ˈsaɪki/`           | n. 心灵；灵魂               | 源自希腊语“psyche”，意为“灵魂”或“心智”，常用于描述人类心灵。                |
 | psychic         | `/ˈsaɪkɪk/`          | adj. 心灵的；通灵的<br>n. 通灵者 | 源自 “psyche”，-ic 表示形容词，指心灵的，或能感知心灵的能力（如灵媒）。          |
-| -               |                      |                 |                                                     |
-| psychiatrist    | `/saɪˈkaɪətrɪst/`    | n. 精神病医生；精神科医师  | 来自 “psyche” 和 “-iatrist”（治疗），即“治疗心灵的人”，即精神科医生。      |
-| psychiatric     | `/ˌsaɪkiˈætrɪk/`     | adj. 精神病的；精神科的  | 源自 “psychiatry”，表示与精神病或精神科相关的。                      |
-| -               |                      |                 |                                                     |
-| psycho          | `/ˈsaɪkoʊ/`          | n. 精神病患者        | 简写形式的 “psychopath”，通常指精神病患者。                        |
-| psychopath      | `/ˈsaɪkəpæθ/`        | n. 精神病患者        |                                                     |
-| -               |                      |                 |                                                     |
-| psychology      | `/saɪˈkɑːlədʒi/`     | n. 心理学          | 源自 “psyche” 和 “-logy”（学科），即“研究心灵的学科”，即心理学。          |
-| psychologist    | `/saɪˈkɑːlədʒɪst/`   | n. 心理学家         | 来自 “psychology” 和 “-ist”（从事某学科的人），即从事心理学的人。         |
-| -               |                      |                 |                                                     |
-| psychotherapy   | `/ˌsaɪkoʊˈθerəpi/`   | n. 心理治疗         |                                                     |
-| psychotherapist | `/ˌsaɪkoʊˈθerəpɪst/` | n. 心理治疗师        | 由 “psyche”和“therapist”（治疗师）组合而成，表示“治疗心灵的人”。         |
-| -               |                      |                 |                                                     |
-| physical        | `/ˈfɪzɪkəl/`         | adj. 身体的；物理的    | 源自拉丁语“physica”，表示“自然的”或“身体的”，与“物理”相关。               |
-| -               |                      |                 |                                                     |
-| physician       | `/fɪˈzɪʃən/`         | n. 医生；（尤指）内科医生  | 源自“physical”，原意是“研究身体的人”，即医生。                       |
-| -               |                      |                 |                                                     |
-| physiology      | `/ˌfɪziˈɑːlədʒi/`    | n. 生理学          | 源自 “physio-”（自然的或身体的）和 “-logy”（学科），即研究身体功能的学科。      |
-| physiological   | `/ˌfɪziəˈlɑːdʒɪkəl/` | adj. 生理的        | 由 “physiology” 派生，添加 -ical 表示形容词，指与生理相关的。           |
+| -               |                      |                        |                                                     |
+| psychiatrist    | `/saɪˈkaɪətrɪst/`    | n. 精神病（/科）医生     | 来自 “psyche” 和 “-iatrist”（治疗），即“治疗心灵的人”，即精神科医生。      |
+| psychiatric     | `/ˌsaɪkiˈætrɪk/`     | adj. 精神病（/科）的         | 源自 “psychiatry”，表示与精神病或精神科相关的。                      |
+| -               |                      |                        |                                                     |
+| psycho          | `/ˈsaɪkoʊ/`          | n. 精神病患者               | 简写形式的 “psychopath”，通常指精神病患者。                        |
+| psychopath      | `/ˈsaɪkəpæθ/`        | n. 精神病患者               |                                                     |
+| -               |                      |                        |                                                     |
+| psychology      | `/saɪˈkɑːlədʒi/`     | n. 心理学                 | 源自 “psyche” 和 “-logy”（学科），即“研究心灵的学科”，即心理学。          |
+| psychologist    | `/saɪˈkɑːlədʒɪst/`   | n. 心理学家                | 来自 “psychology” 和 “-ist”（从事某学科的人），即从事心理学的人。         |
+| -               |                      |                        |                                                     |
+| psychotherapy   | `/ˌsaɪkoʊˈθerəpi/`   | n. 心理治疗                |                                                     |
+| psychotherapist | `/ˌsaɪkoʊˈθerəpɪst/` | n. 心理治疗师               | 由 “psyche”和“therapist”（治疗师）组合而成，表示“治疗心灵的人”。         |
+| -               |                      |                        |                                                     |
+| physical        | `/ˈfɪzɪkəl/`         | adj. 身体的；物理的           | 源自拉丁语“physica”，表示“自然的”或“身体的”，与“物理”相关。               |
+| -               |                      |                        |                                                     |
+| physician       | `/fɪˈzɪʃən/`         | n. 医生；（尤指）内科医生         | 源自“physical”，原意是“研究身体的人”，即医生。                       |
+| -               |                      |                        |                                                     |
+| physiology      | `/ˌfɪziˈɑːlədʒi/`    | n. 生理学                 | 源自 “physio-”（自然的或身体的）和 “-logy”（学科），即研究身体功能的学科。      |
+| physiological   | `/ˌfɪziəˈlɑːdʒɪkəl/` | adj. 生理的               | 由 “physiology” 派生，添加 -ical 表示形容词，指与生理相关的。           |
 
 
 #### Second Table - 已校对 - ~~已写入：GoodNotes~~
