@@ -30,6 +30,32 @@
 
 
 
+| 单词            | 美式发音               | 词性 + 汉语释义            |
+|---------------|--------------------|----------------------|
+| motivation    | `/ˌmoʊtəˈveɪʃən/`  | n. 动机；动力             |
+| vary          | `/ˈveri/`          | v. 变化；改变             |
+| occasional    | `/əˈkeɪʒənl/`      | adj. 偶尔的；临时的         |
+| involve       | `/ɪnˈvɑːlv/`       | v. 包含；涉及             |
+| certain       | `/ˈsɜːrtən/`       | adj. 确定的；某些的         |
+| integrate     | `/ˈɪntɪɡreɪt/`     | v. 使合并；使融入           |
+| integration   | `/ˌɪntɪˈɡreɪʃən/`  | n. 整合；一体化            |
+| catch up on   | `/kætʃ ʌp ɑːn/`    | phr. 补做；赶上           |
+| accessible    | `/əkˈsesəbəl/`     | adj. 可进入的；易接近的       |
+| accessibility | `/əkˌsesəˈbɪləti/` | n. 可达性；可接近性          |
+| infuse        | `/ɪnˈfjuːz/`       | v. 灌输；注入             |
+| massive       | `/ˈmæsɪv/`         | adj. 巨大的；大量的         |
+| mass          | `/mæs/`            | n. 大量；块，团<br>adj. 大规模的 |
+| violence      | `/ˈvaɪələns/`      | n. 暴力；猛烈             |
+| constrictor   | `/kənˈstrɪktər/`   | n. 大蟒；压缩物            |
+| scratch       | `/skrætʃ/`         | v. 抓，挠<br>n. 抓痕；划痕   |
+| site          | `/saɪt/`           | n. 地点；场所             |
+| Columbus      | `/kəˈlʌmbəs/`      | n. 哥伦布（美国俄亥俄州首府、意大利航海家） |
+| Columbia      | `/kəˈlʌmbiə/`      | n. 哥伦比亚（美国南卡罗来纳州首府）  |
+| halo          | `/ˈheɪloʊ/`        | n. 光环；晕圈             |
+| flash         | `/flæʃ/`           | v. 闪光；闪光<br> n. 闪光；闪光灯 |
+| therapist     | `/ˈθerəpɪst/`      | n. 治疗师               |
+
+
 
 
 

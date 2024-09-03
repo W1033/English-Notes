@@ -91,7 +91,6 @@ Translator: ChatGPT 4o
 | skiing          | `/ˈskiːɪŋ/`          | n. 滑雪         ✅       |
 | skating         | `/ˈskeɪtɪŋ/`         | n. 滑冰         ✅        |
 | comic           | `/ˈkɑmɪk/`           | adj. 滑稽的；喜剧的<br>n. 连环漫画；喜剧演员 |
-| amusing         | `/əˈmjuzɪŋ/`         | adj. 有趣的；好笑的          |
 | antonym         | `/ˈæntəˌnɪm/`        | n. 反义词                |
 | analytical      | `/ˌænəˈlɪtɪkəl/`     | adj. 分析的；善于分析的        |
 | prolific        | `/prəˈlɪfɪk/`        | adj. 多产的；富饶的          |
@@ -2575,6 +2574,7 @@ Translator: ChatGPT 4o
 | roll        | `/roʊl/`                | v. 滚动；卷 <br>n. 卷；名册     |
 | lecture     | `/ˈlɛkʧər/`             | n. 讲座；训斥<br>v. 演讲；训斥    |
 | qualify     | `/ˈkwɑləˌfaɪ/`          | v. 使具有资格；限定             |
+| qualification  |           |             |
 | camel       | `/ˈkæməl/`              | n. 骆驼                   |
 
 
@@ -2602,29 +2602,6 @@ Translator: ChatGPT 4o
 | grade       | `/ɡreɪd/`          | n. 年级；等级<br>v. 分级；评分           |
 | illuminate  | `/ɪˈlumɪˌneɪt/`    | v. 照亮；启发                       |
 
-好的，我会继续根据“简洁性”和“全面性”之间的平衡原则来更新以下表格。
-
-| 单词        | 美式发音             | 词性 + 汉语释义            |
-|-------------|--------------------|----------------------|
-| scourge     | `/skɜrdʒ/`         | n. 灾祸；鞭子<br>v. 折磨    |
-| charcoal    | `/ˈʧɑrˌkoʊl/`      | n. 木炭；炭笔             |
-| rogue       | `/roʊɡ/`           | n. 流氓；无赖<br>adj. 离群的 |
-| mortal      | `/ˈmɔrtəl/`        | adj. 致命的<br>n. 凡人    |
-| rightful    | `/ˈraɪtfəl/`       | adj. 合法的             |
-| payback     | `/ˈpeɪˌbæk/`       | n. 回报                |
-| skeptical   | `/ˈskɛptɪkəl/`     | adj. 怀疑的             |
-| peek        | `/pik/`            | v. 偷看<br>n. 偷看       |
-| teardown    | `/ˈtɛrˌdaʊn/`      | n. 拆卸                |
-| hijinks     | `/ˈhaɪˌdʒɪŋks/`    | n. 喧闹的嬉戏             |
-| ravel       | `/ˈrævəl/`         | v. 解开<br>n. 纠结       |
-| over time   | `/ˈoʊvər taɪm/`    | phr. 随着时间的推移         |
-| overtime    | `/ˈoʊvərˌtaɪm/`    | n. 加班时间<br>adv. 超时工作 |
-| generalize  | `/ˈdʒɛnərəˌlaɪz/`  | v. 概括                |
-| liberal     | `/ˈlɪbərəl/`       | adj. 自由的<br>n. 自由主义者 |
-| formula     | `/ˈfɔrmjələ/`      | n. 公式                |
-| shuttle     | `/ˈʃʌtəl/`         | n. 班车<br>v. 穿梭往返     |
-| grade       | `/ɡreɪd/`          | n. 年级；等级<br>v. 分级    |
-| illuminate  | `/ɪˈlumɪˌneɪt/`    | v. 照亮                |
 
 
 
@@ -3007,7 +2984,7 @@ Translator: ChatGPT 4o
 | stone       | `/stoʊn/`         | n. 石头；宝石<br>v. 向...投石头 |
 | stoned      | `/stoʊnd/`        | adj. 磕了药的；醉酒的          |
 | amuse       | `/əˈmjuz/`        | v. 娱乐；使发笑              |
-| amusing     |                   |              |
+| amusing     | `/əˈmjuzɪŋ/`      | adj. 有趣的；好笑的          |
 | fiery       | `/ˈfaɪəri/`       | adj. 火的；热烈的            |
 | sentence    | `/ˈsɛntəns/`      | n. 句子；判决<br>v. 宣判      |
 | ahold       | `/əˈhoʊld/`       | n. 抓住                  |
@@ -3385,43 +3362,43 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词        | 美式发音         | 词性 + 汉语释义                     | 示例                               |
-|-----------|--------------|-------------------------------|----------------------------------|
-| show      | `/ʃoʊ/`      | v. 显示；表演<br>n. 展示；节目          | v. She showed me her new dress. (她给我看了她的新裙子。)<br>n. The show was very entertaining. (这个节目非常有趣。) |
+| 单词        | 美式发音         | 词性 + 汉语释义                   | 示例                               |
+|-----------|--------------|-----------------------------|----------------------------------|
+| show      | `/ʃoʊ/`      | v. 显示；表演<br>n. 展示；节目        | v. She showed me her new dress. (她给我看了她的新裙子。)<br>n. The show was very entertaining. (这个节目非常有趣。) |
 | side      | `/saɪd/`     | n. 侧面；方面<br>adj. 侧面的<br>v. 支持 | n. She stood by his side. (她站在他的身旁。)<br>n. We need to consider all sides of the issue. (我们需要考虑问题的各个方面。)<br>adj. There is a side entrance to the building. (这栋建筑有一个侧门。)<br>v. He always sides with his friends. (他总是支持他的朋友。) |
-| sit       | `/sɪt/`      | v. 坐；就坐                       | Please sit down and relax. (请坐下放松。) |
-| small     | `/smɔl/`     | adj. 小的                       | This dress is too small for me. (这件裙子对我来说太小了。) |
-| so        | `/soʊ/`      | adv. 如此；所以                    | She was so tired that she fell asleep immediately. (她太累了，以至于立刻就睡着了。) |
-| some      | `/sʌm/`      | adj. 一些<br>pron. 一些人          | adj. I need some water. (我需要一些水。)<br>pron. Some of them are coming to the party. (他们中有些人要来参加聚会。) |
-| something | `/ˈsʌmθɪŋ/`  | pron. 某物；某事                   | I have something to tell you. (我有事要告诉你。) |
-| soon      | `/suːn/`     | adv. 很快；不久                    | He will be here soon. (他很快就会到。)<br>They plan to visit us soon. (他们计划不久后来看我们。) |
-| start     | `/stɑrt/`    | v. 开始<br>n. 开端                | v. The movie starts at 7 PM. (电影在晚上7点开始。)<br>n. The start of the race was delayed. (比赛的开始被推迟了。) |
-| stop      | `/stɑːp/`    | v. 停止<br>n. 停止                | v. He stopped talking when she entered the room. (她进入房间时，他停止了说话。)<br>n. The bus made several stops along the route. (公共汽车沿途停了几次。) |
+| sit       | `/sɪt/`      | v. 坐；就坐                     | Please sit down and relax. (请坐下放松。) |
+| small     | `/smɔl/`     | adj. 小的                     | This dress is too small for me. (这件裙子对我来说太小了。) |
+| so        | `/soʊ/`      | adv. 如此；所以                  | She was so tired that she fell asleep immediately. (她太累了，以至于立刻就睡着了。) |
+| some      | `/sʌm/`      | adj. 一些<br>pron. 一些人        | adj. I need some water. (我需要一些水。)<br>pron. Some of them are coming to the party. (他们中有些人要来参加聚会。) |
+| something | `/ˈsʌmθɪŋ/`  | pron. 某物；某事                 | I have something to tell you. (我有事要告诉你。) |
+| soon      | `/suːn/`     | adv. 很快；不久                  | He will be here soon. (他很快就会到。)<br>They plan to visit us soon. (他们计划不久后来看我们。) |
+| start     | `/stɑrt/`    | v. 开始<br>n. 开端              | v. The movie starts at 7 PM. (电影在晚上7点开始。)<br>n. The start of the race was delayed. (比赛的开始被推迟了。) |
+| stop      | `/stɑːp/`    | v. 停止<br>n. 停止              | v. He stopped talking when she entered the room. (她进入房间时，他停止了说话。)<br>n. The bus made several stops along the route. (公共汽车沿途停了几次。) |
 | such      | `/sʌtʃ/`     | determiner. 这样的；如此的<br>pron. 这样的事物 | determiner. She made such a big mistake.  (她犯了这么大的错误。)<br>pron. Such are the challenges we face. (这就是我们面临的挑战。) |
-| take      | `/teɪk/`     | v. 拿；接受；采取                    | Please take this book. <br>(请拿这本书。)<br>They will take the necessary steps. <br>(他们会采取必要的步骤。) |
-| tell      | `/tɛl/`      | v. 告诉；说                       | Can you tell me the time? <br>(你能告诉我时间吗？)<br>He told a funny story. <br>(他讲了一个有趣的故事。) |
-| than      | `/ðæn/`      | conj. 比                       | She is taller than her brother. <br>(她比她的哥哥高。) |
-| then      | `/ðɛn/`      | adv. 然后；当时                    | We went to the park, and then we had lunch. <br>(我们去了公园，然后吃了午饭。)<br>Things were different back then. <br>(那时候情况不同。) |
-| thing     | `/θɪŋ/`      | n. 事物；东西；事情                   | What is that thing on the table? <br>(桌子上的那个东西是什么？)<br>Let's talk about the important things. <br>(让我们谈谈重要的事情。) |
-| think     | `/θɪŋk/`     | v. 想；认为；考虑                    | I think it's going to rain. (我认为要下雨了。)<br>Please think about what I said. (请考虑一下我说的话。)<br>What do you think of this idea? (你认为这个主意怎么样？) |
-| time      | `/taɪm/`     | n. 时间；次；时代                    | What time is it? (现在几点了？)<br>This is the first time I've been here. (这是我第一次来这里。)<br>Life was different in those times. (那时候生活不同。) |
-| today     | `/təˈdeɪ/`   | adv. 在今天<br>n. 今天             | adv. I'm busy today. (我今天很忙。)<br>n. Today is a special day. (今天是一个特殊的日子。) |
-| together  | `/təˈɡeðər/` | adv. 一起                       | Let's work together on this project. (让我们一起做这个项目。) |
-| too       | `/tuː/`      | adv. 也；太                      | She wants to go too. (她也想去。)<br>It's too hot outside. (外面太热了。) |
+| take      | `/teɪk/`     | v. 拿；接受；采取                  | Please take this book. <br>(请拿这本书。)<br>They will take the necessary steps. <br>(他们会采取必要的步骤。) |
+| tell      | `/tɛl/`      | v. 告诉；说                     | Can you tell me the time? <br>(你能告诉我时间吗？)<br>He told a funny story. <br>(他讲了一个有趣的故事。) |
+| than      | `/ðæn/`      | conj. 比                     | She is taller than her brother. <br>(她比她的哥哥高。) |
+| then      | `/ðɛn/`      | adv. 然后；当时                  | We went to the park, and then we had lunch. <br>(我们去了公园，然后吃了午饭。)<br>Things were different back then. <br>(那时候情况不同。) |
+| thing     | `/θɪŋ/`      | n. 事物；东西；事情                 | What is that thing on the table? <br>(桌子上的那个东西是什么？)<br>Let's talk about the important things. <br>(让我们谈谈重要的事情。) |
+| think     | `/θɪŋk/`     | v. 想；认为；考虑                  | I think it's going to rain. (我认为要下雨了。)<br>Please think about what I said. (请考虑一下我说的话。)<br>What do you think of this idea? (你认为这个主意怎么样？) |
+| time      | `/taɪm/`     | n. 时间；次；时代                  | What time is it? (现在几点了？)<br>This is the first time I've been here. (这是我第一次来这里。)<br>Life was different in those times. (那时候生活不同。) |
+| today     | `/təˈdeɪ/`   | adv. 在今天<br>n. 今天           | adv. I'm busy today. (我今天很忙。)<br>n. Today is a special day. (今天是一个特殊的日子。) |
+| together  | `/təˈɡeðər/` | adv. 一起                     | Let's work together on this project. (让我们一起做这个项目。) |
+| too       | `/tuː/`      | adv. 也；太                    | She wants to go too. (她也想去。)<br>It's too hot outside. (外面太热了。) |
 | top       | `/tɑːp/`     | n. 顶部；上方<br>adj. 最高的；顶级的<br>v. 超越 | n. The top of the mountain is covered in snow. (山顶被雪覆盖。)<br>adj. She is one of the top students in her class. (她是班上最优秀的学生之一。)<br>v. He topped the list of candidates. (他在候选人名单中名列前茅。) |
-| under     | `/ˈʌndər/`   | prep. 在...下面；低于<br>adv. 在下面   | prep. The cat is under the table. (猫在桌子下面。)<br>prep. His score is under the average. (他的分数低于平均水平。)<br>adv. The box was hidden under the bed. (盒子被藏在床下。) |
-| up        | `/ʌp/`       | adv. 向上；起来<br>prep. 向上        | adv. He stood up and left. (他站起来离开了。)<br>The balloon went up into the sky. (气球飞向天空。)<br>prep. The cat climbed up the tree. (猫爬上了树。) |
-| very      | `/ˈveri/`    | adv. 非常；很<br>adj. 正是的；完全的     | adv. She is very happy. (她非常高兴。)<br>It's very hot today. (今天非常热。)<br>adj. This is the very book I wanted. (这正是我想要的那本书。) |
-| want      | `/wɑːnt/`    | v. 想要；希望<br>n. 需求             | v. I want to go home. (我想回家。)<br>She wants a new car. (她想要一辆新车。)<br>n. There is a want of resources in the area. (这个地区缺乏资源。) |
-| well      | `/wel/`      | adv. 好；很<br>adj. 健康的          | adv. She did well on the test. (她考试考得很好。)<br>adj. He speaks English very well. (他英语说得很好。)<br />adj. He feels well today. (他今天感觉很好。) |
-| will      | `/wɪl/`      | aux. 将；会<br>n. 意志             | aux. I will see you tomorrow. (我明天见你。)<br>n. She has a strong will to succeed. (她有强烈的成功意志。) |
-| with      | `/wɪð/`      | prep. 和...一起；用；由于             | She went to the movies with her friends. <br>(她和朋友们一起去看电影。)<br>He cut the paper with scissors. <br>(他用剪刀剪纸。)<br>She was trembling with fear. <br>(她因害怕而颤抖。) |
-| word      | `/wɜːrd/`    | n. 单词；话语                      | This is a difficult word to spell. (这是一个拼写困难的单词。)<br>He had a few words with his boss. (他和老板说了几句话。) |
-| work      | `/wɜːrk/`    | v. 工作；运作<br>n. 工作；作品          | v. He works at a bank. (他在银行工作。)<br>The machine works perfectly. (机器运作得很好。)<br>n. She has a lot of work to do. (她有很多工作要做。)<br>This is one of his best works. (这是他最好的作品之一。) |
-| would     | `/wʊd/`      | aux. 将；会；愿意                   | I would like to go there. (我想去那里。)<br>Would you help me? (你愿意帮我吗？) |
-| write     | `/raɪt/`     | v. 写                          | Please write your name here. (请在这里写下你的名字。) |
-| year      | `/jɪr/`      | n. 年                          | This year has been very busy. (今年非常忙。) |
-| young     | `/jʌŋ/`      | adj. 年轻的                      | She is very young. (她很年轻。)       |
+| under     | `/ˈʌndər/`   | prep. 在...下面；低于<br>adv. 在下面 | prep. The cat is under the table. (猫在桌子下面。)<br>prep. His score is under the average. (他的分数低于平均水平。)<br>adv. The box was hidden under the bed. (盒子被藏在床下。) |
+| up        | `/ʌp/`       | adv. 向上；起来<br>prep. 向上      | adv. He stood up and left. (他站起来离开了。)<br>The balloon went up into the sky. (气球飞向天空。)<br>prep. The cat climbed up the tree. (猫爬上了树。) |
+| very      | `/ˈveri/`    | adv. 非常；十分<br>adj. 恰好的；正是的 | adv. She is very happy. (她非常高兴。)<br>It's very hot today. (今天非常热。)<br>adj. This is the very book I wanted. (这正是我想要的那本书。) |
+| want      | `/wɑːnt/`    | v. 想要；希望<br>n. 需求           | v. I want to go home. (我想回家。)<br>She wants a new car. (她想要一辆新车。)<br>n. There is a want of resources in the area. (这个地区缺乏资源。) |
+| well      | `/wel/`      | adv. 好；很<br>adj. 健康的        | adv. She did well on the test. (她考试考得很好。)<br>adj. He speaks English very well. (他英语说得很好。)<br />adj. He feels well today. (他今天感觉很好。) |
+| will      | `/wɪl/`      | aux. 将；会<br>n. 意志           | aux. I will see you tomorrow. (我明天见你。)<br>n. She has a strong will to succeed. (她有强烈的成功意志。) |
+| with      | `/wɪð/`      | prep. 和...一起；用；由于           | She went to the movies with her friends. <br>(她和朋友们一起去看电影。)<br>He cut the paper with scissors. <br>(他用剪刀剪纸。)<br>She was trembling with fear. <br>(她因害怕而颤抖。) |
+| word      | `/wɜːrd/`    | n. 单词；话语                    | This is a difficult word to spell. (这是一个拼写困难的单词。)<br>He had a few words with his boss. (他和老板说了几句话。) |
+| work      | `/wɜːrk/`    | v. 工作；运作<br>n. 工作；作品        | v. He works at a bank. (他在银行工作。)<br>The machine works perfectly. (机器运作得很好。)<br>n. She has a lot of work to do. (她有很多工作要做。)<br>This is one of his best works. (这是他最好的作品之一。) |
+| would     | `/wʊd/`      | aux. 将；会；愿意                 | I would like to go there. (我想去那里。)<br>Would you help me? (你愿意帮我吗？) |
+| write     | `/raɪt/`     | v. 写                        | Please write your name here. (请在这里写下你的名字。) |
+| year      | `/jɪr/`      | n. 年                        | This year has been very busy. (今年非常忙。) |
+| young     | `/jʌŋ/`      | adj. 年轻的                    | She is very young. (她很年轻。)       |
 
 
 
@@ -4138,7 +4115,7 @@ Translator: ChatGPT 4 + 4o
 
 Translator: ChatGPT 4 + 4o
 
-#### Second Table - ~~已校对~~ - ~~已写入：GoodNotes~~
+#### First Table - ~~已校对~~ - ~~已写入：GoodNotes~~
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
@@ -4408,110 +4385,86 @@ Edit: 2024.09.01、02
 
 Translator: ChatGPT 4o
 
-Edit: 2024.09.02
+Edit: 2024.09.02、03
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词               | 美式发音         | 词性 + 汉语释义                |
-|------------------|------------------|--------------------------|
-| very             | `/ˈvɛri/`        | adv. 非常；很                |
-| integration      | `/ˌɪntəˈɡreɪʃən/` | n. 融合；整合                 |
-| accessible       | `/əkˈsɛsəbəl/`   | adj. 可进入的；易接近的           |
-| accessibility    | `/əkˌsɛsəˈbɪlɪti/` | n. 无障碍；易接近               |
-| mass             | `/mæs/`          | n. 质量；大量；群众<br>adj. 大规模的 |
-| constrictor      | `/kənˈstrɪktər/` | n. 大蟒；压缩物                |
-| scratch          | `/skrætʃ/`        | v. 抓，挠<br>n. 划痕，抓痕     |
-| site             | `/saɪt/`          | n. 地点，场所<br>v. 选址      |
-| flash            | `/flæʃ/`          | v. 闪光，闪烁<br>n. 闪光      |
-
-以下是你提供的单词翻译，遵循简洁性与全面性的平衡原则，并参考了 LDOCE：
-
-| 单词            | 美式发音                | 词性 + 汉语释义              |
-|---------------|---------------------|------------------------|
-| motivation    | `/ˌmoʊtəˈveɪʃən/`   | n. 动机；动力               |
-| vary          | `/ˈvɛri/`           | v. 变化；不同               |
-
-| very          | `/ˈvɛri/`           | adv. 非常；极其<br>adj. 恰好的 |
-| occasional    | `/əˈkeɪʒənəl/`      | adj. 偶尔的               |
-| involve       | `/ɪnˈvɑlv/`         | v. 包含；涉及               |
-| certain       | `/ˈsɜrtən/`         | adj. 确定的；某些            |
-| integration   | `/ˌɪntɪˈɡreɪʃən/`   | n. 集成；融合               |
-| catch up on   | `/kætʃ ʌp ɑn/`      | 短语. 补上；赶上              |
-| accessible    | `/əkˈsɛsɪbəl/`      | adj. 可接近的；可获得的         |
-| accessibility | `/əkˌsɛsəˈbɪlɪti/`  | n. 可接近性；无障碍            |
-| infuse        | `/ɪnˈfjuz/`         | v. 注入；灌输               |
-| massive       | `/ˈmæsɪv/`          | adj. 巨大的；大量的           |
-| mass          | `/mæs/`             | n. 大量；块，团<br>adj. 大规模的 ✅ |
-| violence      | `/ˈvaɪələns/`       | n. 暴力                  |
-| constrictor   | `/kənˈstrɪktər/`    | n. 大蟒；使压缩之物            |
-| scratch       | `/skrætʃ/`          | v. 抓，挠<br>n. 抓痕；划痕 ✅     |
-| site          | `/saɪt/`            | n. 地点；网站               |
-| Columbus      | `/kəˈlʌmbəs/`       | n. 哥伦布（探险家）            |
-| Columbia      | `/kəˈlʌmbiə/`       | n. 哥伦比亚（国家名或地名）        |
-| halo          | `/ˈheɪloʊ/`         | n. 光环；晕圈               |
-| flash         | `/flæʃ/`            | v. 闪光；快速移动<br>n. 闪光    |
-| therapist     | `/ˈθɛrəpɪst/`       | n. 治疗师                 |
+| 单词            | 美式发音               | 词性 + 汉语释义            |
+|---------------|--------------------|----------------------|
+| motivation    | `/ˌmoʊtəˈveɪʃən/`  | n. 动机；动力             |
+| vary          | `/ˈveri/`          | v. 变化；改变             |
+| occasional    | `/əˈkeɪʒənl/`      | adj. 偶尔的；临时的         |
+| involve       | `/ɪnˈvɑːlv/`       | v. 包含；涉及             |
+| certain       | `/ˈsɜːrtən/`       | adj. 确定的；某些的         |
+| integrate     | `/ˈɪntɪɡreɪt/`     | v. 使合并；使融入           |
+| integration   | `/ˌɪntɪˈɡreɪʃən/`  | n. 整合；一体化            |
+| catch up on   | `/kætʃ ʌp ɑːn/`    | phr. 补做；赶上           |
+| accessible    | `/əkˈsesəbəl/`     | adj. 可进入的；易接近的       |
+| accessibility | `/əkˌsesəˈbɪləti/` | n. 可达性；可接近性          |
+| infuse        | `/ɪnˈfjuːz/`       | v. 灌输；注入             |
+| massive       | `/ˈmæsɪv/`         | adj. 巨大的；大量的         |
+| mass          | `/mæs/`            | n. 大量；块，团<br>adj. 大规模的 |
+| violence      | `/ˈvaɪələns/`      | n. 暴力；猛烈             |
+| constrictor   | `/kənˈstrɪktər/`   | n. 大蟒；压缩物            |
+| scratch       | `/skrætʃ/`         | v. 抓，挠<br>n. 抓痕；划痕   |
+| site          | `/saɪt/`           | n. 地点；场所             |
+| Columbus      | `/kəˈlʌmbəs/`      | n. 哥伦布（美国俄亥俄州首府、意大利航海家） |
+| Columbia      | `/kəˈlʌmbiə/`      | n. 哥伦比亚（美国南卡罗来纳州首府）  |
+| halo          | `/ˈheɪloʊ/`        | n. 光环；晕圈             |
+| flash         | `/flæʃ/`           | v. 闪光；闪光<br> n. 闪光；闪光灯 |
+| therapist     | `/ˈθerəpɪst/`      | n. 治疗师               |
 
 
-#### Fourth Table - ~~已校对~~ - ~~已写入：GoodNotes~~
+#### Fourth Table - 已校对 - ~~已写入：GoodNotes~~
 
 Translator: ChatGPT 4o
 
-Edit: 2024.09.01、02
+Edit: 2024.09.01、02、03
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词           | 美式发音         | 词性 + 汉语释义               |
-|--------------|------------------|-------------------------|
-| flesh        | `/flɛʃ/`          | n. 肉体，果肉                |
-| peanut       | `/ˈpiˌnʌt/`       | n. 花生                   |
-| container    | `/kənˈteɪnər/`    | n. 容器，集装箱               |
-| suitcase     | `/ˈsutˌkeɪs/`     | n. 手提箱                  |
-| nest         | `/nɛst/           | n. 巢；v. 筑巢              |
-| slot         | `/slɑːt/          | n. 缝隙；v. 插入             |
-| **boost**    | `/buːst/`         | v. 提升；促进<br>n. 推动       |
-| warehouse    | `/ˈwɛrˌhaʊs/      | n. 仓库                   |
-| roast        | `/roʊst/          | v. 烘烤；n. 烤肉             |
-| construction | `/kənˈstrʌkʃən/   | n. 建设；建筑                |
-| anarchy      | `/ˈænərki/        | n. 无政府状态                |
-| permanent    | `/ˈpɜrmənənt/     | adj. 永久的                |
-| rope         | `/roʊp/           | n. 绳；v. 捆绑              |
-| delusion     | `/dɪˈluʒən/       | n. 错觉；幻想                |
-| delusional   | `/dɪˈluʒənl/      | adj. 妄想的                |
-| flash        | `/flæʃ/           | v. 闪光；n. 闪光             |
-| douche       | `/duʃ/            | n. 灌肠；洗涤                |
-| miserable    | `/ˈmɪzərəbəl/     | adj. 痛苦的；悲惨的            |
-| settled      | `/ˈsɛtld/         | adj. 稳定的；已解决的           |
-| way off      | `/weɪ ˈɔf/        | adj. 远离的                |
-| beneath      | `/bɪˈniθ/         | prep. 在...之下            |
-| trance       | `/træns/          | n. 恍惚；出神                |
-
 以下是你提供的单词翻译，遵循简洁性与全面性的平衡原则，并参考了 LDOCE：
 
-| 单词              | 美式发音           | 词性 + 汉语释义                        |
-|-------------------|--------------------|-----------------------------------------|
-| flesh             | `/flɛʃ/`           | n. 肉；果肉                             |
-| peanut            | `/ˈpinʌt/`         | n. 花生                                 |
-| container         | `/kənˈteɪnər/`     | n. 容器；集装箱                         |
-| suitcase          | `/ˈsutˌkeɪs/`      | n. 手提箱                               |
-| nest              | `/nɛst/`           | n. 巢；窝<br>v. 筑巢                    |
-| slot              | `/slɑt/`           | n. 狭缝；时段                           |
-| boost             | `/bust/`           | v. 增强；推动<br>n. 增强；推动          |
-| warehouse         | `/ˈwɛrˌhaʊs/`      | n. 仓库                                 |
-| roast             | `/roʊst/`          | v. 烤；炙<br>n. 烤肉                    |
-| construction      | `/kənˈstrʌkʃən/`   | n. 建造；建筑物                         |
-| anarchy           | `/ˈænərki/`        | n. 无政府状态；混乱                     |
-| permanent         | `/ˈpɜrmənənt/`     | adj. 永久的                             |
-| rope              | `/roʊp/`           | n. 绳索<br>v. 用绳索捆绑                |
-| delusion          | `/dɪˈluʒən/`       | n. 幻觉；错觉                           |
-| delusional        | `/dɪˈluʒənəl/`     | adj. 幻觉的；妄想的                     |
-| flash             | `/flæʃ/`           | v. 闪光；快速移动<br>n. 闪光           |
-| douche            | `/duʃ/`            | n. 冲洗器<br>v. 冲洗                    |
-| miserable         | `/ˈmɪzərəbəl/`     | adj. 悲惨的；痛苦的                     |
-| settled           | `/ˈsɛtəld/`        | adj. 稳定的；定居的                     |
-| way off           | `/weɪ ɔf/`         | 短语. 遥远；偏离                        |
-| beneath           | `/bɪˈniθ/`         | prep. 在...之下<br>adv. 在下面          |
-| trance            | `/træns/`          | n. 恍惚；出神                           |
+| 单词             | 美式发音           | 词性 + 汉语释义                        |
+|----------------|--------------------|-----------------------------------------|
+| slot           | `/slɑt/`           | n. 狭缝；时段                           |
+| boost          | `/bust/`           | v. 增强；推动<br>n. 增强；推动          |
+| roast          | `/roʊst/`          | v. 烤；炙<br>n. 烤肉                    |
+| permanent      | `/ˈpɜrmənənt/`     | adj. 永久的                             |
+| rope           | `/roʊp/`           | n. 绳索<br>v. 用绳索捆绑                |
+| douche         | `/duʃ/`            | n. 冲洗器<br>v. 冲洗                    |
+| way off        | `/weɪ ɔf/`         | 短语. 遥远；偏离                        |
+
+
+
+以下是根据翻译规则和LDOCE参考的翻译表格：
+
+| 单词         | 美式发音          | 词性 + 汉语释义                |
+|--------------|------------------|--------------------------|
+| flesh        | `/fleʃ/`          | n. 肉；果肉                  |
+| peanut       | `/ˈpiːnʌt/`      | n. 花生                    |
+| container    | `/kənˈteɪnər/`   | n. 容器；集装箱                |
+
+| suitcase     | `/ˈsuːtkeɪs/`    | n. 手提箱                   |
+| nest         | `/nɛst/`         | n. 巢；窝<br>v. 筑巢          |
+| slot         | `/slɑːt/`        | n. 狭缝；位置<br>v. 把...放入狭缝中 |
+| boost        | `/buːst/`        | v. 提高；增强<br>n. 提高；增强     |
+| warehouse    | `/ˈwerhaʊs/`     | n. 仓库                    |
+| roast        | `/roʊst/`        | v. 烤；炙<br>n. 烤肉；讽刺       |
+| construction | `/kənˈstrʌkʃən/` | n. 建造；构造                 |
+| anarchy      | `/ˈænərki/`      | n. 无政府状态；混乱              |
+| permanent    | `/ˈpɜːrmənənt/`  | adj. 永久的；持久的             |
+| rope         | `/roʊp/`         | n. 绳索                    |
+| delusion     | `/dɪˈluːʒən/`    | n. 妄想；错觉                 |
+| delusional   | `/dɪˈluːʒənəl/`  | adj. 妄想的；错觉的             |
+| flash        | `/flæʃ/`         | v. 闪光；闪现<br>n. 闪光；闪光灯    |
+| douche       | `/duːʃ/`         | n. 冲洗器；灌洗器               |
+| miserable    | `/ˈmɪzərəbəl/`   | adj. 悲惨的；痛苦的             |
+| settled      | `/ˈsɛtəld/`      | adj. 稳定的；定居的             |
+| way off      | `/weɪ ɔːf/`      | phr. 偏离；相差甚远             |
+| beneath      | `/bɪˈniːθ/`      | prep. 在...下方<br>adv. 在下方 |
+| trance       | `/træns/`        | n. 恍惚；出神                 |
+
 
 
 
@@ -5869,29 +5822,33 @@ Translator: ChatGPT 4
 
 #### First Table - 已校对 - ~~已写入 GoodNotes~~
 
-Translator: ChatGPT 4
+Translator: ChatGPT 4 & 4o
+
+Re-edit: 2024.09.03
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词          | 美式发音             | 词类 + 汉语释义                   | 示例                                                         |
-| ------------- | -------------------- | --------------------------------- | ------------------------------------------------------------ |
-| heave         | `/hiːv/`             | v. 举起；呕吐；起伏               | He heaved the heavy box onto the shelf. <br />(他把那个重箱子举到了架子上。) <br />She felt nauseous and heaved. <br />(她感到恶心并呕吐了。) <br />The ground heaved during the earthquake. <br />(地震期间，地面发生了起伏。) |
-| nauseous      | `/ˈnɔːʃəs/`          | adj. 恶心的                       | The smell of spoiled food made her feel nauseous. <br />(腐烂食物的气味让她感到恶心。) |
-| greasy        | `/ˈɡriːsi/`          | adj. 油腻的                       | He avoided greasy food to stay healthy. <br />(为了保持健康，他避免吃油腻的食物。) |
-| count         | `/kaʊnt/`            | v. 计数<br />n. 数量              | v. She can count from one to ten in Spanish. <br />(她能用西班牙语从一数到十。)<br />v. Count the number of people in the room. <br />(计算房间里的人数。)<br/>n. The final count of votes was in his favor. <br />(最终的投票数对他有利。)<br />n. The final count showed that 300 people attended the event. <br />(最终的计数显示有300人参加了活动。) |
-| stimulate     | `/ˈstɪmjəleɪt/`      | v. 刺激；激励                     | His speech stimulated interest in the subject. <br />(他的演讲激发了对这个主题的兴趣。) |
-| executive     | `/ɪɡˈzɛkjətɪv/`      | adj. 执行的；<br />n. 主管        | adj. She has executive authority over company decisions. <br />(她对公司决策有执行权。) <br />n. He is an executive at a large corporation. <br />(他是一家大公司的高级管理人员。) |
-| interest      | `/ˈɪntrəst/`         | n. 兴趣；利息；<br />v. 使感兴趣  | n. She has a strong interest in music. (她对音乐有很强的兴趣。)<br>n. He calculated the interest on his savings account. <br />(他计算了储蓄账户的利息。)<br />v. The story interested him.<br> (那个故事引起了他的兴趣。)<br />v. This book interests me a lot. <br />(这本书让我非常感兴趣。) |
-| impatient     | `/ɪmˈpeɪʃənt/`       | adj. 不耐烦的                     | adj. She is impatient for the meeting to start.<br> (她对会议的开始感到不耐烦。) |
-| patient       | `/ˈpeɪʃənt/`         | adj. 耐心的；n. 病人              | adj. She is very patient with her students.<br /> (她对她的学生很耐心。)<br />n. The doctor saw the patient immediately.<br />(医生立刻看了病人。) |
-| complimentary | `/ˌkɑːmplɪˈmentəri/` | adj. 免费的；赞美的               | adj. The hotel offers complimentary breakfast.<br> (酒店提供免费早餐。) |
-| elementary    | `/ˌelɪˈmentri/`      | adj. 基础的；初级的               | adj. You’ve made a very elementary mistake.<br />(你犯了一个非常基本的错误.)<br />adj. He is taking an elementary course in chemistry.<br> (他正在上一门化学的初级课程。) |
-| podcast       | `/ˈpɑːdkæst/`        | n. 播客                           | n. She hosts a weekly podcast on health topics.<br> (她主持一个关于健康话题的每周播客。) |
-| fight         | `/faɪt/`             | n. 战斗；争吵<br />v. 战斗；争吵  | n. The fight between the two teams was intense.<br> (两个团队之间的战斗非常激烈。)<br />v. He fought bravely in the war.<br> (他在战争中勇敢地战斗。) |
-| iconic        | `/aɪˈkɑnɪk/`         | adj. 图标的；象征性的             | adj. The Statue of Liberty is an iconic symbol of freedom.<br> (自由女神像是自由的象征性图标。) |
-| icon          | `/ˈaɪkɒn/`           | n. 图标；偶像                     | n. The app icon is easy to recognize. <br />(这个应用程序的图标很容易识别。)<br />He is an icon in the music industry. <br />(他是音乐行业的偶像。) |
-| anal          | `/ˈeɪnəl/`           | adj. 肛门的；吹毛求疵的〔含贬义〕 | The anal stage is an important phase in Freudian psychology. <br />(在弗洛伊德心理学中，肛门期是一个重要阶段。) <br />He is known for his anal attention to detail. <br />(他以对细节的吹毛求疵而闻名。) |
-| empathy       | `/ˈempəθi/`          | n. 同理心                         | n. She showed great empathy towards the children.<br> (她对孩子们表现出了极大的同理心。) |
+| 单词          | 美式发音                 | 词性 + 汉语释义             |
+|---------------|----------------------|-----------------------|
+| heave         | `/hiːv/`             | v. 举起；拖<br>n. 举起      |
+| nauseous      | `/ˈnɔːʃəs/`          | adj. 恶心的              |
+| greasy        | `/ˈɡriːsi/`          | adj. 油腻的              |
+| count         | `/kaʊnt/`            | v. 计数<br>n. 计数；总数     |
+| stimulate     | `/ˈstɪmjəleɪt/`      | v. 刺激；激励              |
+| executive     | `/ɪɡˈzekjətɪv/`      | n. 主管<br>adj. 执行的     |
+| interest      | `/ˈɪntrɪst/`         | n. 兴趣；利息<br>v. 使感兴趣   |
+| impatient     | `/ɪmˈpeɪʃənt/`       | adj. 不耐烦的             |
+| patient       | `/ˈpeɪʃənt/`         | n. 病人；患者<br>adj. 有耐心的 |
+| complimentary | `/ˌkɑːmpləˈmentəri/` | adj. 免费的；赞美的          |
+| elementary    | `/ˌeləˈmentri/`      | adj. 基本的；初级的          |
+| podcast       | `/ˈpɑːdkæst/`        | n. 播客                 |
+| fight         | `/faɪt/`             | v. 打架；战斗<br>n. 打架；战斗  |
+| iconic        | `/aɪˈkɑːnɪk/`        | adj. 图标的；标志性的             |
+| icon          | `/ˈaɪkɑːn/`          | n. 图标；偶像              |
+| anal          | `/ˈeɪnəl/`           | adj. 肛门的              |
+| empathy       | `/ˈempəθi/`          | n. 共情；同理心             |
+
+
 
 
 
@@ -5901,35 +5858,31 @@ Translator: ChatGPT 4
 
 #### First Table - 已校对 - ~~已写入 GoodNotes~~
 
-Translator: ChatGPT 4
+Translator: ChatGPT 4 & 4o
+
+Re-edit: 2024.09.03
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词          | 美式发音           | 词类 + 汉语释义         | 示例 |
-|--------------|-------------------|-------------------| ---- |
-| hawk         | `/hɔːk/`          | n. 鹰；鹰派人物 <br />v. 叫卖 | n. A hawk was circling high in the sky. <br />(一只鹰在高空盘旋。) <br />v. He hawked his paintings in the art district. <br />(他在艺术区叫卖他的画作。) |
-| avenue       | `/ˈævənuː/`       | n. 大道；途径          | The city is known for its wide avenues lined with trees. <br />(这座城市以其两旁种满树木的宽阔大道而闻名。) <br />The main avenue was lined with shops and restaurants. <br />(主大道两旁林立着商店和餐馆。)<br />Exploring new technologies provides an avenue for business growth. <br />(探索新技术为业务增长提供了一种途径。)<br/>Exploring renewable energy sources is an important avenue for environmental sustainability. <br />(探索可再生能源是实现环境可持续性的重要途径。) |
-| imprint      | `/'ɪmprɪnt/` (n.) <br />`/ɪm'prɪnt/` (v.) | n. 印记 <br />v. 印刻；铭记<br />(<i style="color:red">备注</i>) | n. The incident left a deep imprint on her psyche. <br />(这个事件在她的心灵上留下了深刻的印记。)<br />n. The artist's imprint is evident in all his works. <br />(这位艺术家的印记在他的所有作品中都很明显。)<br />v. His teachings are imprinted in my mind. <br />(他的教诲铭记在我心中。) <br />v. The tragedy imprinted sorrow on her face. <br />(那场悲剧在她的脸上留下了悲伤的印记。) |
-| evident      | `/ˈɛvɪdənt/`      | adj. 明显的；显而易见的    | It was evident that she was unhappy. <br />(她不高兴是显而易见的。)<br />The evidence was evident to all present. <br />(在场的所有人都明显看到了证据。)<br />The damage to the building was evident even from a distance. <br />(即使从远处也能明显看到建筑的损坏。) |
-| profound     | `/prəˈfaʊnd/`     | adj. 深刻的；深远的      | She has a profound understanding of the subject. <br />(她对这个主题有深刻的理解。) |
-| vaccinate    | `/ˈvæksəneɪt/`    | v. 接种疫苗           | Many parents choose to vaccinate their children against common diseases. <br />(许多父母选择给他们的孩子接种预防常见疾病的疫苗。) |
-| pianist      | `/ˈpiːənɪst/`     | n. 钢琴家            | He is a talented pianist. <br />(他是一位有才华的钢琴家。) |
-| musician     | `/mjʊˈzɪʃən/`     | n. 音乐家            | She works as a professional musician. <br />(她是一名职业音乐家。) |
-| proficiency  | `/prəˈfɪʃənsi/`   | n. 精通；熟练          | Her proficiency in Japanese is impressive. <br />(她的日语熟练程度令人印象深刻。) |
-| Japan        | `/dʒəˈpæn/`       | n. 日本             | He traveled to Japan last year. <br />(他去年去了日本。)<br /> He is fascinated by the culture of Japan. <br />(他对日本的文化非常着迷。) |
-| Japanese     | `/ˌdʒæpəˈniːz/`   | n. 日语；日本人 <br />adj. 日本的；日本人的 | n. She is studying Japanese at university. <br />(她在大学学习日语。) <br />adj. He loves Japanese culture. <br />(他热爱日本文化。) |
-| renovation   | `/ˌrɛnəˈveɪʃən/`  | n. 翻新；修复          | The museum is closed for renovation. <br />(博物馆因翻新而关闭。) <br />They specialize in the renovation of old houses. <br />(他们专门从事旧房屋的修复工作。) |
-| renovate     | `/ˈrɛnəveɪt/`     | v. 翻新；修复          | They plan to renovate the old house to its original glory. <br />(他们计划将这座旧房子翻新回其原有的辉煌。)<br />The hotel has been renovated and redecorated.<br />(酒店已经翻新﹐并重新装饰。) |
-| redecorate   | `/ˌriːˈdɛkəreɪt/` | v. 重新装饰           | They decided to redecorate their living room to give it a fresh look. <br />(他们决定重新装饰客厅，给它一个新的外观。) |
-| decorate     | `/ˈdɛkəreɪt/`     | v. 装饰；装修          | She loves to decorate her house for the holidays. <br />(她喜欢在节日期间装饰她的房子。) |
+| 单词           | 美式发音                      | 词性 + 汉语释义                     |
+|--------------|---------------------------|-------------------------------|
+| hawk         | `/hɔːk/`                  | n. 鹰；鹰派人物                     |
+| avenue       | `/ˈævənjuː/`              | n. 大街；途径                      |
+| imprint      | `/ˈɪmprɪnt/` (n.)<br>`/ɪmˈprɪnt/` (v.) | n. 印记；痕迹<br>v. 盖印             |
+| evident      | `/ˈevɪdənt/`              | adj. 明显的；显而易见的                |
+| profound     | `/prəˈfaʊnd/`             | adj. 深刻的；深远的                  |
+| vaccinate    | `/ˈvæksəneɪt/`            | v. 接种疫苗                       |
+| pianist      | `/ˈpiːənɪst/`             | n. 钢琴家                        |
+| musician     | `/mjʊˈzɪʃən/`             | n. 音乐家                        |
+| proficiency  | `/prəˈfɪʃənsi/`           | n. 熟练；精通                      |
+| Japan        | `/dʒəˈpæn/`               | n. 日本                         |
+| Japanese     | `/ˌdʒæpəˈniːz/`           | adj. 日本的；日本人的；日语的<br>n. 日本人；日语 |
+| renovate     | `/ˈrɛnəˌveɪt/`            | v. 翻新；修复                      |
+| renovation   | `/ˌrɛnəˈveɪʃən/`          | n. 翻新；修复                      |
+| decorate     | `/ˈdekəreɪt/`             | v. 装饰；布置                      |
+| redecorate   | `/ˌriːˈdekəreɪt/`         | v. 重新装饰                       |
 
 单词解释
-- **hawk (n. & v.)**：
-  - 作为名词，"hawk" 指的是 **`鹰`**，一类捕食性鸟类，以其锐利的视觉和飞行时捕捉猎物的能力而著名；同时，在政治语境中，“hawk”也用来指倾向于采取强硬外交政策的 **`鹰派人物`**。
-  - 作为动词，"hawk" 表示 **`叫卖`**，即在公共场合兜售商品的行为。
-- **avenue (n.)**：
-    - 作为名词，“avenue”首先指的是宽阔的**`大道`**，通常是城市中主要的、树木成行的街道。
-    - 同时，它也用于比喻意义，表示达到目标或解决问题的一种方法或**`途径`**。这种用法强调了实现某一目的的可能路径或方式。
 - **imprint (v. & n.)**：
     - 作为名词，"imprint" 指的是 **`印记`**，表现为物理的痕迹或心理的深刻影响。
     - 作为动词，"imprint" 表示 **`印刻`** 或 **`铭记`**，既可以是在物理对象上留下标记，也可以是在心理或记忆中留下难忘的印象。
@@ -5940,31 +5893,6 @@ Translator: ChatGPT 4
     >
     > 对于“imprint”，作为名词时重音则放在第一个音节上（'imprint），而作为动词时重音通常放在第二个音节上（im'print）。
 
-- **evident (adj.)**：
-    - 当我们说某事是 **`明显的`** 或 **`显而易见的`**（evident），我们指的是它很容易被观察到或理解，不需要进一步的解释或证明。
-- **profound (adj.)**：
-    - 描述为 **`深刻的`** 或 **`深远的`**（profound）意味着某事物具有深度和强烈的影响，通常指思想、感受或影响程度深远，超出了表面的理解。
-- **vaccinate (v.)**：
-    - 作为动词，“vaccinate”意味着给予**`疫苗接种`**，是指通过注射疫苗来提供对某种疾病的免疫力。这个过程帮助个体或群体抵抗特定的病毒或细菌，是现代医学预防疾病的重要手段。
-- **pianist (n.)**：
-    - “pianist” 指的是 **`钢琴家`**，即专业演奏钢琴的人。
-- **musician (n.)**：
-    - “musician” 意指 **`音乐家`**，泛指任何专业从事音乐创作、演奏或歌唱的人。   
-- **proficiency (n.)**：
-    - “proficiency” 描述的是在某个领域或技能上的 **`精通`** 或 **`熟练`** 水平，表示达到了高度的技能和能力。
-- **Japan (n.)**：
-    - 作为名词，“Japan”指的是位于东亚的一个岛国，是一个具有丰富历史和文化的国家，以其先进的技术、传统艺术和自然美景而闻名。
-- **Japanese (n. & adj.)**：
-    - 作为名词，"Japanese" 指的是 **`日语`** 或日本的 **`人民`**。
-    - 作为形容词，它描述的是与 **`日本的`** 或 **`日本人的`** 相关的事物，如日本文化、日本食物等。
-- **renovation (n.)**：
-    - “renovation”作为名词，指的是**`翻新`**或**`修复`**的过程，涉及更新和修复旧建筑、家具或系统等，使之恢复到较好的状态或更现代化。
-- **renovate (v.)**：
-    - 作为动词，“renovate”指的是**`翻新`**或**`修复`**某物，特别是建筑或房间，使之恢复到更好的状态或更现代化。   
-- **redecorate (v.)**：
-    - 作为动词，“redecorate”意味着**`重新装饰`**某个空间或建筑，通常涉及更改装饰风格、更新油漆颜色、更换家具等，以赋予该空间新的外观和感觉。
-- **decorate (v.)**：
-    - 作为动词，“decorate”意味着**`装饰`**或**`装修`**，指通过添加装饰物或以某种方式改变空间的外观来美化一个房间、建筑或物体。
 
 
 
@@ -6181,46 +6109,66 @@ Translator: ChatGPT 4
 
 Translator: ChatGPT 4
 
+****Re-edit: 2024.09.03 - 未编辑完**** 
+
 #### First Table - 已校对 - ~~已写入 GoodNotes~~
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词           | 美式发音             | 词类 + 汉语释义              | 示例                                                         |
-| -------------- | ------------------- |------------------------| ------------------------------------------------------------ |
-| rebel          | `/ˈrebəl/`           | n. 反叛者; v. 反抗          | n. The rebels were fighting against the government. <br />(叛乱者在与政府作战。)<br />v. The teenager rebelled against authority. <br />(那个青少年反抗权威。)。 |
-| crew           | `/kruː/`            | n. 全体人员(船、飞机)；一组工作人员   | The ship's crew worked tirelessly throughout the journey. <br />(船上的全体船员在整个航程中不知疲倦地工作。)<br />The aircraft crew performed a safety check. <br />(飞机全体人员进行了安全检查。)<br />The project team worked like a well-coordinated crew. <br />(项目团队像一个默契十足的团队一样工作。) |
-| tireless       | `/ˈtaɪərləs/`       | adj. 不知疲倦的             | She was tireless in her efforts to improve the community. <br />(她在改善社区方面的努力是不知疲倦的。) |
-| throughout     | `/θruˈaʊt/`         | prep. 遍及；贯穿<br>adv. 始终 | The festival was celebrated throughout the country. <br />(这个节日在整个国家庆祝。) |
-| festival       | `/ˈfestəvəl/`       | n. 节日；庆祝活动             | The town holds an annual music festival every summer. <br />(这个镇每年夏天都会举办一次音乐节。) |
-| Christian      | `/ˈkrɪstʃən/`       | n. 基督徒；adj. 基督教的       | n. She is a devout Christian. <br />(她是一位虔诚的基督徒。)<br />adj. Christian values influence her decisions. <br />(基督教的价值观影响着她的决定。) |
-| devout         | `/dɪˈvaʊt/`         | adj. 虔诚的               | He is a devout follower of his religion. <br>(他是他的宗教的虔诚信徒。) |
-| religion       | `/rɪˈlɪdʒən/`       | n. 宗教，宗教信仰             | She studies the influence of religion on culture. <br />(她研究宗教对文化的影响。) |
-| culture        | `/ˈkʌltʃər/`        | n. 文化                  | Each country has its own unique culture. <br />(每个国家都有其独特的文化。) |
-| congregation   | `/ˌkɑːŋɡrəˈɡeɪʃn/`  | n. 会众〔在教堂里聚集的人群〕       | The congregation gathered for the weekly service. <br />(会众聚集参加每周的礼拜仪式。) |
-| congratulation | `/kənˌɡrætʃəˈleɪʃn/` | n. 祝贺; 恭喜（通常用作复数）      | He received many congratulations on his promotion. <br />(他因晋升收到了许多祝贺。) |
+```
+| 单词             | 美式发音                 | 词类 + 汉语释义              |
+|----------------|----------------------|------------------------|
+| rebel          | `/ˈrebəl/`           | n. 反叛者; v. 反抗          |
+| crew           | `/kruː/`             | n. 全体人员(船、飞机)；一组工作人员   |
+| tireless       | `/ˈtaɪərləs/`        | adj. 不知疲倦的             |
+| throughout     | `/θruˈaʊt/`          | prep. 遍及；贯穿<br>adv. 始终 |
+| festival       | `/ˈfestəvəl/`        | n. 节日；庆祝活动             |
+| Christian      | `/ˈkrɪstʃən/`        | n. 基督徒；adj. 基督教的       |
+| devout         | `/dɪˈvaʊt/`          | adj. 虔诚的               |
+| religion       | `/rɪˈlɪdʒən/`        | n. 宗教，宗教信仰             |
+| culture        | `/ˈkʌltʃər/`         | n. 文化                  |
+| congregation   | `/ˌkɑːŋɡrəˈɡeɪʃn/`   | n. 会众〔在教堂里聚集的人群〕       |
+| congratulation | `/kənˌɡrætʃəˈleɪʃn/` | n. 祝贺; 恭喜（通常用作复数）      |
+| vital          | `/ˈvaɪtl/`           | adj. 至关重要的；充满活力的  |
+| tourism        | `/ˈtʊrɪzəm/`         | n. 旅游业           |
+| facial         | `/ˈfeɪʃəl/`          | adj. 面部的         |
+| dwelling       | `/ˈdwɛlɪŋ/`          | n. 住宅            |
+| forth          | `/ fɔːrθ/`           | adv. 向前；向外       |
+| gaze           | `/ɡeɪz/`             | n. & v. 凝视       |
+| soothing       | `/ˈsuːðɪŋ/`          | adj. 安慰的；舒缓的     |
+| soothe         | `/suːð/`             | v. 安慰；减轻（痛苦）     |
+| erode          | `/ɪˈroʊd/`           | v. 侵蚀；腐蚀         |
 
 
+以下是根据翻译规则和LDOCE参考的翻译表格：
+
+| 单词            | 美式发音                               | 词性 + 汉语释义                |
+|-----------------|------------------------------------|--------------------------|
+| rebel           | `/ˈrebəl/` (n.)<br>`/rɪˈbel/` (v.) | n. 反叛者<br>v. 反叛；造反       |
+| crew            | `/kruː/`                           | n. 全体船员(船、飞机)；工作人员     |
 
 
-### Added: 2024.03.02
+| tireless        | `/ˈtaɪərləs/`                      | adj. 不知疲倦的               |
+| throughout      | `/θruːˈaʊt/`                       | prep. 遍及；贯穿<br>adv. 自始至终 |
+| festival        | `/ˈfestəvəl/`                      | n. 节日；庆典                 |
+| Christian       | `/ˈkrɪstʃən/`                      | n. 基督徒<br>adj. 基督教的      |
+| devout          | `/dɪˈvaʊt/`                        | adj. 虔诚的                 |
+| religion        | `/rɪˈlɪdʒən/`                      | n. 宗教                    |
+| culture         | `/ˈkʌltʃər/`                       | n. 文化                    |
+| congregation    | `/ˌkɑːŋɡrɪˈɡeɪʃən/`                | n. 会众；集会                 |
+| congratulation  | `/kənˌɡrætʃəˈleɪʃən/`              | n. 祝贺；恭喜（通常用作复数）         |
+| vital           | `/ˈvaɪtəl/`                        | adj. 至关重要的；维持生命所必需的      |
+| tourism         | `/ˈtʊərɪzəm/`                      | n. 旅游业                   |
+| facial          | `/ˈfeɪʃəl/`                        | adj. 面部的<br>n. 面部护理      |
+| dwelling        | `/ˈdwɛlɪŋ/`                        | n. 住所                    |
+| forth           | `/fɔːrθ/`                          | adv. 向前；向外               |
+| gaze            | `/ɡeɪz/`                           | v. 凝视<br>n. 凝视           |
+| soothing        | `/ˈsuːðɪŋ/`                        | adj. 抚慰的；镇静的             |
+| soothe          | `/suːð/`                           | v. 安慰；缓和                 |
+| erode           | `/ɪˈroʊd/`                         | v. 侵蚀；腐蚀                 |
+```
 
-Translator: ChatGPT 4
 
-#### First Table - 已校对 - 已写入 GoodNotes
-
-~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
-
-| 单词      | 美式发音      | 词类 + 汉语释义        | 示例                                                         |
-|----------|--------------|------------------| ------------------------------------------------------------ |
-| vital    | `/ˈvaɪtl/`   | adj. 至关重要的；充满活力的  | Regular exercise is vital for good health. <br />(定期锻炼对于良好的健康至关重要。) |
-| tourism  | `/ˈtʊrɪzəm/` | n. 旅游业           | The city's economy is heavily dependent on tourism. <br />(这座城市的经济极度依赖旅游业。) |
-| facial   | `/ˈfeɪʃəl/`  | adj. 面部的         | She uses a special cream for her facial skin. <br />(她使用特别的面霜护理面部肌肤。) |
-| dwelling | `/ˈdwɛlɪŋ/`  | n. 住宅            | The area is known for its traditional dwellings. <br />(这个区域以其传统住宅闻名。) |
-| forth    | `/ fɔːrθ/`   | adv. 向前；向外       | He stepped forth into the sunlight. <br />(他走出来，站到阳光下。) |
-| gaze     | `/ɡeɪz/`     | n. & v. 凝视       | n. Her gaze was fixed on the distant hills. <br />(她的目光凝视着远处的山丘。)<br>v. She gazed at the stars. (她凝视着星星。) |
-| soothing | `/ˈsuːðɪŋ/`  | adj. 安慰的；舒缓的     | The music had a soothing effect on the baby. <br />(这音乐对婴儿有舒缓的效果。) |
-| soothe   | `/suːð/`     | v. 安慰；减轻（痛苦）     | She soothed the crying child by rocking him gently. <br />(她轻轻摇晃来安抚哭泣的孩子。) |
-| erode    | `/ɪˈroʊd/`   | v. 侵蚀；腐蚀         | The coastline is slowly eroding due to rising sea levels. <br />(由于海平面上升，海岸线正在缓慢侵蚀。) |
 
 
 
@@ -6508,7 +6456,6 @@ Translator: ChatGPT 4o
 | blossoms    | `/ˈblɑːsəmz/`   | n. 花（复数）          | The trees are covered in blossoms. <br>(树上开满了花。) |
 | cushion     | `/ˈkʊʃən/`      | n. 垫子；缓冲<br>v. 缓和冲击 | n. She sat on a soft cushion. <br>(她坐在一个软垫子上。)<br>v. The airbags cushioned the impact. <br>(安全气囊缓和了冲击。) |
 | dangle      | `/ˈdæŋɡəl/`     | v. 悬挂；摆动          | The earrings dangled from her ears. <br>(耳环在她的耳朵上摆动。) |
-| decorate    | `/ˈdekəreɪt/`   | v. 装饰；布置          | They decorated the room for the party. <br>(他们为聚会装饰了房间。)<br>She likes to decorate cakes. <br>(她喜欢装饰蛋糕。) |
 | delighted   | `/dɪˈlaɪtɪd/`   | adj. 愉快的；高兴的      | She was delighted with the gift. <br>(她对这份礼物非常高兴。) |
 | demonstrate | `/ˈdemənstreɪt/` | v. 演示；证明          | He demonstrated how to use the machine. <br>(他演示了如何使用这台机器。)<br>The results demonstrate the effectiveness of the new method. <br>(结果证明了新方法的有效性。) |
 | den         | `/den/`         | n. 兽穴；书斋          | The lion returned to its den. <br>(狮子回到了它的巢穴。)<br>He reads in his den every evening. <br>(他每天晚上在书斋读书。) |
@@ -6558,40 +6505,40 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词            | 美式发音            | 词性 + 汉语释义            | 示例 |
-|---------------|-----------------|----------------------|---|
-| as            | `/æz/`          | conj. 当...时；因为；尽管<br>adv. 像...一样 | conj. 当...时: As I was walking home, it started to rain. <br>(当我走回家时，开始下雨了。)<br>因为: As he was tired, he went to bed early. <br>(因为他累了，所以早早上床睡觉。)<br>尽管: As much as I like him, I can't agree with his decision. <br>(尽管我喜欢他，但我不能同意他的决定。)<br>adv. 像...一样: He is as tall as his brother. <br>(他和他哥哥一样高。) |
-| when          | `/wen/`         | conj. 当...时；何时；如果<br>adv. 何时 | conj. 当...时: When I was young, I loved playing outside. <br>(当我年轻时，我喜欢在外面玩。)<br>何时: Do you remember when we first met? <br>(你记得我们第一次见面是什么时候吗？)<br>如果: Call me when you arrive. <br>(你到的时候给我打电话。)<br>adv. 何时: When will you arrive? <br>(你什么时候到？) |
-| before        | `/bɪˈfɔːr/`     | conj. 在...之前<br>prep. 在...之前<br>adv. 以前 | conj. Finish your homework before you go out. <br>(在出去之前完成作业。)<br>prep. He arrived before me. <br>(他比我先到。)<br>adv. I've seen him before. <br>(我以前见过他。) |
-| after         | `/ˈæftər/`      | conj. 在...之后<br>prep. 在...之后 | conj. We will go to the park after lunch. <br>(午饭后我们去公园。)<br>prep. She arrived after me. <br>(她在我之后到达。) |
-| while         | `/waɪl/`        | conj. 当...时候；虽然<br>n. 一段时间 | conj. She read a book while waiting. <br>(她在等的时候读了一本书。)<br>n. We chatted for a while. <br>(我们聊了一会儿。) |
-| since         | `/sɪns/`        | conj. 自从；因为<br>adv. 从那时到现在 | conj. I haven't seen her since last year. <br>(自从去年我就没见过她。)<br>adv. He left home years ago and hasn't been seen since. <br>(他多年前离家，至今未见。) |
-| until         | `/ənˈtɪl/`      | conj. & prep.  直到 | conj. Wait here until I come back. <br>(在我回来之前在这里等着。)<br>prep. The shop is open until 9 PM. <br>(商店营业到晚上9点。) |
-| once          | `/wʌns/`        | conj. 一旦<br>adv. 一次  | conj. Once you finish, we can leave. <br>(一旦你完成，我们就可以离开。)<br>adv. He visits his parents once a month. <br>(他每月看望父母一次。)<br />I’ve only met her once. 我只见过她一面。 |
-| where         | `/wer/`         | conj. 在...的地方<br>adv. 哪里 | conj. This is the place where we met. <br>(这里是我们见面的地方。)<br>adv. Where are you going? <br>(你要去哪里？) |
-| wherever      | `/werˈevər/`    | conj. 无论哪里<br>adv. 无论什么地方 | conj. Sit wherever you like. <br>(你喜欢坐哪里就坐哪里。)<br>adv. Wherever he goes, trouble follows. <br>(无论他去哪里，麻烦都会跟着。) |
-| though        | `/ðoʊ/`         | conj. 虽然<br>adv. 然而  | conj. Though it was cold, he didn't wear a coat. <br>(虽然天冷，他没穿外套。)<br>adv. The test was hard. It was fair, though. <br>(考试很难，然而还是公平的。) |
-| because       | `/bɪˈkɔz/`      | conj. 因为             | She stayed home because she was sick. <br>(她因为生病待在家里。) |
-| now that      | `/naʊ ðæt/`     | conj. 既然             | Now that we are here, let's start. <br>(既然我们在这里，就开始吧。) |
-| so that       | `/soʊ ðæt/`     | conj. 以便             | He whispered so that no one could hear. <br>(他低声说话以便没人听见。) |
-| in order that | `/ɪn ˈɔrdər ðæt/` | conj. 为了             | She saved money in order that she could buy a car. <br>(她存钱是为了能买车。) |
-| so...that     | `/soʊ...ðæt/`   | conj. 如此...以至于       | He was so tired that he fell asleep. <br>(他累得睡着了。) |
-| such...that   | `/sʌtʃ...ðæt/`  | conj. 如此...以至于       | It was such a good movie that I watched it twice. <br>(这部电影太好看了，我看了两遍。) |
-| if            | `/ɪf/`          | conj. 如果             | If it rains, we will stay home. <br>(如果下雨，我们就待在家里。) |
-| unless        | `/ʌnˈles/`      | conj. 除非             | We won't go unless it stops raining. <br>(除非雨停，否则我们不会去。) |
-| provided that | `/prəˈvaɪdɪd ðæt/` | conj. 只要             | You can go out provided that you finish your homework. <br>(只要你完成作业，你就可以出去。) |
-| as if         | `/æz ɪf/`       | conj. 仿佛             | He looked as if he had seen a ghost. <br>(他看起来仿佛见到了鬼。) |
-| as though     | `/æz ðoʊ/`      | conj. 仿佛             | She acted as though nothing had happened. <br>(她表现得仿佛什么也没发生。) |
-| although      | `/ɔlˈðoʊ/`      | conj. 虽然             | Although it was raining, we went out. <br>(虽然下雨，我们还是出去了。) |
-| even though   | `/ˈivən ðoʊ/`   | conj. 即使             | Even though he is rich, he is not happy. <br>(即使他很富有，他也不开心。) |
-| whereas       | `/werˈæz/`      | conj. 然而             | He likes coffee, whereas she prefers tea. <br>(他喜欢咖啡，而她更喜欢茶。) |
-| while         | `/waɪl/`        | conj. 当...时候；虽然      | He read a book while waiting. <br>(他在等的时候读了一本书。) |
-| dramatic      | `/drəˈmætɪk/`   | adj. 戏剧性的；引人注目的      | There was a dramatic change in the weather. <br>(天气发生了戏剧性的变化。) |
-| ==demographic | `/ˌdeməˈɡræfɪk/` | adj. 人口统计的<br>n. 人口统计数据 | adj. The demographic trend shows an aging population. <br>(人口统计趋势显示老龄化人口。)<br>n. The company targets a young demographic. <br>(公司瞄准年轻人口。) |
-| adulthood     | `/əˈdʌlthʊd/`   | n. 成年                | He spent his childhood in Italy and his adulthood in the US. <br>(他童年在意大利度过，成年后在美国。) |
-| ambiguity     | `/ˌæmbɪˈɡjuːəti/` | n. 模棱两可；不明确          | The ambiguity of his statement confused everyone. <br>(他的话语含糊不清，令所有人困惑。) |
-| dictator      | `/ˈdɪkteɪtər/`  | n. 独裁者               | The dictator ruled the country with an iron fist. <br>(独裁者铁腕统治国家。) |
-| attributive   | `/əˈtrɪbjətɪv/` | adj. 定语的             | In the phrase "the big house," "big" is an attributive adjective. <br>(在短语“the big house”中，“big”是定语形容词。) |
+| 单词            | 美式发音               | 词性 + 汉语释义                      | 示例 |
+|---------------|--------------------|--------------------------------|---|
+| as            | `/æz/`             | conj. 当...时；因为；尽管<br>adv. 像...一样 | conj. 当...时: As I was walking home, it started to rain. <br>(当我走回家时，开始下雨了。)<br>因为: As he was tired, he went to bed early. <br>(因为他累了，所以早早上床睡觉。)<br>尽管: As much as I like him, I can't agree with his decision. <br>(尽管我喜欢他，但我不能同意他的决定。)<br>adv. 像...一样: He is as tall as his brother. <br>(他和他哥哥一样高。) |
+| when          | `/wen/`            | conj. 当...时；何时；如果<br>adv. 何时   | conj. 当...时: When I was young, I loved playing outside. <br>(当我年轻时，我喜欢在外面玩。)<br>何时: Do you remember when we first met? <br>(你记得我们第一次见面是什么时候吗？)<br>如果: Call me when you arrive. <br>(你到的时候给我打电话。)<br>adv. 何时: When will you arrive? <br>(你什么时候到？) |
+| before        | `/bɪˈfɔːr/`        | conj. 在...之前<br>prep. 在...之前<br>adv. 以前 | conj. Finish your homework before you go out. <br>(在出去之前完成作业。)<br>prep. He arrived before me. <br>(他比我先到。)<br>adv. I've seen him before. <br>(我以前见过他。) |
+| after         | `/ˈæftər/`         | conj. 在...之后<br>prep. 在...之后   | conj. We will go to the park after lunch. <br>(午饭后我们去公园。)<br>prep. She arrived after me. <br>(她在我之后到达。) |
+| while         | `/waɪl/`           | conj. 当...时候；虽然<br>n. 一段时间     | conj. She read a book while waiting. <br>(她在等的时候读了一本书。)<br>n. We chatted for a while. <br>(我们聊了一会儿。) |
+| since         | `/sɪns/`           | conj. 自从；因为<br>adv. 从那时到现在     | conj. I haven't seen her since last year. <br>(自从去年我就没见过她。)<br>adv. He left home years ago and hasn't been seen since. <br>(他多年前离家，至今未见。) |
+| until         | `/ənˈtɪl/`         | conj. & prep.  直到              | conj. Wait here until I come back. <br>(在我回来之前在这里等着。)<br>prep. The shop is open until 9 PM. <br>(商店营业到晚上9点。) |
+| once          | `/wʌns/`           | conj. 一旦<br>adv. 一次            | conj. Once you finish, we can leave. <br>(一旦你完成，我们就可以离开。)<br>adv. He visits his parents once a month. <br>(他每月看望父母一次。)<br />I’ve only met her once. 我只见过她一面。 |
+| where         | `/wer/`            | conj. 在...的地方<br>adv. 哪里       | conj. This is the place where we met. <br>(这里是我们见面的地方。)<br>adv. Where are you going? <br>(你要去哪里？) |
+| wherever      | `/werˈevər/`       | conj. 无论哪里<br>adv. 无论什么地方      | conj. Sit wherever you like. <br>(你喜欢坐哪里就坐哪里。)<br>adv. Wherever he goes, trouble follows. <br>(无论他去哪里，麻烦都会跟着。) |
+| though        | `/ðoʊ/`            | conj. 虽然<br>adv. 然而            | conj. Though it was cold, he didn't wear a coat. <br>(虽然天冷，他没穿外套。)<br>adv. The test was hard. It was fair, though. <br>(考试很难，然而还是公平的。) |
+| because       | `/bɪˈkɔz/`         | conj. 因为                       | She stayed home because she was sick. <br>(她因为生病待在家里。) |
+| now that      | `/naʊ ðæt/`        | conj. 既然                       | Now that we are here, let's start. <br>(既然我们在这里，就开始吧。) |
+| so that       | `/soʊ ðæt/`        | conj. 以便                       | He whispered so that no one could hear. <br>(他低声说话以便没人听见。) |
+| in order that | `/ɪn ˈɔrdər ðæt/`  | conj. 为了                       | She saved money in order that she could buy a car. <br>(她存钱是为了能买车。) |
+| so...that     | `/soʊ...ðæt/`      | conj. 如此...以至于                 | He was so tired that he fell asleep. <br>(他累得睡着了。) |
+| such...that   | `/sʌtʃ...ðæt/`     | conj. 如此...以至于                 | It was such a good movie that I watched it twice. <br>(这部电影太好看了，我看了两遍。) |
+| if            | `/ɪf/`             | conj. 如果                       | If it rains, we will stay home. <br>(如果下雨，我们就待在家里。) |
+| unless        | `/ʌnˈles/`         | conj. 除非                       | We won't go unless it stops raining. <br>(除非雨停，否则我们不会去。) |
+| provided that | `/prəˈvaɪdɪd ðæt/` | conj. 只要                       | You can go out provided that you finish your homework. <br>(只要你完成作业，你就可以出去。) |
+| as if         | `/æz ɪf/`          | conj. 仿佛                       | He looked as if he had seen a ghost. <br>(他看起来仿佛见到了鬼。) |
+| as though     | `/æz ðoʊ/`         | conj. 仿佛                       | She acted as though nothing had happened. <br>(她表现得仿佛什么也没发生。) |
+| although      | `/ɔlˈðoʊ/`         | conj. 虽然                       | Although it was raining, we went out. <br>(虽然下雨，我们还是出去了。) |
+| even though   | `/ˈivən ðoʊ/`      | conj. 即使                       | Even though he is rich, he is not happy. <br>(即使他很富有，他也不开心。) |
+| whereas       | `/werˈæz/`         | conj. 然而                       | He likes coffee, whereas she prefers tea. <br>(他喜欢咖啡，而她更喜欢茶。) |
+| while         | `/waɪl/`           | conj. 当...时候；虽然                | He read a book while waiting. <br>(他在等的时候读了一本书。) |
+| dramatic      | `/drəˈmætɪk/`      | adj. 戏剧性的；引人注目的                | There was a dramatic change in the weather. <br>(天气发生了戏剧性的变化。) |
+| ==demographic | `/ˌdeməˈɡræfɪk/`   | adj. 人口统计的<br>n. 人口统计数据        | adj. The demographic trend shows an aging population. <br>(人口统计趋势显示老龄化人口。)<br>n. The company targets a young demographic. <br>(公司瞄准年轻人口。) |
+| adulthood     | `/əˈdʌlthʊd/`      | n. 成年                          | He spent his childhood in Italy and his adulthood in the US. <br>(他童年在意大利度过，成年后在美国。) |
+| ambiguity     | `/ˌæmbɪˈɡjuːəti/`  | n. 模棱两可；不明确                    | The ambiguity of his statement confused everyone. <br>(他的话语含糊不清，令所有人困惑。) |
+| dictator      | `/ˈdɪkteɪtər/`     | n. 独裁者                         | The dictator ruled the country with an iron fist. <br>(独裁者铁腕统治国家。) |
+| attributive   | `/əˈtrɪbjətɪv/`    | adj. 定语的                       | In the phrase "the big house," "big" is an attributive adjective. <br>(在短语“the big house”中，“big”是定语形容词。) |
 
 
 
