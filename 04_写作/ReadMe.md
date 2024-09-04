@@ -245,6 +245,19 @@ And you're good, Tony. (而你是好人, 托尼.)
 
 ##  ▲ 奥斯卡・王尔德（英国作家、诗人、散文家）
 
+| 单词        | 美式发音         | 词性 + 汉语释义                 |
+| ----------- | ---------------- | ------------------------------- |
+| Oscar Wilde | `/ˈɒskər waɪld/` | n. 奥斯卡・王尔德（爱尔兰作家） |
+
+```md
+Source: https://en.wikipedia.org/wiki/Oscar_Wilde
+```
+
+**Oscar Fingal O'Fflahertie Wills Wilde**[[a\]](https://en.wikipedia.org/wiki/Oscar_Wilde#cite_note-3) (16 October 1854 – 30 November 1900) was an Irish poet and playwright. After writing in different forms throughout the 1880s, he became one of the most popular playwrights in London in the early 1890s. He is best remembered for his [epigrams](https://en.wikipedia.org/wiki/Epigrams) and plays, his novel *[The Picture of Dorian Gray](https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray)*, and his criminal conviction for [gross indecency](https://en.wikipedia.org/wiki/Gross_indecency) for homosexual acts.
+**奥斯卡・芬格尔・奥弗拉赫蒂・威尔斯・王尔德（Oscar Fingal O'Fflahertie Wills Wilde** [， 1854](https://en.wikipedia.org/wiki/Oscar_Wilde#cite_note-3) 年 10 月 16 日－1900 年 11 月 30 日）是一位爱尔兰诗人和剧作家。在整个 1880 年代以不同形式进行创作后，他成为 1890 年代初期伦敦最受欢迎的剧作家之一。他最为人们所铭记的是他的 [警句](https://en.wikipedia.org/wiki/Epigrams)和戏剧、小说*[《道林・格雷的画像》](https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray)* ，以及他因同性恋行为[严重猥亵而](https://en.wikipedia.org/wiki/Gross_indecency)被定罪的刑事罪名。
+
+
+
 ```md
 Source: https://www.cnblogs.com/intelwisd/p/7649298.html
 
@@ -252,8 +265,6 @@ Add: 2024.08.08
 
 Edite: ChatGPT 4o
 ```
-
-奥斯卡・王尔德（Oscar Wilde，1854 年 10 月 16 日 —1900 年 11 月 30 日），出生于爱尔兰都柏林，19 世纪英国（准确来讲是爱尔兰，但是当时由英国统治）最伟大的作家与艺术家之一，以其剧作、诗歌、童话和小说闻名，唯美主义代表人物，19 世纪 80 年代美学运动的主力和 90 年代颓废派运动的先驱。
 
 | 中文                                                         | 英文                                                         | 注释                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -344,6 +355,10 @@ Edite: ChatGPT 4o
 
 ## ▲ Carl Gustav Jung (卡尔・古斯塔夫・荣格)
 
+| 单词             | 美式发音                | 词性 + 汉语释义                         |
+| ---------------- | ----------------------- | --------------------------------------- |
+| Carl Gustav Jung | `/kɑːrl ˈɡuːstɑːv jʊŋ/` | n. 卡尔・古斯塔夫・荣格（瑞士心理学家） |
+
 ### 卡尔 · 荣格 简介
 
 ```md
@@ -400,7 +415,7 @@ Until you make the unconscious conscious, it will direct your life, and you will
 19. The capacity for directed thinking I call intellect; the capacity for passive or undirected thinking I call intellectual intuition.
 20. Sometimes, indeed, there is such a discrepancy between the genius and his human qualities that one has to ask oneself whether a little less talent might not have been better.
 21. I have always been impressed by the fact that there are a surprising number of individuals who never use their minds if they can avoid it, and an equal number who do use their minds, but in an amazingly stupid way.
-21. Everything that irritates us about others can lead us to a better understanding of ourselves.
+22. Everything that irritates us about others can lead us to a better understanding of ourselves.
 23. Creative powers can just as easily turn out to be destructive. It rests solely with the moral personality.
 24. Whether they apply themselves to good things or to bad. And if this is lacking, no teacher can supply it or take its place.
 25. That which compels us to create a substitute for ourselves is not the external lack of objects, but our incapacity to lovingly include a thing outside of ourselves.
@@ -438,4 +453,48 @@ Until you make the unconscious conscious, it will direct your life, and you will
 57. Faith, hope, love, and insight are the highest achievements of human effort. They are found-given-by experience.
 
 
+
+## ▲  Arthur Schopenhauer  阿瑟·叔本华
+
+| 单词                | 美式发音                  | 词性 + 汉语释义              |
+| ------------------- | ------------------------- | ---------------------------- |
+| Arthur Schopenhauer | `/ˈɑːrθər ˈʃoʊpənˌhaʊər/` | n. 亚瑟·叔本华（德国哲学家） |
+
+### Arthur Schopenhauer  synopsis （简介）
+
+```md
+Source: https://en.wikipedia.org/wiki/Arthur_Schopenhauer
+```
+
+**Arthur Schopenhauer** ([/ˈʃoʊpənhaʊər/](https://en.wikipedia.org/wiki/Help:IPA/English) [*SHOH-pən-how-ər*](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key);[[9\]](https://en.wikipedia.org/wiki/Arthur_Schopenhauer#cite_note-9) German: [[ˈaʁtuːɐ̯ ˈʃoːpn̩haʊɐ\]](https://en.wikipedia.org/wiki/Help:IPA/Standard_German) [ⓘ](https://en.wikipedia.org/wiki/File:De-Arthur_Schopenhauer2.ogg); 22 February 1788 – 21 September 1860) was a German philosopher. He is known for his 1818 work *[The World as Will and Representation](https://en.wikipedia.org/wiki/The_World_as_Will_and_Representation)* (expanded in 1844), which characterizes the [phenomenal](https://en.wikipedia.org/wiki/Phenomenon) world as the manifestation of a blind and irrational [noumenal](https://en.wikipedia.org/wiki/Noumenon) will.[[10\]](https://en.wikipedia.org/wiki/Arthur_Schopenhauer#cite_note-10)[[11\]](https://en.wikipedia.org/wiki/Arthur_Schopenhauer#cite_note-11)[[12\]](https://en.wikipedia.org/wiki/Arthur_Schopenhauer#cite_note-12) Building on the [transcendental idealism](https://en.wikipedia.org/wiki/Transcendental_idealism) of [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant) (1724–1804), Schopenhauer developed an [atheistic](https://en.wikipedia.org/wiki/Atheistic) metaphysical and ethical system that rejected the contemporaneous ideas of [German idealism](https://en.wikipedia.org/wiki/German_idealism).[[7\]](https://en.wikipedia.org/wiki/Arthur_Schopenhauer#cite_note-WWR3-7)[[8\]](https://en.wikipedia.org/wiki/Arthur_Schopenhauer#cite_note-Jacquette-8)
+**阿瑟・叔本华** （ [/ˈʃoʊpənhaʊər/](https://en.wikipedia.org/wiki/Help:IPA/English) [*SHOH -pən-how-ər*](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key) ; [[ 9 \]](https://en.wikipedia.org/wiki/Arthur_Schopenhauer#cite_note-9) 德语： [[ˈaʁtuːɐ̯ ˈʃoːpn̩haʊɐ\]](https://en.wikipedia.org/wiki/Help:IPA/Standard_German) [ⓘ](https://en.wikipedia.org/wiki/File:De-Arthur_Schopenhauer2.ogg) ; （1788 年 2 月 22 日－1860 年 9 月 21 日）是一位德国哲学家。他因 1818 年的作品*[《作为意志和表象的世界》](https://en.wikipedia.org/wiki/The_World_as_Will_and_Representation)* （于 1844 年扩展）而闻名，该书将[现象](https://en.wikipedia.org/wiki/Phenomenon)世界描述为盲目和非理性的[本体](https://en.wikipedia.org/wiki/Noumenon)意志的表现。 [[ 10 \]](https://en.wikipedia.org/wiki/Arthur_Schopenhauer#cite_note-10) [[ 11 \]](https://en.wikipedia.org/wiki/Arthur_Schopenhauer#cite_note-11) [[ 12 \]](https://en.wikipedia.org/wiki/Arthur_Schopenhauer#cite_note-12) 叔本华以伊曼努尔・康德（ [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant) ，1724-1804）的 [先验唯心主义](https://en.wikipedia.org/wiki/Transcendental_idealism)为基础，发展了一种[无神论的](https://en.wikipedia.org/wiki/Atheistic)形而上学和伦理体系，拒绝了同时代的[德国唯心主义](https://en.wikipedia.org/wiki/German_idealism)思想。 [[ 7 \]](https://en.wikipedia.org/wiki/Arthur_Schopenhauer#cite_note-WWR3-7) [[ 8 \]](https://en.wikipedia.org/wiki/Arthur_Schopenhauer#cite_note-Jacquette-8)
+
+Schopenhauer was among the first thinkers in [Western philosophy](https://en.wikipedia.org/wiki/Western_philosophy) to share and affirm significant tenets of [Indian philosophy](https://en.wikipedia.org/wiki/Indian_philosophy), such as [asceticism](https://en.wikipedia.org/wiki/Asceticism), denial of the [self](https://en.wikipedia.org/wiki/Self_(philosophy)), and the notion of the [world-as-appearance](https://en.wikipedia.org/wiki/Maya_(religion)).[[13\]](https://en.wikipedia.org/wiki/Arthur_Schopenhauer#cite_note-13) His work has been described as an exemplary manifestation of [philosophical pessimism](https://en.wikipedia.org/wiki/Philosophical_pessimism).[[14\]](https://en.wikipedia.org/wiki/Arthur_Schopenhauer#cite_note-14) Though his work failed to garner substantial attention during his lifetime, he had a posthumous impact across various disciplines, including philosophy, literature, and science. His writing on [aesthetics](https://en.wikipedia.org/wiki/Schopenhauer's_aesthetics), [morality](https://en.wikipedia.org/wiki/Morality), and [psychology](https://en.wikipedia.org/wiki/Psychology) have influenced many thinkers and artists.
+叔本华是[西方哲学](https://en.wikipedia.org/wiki/Western_philosophy)中最早分享和肯定[印度哲学](https://en.wikipedia.org/wiki/Indian_philosophy)重要原则的思想家之一，例如[禁欲主义](https://en.wikipedia.org/wiki/Asceticism)、[自我](https://en.wikipedia.org/wiki/Self_(philosophy))否定和[世界表象](https://en.wikipedia.org/wiki/Maya_(religion))的概念。 [[ 13 \]](https://en.wikipedia.org/wiki/Arthur_Schopenhauer#cite_note-13) 他的作品被描述为 [哲学悲观主义](https://en.wikipedia.org/wiki/Philosophical_pessimism)的典范。 [[ 14 \]](https://en.wikipedia.org/wiki/Arthur_Schopenhauer#cite_note-14) 尽管他的作品在生前未能引起广泛关注，但他死后对各个学科产生了影响，包括哲学、文学和科学。他关于 [美学](https://en.wikipedia.org/wiki/Schopenhauer's_aesthetics)、[道德](https://en.wikipedia.org/wiki/Morality)和[心理学](https://en.wikipedia.org/wiki/Psychology)的著作影响了许多思想家和艺术家。
+
+
+
+
+
+## ▲ Sigmund Freud  (西格蒙德・ 弗洛伊德)
+
+| 单词          | 美式发音           | 词性 + 汉语释义                                 |
+| ------------- | ------------------ | ----------------------------------------------- |
+| Sigmund Freud | `/ˈsɪɡmənd frɔɪd/` | n. 西格蒙德・弗(fú)洛伊德（奥地利精神分析学家） |
+
+```md
+Source: https://en.wikipedia.org/wiki/Sigmund_Freud
+```
+
+**Sigmund Freud** ([/frɔɪd/](https://en.wikipedia.org/wiki/Help:IPA/English) [*FROYD*](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key);[[2\]](https://en.wikipedia.org/wiki/Sigmund_Freud#cite_note-2) German: [[ˈziːkmʊnt ˈfrɔʏt\]](https://en.wikipedia.org/wiki/Help:IPA/Standard_German); born **Sigismund Schlomo Freud**; 6 May 1856 – 23 September 1939) was an Austrian [neurologist](https://en.wikipedia.org/wiki/Neurologist) and the founder of [psychoanalysis](https://en.wikipedia.org/wiki/Psychoanalysis), a clinical method for evaluating and treating [pathologies](https://en.wikipedia.org/wiki/Psychopathology) seen as originating from conflicts in the [psyche](https://en.wikipedia.org/wiki/Psyche_(psychology)), through dialogue between patient and psychoanalyst,[[3\]](https://en.wikipedia.org/wiki/Sigmund_Freud#cite_note-Systems-3) and the distinctive theory of mind and human agency derived from it.[[4\]](https://en.wikipedia.org/wiki/Sigmund_Freud#cite_note-4)
+**西格蒙德・弗洛伊德** （ [/frɔɪd/](https://en.wikipedia.org/wiki/Help:IPA/English) [*弗洛伊德*](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key)； [[ 2 \]](https://en.wikipedia.org/wiki/Sigmund_Freud#cite_note-2) 德语： [[ˈziːkmʊnt ˈfrɔʏt\]](https://en.wikipedia.org/wiki/Help:IPA/Standard_German) ; 出生于 **西吉斯蒙德・施洛莫・弗洛伊德**； 1856 年 5 月 6 日至 1939 年 9 月 23 日）是一位奥地利[神经学家](https://en.wikipedia.org/wiki/Neurologist)和[精神分析](https://en.wikipedia.org/wiki/Psychoanalysis)的创始人，精神分析是一种通过患者和精神分析师之间的对话来评估和治疗源自[心理](https://en.wikipedia.org/wiki/Psyche_(psychology))冲突的[病理的](https://en.wikipedia.org/wiki/Psychopathology)临床方法， [[ 3 \]](https://en.wikipedia.org/wiki/Sigmund_Freud#cite_note-Systems-3) 以及独特的理论思想和人类能动性源自于它。 [[ 4 \]](https://en.wikipedia.org/wiki/Sigmund_Freud#cite_note-4)
+
+Freud was born to [Galician Jewish](https://en.wikipedia.org/wiki/Galician_Jews) parents in the [Moravian](https://en.wikipedia.org/wiki/Moravia) town of [Freiberg](https://en.wikipedia.org/wiki/Příbor), in the [Austrian Empire](https://en.wikipedia.org/wiki/Austrian_Empire). He qualified as a doctor of medicine in 1881 at the [University of Vienna](https://en.wikipedia.org/wiki/University_of_Vienna).[[5\]](https://en.wikipedia.org/wiki/Sigmund_Freud#cite_note-5)[[6\]](https://en.wikipedia.org/wiki/Sigmund_Freud#cite_note-6) Upon completing his [habilitation](https://en.wikipedia.org/wiki/Habilitation) in 1885, he was appointed a [docent](https://en.wikipedia.org/wiki/Docent) in [neuropathology](https://en.wikipedia.org/wiki/Neuropathology) and became an affiliated professor in 1902.[[7\]](https://en.wikipedia.org/wiki/Sigmund_Freud#cite_note-7) Freud lived and worked in [Vienna](https://en.wikipedia.org/wiki/Vienna) having set up his clinical practice there in 1886. Following the [German annexation of Austria](https://en.wikipedia.org/wiki/Anschluss) in March 1938, Freud left Austria to escape [Nazi](https://en.wikipedia.org/wiki/Nazi) persecution. He died in exile in the United Kingdom in 1939.
+弗洛伊德的父母是[加利西亚犹太人，](https://en.wikipedia.org/wiki/Galician_Jews)出生于[奥地利帝国](https://en.wikipedia.org/wiki/Austrian_Empire)的[摩拉维亚](https://en.wikipedia.org/wiki/Moravia)小镇[弗赖贝格](https://en.wikipedia.org/wiki/Příbor)。 1881 年，他在[维也纳大学](https://en.wikipedia.org/wiki/University_of_Vienna)获得医学博士学位。 [[ 5 \]](https://en.wikipedia.org/wiki/Sigmund_Freud#cite_note-5) [[ 6 \]](https://en.wikipedia.org/wiki/Sigmund_Freud#cite_note-6) 1885 年完成 [训练](https://en.wikipedia.org/wiki/Habilitation)后，他被任命为[神经病理学](https://en.wikipedia.org/wiki/Neuropathology)[讲师](https://en.wikipedia.org/wiki/Docent)，并于 1902 年成为附属教授。 [[ 7 \]](https://en.wikipedia.org/wiki/Sigmund_Freud#cite_note-7) 弗洛伊德在 [维也纳](https://en.wikipedia.org/wiki/Vienna)生活和工作，并于 1886 年在那里建立了他的临床实践[。](https://en.wikipedia.org/wiki/Anschluss) 1938 年 3 月[奥地利吞并后](https://en.wikipedia.org/wiki/Anschluss)，弗洛伊德离开奥地利以躲避[纳粹](https://en.wikipedia.org/wiki/Nazi)迫害。 1939 年他在英国流亡途中去世。
+
+In founding [psychoanalysis](https://en.wikipedia.org/wiki/Psychoanalysis), Freud developed therapeutic techniques such as the use of [free association](https://en.wikipedia.org/wiki/Free_association_(psychology)) and discovered [transference](https://en.wikipedia.org/wiki/Transference), establishing its central role in the analytic process. Freud's redefinition of sexuality to include its infantile forms led him to formulate the [Oedipus complex](https://en.wikipedia.org/wiki/Oedipus_complex) as the central tenet of psychoanalytical theory.[[8\]](https://en.wikipedia.org/wiki/Sigmund_Freud#cite_note-8) His analysis of [dreams](https://en.wikipedia.org/wiki/Dream) as wish-fulfilments provided him with models for the clinical analysis of symptom formation and the underlying mechanisms of [repression](https://en.wikipedia.org/wiki/Repression_(psychology)). On this basis, Freud elaborated his theory of the [unconscious](https://en.wikipedia.org/wiki/Sigmund_Freud#The_unconscious) and went on to develop a model of psychic structure comprising [id, ego and super-ego](https://en.wikipedia.org/wiki/Id,_ego_and_super-ego).[[9\]](https://en.wikipedia.org/wiki/Sigmund_Freud#cite_note-mannoni-9) Freud postulated the existence of [libido](https://en.wikipedia.org/wiki/Libido), sexualised energy with which mental processes and structures are invested and which generates erotic attachments, and a [death drive](https://en.wikipedia.org/wiki/Death_drive), the source of compulsive repetition, hate, aggression, and [neurotic](https://en.wikipedia.org/wiki/Neurosis) guilt.[[9\]](https://en.wikipedia.org/wiki/Sigmund_Freud#cite_note-mannoni-9) In his later work, Freud developed a wide-ranging interpretation and critique of religion and culture.
+在创立[精神分析](https://en.wikipedia.org/wiki/Psychoanalysis)时，弗洛伊德发展了使用[自由联想](https://en.wikipedia.org/wiki/Free_association_(psychology))等治疗技术，并发现了[移情](https://en.wikipedia.org/wiki/Transference)，确立了其在分析过程中的核心作用。弗洛伊德对性的重新定义包括其婴儿形式，这导致他将[俄狄浦斯情结](https://en.wikipedia.org/wiki/Oedipus_complex)阐述为精神分析理论的中心原则。 [[ 8 \]](https://en.wikipedia.org/wiki/Sigmund_Freud#cite_note-8) 他将 [梦](https://en.wikipedia.org/wiki/Dream)作为愿望实现的分析为他提供了临床分析症状形成和潜在的[压抑](https://en.wikipedia.org/wiki/Repression_(psychology))机制的模型。在此基础上，弗洛伊德阐述了他的[无意识](https://en.wikipedia.org/wiki/Sigmund_Freud#The_unconscious)理论，并进一步发展了由[本我、自我和超我](https://en.wikipedia.org/wiki/Id,_ego_and_super-ego)组成的心理结构模型。 [[ 9 \]](https://en.wikipedia.org/wiki/Sigmund_Freud#cite_note-mannoni-9) 弗洛伊德假设存在 [力比多](https://en.wikipedia.org/wiki/Libido)，即性能量，心理过程和结构投入其中并产生色情依恋，以及[死亡驱力](https://en.wikipedia.org/wiki/Death_drive)，这是强迫性重复、仇恨、攻击性和[神经质](https://en.wikipedia.org/wiki/Neurosis)内疚的根源。 [[ 9 \]](https://en.wikipedia.org/wiki/Sigmund_Freud#cite_note-mannoni-9) 在他后来的著作中，弗洛伊德对宗教和文化进行了广泛的解释和批判。
+
+Though in overall decline as a diagnostic and clinical practice, psychoanalysis remains influential within [psychology](https://en.wikipedia.org/wiki/Psychology), [psychiatry](https://en.wikipedia.org/wiki/Psychiatry), [psychotherapy](https://en.wikipedia.org/wiki/Psychotherapy), and across the [humanities](https://en.wikipedia.org/wiki/Humanities). It thus continues to generate extensive and highly contested debate concerning its therapeutic efficacy, its scientific status, and whether it advances or hinders the [feminist](https://en.wikipedia.org/wiki/Feminist) cause.[[10\]](https://en.wikipedia.org/wiki/Sigmund_Freud#cite_note-10) Nonetheless, Freud's work has suffused contemporary [Western thought](https://en.wikipedia.org/wiki/Western_thought) and popular culture. [W. H. Auden](https://en.wikipedia.org/wiki/W._H._Auden)'s 1940 poetic tribute to Freud describes him as having created "a whole climate of opinion / under whom we conduct our different lives".[[11\]](https://en.wikipedia.org/wiki/Sigmund_Freud#cite_note-11)
+尽管作为一种诊断和临床实践，精神分析在总体上正在衰落，但它在[心理学](https://en.wikipedia.org/wiki/Psychology)、[精神病学](https://en.wikipedia.org/wiki/Psychiatry)、[心理治疗](https://en.wikipedia.org/wiki/Psychotherapy)和整个[人文学科](https://en.wikipedia.org/wiki/Humanities)中仍然具有影响力。因此，它继续引发关于其治疗功效、科学地位以及它是否促进或阻碍[女权主义](https://en.wikipedia.org/wiki/Feminist)事业的广泛且激烈的争论。 [[ 10 \]](https://en.wikipedia.org/wiki/Sigmund_Freud#cite_note-10) 尽管如此，弗洛伊德的著作已经渗透到当代 [西方思想](https://en.wikipedia.org/wiki/Western_thought)和流行文化中。 [W. H. Auden](https://en.wikipedia.org/wiki/W._H._Auden)'s 1940 年向弗洛伊德致敬的诗歌称他创造了 “一种整体的舆论氛围 / 我们在这种氛围下过着不同的生活”。 [[ 11 \]](https://en.wikipedia.org/wiki/Sigmund_Freud#cite_note-11)
 

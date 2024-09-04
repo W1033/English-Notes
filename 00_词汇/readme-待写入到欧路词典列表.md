@@ -2,64 +2,82 @@
 
 
 
-| 单词             | 美式发音              | 词性 + 汉语释义                     |
-|----------------|-------------------|-------------------------------|
-| base           | `/beɪs/`          | n. 基础；底部；基地<br>v. 以... 为基础    |
-| based          | `/beɪst/`         | adj. 以...为基础的                 |
-| cheque         | `/tʃek/`          | n. 支票 （英式英语）                  |
-| chequebook     | `/ˈtʃekbʊk/`      | n. 支票簿（英式英语）                  |
-| checkbook      | `/ˈtʃekbʊk/`      | n. 支票簿（美式英语）                  |
-| brainstorm     | `/ˈbreɪnstɔrm/`   | n. 头脑风暴<br>v. 集思广益            |
-| brainstorming  | `/ˈbreɪnstɔrmɪŋ/` | n. 头脑风暴                       |
-| lurk           | `/lɜːrk/`         | v. 潜伏；潜藏                      |
-| mope           | `/moʊp/`          | v. 闷闷不乐                       |
-| hesitate       | `/ˈhezɪteɪt/`     | v. 犹豫                         |
-| attorney       | `/əˈtɜːrni/`      | n. 律师                         |
-| fasten         | `/ˈfæsən/`        | v. 系紧；固定                      |
-| seat           | `/siːt/`          | n. 座位<br>v. 使就座               |
-| sign           | `/saɪn/`          | n. 标志；符号<br>v. 签名；签约          |
-| jacket         | `/ˈdʒækɪt/`       | n. 夹克；外套                      |
-| mischievous    | `/ˈmɪstʃəvəs/`    | adj. 淘气的；恶作剧的                 |
-| hitch          | `/hɪtʃ/`          | v. 搭便车<br>n. 〔短暂的〕障碍          |
-| utopia         | `/juːˈtoʊpiə/`    | n. 乌托邦〔想象中的完美世界〕              |
-| utopian        | `/juːˈtoʊpiən/`   | adj. 乌托邦的；理想化的                |
-| forward        | `/ˈfɔːrwərd/`     | adv. 向前地<br>adj. 向前的<br>v. 转发 |
-| government     | `/ˈɡʌvərnmənt/`   | n. 政府                         |
-| blip           | `/blɪp/`          | n. 短暂的波动；〔电子仪器屏幕上的〕光点         |
-| suburb         | `/ˈsʌbɜːrb/`      | n. 郊区                         |
-
-
-
-| 单词            | 美式发音               | 词性 + 汉语释义            |
-|---------------|--------------------|----------------------|
-| motivation    | `/ˌmoʊtəˈveɪʃən/`  | n. 动机；动力             |
-| vary          | `/ˈveri/`          | v. 变化；改变             |
-| occasional    | `/əˈkeɪʒənl/`      | adj. 偶尔的；临时的         |
-| involve       | `/ɪnˈvɑːlv/`       | v. 包含；涉及             |
-| certain       | `/ˈsɜːrtən/`       | adj. 确定的；某些的         |
-| integrate     | `/ˈɪntɪɡreɪt/`     | v. 使合并；使融入           |
-| integration   | `/ˌɪntɪˈɡreɪʃən/`  | n. 整合；一体化            |
-| catch up on   | `/kætʃ ʌp ɑːn/`    | phr. 补做；赶上           |
-| accessible    | `/əkˈsesəbəl/`     | adj. 可进入的；易接近的       |
-| accessibility | `/əkˌsesəˈbɪləti/` | n. 可达性；可接近性          |
-| infuse        | `/ɪnˈfjuːz/`       | v. 灌输；注入             |
-| massive       | `/ˈmæsɪv/`         | adj. 巨大的；大量的         |
-| mass          | `/mæs/`            | n. 大量；块，团<br>adj. 大规模的 |
-| violence      | `/ˈvaɪələns/`      | n. 暴力；猛烈             |
-| constrictor   | `/kənˈstrɪktər/`   | n. 大蟒；压缩物            |
-| scratch       | `/skrætʃ/`         | v. 抓，挠<br>n. 抓痕；划痕   |
-| site          | `/saɪt/`           | n. 地点；场所             |
-| Columbus      | `/kəˈlʌmbəs/`      | n. 哥伦布（美国俄亥俄州首府、意大利航海家） |
-| Columbia      | `/kəˈlʌmbiə/`      | n. 哥伦比亚（美国南卡罗来纳州首府）  |
-| halo          | `/ˈheɪloʊ/`        | n. 光环；晕圈             |
-| flash         | `/flæʃ/`           | v. 闪光；闪光<br> n. 闪光；闪光灯 |
-| therapist     | `/ˈθerəpɪst/`      | n. 治疗师               |
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+base, `/beɪs/`<br/><br/> n. 基础；底部；基地<br><br>v. 以... 为基础 
+based, `/beɪst/`<br/><br/> adj. 以...为基础的            
+cheque, `/tʃek/`<br/><br/> n. 支票 （英式英语）             
+chequebook, `/ˈtʃekbʊk/`<br/><br/> n. 支票簿（英式英语）             
+checkbook, `/ˈtʃekbʊk/`<br/><br/> n. 支票簿（美式英语）             
+brainstorm, `/ˈbreɪnstɔrm/`<br/><br/> n. 头脑风暴<br><br>v. 集思广益       
+brainstorming, `/ˈbreɪnstɔrmɪŋ/`<br/><br/> n. 头脑风暴                  
+lurk, `/lɜːrk/`<br/><br/> v. 潜伏；潜藏                 
+mope, `/moʊp/`<br/><br/> v. 闷闷不乐                  
+hesitate, `/ˈhezɪteɪt/`<br/><br/> v. 犹豫                    
+attorney, `/əˈtɜːrni/`<br/><br/> n. 律师                    
+fasten, `/ˈfæsən/`<br/><br/> v. 系紧；固定                 
+seat, `/siːt/`<br/><br/> n. 座位<br><br>v. 使就座          
+sign, `/saɪn/`<br/><br/> n. 标志；符号<br><br>v. 签名；签约     
+jacket, `/ˈdʒækɪt/`<br/><br/> n. 夹克；外套                 
+mischievous, `/ˈmɪstʃəvəs/`<br/><br/> adj. 淘气的；恶作剧的            
+hitch, `/hɪtʃ/`<br/><br/> v. 搭便车<br><br>n. 〔短暂的〕障碍     
+utopia, `/juːˈtoʊpiə/`<br/><br/> n. 乌托邦〔想象中的完美世界〕         
+utopian, `/juːˈtoʊpiən/`<br/><br/> adj. 乌托邦的；理想化的           
+forward, `/ˈfɔːrwərd/`<br/><br/> adv. 向前地<br><br>adj. 向前的<br><br>v. 转发 
+government, `/ˈɡʌvərnmənt/`<br/><br/> n. 政府                    
+blip, `/blɪp/`<br/><br/> n. 短暂的波动；〔电子仪器屏幕上的〕光点    
+suburb, `/ˈsʌbɜːrb/`<br/><br/> n. 郊区                    
+motivation, `/ˌmoʊtəˈveɪʃən/`<br/><br/> n. 动机；动力             
+vary, `/ˈveri/`<br/><br/> v. 变化；改变             
+occasional, `/əˈkeɪʒənl/`<br/><br/> adj. 偶尔的；临时的         
+involve, `/ɪnˈvɑːlv/`<br/><br/> v. 包含；涉及             
+certain, `/ˈsɜːrtən/`<br/><br/> adj. 确定的；某些的         
+integrate, `/ˈɪntɪɡreɪt/`<br/><br/> v. 使合并；使融入           
+integration, `/ˌɪntɪˈɡreɪʃən/`<br/><br/> n. 整合；一体化            
+accessible, `/əkˈsesəbəl/`<br/><br/> adj. 可进入的；易接近的       
+accessibility, `/əkˌsesəˈbɪləti/`<br/><br/> n. 可达性；可接近性          
+infuse, `/ɪnˈfjuːz/`<br/><br/> v. 灌输；注入             
+massive, `/ˈmæsɪv/`<br/><br/> adj. 巨大的；大量的         
+mass, `/mæs/`<br/><br/> n. 大量；块，团<br><br>adj. 大规模的 
+violence, `/ˈvaɪələns/`<br/><br/> n. 暴力；猛烈             
+constrictor, `/kənˈstrɪktər/`<br/><br/> n. 大蟒；压缩物            
+scratch, `/skrætʃ/`<br/><br/> v. 抓，挠<br><br>n. 抓痕；划痕   
+site, `/saɪt/`<br/><br/> n. 地点；场所             
+Columbus, `/kəˈlʌmbəs/`<br/><br/> n. 哥伦布（美国俄亥俄州首府、意大利航海家） 
+Columbia, `/kəˈlʌmbiə/`<br/><br/> n. 哥伦比亚（美国南卡罗来纳州首府）  
+halo, `/ˈheɪloʊ/`<br/><br/> n. 光环；晕圈             
+flash, `/flæʃ/`<br/><br/> v. 闪光；闪光<br><br> n. 闪光；闪光灯 
+therapist, `/ˈθerəpɪst/`<br/><br/> n. 治疗师               
+flesh, `/fleʃ/`<br/><br/> n. 肉；果肉                  
+peanut, `/ˈpiːnʌt/`<br/><br/> n. 花生                    
+container, `/kənˈteɪnər/`<br/><br/> n. 容器；集装箱                
+suitcase, `/ˈsuːtkeɪs/`<br/><br/> n. 手提箱                   
+nest, `/nest/`<br/><br/> n. 窝；巢<br><br>v. 筑巢          
+slot, `/slɑːt/`<br/><br/> n. 狭(xiá)槽；时间段           
+boost, `/buːst/`<br/><br/> v. 提高；增强<br><br>n. 提高；增强     
+warehouse, `/ˈwerhaʊs/`<br/><br/> n. 仓库                    
+roast, `/roʊst/`<br/><br/> v. 烤；炙<br><br>n. 烤肉          
+anarchy, `/ˈænərki/`<br/><br/> n. 混乱；无秩序                
+permanent, `/ˈpɜːrmənənt/`<br/><br/> adj. 永久的；永恒的             
+rope, `/roʊp/`<br/><br/> n. 绳索<br><br>v. 捆，绑          
+douche, `/duːʃ/`<br/><br/> n. 冲洗器；灌洗器               
+miserable, `/ˈmɪzərəbəl/`<br/><br/> adj. 悲惨的；痛苦的             
+settle, `/ˈsetəl/`<br/><br/> v. 解决；定居；沉淀              
+settled, `/ˈsɛtəld/`<br/><br/> adj. 定居的，稳定的             
+beneath, `/bɪˈniːθ/`<br/><br/> prep. 在...下方<br><br>adv. 在下方 
 philosophy, `/fəˈlɑːsəfi/`<br/><br/> n. 哲学；人生观<br><br> 辅助记忆：来自希腊语“philosophia”，philo- 表示“爱”，-sophy 表示“智慧”，合起来就是“爱智慧”，即哲学。
 philosophical, `/ˌfɪləˈsɑːfɪkəl/`<br/><br/> adj. 哲学的；豁达的<br><br> 辅助记忆：由 “philosophy” 派生，添加 -ical 表示形容词，指与哲学相关的。          
 psyche, `/ˈsaɪki/`<br/><br/> n. 心智；灵魂<br><br> 辅助记忆：源自希腊语“psyche”，意为“灵魂”或“心智”，常用于描述人类心灵。               
