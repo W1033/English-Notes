@@ -6967,23 +6967,23 @@ Translator: ChatGPT 4
 
 注：下面表格单词已写到 Goodnotes；日期见：2024.06.15
 
-| 单词          | 美式发音               | 词类 + 汉语释义        | 示例                                                       |
-| ------------ |--------------------|------------------| ---------------------------------------------------------- |
-| inward       | `/ˈɪnwərd/`        | adj. 内部的         | He turned his gaze inward. <br />(他把目光转向内心。)      |
-| quarrel      | `/ˈkwɑːrəl/`       | n. 争吵；v. 争吵      | n. They had a quarrel about money. <br />(他们因为钱的问题而争吵。) |
-| pavement     | `/ˈpeɪvmənt/`      | n. 人行道           | The kids were playing on the pavement. <br />(孩子们在人行道上玩耍。) |
-| stray        | `/streɪ/`          | adj. 迷路的；<br />v. 走失；偏离 | adj. A stray dog followed her home. <br />(一只迷路的狗跟着她回了家。)<br/>v. His thoughts strayed to his childhood. <br />(他的思绪偏离到了他的童年。) |
-| observation  | `/ˌɑːbzərˈveɪʃən/` | n. 观察            | His observation of the birds was very detailed. <br />(他对鸟类的观察非常详细。) |
-| ladder       | `/ˈlædər/`         | n. 梯子            | He climbed the ladder to reach the roof. <br />(他爬梯子上屋顶。) |
-| dialectic    | `/ˌdaɪəˈlektɪk/`   | n. 辩证法           | The debate was an example of dialectic. <br />(这场辩论是辩证法的一个例子。) |
-| swish        | `/swɪʃ/`           | v. 挥动；n. 嗖嗖声     | v. The cat's tail swished back and forth. <br />(猫的尾巴来回挥动。) |
-| cluster      | `/ˈklʌstər/`       | n. 簇；群；v. 聚集     | n. A cluster of stars could be seen in the sky.<br /> (天空中可以看到一簇星星。) |
-| compulsory   | `/kəmˈpʌlsəri/`    | adj. 强制的         | Attendance at the meeting is compulsory. <br />(参加会议是强制性的。) |
-| moron        | ` /ˈmɔːrɑːn/ `     | n. 笨蛋（贬义）        | He acted like a complete moron. <br />(他表现得像个彻底的笨蛋。) |
-| solitude     | `/ˈsɑːlɪtuːd/`     | n. 独处；独居         | She enjoyed the solitude of the mountains. <br />(她享受山中的独处。)<br /> live in solitude 孤单(孤独)地生活 |
-| socialize    | `/ˈsoʊʃəlaɪz/`     | v. 社交            | It's important to socialize with your colleagues. <br />(与同事社交很重要。)<br />You don't socialize enough. <br />你交际不广 |
-| negotiate    | `/nɪˈgoʊʃieɪt/`    | v. 谈判，协商         | They are negotiating a new contract.<br /> (他们正在谈判一份新合同。)<br />The two countries are negotiating a trade agreement. <br />这两个国家正在谈判一项贸易协议。<br />They negotiated a new contract. <br/>(他们协商了一份新合同。) |
-| theoretical  | `/ˌθiːəˈretɪkəl/`  | adj. 理论的         | His knowledge is purely theoretical. <br />(他的知识纯粹是理论上的。)<br />theoretical physics. 理论物理（学） |
+| 单词          | 美式发音               | 词类 + 汉语释义        |
+| ------------ |--------------------|------------------|
+| inward       | `/ˈɪnwərd/`        | adj. 内部的         |
+| quarrel      | `/ˈkwɑːrəl/`       | n. 争吵；v. 争吵      |
+| pavement     | `/ˈpeɪvmənt/`      | n. 人行道           |
+| stray        | `/streɪ/`          | v. 走失；迷路<br />adj. 迷路的 |
+| observation  | `/ˌɑːbzərˈveɪʃən/` | n. 观察            |
+| ladder       | `/ˈlædər/`         | n. 梯子            |
+| dialectic    | `/ˌdaɪəˈlektɪk/`   | n. 辩证法           |
+| swish        | `/swɪʃ/`           | v. 挥动；n. 嗖嗖声     |
+| cluster      | `/ˈklʌstər/`       | n. 簇；群；v. 聚集     |
+| compulsory   | `/kəmˈpʌlsəri/`    | adj. 强制的         |
+| moron        | ` /ˈmɔːrɑːn/ `     | n. 笨蛋（贬义）        |
+| solitude     | `/ˈsɑːlɪtuːd/`     | n. 独处；独居         |
+| socialize    | `/ˈsoʊʃəlaɪz/`     | v. 社交            |
+| negotiate    | `/nɪˈgoʊʃieɪt/`    | v. 谈判，协商         |
+| theoretical  | `/ˌθiːəˈretɪkəl/`  | adj. 理论的         |
 
 
 #### Second Table - 已校对 - 已写入 GoodNotes
@@ -7007,20 +7007,3 @@ Translator: ChatGPT 4
 | assign          | `/əˈsaɪn/`            | v. 分配；指派              | She was assigned the task of organizing the meeting. <br />(她被指派组织会议的任务。) |
 | discrete        | `/dɪˈskriːt/`         | adj. 离散的；不连续的      | The report is divided into discrete sections. <br />(报告被分为几个离散的部分。) |
 | stress          | `/stres/`             | n. 压力；重读；<br />v. 强调；重读 | n. She's been under a lot of stress at work. <br />(她在工作中承受了很大的压力。)<br>v. The report stresses the need for economic reform. <br />(报告强调了进行经济改革的必要性。)<br />n. He felt a lot of stress during the exams.<br /> (他在考试期间感到很大压力。)<br/>v. The teacher stressed the importance of homework. <br />(老师强调了家庭作业的重要性。) |
-
-解释：
-1. **consortium**: 一个由多个组织或公司组成的合作团体，共同工作以达成共同的目标。
-2. **footprint**: 作为名词，确实有两个主要的含义：字面意义上的“脚印”，以及比喻意义上的“足迹”，后者通常用来指代个人或机构活动对环境的影响。
-3. **specific**: 指具体的、明确的，强调独特性或特定性。
-4. **combination**: 组合或联合，指不同的元素或事物结合在一起。
-5. **profile**: 可以指人的侧面轮廓，也指对某人或某事的详细描述，或者社交媒体上的个人信息。
-6. **reproducible**: 可以复制的，指实验或过程能够被重复并得到相同结果。
-7. **reproduce**: 指复制、再现或生育繁殖。
-8. **representation**: 表示代表或象征，通常指通过某种方式（如艺术或政治）代表或呈现一个概念、群体或想法。
-9. **entail**: 意味着需要或牵涉到，指为了达到某种结果而必须做的事。
-10. **analog**: 与数字相对，指基于连续信号或物理测量的技术或设备。
-11. **arbitrary**: 任意的或随机的，通常指未经过深思熟虑的决定或选择。
-12. **correspond**: 相符合或相一致，指两个或更多事物在某些方面相似或相等。
-13. **assign**: 分配或指派，通常指给某人分配任务或责任。
-14. **discrete**: 离散的或不连续的，指分开的或互不相关联的。
-15. **stress**: 作为名词，"stress" 不仅指心理或身体的压力，也指语言中的重读（音节上的重音）。作为动词，它既可以表示强调某事物的重要性，也可用于语言学中描述对某个音节的重读。
