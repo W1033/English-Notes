@@ -3,7 +3,92 @@
 
 
 
+| 单词               | 美式发音                 | 词性 + 汉语释义                      |
+|------------------|----------------------|--------------------------------|
+| tertiary         | `/ˈtɜːrʃieri/`       | adj. 第三的；第三位的                  |
+| domestic         | `/dəˈmestɪk/`        | adj. 国内的；家庭的                   |
+| consolation      | `/ˌkɑːnsəˈleɪʃən/`   | n. 安慰                          |
+| align            | `/əˈlaɪn/`           | v. 对齐；使一致                      |
+| alignment        | `/əˈlaɪnmənt/`       | n. 对齐；一致                       |
+| fluff            | `/flʌf/`             | n. 绒毛<br>v. 使蓬松                |
+| fluffy           | `/ˈflʌfi/`           | adj. 柔软的；〔食物〕松软的               |
+| embed            | `/ɪmˈbed/`           | v. 嵌入；插入                       |
+| chin             | `/tʃɪn/`             | n. 下巴                          |
+| kindness         | `/ˈkaɪndnəs/`        | n. 善良；仁慈                       |
+| accommodation    | `/əˌkɑːməˈdeɪʃən/`   | n. 住宿；住处                       |
+| tranquil         | `/ˈtræŋkwəl/`        | adj. 平静的；宁静的                   |
+| tranquillize     | `/træŋˈkwəlaɪz/`     | v. 使镇静；使平静                     |
+| tranquillization | `/ˌtræŋkwələˈzeɪʃən/` | n. 镇静；平静                       |
+| scare            | `/sker/`             | v. 使惊吓<br>n. 惊吓                |
+| scared           | `/skerd/`            | adj. 害怕的；惊恐的 <br> v. scare 的过去式 |
+| sacred           | `/ˈseɪkrɪd/`         | adj. 神圣的                       |
+| quilt            | `/kwɪlt/`            | n. 被子                          |
+| con              | `/kɑːn/`             | v. 欺骗；诈骗<br>n. 骗局              |
+| privacy          | `/ˈpraɪvəsi/`        | n. 隐私                          |
+| germ             | `/dʒɜːrm/`           | n. 细菌；胚芽                       |
+| bacterium        | `/bækˈtɪriəm/`       | n. 细菌（单数）                      |
+| bacteria         | `/bækˈtɪriə/`        | n. 细菌（复数）                      |
+| probe            | `/proʊb/`            | v. 探查<br>n. 探针                 |
+| bold             | `/boʊld/`            | adj. 大胆的；醒目的；粗体的               |
+| identical        | `/aɪˈdentɪkl/`       | adj. 完全相同的                     |
+| replace          | `/rɪˈpleɪs/`         | v. 替换；替代                       |
+| replacement      | `/rɪˈpleɪsmənt/`     | n. 替换；替代                       |
+| recess           | `/ˈriːsɛs/`          | n. 休息；壁龛（kān）                     |
+| sew              | `/soʊ/`              | v. 缝；缝合                          |
+| addiction        | `/əˈdɪkʃən/`         | n. 上瘾；沉迷                       |
 
+| 单词           | 美式发音               | 词性 + 汉语释义              |
+|--------------|--------------------|------------------------|
+| sentimental  | `/ˌsɛntəˈmɛntl/`   | adj. 多愁善感的             |
+| sole         | `/soʊl/`           | adj. 唯一的；单独的<br>n. 脚底；鞋底 |
+| solely       | `/ˈsoʊlli/`        | adv. 唯一地；单独地           |
+| supervision  | `/ˌsuːpərˈvɪʒən/`  | n. 监督；管理               |
+| oval         | `/ˈoʊvəl/`         | adj. 椭圆形的<br>n. 椭圆形    |
+| memo         | `/ˈmemoʊ/`         | n. 备忘录                 |
+| trophy       | `/ˈtroʊfi/`        | n. 奖杯；战利品              |
+| concession   | `/kənˈseʃən/`      | n. 让步；特许权              |
+| dictate      | `/ˈdɪkteɪt/`       | v. 命令；口述               |
+| dictation    | `/dɪkˈteɪʃən/`     | n. 听写；口述               |
+| advertise    | `/ˈædvərtaɪz/`     | v. 做广告；宣传              |
+| preservation | `/ˌprezərˈveɪʃən/` | n. 保存；保护               |
+| perch        | `/pɜːrtʃ/`         | v. 栖息；坐落<br>n. 栖息处     |
+| nanny        | `/ˈnæni/`          | n. 保姆                  |
+| sibling      | `/ˈsɪblɪŋ/`        | n. 兄弟；姐妹               |
+| prescription | `/prɪˈskrɪpʃən/`   | n. 处方                  |
+| promise      | `/ˈprɑːmɪs/`       | v. 承诺；保证<br>n. 承诺；潜质   |
+| promising    | `/ˈprɑːmɪsɪŋ/`     | adj. 有前途的；有希望的         |
+| stun         | `/stʌn/`           | v. 使震惊；使昏迷             |
+| stunning     | `/ˈstʌnɪŋ/`        | adj. 惊人的；极好的           |
+| earl         | `/ɜːrl/`           | n. 伯爵                  |
+| patty        | `/ˈpæti/`          | n. 肉饼；小馅饼              |
+
+
+| 单词         | 美式发音            | 词性 + 汉语释义            |
+|------------|-----------------|----------------------|
+| morse      | `/mɔːrs/`       | n. 摩尔斯电码             |
+| hamster    | `/ˈhæmstər/`    | n. 仓鼠                |
+| rime       | `/raɪm/`        | n. 霜；冰霜              |
+| squirrel   | `/ˈskwɜːrəl/`   | n. 松鼠                |
+| weld       | `/wɛld/`        | v. 焊接<br>n. 焊接       |
+| rote       | `/roʊt/`        | n. 死记硬背              |
+| bat        | `/bæt/`         | n. 蝙蝠；球棒<br>v. 用球棒击球 |
+| minimal    | `/ˈmɪnɪməl/`    | adj. 最小的；极少的         |
+| strange    | `/streɪndʒ/`    | adj. 奇怪的；陌生的         |
+| stranger   | `/ˈstreɪndʒər/` | n. 陌生人               |
+| faggot     | `/ˈfæɡət/`      | n. 柴把；【冒犯语】同性恋者      |
+| sushi      | `/ˈsuːʃi/`      | n. 寿司                |
+| quality    | `/ˈkwɑːləti/`   | n. 品质；质量<br>adj. 优质的 |
+| dumb       | `/dʌm/`         | adj. 哑的；愚蠢的          |
+| dumbest    | `/dʌməst/`      | adj. 最愚蠢的            |
+| glance     | `/ɡlæns/`       | v. 一瞥<br>n. 一瞥       |
+| redeem     | `/rɪˈdiːm/`     | v. 兑换；赎回；补救          |
+| membership | `/ˈmɛmbərʃɪp/`  | n. 会员资格              |
+| recipient  | `/rɪˈsɪpiənt/`  | n. 接收者               |
+| recharge   | `/riːˈtʃɑːrdʒ/` | v. 充电；恢复精力           |
+| linger     | `/ˈlɪŋɡər/`     | v. 徘徊；流连             |
+| pro        | `/proʊ/`        | n. 专业人员<br>prep. 赞成  |
+| con        | `/kɑːn/`        | v. 欺骗<br>n. 骗局       |
+| pick up    | `/ˈpɪk ʌp/`     | n. 收集；接送<br>v. 拾起    |
 
 
 
