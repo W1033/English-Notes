@@ -3655,7 +3655,6 @@ Translator: ChatGPT 4o
 | cozy          | `/ˈkoʊzi/`       | adj. 舒适的；温暖的              |
 | burden        | `/ˈbɜrdn/`       | n. 负担；重担<br>v. 使负担       |
 | essence       | `/ˈɛsəns/`       | n. 本质；精华                    |
-| forged        | `/fɔrdʒd/`       | adj. 伪造的；锻造的              |
 | melody        | `/ˈmɛlədi/`      | n. 旋律                         |
 
 
@@ -4374,51 +4373,45 @@ Edit: 2024.06.17
 
 Re-edit: 2024.09.04、05
 
-#### First Table - ~~已校对~~ - ~~已写入：GoodNotes~~
+#### First Table - 已校对 - ~~已写入：GoodNotes~~
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 ``` 09-Month ```
 
-| 单词              | 美式发音                | 词性 + 汉语释义                       |
-|-------------------|---------------------|-------------------------------------|
-| verbal            | `/ˈvɜːrbəl/`        | adj. 口头的；言语的                    |
-| northern          | `/ˈnɔːrðərn/`       | adj. 北方的；北部的                    |
-| loaf              | `/loʊf/`            | n. 条（一条面包）<br>v. 游手好闲           |
-| democracy         | `/dɪˈmɑːkrəsi/`     | n. 民主；民主制度                      |
-| forge             | `/fɔːrdʒ/`          | v. 锻造；伪造                        |
-| adore             | `/əˈdɔːr/`          | v. 崇拜；喜爱                        |
-| adorable          | `/əˈdɔːrəbl/`       | adj. 可爱的；讨人喜欢的                  |
-| spare             | `/spɛr/`            | v. 节省；抽出<br>adj. 多余的；备用的        |
-| sparing           | `/ˈspɛrɪŋ/`         | adj. 节约的；吝惜的                    |
-| priceless         | `/ˈpraɪslɪs/`       | adj. 无价的；极珍贵的                   |
-| hub               | `/hʌb/`             | n. 中心；枢纽                        |
-| geographic        | `/ˌdʒiːəˈɡræfɪk/`   | adj. 地理的                          |
-| area              | `/ˈɛəriə/`          | n. 区域；面积                        |
-| captive           | `/ˈkæptɪv/`         | adj. 被俘虏的；受控制的<br>n. 俘虏         |
-| definite          | `/ˈdɛfɪnɪt/`        | adj. 明确的；肯定的                    |
-| definition        | `/ˌdɛfɪˈnɪʃən/`     | n. 定义；明确                        |
-| marathon          | `/ˈmærəˌθɑːn/`      | n. 马拉松                |
-| deposit           | `/dɪˈpɑːzɪt/`       | v. 存款；沉淀<br>n. 存款；押金            |
-| answer            | `/ˈænsər/`          | n. 答案；回应<br>v. 回答               |
-| acoustic          | `/əˈkuːstɪk/`       | adj. 声音的；听觉的                    |
+| 单词             | 美式发音              | 词性 + 汉语释义                   |
+|----------------|-------------------|-----------------------------|
+| verbal         | `/ˈvɜːrbəl/`      | adj. 口头的；言语的                |
+| northern       | `/ˈnɔːrðərn/`     | adj. 北方的；北部的                |
+| loaf           | `/loʊf/`          | n. 一条（面包）<br>v. 游荡          |
+| democracy      | `/dɪˈmɑːkrəsi/`   | n. 民主；民主制                   |
+| forge          | `/fɔːrdʒ/`        | v. 伪造；锻造                    |
+| forged         | `/fɔːrdʒd/`       | adj. 伪造的；锻造的；v. 伪造；锻造（forge 的过去式） |
+| adore          | `/əˈdɔːr/`        | v. 崇拜；爱慕                    |
+| adorable       | `/əˈdɔːrəbəl/`    | adj. 可爱的；讨人喜欢的              |
+| spare          | `/spɛr/`          | adj. 多余的；备用的<br>v. 抽出；免去（麻烦等） |
+| sparing        | `/ˈspɛrɪŋ/`       | adj. 节约的                  |
 
+| priceless      | `/ˈpraɪsləs/`     | adj. 无价的；极珍贵的               |
+| hub            | `/hʌb/`           | n. 中心；枢纽                    |
+| geographic     | `/ˌdʒiːəˈɡræfɪk/` | adj. 地理的                    |
+| area           | `/ˈɛəriə/`        | n. 区域；面积                    |
+| captive        | `/ˈkæptɪv/`       | adj. 被俘虏的；受控制的<br>n. 俘虏     |
+| definite       | `/ˈdɛfɪnɪt/`      | adj. 明确的；肯定的                |
+| definition     | `/ˌdɛfɪˈnɪʃən/`   | n. 定义；明确                    |
+| marathon       | `/ˈmærəˌθɑːn/`    | n. 马拉松                      |
+| deposit        | `/dɪˈpɑːzɪt/`     | v. 存款；沉淀![img.png](img.png)<br>n. 存款；押金        |
+| answer         | `/ˈænsər/`        | n. 答案；回应<br>v. 回答           |
+| acoustic       | `/əˈkuːstɪk/`     | adj. 声音的；听觉的                |
 
 ``` 08-Month ```
 
-| 单词            | 美式发音 | 词性 + 汉语释义                      |
-|-----------------|------|---------------------------------------|
-| verbal          |      | adj. 口头的；言语的                  |
-| loaf            |      | n. 一条（面包）<br>v. 游荡          |
-| democracy       |      | n. 民主；民主国家                    |
-| forge           |      | v. 锻造；伪造<br>n. 锻造车间        |
-| adore           |      | v. 崇拜；爱慕                        |
-| spare           |      | adj. 多余的；备用的<br>v. 节省；饶恕 |
-| sparing         |      | adj. 节俭的；少量的                  |
-| definite        |      | adj. 明确的；确定的                  |
-| definition      |      | n. 定义；清晰度                      |
-| deposit         |      | n. 存款；沉积物<br>v. 存放；沉积     |
-| answer          |      | n. 回答；答案<br>v. 回答             |
+| 单词            | 美式发音 | 词性 + 汉语释义                    |
+|-----------------|------|-------------------------------------|
+| definite        |      | adj. 明确的；确定的                |
+| definition      |      | n. 定义；清晰度                    |
+| deposit         |      | n. 存款；沉积物<br>v. 存放；沉积    |
+| answer          |      | n. 回答；答案<br>v. 回答           |
 
 
 
