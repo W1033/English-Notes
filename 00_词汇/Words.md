@@ -3144,7 +3144,6 @@ Translator: ChatGPT 4o
 | marinade     | `/ˈmærəˌneɪd/`    | n. 腌泡汁<br>v. 腌泡  |
 | mesh         | `/mɛʃ/`           | n. 网眼；网状物        |
 | apolitical   | `/ˌeɪpəˈlɪtɪkəl/` | adj. 无政治性的       |
-| engage       | `/ɪnˈɡeɪdʒ/`      | v. 参与；吸引；订婚      |
 | sequoia      | `/sɪˈkwɔɪə/`      | n. 红杉            |
 | intelligence | `/ɪnˈtɛlɪdʒəns/`  | n. 智力；情报         |
 
