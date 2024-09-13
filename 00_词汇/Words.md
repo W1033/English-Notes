@@ -4174,39 +4174,59 @@ Translator: ChatGPT 4o
 
 #### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
 
-Translator: ChatGPT XX
+Translator: ChatGPT XX & 4o
+
+Re-edit: 2024.09.13、14
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词               | 美式发音                  | 词性 + 汉语释义           |
-|------------------|-----------------------|---------------------|
-| taunt            | `/tɒːnt/`            | v. 嘲弄；奚落<br>n. 嘲弄；奚落 |
-| coma             | `/ˈkoʊmə/`           | n. 昏迷               |
-| giddy            | `/ˈɡɪdi/`             | adj. 头晕的；轻浮的        |
-| apology          | `/əˈpɑlədʒi/          | n. 道歉               |
-| bumpy            | `/ˈbʌmpi/             | adj. 颠簸的；不平的        |
-| pave             | `/peɪv/               | v. 铺路；为...铺平道路      |
-| kinda            | `/ˈkaɪndə/            | adv. 有点儿（口语）        |
-| tumble           | `/ˈtʌmbəl/            | v. 跌倒；翻滚<br>n. 跌倒   |
-| tumbler          | `/ˈtʌmblər/           | n. 不倒翁；平底玻璃杯        |
-| intercontinental | `/ˌɪntərˌkɑntɪˈnɛntl/ | adj. 跨洲的            |
-| silo             | `/ˈsaɪloʊ/            | n. 筒仓               |
-| compilation      | `/ˌkɑmpɪˈleɪʃən/      | n. 编辑；汇编            |
-| ape              | `/eɪp/                | n. 猿<br>v. 模仿       |
-| rare             | `/rɛr/                | adj. 稀有的；半熟的        |
-| rarest      |  ||
-| savory           | `/ˈseɪvəri/           | adj. 美味的；可口的        |
-| crepe            | `/kreɪp/              | n. 可丽饼；绉纱           |
-| sesame           | `/ˈsɛsəmi/            | n. 芝麻               |
-| seed             | `/sid/                | n. 种子<br>v. 播种      |
-| expat            | `/ˈɛkspæt/            | n. 移居国外者            |
-| awake            | `/əˈweɪk/             | adj. 醒着的<br>v. 唤醒   |
-| knew             | `/nu/                 | v. 知道（动词 know 的过去式） |
+| 单词               | 美式发音                  | 词性 + 汉语释义            |
+|------------------|-----------------------|----------------------|
+| giddy            | `/ˈɡɪdi/`             | adj. 头晕的；轻浮的         |
+| bumpy            | `/ˈbʌmpi/             | adj. 颠簸的；不平的         |
+| pave             | `/peɪv/               | v. 铺路；为...铺平道路       |
+| tumbler          | `/ˈtʌmblər/           | n. 不倒翁；平底玻璃杯         |
+| intercontinental | `/ˌɪntərˌkɑntɪˈnɛntl/ | adj. 跨洲的             |
+| silo             | `/ˈsaɪloʊ/            | n. 筒仓                |
+| ape              | `/eɪp/                | n. 猿<br>v. 模仿        |
+| savory           | `/ˈseɪvəri/           | adj. 美味的；可口的         |
+| crepe            | `/kreɪp/              | n. 可丽饼；绉纱            |
+| awake            | `/əˈweɪk/             | adj. 醒着的<br>v. 唤醒    |
+
+
+| 单词              | 美式发音                | 词性 + 汉语释义                          |
+|-------------------|-----------------------|---------------------------------------|
+| taunt             | `/tɔːnt/`             | v. 嘲弄；奚落<br>n. 嘲弄；奚落               |
+| coma              | `/ˈkoʊmə/`            | n. 昏迷                                |
+| giddy             | `/ˈɡɪdi/`             | adj. 头晕的；眼花缭乱的                     |
+| apology           | `/əˈpɑːlədʒi/`        | n. 道歉；歉意                           |
+| bumpy             | `/ˈbʌmpi/`            | adj. 颠簸的；崎岖不平的                     |
+| pave              | `/peɪv/`              | v. 铺（路）；铺设                         |
+| kinda             | `/ˈkaɪndə/`           | adv. 有点儿（口语）                        |
+| tumble            | `/ˈtʌmbl/`            | v. 跌倒；翻滚<br>n. 跌倒                  |
+| tumbler           | `/ˈtʌmblər/`          | n. 平底玻璃杯；杂技演员                     |
+| intercontinental  | `/ˌɪntərˌkɑːntɪˈnɛntl/`| adj. 跨洲的；洲际的                        |
+| silo              | `/ˈsaɪloʊ/`           | n. 筒仓；导弹发射井                        |
+| ape               | `/eɪp/`               | n. 类人猿<br>v. 模仿                        |
+| rare              | `/rɛr/`               | adj. 稀有的；半熟的                        |
+| rarest            | `/rɛrəst/`            | adj. 最稀有的；最不寻常的                   |
+| savory            | `/ˈseɪvəri/`          | adj. 可口的；咸味的<br>n. 开胃菜             |
+| crepe             | `/kreɪp/`             | n. 薄饼；绉纱                           |
+| sesame            | `/ˈsɛsəmi/`           | n. 芝麻                                |
+| seed              | `/siːd/`              | n. 种子<br>v. 播种                         |
+| expat             | `/ˈɛkspæt/`           | n. 侨民；移居国外者                       |
+| awake             | `/əˈweɪk/`            | adj. 醒着的<br>v. 醒来                     |
+| knew              | `/nuː/`               | v. 知道（know的过去式）                    |
+
+
+
 
 
 #### Second Table - ~~已校对~~ - ~~已写入 GoodNotes~~
 
-Translator: ChatGPT XX
+Translator: ChatGPT XX & 4o
+
+Re-edit: 2024.09.13、14
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
@@ -4214,24 +4234,38 @@ Translator: ChatGPT XX
 |------------------|-----------------------|------------------------|
 | rancid           | `/ˈrænsɪd/            | adj. 腐臭的             |
 | season           | `/ˈsizən/             | n. 季节<br>v. 调味       |
-| wok              | `/wɑk/                | n. 炒锅                 |
 | fraudulent       | `/ˈfrɔdʒələnt/        | adj. 欺诈的             |
-| masquerade       | `/ˌmæskəˈreɪd/        | n. 化装舞会；伪装<br>v. 伪装 |
 | deceptive        | `/dɪˈsɛptɪv/          | adj. 欺骗性的           |
-| mimic            | `/ˈmɪmɪk/             | v. 模仿<br>n. 模仿者     |
+| masquerade       | `/ˌmæskəˈreɪd/        | n. 化装舞会；伪装<br>v. 伪装 |
 | notorious        | `/noʊˈtɔriəs/         | adj. 臭名昭著的         |
 | naked            | `/ˈneɪkɪd/            | adj. 裸体的；裸露的       |
-| divinity         | `/dɪˈvɪnɪti/          | n. 神性；神学           |
-| future           | `/ˈfjutʃər/           | n. 未来<br>adj. 未来的   |
-| beer             | `/bɪr/                | n. 啤酒                 |
 | forgone          | `/fɔrˈɡoʊn/           | adj. 过去的             |
-| alternative      | `/ɔlˈtɜrnətɪv/        | n. 替代方案<br>adj. 替代的 |
-| spoiler          | `/ˈspɔɪlər/           | n. 剧透；扰流板          |
-| fought           | `/fɔt/                | v. 斗争；战斗（动词 fight 的过去式和过去分词）|
-| spiral           | `/ˈspaɪrəl/           | adj. 螺旋的<br>n. 螺旋   |
-| participation    | `/pɑrˌtɪsɪˈpeɪʃən/    | n. 参与                 |
-| participate      | `/pɑrˈtɪsɪˌpeɪt/      | v. 参与                 |
-| boss             | `/bɔs/                | n. 老板；上司<br>v. 指挥  |
+
+### 翻译表格：
+
+| 单词              | 美式发音                   | 词性 + 汉语释义                   |
+|-------------------|------------------------|-----------------------------|
+| rancid            | `/ˈrænsɪd/`            | adj. 变质的；腐臭的                |
+| season            | `/ˈsiːzən/`            | n. 季节<br>v. 给...调味          |
+| wok               | `/wɑːk/`               | n. 炒锅                       |
+| fraudulent        | `/ˈfrɔːdʒələnt/`       | adj. 欺诈的；不诚实的               |
+| deceptive         | `/dɪˈsɛptɪv/`          | adj. 欺骗性的；误导的               |
+| masquerade        | `/ˌmæskəˈreɪd/`        | n. 伪装；假面舞会<br>v. 伪装         |
+| mimic             | `/ˈmɪmɪk/`             | v. 模仿<br>n. 模仿者             |
+| notorious         | `/noʊˈtɔːriəs/`        | adj. 臭名昭著的；声名狼藉的            |
+| naked             | `/ˈneɪkɪd/`            | adj. 裸露的；无遮蔽的               |
+| divinity          | `/dɪˈvɪnɪti/`          | n. 神性；神学                    |
+| future            | `/ˈfjuːtʃər/`          | n. 未来<br>adj. 未来的           |
+| beer              | `/bɪr/`                | n. 啤酒                       |
+| forgone           | `/fɔːrˈɡoʊn/`          | adj. 过去的；已放弃的               |
+| alternative       | `/ɔːlˈtɜːrnətɪv/`      | n. 替代方案<br>adj. 可替代的        |
+| spoiler           | `/ˈspɔɪlər/`           | n. 剧透；扰流板                   |
+| fought            | `/fɔːt/`               | v. fight (v. 打架；战斗. n. 打架；战斗) 的过去式 |
+| spiral            | `/ˈspaɪrəl/`           | adj. 螺旋的<br>n. 螺旋状<br>v. 螺旋上升 |
+| participation     | `/pɑːrˌtɪsɪˈpeɪʃən/`   | n. 参与                       |
+| participate       | `/pɑːrˈtɪsɪpeɪt/`      | v. 参与                       |
+| boss              | `/bɔːs/`               | n. 老板<br>v. 指挥              |
+
 
 
 #### Third Table - ~~已校对~~ - ~~已写入 GoodNotes~~
@@ -4282,11 +4316,11 @@ Translator: ChatGPT 4 + 4o
 | recreation     | `/ˌrɛkriˈeɪʃən/`      | n. 娱乐；消遣                |
 | reserve        | `/rɪˈzɜːrv/`          | v. 预订；保留<br>n. 储备；保护区   |
 | mediocrity     | `/ˌmiːdiˈɑkrəti/`     | n. 平庸；普通                |
-| mediocre       |                       |                         |
+| mediocre       | `/                    |                         |
 | conservative   | `/kənˈsɜːrvətɪv/`     | adj. 保守的<br>n. 保守派      |
-| conservation   |                       |                         |
-| conservator    |                       |                         |
-| history        |                       |                         |
+| conservation   | `/                    |                         |
+| conservator    | `/                    |                         |
+| history        | `/                    |                         |
 | historic       | `/hɪˈstɔrɪk/`         | adj. 历史上重要的             |
 | historical     | `/hɪˈstɔːrɪkəl/`      | adj. 历史的；有关历史的          |
 | herb           | `/ɜːrb/`or `/hɜːrb/`  |                         |
