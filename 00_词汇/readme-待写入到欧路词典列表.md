@@ -91,7 +91,29 @@
 | pick up    | `/ˈpɪk ʌp/`     | n. 收集；接送<br>v. 拾起    |
 
 
-
+| 单词             | 美式发音             | 词性 + 汉语释义                          |
+|----------------|------------------|------------------------------------|
+| verbal         | `/ˈvɜːrbəl/`     | adj. 口头的；言语的                       |
+| northern       | `/ˈnɔːrðərn/`    | adj. 北方的；北部的                       |
+| loaf           | `/loʊf/`         | n. 一条（面包）<br>v. 游荡                 |
+| democracy      | `/dɪˈmɑːkrəsi/`  | n. 民主；民主制                          |
+| forge          | `/fɔːrdʒ/`       | v. 伪造；锻造                           |
+| forged         | `/fɔːrdʒd/`      | adj. 伪造的；锻造的；v. 伪造；锻造（forge 的过去式）  |
+| adore          | `/əˈdɔːr/`       | v. 崇拜；爱慕                           |
+| adorable       | `/əˈdɔːrəbəl/`   | adj. 可爱的；讨人喜欢的                     |
+| spare          | `/spɛr/`         | adj. 多余的；备用的<br>v. 抽出；免去（麻烦等）      |
+| sparing        | `/ˈspɛrɪŋ/`      | adj. 节约的                           |
+| priceless      | `/ˈpraɪsləs/`    | adj. 无价的；极其重要的                     |
+| hub            | `/hʌb/`          | n. 集线器；轮毂；枢纽                       |
+| geographic     | `/ˌdʒiːəˈɡræfɪk/` | adj. 地理的                           |
+| area           | `/ˈeriə/`        | n. 地区；区域；面积                        |
+| captive        | `/ˈkæptɪv/`      | adj. 被俘虏的<br>n. 俘虏            |
+| definite       | `/ˈdefənət/`     | adj. 明确的；肯定的                       |
+| definition     | `/ˌdefəˈnɪʃən/`  | n. 定义；清晰度                           |
+| marathon       | `/ˈmærəθɑːn/`    | n. 马拉松                             |
+| deposit        | `/dɪˈpɑːzɪt/`    | n. 订金；押金；存款<br>v. 存放；沉积 |
+| answer         | `/ˈænsər/`       | n. 回答；答案<br>v. 回答                  |
+| acoustic       | `/əˈkuːstɪk/`    | adj. 声音的；听觉的                       |
 
 
 
