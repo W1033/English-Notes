@@ -2,6 +2,49 @@
 
 
 
+| 单词              | 美式发音                   | 词性 + 汉语释义            |
+|-------------------|------------------------|----------------------|
+| taunt             | `/tɒːnt/`              | v. 嘲弄；奚落<br>n. 嘲弄；奚落 |
+| coma              | `/ˈkoʊmə/`             | n. 昏迷                |
+| giddy             | `/ˈɡɪdi/`              | adj. 头晕的；轻浮的         |
+| apology           | `/əˈpɑːlədʒi/`         | n. 道歉；歉意             |
+| bumpy             | `/ˈbʌmpi/`             | adj. 颠簸的；崎岖不平的       |
+| pave              | `/peɪv/`               | v. 铺（路）；铺设           |
+| kinda             | `/ˈkaɪndə/`            | adv. 有点儿（口语）         |
+| tumble            | `/ˈtʌmbl/`             | v. 跌倒；翻滚<br>n. 跌倒    |
+| tumbler           | `/ˈtʌmblər/`           | n. (无柄平底的) 玻璃杯       |
+| intercontinental  | `/ˌɪntərkɑːntɪˈnentl/` | adj. 洲际的；跨洲的         |
+| silo              | `/ˈsaɪloʊ/`            | n. 筒仓；发射井            |
+| ape               | `/eɪp/`                | n. 类人猿<br>v. 模仿      |
+| rare              | `/rɛr/`                | adj. 稀有的；半熟的         |
+| rarest            | `/rɛrəst/`             | adj. 最稀有的            |
+| savory            | `/ˈseɪvəri/`           | adj. 可口的<br>n. 香薄荷   |
+| crepe             | `/kreɪp/`              | n. 可丽饼；绉(zhòu)纱      |
+| sesame            | `/ˈsesəmi/`            | n. 芝麻                |
+| seed              | `/siːd/`               | n. 种子<br>v. 播种       |
+| expat             | `/ˌeksˈpæt/`           | n. 侨民；移居国外者          |
+| awake             | `/əˈweɪk/`             | adj. 醒着的<br>v. 醒来，唤醒 |
+| knew              | `/nuː/`                | v. 知道（know 的过去式）     |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 tertiary, `/ˈtɜːrʃieri/` <br/><br/> adj. 第三的；第三位的          
 domestic, `/dəˈmestɪk/` <br/><br/> adj. 国内的；家庭的           
 consolation, `/ˌkɑːnsəˈleɪʃən/` <br/><br/> n. 安慰                  
