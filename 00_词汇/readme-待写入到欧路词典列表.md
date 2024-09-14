@@ -333,7 +333,7 @@ dyslexia, `/dɪsˈleksiə/`<br/><br/> n. 阅读障碍
 dyslectic, `/dɪsˈlektɪk/`<br/><br/> adj. 阅读障碍的             
 variable, `/ˈveriəbəl/`<br/><br/> adj. 可变的；多变的<br><br>n. 变量  
 variability, `/ˌveriəˈbɪləti/`<br/><br/> n. 可变性                 
-companion, `/kəmˈpænjən/`<br/><br/> n. 伙伴；同伴               
+companion, `/kəmˈpænjən/`<br/><br/> n. 同伴；伴侣               
 seaman, `/ˈsiːmən/`<br/><br/> n. 水手                  
 sow, `/soʊ/`<br/><br/> v. 播种                  
 reap, `/riːp/`<br/><br/> v. 收获                  

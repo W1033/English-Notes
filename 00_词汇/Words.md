@@ -19,6 +19,67 @@ Translator: ChatGPT 4o
 ## ▲ 待编辑生词
 
 
+### Add: 2024.09.14
+
+#### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词              | 美式发音             | 词性 + 汉语释义          |
+|------------------|---------------------|--------------------|
+| adopt            | `/əˈdɑːpt/`         | v. 采用；收养          |
+| adoption         | `/əˈdɑːpʃn/`        | n. 采用；收养；接受        |
+| articulate       | `/ɑːrˈtɪkjələt/`    | adj. 口齿清晰的；发音清晰的     |
+| attend           | `/əˈtɛnd/`          | v. 出席；照料              |
+| behalf           | `/bɪˈhæf/`          | n. 利益；代表              |
+| celebration      | `/ˌsɛləˈbreɪʃən/`   | n. 庆祝；庆典              |
+| chuck            | `/tʃʌk/`            | v. 扔掉；抛掷              |
+| counterpart      | `/ˈkaʊntərpɑːrt/`   | n. 对应物；职位相当的人        |
+| courtroom        | `/ˈkɔːrtˌruːm/`     | n. 法庭                   |
+| currency         | `/ˈkɜːrənsi/`       | n. 货币；通货              |
+| decent           | `/ˈdiːsnt/`         | adj. 体面的；正派的         |
+| entrepreneur     | `/ˌɑːntrəprəˈnɜːr/` | n. 企业家；创业者           |
+| equally          | `/ˈiːkwəli/`        | adv. 平等地；同样地         |
+| exploit          | `/ɪkˈsplɔɪt/`       | v. 利用；剥削               |
+| foster           | `/ˈfɔːstər/`        | v. 促进；代养               |
+| gross            | `/ɡroʊs/`           | adj. 总共的；粗俗的<br>v. 总收入为 |
+| knight           | `/naɪt/`            | n. 骑士；爵士<br>v. 授予爵位  |
+| limb             | `/lɪm/`             | n. 肢；树枝               |
+| noble            | `/ˈnoʊbl/`          | adj. 高尚的；贵族的<br>n. 贵族 |
+| officially       | `//`                |                     |
+| officially       | `/əˈfɪʃəli/`        | adv. 官方地；正式地         |
+
+
+#### Second Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词              | 美式发音             | 词性 + 汉语释义          |
+|------------------|---------------------|--------------------|
+| patrol           | `/pəˈtroʊl/`        | n. 巡逻；巡逻队<br>v. 巡逻   |
+| peripheral       | `/pəˈrɪfərəl/`      | adj. 外围的；次要的<br>n. 外围设备 |
+| productive       | `//`                |                      |
+| productivity     | `/ˌprɑːdʌkˈtɪvɪti/` | n. 生产力                  |
+| reception        | `/rɪˈsɛpʃən/`       | n. 接待；接收              |
+| respective       | `//`                |                      |
+| respectively     | `/rɪˈspɛktɪvli/`    | adv. 分别地               |
+| responsible      | `/rɪˈspɑːnsəbl/`    | adj. 有责任的；可靠的        |
+| runner           | `/ˈrʌnər/`          | n. 跑步者                 |
+| starting         | `/ˈstɑːrtɪŋ/`       | n. 开始                  |
+| testimony        | `/ˈtɛstɪmoʊni/`     | n. 证词                  |
+| triumph          | `/ˈtraɪəmf/`        | n. 胜利<br>v. 成功        |
+| worried          | `/ˈwɜːrid/`         | adj. 担心的             |
+| outer            | `/ˈaʊtər/`          | adj. 外部的；外围的         |
+| deceitful        | `/dɪˈsiːtfl/`       | adj. 欺骗的             |
+
+
+
+
+
 ### Add: 2024.09.13
 
 #### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
@@ -369,7 +430,7 @@ Translator: ChatGPT 4o
 | mourn     | `/mɔːrn/`        | v. 哀悼；为...感到悲痛                               |
 | mourner   | `/ˈmɔːrnər/`     | n. 哀悼者；送葬者                                    |
 | tourney   | `/ˈtʊrni/`       | n. 比赛；锦标赛                                      |
-| terror    | `/ˈtɛrər/`       | n. 恐怖；惊骇                                        |
+| terror    | `/ˈtɛrər/`       | n. 恐怖                                     |
 | follow    | `/ˈfɑːloʊ/`      | v. 跟随；遵循                                        |
 
 
@@ -530,7 +591,7 @@ Translator: ChatGPT 4o
 | fail            | `/feɪl/`            | v. 失败；未能做到<br>n. 失败              |
 | venture         | `/ˈvɛntʃər/`        | v. 冒险；敢于<br>n. 冒险事业              |
 | lip             | `/lɪp/`             | n. 嘴唇                                   |
-| plug            | `/plʌɡ/`            | v. 塞住；插入<br>n. 插头；塞子            |
+| plug            | `/plʌɡ/`            | n. 塞子；插头<br>v. 塞住；插入             |
 | popsicle        | `/ˈpɑpsɪkəl/`       | n. 冰棍                                   |
 | bikini          | `/bɪˈkini/`         | n. 比基尼泳装                              |
 | cone            | `/koʊn/`            | n. 圆锥体；蛋筒冰淇淋                      |
@@ -846,7 +907,7 @@ Translator: ChatGPT 4o
 | sovereign     | `/ˈsɑvrɪn/`         | n. 君主；最高统治者<br>adj. 最高的；主权的 |
 | naive         | `/naɪˈiv/`          | adj. 天真的；幼稚的              |
 | echo          | `/ˈɛkoʊ/`           | n. 回声；回响<br>v. 回响；附和      |
-| rage          | `/reɪdʒ/`           | n. 狂怒<br>v. 发怒            |
+| rage          | `/reɪdʒ/`           | n. 愤怒<br>v. 发怒；肆虐            |
 | arbitrage     | `/ˈɑrbɪtrɑʒ/`       | n. 套利；套汇                  |
 | garage        | `/ɡəˈrɑʒ/`          | n. 车库                       |
 | discourage    | `/dɪsˈkɜrɪdʒ/`      | v. 阻止；使气馁                 |
@@ -1004,7 +1065,7 @@ Translator: ChatGPT 4o & Claude 3.5 sonnet （注：claude 主要是纠正 gpt 4
 | feast      | `/fiːst/`           | n. 盛宴<br>v. 享用（美食）    |
 | dinner     | `/ˈdɪnər/`          | n. 晚餐                 |
 | parse      | `/pɑrs/`            | v. 解析<br>n. 解析        |
-| ostensible | `/ɑːˈstensəbəl/`     | adj. 表面的           |
+| ostensible | `/ɑːˈstensəbəl/`    | adj. 表面的           |
 | recursive  | `/rɪˈkɜrsɪv/`       | adj. 递归的              |
 | assistant  | `/əˈsɪstənt/`       | n. 助手<br>adj. 辅助的     |
 | updown     | `/ˈʌpˌdaʊn/`        | n. 上下起伏               |
@@ -1012,7 +1073,7 @@ Translator: ChatGPT 4o & Claude 3.5 sonnet （注：claude 主要是纠正 gpt 4
 | snap       | `/snæp/`            | v. 突然折断；咔嚓一声<br>n. 啪嗒声 |
 | financial  | `/fəˈnænʃəl/`       | adj. 财务的；金融的          |
 | report     | `/rɪˈpɔrt/`         | n. 报告<br>v. 报告        |
-| gentle     | `/ˈdʒentəl/`         | adj. 温和的；轻柔的          |
+| gentle     | `/ˈdʒentəl/`        | adj. 温和的；文雅的          |
 | condom     | `/ˈkɑːndəm/`        | n. 避孕套                |
 | subside    | `/səbˈsaɪd/`        | v. 减弱；下沉              |
 | quill      | `/kwɪl/`            | n. 羽毛笔；羽毛管            |
@@ -1456,7 +1517,8 @@ Translator: ChatGPT 4o
 | stark      | `/stɑrk/`         | adj. 荒凉的；完全的           |
 | beauty     | `/ˈbjuti/`        | n. 美丽；美人               |
 | showcase   | `/ˈʃoʊˌkeɪs/`     | n. 展示；陈列<br>v. 展示      |
-| delicate   | `/ˈdɛlɪkət/`      | adj. 精致的；脆弱的           |
+| delicate   | `/ˈdelɪkət/`      | adj. 易碎的；精致的     ✅       |
+
 
 
 #### Second Table - ~~已校对~~ - ~~已写入 GoodNotes~~
@@ -1560,7 +1622,7 @@ Translator: ChatGPT 4o
 | terabyte     | `/ˈtɛrəˌbaɪt/`       | n. 太字节                         |
 | renowned     | `/rɪˈnaʊnd/`         | adj. 著名的                       |
 | suspense     | `/səˈspɛns/`         | n. 悬念                           |
-| component    | `/kəmˈpoʊnənt/`      | n. 组件；成分                     |
+| component    | `/kəmˈpoʊnənt/`      | n. 组件；组成部分<br>adj. 构成的  ✅   |
 | svelte       | `/svɛlt/`            | adj. 苗条的                       |
 | migrant      | `/ˈmaɪɡrənt/`        | n. 移民；候鸟                     |
 | temperate    | `/ˈtɛmpərət/`        | adj. 温和的；有节制的             |
@@ -1589,11 +1651,11 @@ Translator: ChatGPT 4o
 | reel         | `/ril/`              | n. 卷轴；旋转<br>v. 卷；旋转      |
 | prioritize   | `/praɪˈɔrəˌtaɪz/`    | v. 优先处理                       |
 | plough       | `/plaʊ/`             | n. 犁<br>v. 耕犁                   |
-| concentrate  | `/ˈkɑnsənˌtreɪt/`    | v. 集中；浓缩                     |
-| concentration| `/ˌkɑnsənˈtreɪʃən/`  | n. 集中；浓度                     |
+| concentrate  | `/ˈkɑːnsəntreɪt/`    | v. 专注；浓度                   |
+| concentration| `/ˌkɑːnsnˈtreɪʃn/`   | n. 专注；浓度                     |
 | neither      | `/ˈniːðər/`          | adv. 也不<br>conj. 既不...也不   |
 | manor        | `/ˈmænər/`           | n. 庄园；领地                     |
-| relieve      | `/rɪˈliv/`           | v. 缓解；解除                     |
+| relieve      | `/rɪˈliːv/`        | v. 减轻；缓解                        |
 | wound        | `/wund/`             | n. 伤口<br>v. 使受伤              |
 | pretty       | `/ˈprɪti/`           | adj. 漂亮的；相当的<br>adv. 相当地 |
 | consistency  | `/kənˈsɪstənsi/`     | n. 一致性；连贯性                 |
@@ -1685,7 +1747,7 @@ Translator: ChatGPT 4o
 | meter           | `/ˈmitər/`          | n. 米；仪表<br>v. 用仪表测量            |
 | alderman        | `/ˈɔldərmən/`       | n. 市议员                               |
 | mutant          | `/ˈmjutənt/`        | n. 变种<br>adj. 变异的                   |
-| debut           | `/deɪˈbju/`         | n. 初次登台<br>v. 初次登台               |
+| debut           | `/deɪˈbjuː/`         | n. 初次登台<br>v. 初次登台               |
 | unequivocally   | `/ˌʌnɪˈkwɪvəkəli/`  | adv. 明确地；毫不含糊地                  |
 | millennium      | `/mɪˈlɛniəm/`       | n. 一千年；千禧年                        |
 | disaster        | `/dɪˈzæstər/`       | n. 灾难                             |
@@ -2895,6 +2957,7 @@ Translator: ChatGPT 4o
 | pony          | `/ˈpoʊni/`           | n. 小马                  |
 | anonymize     | `/əˈnɒnɪmaɪz/`       | v. 匿名化                 |
 | entertain     | `/ˌɛntərˈteɪn/`      | v. 娱乐；招待               |
+| entertainment | `/ˌɛntərˈteɪnmənt/`  | n. 娱乐；娱乐节目            |
 | governance    | `/ˈɡʌvərnəns/`       | n. 统治；管理               |
 | trace         | `/treɪs/`            | n. 痕迹；踪迹<br>v. 追踪      |
 
@@ -4229,6 +4292,7 @@ Re-edit: 2024.09.13、14
 | mimic             | `/ˈmɪmɪk/`            | v. 模仿<br>n. 模仿者   |
 | notorious         | `/noʊˈtɔːriəs/`       | adj. 臭名昭著的        |
 
+| infamous          | `/ˈɪnfəməs/`          | adj. 臭名昭著的         |
 | naked             | `/ˈneɪkɪd/`           | adj. 裸露的；无遮蔽的          |
 | divinity          | `/dɪˈvɪnɪti/`         | n. 神性；神学               |
 | future            | `/ˈfjuːtʃər/`         | n. 未来<br>adj. 未来的      |
@@ -4871,7 +4935,7 @@ Edit: 2024.08.27、28
 | dyslectic      | `/dɪsˈlektɪk/`    | adj. 阅读障碍的                            |
 | variable       | `/ˈveriəbəl/`      | adj. 可变的；多变的<br>n. 变量                 |
 | variability    | `/ˌveriəˈbɪləti/`  | n. 可变性                                |
-| companion      | `/kəmˈpænjən/`    | n. 伙伴；同伴                              |
+| companion      | `/kəmˈpænjən/`    | n. 同伴；伴侣                              |
 | seaman         | `/ˈsiːmən/`       | n. 水手                                 |
 | sow            | `/soʊ/`           | v. 播种                                 |
 | reap           | `/riːp/`          | v. 收获                                 |
@@ -5756,7 +5820,6 @@ Edit: 2024.07.16
 | advise           | `/ədˈvaɪz/`          | v. 劝告；建议          |
 | advisement       | `/ədˈvaɪzmənt/`      | n. 劝告；建议            |
 | unique           | `/juˈniːk/`          | adj. 独特的；唯一的      |
-| adopt            | `/əˈdɑːpt/`          | v. 采用；收养          |
 | prior            | `/ˈpraɪr/`           | adj. 优先的；在前的      |
 | take stock of    | `/teɪk stɑk ʌv/`     | phr. 评估           |
 | ruthless         | `/ˈruːθləs/`         | adj. 无情的；残忍的      |
