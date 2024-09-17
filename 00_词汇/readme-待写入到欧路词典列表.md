@@ -26,6 +26,61 @@
 | awake             | `/əˈweɪk/`             | adj. 醒着的<br>v. 醒来，唤醒 |
 | knew              | `/nuː/`                | v. 知道（know 的过去式）     |
 
+| 单词            | 美式发音                  | 词性 + 汉语释义              |
+|---------------|-----------------------|------------------------|
+| rancid        | `/ˈrænsɪd/`           | adj. 变质的；腐臭的           |
+| season        | `/ˈsiːzən/`           | n. 季节<br>v. 给...调味     |
+| wok           | `/wɑːk/`              | n. 炒锅                  |
+| fraudulent    | `/ˈfrɔːdʒələnt/`      | adj. 欺诈的；不诚实的          |
+| deceptive     | `/dɪˈseptɪv/`         | adj. 欺骗性的              |
+| masquerade    | `/ˌmæskəˈreɪd/`       | n. 伪装；假面舞会<br>v. 伪装    |
+| mimic         | `/ˈmɪmɪk/`            | v. 模仿<br>n. 模仿者        |
+| notorious     | `/noʊˈtɔːriəs/`       | adj. 臭名昭著的             |
+| infamous      | `/ˈɪnfəməs/`          | adj. 臭名昭著的             |
+| naked         | `/ˈneɪkɪd/`           | adj. 裸露的；无遮蔽的          |
+| divinity      | `/dɪˈvɪnəti/`         | n. 神学；神性               |
+| future        | `/ˈfjuːtʃər/`         | adj. 未来的<br>n. 未来；前途   |
+| beer          | `/bɪr/`               | n. 啤酒                  |
+| beery         | `/ˈbɪri/`             | adj. 有啤酒味的；喝醉啤酒的       |
+| forgo         | `/fɔːrˈɡoʊ/`          | v. 放弃（尤指美好的事物）         |
+| forgone       | `/fɔːrˈɡɔn/`          | adj. 已放弃的；预料中的（forgo 的过去分词） |
+| spoiler       | `/ˈspɔɪlər/`          | n. 剧透；扰流板              |
+| fought        | `/fɔːt/`              | v. fight (v. 打架；战斗. n. 打架；战斗) 的过去式 |
+| spiral        | `/ˈspaɪrəl/`          | adj. 螺旋的<br>n. 螺旋状<br>v. 螺旋上升 |
+| participate   | `/pɑːrˈtɪsəpeɪt/`     | v. 参加，参与                |
+| participation | `/pɑːrˌtɪsəˈpeɪʃən/`  | n. 参加，参与                |
+| boss          | `/bɒːs/`              | n. 老板<br>v. 指挥         |
+
+| 单词          | 美式发音               | 词性 + 汉语释义                                    |
+|-------------|--------------------|----------------------------------------------|
+| bee         | `/biː/`            | n. 蜜蜂                                        |
+| fee         | `/fiː/`            | n. 费用                                        |
+| pea         | `/piː/`            | n. 豌豆                                        |
+| reservation | `/ˌrɛzərˈveɪʃən/`  | n. 预订；保留；保护区                                 |
+| clumsy      | `/ˈklʌmzi/`        | adj. 笨拙的                                     |
+| collar      | `/ˈkɑːlər/`        | n. 衣领；项圈                                     |
+| color       | `/ˈkʌlər/`         | n. 颜色<br>v. 给...着色；影响                        |
+| scheme      | `/skiːm/`          | n. (造福他人的) 计划；阴谋<br>v. 密谋                    |
+| mediocre    | `/ˌmiːdiˈoʊkər/`   | adj. 平庸的；普通的                                 |
+| fudge       | `/fʌdʒ/`           | n. 软糖<br>v. 搪塞                          |
+| optimal     | `/ˈɑːptəməl/`      | adj. 最优的；最佳的                                 |
+| ain't       | `/eɪnt/`           | contr. 不是；没有（am not, is not, are not, has not, have not 的非正式缩略形式） |
+| contraction | `/kənˈtrækʃən/`    | n. 缩写；收缩                                     |
+| contract    | `/ˈkɑnˌtrækt/` (n.)<br>`/kənˈtrækt/` (v.) | n. 合同<br>v. 收缩；签合同                           |
+| loony       | `/ˈluːni/`         | adj. 疯狂的<br>n. 疯子                            |
+| bin         | `/bɪn/`            | n. 垃圾箱；箱子                                    |
+| nap         | `/næp/`            | n. 小睡<br>v. 小睡                               |
+| spook       | `/spuːk/`          | n. 幽灵；间谍<br>v. 惊吓                            |
+| skunk       | `/skʌŋk/`          | n. 臭鼬                                        |
+| mock        | `/mɑːk/`           | v. 嘲笑<br>adj. 仿制的<br>n. 模拟考试                 |
+| arm         | `/ɑːrm/`           | n. 手臂；武器<br>v. 武装                            |
+| vigilante   | `/ˌvɪdʒəˈlænti/`   | n. 义务警员；治安维持者                                |
+| wagon       | `/ˈwæɡən/`         | n. 四轮马车；货车                                   |
+
+
+
+
+
 
 
 
@@ -547,7 +602,7 @@ indestructible, `/ˌɪndɪˈstrʌktəbəl/`<br/><br/> adj. 不可摧毁的﹔坚
 mast, `/mæst/`<br/><br/> n. 桅杆                          
 overboard, `/ˈoʊvərˌbɔːrd/`<br/><br/> adv. 从船上落入水中；全身心投入；超出限度        
 grant, `/ɡrænt/`<br/><br/> v. 授予；同意<br><br>n. 补助金             
-alternative, `/ɔːlˈtɜːrnətɪv/`<br/><br/> n. 替代方案<br><br>adj. 替代的            
+alternative, `/ɔːlˈtɜːrnətɪv/`<br/><br/> n. 替代方案<br><br>adj. 可替代的            
 situate, `/ˈsɪtʃueɪt/`<br/><br/> v. 使位于；坐落于                     
 situation, `/ˌsɪtʃuˈeɪʃən/`<br/><br/> n. 情况；形势；位置                    
 cave, `/keɪv/`<br/><br/> n. 洞穴                          
@@ -709,7 +764,6 @@ grip, `/ɡrɪp/`<br/><br/> n. 紧握；控制<br><br>v. 紧握；控制
 gluten, `/ˈɡluːtn/`<br/><br/> n. 面筋               
 regain, `/rɪˈɡeɪn/`<br/><br/> v. 重新获得；恢复          
 gene, `/dʒiːn/`<br/><br/> n. 基因               
-participate, `/pɑːrˈtɪsəpeɪt/`<br/><br/> v. 参与；参加            
 screening, `/ˈskriːnɪŋ/`<br/><br/> n. 筛查；放映            
 cognitive, `/ˈkɑːɡnətɪv/`<br/><br/> adj. 认知的            
 enslave, `/ɪnˈsleɪv/`<br/><br/> v. 奴役               
