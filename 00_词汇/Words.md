@@ -4351,76 +4351,9 @@ Edit: 2024.09.17、18
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词             | 美式发音                  | 词类 + 汉语释义               |
-|----------------|-----------------------|-------------------------|
-| bay            | `/beɪ/`               | n. 海湾；<br>v. 吠叫         |
-| recreation     | `/ˌrɛkriˈeɪʃən/`      | n. 娱乐；消遣                |
-| reserve        | `/rɪˈzɜːrv/`          | v. 预订；保留<br>n. 储备；保护区   |
-| mediocrity     | `/ˌmiːdiˈɑkrəti/`     | n. 平庸；普通                |
-| mediocre       | `/                    |                         |
-| conservative   | `/kənˈsɜːrvətɪv/`     | adj. 保守的<br>n. 保守派      |
-| conservation   | `/                    |                         |
-| conservator    | `/                    |                         |
-| history        | `/                    |                         |
-| historic       | `/hɪˈstɔrɪk/`         | adj. 历史上重要的             |
-| historical     | `/hɪˈstɔːrɪkəl/`      | adj. 历史的；有关历史的          |
-| herb           | `/ɜːrb/`or `/hɜːrb/`  |                         |
-| impatient      | `/ɪmˈpeɪʃənt/`        | adj. 不耐烦的               |
-| fancy          | `/ˈfænsi/`            | adj. 华丽的；昂贵的<br>v. 喜欢；想象<br>n. 幻想 |
-| casual         | `/ˈkæʒuəl/`           | adj. 随意的；临时的<br>n. 临时工 ✅ |
-| hint           | `/hɪnt/`              | n. 暗示；提示<br>v. 暗示 |
-| lush           | `/lʌʃ/`               | adj. 茂盛的             |
-| greenery       | `/ˈɡriːnəri/`         | n. 绿色植物             |
-| quest          | `/kwɛst/`             | n. 寻找；探索            |
-| dough          | `/doʊ/`               | n. 生面团               |
-| premier        | `/prɪˈmɪr/`           | n. 总理；首相<br>adj. 首要的；最好的 |
-| surveillance   | `/sərˈveɪləns/`       | n. 监视                |
-| theorize       | `/ˈθɪəraɪz/`          | v. 推理；建立理论        |
-| pod            | `/pɑːd/`              | n. 豆荚                |
-| tank           | `/tæŋk/`              | n. 水箱；坦克           |
-
-我将逐个检查这些单词，确保释义简洁且符合翻译规则。以下是根据翻译规则校正后的表格：
-
-### 翻译表格：
-
-| 单词             | 美式发音              | 词性 + 汉语释义              |
-|------------------|-------------------|------------------------|
-| bay              | `/beɪ/`           | n. 海湾；<br>v. 吠叫             |
-| reserve          | `/rɪˈzɜːrv/`      | v. 预订；保留<br>n. 储备      |
-| mediocrity       | `/ˌmiːdiˈɑːkrəti/`| n. 平庸；普通               |
-| mediocre         | `/ˌmiːdiˈoʊkər/`  | adj. 平庸的；普通的           |
-| conservative     | `/kənˈsɜːrvətɪv/` | adj. 保守的；谨慎的<br>n. 保守派 |
-| conservation     | `/ˌkɑːnsərˈveɪʃn/`| n. 保护；保存               |
-| conservator      | `/kənˈsɜːrvətər/` | n. 管理员；保护者             |
-| history          | `/ˈhɪstəri/`      | n. 历史                  |
-| historic         | `/hɪˈstɔːrɪk/`    | adj. 历史性的；有历史意义的       |
-| historical       | `/hɪˈstɔːrɪkl/`   | adj. 历史的；历史相关的         |
-| herb             | `/hɜːrb/`         | n. 草药                  |
-| impatient        | `/ɪmˈpeɪʃnt/`     | adj. 不耐烦的              |
-| fancy            | `/ˈfænsi/`        | adj. 华丽的<br>v. 想象      |
-| casual           | `/ˈkæʒuəl/`       | adj. 随意的；偶然的           |
-| hint             | `/hɪnt/`          | n. 暗示<br>v. 暗示         |
-| lush             | `/lʌʃ/`           | adj. 茂盛的；豪华的           |
-| greenery         | `/ˈɡriːnəri/`     | n. 绿色植物；草木             |
-| quest            | `/kwɛst/`         | n. 探索；寻求<br>v. 寻找      |
-| dough            | `/doʊ/`           | n. 面团                  |
-| premier          | `/ˈpriːmiər/`     | adj. 首要的；第一的<br>n. 总理  |
-| surveillance     | `/sərˈveɪləns/`   | n. 监视；监督               |
-| theorize         | `/ˈθɪəraɪz/`      | v. 建立理论；推理             |
-| pod              | `/pɑːd/`          | n. 豆荚；小群               |
-| tank             | `/tæŋk/`          | n. 坦克；水箱<br>v. 彻底失败    |
-
-
-
-非常感谢您的耐心和明确的要求。以下是根据我们讨论和现有规则重新整理的完整翻译表格：
 
 | 单词            | 美式发音                    | 词性 + 汉语释义                                |
-|---------------| ------------------------ | --------------------------------------------- |
-| bay           | `/beɪ/`                 | n. 海湾<br>v. (狗)吠叫                         |
-| recreation    | `/ˌrɛkriˈeɪʃən/`        | n. 娱乐；消遣                                |
-| reserve       | `/rɪˈzɜːrv/`            | v. 预订；保留<br>n. 储备；保护区               |
-| mediocrity    | `/ˌmiːdiˈɑːkrəti/`      | n. 平庸；普通                                 |
-| mediocre      | `/ˌmiːdiˈoʊkər/`        | adj. 平庸的；普通的                           |
+|---------------| ----------------------- | --------------------------------------------- |
 | conservative  | `/kənˈsɜːrvətɪv/`       | adj. 保守的；谨慎的<br>n. 保守派               |
 | conservation  | `/ˌkɑːnsərˈveɪʃən/`     | n. 保护；保存                                |
 | conservator   | `/kənˈsɜːrvətɔːr/`      | n. 保护者；管理员                            |
@@ -4429,9 +4362,8 @@ Edit: 2024.09.17、18
 | historical    | `/hɪˈstɔːrɪkəl/`        | adj. 历史的；与历史相关的                     |
 | herb          | `/ɜːrb/`                | n. 草药；香草                                 |
 | impatient     | `/ɪmˈpeɪʃənt/`          | adj. 不耐烦的；急躁的                        |
-| fancy         | `/ˈfænsi/`              | adj. 花哨的；昂贵的<br>v. 想象；喜欢          |
-| casual        | `/ˈkæʒuəl/`             | adj. 随意的；非正式的                        |
-| hint          | `/hɪnt/`                | n. 暗示；提示<br>v. 暗示；示意                |
+| fancy         | `/ˈfænsi/`              | v. 想象；喜欢<br>n. 幻想；喜欢<br>adj. 花哨的；昂贵的 |
+| casual        | `/ˈkæʒuəl/`             | adj. 随意的；临时的；非正式的                 |
 | lush          | `/lʌʃ/`                 | adj. 茂盛的；豪华的                           |
 | greenery      | `/ˈɡriːnəri/`           | n. 绿色植物；草木                            |
 | quest         | `/kwɛst/`               | n. 寻找；探求                                |
@@ -4442,7 +4374,34 @@ Edit: 2024.09.17、18
 | pod           | `/pɑːd/`                | n. 豆荚；吊舱；分离舱                         |
 | tank          | `/tæŋk/`                | n. 坦克；水箱                                 |
 
-所有词义均根据我们的讨论和翻译规则进行了筛选和优化，确保只保留重要的释义。
+
+| 单词            | 美式发音                 | 词性 + 汉语释义                       |
+|---------------| -------------------- |---------------------------------|
+| bay           | `/beɪ/`              | n. 海湾<br>v. (狗)吠叫               |
+| recreation    | `/ˌrekriˈeɪʃən/`     | n. 娱乐；消遣                        |
+| reserve       | `/rɪˈzɜːrv/`         | v. 预订；保留<br>n. 储备               |
+| mediocrity    | `/ˌmiːdiˈɑːkrəti/`   | n. 平庸                           |
+| mediocre      | `/ˌmiːdiˈoʊkər/`     | adj. 平庸的                        |
+| conservative  | `/kənˈsɜːrvətɪv/`    | adj. 保守的<br>n. 保守派              |
+| conservation  | `/ˌkɑːnsərˈveɪʃən/`  | n. 保护；保存                        |
+| conservator   | `/kənˈsɜːrvətəːr/`   | n. 保护者；管理员                      |
+| history       | `/ˈhɪstəri/`         | n. 历史                           |
+| historic      | `/hɪˈstɔːrɪk/`       | adj. 历史性的；有历史意义的                |
+| historical    | `/hɪˈstɔːrɪkəl/`     | adj. (有关) 历史的                   |
+| herb          | `/ɜːrb/`             | n. 草药；香草                        |
+| impatient     | `/ɪmˈpeɪʃənt/`       | adj. 不耐烦的；急躁的                   |
+| fancy         | `/ˈfænsi/`           | v. 想象；喜欢<br>n. 幻想；喜欢<br>adj. 花哨的；昂贵的 |
+| casual        | `/ˈkæʒuəl/`          | adj. 随意的；临时的；非正式的               |
+
+| lush          | `/lʌʃ/`              | adj. 茂盛的                        |
+| greenery      | `/ˈɡriːnəri/`        | n. 绿色植物                         |
+| quest         | `/kwɛst/`            | n. 寻找                           |
+| dough         | `/doʊ/`              | n. 面团                           |
+| premier       | `/prɪˈmɪr/`          | adj. 首要的；最好的<br>n. 总理           |
+| surveillance  | `/sərˈveɪləns/`      | n. 监视                           |
+| theorize      | `/ˈθiːəˌraɪz/`       | v. 推理；建立理论                      |
+| pod           | `/pɑːd/`             | n. 豆荚                           |
+| tank          | `/tæŋk/`             | n. 坦克；水箱                        |
 
 
 
@@ -4460,7 +4419,7 @@ Translator: ChatGPT 4 + 4o
 |------------|-------------------|-------------------------|
 | pine       | `/paɪn/`          | n. 松树<br>v. 悲伤，难过       |
 | guest      | `/ɡɛst/`          | n. 客人                   |
-| shimmy     |                   |                   |
+| shimmy     | `/                  |                   |
 | shimmer    | `/ˈʃɪmər/`        | v. 闪烁；发微光               |
 | east       | `/iːst/`          | n. 东方；东部                |
 | basement   | `/ˈbeɪsmənt/      | n. 地下室                  |
@@ -4483,6 +4442,40 @@ Translator: ChatGPT 4 + 4o
 | hooray     | `/hʊˈreɪ/         | interj. 万岁；好哇           |
 | blush      | `/blʌʃ/           | v. 脸红                   |
 | bride      | `/braɪd/          | n. 新娘                   |
+
+
+好的，接下来是完整的翻译：
+
+| 单词        | 美式发音              | 词性 + 汉语释义                      |
+| ----------- | ----------------- |--------------------------------|
+| pine        | `/paɪn/`          | n. 松树<br>v. 渴望                 |
+
+| guest       | `/ɡɛst/`          | n. 客人；宾客                       |
+| shimmy      | `/ˈʃɪmi/`         | v. 摇动；扭动                       |
+| shimmer     | `/ˈʃɪmər/`        | v. 闪烁<br>n. 微光                 |
+| east        | `/iːst/`          | n. 东；东方<br>adj. 东方的<br>adv. 向东 |
+| basement    | `/ˈbeɪsmənt/`     | n. 地下室                         |
+| condescend  | `/ˌkɑːndɪˈsɛnd/`  | v. 屈尊；俯就                       |
+| shout       | `/ʃaʊt/`          | v. 喊叫；大声说<br>n. 喊叫声            |
+| insanity    | `/ɪnˈsænɪti/`     | n. 疯狂；精神失常                     |
+| basically   | `/ˈbeɪsɪkli/`     | adv. 基本上；大体上                   |
+| throw       | `/θroʊ/`          | v. 扔；投掷<br>n. 扔；投掷             |
+| suck        | `/sʌk/`           | v. 吸；吸吮                        |
+| coat        | `/koʊt/`          | n. 外套；涂层<br>v. 覆盖；涂上           |
+| break       | `/breɪk/`         | v. 打破；中断<br>n. 破裂；休息           |
+| forth       | `/fɔːrθ/`         | adv. 向前；向外                     |
+| dwarf       | `/dwɔːrf/`        | n. 矮人；侏儒<br>adj. 矮小的           |
+| coffin      | `/ˈkɔːfɪn/`       | n. 棺材                          |
+| gulp        | `/ɡʌlp/`          | v. 吞咽；大口喝                      |
+| gather      | `/ˈɡæðər/`        | v. 收集；聚集                       |
+| rode        | `/roʊd/`          | v. 骑（ride的过去式）                 |
+| bang        | `/bæŋ/`           | n. 砰的一声；巨响<br>v. 猛击            |
+| gasp        | `/ɡæsp/`          | v. 喘气；倒抽气                      |
+| hooray      | `/hʊˈreɪ/`        | int. 万岁；好极了                    |
+| blush       | `/blʌʃ/`          | v. 脸红<br>n. 脸红                 |
+| bride       | `/braɪd/`         | n. 新娘                          |
+
+以上是完整的翻译结果，如果您有任何问题或需要修改的地方，请随时告诉我！
 
 
 
