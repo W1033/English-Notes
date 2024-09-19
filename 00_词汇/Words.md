@@ -4345,35 +4345,11 @@ Edit: 2024.09.16、17
 
 Translator: ChatGPT 4 + 4o
 
-Edit: 2024.09.17、18
+Edit: 2024.09.17、18、19
 
-#### First Table - ~~已校对~~ - ~~已写入：GoodNotes~~
+#### First Table - 已校对 - ~~已写入：GoodNotes~~
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
-
-
-| 单词            | 美式发音                    | 词性 + 汉语释义                                |
-|---------------| ----------------------- | --------------------------------------------- |
-| conservative  | `/kənˈsɜːrvətɪv/`       | adj. 保守的；谨慎的<br>n. 保守派               |
-| conservation  | `/ˌkɑːnsərˈveɪʃən/`     | n. 保护；保存                                |
-| conservator   | `/kənˈsɜːrvətɔːr/`      | n. 保护者；管理员                            |
-| history       | `/ˈhɪstəri/`            | n. 历史；历史学                              |
-| historic      | `/hɪˈstɔːrɪk/`          | adj. 历史性的；有历史意义的                   |
-| historical    | `/hɪˈstɔːrɪkəl/`        | adj. 历史的；与历史相关的                     |
-| herb          | `/ɜːrb/`                | n. 草药；香草                                 |
-| impatient     | `/ɪmˈpeɪʃənt/`          | adj. 不耐烦的；急躁的                        |
-| fancy         | `/ˈfænsi/`              | v. 想象；喜欢<br>n. 幻想；喜欢<br>adj. 花哨的；昂贵的 |
-| casual        | `/ˈkæʒuəl/`             | adj. 随意的；临时的；非正式的                 |
-| lush          | `/lʌʃ/`                 | adj. 茂盛的；豪华的                           |
-| greenery      | `/ˈɡriːnəri/`           | n. 绿色植物；草木                            |
-| quest         | `/kwɛst/`               | n. 寻找；探求                                |
-| dough         | `/doʊ/`                 | n. 面团；钱（俚语）                           |
-| premier       | `/prɪˈmɪr/`             | adj. 首要的；最好的<br>n. 总理；首相          |
-| surveillance  | `/sərˈveɪləns/`         | n. 监视；监督                                |
-| theorize      | `/ˈθiːəˌraɪz/`          | v. 推理；建立理论                            |
-| pod           | `/pɑːd/`                | n. 豆荚；吊舱；分离舱                         |
-| tank          | `/tæŋk/`                | n. 坦克；水箱                                 |
-
 
 | 单词            | 美式发音                 | 词性 + 汉语释义                       |
 |---------------| -------------------- |---------------------------------|
@@ -4392,10 +4368,9 @@ Edit: 2024.09.17、18
 | impatient     | `/ɪmˈpeɪʃənt/`       | adj. 不耐烦的；急躁的                   |
 | fancy         | `/ˈfænsi/`           | v. 想象；喜欢<br>n. 幻想；喜欢<br>adj. 花哨的；昂贵的 |
 | casual        | `/ˈkæʒuəl/`          | adj. 随意的；临时的；非正式的               |
-
 | lush          | `/lʌʃ/`              | adj. 茂盛的                        |
 | greenery      | `/ˈɡriːnəri/`        | n. 绿色植物                         |
-| quest         | `/kwɛst/`            | n. 寻找                           |
+| quest         | `/kwest/`            | n. 寻找                           |
 | dough         | `/doʊ/`              | n. 面团                           |
 | premier       | `/prɪˈmɪr/`          | adj. 首要的；最好的<br>n. 总理           |
 | surveillance  | `/sərˈveɪləns/`      | n. 监视                           |
@@ -4410,6 +4385,8 @@ Edit: 2024.09.17、18
 ### Added: 2024.05.10
 
 Translator: ChatGPT 4 + 4o
+
+Edit: 2024.09.20
 
 #### First Table - ~~已校对~~ - ~~已写入：GoodNotes~~
 

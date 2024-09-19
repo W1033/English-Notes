@@ -77,7 +77,32 @@
 | vigilante   | `/ˌvɪdʒəˈlænti/`   | n. 义务警员；治安维持者                                |
 | wagon       | `/ˈwæɡən/`         | n. 四轮马车；货车                                   |
 
-
+| 单词            | 美式发音                 | 词性 + 汉语释义                       |
+|---------------| -------------------- |---------------------------------|
+| bay           | `/beɪ/`              | n. 海湾<br>v. (狗)吠叫               |
+| recreation    | `/ˌrekriˈeɪʃən/`     | n. 娱乐；消遣                        |
+| reserve       | `/rɪˈzɜːrv/`         | v. 预订；保留<br>n. 储备               |
+| mediocrity    | `/ˌmiːdiˈɑːkrəti/`   | n. 平庸                           |
+| mediocre      | `/ˌmiːdiˈoʊkər/`     | adj. 平庸的                        |
+| conservative  | `/kənˈsɜːrvətɪv/`    | adj. 保守的<br>n. 保守派              |
+| conservation  | `/ˌkɑːnsərˈveɪʃən/`  | n. 保护；保存                        |
+| conservator   | `/kənˈsɜːrvətəːr/`   | n. 保护者；管理员                      |
+| history       | `/ˈhɪstəri/`         | n. 历史                           |
+| historic      | `/hɪˈstɔːrɪk/`       | adj. 历史性的；有历史意义的                |
+| historical    | `/hɪˈstɔːrɪkəl/`     | adj. (有关) 历史的                   |
+| herb          | `/ɜːrb/`             | n. 草药；香草                        |
+| impatient     | `/ɪmˈpeɪʃənt/`       | adj. 不耐烦的；急躁的                   |
+| fancy         | `/ˈfænsi/`           | v. 想象；喜欢<br>n. 幻想；喜欢<br>adj. 花哨的；昂贵的 |
+| casual        | `/ˈkæʒuəl/`          | adj. 随意的；临时的；非正式的               |
+| lush          | `/lʌʃ/`              | adj. 茂盛的                        |
+| greenery      | `/ˈɡriːnəri/`        | n. 绿色植物                         |
+| quest         | `/kwest/`            | n. 寻找                           |
+| dough         | `/doʊ/`              | n. 面团                           |
+| premier       | `/prɪˈmɪr/`          | adj. 首要的；最好的<br>n. 总理           |
+| surveillance  | `/sərˈveɪləns/`      | n. 监视                           |
+| theorize      | `/ˈθiːəˌraɪz/`       | v. 推理；建立理论                      |
+| pod           | `/pɑːd/`             | n. 豆荚                           |
+| tank          | `/tæŋk/`             | n. 坦克；水箱                        |
 
 
 

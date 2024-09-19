@@ -3,7 +3,7 @@
 
 > Article Source : https://louisecharente.wordpress.com/2013/10/03/tim-minchins-graduation-speech/ 
 
-> 中字視頻(有刪減): https://www.youtube.com/watch?v=H02MI5ZqpuQ&list=RDCMUC-qwAKnBVzUlbNwol3UCZIA&index=3
+> 中字视频(有删减): https://www.youtube.com/watch?v=H02MI5ZqpuQ&list=RDCMUC-qwAKnBVzUlbNwol3UCZIA&index=3
 
 by Tim Minchin 25th Sep 2013
 
@@ -17,7 +17,7 @@ Hi. I gave an “occasional$\color{red}{^*}$ address” for a graduation ceremon
 
 And if the mountain was meant to be a symbol of life’s challenges, and the loss of limbs a metaphor for sacrifice, the software guy’s not going to get it, is he? Cos he didn’t do an arts degree, did he? He should have. **Arts degrees are awesome. And they help you find meaning where there is none.** And let me assure you, there is none. Don’t go looking for it. Searching for meaning is like searching for a rhyme scheme in a cookbook: you won’t find it and you’ll bugger up your soufflé.
 
-(如果这座山是为了象征人生的挑战，而失去四肢则是对牺牲的隐喻，那么那个软件公司的人就不会明白，是吗？因为他没有读过艺术学位，不是吗？他应该有。文科学位很了不起。他们帮助你在没有意义的地方找到意义。(Q: 那哲學算是文科嗎? LOL) 让我向你保证，根本没有意义。不要去寻找它。寻找意义就像在烹饪书中寻找韵律一样：你不会找到它，你会把你的蛋奶酥弄坏。)
+(如果这座山是为了象征人生的挑战，而失去四肢则是对牺牲的隐喻，那么那个软件公司的人就不会明白，是吗？因为他没有读过艺术学位，不是吗？他应该有。文科学位很了不起。他们帮助你在没有意义的地方找到意义。(Q: 那哲学算是文科吗? LOL) 让我向你保证，根本没有意义。不要去寻找它。寻找意义就像在烹饪书中寻找韵律一样：你不会找到它，你会把你的蛋奶酥弄坏。)
 
 Point being, I’m not an inspirational speaker. I’ve never lost a limb on a mountainside, metaphorically or otherwise. And I’m certainly not here to give career advice, cos… well I’ve never really had what most would call a proper job.
 
@@ -37,22 +37,23 @@ So listen up, or you’ll get lost, like a blind man clapping in a pharmacy tryi
 
 Here we go:
 
-## 1. You Don’t Have To Have A Dream. (第一: 你不一定要擁有夢想)
+## 1. You Don’t Have To Have A Dream. (第一: 你不一定要拥有梦想)
 
 Americans on talent shows always talk about their dreams. Fine, if you have something that you’ve always dreamed of, like, in your heart, go for it! After all, it’s something to do with your time… chasing$\color{red}{^*}$ a dream. And if it’s a big enough one, it’ll take you most of your life to achieve, so by the time you get to it and are staring into the abyss$\color{red}{^*}$ of the meaninglessness of your achievement, you’ll be almost dead so it won’t matter.
 
-(参加选秀节目的美国人总是谈论他们的梦想。好吧,如果你一直都想去做某件事, 打從心底想要去完成的, 那就去做吧! 毕竟，这与您的时间有关... 追逐梦想。如果它足够大，它会花费你一生的大部分时间来实现，所以当你到达它并凝视着你的成就毫无意义的深渊时，你都已經快死了, 對你來說一切也不重要了. )
+(参加选秀节目的美国人总是谈论他们的梦想。好吧,如果你一直都想去做某件事, 打从心底想要去完成的, 那就去做吧! 毕竟，这与您的时间有关... 追逐梦想。如果它足够大，它会花费你一生的大部分时间来实现，所以当你到达它并凝视着你的成就毫无意义的深渊时，你都已经快死了, 对你来说一切也不重要了. )
 
 I never really had one of these big dreams. And so I advocate$\color{red}{^*}$ passionate$\color{red}{^*}$ dedication$\color{red}{^*}$ to the pursuit$\color{red}{^*}$ of short-term goals. Be micro-ambitious. Put your head down and work with pride on whatever is in front of you… you never know where you might end up. Just be aware that the next worthy pursuit will probably appear in your periphery$\color{red}{^*}$. Which is why you should be careful of long-term dreams. If you focus too far in front of you, you won’t see the shiny thing out the corner of your eye. Right? Good. Advice. Metaphor$\color{red}{^*}$. Look at me go.
 
-(我从来没有真正拥有一个这样的大梦想。因此，我主张热情奉献，追求短期目标。要有微观的野心(/在小目標上保持雄心)。埋頭苦幹並以此為榮, 專注在眼前的事物上... 你永遠不知道你的重點會在哪裡. 留意你下一個值的追逐的目標, 可能就在你身邊. 這就是為什麼你應該小心看待遠程的夢想. 當你把眼光放得太遠, 你可能會因為而錯失眼前耀眼的機會. 對嗎? 很好. 建議. 隱喻. 看著我走.)
+(我从来没有真正拥有一个这样的大梦想。因此，我主张热情奉献，追求短期目标。要有微观的野心(/在小目标上保持雄心)。埋头苦干并以此为荣, 专注在眼前的事物上... 你永远不知道你的重点会在哪里. 留意你下一个值的追逐的目标, 可能就在你身边. 这就是为什么你应该小心看待远程的梦想. 当你把眼光放得太远, 你可能会因为而错失眼前耀眼的机会. 对吗? 很好. 建议. 隐喻. 看著我走.)
 
-## 2. Don’t Seek Happiness (第二: 別刻意尋找快樂)
-Happiness is like an orgasm: if you think about it too much, it goes away. Keep busy and aim to make someone else happy, and you might find you get some as a side effect. We didn’t evolve to be constantly content. Contented Australophithecus Afarensis got eaten before passing on their genes.
+## 2. Don’t Seek Happiness (第二: 别刻意寻找快乐)
 
-(快樂就像性高潮, 如果你一直想著它, 它反而不會來. 保持忙碌, 以使別人快樂為目的, 你可能發現你得到了一些額外的收穫. 我们的进化并不是为了不断满足. 满足的澳人猿在传递他们的基因之前就被吃掉了.)
+**Happiness is like an orgasm: if you think about it too much, it goes away. Keep busy and aim to make someone else happy, and you might find you get some as a side effect. We didn’t evolve to be constantly content.** Contented Australophithecus Afarensis got eaten before passing on their genes.
 
-## 3. Remember, It’s All Luck (一切都跟運氣有關)
+(**快乐就像性高潮, 如果你一直想著它, 它反而不会来. 保持忙碌, 以使别人快乐为目的, 你可能发现你得到了一些额外的收获. 我们的进化并不是为了不断满足.** 满足的澳人猿在传递他们的基因之前就被吃掉了.)
+
+## 3. Remember, It’s All Luck (一切都跟运气有关)
 You are lucky to be here. You were incalculably lucky to be born, and incredibly lucky to be brought up by a nice family that helped you get educated and encouraged you to go to University. Or if you were born into a horrible family, that’s unlucky and you have my sympathy… but you were still lucky: lucky that you happened to be made of the sort of DNA that made the sort of brain which – when placed in a horrible childhood environment – would make decisions that meant you ended up, eventually, graduating University. ~~Well done you, for dragging yourself up by the shoelaces, but you were lucky. You didn’t create the bit of you that dragged you up. They’re not even your shoelaces.~~
 
 (你很幸运能来到这里。 你的出生是无比幸运的，你被一个帮助你接受教育并鼓励你上大学的好家庭抚养长大是非常幸运的。或者，如果你出生在一个可怕的家庭，那是不幸的，你得到了我的同情... 但你仍然很幸运：幸运的是，你碰巧是由制造大脑的 DNA 组成的——当被置于可怕的童年时环境——会做出决定，这意味着你最终会从大学毕业。~~干得好，你被鞋带拖了起来，但你很幸运。 你没有创造你的那一点拖累你。 它们甚至不是你的鞋带。~~)
@@ -61,28 +62,28 @@ You are lucky to be here. You were incalculably lucky to be born, and incredibly
 
 Understanding that you can’t truly take credit for your successes, nor truly blame others for their failures will humble you and make you more compassionate.
 
-(若你了解到你的成就並不完全是你的功勞, 而失敗也不能把過失完全歸咎他人, 這會讓你更謙虛, 讓你更有同情心.) 
+(若你了解到你的成就并不完全是你的功劳, 而失败也不能把过失完全归咎他人, 这会让你更谦虚, 让你更有同情心.) 
 
 Empathy is intuitive, but is also something you can work on, intellectually.
 
 (同理心是一种直觉，但你也可以用你的智慧去栽培它.)
 
 
-## 4. Exercise (去運動)
+## 4. Exercise (去运动)
 I’m sorry, you pasty, pale, smoking philosophy grads, arching your eyebrows into a Cartesian curve as you watch the Human Movement mob winding their way through the miniature traffic cones of their existence: you are wrong and they are right. Well, you’re half right – you think, therefore you are… but also: you jog, therefore you sleep well, therefore you’re not overwhelmed by existential angst. You can’t be Kant, and you don’t want to be.
 
-(你們這些頹廢抽煙的哲學系畢業生, 當你把眉頭皺成像笛卡爾曲線一樣, 看著人類為了生存在擁擠的人生道路上力爭上游時: 你錯了, 他們才是對的. 好吧, 你對了一半 -- 你思故你在... 但同时：你慢跑，所以你睡得好，因此你没有被存在的焦虑所淹没。你不會成为康德，你也不想成为他。)
+(你们这些颓废抽烟的哲学系毕业生, 当你把眉头皱成像笛卡尔曲线一样, 看著人类为了生存在拥挤的人生道路上力争上游时: 你错了, 他们才是对的. 好吧, 你对了一半 -- 你思故你在... 但同时：你慢跑，所以你睡得好，因此你没有被存在的焦虑所淹没。你不会成为康德，你也不想成为他。)
 
 Play a sport, do yoga, pump iron, run… whatever… but take care of your body. You’re going to need it. Most of you mob are going to live to nearly a hundred, and even the poorest of you will achieve a level of wealth that most humans throughout history could not have dreamed of. And this long, luxurious life ahead of you is going to make you depressed!
 
 (做运动、做瑜伽、打铁、跑步......不管怎样......但是要照顾好你的身体。你将会需要它。你们中的大多数人将活到接近 100 岁，
-即使你们中最贫穷的人也将达到历史上大多数人无法梦想的财富水平。而在這奢華的人生漫漫長路將會讓你憂鬱(忧郁))
+即使你们中最贫穷的人也将达到历史上大多数人无法梦想的财富水平。而在这奢华的人生漫漫长路将会让你忧郁(忧郁))
 
 But don’t despair! There is an inverse correlation between depression and exercise. Do it. Run, my beautiful intellectuals, run. And don’t smoke. Natch.
 
 (但不要绝望! 抑郁症和运动之间有一个反比的关系。做到这一点。跑步，我美丽的知识分子，跑步。而且不要抽烟。当然。)
 
-## 5. Be Hard On Your Opinions (嚴格審視自己的意見)
+## 5. Be Hard On Your Opinions (严格审视自己的意见)
 A famous bon motto asserts that opinions are like arse-holes, in that everyone has one. There is great wisdom in this… but I would add that opinions differ significantly from arse-holes, in that yours should be constantly and thoroughly examined.
 
 (有一句著名的格言说，意见就像屁眼一样，每个人都有一个。这句话很有智慧......但我要补充的是，意见与屁眼有很大的不同，因为你的意见应该被不断地彻底检查。)
@@ -121,21 +122,21 @@ The arts and sciences need to work together to improve how knowledge is communic
 
 
 
-## 6. Be a teacher. (第六: 當個老師)
+## 6. Be a teacher. (第六: 当个老师)
 Please? Please be a teacher. Teachers are the most admirable and important people in the world. You don’t have to do it forever, but if you’re in doubt about what to do, be an amazing teacher. Just for your twenties. Be a primary school teacher. Especially if you’re a bloke – we need male primary school teachers. Even if you’re not a Teacher, be a teacher. Share your ideas. Don’t take for granted your education. Rejoice in what you learn, and spray it.
 
-## 7. Define Yourself By What You Love (第七: 以喜好來定義自己)
+## 7. Define Yourself By What You Love (第七: 以喜好来定义自己)
 I’ve found myself doing this thing a bit recently, where, if someone asks me what sort of music I like, I say “well I don’t listen to the radio because pop lyrics annoy me”. Or if someone asks me what food I like, I say “I think truffle oil is overused and slightly obnoxious”. And I see it all the time online, people whose idea of being part of a subculture is to hate Coldplay or football or feminists or the Liberal Party. We have tendency to define ourselves in opposition to stuff; as a comedian, I make a living out of it. But try to also express your passion for things you love. Be demonstrative and generous in your praise of those you admire. Send thank-you cards and give standing ovations. Be pro-stuff, not just anti-stuff.
 
 (我发现自己最近有点这样做，如果有人问我喜欢什么样的音乐，我会说 "我不听广播，因为流行歌词让我很烦"。或者如果有人问我喜欢什么食物，我就说 "我觉得松露油用得太多了，有点令人厌恶"。我在网上经常看到这种情况，人们对成为亚文化的一部分的想法是讨厌酷玩乐队、足球、女权主义者或自由党。我们倾向于用反对的东西来定义自己；作为一个喜剧演员，我以这个为生。但也要尝试表达你对你所喜爱的事物的热情。在赞美你所崇拜的人时，要表现得慷慨大方。发送感谢卡并起立鼓掌。要支持物质，而不仅仅是反对物质。)
 
-## 8. Respect People With Less Power Than You. (第八: 尊重位階比你低的人)
+## 8. Respect People With Less Power Than You. (第八: 尊重位阶比你低的人)
 I have, in the past, made important decisions about people I work with – agents and producers – big decisions based largely on how they treat wait staff in restaurants. I don’t care if you’re the most powerful cat in the room, I will judge you on how you treat the least powerful. So there.
 
-(以前, 我每次做出重要決定時, 像是工作上對接的經紀人和製作人, 通常重要的決定取決於我們在餐廳討論時他們對待服務生的態度. 我不管你是什麼咖, 我會根據你如何對待沒有權利的人的態度來評判你. 就是這樣.)
+(以前, 我每次做出重要决定时, 像是工作上对接的经纪人和制作人, 通常重要的决定取决于我们在餐厅讨论时他们对待服务生的态度. 我不管你是什么咖, 我会根据你如何对待没有权利的人的态度来评判你. 就是这样.)
 
 
-## 9. Don’t Rush. (第九: 別急)
+## 9. Don’t Rush. (第九: 别急)
 You don’t need to already know what you’re going to do with the rest of your life. I’m not saying sit around smoking all day, but also, don’t panic. Most people I know who were sure of their career path at 20 are having midlife crises now.
 
 (你不需要已经知道你的余生要做什么。我不是说整天坐在那里抽烟，但是，也不要惊慌。我认识的大多数人在20岁时就确定了自己的职业道路，现在却出现了中年危机。)
@@ -146,7 +147,7 @@ I said at the beginning of this ramble that life is meaningless. It was not a fl
 
 You will soon be dead. Life will sometimes seem long and tough and, god, it’s tiring. And you will sometimes be happy and sometimes sad. And then you’ll be old. And then you’ll be dead.
 
-(你很快就会死去. 生活有时会显得漫长而艰难, 而且, 天哪, 这很累人. 而你有时会快樂, 有时会悲伤. 然后你老了. 死了.)
+(你很快就会死去. 生活有时会显得漫长而艰难, 而且, 天哪, 这很累人. 而你有时会快乐, 有时会悲伤. 然后你老了. 死了.)
 
 There is only one sensible thing to do with this empty existence, and that is: fill it. Not fillet. Fill. It.
 
@@ -158,8 +159,8 @@ And in my opinion (until I change it), life is best filled by learning as much a
 
 It’s an incredibly exciting thing, this one, meaningless life of yours. Good luck.
 
-(這是一件令人難以置信的令人興奮的事情, 這就是你毫無意義的生活. 祝你好運.)
+(这是一件令人难以置信的令人兴奋的事情, 这就是你毫无意义的生活. 祝你好运.)
 
 Thank you for indulging me.
 
-(謝謝你們對我的包容.)
+(谢谢你们对我的包容.)
