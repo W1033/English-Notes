@@ -3369,7 +3369,6 @@ Translator: ChatGPT 4o
 | realism    | `/ˈriəlɪzəm/`    | n. 现实主义；逼真               |
 | surrealism | `/səˈrɪəlɪzəm/`  | n. 超现实主义                 |
 | mash       | `/mæʃ/`          | v. 捣碎；压碎<br>n. 糊状物       |
-| starve     | `/stɑrv/`        | v. 挨饿；饿死                 |
 | exhaustion | `/ɪɡˈzɔstʃən/`   | n. 疲惫；精疲力竭               |
 | persuasive | `/pərˈsweɪsɪv/`  | adj. 有说服力的               |
 | provoke    | `/prəˈvoʊk/`     | v. 激怒；引发                 |
@@ -4406,7 +4405,6 @@ Edit: 2024.09.20
 | basically  | `/ˈbeɪsɪkli/      | adv. 基本上                |
 | throw      | `/θroʊ/           | v. 投掷；扔                 |
 | suck       | `/sʌk/            | v. 吸                    |
-| coat       | `/koʊt/           | n. 外套；涂层<br>v. 涂上       |
 | break      | `/breɪk/          | v. 打破；中断<br>n. 休息；间断    |
 | forth      | `/fɔːrθ/          | adv. 向前；向外              |
 | dwarf      | `/dwɔrf/          | n. 矮人；侏儒<br>v. 使显得矮小    |
@@ -5167,7 +5165,6 @@ Translator: ChatGPT 4 & 4o
 | cost        | `/kɒːst/`         | n. 成本；费用<br>v. 花费；付出代价          |
 | sunny       | `/ˈsʌni/`         | adj. 晴朗的；阳光明媚的                  |
 | clear       | `/klɪr/`          | adj. 清楚的；明确的；透明的<br>v. 清除<br>adv. 远离 |
-| scorching   | `/ˈskɔːrtʃɪŋ/`    | adj. 炎热的                        |
 | sweltering  | `/ˈsweltərɪŋ/`    | adj. 闷热的                        |
 | hot         | `/hɑːt/`          | adj. 热的；辣的                      |
 | frequent    | `/ˈfriːkwənt/`    | adj. 频繁的<br>v. 经常光顾             |
