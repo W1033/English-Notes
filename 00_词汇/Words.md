@@ -4776,19 +4776,14 @@ Edit: 2024.09.17、18、19
 
 Translator: ChatGPT 4 + 4o
 
-Edit: 2024.09.20
+Edit: 2024.09.20, 10.08
 
-#### First Table - ~~已校对~~ - ~~已写入：GoodNotes~~
+#### First Table - 已校对 - ~~已写入：GoodNotes~~
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
 | 单词         | 美式发音           | 词类 + 汉语释义               |
 |------------|-------------------|-------------------------|
-| east       | `/iːst/`          | n. 东方；东部                |
-| basement   | `/ˈbeɪsmənt/      | n. 地下室                  |
-| condescend | `/ˌkɒndɪˈsɛnd/    | v. 屈尊；表现出优越感            |
-| shout      | `/ʃaʊt/           | v. 大喊；呼喊                |
-| insanity   | `/ɪnˈsænɪti/      | n. 疯狂；精神错乱              |
 | basically  | `/ˈbeɪsɪkli/      | adv. 基本上                |
 | throw      | `/θroʊ/           | v. 投掷；扔                 |
 | suck       | `/sʌk/            | v. 吸                    |
@@ -4808,34 +4803,33 @@ Edit: 2024.09.20
 
 好的，接下来是完整的翻译：
 
-| 单词        | 美式发音              | 词性 + 汉语释义                      |
-| ----------- | ----------------- |--------------------------------|
-| pine        | `/paɪn/`          | n. 松树<br>v. 渴望                 |
-| guest       | `/ɡɛst/`          | n. 客人；宾客                       |
-| shimmy      | `/ˈʃɪmi/`         | v. 摇动；扭动                       |
-| shimmer     | `/ˈʃɪmər/`        | v. 闪烁<br>n. 微光                 |
-
+| 单词        | 美式发音              | 词性 + 汉语释义                     |
+| ----------- |-------------------|-------------------------------|
+| pine        | `/paɪn/`          | n. 松树<br>v. 思念                |
+| guest       | `/ɡɛst/`          | n. 客人；宾客                      |
+| shimmy      | `/ˈʃɪmi/`         | v. 摆动                         |
+| shimmer     | `/ˈʃɪmər/`        | v. 闪烁<br>n. 微光                |
 | east        | `/iːst/`          | n. 东；东方<br>adj. 东方的<br>adv. 向东 |
-| basement    | `/ˈbeɪsmənt/`     | n. 地下室                         |
-| condescend  | `/ˌkɑːndɪˈsɛnd/`  | v. 屈尊；俯就                       |
-| shout       | `/ʃaʊt/`          | v. 喊叫；大声说<br>n. 喊叫声            |
-| insanity    | `/ɪnˈsænɪti/`     | n. 疯狂；精神失常                     |
-| basically   | `/ˈbeɪsɪkli/`     | adv. 基本上；大体上                   |
-| throw       | `/θroʊ/`          | v. 扔；投掷<br>n. 扔；投掷             |
-| suck        | `/sʌk/`           | v. 吸；吸吮                        |
-| coat        | `/koʊt/`          | n. 外套；涂层<br>v. 覆盖；涂上           |
-| break       | `/breɪk/`         | v. 打破；中断<br>n. 破裂；休息           |
-| forth       | `/fɔːrθ/`         | adv. 向前；向外                     |
-| dwarf       | `/dwɔːrf/`        | n. 矮人；侏儒<br>adj. 矮小的           |
-| coffin      | `/ˈkɔːfɪn/`       | n. 棺材                          |
-| gulp        | `/ɡʌlp/`          | v. 吞咽；大口喝                      |
-| gather      | `/ˈɡæðər/`        | v. 收集；聚集                       |
-| rode        | `/roʊd/`          | v. 骑（ride的过去式）                 |
-| bang        | `/bæŋ/`           | n. 砰的一声；巨响<br>v. 猛击            |
-| gasp        | `/ɡæsp/`          | v. 喘气；倒抽气                      |
-| hooray      | `/hʊˈreɪ/`        | int. 万岁；好极了                    |
-| blush       | `/blʌʃ/`          | v. 脸红<br>n. 脸红                 |
-| bride       | `/braɪd/`         | n. 新娘                          |
+| basement    | `/ˈbeɪsmənt/`     | n. 地下室                        |
+| condescend  | `/ˌkɑːndɪˈsend/`  | v. 屈尊；俯就                      |
+| shout       | `/ʃaʊt/`          | v. 呼喊；喊叫<br>n. 喊叫声         |
+| basically   | `/ˈbeɪsɪkli/`     | adv. 基本上；大体上                  |
+| throw       | `/θroʊ/`          | v. 扔；投掷<br>n. 扔；投掷            |
+| suck        | `/sʌk/`           | v. 吸；吸吮                       |
+| coat        | `/koʊt/`          | n. 外套；涂层<br>v. 覆盖；涂上          |
+| break       | `/breɪk/`         | v. 打破；中断<br>n. 休息；中断          |
+
+| forth       | `/fɔːrθ/`         | adv. 向前；向外                    |
+| dwarf       | `/dwɔːrf/`        | n. 矮人；侏儒<br>adj. 矮小的          |
+| coffin      | `/ˈkɔːfɪn/`       | n. 棺材                         |
+| gulp        | `/ɡʌlp/`          | v. 吞咽；大口喝                     |
+| gather      | `/ˈɡæðər/`        | v. 收集；聚集                      |
+| rode        | `/roʊd/`          | v. 骑（ride的过去式）                |
+| bang        | `/bæŋ/`           | n. 砰的一声；巨响<br>v. 猛击           |
+| gasp        | `/ɡæsp/`          | v. 喘气；倒抽气                     |
+| hooray      | `/hʊˈreɪ/`        | int. 万岁；好极了                   |
+| blush       | `/blʌʃ/`          | v. 脸红<br>n. 脸红                |
+| bride       | `/braɪd/`         | n. 新娘                         |
 
 以上是完整的翻译结果，如果您有任何问题或需要修改的地方，请随时告诉我！
 
