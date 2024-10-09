@@ -104,6 +104,36 @@
 | pod           | `/pɑːd/`             | n. 豆荚                           |
 | tank          | `/tæŋk/`             | n. 坦克；水箱                        |
 
+| 单词         | 美式发音             | 词性 + 汉语释义                      |
+|------------|------------------|--------------------------------|
+| pine       | `/paɪn/`         | n. 松树<br>v. 思念                 |
+| guest      | `/ɡɛst/`         | n. 客人；宾客                       |
+| shimmy     | `/ˈʃɪmi/`        | v. 摆动                          |
+| shimmer    | `/ˈʃɪmər/`       | v. 闪烁<br>n. 微光                 |
+| east       | `/iːst/`         | n. 东；东方<br>adj. 东方的<br>adv. 向东 |
+| basement   | `/ˈbeɪsmənt/`    | n. 地下室                         |
+| condescend | `/ˌkɑːndɪˈsend/` | v. 屈尊；俯就                       |
+| shout      | `/ʃaʊt/`         | v. 呼喊；喊叫<br>n. 喊叫声             |
+| basically  | `/ˈbeɪsɪkli/`    | adv. 基本上；大体上                   |
+| throw      | `/θroʊ/`         | v. 扔；投掷<br>n. 扔；投掷             |
+| suck       | `/sʌk/`          | v. 吸；吸吮                        |
+| coat       | `/koʊt/`         | n. 外套；涂层<br>v. 覆盖；涂上           |
+| break      | `/breɪk/`        | v. 打破；中断<br>n. 休息；中断           |
+| forth      | `/fɔːrθ/`        | adv. 向前；向外                     |
+| dwarf      | `/dwɔːrf/`       | n. 矮人；侏儒<br>adj. 矮小的           |
+| coffin     | `/ˈkɑːfɪn/`      | n. 棺材                          |
+| swallow    | `/ˈswɑːloʊ/`     | v. 吞咽；忍受<br>n. 吞咽；燕子           |
+| gulp       | `/ɡʌlp/`         | v. 大口吞咽；快速吞咽<br>n. 吞咽          |
+| gather     | `/ˈɡæðər/`       | v. 聚集；收集；推测                    |
+| rode       | `/roʊd/`         | v. 骑（ride 的过去式）                |
+| bang       | `/bæŋ/`          | n. 巨响；猛击<br>v. 猛击；发出巨响         |
+| gasp       | `/ɡæsp/`         | v. (尤因惊讶、疼痛而)喘息；倒吸一口气<br>n. 喘息 |
+| pant       | `/pænt/`         | v. 喘气；气喘吁吁<br>n. 喘气            |
+| hooray     | `/huːˈreɪ/`      | int. 好哇〔表示高兴的呼喊声〕  |
+| blush      | `/blʌʃ/`         | v. 脸红<br>n. 脸红                 |
+| bride      | `/braɪd/`        | n. 新娘                          |
+| groom      | `/ɡruːm/`        | n. 新郎；马夫<br>v. 梳理；培养 |
+
 
 
 

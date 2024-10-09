@@ -34,18 +34,19 @@
 
 
 
-## ▲ 英语书籍
+## ▲ 主要阅读的英语书籍
 
 | 书籍名称          | 纸质/电子 | 书籍格式 | 存储位置 | 阅读情况<br />(Unstart/<br />Complete<br />/Reading) | 阅读进度 | 笔记<br />(有/无/书写中) |     视频<br />/资源   | 备注       |
 | :--------------- | :-------: | :------: | :------: | :--------------------------: | :------: | :---------: | :----------: | ---------------- |
-| 《无敌英语语法终身学习版-第3版》           | both | pdf | MarginNote | Reading |          | Writing |                   | Edit: 2024.07.12 |
-| [《薄冰英语语法》](https://book.douban.com/subject/2014768/) |           |          |          |        |          |    |                   | Edit:<br />2023.11.14 |
+| 《无敌英语语法终身学习版-第3版》           | both <br />(Paper   and E-book) | PDF | MarginNote | Reading | 50% | Writing<br />笔记：见当前仓库 |  | Edit: <br />2024.10.09<br />~~2024.07.12~~ |
+| 《朗文英语语法》<br />(英)亚历山大 (Alexander, L.G.)编著,雷航等译<br /><br />Original source: *Longman English grammar* | E-book | PDF | MarginNote | Unstart | | | | Edit:<br />2024.07.12 |
+| 《朗文英语语法练习》<br /> (英)亚历山大(Alexander, L.G.)编著<br /><br />Original source: *Longman English grammar practice* | E-book | PDF | MarginNote | Unstart | | | | Edit:<br />2024.07.12 |
+| 《新编英语阅读手册》<br />叶永昌 主编<br />A New English Reading Hand Book | E-book | Epub | MarginNote | Unstart | | | | Edit:<br />2024.07.12 |
+| 《英语常见问题解答大词典》<br />增订版第五版 - 赵振才<br />A Dictionary of Answers to Common Questions in English | E-book | PDF | MarginNote | Unstart | | | | Edit:<br />2024.10.09 |
 | Speaking English with an American Accent <br/> -- Pronunciation Workshop |           |          |          |        |          |     | B 站链接: [一个神仙级别的美式英语发音教程, 不刷十遍都亏了！](https://www.bilibili.com/video/BV1n54y1B7bE?p=1) |   |
-| [《赖氏经典英语语法》](https://book.douban.com/subject/25974373/) |           |          |          |        |          |    |                   |   |
-| 《朗文英语语法》<br />(英)亚历山大 (Alexander, L.G.)编著,雷航等译<br />书名原文: Longman English grammar | 电子 | pdf | MarginNote | Unstart | | | | Edit：2024.07.12 |
-| 朗文英语语法练习<br /> (英)亚历山大(Alexander, L.G.)编著<br />书名原文： Longman English grammar practice | 电子 | pdf | MarginNote | Unstart | | | | Edit: 2024.07.12 |
-|  | | | | | | | | |
-| 《新编英语阅读手册》<br />叶永昌 主编<br />A New English Reading Hand Book | 电子 | Epub | MarginNote | Unstart | | | | Edit: 2024.07.12 |
+| ~~[《赖氏经典英语语法》](https://book.douban.com/subject/25974373/)~~ |           |          |          |        |          |    |                   |   |
+| ~~[《薄冰英语语法》](https://book.douban.com/subject/2014768/)~~ |           |          |          |        |          |    |                   | Edit:<br />2023.11.14 |
+|  |  |  |  |  | | | |  |
 
 
 
@@ -188,7 +189,7 @@ Hyphen（连字符）、em dash（破折号）、和 en dash（短破折号）�
 
 注意：
 
-- 对于Windows，使用数字小键盘输入数字代码时，需要确保Num Lock键处于打开状态。
+- 对于Windows，使用数字小键盘输入数字代码时，需要确保  Num Lock 键处于打开状态。
 - 在Mac上，`Option`键有时也被称为`Alt`键。
 
 

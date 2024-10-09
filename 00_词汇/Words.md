@@ -3225,7 +3225,6 @@ Translator: ChatGPT 4o
 | cloud         | `/klaʊd/`          | n. 云；阴影<br>v. 使模糊；遮蔽            |
 | dwindle       | `/ˈdwɪndəl/`       | v. 逐渐减少；变小                        |
 | modification  | `/ˌmɑdəfəˈkeɪʃən/` | n. 修改；改变                           |
-| forum         | `/ˈfɔrəm/`         | n. 论坛；讨论会                         |
 | gradual       | `/ˈɡrædʒuəl/`      | adj. 逐渐的；渐进的                      |
 | block         | `/blɑk/`           | n. 块；街区<br>v. 阻止；封锁              |
 | persuade      | `/pərˈsweɪd/`      | v. 说服；劝说                           |
@@ -3858,7 +3857,6 @@ Translator: ChatGPT 4o
 | audible      | `/ˈɔdəbəl/`        | adj. 听得见的         |
 | alveolar     | `/ˌælviˈoʊlər/`    | adj. 齿槽的          |
 | swan         | `/swɑn/`           | n. 天鹅             |
-| frustrate    | `/ˈfrʌˌstreɪt/`    | v. 挫败；使沮丧         |
 | engage       | `/ɪnˈɡeɪdʒ/`       | v. 参与；吸引；订婚       |
 | protein      | `/ˈproʊtin/`       | n. 蛋白质            |
 | page         | `/peɪdʒ/`          | n. 页；呼叫           |
@@ -3996,7 +3994,6 @@ Translator: ChatGPT 4o
 | move     | `/muːv/`   | v. 移动；搬家<br>n. 移动       | v. They moved to a new city last year. (他们去年搬到一个新城市。)<br>n. Her dance moves are impressive. (她的舞步令人印象深刻。) |
 | much     | `/mʌtʃ/`   | adv. 非常<br>pron. 许多     | adv. She is much happier now. (她现在快乐多了。)<br>pron. Much has been said about the topic. (关于这个话题已经说了很多。) |
 | must     | `/mʌst/`   | modal verb. 必须          | You must finish your homework before you go out. (你必须完成作业才能出去。) |
-| near     | `/nɪr/`    | prep. 靠近<br>adv. 几乎     | prep. The school is near the park. (学校在公园附近。)<br>adv. He was near crying. (他几乎要哭了。) |
 | need     | `/niːd/`   | v. 需要<br>n. 需求          | v. I need to buy some groceries. (我需要买些杂货。)<br>n. There is a need for more volunteers. (需要更多的志愿者。) |
 | never    | `/ˈnevər/` | adv. 从不；决不              | He never eats vegetables. (他从不吃蔬菜。) |
 | new      | `/njuː/`   | adj. 新的                 | She bought a new car. (她买了一辆新车。) |
@@ -4542,32 +4539,32 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词          | 美式发音           | 词性 + 汉语释义          |
-|-------------|-------------------|------------------------|
-| vulnerable  | `/ˈvʌlnərəbəl/`   | adj. 脆弱的；易受伤的      |
-| foresee     | `/fɔːrˈsiː/`      | v. 预见；预知           |
-| pillar      | `/ˈpɪlər/`        | n. 柱子；支柱           |
-| pillow      | `/ˈpɪloʊ/`        | n. 枕头              |
-| strategic   | `/strəˈtiːdʒɪk/`  | adj. 战略的；关键的       |
-| alliance    | `/əˈlaɪəns/`      | n. 联盟；同盟           |
-| flourish    | `/ˈflɜːrɪʃ/`      | v. 繁荣；兴旺           |
-| humiliate   | `/hjuːˈmɪlieɪt/ ` | v. 羞辱；使丢脸          |
-| acute       | `/əˈkjut/`        | adj. 急性的；敏锐的       |
-| formidable  | `/ˈfɔrmɪdəbəl/`   | adj. 强大的；令人敬畏的     |
-| empress     | `/ˈɛmprəs/`       | n. 女皇；皇后           |
-| prospect    | `/ˈprɑːspɛkt/`    | n. 前景；展望<br>v. 勘探  |
-| hasty       | `/ˈheɪsti/`       | adj. 匆忙的；草率的       |
+| 单词          | 美式发音           | 词性 + 汉语释义        |
+|-------------|-------------------|----------------------|
+| vulnerable  | `/ˈvʌlnərəbəl/`   | adj. 脆弱的；易受伤的    |
+| foresee     | `/fɔːrˈsiː/`      | v. 预见；预知         |
+| pillar      | `/ˈpɪlər/`        | n. 柱子；支柱         |
+| pillow      | `/ˈpɪloʊ/`        | n. 枕头            |
+| strategic   | `/strəˈtiːdʒɪk/`  | adj. 战略的；关键的     |
+| alliance    | `/əˈlaɪəns/`      | n. 联盟；同盟         |
+| flourish    | `/ˈflɜːrɪʃ/`      | v. 繁荣；兴旺         |
+| humiliate   | `/hjuːˈmɪlieɪt/ ` | v. 羞辱；使丢脸        |
+| acute       | `/əˈkjut/`        | adj. 急性的；敏锐的     |
+| formidable  | `/ˈfɔrmɪdəbəl/`   | adj. 强大的；令人敬畏的   |
+| empress     | `/ˈɛmprəs/`       | n. 女皇；皇后         |
+| prospect    | `/ˈprɑːspɛkt/`    | n. 前景；展望<br>v. 勘探 |
+| hasty       | `/ˈheɪsti/`       | adj. 匆忙的；草率的     |
 | tame        | `/teɪm/`          | adj. 驯服的；温顺的<br>v. 驯服 |
-| maze        | `/meɪz/`          | n. 迷宫；错综复杂         |
+| maze        | `/meɪz/`          | n. 迷宫；错综复杂       |
 | mock        | `/mɑːk/`          | v. 嘲笑；模仿<br>adj. 假的 |
-| wing        | `/wɪŋ/`           | n. 翅膀；翼<br>v. 飞行   |
-| sociopath   | `/ˈsoʊsiəˌpæθ/`   | n. 反社会者            |
-| yearn       | `/jɜːrn/`         | v. 渴望；向往           |
-| juicy       | `/ˈdʒuːsi/`       | adj. 多汁的；生动有趣的     |
-| foreign     | `/ˈfɔːrən/`       | adj. 外国的；外来的       |
-| foreigner   | `/ˈfɔrənər/`      | n. 外国人             |
-| equator     | `/ɪˈkweɪtər/`     | n. 赤道              |
-| brown       | `/braʊn/`         | adj. 棕色的<br>n. 棕色  |
+| wing        | `/wɪŋ/`           | n. 翅膀；翼<br>v. 飞行 |
+| sociopath   | `/ˈsoʊsiəˌpæθ/`   | n. 反社会者          |
+| yearn       | `/jɜːrn/`         | v. 渴望；向往         |
+| juicy       | `/ˈdʒuːsi/`       | adj. 多汁的；有趣的     |
+| foreign     | `/ˈfɔːrən/`       | adj. 外国的；外来的     |
+| foreigner   | `/ˈfɔrənər/`      | n. 外国人           |
+| equator     | `/ɪˈkweɪtər/`     | n. 赤道            |
+| brown       | `/braʊn/`         | adj. 棕色的<br>n. 棕色 |
 | skew        | `/skjuː/`         | v. 歪曲；偏斜<br>adj. 歪斜的 |
 
 
@@ -4776,62 +4773,42 @@ Edit: 2024.09.17、18、19
 
 Translator: ChatGPT 4 + 4o
 
-Edit: 2024.09.20, 10.08
+Edit: 2024.09.20, 10.08_09
 
 #### First Table - 已校对 - ~~已写入：GoodNotes~~
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词         | 美式发音           | 词类 + 汉语释义               |
-|------------|-------------------|-------------------------|
-| basically  | `/ˈbeɪsɪkli/      | adv. 基本上                |
-| throw      | `/θroʊ/           | v. 投掷；扔                 |
-| suck       | `/sʌk/            | v. 吸                    |
-| break      | `/breɪk/          | v. 打破；中断<br>n. 休息；间断    |
-| forth      | `/fɔːrθ/          | adv. 向前；向外              |
-| dwarf      | `/dwɔrf/          | n. 矮人；侏儒<br>v. 使显得矮小    |
-| coffin     | `/ˈkɔfɪn/         | n. 棺材                   |
-| gulp       | `/ɡʌlp/           | v. 狼吞虎咽；大口地吸（气）         |
-| gather     | `/ˈɡæðər/         | v. 聚集；收集                |
-| rode       | `/roʊd/           | v. 骑（ride的过去式）          |
-| bang       | `/bæŋ/            | n. 巨响；猛击<br>v. 猛击；发出巨响 ✅ |
-| gasp       | `/ɡæsp/           | v. 喘气；倒抽一口气             |
-| hooray     | `/hʊˈreɪ/         | interj. 万岁；好哇           |
-| blush      | `/blʌʃ/           | v. 脸红                   |
-| bride      | `/braɪd/          | n. 新娘                   |
+| 单词         | 美式发音             | 词性 + 汉语释义                      |
+|------------|------------------|--------------------------------|
+| pine       | `/paɪn/`         | n. 松树<br>v. 思念                 |
+| guest      | `/ɡɛst/`         | n. 客人；宾客                       |
+| shimmy     | `/ˈʃɪmi/`        | v. 摆动                          |
+| shimmer    | `/ˈʃɪmər/`       | v. 闪烁<br>n. 微光                 |
+| east       | `/iːst/`         | n. 东；东方<br>adj. 东方的<br>adv. 向东 |
+| basement   | `/ˈbeɪsmənt/`    | n. 地下室                         |
+| condescend | `/ˌkɑːndɪˈsend/` | v. 屈尊；俯就                       |
+| shout      | `/ʃaʊt/`         | v. 呼喊；喊叫<br>n. 喊叫声             |
+| basically  | `/ˈbeɪsɪkli/`    | adv. 基本上；大体上                   |
+| throw      | `/θroʊ/`         | v. 扔；投掷<br>n. 扔；投掷             |
+| suck       | `/sʌk/`          | v. 吸；吸吮                        |
+| coat       | `/koʊt/`         | n. 外套；涂层<br>v. 覆盖；涂上           |
+| break      | `/breɪk/`        | v. 打破；中断<br>n. 休息；中断           |
+| forth      | `/fɔːrθ/`        | adv. 向前；向外                     |
+| dwarf      | `/dwɔːrf/`       | n. 矮人；侏儒<br>adj. 矮小的           |
+| coffin     | `/ˈkɑːfɪn/`      | n. 棺材                          |
+| swallow    | `/ˈswɑːloʊ/`     | v. 吞咽；忍受<br>n. 吞咽；燕子           |
+| gulp       | `/ɡʌlp/`         | v. 大口吞咽；快速吞咽<br>n. 吞咽          |
+| gather     | `/ˈɡæðər/`       | v. 聚集；收集；推测                    |
+| rode       | `/roʊd/`         | v. 骑（ride 的过去式）                |
+| bang       | `/bæŋ/`          | n. 巨响；猛击<br>v. 猛击；发出巨响         |
+| gasp       | `/ɡæsp/`         | v. (尤因惊讶、疼痛而)喘息；倒吸一口气<br>n. 喘息 |
+| pant       | `/pænt/`         | v. 喘气；气喘吁吁<br>n. 喘气            |
+| hooray     | `/huːˈreɪ/`      | int. 好哇〔表示高兴的呼喊声〕  |
+| blush      | `/blʌʃ/`         | v. 脸红<br>n. 脸红                 |
+| bride      | `/braɪd/`        | n. 新娘                          |
+| groom      | `/ɡruːm/`        | n. 新郎；马夫<br>v. 梳理；培养 |
 
-
-好的，接下来是完整的翻译：
-
-| 单词        | 美式发音              | 词性 + 汉语释义                     |
-| ----------- |-------------------|-------------------------------|
-| pine        | `/paɪn/`          | n. 松树<br>v. 思念                |
-| guest       | `/ɡɛst/`          | n. 客人；宾客                      |
-| shimmy      | `/ˈʃɪmi/`         | v. 摆动                         |
-| shimmer     | `/ˈʃɪmər/`        | v. 闪烁<br>n. 微光                |
-| east        | `/iːst/`          | n. 东；东方<br>adj. 东方的<br>adv. 向东 |
-| basement    | `/ˈbeɪsmənt/`     | n. 地下室                        |
-| condescend  | `/ˌkɑːndɪˈsend/`  | v. 屈尊；俯就                      |
-| shout       | `/ʃaʊt/`          | v. 呼喊；喊叫<br>n. 喊叫声         |
-| basically   | `/ˈbeɪsɪkli/`     | adv. 基本上；大体上                  |
-| throw       | `/θroʊ/`          | v. 扔；投掷<br>n. 扔；投掷            |
-| suck        | `/sʌk/`           | v. 吸；吸吮                       |
-| coat        | `/koʊt/`          | n. 外套；涂层<br>v. 覆盖；涂上          |
-| break       | `/breɪk/`         | v. 打破；中断<br>n. 休息；中断          |
-
-| forth       | `/fɔːrθ/`         | adv. 向前；向外                    |
-| dwarf       | `/dwɔːrf/`        | n. 矮人；侏儒<br>adj. 矮小的          |
-| coffin      | `/ˈkɔːfɪn/`       | n. 棺材                         |
-| gulp        | `/ɡʌlp/`          | v. 吞咽；大口喝                     |
-| gather      | `/ˈɡæðər/`        | v. 收集；聚集                      |
-| rode        | `/roʊd/`          | v. 骑（ride的过去式）                |
-| bang        | `/bæŋ/`           | n. 砰的一声；巨响<br>v. 猛击           |
-| gasp        | `/ɡæsp/`          | v. 喘气；倒抽气                     |
-| hooray      | `/hʊˈreɪ/`        | int. 万岁；好极了                   |
-| blush       | `/blʌʃ/`          | v. 脸红<br>n. 脸红                |
-| bride       | `/braɪd/`         | n. 新娘                         |
-
-以上是完整的翻译结果，如果您有任何问题或需要修改的地方，请随时告诉我！
 
 
 
@@ -4840,35 +4817,35 @@ Edit: 2024.09.20, 10.08
 
 Translator: ChatGPT 4 + 4o
 
-#### First Table - ~~已校对~~ - ~~已写入：GoodNotes~~
+Edit: 2024.10.09
+
+#### First Table - 已校对 - ~~已写入：GoodNotes~~
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词            | 美式发音              | 词类 + 汉语释义                  |
-|---------------|-------------------| -------------------------------|
-| blast         | `/blæst/          | n. 爆炸；一阵<br>v. 爆破         |
-| burrow        | `/ˈbɜr.oʊ/        | n. 地洞<br>v. 挖地洞            |
-| forum         | `/ˈfɔr.əm/        | n. 论坛；公开讨论的场所           |
-| frustrate     | `/ˈfrʌs.treɪt/    | v. 使沮丧；挫败                  |
-| practice      | `/ˈpræk.tɪs/      | n. 练习；实践<br>v. 实践；练习    |
-| juicy         | `/ˈdʒuː.si/       | adj. 多汁的；引人兴趣的           |
-| vein          | `/veɪn/           | n. 静脉；风格                    |
-| haunt         | `/hɔnt/           | v. 常去的地方；萦绕在心头<br>n. 常去的地方 |
-| alleged       | `/əˈlɛdʒd/        | adj. 所谓的；声称的              |
-| hire          | `/ˈhaɪər/         | v. 雇佣<br>n. 雇佣              |
-| hired         | `/ˈhaɪərd/        | adj. 被雇佣的                 |
-| priest        | `/priːst/         | n. 牧师；神父                 |
-| exorcise      | `/ˈɛksɔrsaɪz/     | v. 驱邪                      |
-| plea          | `/pliː/           | n. 恳求；辩解                 |
-| bargain       | `/ˈbɑrɡən/        | n. 交易；便宜货<br>v. 讨价还价  |
-| invade        | `/ɪnˈveɪd/        | v. 侵入；侵略                 |
-| theatrical    | `/θiˈætrɪkəl/     | adj. 戏剧的；夸张的            |
-| predicament   | `/prɪˈdɪkəmənt/   | n. 困境                      |
-| dread         | `/drɛd/           | v. 惧怕；担心<br>n. 恐惧       |
-| deadlier      | `/ˈdɛdliər/       | adj. 更致命的                 |
-| ascertain     | `/ˌæsɚˈteɪn/      | v. 查明；确定                 |
-| jeopardize    | `/ˈdʒɛpərdaɪz/    | v. 危害；使陷入危险            |
+| 单词          | 美式发音             | 词性 + 汉语释义                     |
+|-------------|------------------| ---------------------------------- |
+| blast       | `/blæst/`        | n. 爆炸；一阵<br>v. 爆破            |
+| burrow      | `/ˈbɜːroʊ/`      | n. 地洞<br>v. 挖掘；钻进            |
+| forum       | `/ˈfɔːrəm/`      | n. 论坛；讨论会                    |
+| frustrate   | `/ˈfrʌstreɪt/`   | v. 使沮丧；挫败                    |
+| vein        | `/veɪn/`         | n. 静脉；纹理；风格              |
+| haunt       | `/hɔːnt/`        | v. 常出没于；萦绕心头<br>n. 常去的地方     |
+| allege      | `/əˈlɛdʒ/`       | v. (未提出证据的情况下) 断言；声称    |
+| alleged     | `/əˈlɛdʒd/`      | adj. 所谓的；被指控的                 |
 
+| hire        | `/ˈhaɪər/`       | v. 雇用；租借<br>n. 雇佣            |
+| hired       | `/ˈhaɪərd/`      | adj. 被雇佣的                      |
+| priest      | `/priːst/`       | n. 牧师；神父                      |
+| exorcise    | `/ˈɛksɔrsaɪz/`   | v. 驱邪；驱魔                      |
+| plea        | `/pliː/`         | n. 恳求；辩解                      |
+| bargain     | `/ˈbɑrɡən/`      | n. 交易；便宜货<br>v. 讨价还价         |
+| theatrical  | `/θiˈætrɪkəl/`   | adj. 戏剧的；夸张的                 |
+| predicament | `/prɪˈdɪkəmənt/` | n. 困境                            |
+| dread       | `/drɛd/`         | v. 惧怕；担心<br>n. 恐惧            |
+| deadlier    | `/ˈdɛdliər/`     | adj. 更致命的                      |
+| ascertain   | `/ˌæsɚˈteɪn/`    | v. 查明；确定                      |
+| jeopardize  | `/ˈdʒɛpərdaɪz/`  | v. 危害；使陷入危险                  |
 
 
 
