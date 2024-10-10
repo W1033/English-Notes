@@ -1412,28 +1412,29 @@ Translator: ChatGPT 4o
 
 ~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
 
-| 单词          | 美式发音            | 词性 + 汉语释义                          |
-|---------------|---------------------|------------------------------------------|
-| moot          | `/muːt/`            | adj. 有争议的；不再相关的                |
-| imminent      | `/ˈɪmɪnənt/`        | adj. 即将发生的                          |
-| dandelion     | `/ˈdændɪˌlaɪən/`    | n. 蒲公英                                |
-| rhetoric      | `/ˈrɛtərɪk/`        | n. 修辞；浮夸之词                        |
-| rhetorical    | `/rɪˈtɔrɪkəl/`      | adj. 修辞的；反问的                      |
-| brutal        | `/ˈbruːtəl/`        | adj. 残忍的；野蛮的                      |
-| thump         | `/θʌmp/`            | v. 重击；砰然作响<br>n. 重击声           |
-| rock          | `/rɑk/`             | n. 岩石；摇滚乐<br>v. 摇晃               |
-| rocking       | `/ˈrɑkɪŋ/`          | adj. 摇动的<br>v. 摇晃（rock的现在分词） |
-| hoodie        | `/ˈhʊdi/`           | n. 帽衫                                  |
-| hooded        | `/ˈhʊdɪd/`          | adj. 带兜帽的                            |
-| sweatshirt    | `/ˈswɛtˌʃɜrt/`      | n. 运动衫                                |
-| blah          | `/blɑ/`             | n. 无聊的话；瞎扯<br>adj. 无聊的         |
-| promotional   | `/prəˈmoʊʃənl/`     | adj. 促销的；推广的                      |
-| scraper       | `/ˈskreɪpər/`       | n. 刮刀；刮削器                          |
-| scrapbook     | `/ˈskræpˌbʊk/`      | n. 剪贴簿                                |
-| stoke         | `/stoʊk/`           | v. 添加燃料；激起                        |
-| parent        | `/ˈpɛrənt/`         | n. 父母<br>v. 抚养                        |
-| parenting     | `/ˈpɛrəntɪŋ/`       | n. 育儿；养育                            |
-| maternity     | `/məˈtɜrnɪti/`      | n. 母性；产科                             |
+| 单词          | 美式发音             | 词性 + 汉语释义                   |
+|-------------|------------------|-----------------------------|
+| scrape      | `/skreɪp/`       | v. 刮；擦伤<br>n. 刮痕；擦伤 ✅       |
+| scraper     | `/ˈskreɪpər/`    | n. 刮刀；刮板               ✅    |
+| moot        | `/muːt/`         | adj. 有争议的；不再相关的             |
+| imminent    | `/ˈɪmɪnənt/`     | adj. 即将发生的                  |
+| dandelion   | `/ˈdændɪˌlaɪən/` | n. 蒲公英                      |
+| rhetoric    | `/ˈrɛtərɪk/`     | n. 修辞；浮夸之词                  |
+| rhetorical  | `/rɪˈtɔrɪkəl/`   | adj. 修辞的；反问的                |
+| brutal      | `/ˈbruːtəl/`     | adj. 残忍的；野蛮的                |
+| thump       | `/θʌmp/`         | v. 重击；砰然作响<br>n. 重击声        |
+| rock        | `/rɑk/`          | n. 岩石；摇滚乐<br>v. 摇晃          |
+| rocking     | `/ˈrɑkɪŋ/`       | adj. 摇动的<br>v. 摇晃（rock的现在分词） |
+| hoodie      | `/ˈhʊdi/`        | n. 帽衫                       |
+| hooded      | `/ˈhʊdɪd/`       | adj. 带兜帽的                   |
+| sweatshirt  | `/ˈswɛtˌʃɜrt/`   | n. 运动衫                      |
+| blah        | `/blɑ/`          | n. 无聊的话；瞎扯<br>adj. 无聊的      |
+| promotional | `/prəˈmoʊʃənl/`  | adj. 促销的；推广的                |
+| scrapbook   | `/ˈskræpˌbʊk/`   | n. 剪贴簿                      |
+| stoke       | `/stoʊk/`        | v. 添加燃料；激起                  |
+| parent      | `/ˈpɛrənt/`      | n. 父母<br>v. 抚养              |
+| parenting   | `/ˈpɛrəntɪŋ/`    | n. 育儿；养育                    |
+| maternity   | `/məˈtɜrnɪti/`   | n. 母性；产科                    |
 
 
 
@@ -4833,8 +4834,7 @@ Edit: 2024.10.09
 | haunt       | `/hɔːnt/`        | v. 常出没于；萦绕心头<br>n. 常去的地方     |
 | allege      | `/əˈlɛdʒ/`       | v. (未提出证据的情况下) 断言；声称    |
 | alleged     | `/əˈlɛdʒd/`      | adj. 所谓的；被指控的                 |
-
-| hire        | `/ˈhaɪər/`       | v. 雇用；租借<br>n. 雇佣            |
+| hire        | `/ˈhaɪər/`       | v. 雇用；租用<br>n. 雇用            |
 | hired       | `/ˈhaɪərd/`      | adj. 被雇佣的                      |
 | priest      | `/priːst/`       | n. 牧师；神父                      |
 | exorcise    | `/ˈɛksɔrsaɪz/`   | v. 驱邪；驱魔                      |
