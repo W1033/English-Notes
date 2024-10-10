@@ -4818,7 +4818,7 @@ Edit: 2024.09.20, 10.08_09
 
 Translator: ChatGPT 4 + 4o
 
-Edit: 2024.10.09
+Edit: 2024.10.09、10
 
 #### First Table - 已校对 - ~~已写入：GoodNotes~~
 
@@ -4837,6 +4837,8 @@ Edit: 2024.10.09
 | hire        | `/ˈhaɪər/`       | v. 雇用；租用<br>n. 雇用            |
 | hired       | `/ˈhaɪərd/`      | adj. 被雇佣的                      |
 | priest      | `/priːst/`       | n. 牧师；神父                      |
+| pry         | `/praɪ/`         | v. 撬开；窥探<br>n. 撬棍             |
+
 | exorcise    | `/ˈɛksɔrsaɪz/`   | v. 驱邪；驱魔                      |
 | plea        | `/pliː/`         | n. 恳求；辩解                      |
 | bargain     | `/ˈbɑrɡən/`      | n. 交易；便宜货<br>v. 讨价还价         |
