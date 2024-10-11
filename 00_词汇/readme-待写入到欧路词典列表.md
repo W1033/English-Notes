@@ -2,137 +2,6 @@
 
 
 
-| 单词              | 美式发音                   | 词性 + 汉语释义            |
-|-------------------|------------------------|----------------------|
-| taunt             | `/tɒːnt/`              | v. 嘲弄；奚落<br>n. 嘲弄；奚落 |
-| coma              | `/ˈkoʊmə/`             | n. 昏迷                |
-| giddy             | `/ˈɡɪdi/`              | adj. 头晕的；轻浮的         |
-| apology           | `/əˈpɑːlədʒi/`         | n. 道歉；歉意             |
-| bumpy             | `/ˈbʌmpi/`             | adj. 颠簸的；崎岖不平的       |
-| pave              | `/peɪv/`               | v. 铺（路）；铺设           |
-| kinda             | `/ˈkaɪndə/`            | adv. 有点儿（口语）         |
-| tumble            | `/ˈtʌmbl/`             | v. 跌倒；翻滚<br>n. 跌倒    |
-| tumbler           | `/ˈtʌmblər/`           | n. (无柄平底的) 玻璃杯       |
-| intercontinental  | `/ˌɪntərkɑːntɪˈnentl/` | adj. 洲际的；跨洲的         |
-| silo              | `/ˈsaɪloʊ/`            | n. 筒仓；发射井            |
-| ape               | `/eɪp/`                | n. 类人猿<br>v. 模仿      |
-| rare              | `/rɛr/`                | adj. 稀有的；半熟的         |
-| rarest            | `/rɛrəst/`             | adj. 最稀有的            |
-| savory            | `/ˈseɪvəri/`           | adj. 可口的<br>n. 香薄荷   |
-| crepe             | `/kreɪp/`              | n. 可丽饼；绉(zhòu)纱      |
-| sesame            | `/ˈsesəmi/`            | n. 芝麻                |
-| seed              | `/siːd/`               | n. 种子<br>v. 播种       |
-| expat             | `/ˌeksˈpæt/`           | n. 侨民；移居国外者          |
-| awake             | `/əˈweɪk/`             | adj. 醒着的<br>v. 醒来，唤醒 |
-| knew              | `/nuː/`                | v. 知道（know 的过去式）     |
-
-| 单词            | 美式发音                  | 词性 + 汉语释义              |
-|---------------|-----------------------|------------------------|
-| rancid        | `/ˈrænsɪd/`           | adj. 变质的；腐臭的           |
-| season        | `/ˈsiːzən/`           | n. 季节<br>v. 给...调味     |
-| wok           | `/wɑːk/`              | n. 炒锅                  |
-| fraudulent    | `/ˈfrɔːdʒələnt/`      | adj. 欺诈的；不诚实的          |
-| deceptive     | `/dɪˈseptɪv/`         | adj. 欺骗性的              |
-| masquerade    | `/ˌmæskəˈreɪd/`       | n. 伪装；假面舞会<br>v. 伪装    |
-| mimic         | `/ˈmɪmɪk/`            | v. 模仿<br>n. 模仿者        |
-| notorious     | `/noʊˈtɔːriəs/`       | adj. 臭名昭著的             |
-| infamous      | `/ˈɪnfəməs/`          | adj. 臭名昭著的             |
-| naked         | `/ˈneɪkɪd/`           | adj. 裸露的；无遮蔽的          |
-| divinity      | `/dɪˈvɪnəti/`         | n. 神学；神性               |
-| future        | `/ˈfjuːtʃər/`         | adj. 未来的<br>n. 未来；前途   |
-| beer          | `/bɪr/`               | n. 啤酒                  |
-| beery         | `/ˈbɪri/`             | adj. 有啤酒味的；喝醉啤酒的       |
-| forgo         | `/fɔːrˈɡoʊ/`          | v. 放弃（尤指美好的事物）         |
-| forgone       | `/fɔːrˈɡɔn/`          | adj. 已放弃的；预料中的（forgo 的过去分词） |
-| spoiler       | `/ˈspɔɪlər/`          | n. 剧透；扰流板              |
-| fought        | `/fɔːt/`              | v. fight (v. 打架；战斗. n. 打架；战斗) 的过去式 |
-| spiral        | `/ˈspaɪrəl/`          | adj. 螺旋的<br>n. 螺旋状<br>v. 螺旋上升 |
-| participate   | `/pɑːrˈtɪsəpeɪt/`     | v. 参加，参与                |
-| participation | `/pɑːrˌtɪsəˈpeɪʃən/`  | n. 参加，参与                |
-| boss          | `/bɒːs/`              | n. 老板<br>v. 指挥         |
-
-| 单词          | 美式发音               | 词性 + 汉语释义                                    |
-|-------------|--------------------|----------------------------------------------|
-| bee         | `/biː/`            | n. 蜜蜂                                        |
-| fee         | `/fiː/`            | n. 费用                                        |
-| pea         | `/piː/`            | n. 豌豆                                        |
-| reservation | `/ˌrɛzərˈveɪʃən/`  | n. 预订；保留；保护区                                 |
-| clumsy      | `/ˈklʌmzi/`        | adj. 笨拙的                                     |
-| collar      | `/ˈkɑːlər/`        | n. 衣领；项圈                                     |
-| color       | `/ˈkʌlər/`         | n. 颜色<br>v. 给...着色；影响                        |
-| scheme      | `/skiːm/`          | n. (造福他人的) 计划；阴谋<br>v. 密谋                    |
-| mediocre    | `/ˌmiːdiˈoʊkər/`   | adj. 平庸的；普通的                                 |
-| fudge       | `/fʌdʒ/`           | n. 软糖<br>v. 搪塞                          |
-| optimal     | `/ˈɑːptəməl/`      | adj. 最优的；最佳的                                 |
-| ain't       | `/eɪnt/`           | contr. 不是；没有（am not, is not, are not, has not, have not 的非正式缩略形式） |
-| contraction | `/kənˈtrækʃən/`    | n. 缩写；收缩                                     |
-| contract    | `/ˈkɑnˌtrækt/` (n.)<br>`/kənˈtrækt/` (v.) | n. 合同<br>v. 收缩；签合同                           |
-| loony       | `/ˈluːni/`         | adj. 疯狂的<br>n. 疯子                            |
-| bin         | `/bɪn/`            | n. 垃圾箱；箱子                                    |
-| nap         | `/næp/`            | n. 小睡<br>v. 小睡                               |
-| spook       | `/spuːk/`          | n. 幽灵；间谍<br>v. 惊吓                            |
-| skunk       | `/skʌŋk/`          | n. 臭鼬                                        |
-| mock        | `/mɑːk/`           | v. 嘲笑<br>adj. 仿制的<br>n. 模拟考试                 |
-| arm         | `/ɑːrm/`           | n. 手臂；武器<br>v. 武装                            |
-| vigilante   | `/ˌvɪdʒəˈlænti/`   | n. 义务警员；治安维持者                                |
-| wagon       | `/ˈwæɡən/`         | n. 四轮马车；货车                                   |
-
-| 单词            | 美式发音                 | 词性 + 汉语释义                       |
-|---------------| -------------------- |---------------------------------|
-| bay           | `/beɪ/`              | n. 海湾<br>v. (狗)吠叫               |
-| recreation    | `/ˌrekriˈeɪʃən/`     | n. 娱乐；消遣                        |
-| reserve       | `/rɪˈzɜːrv/`         | v. 预订；保留<br>n. 储备               |
-| mediocrity    | `/ˌmiːdiˈɑːkrəti/`   | n. 平庸                           |
-| mediocre      | `/ˌmiːdiˈoʊkər/`     | adj. 平庸的                        |
-| conservative  | `/kənˈsɜːrvətɪv/`    | adj. 保守的<br>n. 保守派              |
-| conservation  | `/ˌkɑːnsərˈveɪʃən/`  | n. 保护；保存                        |
-| conservator   | `/kənˈsɜːrvətəːr/`   | n. 保护者；管理员                      |
-| history       | `/ˈhɪstəri/`         | n. 历史                           |
-| historic      | `/hɪˈstɔːrɪk/`       | adj. 历史性的；有历史意义的                |
-| historical    | `/hɪˈstɔːrɪkəl/`     | adj. (有关) 历史的                   |
-| herb          | `/ɜːrb/`             | n. 草药；香草                        |
-| impatient     | `/ɪmˈpeɪʃənt/`       | adj. 不耐烦的；急躁的                   |
-| fancy         | `/ˈfænsi/`           | v. 想象；喜欢<br>n. 幻想；喜欢<br>adj. 花哨的；昂贵的 |
-| casual        | `/ˈkæʒuəl/`          | adj. 随意的；临时的；非正式的               |
-| lush          | `/lʌʃ/`              | adj. 茂盛的                        |
-| greenery      | `/ˈɡriːnəri/`        | n. 绿色植物                         |
-| quest         | `/kwest/`            | n. 寻找                           |
-| dough         | `/doʊ/`              | n. 面团                           |
-| premier       | `/prɪˈmɪr/`          | adj. 首要的；最好的<br>n. 总理           |
-| surveillance  | `/sərˈveɪləns/`      | n. 监视                           |
-| theorize      | `/ˈθiːəˌraɪz/`       | v. 推理；建立理论                      |
-| pod           | `/pɑːd/`             | n. 豆荚                           |
-| tank          | `/tæŋk/`             | n. 坦克；水箱                        |
-
-| 单词         | 美式发音             | 词性 + 汉语释义                      |
-|------------|------------------|--------------------------------|
-| pine       | `/paɪn/`         | n. 松树<br>v. 思念                 |
-| guest      | `/ɡɛst/`         | n. 客人；宾客                       |
-| shimmy     | `/ˈʃɪmi/`        | v. 摆动                          |
-| shimmer    | `/ˈʃɪmər/`       | v. 闪烁<br>n. 微光                 |
-| east       | `/iːst/`         | n. 东；东方<br>adj. 东方的<br>adv. 向东 |
-| basement   | `/ˈbeɪsmənt/`    | n. 地下室                         |
-| condescend | `/ˌkɑːndɪˈsend/` | v. 屈尊；俯就                       |
-| shout      | `/ʃaʊt/`         | v. 呼喊；喊叫<br>n. 喊叫声             |
-| basically  | `/ˈbeɪsɪkli/`    | adv. 基本上；大体上                   |
-| throw      | `/θroʊ/`         | v. 扔；投掷<br>n. 扔；投掷             |
-| suck       | `/sʌk/`          | v. 吸；吸吮                        |
-| coat       | `/koʊt/`         | n. 外套；涂层<br>v. 覆盖；涂上           |
-| break      | `/breɪk/`        | v. 打破；中断<br>n. 休息；中断           |
-| forth      | `/fɔːrθ/`        | adv. 向前；向外                     |
-| dwarf      | `/dwɔːrf/`       | n. 矮人；侏儒<br>adj. 矮小的           |
-| coffin     | `/ˈkɑːfɪn/`      | n. 棺材                          |
-| swallow    | `/ˈswɑːloʊ/`     | v. 吞咽；忍受<br>n. 吞咽；燕子           |
-| gulp       | `/ɡʌlp/`         | v. 大口吞咽；快速吞咽<br>n. 吞咽          |
-| gather     | `/ˈɡæðər/`       | v. 聚集；收集；推测                    |
-| rode       | `/roʊd/`         | v. 骑（ride 的过去式）                |
-| bang       | `/bæŋ/`          | n. 巨响；猛击<br>v. 猛击；发出巨响         |
-| gasp       | `/ɡæsp/`         | v. (尤因惊讶、疼痛而)喘息；倒吸一口气<br>n. 喘息 |
-| pant       | `/pænt/`         | v. 喘气；气喘吁吁<br>n. 喘气            |
-| hooray     | `/huːˈreɪ/`      | int. 好哇〔表示高兴的呼喊声〕  |
-| blush      | `/blʌʃ/`         | v. 脸红<br>n. 脸红                 |
-| bride      | `/braɪd/`        | n. 新娘                          |
-| groom      | `/ɡruːm/`        | n. 新郎；马夫<br>v. 梳理；培养 |
 
 
 
@@ -145,16 +14,145 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
+taunt, `/tɒːnt/`<br/><br/>v. 嘲弄；奚落<br><br>n. 嘲弄；奚落 
+coma, `/ˈkoʊmə/`<br/><br/>n. 昏迷                
+giddy, `/ˈɡɪdi/`<br/><br/>adj. 头晕的；轻浮的         
+apology, `/əˈpɑːlədʒi/`<br/><br/>n. 道歉；歉意             
+bumpy, `/ˈbʌmpi/`<br/><br/>adj. 颠簸的；崎岖不平的       
+pave, `/peɪv/`<br/><br/>v. 铺（路）；铺设           
+kinda, `/ˈkaɪndə/`<br/><br/>adv. 有点儿（口语）         
+tumble, `/ˈtʌmbl/`<br/><br/>v. 跌倒；翻滚<br><br>n. 跌倒    
+tumbler, `/ˈtʌmblər/`<br/><br/>n. (无柄平底的) 玻璃杯       
+intercontinenta, `/ˌɪntərkɑːntɪˈnentl/`<br/><br/>adj. 洲际的；跨洲的         
+silo, `/ˈsaɪloʊ/`<br/><br/>n. 筒仓；发射井            
+ape, `/eɪp/`<br/><br/>n. 类人猿<br><br>v. 模仿      
+rare, `/rɛr/`<br/><br/>adj. 稀有的；半熟的         
+rarest, `/rɛrəst/`<br/><br/>adj. 最稀有的            
+savory, `/ˈseɪvəri/`<br/><br/>adj. 可口的<br><br>n. 香薄荷   
+crepe, `/kreɪp/`<br/><br/>n. 可丽饼；绉(zhòu)纱      
+sesame, `/ˈsesəmi/`<br/><br/>n. 芝麻                
+seed, `/siːd/`<br/><br/>n. 种子<br><br>v. 播种       
+expat, `/ˌeksˈpæt/`<br/><br/>n. 侨民；移居国外者          
+awake, `/əˈweɪk/`<br/><br/>adj. 醒着的<br><br>v. 醒来，唤醒 
+knew, `/nuː/`<br/><br/>v. 知道（know 的过去式）     
+rancid, `/ˈrænsɪd/`<br/><br/>adj. 变质的；腐臭的           
+season, `/ˈsiːzən/`<br/><br/>n. 季节<br><br>v. 给...调味     
+wok, `/wɑːk/`<br/><br/>n. 炒锅                  
+fraudulent, `/ˈfrɔːdʒələnt/`<br/><br/>adj. 欺诈的；不诚实的          
+deceptive, `/dɪˈseptɪv/`<br/><br/>adj. 欺骗性的              
+masquerade, `/ˌmæskəˈreɪd/`<br/><br/>n. 伪装；假面舞会<br><br>v. 伪装    
+mimic, `/ˈmɪmɪk/`<br/><br/>v. 模仿<br><br>n. 模仿者        
+notorious, `/noʊˈtɔːriəs/`<br/><br/>adj. 臭名昭著的             
+infamous, `/ˈɪnfəməs/`<br/><br/>adj. 臭名昭著的             
+naked, `/ˈneɪkɪd/`<br/><br/>adj. 裸露的；无遮蔽的          
+divinity, `/dɪˈvɪnəti/`<br/><br/>n. 神学；神性               
+future, `/ˈfjuːtʃər/`<br/><br/>adj. 未来的<br><br>n. 未来；前途   
+beer, `/bɪr/`<br/><br/>n. 啤酒                  
+beery, `/ˈbɪri/`<br/><br/>adj. 有啤酒味的；喝醉啤酒的       
+forgo, `/fɔːrˈɡoʊ/`<br/><br/>v. 放弃（尤指美好的事物）         
+forgone, `/fɔːrˈɡɔn/`<br/><br/>adj. 已放弃的；预料中的（forgo 的过去分词） 
+spoiler, `/ˈspɔɪlər/`<br/><br/>n. 剧透；扰流板              
+fought, `/fɔːt/`<br/><br/>v. fight (v. 打架；战斗. n. 打架；战斗) 的过去式 
+spiral, `/ˈspaɪrəl/`<br/><br/>adj. 螺旋的<br><br>n. 螺旋状<br><br>v. 螺旋上升 
+participate, `/pɑːrˈtɪsəpeɪt/`<br/><br/>v. 参加，参与                
+participation, `/pɑːrˌtɪsəˈpeɪʃən/`<br/><br/>n. 参加，参与                
+boss, `/bɒːs/`<br/><br/>n. 老板<br><br>v. 指挥         
+bee, `/biː/`<br/><br/>n. 蜜蜂                                  
+fee, `/fiː/`<br/><br/>n. 费用                                  
+pea, `/piː/`<br/><br/>n. 豌豆                                  
+reservation, `/ˌrɛzərˈveɪʃən/`<br/><br/>n. 预订；保留；保护区                           
+clumsy, `/ˈklʌmzi/`<br/><br/>adj. 笨拙的                               
+collar, `/ˈkɑːlər/`<br/><br/>n. 衣领；项圈                               
+color, `/ˈkʌlər/`<br/><br/>n. 颜色<br><br>v. 给...着色；影响                  
+scheme, `/skiːm/`<br/><br/>n. (造福他人的) 计划；阴谋<br><br>v. 密谋              
+mediocre, `/ˌmiːdiˈoʊkər/`<br/><br/>adj. 平庸的；普通的                           
+fudge, `/fʌdʒ/`<br/><br/>n. 软糖<br><br>v. 搪塞                    
+optimal, `/ˈɑːptəməl/`<br/><br/>adj. 最优的；最佳的                           
+contraction, `/kənˈtrækʃən/`<br/><br/>n. 缩写；收缩                               
+loony, `/ˈluːni/`<br/><br/>adj. 疯狂的<br><br>n. 疯子                      
+bin, `/bɪn/`<br/><br/>n. 垃圾箱；箱子                              
+nap, `/næp/`<br/><br/>n. 小睡<br><br>v. 小睡                         
+spook, `/spuːk/`<br/><br/>n. 幽灵；间谍<br><br>v. 惊吓                      
+skunk, `/skʌŋk/`<br/><br/>n. 臭鼬                                  
+mock, `/mɑːk/`<br/><br/>v. 嘲笑<br><br>adj. 仿制的<br><br>n. 模拟考试           
+arm, `/ɑːrm/`<br/><br/>n. 手臂；武器<br><br>v. 武装                      
+vigilante, `/ˌvɪdʒəˈlænti/`<br/><br/>n. 义务警员；治安维持者                          
+wagon, `/ˈwæɡən/`<br/><br/>n. 四轮马车；货车                             
+bay, `/beɪ/`<br/><br/>n. 海湾<br><br>v. (狗)吠叫         
+recreation, `/ˌrekriˈeɪʃən/`<br/><br/>n. 娱乐；消遣                  
+reserve, `/rɪˈzɜːrv/`<br/><br/>v. 预订；保留<br><br>n. 储备         
+mediocrity, `/ˌmiːdiˈɑːkrəti/`<br/><br/>n. 平庸                     
+mediocre, `/ˌmiːdiˈoʊkər/`<br/><br/>adj. 平庸的                  
+conservative, `/kənˈsɜːrvətɪv/`<br/><br/>adj. 保守的<br><br>n. 保守派        
+conservation, `/ˌkɑːnsərˈveɪʃən/`<br/><br/>n. 保护；保存                  
+conservator, `/kənˈsɜːrvətəːr/`<br/><br/>n. 保护者；管理员                
+history, `/ˈhɪstəri/`<br/><br/>n. 历史                     
+historic, `/hɪˈstɔːrɪk/`<br/><br/>adj. 历史性的；有历史意义的          
+historical, `/hɪˈstɔːrɪkəl/`<br/><br/>adj. (有关) 历史的             
+herb, `/ɜːrb/`<br/><br/>n. 草药；香草                  
+impatient, `/ɪmˈpeɪʃənt/`<br/><br/>adj. 不耐烦的；急躁的             
+fancy, `/ˈfænsi/`<br/><br/>v. 想象；喜欢<br><br>n. 幻想；喜欢<br><br>adj. 花哨的；昂贵的 
+casual, `/ˈkæʒuəl/`<br/><br/>adj. 随意的；临时的；非正式的         
+lush, `/lʌʃ/`<br/><br/>adj. 茂盛的                  
+greenery, `/ˈɡriːnəri/`<br/><br/>n. 绿色植物                   
+quest, `/kwest/`<br/><br/>n. 寻找                     
+dough, `/doʊ/`<br/><br/>n. 面团                     
+premier, `/prɪˈmɪr/`<br/><br/>adj. 首要的；最好的<br><br>n. 总理     
+surveillance, `/sərˈveɪləns/`<br/><br/>n. 监视                     
+theorize, `/ˈθiːəˌraɪz/`<br/><br/>v. 推理；建立理论                
+pod, `/pɑːd/`<br/><br/>n. 豆荚                     
+tank, `/tæŋk/`<br/><br/>n. 坦克；水箱                  
+pine, `/paɪn/`<br/><br/>n. 松树<br><br>v. 思念           
+guest, `/ɡɛst/`<br/><br/>n. 客人；宾客                 
+shimmy, `/ˈʃɪmi/`<br/><br/>v. 摆动                    
+shimmer, `/ˈʃɪmər/`<br/><br/>v. 闪烁<br><br>n. 微光           
+east, `/iːst/`<br/><br/>n. 东；东方<br><br>adj. 东方的<br><br>adv. 向东 
+basement, `/ˈbeɪsmənt/`<br/><br/>n. 地下室                   
+condescend, `/ˌkɑːndɪˈsend/`<br/><br/>v. 屈尊；俯就                 
+shout, `/ʃaʊt/`<br/><br/>v. 呼喊；喊叫<br><br>n. 喊叫声       
+basically, `/ˈbeɪsɪkli/`<br/><br/>adv. 基本上；大体上             
+throw, `/θroʊ/`<br/><br/>v. 扔；投掷<br><br>n. 扔；投掷       
+suck, `/sʌk/`<br/><br/>v. 吸；吸吮                  
+coat, `/koʊt/`<br/><br/>n. 外套；涂层<br><br>v. 覆盖；涂上     
+break, `/breɪk/`<br/><br/>v. 打破；中断<br><br>n. 休息；中断     
+forth, `/fɔːrθ/`<br/><br/>adv. 向前；向外               
+dwarf, `/dwɔːrf/`<br/><br/>n. 矮人；侏儒<br><br>adj. 矮小的     
+coffin, `/ˈkɑːfɪn/`<br/><br/>n. 棺材                    
+swallow, `/ˈswɑːloʊ/`<br/><br/>v. 吞咽；忍受<br><br>n. 吞咽；燕子     
+gulp, `/ɡʌlp/`<br/><br/>v. 大口吞咽；快速吞咽<br><br>n. 吞咽    
+gather, `/ˈɡæðər/`<br/><br/>v. 聚集；收集；推测              
+rode, `/roʊd/`<br/><br/>v. 骑（ride 的过去式）          
+bang, `/bæŋ/`<br/><br/>n. 巨响；猛击<br><br>v. 猛击；发出巨响   
+gasp, `/ɡæsp/`<br/><br/>v. (尤因惊讶、疼痛而)喘息；倒吸一口气<br><br>n. 喘息 
+pant, `/pænt/`<br/><br/>v. 喘气；气喘吁吁<br><br>n. 喘气      
+hooray, `/huːˈreɪ/`<br/><br/>int. 好哇〔表示高兴的呼喊声〕  
+blush, `/blʌʃ/`<br/><br/>v. 脸红<br><br>n. 脸红           
+bride, `/braɪd/`<br/><br/>n. 新娘                    
+groom, `/ɡruːm/`<br/><br/>n. 新郎；马夫<br><br>v. 梳理；培养 
+blast, `/blæst/`<br/><br/>n. 爆炸；一阵<br><br>v. 爆破        
+burrow, `/ˈbɜːroʊ/`<br/><br/>n. 地洞<br><br>v. 挖掘；钻进        
+forum, `/ˈfɔːrəm/`<br/><br/>n. 论坛；讨论会                
+frustrate, `/ˈfrʌstreɪt/`<br/><br/>v. 使沮丧；挫败                
+vein, `/veɪn/`<br/><br/>n. 静脉；纹理；风格              
+haunt, `/hɔːnt/`<br/><br/>v. 常出没于；萦绕心头<br><br>n. 常去的地方 
+allege, `/əˈlɛdʒ/`<br/><br/>v. (未提出证据的情况下) 断言；声称    
+alleged, `/əˈlɛdʒd/`<br/><br/>adj. 所谓的；被指控的            
+hire, `/ˈhaɪər/`<br/><br/>v. 雇用；租用<br><br>n. 雇用        
+hired, `/ˈhaɪərd/`<br/><br/>adj. 被雇佣的                
+priest, `/priːst/`<br/><br/>n. 牧师；神父                 
+pry, `/praɪ/`<br/><br/>v. 撬开；窥探<br><br>n. 撬棍        
+exorcise, `/ˈɛksɔrsaɪz/`<br/><br/>v. 驱邪；驱魔                 
+plea, `/pliː/`<br/><br/>n. 恳求；辩解                 
+bargain, `/ˈbɑːrɡən/`<br/><br/>n. 交易；便宜货<br><br>v. 讨价还价     
+theatrical, `/θiˈætrɪkəl/`<br/><br/>adj. 戏剧的；夸张的             
+predicament, `/prɪˈdɪkəmənt/`<br/><br/>n. 困境                      
+dread, `/dred/`<br/><br/>v. 惧怕；担心<br><br>n. 恐惧        
+dead, `/ded/`<br/><br/>adj. 死的；无生气的<br><br>n. 死亡    
+deadly, `/ˈdedli/`<br/><br/>adj. 致命的；致死的<br><br>adv. 非常地 
+deadlier, `/ˈdɛdliər/`<br/><br/>adj. 更致命的                
+ascertain, `/ˌæsərˈteɪn/`<br/><br/>v. 查明；确定                 
+jeopardize, `/ˈdʒepərdaɪz/`<br/><br/>v. 危害；使陷入危险     
+------
 tertiary, `/ˈtɜːrʃieri/` <br/><br/> adj. 第三的；第三位的          
 domestic, `/dəˈmestɪk/` <br/><br/> adj. 国内的；家庭的           
 consolation, `/ˌkɑːnsəˈleɪʃən/` <br/><br/> n. 安慰                  
@@ -1064,3 +1062,7 @@ campus, `/ˈkæmpəs/` <br/><br/> n. 校园
 allergen, `/ˈælərdʒən/` <br/><br/> n. 过敏原
 minute, `/ˈmɪnɪt/`(n.)<br>`/maɪˈnuːt/`(adj.) <br/><br/> n. 分钟<br><br>adj. 微小的  
 digest, `/daɪˈdʒɛst/` (v.), <br />`/ˈdaɪdʒɛst/` (n.)<br/><br/> v. 消化；理解<br><br>n. 摘要；文摘
+
+
+| ain't       | `/eɪnt/`           | contr. 不是；没有（am not, is not, are not, has not, have not 的非正式缩略形式） |
+| contract    | `/ˈkɑnˌtrækt/` (n.)<br>`/kənˈtrækt/` (v.) | n. 合同<br>v. 收缩；签合同                           |
