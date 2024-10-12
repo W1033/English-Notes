@@ -20,6 +20,112 @@ Translator: ChatGPT 4o
 
 
 
+### Add: 2024.10.12
+
+#### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词            | 美式发音               | 词性 + 汉语释义             |
+|-----------------|--------------------|----------------------------|
+| microscope      | `/ˈmaɪkrəˌskoʊp/`  | n. 显微镜                  |
+| microscopic     | `/ˌmaɪkrəˈskɑpɪk/` | adj. 微小的；显微的          |
+| speck           | `/spɛk/`           | n. 斑点；微粒              |
+| organism        | `/ˈɔrɡənɪzəm/`     | n. 生物；有机体             |
+| zooplankton     | `/ˌzoʊəˈplæŋktən/` | n. 浮游动物                |
+| acropolis       | `/əˈkrɑpəlɪs/`     | n. 卫城                    |
+| litre           | `/ˈliːtər/`        | n. 升（公制容量单位）          |
+| detriment       | `/ˈdɛtrɪmənt/`     | n. 损害；伤害              |
+| caveat          | `/ˈkæviˌæt/`       | n. 警告；告诫              |
+| fanatical       | `/fəˈnætɪkəl/`     | adj. 狂热的；过激的          |
+| fanaticism      | `/fəˈnætɪˌsɪzəm/`  | n. 狂热；盲信              |
+| invite          | `/ɪnˈvaɪt/`        | v. 邀请；引诱              |
+| impromptu       | `/ɪmˈprɑmptu/`     | adj. 即兴的<br>adv. 即兴地  |
+| curator         | `/kjʊˈreɪtər/`     | n. 馆长；策展人             |
+| fade            | `/feɪd/`           | v. 褪色；逐渐消失            |
+| tomorrow        | `/təˈmɑroʊ/`       | n. 明天<br>adv. 在明天      |
+| them            | `/ðɛm/`            | pron. 他们；它们           |
+| resemble        | `/rɪˈzɛmbəl/`      | v. 类似；与…相似            |
+| stoicism        | `/ˈstoʊɪˌsɪzəm/`   | n. 斯多葛学派；坚忍           |
+| chase           | `/tʃeɪs/`          | v. 追逐；追赶<br>n. 追逐     |
+
+
+#### Second Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词              | 美式发音                   | 词性 + 汉语释义               |
+|-------------------|------------------------|------------------------------|
+| come              | `/kʌm/`                | v. 来；到达                  |
+| merry             | `/ˈmɛri/`              | adj. 欢乐的；愉快的            |
+| pentagram         | `/ˈpɛntəˌɡræm/`        | n. 五角星形                  |
+| collaboration     | `/kəˌlæbəˈreɪʃən/`     | n. 合作；协作                |
+| identification    | `/aɪˌdɛntɪfɪˈkeɪʃən/`  | n. 识别；鉴定                |
+| spent             | `/spɛnt/`              | adj. 精疲力尽的；用尽的          |
+| spend             | `/spɛnd/`              | v. 花费；消耗                |
+| executor          | `/ɪɡˈzɛkjətər/`        | n. 执行者；遗嘱执行人            |
+| enclave           | `/ˈɛnkleɪv/`           | n. 飞地；被包围的领土            |
+| broccoli          | `/ˈbrɑkəli/`           | n. 西兰花                    |
+| mirror            | `/ˈmɪrər/`             | n. 镜子<br>v. 反映            |
+| rad               | `/ræd/`                | adj. 极好的（非正式）           |
+| solitary          | `/ˈsɑlɪˌtɛri/`         | adj. 独自的；孤独的            |
+| drown             | `/draʊn/`              | v. 溺水；淹没                 |
+| Spain             | `/speɪn/`              | n. 西班牙                    |
+| dance             | `/dæns/`               | v. 跳舞<br>n. 舞蹈           |
+| daughter          | `/ˈdɔtər/`             | n. 女儿                      |
+| smear             | `/smɪr/`               | v. 涂抹；诽谤<br>n. 涂抹；污点    |
+| armour            | `/ˈɑrmər/`             | n. 盔甲；装甲                |
+| impatience        | `/ɪmˈpeɪʃəns/`         | n. 不耐烦；急躁               |
+
+
+#### Third Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词             | 美式发音                | 词性 + 汉语释义               |
+|----------------|---------------------|---------------------------|
+| assemble       | `/əˈsɛmbəl/`        | v. 集合；装配                |
+| shallow        | `/ˈʃæloʊ/`          | adj. 浅的；肤浅的             |
+| politic        | `/ˈpɑlɪtɪk/`        | adj. 精明的；谨慎的            |
+| arena          | `/əˈrinə/`          | n. 竞技场；舞台               |
+| lane           | `/leɪn/`            | n. 小巷；车道                |
+| tilt           | `/tɪlt/`            | v. 倾斜；偏向<br>n. 倾斜       |
+| tattoos        | `/təˈtuːz/`         | n. 纹身                   |
+| sentinel       | `/ˈsɛntɪnəl/`       | n. 哨兵                   |
+| laser          | `/ˈleɪzər/`         | n. 激光                   |
+| settle         | `/ˈsɛtəl/`          | v. 解决；定居                |
+| aisle          | `/aɪl/`             | n. 走道；过道                |
+| introduction   | `/ˌɪntrəˈdʌkʃən/`   | n. 介绍；引言                |
+| sane           | `/seɪn/`            | adj. 理智的；心智健全的          |
+| fort           | `/fɔrt/`            | n. 堡垒                   |
+| efficient      | `/ɪˈfɪʃənt/`        | adj. 高效的；效率高的           |
+| fallow         | `/ˈfæloʊ/`          | adj. 休耕的；不活跃的           |
+| metadata       | `/ˈmɛtəˌdeɪtə/`     | n. 元数据                  |
+| importune      | `/ˌɪmpɔrˈtjun/`     | v. 纠缠；强求                |
+| equilateral    | `/ˌikwəˈlætərəl/`   | adj. 等边的                |
+| obtuse         | `/əbˈtjuːs/`        | adj. 迟钝的；钝角的            |
+
+
+#### Fourth Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+
+
+
+
+
+
+
+
 
 ### Add: 2024.09.29
 
@@ -4173,11 +4279,6 @@ Edit: 2024.10.11
 
 | 单词                 | 美式发音                    | 词性 + 汉语释义           |
 |--------------------|-------------------------|---------------------|
-| divine             | `/dɪˈvaɪn/`             | adj. 神圣的<br>v. 占卜   |
-| intervention       | `/ˌɪntərˈvɛnʃən/`       | n. 干预               |
-| chime              | `/tʃaɪm/`               | n. 钟声<br>v. 鸣响      |
-| quaint             | `/kweɪnt/`              | adj. 古色古香的          |
-| near-unprecedented | `/nɪr-ʌnˈprɛsɪˌdɛntɪd/` | adj. 前所未有的          |
 | toll               | `/toʊl/`                | n. 通行费<br>v. 敲钟     |
 | crunch             | `/krʌntʃ/`              | v. 发出嘎吱声<br>n. 紧要关头 |
 | crunchy            | `/ˈkrʌntʃi/`            | adj. 松脆的            |
@@ -4192,28 +4293,28 @@ Edit: 2024.10.11
 
 以下是严格遵循翻译规则的最终版本：
 
-| 单词                 | 美式发音                    | 词性 + 汉语释义              |
-|----------------------|-------------------------|------------------------|
-| bizarre              | `/bɪˈzɑːr/`             | adj. 奇异的；古怪的           |
-| streamline           | `/ˈstriːmlaɪn/`         | v. 精简；使...成流线型         |
+| 单词                   | 美式发音               | 词性 + 汉语释义           |
+|----------------------|--------------------|---------------------|
+| bizarre              | `/bɪˈzɑːr/`        | adj. 奇异的；古怪的        |
+| streamline           | `/ˈstriːmlaɪn/`    | v. 精简；使...成流线型      |
+| lop                  | `/lɑːp/`           | v. 砍掉（尤指树枝）；修剪      |
+| divine               | `/dɪˈvaɪn/`        | adj. 神圣的；极好的        |
+| intervention         | `/ˌɪntərˈvenʃən/`  | n. 干预；介入            |
+| chime                | `/tʃaɪm/`          | v. (钟)鸣响<br>n. 钟声   |
+| quaint               | `/kweɪnt/`         | adj. 古色古香的；奇特的        |
+| toll                 | `/toʊl/`           | n. 通行费    |
 
-| divine               | `/dɪˈvaɪn/`             | adj. 神圣的；极好的           |
-| intervention         | `/ˌɪntərˈvenʃən/`       | n. 干预；介入               |
-| chime                | `/tʃaɪm/`               | v. 鸣响<br>n. 钟声         |
-| quaint               | `/kweɪnt/`              | adj. 古雅的；奇特的           |
-| near-unprecedented   | `/nɪr-ʌnˈpresɪdentɪd/`  | adj. 几乎前所未有的           |
-| toll                 | `/toʊl/`                | n. 通行费；代价<br>v. 敲钟     |
-| crunch               | `/krʌntʃ/`              | v. 发出嘎吱声；咬碎<br>n. 紧要关头 |
-| crunchy              | `/ˈkrʌnʧi/`             | adj. 松脆的               |
-| envision             | `/ɪnˈvɪʒən/`            | v. 想象；预见               |
-| ultimate             | `/ˈʌltɪmət/`            | adj. 最终的；根本的           |
-| ultimately           | `/ˈʌltɪmətli/`          | adv. 最终；根本上            |
-| grate                | `/ɡreɪt/`               | v. 磨碎；使恼火              |
-| grateful             | `/ˈɡreɪtfəl/`           | adj. 感激的               |
-| plot                 | `/plɑt/`                | n. 情节；阴谋<br>v. 密谋      |
-| ramble               | `/ˈræmbl/`              | v. 漫步；闲聊<br>n. 漫步      |
-| deserve              | `/dɪˈzɜrv/`             | v. 应得；值得               |
-| innocent             | `/ˈɪnəsənt/`            | adj. 无辜的；天真的           |
+| crunch               | `/krʌntʃ/`         | v. 发出嘎吱声；咬碎<br>n. 紧要关头 |
+| crunchy              | `/ˈkrʌntʃi/`       | adj. 松脆的               |
+| envision             | `/ɪnˈvɪʒən/`       | v. 想象；预见               |
+| ultimate             | `/ˈʌltɪmət/`       | adj. 最终的；根本的           |
+| ultimately           | `/ˈʌltɪmətli/`     | adv. 最终；根本上            |
+| grate                | `/ɡreɪt/`          | v. 磨碎；使恼火              |
+| grateful             | `/ˈɡreɪtfəl/`      | adj. 感激的               |
+| plot                 | `/plɑt/`           | n. 情节；阴谋<br>v. 密谋      |
+| ramble               | `/ˈræmbl/`         | v. 漫步；闲聊<br>n. 漫步      |
+| deserve              | `/dɪˈzɜrv/`        | v. 应得；值得               |
+| innocent             | `/ˈɪnəsənt/`       | adj. 无辜的；天真的           |
 
 
 
