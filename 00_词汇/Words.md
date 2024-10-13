@@ -19,6 +19,36 @@ Translator: ChatGPT 4o
 ## ▲ 待编辑生词
 
 
+### Add: 2024.10.13
+
+#### First Table - ~~已校对~~ - ~~已写入 GoodNotes~~
+
+Translator: ChatGPT 4o
+
+~~注：下面表格单词已写到 Goodnotes；日期见：2024.00.00~~
+
+| 单词               | 美式发音                 | 词性 + 汉语释义            |
+|------------------|----------------------|--------------------------|
+| quadriceps       | `/ˈkwɑːdrɪˌsɛps/`    | n. 股四头肌              |
+| femur            | `/ˈfiːmər/`          | n. 股骨                  |
+| patella          | `/pəˈtɛlə/`          | n. 膝盖骨                |
+| articular        | `/ɑːrˈtɪkjələr/`     | adj. 关节的              |
+| cartilage        | `/ˈkɑrtəˌlɪdʒ/`      | n. 软骨                  |
+| anterior         | `/ænˈtɪriər/`        | adj. 前面的              |
+| cruciate         | `/ˈkruːʃiˌeɪt/`      | adj. 十字形的            |
+| ligament         | `/ˈlɪɡəmənt/`        | n. 韧带                  |
+| posterior        | `/pɑˈstɪriər/`       | adj. 后面的              |
+| lateral          | `/ˈlætərəl/`         | adj. 侧面的              |
+| collateral       | `/kəˈlætərəl/`       | adj. 附属的              |
+| fibula           | `/ˈfɪbjələ/`         | n. 腓骨                  |
+| tibia            | `/ˈtɪbiə/`           | n. 胫骨                  |
+| patellar         | `/pəˈtɛlər/`         | adj. 髌骨的              |
+| tendon           | `/ˈtɛndən/`          | n. 腱                    |
+| meniscus         | `/mɪˈnɪskəs/`        | n. 半月板                |
+
+
+
+
 
 ### Add: 2024.10.12
 
