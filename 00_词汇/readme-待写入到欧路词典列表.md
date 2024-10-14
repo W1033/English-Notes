@@ -2,6 +2,69 @@
 
 
 
+| 单词              | 美式发音                | 词性 + 汉语释义                |
+|-----------------|---------------------|--------------------------|
+| accuracy        | `/ˈækjərəsi/`       | n. 准确（性）；精确（性）           |
+| accurate        | `/ˈækjərət/`        | adj. 准确的；精确的              |
+| droid           | `/drɔɪd/`           | n. 机器人                   |
+| stink           | `/stɪŋk/`           | v. 发臭<br>n. 恶臭           |
+| cruiser         | `/ˈkruːzər/`        | n. 巡洋舰；巡航车               |
+| hatch           | `/hætʃ/`            | v. 孵化；策划<br>n. (船﹑飞机上的)舱口 |
+| dank            | `/dæŋk/`            | adj. 潮湿的；阴冷的             |
+| fart            | `/fɑːrt/`           | v. 放屁<br>n. 屁            |
+| understate      | `/ˈʌndərsteɪt/`     | v. 轻描淡写；低估               |
+| understatement  | `/ˌʌndərsteɪtmənt/` | n. 轻描淡写；低估               |
+| molt            | `/moʊlt/`           | v. 脱毛；换羽             |
+| expect          | `/ɪkˈspɛkt/`        | v. 期待；预期             |
+| expectation     | `/ˌekspekˈteɪʃən/`  | n. 期望；预期             |
+| polyglot        | `/ˈpɑːlɪɡlɑːt/`     | n. 多语言者；adj. 能说多种语言的 |
+| methodology     | `/ˌmeθəˈdɑːlədʒi/`  | n. 方法论；方法学           |
+| notice          | `/ˈnoʊtɪs/`         | n. 通知；注意<br>v. 注意到   |
+| noticing        | `/ˈnoʊtɪsɪŋ/`       | n. 注意到（作为名词）<br>v. 注意到（作为动词的现在分词） |
+| collocate       | `/ˈkɑːləkeɪt/`      | v. 配置；搭配             |
+| collocation     | `/ˌkɑːləˈkeɪʃən/`   | n. 词语搭配              |
+| absorb          | `/əbˈzɔːrb/`        | v. 吸收；理解             |
+| wily            | `/ˈwaɪli/`          | adj. 狡猾的；狡诈的         |
+| pure            | `/pjʊr/`            | adj. 纯净的；纯粹的         |
+| tongue          | `/tʌŋ/`             | n. 舌头；语言             |
+| disaster        | `/dɪˈzæstər/`       | n. 灾难；不幸             |
+| silent          | `/ˈsaɪlənt/`        | adj. 安静的；沉默的         |
+| occupation      | `/ˌɑːkjʊˈpeɪʃən/`   | n. 职业；占领             |
+| appliance       | `/əˈplaɪəns/`       | n. 器具；家电             |
+| surrender       | `/səˈrendər/`       | v. 投降；n. 投降          |
+
+| 单词            | 美式发音               | 词性 + 汉语释义             |
+|---------------|--------------------|-----------------------|
+| cornerstone   | `/ˈkɔːrnərstoʊn/`  | n. 基石；基础              |
+| messy         | `/ˈmesi/`          | adj. 杂乱的；麻烦的          |
+| gallery       | `/ˈɡæləri/`        | n. 画廊；美术馆             |
+| transcribe    | `/trænˈskaɪb/`     | v. 抄写；转录              |
+| transcription | `/trænˈskrɪpʃən/`  | n. 抄写；转录本             |
+| incredibly    | `/ɪnˈkredəbli/`    | adv. 难以置信地；非常地        |
+| won’t         | `/woʊnt/`          | 缩写. 将不会 (will not)    |
+| apoptosis     | `/ˌæpəpˈtosɪs/`    | n. 细胞凋亡               |
+| shoe          | `/ʃuː/`            | n. 鞋子                 |
+| vegetarian    | `/ˌvɛdʒɪˈteəriən/` | n. 素食者；adj. 素食的       |
+| slither       | `/ˈslɪðər/`        | v. 滑行；蜿蜒前行            |
+| march         | `/mɑːrtʃ/`         | v. 行军；游行<br>n. 行军；游行  |
+| marcher       | `/ˈmɑːrtʃər/`      | n. 游行者                |
+| bore          | `/bɔːr/`           | v. 使厌烦<br>n. 令人厌烦的人或事物 |
+| decorum       | `/dɪˈkɔːrəm/`      | n. 礼仪；得体（的举止、言辞）      |
+| blast         | `/blæst/`          | n. 爆炸；强风<br>v. 爆破     |
+| blaster       | `/ˈblɑːstə/`       | n. 爆破工；爆破器            |
+| musk          | `/mʌsk/`           | n. 麝香；麝香动物            |
+| ethos         | `/ˈiːθɑːs/`        | n. 精神；气质              |
+| ethic         | `/ˈeθɪk/`          | n. 伦理学；道德             |
+| martyr        | `/ˈmɑːrtər/`       | n. 烈士；殉道者             |
+| give          | `/ɡɪv/`            | v. 给；提供；让步            |
+| giver         | `/ˈɡɪvər/`         | n. 给予者；赠送者            |
+
+
+
+
+
+
+
 
 
 
